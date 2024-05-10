@@ -1,6 +1,6 @@
 {
   "start_time": 1684245172,
-  "end_time": 1684245172,
+  "end_time": 1684256184,
   "status": "Encerrada (Final)",
   "title": "COMISSÃO DE SEGURANÇA PÚBLICA E COMBATE AO CRIME ORGANIZADO",
   "description": "Discussão e votação de propostas legislativas",
@@ -283,7 +283,7 @@
       "duration": 0,
       "transcription": "",
       "speaker": {
-        "name": "Sanderson",
+        "name": "Sargento Gonçalves",
         "position": "Deputado"
       }
     },
@@ -1590,5 +1590,6 @@
         "position": "Deputado"
       }
     }
-  ]
+  ],
+  "updated_at": 1715351988
 }

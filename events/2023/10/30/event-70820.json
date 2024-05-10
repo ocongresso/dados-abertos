@@ -1,6 +1,6 @@
 {
   "start_time": 1698624000,
-  "end_time": 1698624000,
+  "end_time": 1698667420,
   "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
   "description": "30/10/2023 - Modelo da Câmara dos Deputados de Preservação Digital",
   "speeches": [
@@ -497,6 +497,7 @@
       "start_time": 1698666524,
       "duration": 10,
       "transcription": "Não. Não digitalmente não tem. Tanto que temos documentos, vídeos de cinco giga, que a gente coloca num num mesmo",
+      "summary": " Servidor da Câmara transfere 5 GB de áudio para suporte físico devido a falta de armazenamento digital.",
       "speaker": {
         "name": "FREDERICO SILVEIRA DOS SANTOS",
         "position": "Servidor da Cãmara dos Deputados"
@@ -560,5 +561,6 @@
         "position": "Chefe da Seção de Gestão de Documentos Digitais Consolidados"
       }
     }
-  ]
+  ],
+  "updated_at": 1715345152
 }

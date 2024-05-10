@@ -1,6 +1,6 @@
 {
   "start_time": 1700653364,
-  "end_time": 1700653364,
+  "end_time": 1700656560,
   "status": "Encerrada (Final)",
   "title": "COMISSÃO DE RELAÇÕES EXTERIORES E DE DEFESA NACIONAL",
   "description": "Discussão e votação de propostas legislativas",
@@ -61,8 +61,8 @@
       "duration": 0,
       "transcription": "",
       "speaker": {
-        "name": "Em processo de votação",
-        "position": ""
+        "name": "Arlindo Chinaglia",
+        "position": "Deputado"
       }
     },
     {
@@ -533,5 +533,6 @@
         "position": "Deputado"
       }
     }
-  ]
+  ],
+  "updated_at": 1715353928
 }

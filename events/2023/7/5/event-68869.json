@@ -1,6 +1,6 @@
 {
   "start_time": 1688552880,
-  "end_time": 1688552880,
+  "end_time": 1688559600,
   "status": "Encerrada",
   "title": "CN",
   "description": "Destinada a comemorar o Bicentenário da Independência da Bahia.",
@@ -372,5 +372,6 @@
         "position": "Participante"
       }
     }
-  ]
+  ],
+  "updated_at": 1709547770
 }

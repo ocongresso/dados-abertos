@@ -1,6 +1,6 @@
 {
   "start_time": 1701820800,
-  "end_time": 1701820800,
+  "end_time": 1701885315,
   "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
   "description": "06/12/2023 - IST, HIV/AIDS e Hepatites Virais",
   "speeches": [
@@ -84,6 +84,7 @@
       "start_time": 1701877064,
       "duration": 14,
       "transcription": "E já convidar a Carla Diana também pra fazer uso da palavra representando a articulação nacional de luta contra a AIDS. Oi.",
+      "summary": " Convida ativista Carla Diana a falar sobre lutra contra AIDS.",
       "speaker": {
         "name": "Michel Platini",
         "position": "Secretário Executivo da Frente Parlamentar Mista de Enfrentamento a IST/HIV/AIDS e Hepatites Virais"
@@ -399,5 +400,6 @@
         "position": "Secretário Executivo da Frente Parlamentar Mista de Enfrentamento a IST/HIV/AIDS e Hepatites Virais"
       }
     }
-  ]
+  ],
+  "updated_at": 1715345572
 }
