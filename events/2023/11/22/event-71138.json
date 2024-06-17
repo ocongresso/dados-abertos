@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     }
   ],

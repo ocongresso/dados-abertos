@@ -14,7 +14,8 @@
       "speaker": {
         "id": 80815,
         "name": "Léo Prates",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leo-prates"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Leo Prates -- por Participante -- Maria Arraes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-leo-prates-por-participante-maria-arraes"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 0,
         "name": "CLÓVIS FERNANDES D. RAMALHO",
-        "position": "Secretário-Executivo - Defesa Civil do Estado de Pernambuco"
+        "position": "Secretário-Executivo - Defesa Civil do Estado de Pernambuco",
+        "slug": "clovis-fernandes-d-ramalho"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 0,
         "name": "DIOGO BEZERRA",
-        "position": "Secretário de Recursos Hídricos e Saneamento - Estado de Pernambuco"
+        "position": "Secretário de Recursos Hídricos e Saneamento - Estado de Pernambuco",
+        "slug": "diogo-bezerra"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 0,
         "name": "FRANCISCO SENA",
-        "position": "Secretário Executivo de Desenvolvimento Urbano"
+        "position": "Secretário Executivo de Desenvolvimento Urbano",
+        "slug": "francisco-sena"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 0,
         "name": "RISOLANE OLIVEIRA",
-        "position": "Coordenadora do Grupo Inovar - Central Única das Favelas PE"
+        "position": "Coordenadora do Grupo Inovar - Central Única das Favelas PE",
+        "slug": "risolane-oliveira"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 0,
         "name": "JADSON DA CONSTRUÇÃO",
-        "position": "Liderança Comunitária - Município de Jaboatão dos Guararapes - PE"
+        "position": "Liderança Comunitária - Município de Jaboatão dos Guararapes - PE",
+        "slug": "jadson-da-construcao"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 0,
         "name": "SANDRA EUNICE BARBOSA DOS ANJOS",
-        "position": "Conselheira Tutelar e Coordenadora - Projeto Multiplica Coqueiral"
+        "position": "Conselheira Tutelar e Coordenadora - Projeto Multiplica Coqueiral",
+        "slug": "sandra-eunice-barbosa-dos-anjos"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 0,
         "name": "SUZANA MONTENEGRO",
-        "position": "Diretora-Presidente - Agência Pernambucana de Águas e Clima"
+        "position": "Diretora-Presidente - Agência Pernambucana de Águas e Clima",
+        "slug": "suzana-montenegro"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 0,
         "name": "SUZANA MONTENEGRO",
-        "position": "Diretora-Presidente - Agência Pernambucana de Águas e Clima"
+        "position": "Diretora-Presidente - Agência Pernambucana de Águas e Clima",
+        "slug": "suzana-montenegro"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 0,
         "name": "MARCELO ASFORA",
-        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco"
+        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco",
+        "slug": "marcelo-asfora"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 0,
         "name": "MARCELO ASFORA",
-        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco"
+        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco",
+        "slug": "marcelo-asfora"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 0,
         "name": "MARCELO ASFORA",
-        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco"
+        "position": "Secretário Executivo da Secretaria de Recursos Hídricos de Pernanbuco",
+        "slug": "marcelo-asfora"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 220665,
         "name": "Clarissa Tércio",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "clarissa-tercio"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     }
   ],

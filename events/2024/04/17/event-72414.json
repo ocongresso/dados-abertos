@@ -14,7 +14,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Votação iniciada seguindo acordo e indicação de candidatos para presidente e vice-presidente. Instruções dadas sobre votação eletrônica, com confirmação final para validar voto. Vencedor precisa maioria absoluta ou maioria simples em segundo escrutínio, com desempate por idade e número de legislaturas. Composição atual da comissão mantida durante votação. Aguardo do resultado final após encerramento da votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Novo presidente eleito Rafael Simões, vice Tiago, deputado Tiago Flores como vice-presidente, todos do partido republicano. Convite à posse de Rafael Simões como presidente da subcomissão de leite.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "E agora?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Leão -- por Participante -- Rafael Simoes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-leao-por-participante-rafael-simoes"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 220597,
         "name": "Thiago Flores",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-flores"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 220687,
         "name": "Márcio Honaiser",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-honaiser"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     }
   ],

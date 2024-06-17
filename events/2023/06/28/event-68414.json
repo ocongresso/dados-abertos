@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Representante - Alianima, do grupo Ariane, defende direitos animais de produção, sistemas alimentares justos, e bem-estar animal como ciência crescente, conectada a 11 Objectivos de Desenvolvimento Sustentável. Destacam resistência a antibióticos, zoonoses, transparência industrial e consciência do consumidor.",
       "speaker": {
         "name": "Patrycia Sato",
-        "position": "Representante - Alianima"
+        "position": "Representante - Alianima",
+        "slug": "patrycia-sato"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Representantee - Welfare Footprint Project discutiu impacto pessoal, saúde global e risco de pandemias com ênfase em epidemiologia.",
       "speaker": {
         "name": "Cynthia Shuck",
-        "position": "Representantee - Welfare Footprint Project"
+        "position": "Representantee - Welfare Footprint Project",
+        "slug": "cynthia-shuck"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Doutores discutem zoonoses, emergência de novas doenças e risco de pandemias, relacionados à produção industrial animal de aves e porcos, condições de criação e seleção genética que afetam a imunidade desses animais, estressando a facilitação da transmissão de patógenos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -73,7 +78,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Representante - Proteção Animal Mundial discute antibióticos em produção suína: a organização, internacional e presente no Brasil, promove bem-estar animal há 50 anos; estudo local sobre resistência bacteriana em água e solo próximos a fazendas porinas; uso excessivo de antibióticos leva a resistência e compromete saúde humana; propõe políticas para uso responsável de antibióticos, bem-estar animal e diversificação de proteínas.",
       "speaker": {
         "name": "Karina Ishida",
-        "position": "Representante - Proteção Animal Mundial"
+        "position": "Representante - Proteção Animal Mundial",
+        "slug": "karina-ishida"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Representante do Instituto Brasileiro de Defesa do Consumidor discutiu greenwashing em sistemas alimentares, fornecendo definição, exemplos, evidências e recomendações. IDEC identificou greenwashing em muitos produtos e propõe regulamentação federal e melhor monitoramento no Brasil. Greenwashing engana consumidores sobre práticas sustentáveis.",
       "speaker": {
         "name": "Rafael Arantes",
-        "position": "Representante - Instituto Brasileiro de Defesa do Consumidor"
+        "position": "Representante - Instituto Brasileiro de Defesa do Consumidor",
+        "slug": "rafael-arantes"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Representante - Raiar Orgânicos discute importância de proteínas orgânicas; destaca a necessidade de transparência e regulação no setor; promove produção de ovos orgânicos sem antibióticos, priorizando bem-estar animal e sustentabilidade.",
       "speaker": {
         "name": "Luis Barbieri",
-        "position": "Representante - Raiar Orgânicos"
+        "position": "Representante - Raiar Orgânicos",
+        "slug": "luis-barbieri"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Lançamento do Plano Safra para agricultura familiar e aumento de investimentos nesta área. Ênfase na diversidade na natureza e agricultura familiar, que fornece 70% dos alimentos no Brasil. Referência à resolução da ONU sobre soluções baseadas na natureza. Discussão sobre interdependência entre perda de biodiversidade, poluição, mudanças climáticas, desertificação, degradação do solo, saúde humana e integridade de ecossistemas.",
       "speaker": {
         "name": "Vanessa Negrini",
-        "position": "Diretora - Ministério do Meio Ambiente e Mudança do Clima"
+        "position": "Diretora - Ministério do Meio Ambiente e Mudança do Clima",
+        "slug": "vanessa-negrini"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "A Diretora do Ministério do Meio Ambiente e Mudança do Clima destacou a ligação entre exploração predatória do ambiente e doenças humanas; reconhecimento da ONU sobre o papel do bem-estar animal no enfrentamento de desafios ambientais; necessidade de equilíbrio entre desenvolvimento humano e sustentabilidade; impactos negativos das práticas que violam os direitos dos animais; importância da biodiversidade e promoção do bem-estar animal como parte essencial do consumo sustentável.",
       "speaker": {
         "name": "Vanessa Negrini",
-        "position": "Diretora - Ministério do Meio Ambiente e Mudança do Clima"
+        "position": "Diretora - Ministério do Meio Ambiente e Mudança do Clima",
+        "slug": "vanessa-negrini"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

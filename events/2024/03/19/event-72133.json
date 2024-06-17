@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Início de votação, pedido de licença para votar, opção de falar antes do encerramento da votação, presença da vice-presidente.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -58,7 +62,8 @@
       "transcription": "Voto no painel",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     }
   ],

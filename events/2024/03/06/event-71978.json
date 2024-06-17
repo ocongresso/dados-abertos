@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Início votação com ampliação de quórum; líder fala, prestação de contas, parlamentares se manifestam; votação continua aberta durante discursos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204560,
         "name": "Adolfo Viana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "adolfo-viana"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -156,7 +168,8 @@
       "summary": " Deputado Lucas eleito com 25 votos, parabéns e boa sorte na presidência da comissão.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -166,7 +179,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Paulo Alexandre Barbosa -- por Participante -- Lucas Redecker",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-paulo-alexandre-barbosa-por-participante-lucas-redecker"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 73433,
         "name": "Arlindo Chinaglia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arlindo-chinaglia"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     }
   ],

@@ -13,7 +13,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Por favor, fizemos isso, ano passado, uma guerra danada, mas, afinal, Deus nada, mas, afinal, Deus",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Celso Russomanno -- por Participante -- Jorge Braz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-celso-russomanno-por-participante-jorge-braz"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jorge Braz -- por Participante -- Fabio Schiochet",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jorge-braz-por-participante-fabio-schiochet"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 226179,
         "name": "Gisela Simona",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gisela-simona"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     }
   ],

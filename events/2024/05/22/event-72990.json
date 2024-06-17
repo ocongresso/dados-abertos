@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Abre reunião sobre prevenção de tráfico de crianças, transmitida online, com palestras limitadas a 15 minutos. Ministério Público e convidados virtuais participam. Parabéns a deputada Rogéria Santos por seu trabalho sério e competente. Rogéria assume presidência da reunião.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pastor Eurico -- por Participante -- Rogéria Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pastor-eurico-por-participante-rogeria-santos"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ FERNANDO DA SILVA",
-        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania"
+        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania",
+        "slug": "jose-fernando-da-silva"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BORTONCELLO FERREIRA",
-        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA"
+        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA",
+        "slug": "juliana-bortoncello-ferreira"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 0,
         "name": "LYS SOBRAL CARDOSO",
-        "position": "Procuradora do Trabalho - Comitê Nacional do Ministério Público de Combate ao Trabalho em Condição Análoga a de Escravo e ao Tráfico de Pessoa - Conatetrap"
+        "position": "Procuradora do Trabalho - Comitê Nacional do Ministério Público de Combate ao Trabalho em Condição Análoga a de Escravo e ao Tráfico de Pessoa - Conatetrap",
+        "slug": "lys-sobral-cardoso"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 0,
         "name": "PEDRO HENRIQUE OLIVEIRA KENNE DA SILVA",
-        "position": "Procurador da República, integrante do Grupo de Apoio ao Combate à Escravidão Contemporânea e ao Tráfico de Pessoas - GAECEC-TRAP, da 2ª Câmara de Coordenação e Revisão do MPF - Ministério Público Federal - MPF"
+        "position": "Procurador da República, integrante do Grupo de Apoio ao Combate à Escravidão Contemporânea e ao Tráfico de Pessoas - GAECEC-TRAP, da 2ª Câmara de Coordenação e Revisão do MPF - Ministério Público Federal - MPF",
+        "slug": "pedro-henrique-oliveira-kenne-da-silva"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 0,
         "name": "DIOGO ANDRADE",
-        "position": "Plateia"
+        "position": "Plateia",
+        "slug": "diogo-andrade"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BORTONCELLO FERREIRA",
-        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA"
+        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA",
+        "slug": "juliana-bortoncello-ferreira"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 0,
         "name": "ODISSEIA CARVALHO",
-        "position": "Plateia"
+        "position": "Plateia",
+        "slug": "odisseia-carvalho"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ FERNANDO DA SILVA",
-        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania"
+        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania",
+        "slug": "jose-fernando-da-silva"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ FERNANDO DA SILVA",
-        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania"
+        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania",
+        "slug": "jose-fernando-da-silva"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -264,7 +285,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ FERNANDO DA SILVA",
-        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania"
+        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania",
+        "slug": "jose-fernando-da-silva"
       }
     },
     {
@@ -276,7 +298,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -288,7 +311,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BORTONCELLO FERREIRA",
-        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA"
+        "position": "Procuradora do Trabalho e integrante do grupo de trabalho \"Exploração Sexual e Comercial de Crianças e Adolescentes -ESCCA\" da COODINFÂNCIA",
+        "slug": "juliana-bortoncello-ferreira"
       }
     },
     {
@@ -299,7 +323,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -311,7 +336,8 @@
       "speaker": {
         "id": 0,
         "name": "LYS SOBRAL CARDOSO",
-        "position": "Procuradora do Trabalho - Comitê Nacional do Ministério Público de Combate ao Trabalho em Condição Análoga a de Escravo e ao Tráfico de Pessoa - Conatetrap"
+        "position": "Procuradora do Trabalho - Comitê Nacional do Ministério Público de Combate ao Trabalho em Condição Análoga a de Escravo e ao Tráfico de Pessoa - Conatetrap",
+        "slug": "lys-sobral-cardoso"
       }
     },
     {
@@ -323,7 +349,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -335,7 +362,8 @@
       "speaker": {
         "id": 0,
         "name": "PEDRO HENRIQUE OLIVEIRA KENNE DA SILVA",
-        "position": "Procurador da República, integrante do Grupo de Apoio ao Combate à Escravidão Contemporânea e ao Tráfico de Pessoas - GAECEC-TRAP, da 2ª Câmara de Coordenação e Revisão do MPF - Ministério Público Federal - MPF"
+        "position": "Procurador da República, integrante do Grupo de Apoio ao Combate à Escravidão Contemporânea e ao Tráfico de Pessoas - GAECEC-TRAP, da 2ª Câmara de Coordenação e Revisão do MPF - Ministério Público Federal - MPF",
+        "slug": "pedro-henrique-oliveira-kenne-da-silva"
       }
     },
     {
@@ -347,7 +375,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -359,7 +388,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ FERNANDO DA SILVA",
-        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania"
+        "position": "Coordenador-Geral de Enfrentamento ao Trabalho Infantil da Secretaria Nacional dos Direitos da Criança e do Adolescente - Ministério dos Direitos Humanos e Cidadania",
+        "slug": "jose-fernando-da-silva"
       }
     },
     {
@@ -371,7 +401,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Diretor do Departamento de Infraestrutura de Dados - Secretaria de Governo Digital enfatiza discussão sobre privacidade de dados e LGPD impacto. Eles buscam serviços públicos digitais seguros, integrados e inovadores, inspirados em exemplos internacionais como UE, Índia, Coreia do Sul e Colômbia. Ânfase na privacidade e segurança, exemplificada por produto 0 Gov BR.",
       "speaker": {
         "name": "RENAN MENDES GAYA",
-        "position": "Diretor do Departamento de Infraestrutura de Dados - Secretaria de Governo Digital"
+        "position": "Diretor do Departamento de Infraestrutura de Dados - Secretaria de Governo Digital",
+        "slug": "renan-mendes-gaya"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Trago uma provocação que tem sido debate no mundo de o que há em comum aí né, pode passar mais entre uma rodovia, uma estação de tratamento de água, uma extração de distribuição de energia e o digital. Aparentemente não tem nenhuma relação, mas todas essas coisas, elas significam, pode passar por favor, infraestruturas públicas. E o que é uma infraestrutura pública. Segundo documento criado este ano, no âmbito do G vinte, presidido pela Índia em dois mil e vinte e três, seria aí esse conjunto de sistemas compartilhado de seguros interoperáveis, com especificações abertas ou proprietárias, pra prover serviços públicos e privados em larga escala, com modelos legais, eliminando abordagem por silos e com impacto no desenvolvimento dos objetivos sustentáveis. Qual que é o 0 lance aqui que eu queria destacar? É olhar o digital de uma forma como uma infraestrutura pública do país. Então uma rodovia ela não tem fim em si próprio, a rodovia serve para transportar pessoas, mercadorias, a energia não tem fim em si próprio, ela serve pra ligar os né equipamentos eletrônicos, domésticos e assim sucessivamente. E o digital tem sido encarado, também como uma infraestrutura do país, uma infraestrutura de cidadania e uma infraestrutura, não estou falando aqui só de conexão acesso à internet, a infraestrutura do ponto de vista físico somente, é a infraestrutura do ponto de vista de softwares, de plataformas, de regras, de normas a lei geral de proteção de dados é uma dessas infraestruturas importantes pro funcionamento do país, então uma uma uma nova forma de encarar o digital como sendo uma infraestrutura. É conceito abstrato, mas que a gente consegue materializar ali muito fácil facilmente em categorias, né, do que se chama de a sigla em inglês. Então, uma identidade, e quando eu falo uma identidade no mundo digital, ela é basilar, ela é fundamental, qualquer relação que você vai ter com uma empresa você precisa se identificar, a empresa precisa saber com quem ela está conversando. Pagamentos aqui eu posso citar o exemplo do PIX, né, a revolução que o PIX trouxe pra nossa economia, eu sempre falo do PIX, eu lembro do pipoqueiro, né, você consegue hoje comprar coisas, o 0 pipoqueiro não tinha histórico de de transação, o pipoqueiro não conseguia chegar no banco e pedir empréstimo, não conseguia comprovar nenhum tipo de histórico de renda, ele não conseguia fazer gestão dos seus, das suas receitas. E muita gente deixava de comprar pipoca porque não tinha dinheiro físico, então o digital chegou o PIX né, pra revolucionar a forma como a economia funciona, e a gente conseguiu aí mais de quarenta milhões, por exemplo, que não tinham acesso a serviços bancários serem inseridas nesse ambiente por causa de uma infraestrutura pública digital chamada PIX. E nesse contexto de infraestrutura, o compartilhamento de dados, diverso sobretudo os pessoais, baseado obviamente em toda a a legislação, também é visto como uma infraestrutura pública, porque a gente, qualquer serviço que a gente acessa hoje, a gente já passa as nossas informações, a gente já passa, eu vou citar aqui alguns exemplos, e portanto, o compartilhamento pode vir a ser outro paradigma. Deixa eu passar por favor. E o impacto disso né, na nos objetivos de desenvolvimento estratégico. Aqui pode passar eu vou, por conta do tempo aqui, existem estudos que que demonstram impacto dos dados na melhoria dos serviços, na economia, na redução de custos, tem uma série de de dados aqui, as referências estão todas depois quem tiver interesse, todo esse material vai ser disponibilizado, são referências nacionais nacionais, esse é link da da União Europeia, pode passar. Eu quero me concentrar aqui em situações reais, dia a dia né, vamos falar, parar de falar de conceito e vamos pro pra prática. Hoje por exemplo, quando você vai alugar carro, como é que é o processo aí? Você se identifica, e aquela empresa ela precisa saber se você tem habilitação pra dirigir aquele carro, numa determinada categoria de carro que você está alugando, num período que você deseja alugar. E esse processo hoje muitas vezes, pode passar mais por favor, a gente entrega a nossa carteira nacional de habilitação, a empresa pega aquele documento, escaneia, tira uma xerox, guarda, fica com uma cópia daquele documento inteiro, ela pode usar aquilo depois para abrir banco digital por exemplo, e você não tem nenhuma rastreabilidade sobre o que que ela faz com aquilo, se esquece quem com pra quem você já deu esse documento, como é que ele está sendo armazenado. Sendo que na verdade ela precisaria saber, ela obtém dados que não precisava, o nome da sua mãe, não é interessante pra ela, nem a sua idade, o que é se você tem habilitação pra dirigir, você pode dezesseis anos e ter habilitação pra dirigir, então nem a idade é importante aqui, mas a empresa fica com uma série de dados e com uma cópia de seu documento desnecessariamente, sendo que ela precisaria saber simplesmente de duas respostas, seu CPF e seu nome, para te identificar, e se você pode ou não dirigir naquela categoria naquele período, apenas sim e não seriam suficientes pra esse caso aqui. Pode passar outro cenário similar pra sair aqui da questão do trânsito somente e a obtenção de crédito, você vai num banco, muitas vezes você entrega o seu imposto de renda completo pro banco. Monte de informação que o banco sempre que na verdade ele precisa saber novamente quem você é, e se a sua faixa de renda está ali, por exemplo, entre cinco mil e oito mil reais pra saber o nível de risco e saber o quanto de crédito ela vai te conceder. Então novamente são mais dados que já são informados atualmente, isso já é processo mesmo antes do digital, e que traz aí algum alguns elementos. E a gente poderia fazer esse compartilhamento de uma forma mais ágil. Pode passar mais por favor. E assim, trouxe esses dois exemplos pra entrar pouco no detalhe mas existem várias outras coisas nesse mesmo sentido, a cidade não precisa apresentar certidão negativa de débito, certidão de de de de serviço militar, certificação negativa de débito trabalhar, comprovante de endereço e assim sucessivamente são n documentos que a gente e n formulários, cada formulário, cada documento, é dado que você está passando pra uma outra e empresa. E muitos desses dados, muitos dessas são dessas certidões são metidas por quem? Pelo próprio governo. O governo é o garantidor daquela formação, é o governo que emite aquele documento. E aí quando você faz isso num processo manual, físico muitas vezes, traz aqui alguns elementos, então o cidadão tem o custo, de obter todos esses documentos, de passar toda essa informação para a empresa, e a empresa também tem custo, porque ela pega esse documento e ela faz uma validação para saber se esse documento é verídico, ou se aquilo ali é uma fraude, então cada certidão que ela recebe, ela tem processo de alguém pegar aquela certidão e fazer uma validação pra saber se aquela certidão de fato é correta. Se aquela informação for submetida diretamente no governo, todo o controle do cidadão e todos os requisitos que a lei geral de proteção de dados traz, a gente teria alguns benefícios. Então para o cidadão, ele passaria, né, a a minimizar os dados como eu citei nos exemplos, passaria a ter compartilhamento apenas de sim e não ao invés de entregar documento completo, rastreabilidade e transparência, então ele sabe exatamente qual empresa consultor pra, né, aquilo fica registrado digitalmente, ele pode acessar aquilo como histórico e e fazer controle sobre quais empresas têm os dados, para quais finalidades que aquilo foi utilizado, é bem mais simples, né, em vez de pegar monte de documento pra encher monte de formulário, bem mais simples por exemplo dá consentimento pra que aquela empresa busca aquelas informações específicas pra aquela finalidade específica naquele tempo específico, e ele dá às vezes num clique poderia ser possível. E pra empresa também traz uma série de benefícios, redução de custos, redução de fraude porque não é mais gente pessoalmente que vai ter que validar, ele já vai obter aquela informação na fonte oficial. Vai ganhar a insatisfação do serviço e competitividade e melhoria da economia e todo o impacto social que isso pode causar. E isso que eu falei não é uma uma coisa do outro mundo, a gente tem exemplos concretos hoje, tanto no país quanto internacionalmente como por exemplo Open Finance, tem ali as as quatro fases, vamos pegar a segunda fase ali, compartilhando menos de dados do consumidor. Hoje é possível você compartilhar o seu dado de banco com o outro, de seus cadastros, transações em contas, ou seja, tudo que você está comprando, e isso é bastante relevante né, imagina alguém saber tudo que você está comprando, você pode transferir esses dados todos de de banco para o outro. E a gente, né, esse é assunto Open Finance começou no Reino Unido, o Brasil já já tem, a Índia já tem, Estados Unidos está discutindo agora a criação do do lá, pode passar por favor. Também a a Índia, né, tem dentro do engestec, esse mecanismo de fazer consentimento, de fazer o compartilhamento de dados muito forte no setor financeiro, expandindo agora pra outros, outros setores, isso já é uma realidade há dois anos na na Índia, pode passar. E a União Europeia como todo, na sua estratégia de dados, trata dessa questão do dataflow né do fluxo da fluência dos dados do do trânsito dos dados, pode passar mais e eles estão exatamente discutindo compartilhamento de dados por setores como o setor da saúde, setor da agricultura, setor financeiro, exatamente criar mini ecossistemas e trânsito certamente seria mini ecossistema, porque existe conjunto de empresas, que têm necessidade de troca de dados. E se a gente coloca o cidadão no centro disso para que ele possa ter controle, rastreabilidade, simplicidade, a gente entende que isso é é possível desde que respeitado todas as regras naturalmente de proteção e privacidade. Pode passar por favor? Então aqui, né indo aqui pro pro final da minha fala, existe equilíbrio a LGPD acho que foi muito feliz nesses dois conceitos, ela trouxe o conceito da autodeterminação informativa, que é a liberdade do cidadão e o direito de propriedade sobre o dado, o direito titularidade né, o cidadão ele passa a ser o titular daquele dado, e e aquele dado pertence ao cidadão, e ele tem a sua autodeterminação informativo, ele tem a liberdade de usar aquele dado da forma como ele quer. Se você quiser pegar o seu imposto de renda e disponibilizar na internet você tem esse dica. Consigo concluir deputado mas, acho que uns três minutos vai ser suficiente? Fique à vontade. Obrigado. Mas por outro lado, seria muito cômodo, né, a gente pegar aquela informação e dizer, o cidadão é que faz o que ele quiser com o dado dele, eu não tenho nada a ver com isso, não, a LGPD pode voltar por favor, a LGPD traz, pode voltar na verdade. A IGPD traz obrigações pro controlador. Então é como a música, a música ela é de autor, ela pertence a autor, mas quando você tem ela no seu pendrive, você tem uma cópia daquela música, então você tem o direito de ouvir aquela música, mas você não pode vender aquela música. Então a mesma coisa é o dado, o cidadão ele tem o dado, mas as empresas ficam em posse daquele dado, então elas podem usar aquele dado para determinada sinalidade, mas não podem vendêlo por exemplo, tal qual é a música. Então, a LGPD trouxe por outro lado obrigações daquele que armazena, daquele que controla aquele então dado é do cidadão, mas o controlador tem a sua responsabilidade, então não posso sair fazer, fazendo qualquer coisa com aquele dado, LGPD traz uma série e a NPD tem desenvolvido nos últimos anos regulamentações, debates e aprofundando isso. E a gente precisa equilibrar essas duas coisas, dá nem para dizer que o cidadão faz o que ele quiser com o dado, e também não dá pra eu proibir o cidadão de fazer, tomar decisões porque o dado é dele, só preciso cumprir as minhas obrigações, cuidar daquele dado, e esse equilíbrio é o que a gente entende que precisa fazer parte do debate. Esse equilíbrio ele não é fácil de ser definido, existem n questões e riscos envolvidos que precisam ser endereçados, e que eu acho que o debate vai ajustar, vai vai vai ser capaz de equilibrar essas duas coisas de forma que a gente via, consiga viabilizar o compartilhamento de dados como uma infraestrutura pública pro país. E tenha impactos como, por exemplo, o PIX trouxe pra economia. Pode passar aqui, pode concluir esses esses slide por favor, que era só, não vou ter tempo de entrar em todos esses detalhes, pode passar esse slide todo, ele tem vários outros cliques. Isso pode passar mais Aqui acho que alguns elementos importantes que precisam ser endereçados, entrando detalhando pouquinho isso assim. Será que qualquer empresa pode acessar qualquer dado? A gente entende que não, então, uma padaria poderia acessar o dado sobre o seu exame de sangue? Parece que não fazia o menor sentido, então uma das coisas que a gente entende que deveria preceder essa discussão, é o que a gente tem chamado de credenciamento, que é você definir, pra aquele dado, que tipo de empresa faz sentido acessar aquele dado. Então uma CNH faz sentido uma locadora de veículos acessar a sua permissão pra dirigir, mas talvez uma padaria, não precisa saber se você pode dirigir carro, caminhão ou moto, então tem que ter uma avaliação prévia de qual empresa pode acessar qual dado. Conssentimento nesse caso parece ser uma das hipóteses da LGPD basta, existem outras que também seriam aplicáveis, mas essa, digamos assim, a mais elementar de todas em que o cidadão, no interesse dele, quando interagindo com uma ente privado ou público, ele possa tomar a decisão sobre quais dados de fato e pra quais finalidades ele possa fazer essa avaliação prévia, pra que de fato o compartilhamento aconteça, uma questão de transparência. A qualquer tempo o cidadão pode, até por força da LGPD revogar qualquer autorização que ele tenha dado previamente, e também que ele possa acompanhar, né existem países hoje como a Stone que tem o datatracker que é você conseguir acompanhar quais usos estão sendo feitos sobre os seus dados pessoais, e a gente pode construir algo nesse sentido também aqui no no país, pode passar. Finalizando essa gestão da privacidade é assunto que está em discussão, então as características do governo digital têm estudado o assunto, como tentei apresentar aqui pra vocês quais são as tendências mundiais, qual o impacto que isso traz na vida do cidadão. EEE tentando criar uma plataforma, provavelmente usando o próprio Govbr como local central que o cidadão possa fazer essa gestão de dados, pra que não haja também uma disseminação de aplicativos e de plataformas que o cidadão tem que interagir com duzentos órgãos pra poder acompanhar os seus dados, a ideia é que por meio do Govberg que já está em cento e cinquenta e cinco milhões de de na na mão de cinquenta e cinco milhões de cidadão ele possa ali ser local central onde ele possa de fato acompanhar quais o que que está sendo feito com os dados dele, e decidir pelos compartilhamentos desde que é atendido todos aqueles requisitos que eu falei. Então o debate tem que passar na nossa visão, por quais dados podem e quais não podem, então também acreditamos que não é todo o tipo de dado que pode ser compartilhado. Quem pode acessar aqueles dados, pra quais finalidades, em que condições de segurança, de privacidade, o que que deve ser atendido para que uma uma empresa acesse aquele dado, quando, então não é eternamente por período, uma semana, mês, uma vez só, e por quanto tempo ela pode ficar com aquela informação. Então, esses são debates que a gente tem tem discutido dentro da ESG com alguns órgãos, não existe hoje posicionamento, esse é assunto pouco regulado ainda, existe uma norma que defina a LGPD traz elementos, mas é necessário detalhamento da dessa norma, então, o debate está em aberto, não existe uma uma posição fechada, mas as secretarias de governo digital acredita ser possível compartilhamento de dados baseado em consentimento seguindo as tendências internacionais, ao mesmo tempo que a gente consiga cumprir e proteger o cidadão, de todos os e e dar a ele todos os direitos e prerrogativas que lhes são confiadas pela pela legislação. É isso, agradeço mais uma vez o convite estou à disposição pro debate pra essa construção conjunta",
       "speaker": {
         "name": "RENAN MENDES GAYA",
-        "position": "Diretor do Departamento de Infraestrutura de Dados - Secretaria de Governo Digital"
+        "position": "Diretor do Departamento de Infraestrutura de Dados - Secretaria de Governo Digital",
+        "slug": "renan-mendes-gaya"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Secretário Nacional de Trânsito discute serviços digitais no trânsito, integrando dados e protegendo dados sensíveis. Cria grupo de trabalho para ajustar termos de acesso e verificar vulnerabilidades. Colabora com Serpro e Secretaria de Governo Digital para consolidar consentimento do cidadão no controle de uso de dados pessoais. Revisará processo de concessão de dados de acordo com LGPD e propõe grupo de trabalho para ouvir setor e construir soluções.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Segundo o Secretário Nacional de Trânsito, atual normas sobre segurança no transporte considera-se insuficiente, portanto, determinou criação de grupo de trabalho para revisão das normas e, temporariamente, suspendeu novos acessos.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Secretário Nacional de Trânsito refere procedimento para denúncias, se mais grave, envolve crime, órgãos de controle externo são acionados.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Segundo o Secretário Nacional de Trânsito, é importante abordar casos específicos de trânsito.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Directory of Regulation, Fiscalization and Management - Ministry of Transportation highlights the importance of biometria handled by RENACH, not compromised by CNH selfie biometria issue. Fraud related to CNH occurred in other services, not a data leak from RENACH. Biometric data collected for CNH comes from Senatran.",
       "speaker": {
         "name": "BASÍLIO MILITANI NETO",
-        "position": "Diretor de Regulação, Fiscalização e Gestão - ministério dos Transportes"
+        "position": "Diretor de Regulação, Fiscalização e Gestão - ministério dos Transportes",
+        "slug": "basilio-militani-neto"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Serviços de trânsito manipulam dados sensíveis; importance de revisá-los, de acordo com o Secretário Nacional de Trânsito. Não há número fornecido.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Diretor de Regulação, Fiscalização e Gestão - ministério dos Transportes: revisão do nome do regulador necessária para maior controle de dados, agora relacionamento mais direto com DETRANS, número exato desses órgãos em revisão.",
       "speaker": {
         "name": "BASÍLIO MILITANI NETO",
-        "position": "Diretor de Regulação, Fiscalização e Gestão - ministério dos Transportes"
+        "position": "Diretor de Regulação, Fiscalização e Gestão - ministério dos Transportes",
+        "slug": "basilio-militani-neto"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Segundo o Secretário Nacional de Trânsito, é importante abordar a atualização da portaria de 2022, pois ela já está desatualizada e há demandas do setor de DETRAN por meio da sociedade. Sugestão de incluir tema no GT para ouvir o setor.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -266,7 +288,8 @@
       "summary": "Segundo o Secretário Nacional de Trânsito, é necessária uma revisão aprofundada de todos os serviços, com foco em melhorar a conformidade com a LGPD. Reconhece-se a necessidade de consenso sobre a LGPD, apesar das controvérsias, e a Senatran centralizará esses esforços para aprimorar o acesso adequado a dados na LGPD.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito"
+        "position": "Secretário Nacional de Trânsito - Secretaria Nacional de Trânsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -288,7 +312,8 @@
       "transcription": "Aqui, as próximas perguntas.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Kiko Celeguim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-kiko-celeguim"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -311,7 +337,8 @@
       "summary": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados destaca importância de proteger dados pessoais, garantindo direitos fundamentais e eficácia da LGPD. Ênfase em adequada utilização de dados, prevenção de abusos, resposta a incidentes, promoção de desenvolvimento econômico. Ação prioriza benefício à sociedade e cidadão, utilizando orientação, prevenção e repressão como ferramentas.",
       "speaker": {
         "name": "FABRÍCIO LOPES MADRUGA",
-        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados"
+        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados",
+        "slug": "fabricio-lopes-madruga"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -334,7 +362,8 @@
       "summary": "Adequação LGPD é processo contínuo, não um projeto final;",
       "speaker": {
         "name": "FABRÍCIO LOPES MADRUGA",
-        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados"
+        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados",
+        "slug": "fabricio-lopes-madruga"
       }
     },
     {
@@ -345,7 +374,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -356,7 +386,8 @@
       "summary": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados informou sobre denúncias recebidas e empresas sendo investigadas quanto ao uso de dados por agregadores, afirmando que este assunto é prioridade da autoridade. Processo complexo.",
       "speaker": {
         "name": "FABRÍCIO LOPES MADRUGA",
-        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados"
+        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados",
+        "slug": "fabricio-lopes-madruga"
       }
     },
     {
@@ -368,7 +399,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -379,7 +411,8 @@
       "summary": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados informou sobre o apoio recebido do Senado Federal para recebimento de recursos para a ANPD.",
       "speaker": {
         "name": "FABRÍCIO LOPES MADRUGA",
-        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados"
+        "position": "Coordenador-Geral de Fiscalização - Autoridade Nacional de Proteção de Dados",
+        "slug": "fabricio-lopes-madruga"
       }
     },
     {
@@ -391,7 +424,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -402,7 +436,8 @@
       "summary": "Serpro, maior empresa pública de tecnologia, fornece soluções para Estado brasileiro com equipe especializada em proteção de dados. Oferece soluções seguras para transações e cidadania no Senatran/DETRAN. Diretor jurídico disponível para discussão sobre proteção e uso de dados por órgãos públicos.",
       "speaker": {
         "name": "ALEXANDRE MAIMONI",
-        "position": "Diretor jurídico - Serpro"
+        "position": "Diretor jurídico - Serpro",
+        "slug": "alexandre-maimoni"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -425,7 +461,8 @@
       "summary": "Diretor jurídico do Serpro focou em brevidade e objetividade em sua fala.",
       "speaker": {
         "name": "ALEXANDRE MAIMONI",
-        "position": "Diretor jurídico - Serpro"
+        "position": "Diretor jurídico - Serpro",
+        "slug": "alexandre-maimoni"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -448,7 +486,8 @@
       "summary": "Assessor Jurídico - Associação. Nac. dos Detrans agradece convocação, destaca complexidade na garantia de segurança e cumprimento de protocolos de proteção de dados pelos DETRANS. Propõe adoção de padrões de certificações internacionais e criação de grupo de trabalho com Senatran, Serpro, ANPD e Associação Nacional dos DETRANS.",
       "speaker": {
         "name": "ABNER SILVA E MELO",
-        "position": "Assessor Jurídico - Associação. Nac. dos Detrans"
+        "position": "Assessor Jurídico - Associação. Nac. dos Detrans",
+        "slug": "abner-silva-e-melo"
       }
     },
     {
@@ -460,7 +499,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     }
   ],

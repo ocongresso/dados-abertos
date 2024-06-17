@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220602,
         "name": "Dimas Gadelha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dimas-gadelha"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Encerrada a sessão a termo",
-        "position": ""
+        "position": "",
+        "slug": "encerrada-a-sessao-a-termo"
       }
     }
   ],

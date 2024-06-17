@@ -18,30 +18,33 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
       "id": 182216,
       "start_time": 1680085794,
       "duration": 1206,
-      "transcription": "Vocês vão resolver entrar com com esta pauta? Me desculpe o erro de cálculo eu eu tenho fixo vinte e dois, o senhor deve, vou abrir com número pouco maior pra não ficar muito ali na, pegar esse material pra ver o PR seis e quais são os pedidos. Pra solicitar As deputadas e os deputados que ainda não exerceram seu dia de voto que o façam. O quanto antes que daqui a alguns minutos vamos encerrar O processo de votação. Votação ao fundo na cabine. Temos mais algum deputado ou deputada em plenário que ainda não exerceu dinheiro de voto? Temos? Mais algum deputado? Deputado? Não havendo mais quem queira votar, Declaro encerrada a votação. Vamos passar agora a.",
+      "transcription": "\nVocês vão resolver entrar com com essa pauta?\n\nMe desculpe o erro de cálculo ali na\n\nhora, viu? Me perdoe.\n\nEu eu tenho fixo vinte e dois, o senhor deve, vou abrir com número pouco\n\nmaior pra não ficar muito ali, né?\n\nPegar esse material pra ver o PR seis e quais são os pedidos.\n\nPra solicitar às deputadas e os deputados que ainda não exerceram seu dia de voto que o façam, o quanto antes que daqui a alguns minutos vamos encerrar o processo de votação. Votação ao fundo na cabine.\n\nTudo bem? Tudo bem? Tudo bem? Bem vinda.\n\nTemos mais algum deputado ou deputada em plenário que ainda não exerceu dinheiro de voto? Temos? Mais algum deputado? Deputado? Não havendo mais quem queira votar, declaro encerrada a votação.\n\nVamos passar agora a.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 182215,
       "start_time": 1680087000,
       "duration": 135,
-      "transcription": "Dos votos no painel eletrônico. Vinte e oito votos ficam eleitos Para a primeira vicepresidência deputado Flávio Nogueira. Para a segunda vicepresidência deputado general Girão Para a terceira vice presidência deputado Átila Lins com vinte e oito votos e dois votos em Branco. Para cada dos concorrentes. Tendo em vista que foi alcançado o quórum regimental pra eleição e primeiros curtinhos de votação declaro eleitos e empossados nos cargos de primeiro segundo e terceiro vicepresidentes Da Comissão de Relações Exteriores de Defesa Nacional os deputados Flávio Nogueira general Girão e Átila Lins respectivamente aos quais Parabenizo pela eleição e consultas desejam fazer uso da palavra general Girão. Deputado Flávio Nogueira e deputado Átila Lins. Então Usa a partir de agora esse essa parte de encerrar. Antes de encerrar, consulte o plenário se há consenso para aproveitamento painel de presença destas desta reunião para a próxima que se iniciará em alguns minutos. Havendo consenso, as presenças registradas nesta reunião serão automaticamente migradas para a reunião Seguinte, nada mais havendo a tratar declarou encerrada essa reunião ao tempo em que peço aos nobres pares para que permaneçam em plenário,",
-      "summary": "Eleitos deputados Flávio Nogueira, General Girão e Átila Lins para os cargos de primeiro, segundo e terceiro vice-presidentes da Comissão de Relações Exteriores e Defesa Nacional. Reunião encerrada, presenças serão transferidas para próxima sessão, a menos que haja consenso contrário.",
+      "transcription": "\nDos votos no painel eletrônico. Vinte e oito votos ficam eleitos para a primeira vicepresidência deputado Flávio Nogueira, para a segunda vicepresidência deputado general Girão, para a terceira vice presidência deputado Átila Lins com vinte e oito votos e dois votos em branco, para cada dos concorrentes. Tendo em vista que foi alcançado o quórum regimental pra eleição e primeiros curtinhos de votação declaro eleitos e empossados nos cargos de primeiro segundo e terceiro vicepresidentes da comissão de relações exteriores de defesa nacional os deputados Flávio Nogueira, general Girão e Átila Lins, respectivamente aos quais parabenizo pela eleição e consultas desejam fazer uso da palavra general Deputado Flávio Nogueira e deputado Átila Lins. Antes de encerrar, consulte o plenário se há consenso para aproveitamento do painel de presença destas desta reunião para a próxima, que se iniciará em alguns minutos. Havendo consenso, as presenças registradas nesta reunião serão automaticamente migradas para a reunião seguinte.\n\nNada mais havendo a tratar declarou encerrada essa reunião ao tempo em que peço aos nobres pares para que permaneçam em plenário pois vamos iniciar em alguns minutos a nossa reunião deliberativa.",
+      "summary": " Eleitos vice-presidentes Comissão de Relações Exteriores e Defesa Nacional: Flávio Nogueira (1º), General Girão (2º), Átila Lins (3º). Reunião encerrada, presenças para próxima sessão.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633911
 }

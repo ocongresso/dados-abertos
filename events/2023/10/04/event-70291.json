@@ -18,7 +18,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -171,7 +184,8 @@
       "summary": "Votação em andamento; Bruno Ganen faz considerações.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -183,7 +197,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -205,7 +221,8 @@
       "summary": "Fin da votação: onze votos a favor, nenhum contra; parecer aprovado por arquivamento de representação do Partido Liberal de deputado Marcon; leitura e votação do parecer deputado Paulo Magalhães e deputada Alex Manente adiadas, deputada Fernanda Melchiona apresentou defesa anteriormente e está presente na sala.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -217,7 +234,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -251,7 +271,8 @@
       "summary": "O participante agradeceu apoio a parlamentares, refletiu sobre processo político e criminalização de mulheres; lembrou lutas históricas de mulheres indígenas, negras, trabalhadoras e sindicais; mencionou desafios atuais, como violência política de gênero e desigualdade salarial; e expressou confiança no arquivamento do processo no conselho de ética.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Leur Lomanto Júnior -- por Participante -- Albuquerque",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-leur-lomanto-junior-por-participante-albuquerque"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -333,7 +360,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -345,7 +373,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -356,7 +385,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -368,7 +398,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -379,7 +410,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -390,7 +422,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -435,7 +471,8 @@
       "summary": "Votação encerrada, resultado anunciado como presidente do conselho de ética. Apenas voto de uma pessoa, decisão tomada antes do previsto.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -446,7 +483,8 @@
       "summary": "Votação encerrada. Resultado anunciado como presidência do conselho de ética. Apenas alguns votaram, mínimo cumprido.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -458,7 +496,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -468,7 +507,8 @@
       "transcription": "Leitura, discussão.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Albuquerque -- por Participante -- Bruno Ganem",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-albuquerque-por-participante-bruno-ganem"
       }
     },
     {
@@ -480,7 +520,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -492,7 +533,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -504,7 +546,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -516,7 +559,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -528,7 +572,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -540,7 +585,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     }
   ],

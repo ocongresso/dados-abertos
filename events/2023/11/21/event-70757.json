@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -78,7 +83,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -136,7 +146,8 @@
       "summary": "Deputado Estadual do Maranhão satisfeito por participar da comissão de segurança, elogia altivez deles. Critica Ministro da Justiça e Segurança Pública por desmanchar polícia civil e militar em Maranhão, e mentir para escapar debates. Considera perigoso seu possível papel no STF. Agradecimentos finais.",
       "speaker": {
         "name": "Dr. Yglésio",
-        "position": "Deputado Estadual do Maranhão"
+        "position": "Deputado Estadual do Maranhão",
+        "slug": "dr-yglesio"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -196,7 +211,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -207,7 +223,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -219,7 +236,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -231,7 +249,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -243,7 +262,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -255,7 +275,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -267,7 +288,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -279,7 +301,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -291,7 +314,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -303,7 +327,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -315,7 +340,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

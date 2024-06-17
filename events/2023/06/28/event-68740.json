@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Superintendente Substituto de Arrecadação e Fiscalização de Receitas (SAR/ANM) - Agencia Nacional de Mineração agradece convite da frente parlamentar e destaca importância de royalties da mineração para muitos municípios. Ele pede mais tempo e menciona dificuldades técnicas antes de prometer continuar agradecendo a presença dos participantes e ajudar com universidades de tecnologia.",
       "speaker": {
         "name": "Rui Alberto Carvalho Giordani",
-        "position": "Superintendente Substituto de Arrecadação e Fiscalização de Receitas (SAR/ANM) - Agencia Nacional de Mineração"
+        "position": "Superintendente Substituto de Arrecadação e Fiscalização de Receitas (SAR/ANM) - Agencia Nacional de Mineração",
+        "slug": "rui-alberto-carvalho-giordani"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Mineração fundamental para economia do Brasil em 2",
       "speaker": {
         "name": "Rui Alberto Carvalho Giordani",
-        "position": "Superintendente Substituto de Arrecadação e Fiscalização de Receitas (SAR/ANM) - Agencia Nacional de Mineração"
+        "position": "Superintendente Substituto de Arrecadação e Fiscalização de Receitas (SAR/ANM) - Agencia Nacional de Mineração",
+        "slug": "rui-alberto-carvalho-giordani"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Diretor-IBRAM apoia reivindicação ANM para recursos SEBEM em CEBEM, valoriza cooperação com mineradoras, destaca trabalho em caso de barragens, insiste em transparência, apoia CTEM tecnologia de mineração, nova economia, melhor conhecimento território brasileiro, apoia projeto lei deputado José Silva CEFEM desenvolvimento território.",
       "speaker": {
         "name": "Júlio Nery",
-        "position": "Diretor - IBRAM"
+        "position": "Diretor - IBRAM",
+        "slug": "julio-nery"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Atenção a falta de investimento na Agência Nacional de Mineração, resultando em greve dos servidores e impedindo o repasse da CEFEM. A agência precisa estar pronta para receber investimentos nos minerais críticos e na corrida por metais como lítio, cobalto, cobre e terras raras. O apoio de todos é essencial para fortalecer a agência e evitar o colapso da MMA. A ANM tem servidores talentosos, que podem ajudar o país em vários ministérios e áreas.",
       "speaker": {
         "name": "André Elias Marques",
-        "position": "Ouvidor - Agencia Nacional de Mineração"
+        "position": "Ouvidor - Agencia Nacional de Mineração",
+        "slug": "andre-elias-marques"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -120,7 +129,8 @@
       "transcription": "Ótimo. Só pra entender a dinâmica, vocês passam pra mim o slide é isso? Perfeito. Você vai.",
       "speaker": {
         "name": "Fábio Giusti de Britto",
-        "position": "Pesquisador - Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia e Inovações (MCTI) - CETEM"
+        "position": "Pesquisador - Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia e Inovações (MCTI) - CETEM",
+        "slug": "fabio-giusti-de-britto"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Pesquisador do CETEM discute estudos sobre CEFEM, enfatizando transparência e planejamento cuidadoso em distribuição de receita fiscal da mineração, particularmente em municípios produtores. Analisou leis orçamentárias de 30 municípios, classificando-os por níveis de transparência e identificando desafios, como padronização e rastreamento de receitas, além de recomendar melhorias e mecanismos de síntese.",
       "speaker": {
         "name": "Fábio Giusti de Britto",
-        "position": "Pesquisador - Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia e Inovações (MCTI) - CETEM"
+        "position": "Pesquisador - Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia e Inovações (MCTI) - CETEM",
+        "slug": "fabio-giusti-de-britto"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Professor Titular de Direito Financeiro - Universidade de São Paulo afirmou que recursos da mineração deveriam ser usados por municípios para diversificar economia e se preparar para esgotamento de minério. Lei 8.000/90 sugere 20% seja destinado a isso, mas falta obrigação clara. Projeto de lei propõe vincular desses recursos a despesas que modifiquem base econômica, garantindo mineração sustentável e transparência no uso dos fundos.",
       "speaker": {
         "name": "Fernando Facury Scaff",
-        "position": "Professor Titular de Direito Financeiro - Universidade de São Paulo"
+        "position": "Professor Titular de Direito Financeiro - Universidade de São Paulo",
+        "slug": "fernando-facury-scaff"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -187,7 +202,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Silva -- por Participante -- Prof. Paulo Fernando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-silva-por-participante-prof-paulo-fernando"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -210,7 +227,8 @@
       "summary": "Professor da Universidade de São Paulo concede breve permissão para ausência devido a compromisso às 18h em meio ao trânsito pesado, permanece à disposição e agradece.",
       "speaker": {
         "name": "Fernando Facury Scaff",
-        "position": "Professor Titular de Direito Financeiro - Universidade de São Paulo"
+        "position": "Professor Titular de Direito Financeiro - Universidade de São Paulo",
+        "slug": "fernando-facury-scaff"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "Prêmio para municípios mineradores por boas práticas em serviços públicos; parceria com ministério de Minas e Energia; estímulo ao uso de recursos da mineração em benefício da população; categorias: desenvolvimento econômico, proteção social, crescimento econômico, infraestrutura, meio ambiente, educação e saúde; avaliação por comissão de especialistas; premiação a cada dois anos, em agosto.",
       "speaker": {
         "name": "Sérgio Andrade",
-        "position": "Diretor Executivo - Agenda Pública"
+        "position": "Diretor Executivo - Agenda Pública",
+        "slug": "sergio-andrade"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Mineração impacta muitos municípios; lamenta greve na agência nacional de mineração; necessário atenção para evitar colapso; mineração importante para economia do país; sustentabilidade na mineração; municípios enfrentam desafios com questões relacionadas à mineração; defende discussão federal mais ampla sobre o assunto.",
       "speaker": {
         "name": "Rogério Moreira",
-        "position": "Representante - Associação de Municípios Mineradores de Minas Gerais e do Brasil - AMIG"
+        "position": "Representante - Associação de Municípios Mineradores de Minas Gerais e do Brasil - AMIG",
+        "slug": "rogerio-moreira"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -266,7 +288,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Prof. Paulo Fernando -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-prof-paulo-fernando-por-participante-ze-silva"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -289,7 +313,8 @@
       "summary": "Diretor Executivo - Agenda Pública apresenta publicação comparando melhorias de políticas públicas em diferentes municípios, disponibilizando-a à comissão e louvando o trabalho do deputado.",
       "speaker": {
         "name": "Sérgio Andrade",
-        "position": "Diretor Executivo - Agenda Pública"
+        "position": "Diretor Executivo - Agenda Pública",
+        "slug": "sergio-andrade"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

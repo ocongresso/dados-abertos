@@ -13,7 +13,8 @@
       "summary": "Início dos trabalhos no GT 3 sobre reforma tributária e serviços financeiros. Governo convidado a participar de todos os grupos de trabalho. Reunião da frente parlamentar após o encerramento do GT 3. Rodrigro Marinho, diretor executivo do Instituto Livre Mercado e secretário executivo da Frente Parlamentar pelo Livre Mercado, apresenta a mesa e convida os painelistas a falarem. Eles têm dez minutos, prorrogáveis por cinco minutos, para falar. A plateia pode fazer perguntas ao final.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Participante ABAC apresentou a Associação Brasileira de Administradoras de Consórcios, sua trajetória e contribuição para a indústria de consórcios. Destacou a importância dos consórcios no sistema financeiro e no setor imobiliário, com aproximadamente um imóvel em seis sendo comercializado por intermédio deles. Também mencionou a flexibilidade do sistema para financiar veículos seminovos e a necessidade de regulamentação tributária clara para administradoras de consórcios.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": "Mediador recebe urgência, pede que Fernanda fale em segundo e compartilhe informações. Tudo bem.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": "Participante Zetta representa associação de mercado financeiro, promovendo discussão sobre competição, inovação e inclusão. Reúne empresas tecnologia atuantes em setores como pagamento, crédito, câmbio. Essas empresas causaram impacto significativo na inclusão financeira e redução de custos no Brasil, com economia em tarifas alta. Banco Central importante na promoção de competição nesse setor.",
       "speaker": {
         "name": "Fernanda Garibaldi",
-        "position": "Participante Zetta"
+        "position": "Participante Zetta",
+        "slug": "fernanda-garibaldi"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": "Mediador agradece convidado da Senseg para discutir impacto de serviços financeiros no setor de seguros.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Participante CNseg defende interesses de seguros, presentes antes de fintechs; paga impostos como PIS, Cofins e IOF, cuja parte sobre prêmio será extinta. Precisa esclarecer questão de cumulatividade, considerar alíquota tributo parcela estadual e manter base de cálculo. Operações de seguro pessoas não tributam e rural deve manter isenção, tudo deve estar claro na lei complementar para evitar litígios.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": "Mediador sugere discutir imposto do destino; Diego Peres abordará problemas, incluindo tributação de tinta zero.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "A associação ABFintechs representa 700 fintechs em diferentes áreas, colaborou em iniciativas como PIX e Open Finance, e destaca a importância de acesso e competição justa em serviços financeiros, evitando assimetrias reguladoras no ambiente digital.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Participante ABFintechs"
+        "position": "Participante ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": "Mediador agradece e dá boas-vindas a Emanuel, que vai falar online. Peça a Manuel, de la força, se apresentar.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -112,7 +121,8 @@
       "summary": "Participante Lefosse discutiu tributação de serviços financeiros, apontando necessidade de definir atividades sujeitas, base de cálculo e alíquota única. Mencionou problemas da cadeia de pagamentos e responsabilização das empresas intermediárias.",
       "speaker": {
         "name": "Emmanuel Abrantes",
-        "position": "Participante Lefosse"
+        "position": "Participante Lefosse",
+        "slug": "emmanuel-abrantes"
       }
     },
     {
@@ -123,7 +133,8 @@
       "summary": "Mediador mencionou:",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -134,7 +145,8 @@
       "summary": "Sem informação confirmação impossível, apenas complementando pergunta.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -145,7 +157,8 @@
       "summary": "Participante ABAC não confirma falta de informação solicitada.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -156,7 +169,8 @@
       "summary": "Participante sugere que para localizar pessoas em um banco de dados de pagamentos, três informações são importantes: CPF, CNPJ e CEP, além do valor da operação. Ele questioning who is responsible for ensuring the accuracy of the CEP information, suggesting it could be the responsibility of the database. He also mentions the \"lei dos consórcios\", possibly referring to legislation governing the sharing of information between databases.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Participante ABAC enfatizou a separação dos papéis de consorciado, grupo e administradora como crucial para o setor. Também expressou preocupação com a tributação no destino e os possíveis custos de conformidade altos e litigiosidade fora da região, centrando-se no aumento significativo dos custos de conformidade como a principal questão a ser abordada.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -178,7 +193,8 @@
       "summary": "Empresa Senseg aborda impacto de serviços financeiros no setor de seguros, saudações e agradecimentos ao Rodrigo.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -189,7 +205,8 @@
       "summary": "Serviço prestado por administradora de consórcio, não pessoalmente.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -199,7 +216,8 @@
       "transcription": "",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -209,7 +227,8 @@
       "transcription": "O grupo vai ter uma sede, vai ter uma sede, não?",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -220,7 +239,8 @@
       "summary": "Setor de seguros afetado por serviços financeiros, Senseg participa para discutir sua visão, obrigado Rodrigo.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -231,7 +251,8 @@
       "summary": "Participante ABAC apresentou 20 grupos de trabalho abertos a qualquer pessoa interessada em participar. Destacou a importância de diversas frentes parlamentares que apoiam essa iniciativa, cobrindo grande parte do Congresso Nacional. Perguntou sobre a tributação no destino, quais soluções propõem e como abordar o problema de usuários se deslocando.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -241,7 +262,8 @@
       "transcription": "",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -251,7 +273,8 @@
       "transcription": "Administrador. Quem paga é o grupo, não olha só, o grupo",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -262,7 +285,8 @@
       "summary": "Participante propõe discussão sobre quem pagará e antecipará despesas do serviço de administração.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -272,7 +296,8 @@
       "transcription": "Consorciados eles pagam a taxa administradora. É exato. Solta, eu vou saltar tá? Está bom. Fica à vontade,",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -283,7 +308,8 @@
       "summary": "Mediador sugeriu: boa discussão, permitir que ambos falem, classificou as provocações como ótimas, e se identificou como pessoa de fé.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -294,7 +320,8 @@
       "summary": "Participante CNseg discorda com tributação atual, propõe alíquota IBS 0 e simplificação tributária. Considera necessário clarificar quem é o tomador de serviço e complicação trazida por definição do destino da operação, com possível alívio oferecido no regime constitucional. Debate importante sobre tributação.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -304,7 +331,8 @@
       "transcription": "",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -315,7 +343,8 @@
       "summary": "Participante CNseg discute imposto relacionado ao prêmio de sinistro pago por seguradora em cidade where sinistro ocorreu.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -326,7 +355,8 @@
       "summary": "Participante questiona necessity of a fiscal note when hiring an insurance company, emphasizing existence of a contract and payment of premium.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -336,7 +366,8 @@
       "transcription": "Mas eu vou ter que repassar o dinheiro pra você é ato de",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -347,7 +378,8 @@
       "summary": "Participante questioned the tributation aspect of a situation, mentioning the use of consortium and insurance, and the need to define what will be taxed, pointing out the origin issue, presumably referring to the CP.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -358,7 +390,8 @@
       "summary": "É essencial consensus em relação às receitas municipais para evitar caos, opina Participante CNseg.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -369,7 +402,8 @@
       "summary": "Participante questiona sobre propriedade de CEP pago e quer entender lógica da transação. Menciona táxis, ônibus, passagens de ônibus e avião interestaduais, e pede esclarecimento sobre destino.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -380,7 +414,8 @@
       "summary": "Consumidor adquire serviço no local de provisão, não recebimento; Participante ABAC destaca importância da distinção.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -391,7 +426,8 @@
       "summary": "Goiânia recebeu o destino, debate sobre IBS para Goiânia ou Brasília, Brasil federal como coletivo.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -402,7 +438,8 @@
       "summary": "Apenas a administradora de condomínio pode recolher impostos no município de sua sede, de acordo com Participante ABAC, exemplificando com um caso de consorciado em Fortaleza.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -413,7 +450,8 @@
       "summary": "Participante propõe sistema de arrecadação em central de compensação em vez de município, com pagamento de impostos centralizado e referência pelo CEP do contratado.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -424,7 +462,8 @@
       "summary": "Mediador sugiere disputas entre municípios sobre jurisdição de deputado, apoia idade de CPF, interessado no processo do conselho gestor.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -435,7 +474,8 @@
       "summary": "Discussão sobre conflitos estaduais sobre receitas, cada estado é responsável por resolver seus próprios conflitos, mudando de tema.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -446,7 +486,8 @@
       "summary": "Mediador: resumidamente, a discussão gira em torno da tributação distinta para fintechs em comparação com bancos tradicionais, e a liberdade é dada a Manuel para expressar sua opinião sobre essa questão. Mediador também se desculpou com alguém, sem especificar quem.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -457,7 +498,8 @@
       "summary": "Participante ABAC concorda com tributação desigual para fintechs, diferente dos bancos tradicionais e está aberto a discussão de Manuel sobre o assunto.",
       "speaker": {
         "name": "Armando Monteiro",
-        "position": "Participante ABAC"
+        "position": "Participante ABAC",
+        "slug": "armando-monteiro"
       }
     },
     {
@@ -468,7 +510,8 @@
       "summary": "Mediador propôs tributação diferenciada para fintechs, considerando custo fiscal e orçamento nacional. Discutiu tratamento igualitário para fintechs de diferentes tamanhos, impacto da pandemia no setor, e mencionou exemplos como Nubank.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -479,7 +522,8 @@
       "summary": "Participante Zetta destacou diferenças regulatórias entre instituições de pagamento e financeiras, impactando modelos de negócios e tributação. Importante compreender essas diferenças na futura legislação complementar, evitando custos desnecessários e preservando inclusão financeira.",
       "speaker": {
         "name": "Fernanda Garibaldi",
-        "position": "Participante Zetta"
+        "position": "Participante Zetta",
+        "slug": "fernanda-garibaldi"
       }
     },
     {
@@ -490,7 +534,8 @@
       "summary": "Constituição distingue financeiras e outras instituições com operações de crédito, causando desigualdade de competitividade. Lei complementar deveria igualar competitividade ou dar tratamento específico a outras instituições com atividade e riscos diferentes. Desigualdade tributária também afeta competitividade.",
       "speaker": {
         "name": "Emmanuel Abrantes",
-        "position": "Participante Lefosse"
+        "position": "Participante Lefosse",
+        "slug": "emmanuel-abrantes"
       }
     },
     {
@@ -501,7 +546,8 @@
       "summary": "Fintechs recebem \"aportes\" que se tornam moeda eletrônica, separada do patrimônio delas, a diferença dos bancos que captam \"depósitos\" em nome próprio. Fintechs não têm vantagem fiscal com contratos atrasados e enfrentam taxas de juros mais altas no mercado de capitais, o que pode dificultar sua estratégia de captação. Asassimetrias entre fintechs e bancos podem influenciar a competição, afetando a qualidade dos serviços oferecidos aos clientes.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Participante ABFintechs"
+        "position": "Participante ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -512,7 +558,8 @@
       "summary": "Necessário medidas para evitar bitributação de setores com IOF e IBS durante período de transição.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -523,7 +570,8 @@
       "summary": "Participante CNseg discutiu proposta de reduzir IOF em seguros, sugeriu fim de IOF cobrança e mencionou tributação atual com PIS, Cofins, mas expressou incerteza sobre a futura Bitributação e equalização de pesos.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -534,7 +582,8 @@
       "summary": "Participante Zetta ainda não tem posição clara sobre o assunto em discussão. Ela mencionou que algumas sugestões estão sobre a mesa e o grupo está considerando a melhor abordagem para apuração de crédito e outras deduções. Ela também informou que, infelizmente, não é possível para ela contribuir no momento.",
       "speaker": {
         "name": "Fernanda Garibaldi",
-        "position": "Participante Zetta"
+        "position": "Participante Zetta",
+        "slug": "fernanda-garibaldi"
       }
     },
     {
@@ -545,7 +594,8 @@
       "summary": "Participante ABFintechs ainda procura por uma organização que direcione a transição em questão, sem tampouco ter uma opinião pré-formada ou alternativas consolidadas para apresentar no debate. Sua intenção é buscar mais informações para formar uma opinião e lembrar a audiência sobre as \"dores\" mencionadas anteriormente.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Participante ABFintechs"
+        "position": "Participante ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -556,7 +606,8 @@
       "summary": "Mediador mencionou the importance of considering pains outlined in the complementary law, focusing on transition and destination. He emphasized that the reform in parallel groups is not sector-specific, but affects the entire productive market. He also highlighted the challenge of achieving consensus for this reform.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -567,7 +618,8 @@
       "summary": "Participante sugeriu que prioridade do grupo deve ser definir conceitos, crucial para regulamentação e evitar acumulação e bitributação em reforma tributária.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -578,7 +630,8 @@
       "summary": "Participante ABFintechs propôs manter conceitos regulatórios financeiros atuais, evitando mudanças que possam desestabilizar modelos de negócio, e sugere colaboração com regulador para continuar harmonizando e solidificando tais conceitos.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Participante ABFintechs"
+        "position": "Participante ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -589,7 +642,8 @@
       "summary": "Participante destaca a importância de debater e antecipar discussões sobre propostas, independentemente do executivo. Advoga por negociações claras sobre desejos e segurança jurídica. Alerta para a crescente independência dos parlamentares e a necessidade de preparar líderes do congresso para apresentar propostas, evitando serem \"engolidos\" pelo governo.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -600,7 +654,8 @@
       "summary": "Mediador provocou, buscando coesão.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -611,7 +666,8 @@
       "summary": "Participante deseja segurança jurídica e política de estado permanente, não afetada por mudanças de governo. Temer a falta de texto e marco legal. Participante aprendeu muito e deseja mudar cultura por meio da participação efetiva da sociedade, querendo \"botar em texto\" essas ideias.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -621,7 +677,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -631,7 +688,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fernando Diniz",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fernando-diniz"
       }
     },
     {
@@ -642,7 +700,8 @@
       "summary": "Mediador propõe tributação de receitas financeiras e sugere considerações finais para próximos passos.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -653,7 +712,8 @@
       "summary": "Participante desejou alíquota 0, mas lembrou que seguradoras já são isentas de impostos e fornecem serviços sem excessos.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -664,7 +724,8 @@
       "summary": "Reunião produtiva com poucos participantes, boas discussões e temas. Próximos passos incluem encerramento com reunião e quarta/quinta/sexta GTs. Objetivo é rapidamente produzir texto para ser consolidado em quatro leis complementares, com conceitos claros, mínimo impacto regulatório e aplicação geral.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     },
     {
@@ -675,7 +736,8 @@
       "summary": "Participante Zetta ofereceu colaboração na criação da lei complementar sobre serviços financeiros, destacando importância de novas empresas no setor e sua contribuição prática com dados e insumos técnicos. Agradeceu convite.",
       "speaker": {
         "name": "Fernanda Garibaldi",
-        "position": "Participante Zetta"
+        "position": "Participante Zetta",
+        "slug": "fernanda-garibaldi"
       }
     },
     {
@@ -686,7 +748,8 @@
       "summary": "Participante CNseg propõe troca de ideias e experiências para enfrentar desafios complexos com prazos curtos. Confederação possui texto básico, aberto a contribuições e busca soluções comuns a vários segmentos.",
       "speaker": {
         "name": "Alexandre Henriques Leal Neto",
-        "position": "Participante CNseg"
+        "position": "Participante CNseg",
+        "slug": "alexandre-henriques-leal-neto"
       }
     },
     {
@@ -697,7 +760,8 @@
       "summary": "Participante ABFintechs abordou importância de debater tributação no sistema financeiro, simplificando conceitos tributários e investimento. Falou sobre sua experiência como advogado e empreendedor em fintechs, atração de capital estrangeiro e a necessidade de alinhar tributação brasileira à prática internacional, reduzindo riscos para investidores. Expressou esperança em resultados positivos com modernização e simplificação do sistema.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Participante ABFintechs"
+        "position": "Participante ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -708,7 +772,8 @@
       "summary": "Participante Lefosse apreciou o fórum e desejou estar presente em encontros futuros. Ele está como especialista, não representando nenhuma associação, e deseja contribuir tecnicamente para o debate. Seu objetivo é uma meditação que funcione e seja discutida em grupos de trabalho, resultando em algo concreto. Obrigado.",
       "speaker": {
         "name": "Emmanuel Abrantes",
-        "position": "Participante Lefosse"
+        "position": "Participante Lefosse",
+        "slug": "emmanuel-abrantes"
       }
     },
     {
@@ -719,7 +784,8 @@
       "summary": "Próximas reuniões de grupos de trabalho adiadas; Representantes das frentes devem permanecer. Obrigado.",
       "speaker": {
         "name": "Rodrigo S. Marinho",
-        "position": "Mediador"
+        "position": "Mediador",
+        "slug": "rodrigo-s-marinho"
       }
     }
   ],

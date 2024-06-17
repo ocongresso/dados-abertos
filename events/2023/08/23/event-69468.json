@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa apoia Frente Parlamentar, concorda com tudo dito e se apresenta como \"Neto\". Fala sobre colaboração diária com parlamentares e sindicatos, e se orgulha do contrato acessível da Caixa. Agradecendo convite, espera retornar com mais informações.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -95,7 +102,8 @@
       "summary": "Participante implora paciência a ambas as partes, pedindo que se escute a apresentação da Caixa e depois se discuta a pauta sobre a situação dos lotéricos, que inclui negocial. Ele também solicita que a apresentação seja encurtada, pois há uma agenda a ser cumprida e o tempo é curto.",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Gerente Naciona de Produtos de Loteria Caixa: Prazer estar aqui, reforçar diálogo e parceria com rede lotérica. Objetivo comum: sustentar e avançar loterias juntos. Disponíveis para esclarecer dúvidas.",
       "speaker": {
         "name": "Maria Thereza da Silva M Assunção",
-        "position": "Gerente Naciona de Produtos de Loteria Caixa"
+        "position": "Gerente Naciona de Produtos de Loteria Caixa",
+        "slug": "maria-thereza-da-silva-m-assuncao"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa fala sobre importância da rede:",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa prioriza atender todos, atrair novos públicos com influencers e inovações like 0 Pix SAC Pix troco. Oferecerá muitos jogos e oportunidades de negócios, incluindo crédito imobiliário e seguros.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Participante implora paciência à rede lotérica e a Caixa para discutirem negocial, mas pede que apresentação da Caixa seja encurtada, pois time é limitado e haviam outras propostas para serem discutidas além de negocial.",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -197,7 +213,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa: pediu paciência, falou sobre QR Code para melhoria de produtos, afirmou não ser responsável pelo produto.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -219,7 +237,8 @@
       "summary": "Gerente Nacional da Rede Lotérica Caixa solicita paciência da rede lotérica para ouvir apresentação da Caixa, evitando discussão sobre \"negocial\" e respeitando pauta a cumprir em tempo limitado.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -231,7 +250,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -242,7 +262,8 @@
       "summary": "Problemas existem, mas soluções possíveis through dialogue; apela pela paciência e habilidade; agradece a presença dos deputados Icaro de Valmir e Júlio César, pedindo sua colaboração na busca de transformações. Encourages questions and suggestions to be submitted in writing for consideration and resolution.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Weliton Prado -- por Participante -- Júlio Cesar",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-weliton-prado-por-participante-julio-cesar"
       }
     },
     {
@@ -254,7 +275,8 @@
       "speaker": {
         "id": 74317,
         "name": "Júlio Cesar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar"
       }
     },
     {
@@ -265,7 +287,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa discutiu estudo de reajuste, considerando dificuldades com produtos e clientes. Ameaçou inviabilidade e tributos. Agradeceu sugestão de novo modelo e mudança na forma de trabalho. Mencionou discusão sobre taxa de boleto e 16% de aumento na arrecadação de jogos a partir de maio. Comprometeu-se a apresentar reajuste retroativo a julho no conselho diretor.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -276,7 +299,8 @@
       "summary": "Participante defende reajuste sustentável para rede lotérica, criticando cumprimento do acordo sobre tarifas, com base em estudos que apontam incoerência com o acordo anterior e a necessidade de remuneração percentual de acordo com o custo do boleto. Questionamento sobre retroatividade do reajuste.",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -286,7 +310,8 @@
       "transcription": "Perfeito, eu eu concordo com você que no no sentido Pessoal, eu só vou repetir.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -296,7 +321,8 @@
       "transcription": "",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa destaca a insustentabilidade da tarifa atual, crescida com ênfase em recebimentos, especialmente contas a pagar. Advoga por ajuste tarifário de acordo com custos de operação da loteria, não índice inflacionário. Refere acordo não respeitado, causando questionamentos sobre tarifa. Critica adjuste retroativo proposto, desconforme com acordo original. Insiste em tarifa sustentável de acordo com custos de operação da loteria.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -317,7 +344,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Júlio Cesar -- por Participante -- Weliton Prado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-julio-cesar-por-participante-weliton-prado"
       }
     },
     {
@@ -329,7 +357,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -341,7 +370,8 @@
       "speaker": {
         "id": 74317,
         "name": "Júlio Cesar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar"
       }
     },
     {
@@ -353,7 +383,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -364,7 +395,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa se compromete a estudar mudanças no modelo de comissionamento; reajuste de produtos considerando equilíbrio financeiro; explicação de bloqueios no sinal, geralmente relacionados a risco operacional ou financeiro, garantia para lotéricos e Caixa em caso de sinistro, e restrições cadastrais. Notificações por escrito a lotéricos com restrições cadastrais e ajustes na lista de tratativas tecnológicas.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -376,7 +408,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -387,7 +420,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa fala sobre reembolso de falhas técnicas, ênfase em soluções centralizadas, agradece convite e iniciativa, gratidão para os lotéricos por perguntas e disponibilidade para futuras discussões.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -399,7 +433,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -411,7 +446,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -422,7 +458,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -434,7 +471,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -446,7 +484,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -457,7 +496,8 @@
       "summary": "Participante discutiu a necessidade de revisar a tarifa da lotérica, atualmente inferior à real, para cobrir custos e garantir funcionamento adequado. Ele também abordou o problema dos bloqueios instantâneos e a dificuldade de reativar o sinal, às vezes por pequenos erros ou falta de informação. Ele destaca a injustiça com os empresários lotéricos e pede soluções para a sustentabilidade da rede lotérica no novo mercado digital.",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -469,7 +509,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -480,7 +521,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa: A Caixa apoia adequar-se aos tempos, aprecia oportunidade de fala, é apaixonado por loterias e está agradecido.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -492,7 +534,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -502,7 +545,8 @@
       "transcription": "Quiser tá gente, com cordãozinho, cracházinho pra vocês, só só mimoszinho, carinho pra com vocês, está bom? Obrigado Bom obrigado Neto, valeu, obrigado.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -514,7 +558,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -525,7 +570,8 @@
       "summary": "Participante se sentiu traída por empresa parceira em 2015, que fechou, queria mais dinheiro e agora bloqueia lotérica dela. Critica falta de teto máximo em pagamentos para mudar sócio e aceleração da digitalização, tirando do seu trabalho. Participante questiona se isso é justo e se são verdadeiros parceiros, já que estão tomando seus dividendos. Ela sente dificuldade em viver só do negócio de loteria e se sente pressionada a passar todo o processo online.",
       "speaker": {
         "name": "Gisele",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gisele"
       }
     },
     {
@@ -537,7 +583,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -547,7 +594,8 @@
       "transcription": "Está fazendo aqui, demonstra a preocupação que todos nós, Caixa Lotéricos, temos com as loterias. Porque estamos todos com o mesmo intuito, de fazer crescer as loterias, de ter sustentabilidade pra rede lotérica porque não existe loteria sem lotérico. E o que a gente está, o que eu quero mostrar aqui pra vocês provavelmente a grande maioria que está aqui hoje já conhece, não é uma apresentação nova a gente vem já visitou aí vinte estados brasileiros além, estados, vinte municípios né, pra apresentar a o Market Place, e já fizemos também várias reuniões online presenciais lá na matriz da Caixa pra discutir esse tema. E o que a gente quer aqui é é levar esclarecimentos, ouvir de vocês as percepções pra que a gente possa de fato aprimorar o nosso negócio. E aí eu vou o 0 Neto já trouxe bastante contexto em relação ao que a gente vai colocar aqui, eu vou trazer mais algumas informações, mas sempre pensando em prol do negócio e da sustentabilidade da rede lotérica, das loterias como todo. Da parte de jogos tinham duas pautas principais, a gente sabe que tem vários temas que que a gente vem discutindo, alguns já me abordaram aqui em relação ao portfólio de produtos, em relação ao incentivo às vendas, mas a gente trouxe aqui dois pontos principais que é a comissão da venda de jogos e também o Market Place. Então é isso que eu vou apresentar aqui pra vocês e a gente vai estar claro disponível aqui pra discutir e tirar qualquer dúvida, e depois também posteriormente como já sempre fizemos, vocês também têm meu contato, pra Bom gente, primeiro dado que eu trago aqui é arrecadação, né? A gente está falando aqui de sustentabilidade, a gente arrecadou ano passado dado recorde, número recorde de mais de vinte e três bilhões de reais, e esse ano, ainda que a gente não esteja com aquela quantidade de acumuladas que aconteceram no ano passado da Mega, a gente vem crescendo, a gente até agora o mês de julho arrecadou mais de doze bilhões de reais, e a nossa projeção agora feita em agosto com dados de hoje colocando uma média de de uma projeção de arrecadação pros próximos meses e considerando uma mega que vai fechar o ano com chave de ouro, a gente projeta aí passados vinte e quatro bi. É lógico que se a gente tiver acumuladas, que se a gente tiver outros cenários que que vão contribuir pro nosso resultado, esse número aqui tende a crescer ainda mais trazendo sustentabilidade. E não adianta eu trazer só número completo que aí vocês vão falar ah mas e o canal? E o canal digital? A gente vê o crescimento no canal lotérico, em todos os anos não há não não retrocesso não há retrocesso no resultado da rede lotérica. No último ano, o crescimento do canal físico quando eu olho só a venda das unidades lotéricas, foi de mais de vinte e cinco por cento. Então essa sustentabilidade a gente precisa manter e crescer. Pra esse ano vocês já sabem a gente implementou agora em julho o segundo sorteio da Mais Milionária, que vai trazer mais rentabilidade também pra essa modalidade, a gente está implementando publicidade durante o ano inteiro, é uma novidade a gente nunca em nenhum lançamento conseguiu fazer uma campanha tão grande como a que a gente vem fazendo da Mais Milionária, fizemos no ano passado com o lançamento, esse ano estamos fazendo a sustentação, já estamos no terceiro flight da campanha na TV, rádio, o DH, nas ruas, então tem bastante material, vocês estão recebendo mais material pra ativar o ponto de venda e assim como a mais milionária estamos agora implementando ontem foi o primeiro sorteio da MegaSena com três vezes na semana, isso também isso também vai incrementar a receita de vocês, é natural assim como o reajuste de preço, que num primeiro momento haja uma adequação pra que as pessoas conheçam então vai está vai ter também publicidade, pra que as pessoas saibam os novos dias de sorteio da MegaSena, e pra que naturalmente esses dados cresçam aí à venda do nosso principal produto do portfólio de loterias. Então, como eu disse pra vocês, essas medidas, essas iniciativas né, assim como o Market Place que eu vou tratar aqui com vocês, são são buscas de incremento da arrecadação, né são iniciativas que a gente vem implementando pra trazer e incrementar o que vocês já têm de oportunidade de negócio. E quando a gente fala de de de sustentabilidade, a gente não tem como falar não falar da comissão de vocês, né? É pleito recorrente o aumento da comissão, hoje vocês recebem oito vírgula sessenta e né, sobre prognósticos numéricos, mais os trinta e cinco por cento até trinta e cinco por cento de tarifa de serviço e quatro por cento do canal eletrônico. Esses números a e esse percentual absoluto a gente não tem estrutura de custo com AAA dinâmica EAA distribuição da arrecadação que a gente tem hoje pra mudar esse número, né, vocês sabem muito bem todos vocês aqui acompanharam, né, antes do lançamento a gente teve uma uma discussão muito grande com todos vocês, eu estou aqui com vocês desde a internalização, desde dois mil e cinco eu participo da área de loterias, debates assuntos com vocês e a gente sabe, o quanto é é é a gente escuta e a gente leva pras nossas pautas AA0 pleito de vocês. E a gente sabe que esse percentual, ele, ele está justo, né, a gente não tem hoje uma estrutura de custo que suporte. Então o que que a gente vem fazendo pra que a gente possa ter incremento na arrecadação de loterias. Fizemos o reajuste de preço, o último tinha sido em dois mil e dezenove, né, lá em novembro de dois mil e dezenove a gente conseguiu fazer reajuste de preço, logo veio a pandemia, foi uma coisa que conseguiu dar abertas, isso fez total diferença pro país, e agora em dois mil e vinte e três a gente acompanhando tanto todo o cenário econômico quanto o comportamento das modalidades a gente tem equipes técnicas que estão sempre acompanhando que não faça a venda, que o não faça com que o apostador deixe de apostar e pelo contrário, que faça com que a gente consiga vender mais, e é isso que a gente está vendo, em maio a gente implementou o reajuste de dezenove por cento o reajuste médio de dezenove por cento em sete modalidades, e até o momento a gente não teve decréscimo na venda de nenhuma dessas modalidades. Era pelo estudo que a gente faz, Airton aqui que é grande estudioso e sempre colabora com a gente, em várias discussões técnicas de de de simulação de projeção, de análise das vendas ele sempre contribui bastante conosco e a gente assim como outros lotéricos, é é natural que diante da elasticidade da demanda, após reajuste de preço ou após uma mudança como a gente está implementando agora que é o terceiro da sorteio da Mega, a gente tenha uma queda na quantidade de transações pra uma recuperação ao longo do tempo, né? Quando a gente fez o reajuste de preços a nossa expectativa é que em doze meses a gente tenha nas vendas de loterias. A expectativa é que esse ano a gente distribua decorrente do reajuste de preço, noventa e cinco milhões de reais em comissão pra todos os lotéricos, e a gente não teve até agora de maio pra cá, nenhuma queda em quantidade de transações e arrecadação das loterias. Então a gente considera uma medida muito acertada num momento que veio propício, ainda mais que a gente não está tendo AAA contribuição aí das acumuladas de de prêmios né, de grandes acumulações, que também faz toda a diferença no que no que a gente trabalha. E aí entrando agora na segunda pauta, eu vou tentar ser rápido aqui pra gente poder ter tempo de ouvir vocês, mas entrando no Market Place, né? Acho que é uma grande oportunidade da gente estar aqui esclarecendo pra vocês, tudo que a gente vem pensando, tudo que a gente vem discutindo com vocês, e aproveitando essa oportunidade que que a Frente Parlamentar tem dado pra gente e a visibilidade do que está sendo transmitido aqui pra que a gente sedimente 000 que é o marketplace, o que que a gente está pensando e por que principalmente a gente está propondo isso como uma ferramenta a mais pra rede lotérica. E aí gente a gente tem que falar pouco do contexto, né? O Neto já trouxe aqui, vocês viram, e vocês confirmaram aqui EEA gente anda pelo Brasil inteiro e a gente escutase o tempo inteiro. Os hábitos das pessoas estão mudando, né? O PIX, a digitalização, as novas gerações têm outros comportamentos e isso é natural, né? Então quando a gente está falando aqui, e utilizando mais o Internet Banking, estarem acessando o celular, nós todos aqui temos esse comportamento, quem comprou passagem aqui provavelmente comprou passagem online, quando você entra na vai pagar uma conta, quando você vai pedir uma comida às vezes pela comodidade de estar em casa, a gente utiliza as ferramentas digitais que estão à disposição. Minha filha nasceu na era digital, uma nativa digital, ela vê revista e quer que que ande como se fosse iPad, né? Então, trazendo esse contexto a gente vai precisar mudar alguns paradigmas, né? O Neto falou aqui que ele enxerga o futuro da rede lotérica com a lotérica, mas provavelmente com outro formato. A gente entende que talvez seja primeiro passo pra essa nova formatação da rede lotérica pra que ela esteja de fato sustentável, pra que ela seja cada vez mais loteria, que já está na veia, mas que fortaleça isso e é o que a gente vê no mercado mundial de jogos, não tem como ser diferente, né? E aí, não adianta gente, eu eu eu antes aqui no início eu estava conversando com alguns de vocês e vocês estavam alguns relatando o que o que a gente está trazendo aqui. Pra que a gente cresça na venda de loterias, a gente precisa conquistar novos públicos, porque o seu jogador frequente, ele já é fiel a você, ele está na sua loja, ele vai ainda que seja no seu WhatsApp, ele passa lá todo dia, ele aposta e não tem como você tirar mais dele, né ele já você já conquistou esse cliente. Mas e aquele cliente que passa na porta direto porque não tem tempo de parar porque vai pegar ônibus, ou porque ele não tem condição de de ou ele não foi despertado pra aposta, pra aposta de loteria, porque muitas vezes ele está jogando no Bete, no celular, ou em outras modalidades de quem está mais acessível a ele, né, e que ele não foi ainda impactado pelo pela loteria que está sendo vendida na casa lotérica vocês têm n exemplos na na na e nas diferentes realidades e a gente tem que lembrar disso né, a gente tem lojas que estão em grandes centros a gente tem lojas em em em grandes cidades, a gente tem lojas pequenas que ela é a única, ela tem uma vocação mais social e o que a gente quer trazer aqui, o marketplace ele é ferramenta de democratização do acesso. A forma como a gente pensou e vocês conhecem bem não é uma novidade, esse assunto vem sendo discutido com a rede lotérica desde dois mil e dezessete, eu vi que vocês estão no no no adesivo com vitrine, vocês colocaram vários nomes porque esse projeto já teve diferentes formatos e diferentes nomes. Por quê? Porque a gente foi a partir da conversa com vocês aprimorando e entendendo qual seria o melhor formato pra trazer sustentabilidade de vocês. E eu repito gente assim, eu já disse isso em vários fóruns com vocês, o bolão ele é do lotérico, a Caixa não está se apropriando do do bolão, O que a gente está trazendo aqui e apresentando pra vocês é uma ferramenta para que o lotérico continue fazendo os seus bolões e ofertando para novos clientes que não estão na loja, para público online. Então essa é AAA mentalidade de conquista de novos clientes, que é assim que a gente vai trazer mais rentabilidade em novos negócios. E quando a gente fala de novos clientes, a gente está falando inclusive por conta da pesquisa, a gente faz pesquisas periodicamente, esse ano a gente soltou uma nova pesquisa a gente recebeu o resultado de uma nova pesquisa, e a gente vê que, predominantemente os novos clientes que não são alcançados pelas nossas loterias, tem ali entre dezoito e trinta e cinco anos, né? Então eles têm novos hábitos, novos outros gostos e aí a gente precisa de novas estratégias pra alcançar esse público. E aí como eu disse pra vocês né hoje AAA mentalidade mudou mesmo. O próprio iFood, permitiu AAA sustentabilidade de pequenos restaurantes na pandemia porque eles tiveram acesso via uma ferramenta eletrônica, né, e aí aqueles grandes restaurantes que tinham condição de se manter, permaneceram ativos, infelizmente muita muita gente acabou quebrando, mas o iFood democratizou o acesso à à aos à aos restaurantes e à as lanchonetes enfim, o Airbnb trouxe uma nova forma de se hospedar, né, as pessoas hoje não estão mais, os jovens principalmente as novas gerações, necessariamente comprando imóveis mas usando por locação por período limitado. E aí quando a gente olha pra pra outros setores né a forma de consumir música mudou, hoje a gente tem o Spotify tem o Deezer, a forma de se locomover né, como que era como é muito mais fácil a gente se locomover numa viagem, num local que a gente não conhece com o Waze por exemplo. Então toda essa parte de entretenimento, segurança, comodidade, tecnologia tem trazido novos hábitos e é a partir dessa análise desses comportamentos é que a gente começou a pensar em uma formatação pra pra trazer mais ferramentas e possibilidades pra rede lotérica, incluindo o lotérico nesse movimento de digitalização, nesse movimento de empreendedorismo e de ir atrás desse novo desse novo cliente, então é uma parceria, a Caixa não quer de forma alguma fazer isso sozinha, e a gente está disponibilizando essa ferramenta que é opcional pra rede lotérica pra que ela alcance esse novo público. E aí a gente falando de bolão como é que surgiu tudo isso, isso aqui não é novo vocês já conhecem. A gente olhou os tops cem lotéricos do Brasil, em dois mil e vinte e dois. E eles vendiam, venderam no ano passado, uma média de duzentos e trinta e seis mil por mês. Isso gerou pra esses cem lotéricos, uma receita de cento e três mil reais. Quando a gente vai pra média Brasil, ali eu estava olhando os top cem, quando a gente vai pra média Brasil, essa média ela cai pra dezoito mil e novecentos. Aqui estamos falando só de bolão, tá? E aí a gente tem trinta e quatro por cento da rede acima dessa média, e sessenta e seis por cento abaixo. A gente quer todo mundo lá em cima. E como que a gente faz isso? Estimulando, dando treinamento, a gente tem inovado em novas ferramentas, disponibilizando pra vocês informações, estimulando, indo conversar ponto a ponto pra que você pra que tenha o etéreo que ainda não faz bolão, né, então a gente vai apresentando essas ferramentas, estimulando, ensinando como ele pode aproveitar a as diferentes premiações pra poder calcular EEE ver qual a cota, o valor de cota, a quantidade de cotas que funciona pra aquela região. Que vocês sabem, alguns de vocês aqui tem mais de uma loja, e sabe, que em diferentes realidades você vai ter que fazer diferentes configurações de bolão. De bolão? Nós fizemos, Do Market Place a gente fez uma live e a gente está reforçando com toda a rede.",
       "speaker": {
         "name": "Maria Thereza da Silva M Assunção",
-        "position": "Gerente Naciona de Produtos de Loteria Caixa"
+        "position": "Gerente Naciona de Produtos de Loteria Caixa",
+        "slug": "maria-thereza-da-silva-m-assuncao"
       }
     },
     {
@@ -558,7 +606,8 @@
       "summary": "Vendedores de bolão utilizam redes sociais e WhatsApp para impulsionar vendas. Preocupação com acesso igualitário para pequenos vendedores no marketplace, que será democratizado para inclusão de todos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Weliton Prado -- por Participante -- Thiago de Joaldo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-weliton-prado-por-participante-thiago-de-joaldo"
       }
     },
     {
@@ -570,7 +619,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -581,7 +631,8 @@
       "summary": "Objetivo: integrar loja física e digital, ampliar carteira de clientes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Thiago de Joaldo -- por Participante -- Weliton Prado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-thiago-de-joaldo-por-participante-weliton-prado"
       }
     },
     {
@@ -593,7 +644,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -605,7 +657,8 @@
       "speaker": {
         "id": 74044,
         "name": "Wilson Santiago",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "wilson-santiago"
       }
     },
     {
@@ -617,7 +670,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -628,7 +682,8 @@
       "summary": "Participante apresentou folder contendo bilhete obrigatório para entregar aos apostadores. Questiona como Lotérico entregará bilhete online, já que muitos lotéricos não têm acesso à internet.",
       "speaker": {
         "name": "Oton",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "oton"
       }
     },
     {
@@ -640,7 +695,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -651,7 +707,8 @@
       "summary": "Gerente de Produtos Loteria Caixa: bilhete único, entregue ao apostador; medidas contra vendas sem entrega; análise de 100 lotéricas com maior/menor volume de vendas; comparando vendas físicas e digitais; no marketplace e apostas digitais, bilhete com características diferentes e seguras; Caixa's canal digital com recibo distinto; marketplace terá mesma característica de segurança.",
       "speaker": {
         "name": "Maria Thereza da Silva M Assunção",
-        "position": "Gerente Naciona de Produtos de Loteria Caixa"
+        "position": "Gerente Naciona de Produtos de Loteria Caixa",
+        "slug": "maria-thereza-da-silva-m-assuncao"
       }
     },
     {
@@ -663,7 +720,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -674,7 +732,8 @@
       "summary": "Participante criticou falta de atenção às pautas da rede lotérica; destacou necessidade de revisar tarifa de 4% no meio digital e debater modelo do Market Place, evitando destruição da rede. Reeduzirá e repassará perguntas para gabinete do deputado e Caixa. Pediu apoio parlamentar para uma rede lotérica saudável.",
       "speaker": {
         "name": "Bruno Lobato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -686,7 +745,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -697,7 +757,8 @@
       "summary": "Gerente Nacional da Rede Loterica Caixa agradece oportunidade de dialogar, reconhece reclamações, promete priorizar resolução de problemas e incentiva sugestões para melhoria contínua da rede.",
       "speaker": {
         "name": "José Pereira dos Santos Neto",
-        "position": "Gerente Nacional da Rede Loterica Caixa"
+        "position": "Gerente Nacional da Rede Loterica Caixa",
+        "slug": "jose-pereira-dos-santos-neto"
       }
     },
     {
@@ -708,7 +769,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -719,7 +781,8 @@
       "summary": "Gerente Nacional de Produtos de Loteria Caixa reforça: débatas em curso, café da internet aberto para sugestões, objetivo é melhorar projeto e trazer resultados à rede lotérica.",
       "speaker": {
         "name": "Maria Thereza da Silva M Assunção",
-        "position": "Gerente Naciona de Produtos de Loteria Caixa"
+        "position": "Gerente Naciona de Produtos de Loteria Caixa",
+        "slug": "maria-thereza-da-silva-m-assuncao"
       }
     },
     {
@@ -731,7 +794,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -742,7 +806,8 @@
       "summary": "Participante sugeriu refazer plebiscito com empresários locais sobre negócio com Caixa, colocar resultado na responsabilidade da rede lotérica. Se aceito, avançar; se não, debater para implantação correta e transparente. Agradecimento a Admilson de São Paulo.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -754,7 +819,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     }
   ],

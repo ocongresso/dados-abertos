@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Não havendo mais, opa. Não havendo mais quem queira votar declaro encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Eleição de vice-presidentes: Guilherme Boulos recebeu 13 votos e foi eleito segundo vice-presidente; Marangoni também recebeu 13 votos e foi eleita terceira vice-presidente. Quórum alcançado para escolha no primeiro escrutínio. Convocados para tomar posse. Desejo de sucesso na condução dos trabalhos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -73,7 +78,8 @@
       "transcription": "Ao presidente Acácio, de tudo pela forma como tem",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Acácio Favacho -- por Participante -- Guilherme Boulos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-acacio-favacho-por-participante-guilherme-boulos"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     }
   ],

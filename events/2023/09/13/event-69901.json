@@ -13,7 +13,8 @@
       "summary": "Cerimônia de instalação da Frente Parlamentar em defesa do Rio São Francisco, abrangendo cinco estados e quinhentos e vinte municípios. Rio crucial para abastecimento de água, geração de energia e desenvolvimento econômico, mas sofre com poluição, desmatamento e uso excessivo de agrotóxicos. Frente Parlamentar composta por nove coordenadores, incluindo deputados de estados afetados e representantes ministeriais. Objetivo: combater ameaças ao Rio São Francisco.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": "Mestre de Cerimônias pede para se respeitar ao tocar hino nacional brasileiro.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "Estaremos de agradecer e registrar a presença do prefeito de Juvenil, em Minas Gerais, Rômulo Marinho Carneiro. Do prefeito de manga, Anastácio Guedes Saraiva. Do prefeito de Pintópolis, Lei Lopes dos Santos. Do prefeito de Bonito, da prefeita de Bonito de Minas, Vania Carneiro de Carvalho. Do prefeito de Campo Azul, Oséias Almeida Júnior. Do prefeito de Spinoza, Milton Barbosa Lima. Do prefeito de Francisco Dumont, Eduardo Rabelo Fonseca, presidente do CODANORTE, do prefeito de São Francisco, Paulo Miguel. Do da prefeita de Itacarambi, Nívea Maria de Oliveira. Do prefeito de São João da Ponte, Danilo Velloso. Do prefeito de São João das Missões, Jair Cavalcante Barbosa. Do prefeito de Serranópolis de Minas, Max Vinícius Aguiar Martins, do prefeito de Urucuia, Rutílio Eugenio Cavalcanti Filho e do prefeito de Três Pontas, Marcelo Chávez Garcia. Passo a palavra para o presidente deputado Paulo Guedes. Muito obrigado.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Mestre de Cerimônias anuncia autoridades e exibe vídeo institucional sobre revitalização do Rio São Francisco com participação de ministro.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -78,7 +84,8 @@
       "summary": "Río São Francisco, símbolo de vida, transportando identidadad y esperanza, regando sueños y millones de historias en una cuenca que abarca el 8% del territorio brasileño. Cuidarlo es nuestra misión.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -88,7 +95,8 @@
       "transcription": "Paulo Guedes chamaremos agora para falar na qualidade de vicepresidente da frente parlamentar em defesa da gestão e revitalização do Rio São Francisco, o deputado federal Pedro Campos.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Mestre de Cerimônias convidou o presidente da frente parlamentar, deputado Paulo Guedes, a falar.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -110,7 +119,8 @@
       "summary": "Músico agradece presença de 15 prefeitos e políticos, incluindo o presidente deputado Paulo Guedes.",
       "speaker": {
         "name": "Cowboy Stradeiro",
-        "position": "Músico"
+        "position": "Músico",
+        "slug": "cowboy-stradeiro"
       }
     },
     {
@@ -122,7 +132,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Mestre de Cerimônias apresenta deputado federal Pedro Campos, vice-presidente da frente parlamentar em defesa do Rio São Francisco.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -144,7 +156,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": "Mestre de Cerimônias anunciou a transferência da palavra ao deputado Paulo Guedes depois de agradecer o deputado Pedro Campos.",
       "speaker": {
         "name": "Jairo Brod",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "jairo-brod"
       }
     },
     {
@@ -166,7 +180,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -178,7 +193,8 @@
       "speaker": {
         "id": 74160,
         "name": "Patrus Ananias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "patrus-ananias"
       }
     },
     {
@@ -189,7 +205,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -199,7 +216,8 @@
       "transcription": "Com o deputado federal Patrus Ananias, foi prefeito de Belo Horizonte, é uma das figuras que define perfeitamente a cultura mineira e o bom político mineiro de tantos políticos que passaram por esse estado tão importante da federação. Senhor presidente deputado Paulo Guedes em seu nome, a minha saudação a todos os deputados que estão presentes, saudar o superintendente da Codebácio baiano Marcelo Moreira, grande amigo que está à frente da Codebácio há algum tempo, presidente do Comitê da Bacias, o Marcel, que preside o Comitê de Bacias do São Francisco, saudar grande baiano, amigo que é grande defensor do rio São Francisco, o vice exvicegovernador da Bahia, da Bahia João Leão e hoje deputado federal tão integrado na luta pelo Rio São Francisco quanto todos que estão aqui. Eu gostaria inclusive senhor presidente, que vossa excelência convidasse o João Leão para ocupar aquela cadeira que está ali que é o direito dele pelo que ele trabalhou pelo Rio São Francisco. Senhor presidente, queria que o João Leão ocupasse lá aquela cadeira que ficou, saiu do deputado federal Pedro Deputado João Leão por favor, nos honre aqui com sua presença. Esse merece estar no pedestal porque eu dou a vida inteira pelo rio São Francisco, conhece como poucos o rio São Francisco. Eu senhor presidente, vossa excelência falou do Rio São Francisco e de que ele tem três biomas. Permitame discordar, porque o rio São Francisco tem quatro biomas. E o eu vou começar pelo primeiro pra chegar até o último. O talvez aquele que deu a condição de de se descobrir o Rio. O Rio foi identificado em quatro de setembro de mil quinhentos e O Américo Vespúcio italiano chegou pela primeira vez a mais do rio São Francisco, portanto, o bioma de mangue não deve ser esquecido, e é por ele que eu vou terminar e dizer aquilo que é a coisa talvez mais importante que eu vou falar sobre o estado que em que se encontra o 0 rio São Francisco. Então o primeiro bioma do rio São Francisco é o bioma de mato, onde ele nasce lá na Serra da Canastra, município de São Roque de Minas, onde ele nasce ali é o leito dele, ele desce, faz a sua primeira cachoeira, a cachoeira Casca Dantas, já próximo do município de Várzea, Várzea Bonita, e aí daí em diante ele leva o seu curso nessa região de em Mata Atlântica, parte de Mata Atlântica recebe aí, começa a receber os seus principais afluentes, todos eles hoje, altamente comprometidos, com seus principais afluentes, calha de rio não produz água, calha de rio recebe água, não tem nascente em calha de rio portanto, se tem alguma ação que se queira fazer pra revitalizar rio, é preciso recuperar as nascentes e recuperar os rios tributários ou afluentes. E a maioria deles todos comprometidos. Tanto no bioma de mata, e eu posso citar aqui os principais rios, o 0 afluente mais caudaloso da mais direita Isso. Que é o Rio das Velhas, que traz assim volume de água muito grande, passa próximo de Belo Horizonte, e hoje Belo Horizonte joga senhor presidente, trinta por cento de todo o esgoto in natura no Rio das Almas, só para que se veja a gravidade do problema, a capital do estado de Minas desse rio tão importante que nasce Ouro Preto, e venha até o Rio São Francisco, o Rio das Velhas recebe trinta por cento de esgoto in natura dentro das suas água. Então, não há mais direita nós temos como principais afluentes, o rio das Velhas, o rio Paraopeba, CNS, porque Paraopebas é lá no Pará, o Rio Pará, o 0 Rio Verde Grande e o meu amigo prefeito ali do município Eduardo. Que município é Eduardo? Como? Francisco. Francisco Dumont. Francisco Dumont. Ele conversava comigo, e eu venho acompanhando, há muito tempo inclusive lutei para colocar recursos, pra concluir a barragem do Rio Jiptaí, que é da margem direta do São Francisco, e está inacabado, está inacabado. Isso vem desde dois mil e dezesseis, senhor superintendente da Codevasca. Desde dois mil e dezesseis, eu inclusive lutei ao lado do senador Carlos Viana, pra colocar recursos pra concluir a barragem do rio de que está aí, que é rio da margem direita do São Francisco, que levou água algum tempo pro rio São Francisco, e no período de cerca é grande caminho de areia, que o desmatamento criminoso está acabando e vai destruir nascentes de rios tributários não só do São Francisco do Brasil inteiro. E esse é o maior crime que se faz contra rio, é desmatar as matas ciliares das suas nascentes ou dos seus rios tributário. Então na margem direita, os principais rios são esses. Na margem esquerda, nós temos, já que o rio nasce lá em São Roque de Minas, logo depois ele recebe o rio Abaeté no município São São Gonçalo, do Abaeté, que é dos rios que forma a uma uma parte da barragem de Três Marias. Eu diria que Minas Gerais é como seu povo. Pra não ser amigo de mineiro, tem que morar no exterior, porque eles são muito afáveis, muitos amigo, sabe fazer a política da boa vizinhança. Por isso, Minas tem fronteira com o estado do Rio de Janeiro, e recebe água que vai de Minas do Rio Grande, o Rio Grande e o Rio Grande que nasce também numa das serras lá de Minas Gerais, vai pra pra o Rio de Janeiro. O Rio Doce vai pro Espírito Santo que lamentavelmente meu amigo deputado Leonardo foi contaminado naquela tragédia de Mariana que até hoje não indenizou aqueles que perderam as suas casas e suas vidas. O 0 estado de Minas faz fronteira com o estado de Goiás, com o Distrito Federal, faz fronteira também com o estado de São Paulo, no norte e noroeste, então o estado de Minas e sobretudo o estado de Minas se abraça com a Bahia. Então na margem direita, os principais afluentes, primeiro deles que eu falei o Rio Abaeté, em São Gonçalo do Abaeté, que é município. Depois vem o Rio Paracatu, que também é rio muito influente. Depois vem os outros rios que também fazem parte da da margem direita, que é o aquífero de Urucuia, o rio Urucuia e o rio Karennha, que faz fronteira a Minas com a Bahia. A cidade de Karenanha fica na margem direita do rio São Francisco, na entrada do rio São Francisco, na Bahia do outro lado está o 0 município de Malhados. Então toda essa parte que vem de Minas, ela tem o bioma de mata, quando chega próximo da Bahia já tem o bioma de cerrado. Quando entra na Bahia, no bioma de cerrado, o rio São Francisco tem uma uma característica que nenhum rio brasileiro tem, coisa do engenheiro chamado Deus que engenheiro não faz. O Rio São Francisco é o único rio do Brasil que corre do Sul pro Nordeste, não tem outro, corre do Sul pro Nordeste. Mil e duzentos metro lá na na Serra da Canastra, pra descer percorrer dois mil sete dois mil oitocentos e sessenta e três quilômetros, tem uma bacia de seiscentos e quarenta e quilômetros quadrados, e é o único rio que sai do sul pro nordeste, feito por Deus pra dizer assim olha, quando falta água lá em cima, o rio vai estar aí pra vocês se servirem dele. Então quando chega na Bahia, no bioma de cerrado, na Bahia, João Leão conhece até mais do que eu, só recebe três rios, caudalosos e perenes, que tem muito rio no São Francisco, que são temporário, é o Carinhanha, o rio Corrente que nasce em Correntina e o Rio Grande que desemboca no município da Barra do São Francisco que é o município símbolo do deputado federal João Leão. Nós temos só três rio na Bahia colocando água no rio São Francisco no setor de cerrado. Na margem direita da Bahia nenhum rio mais bota uma gota d'água no São Francisco. Morreram todos por desmatamento, assoreamento e contaminação com esgoto. Todos, vou citar alguns aqui. Por exemplo, o Rio Taguaçu Verde que fica no município de Taguaçu, na Bahia. O Rio Jacaré, na região de Irecê. O Rio Paulista, perto de Paratinga, morto. O Rio SantoNOFE, morto. O Rio Para Mirim, que era perene, não bota mais uma gota d'água e desemboca no Rio São Francisco, no município de Morporá, não bota mais uma água lá. Mais uma gota d'água lá porque fizeram a barragem em Paraumirim e o rio não leva mais. Então, a produção de água está restrita à à produção dos rios que ainda existe em Minas Gerais e mais três que existe na Bahia. Quando ele chega na Bahia, o rio São Francisco, ele já chega com cento das águas formadas. Então os doadores dessa água, a benta, abençoada, é o estado de Minas Gerais. Vocês de Minas é que dão água, que levam a água pra pra os outros estados. Setenta e cinco por cento das águas que entram na Bahia vêm de Minas Gerais. A Bahia hoje só contribui com seus três rios com vinte e cinco por cento, cento. O que é que qual é o a performance disso? É pra dizer a vocês que está diminuindo a produção e aumentando o uso da água. O uso da água hoje é pra consumo humano, pra consumo animal, pra consumo industrial, pra geração de energia e pra irrigação. A maior parte é para a irrigação, é para a irrigação. Então nesse bioma, bioma do cerrado, só três rios. Quando chega no bioma da Caatinga, Leonardo, nem rio bota uma gota d'água no São Francisco. E quando chega no mar, é aí o que eu quero votar pra onde eu comecei, quando eu chego no mar, quando chega no mar, que é o bioma do mangue, e foi por isso que ele foi descoberto, chamaram de Rio Mar, ou Oparar. Sabe por que chamaram a Rio Mar? Porque ele entrava dez quilômetros no mar. Então, o Américo Vespúcio quando viu o Rio, entrar dez quilômetros no mar, chamou de Riomar, pela força que ele tinha em mil quinhentos e Sabe o que aconteceu agora? Está acontecendo agora o primeiro sintoma da morte de grande rio, quando o marco começa a entrar nele. A água do mais já entrou onze ou doze quilômetros dentro do rio São Francisco. Hoje você pega tubarão martelo em Penedo, do lado de Alagoas, e piranha do lado de Sergipe. Então o Rio está morrendo, já há muito tempo. Qual é a maior preocupação? Todos nós temos que ter preocupação, mas sobretudo eu quero louvar aqui a iniciativa do deputado Paulo Guedes, porque ele é mineiro E Minas é a caixa d'água do Brasil. Não vai pode faltar água em qualquer lugar do Brasil, menos em Minas Gerais. Minas Gerais é o doador das águas. Os receptores das águas, os estados do Nordeste, Paraíba, Ceará, Agreste de Pernambuco, Alagoas com o Canal do Sertão, Rio Grande do Norte, tem que se ajoelhar todo dia frente ao Palácio do Planalto e dizer, presidente Lula, faz a revitalização porque senão, porque senão, por que senão? Porque se não revitalizar, não revitalizar a barragem de Sobradinho é o maior lago doce da América. Cheio tem quarenta e cinco bilhões de metros cúbico de água. É muita água. O volume morto Leonardo são cinco bilhões de metros cúbico de água. Quem nunca viu água doce e vê o Rio com cinco bilhões no seu no no seu volume morto? Na tem muita água? Não tem não. Não tem muita água não, sabe por quê? Porque toda barragem, ao longo dos anos, tem o chamado aterramento, porque a água não entra limpinha não, entra ela com grãos com sedimento de barro de terra. A barragem de Três Marias, em Minas Gerais, já tem trinta e cinco por cento de aterramento, será a bacia de de Três Marias, só agora, ocupa água com trinta e cinco menos do volume que ela foi criada. E a barragem de Sobradinho, já tem vinte por cento de aterramento. Então esse volume morto de cinco bilhões, abata vinte por cento de aterramento. Geométrica e a produção de água é aritmética. Todo dia se mata uma nascente, o cara desmata uma beira de rio, uma beira de de uma nascente, que é crime contra as futuras gerações, Não vai me faltar água com setenta e seis anos, mas pode faltar para meus filhos, para os meus netos, para os seus filhos e sou neto. Por isso sou revitaliza ou Rio São Francisco ou algum presidente, não sou profeta do Apocalipse, algum presidente, se não revitalizar, começar logo a revitalizar, algum presidente no ano de dois mil e quarenta, no máximo de dois mil e quarenta e cinco bota em cima da barragem sobradinha, uma cruz dizendo, aqui jaz o velho Chico, isso é uma grande responsabilidade de quem quer ter o Rio Vivo, de quem quer ter o Rio Vivo. Não se produz água, Leão, o Leão sabe disso, depois de Barra do São Francisco. O Rio Grande entrou, aí é só consumidor. Todos os os estados, os receptores, são consumidores. Eu estudo isso há muito tempo, eu fui em dois mil e três, passei quarenta e cinco dias no Colorado, pra estudar a revitalização e a transposição do Rio Colorado. Os americanos primeiro fizeram a revitalização do Rio Colorado. Revitalizaram ele todo. Sanearam toda a cidade ribeiiam, Rio Colorado, pra depois fazer a transposição. Nós começamos pelo fim, primeira transposição porque era urgente e o Presidente Lula, eu quero louvar a iniciativa do Presidente Lula, fazer a transposição para o seu Nordeste, que o Nordeste ao contrário do que muitos pensam inclusive o governador de Minas quis quis quis fazer uma separação do Brasil, o Nordeste também é Brasil, é sangue brasileiro que contribuiu com o Brasil a vida inteira e contribui até hoje, contribui até hoje, Até porque Minas tem duzentos e quarenta e nove municípios no norte de Minas e no Vale do Jinquitinhonha, dividiram com a Bahia. Se ignorar isso é absurdo, alguém que seja governador de Minas ignorar o norte de Minas. Como falou aqui o nosso patroa Ananias, e Guimarães Rosa, ele escreveu isso também em Grandes Sertões Veredas, parece que ele está descrevendo o lugar que eu nasci no interior da Bahia Rui Barbosa a mesma forma de se cuidar, de se alimentar das tradições, da cultura, do gesto de de atender bem, de receber bem as pessoas, de pedir benção de manhã ao pai, eu tomei benção até eu com trinta e tantos anos tomava a bênção da minha mãe e meu pai, isso me ajudou muito que transfere a nós o respeito pelas pessoas, não só pelos pais. Guimarães Rosa quando ele cita a relação de de Adorinho com Riobaldo naquele livro fantástico, né? De Armojos do cangaceiro que eles brigavam, traz em si parece aquele norte de Minas, o mesmo coração do povo baiano, do povo do nordeste. Tanto o Rio São Francisco, com essas barragens de investimentos todos têm hoje uma oportunidade muito grande. Trezentos e cinquenta milhões por ano da da privatização da Eletrobras não dá pra revitalizar o rio. Em dez anos três bilhões e meio não dá pra revitalizar o rio. Uma bacia de seiscentos e quarenta e mil quilômetros quadrado. Rio com a extensão de dois mil oitocentos e sessenta e três quilômetro. Não dá. Mas pelo menos tem que se iniciar deixar o projeto pronto. Senão meu querido deputado Pedro Campos, você que me olha com muita atenção, tenha certeza absoluta que essa esse canal que você falou, que tem que levar água pras casa das pessoas, lá na frente daqui a vinte anos não vai ter água, senão revitalizar. Quem produz água é quem planta árvores. Por que quem planta árvores? Porque quando você desmata você impermeabiliza o solo e o solo impermeabilizado a chuva bem não penetra no solo escorre e leva o sedimento pra dentro do rio pra assolear o rio só produz água quem planta as árvores sabe por quê? Porque só as raízes das árvores que dão a porosidade ao solo pra trovoada bater, entrar, alimentar o braço subterrâneo de uma nascente tecnicamente chamado de talvegue, ela depois brota e traz a água pros rios pra sustentar os rios. Ou quem planta abre anote isso aí, produz árvore, quem corta árvore destrói completamente a produção das águas. Então essa é a nossa mensagem, eu estarei à disposição desde que eu cheguei aqui. Eu já coloquei emendas que na época inclusive foram lamentavelmente desviadas, seiscentos milhões de reais na comissão do meio ambiente que eu presidia, começou a se aplicar alguma coisa em Minas no na área de saneamento, depois se parou porque mudou o governo e o governo que entrou ficou obtuso, néscio, sem entender a grandeza do Rio, São Francisco, depois no no nesse governo a logo que saiu fez algumas coisa concluído transposição, mas nunca ligou para a retalização. Eu já conversei duas vezes com o presidente Lula, eu não quero absolutamente nada do governo, eu não tenho cargo no governo, nem em Brasília nem na Bahia. Eu quero que ele revitalize o Rio, comece o projeto de revitalizar o Rio. Comece a fazer a revitalização do Rio. Eu sou do projeto do presidente Lula. Desde dois mil e dois quando o governador da Bahia no segundo turno eu votei nele. Ato interessante porque no primeiro turno votamos em Ciro, Serra e Lula que disputavam. Nós votamos no primeiro turno, eu e Antônio Carlos Magalhães, no Ciro. O Ciro perdeu, no segundo turno eu disse, senador Antônio Carlos, nós vamos ter que votar no Lula, você não gosta do certo? Ele falou, vamos votar no Lula. Então, eu sou eleitor do Lula, desde dois mil e dois, passei seis ano fora da política, votei em segredo, lembro do voto é secreto quando você está fora, e dois mil e dez estou no projeto do Lula, do PT na Bahia, no lá é na Bahia todos cumpriram tudo comigo, eu trabalho com eles em harmonia total, quero que esse governo dê certo, não por mim aos setenta e seis anos, mas pelo Rio São Francisco, pelo povo de Minas, pelo povo do nordeste sobretudo e pelo povo da Bahia. Essa bandeira é minha, eu estou no Senado Federal pra defender e saber também que é de João, que é de Pedro, que é de Paulo, que é de todos aqueles que acham que sem água não vai dar resultado. E a solução é revitalizar o Rio São Francisco. Tenho muita esperança na palavra do presidente. Já conversei com ele duas vezes, eu tenho certeza, ele que começou a transposição vai fazer agora a revitalização. Eu dizia há pouco ao prefeito ali lá de Minas ao, né que o 0 uma calha de rio, você deve, eu sou médico, que da vida inteira estudei medicina, a calha do rio, a gente tem que começar por aquilo que é mais urgente, é como a artéria do coração obstruída, vamos tirar o coágulo, vamos tirar aquilo que o colesterol botou, desobstruir pra o sangue chegar na barragem. Nós temos que fazer desassoriamento pra água chegar em sobradinho urgente nas práticas nas partes crítica e Marcelo sabe, E eu sei que eu já fiz vários percursos de avião e de helicóptero ali pra depois replantar as matas auxiliares, recuperar as nascentes, recuperar os rios tributário e fazer o Rio São Francisco voltar até a navegação. A última vez que o vapor andou no Rio São Francisco foi no ano de mil oitocentos e oitenta e ele tinha calado profundo e podia fazer a navegação. Saía de Pirapora até Juazeiro. Pirapora é município na margem de direito de São Francisco, se atravessa aquela pontezinha, do outro lado tem Buritizeiro, que é outro município lá no Rio São Francisco. Tanto que eu já fiz três caravanas pelo Rio antes de ser político até, então eu conheço o lugar por lugar dele. Então quer me apresentar Rio São Francisco? Eu vou chamar ele de meu grande irmão da de Minas, da Bahia e do nordeste, muito obrigado. Senhoras e senhores",
       "speaker": {
         "name": "Otto Alencar",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "otto-alencar"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Mestre de Cerimônia anuncia a presença de vários prefeitos e autoridades: do prefeito de Juvenil, Manga, Pintópolis, Bonito (duas referências), Campo Azul, Spinoza, Francisco Dumont, São Francisco, Itacarambi, São João da Ponte, São João das Missões, Serranópolis de Minas, Urucuia e Três Pontas. Também menciona o presidente deputado Paulo Guedes.",
       "speaker": {
         "name": "Renato Lopes",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "renato-lopes"
       }
     },
     {
@@ -222,7 +241,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -234,7 +254,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -246,7 +267,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -257,7 +279,8 @@
       "summary": "Diretor de Infraestrutura Aquaviária do DNIT falou sobre revitalização do Rio São Francisco, gestão anterior com dragagem em trechos secos, atual compromisso em continuar essas obras, parceria com Codevastro e expectativa de recursos do PAC por €120 milhões para dragagem de travessias em quatro anos.",
       "speaker": {
         "name": "Erick Moura",
-        "position": "Diretor de Infraestrutura Aquaviária do DNIT"
+        "position": "Diretor de Infraestrutura Aquaviária do DNIT",
+        "slug": "erick-moura"
       }
     },
     {
@@ -269,7 +292,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -280,7 +304,8 @@
       "summary": "Presidente da CODEVASF agradece e registra presença de 15 prefeitos e deputado Paulo Guedes.",
       "speaker": {
         "name": "Marcelo Andrade Moreira",
-        "position": "Presidente da CODEVASF"
+        "position": "Presidente da CODEVASF",
+        "slug": "marcelo-andrade-moreira"
       }
     },
     {
@@ -292,7 +317,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -304,7 +330,8 @@
       "speaker": {
         "id": 204394,
         "name": "Gervásio Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gervasio-maia"
       }
     },
     {
@@ -315,7 +342,8 @@
       "summary": "Mestre de Cerimônia registra e agradece presentes de autoridades locais, vereadores, assessores parlamentares, presidentes de institutos e diretores de universidades, além de outras lideranças. A palestra prossegue com o deputado federal Paulo Guedes.",
       "speaker": {
         "name": "Renato Lopes",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "renato-lopes"
       }
     },
     {
@@ -327,7 +355,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -338,7 +367,8 @@
       "summary": "Presidente do Comitê da Bacia do Rio São Francisco saudou e agradeceu presentes, discutiu problemas ambientais na bacia, emphasou a necessidade de preservação ambiental e tradicionalidade, mencionou parceria com CODEVASF e projeto de abastecimento de água, pediu união de esforços, alertou sobre projetos de lei que podem atrapalhar, e reiterou compromisso com melhoria da qualidade de vida no São Francisco.",
       "speaker": {
         "name": "José Maciel Oliveira",
-        "position": "Presidente do Comitê da Bacia do Rio São Francisco"
+        "position": "Presidente do Comitê da Bacia do Rio São Francisco",
+        "slug": "jose-maciel-oliveira"
       }
     },
     {
@@ -350,7 +380,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -362,7 +393,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -374,7 +406,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -385,7 +418,8 @@
       "summary": "Coordenador Geral do Departamento de Revitalização de Bacias Hídricas e Acesso á Água do Meio Ambiente agradece convite, destaca importância de rio saudável com boa qualidade e quantidade d'água, gestão através de comitês de bacia e plano de bacia, e oferece apoio técnico do Ministério do Meio Ambiente à Frente Parlamentar.",
       "speaker": {
         "name": "Alexandre Resende Tofeti",
-        "position": "Coordenador Geral do Departamento de Revitalização de Bacias Hidrográficas e Acesso Á Agua do Meio Ambiente"
+        "position": "Coordenador Geral do Departamento de Revitalização de Bacias Hidrográficas e Acesso Á Agua do Meio Ambiente",
+        "slug": "alexandre-resende-tofeti"
       }
     },
     {
@@ -395,7 +429,8 @@
       "transcription": "A deputada estadual da Assembleia Legislativa de Minas Gerais, vicepresidente da Assembleia, deputada Leninha.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Paulo Guedes -- por Participante -- Pedro Campos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-paulo-guedes-por-participante-pedro-campos"
       }
     },
     {
@@ -406,7 +441,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -417,7 +453,8 @@
       "summary": "Deputada estadual de Minas Gerais sauda presentes em reunião sobre Velho Chico, destaca importância do bem comum e debate técnico-político sobre gestão da bacia. Deseja doar águas boas, saudável, de Minas Gerais como estado doador.",
       "speaker": {
         "name": "Leninha",
-        "position": "Deputada estadual de Minas Gerais"
+        "position": "Deputada estadual de Minas Gerais",
+        "slug": "leninha"
       }
     },
     {
@@ -428,7 +465,8 @@
       "summary": "Promover produção de alimentos e água de qualidade no Rio São Francisco, discutir práticas sustentáveis em Minas Gerais e cidades vizinhas, e assegurar água de qualidade para o futuro. Compromisso como primeira vice-presidência da Assembleia de Minas Gerais.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pedro Campos -- por Participante -- Paulo Guedes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pedro-campos-por-participante-paulo-guedes"
       }
     },
     {
@@ -440,7 +478,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -451,7 +490,8 @@
       "summary": "Ministério do Desenvolvimento Agrário: combate à pobreza, produção de alimentos saudáveis, mitigação das mudanças climáticas, participação social, políticas públicas como PA, PNAE, PRONAF, Projeto Don Helder para revitalizar Rio São Francisco e preservar suas nascentes, incentivo a remuneração de serviços ambientais a agricultores locais.",
       "speaker": {
         "name": "Olivo Dambros",
-        "position": "Ministério do Desenvolvimento Agrário"
+        "position": "Ministério do Desenvolvimento Agrário",
+        "slug": "olivo-dambros"
       }
     },
     {
@@ -463,7 +503,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -474,7 +515,8 @@
       "summary": "Deputado estadual de Minas Gerais propõe ação governamental para melhorar qualidade de vida e navegabilidade no Rio São Francisco, apoiando FEDRO e Pro Manancial em Minas Gerais. Exorta governos a cumprirem obrigações e pede apoio para aprovação de propostas orçamentárias que fortaleçam o rio.",
       "speaker": {
         "name": "Ricardo Augusto Da Costa Campos",
-        "position": "Deputado estadual de Minas Gerais"
+        "position": "Deputado estadual de Minas Gerais",
+        "slug": "ricardo-augusto-da-costa-campos"
       }
     },
     {
@@ -486,7 +528,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -497,7 +540,8 @@
       "summary": "Mestre de Cerimônia anunciou presença de autoridades locais e estaduais, incluindo vereadores, vice-prefeito, secretários, chefe de gabinete e outros representantes de municípios e comitês da região do Rio São Francisco em Minas Gerais.",
       "speaker": {
         "name": "Renato Lopes",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "renato-lopes"
       }
     },
     {
@@ -509,7 +553,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -520,7 +565,8 @@
       "summary": "Participante fala sobre importância do Rio São Francisco para sobrevivência do Nordeste, destacando revitalização das nascentes e reestruturação da navegação para transporte de carga mais barato, integração nacional e oportunidades.",
       "speaker": {
         "name": "Lucio Flávio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "lucio-flavio"
       }
     },
     {
@@ -532,7 +578,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -543,7 +590,8 @@
       "summary": "Vereador agradece convite do Paulo Guedes, estressa importância do legislativo municipal e identidade com o Rio São Francisco; pede debates nas câmaras municipais sobre preservação do rio e atividades econômicas de suas margens; elogia movimento em prol do rio.",
       "speaker": {
         "name": "Rodrigo Teles",
-        "position": "Vereador"
+        "position": "Vereador",
+        "slug": "rodrigo-teles"
       }
     },
     {
@@ -555,7 +603,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -566,7 +615,8 @@
       "summary": "Mestre de Ceremônia cita quatro pessoas presentes: vereador Clóvis, ex-prefeito Vicente Paulo Henrique, servidores IEF e Meio Ambiente Chapada Gaúcha.",
       "speaker": {
         "name": "Renato Lopes",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "renato-lopes"
       }
     },
     {
@@ -578,7 +628,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -589,7 +640,8 @@
       "summary": "Prefeito fala sobre importância de inclusão de pessoas nos territórios no processo de revitalização do rio São Francisco, destacando a necessidade de políticas que garantam moradia, terra, direitos e alimentação às comunidades tradicionais. Além disso, ressalta a importância de preservar a cultura e modo de vida coletivo dos povos tradicionais.",
       "speaker": {
         "name": "Agmar do Quilombo",
-        "position": "Prefeito"
+        "position": "Prefeito",
+        "slug": "agmar-do-quilombo"
       }
     },
     {
@@ -601,7 +653,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -612,7 +665,8 @@
       "summary": "Prefeito cumprimenta e agradece convidado principal. Louva discussão sobre revitalização rio São Francisco. Compartilha sua experiência na revitalização de nascentes em sua cidade. Destaca importância de envolver todas as cidades e dar vida às nascentes, não apenas limpar a calha. Reconhece sua obrigação em ajudar cidades abaixo dele no rio. Elogia trabalho do senador e deputado no assunto. Parabéns a Paulo e prefeito Rômulo.",
       "speaker": {
         "name": "Rômulo Carneiro",
-        "position": "Prefeito"
+        "position": "Prefeito",
+        "slug": "romulo-carneiro"
       }
     },
     {
@@ -624,7 +678,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -635,7 +690,8 @@
       "summary": "Participante salienta importância do Rio Paracatu e necessidade de atenção aos comitês de bacia. Sua sugestão é que a comissão convoque membros de todos os comitês do Brasil, fortalecendo-os e apoiando a lei 9433. Ele also destaca a crise climática e uso inadequado do solo, emphasizing the need for stricter environmental regulations.",
       "speaker": {
         "name": "Antônio Eustáquio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "antonio-eustaquio"
       }
     },
     {
@@ -647,7 +703,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -658,7 +715,8 @@
       "summary": "Músico viajou, amando sua terra e rios. Pediu ajuda a um deputado para preservar a beleza natural, referenciando suas experiências pessoais e as belezas locais.",
       "speaker": {
         "name": "Cowboy Stradeiro",
-        "position": "Músico"
+        "position": "Músico",
+        "slug": "cowboy-stradeiro"
       }
     },
     {
@@ -670,7 +728,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -680,7 +739,8 @@
       "transcription": "",
       "speaker": {
         "name": "Cowboy Stradeiro",
-        "position": "Músico"
+        "position": "Músico",
+        "slug": "cowboy-stradeiro"
       }
     }
   ],

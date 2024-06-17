@@ -14,7 +14,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Votação iniciada. Apuração seguirá encerramento da votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Eleição de Wellington Prado como presidente da comissão de direitos das pessoas com deficiência, com 13 votos favoráveis; secretaria da comissão possui grupo no WhatsApp para assessorias e parlamentares; convocação de reunião deliberativa ordinária para a próxima terça-feira, 12 de março, às 15h, no plenário 13. Encerramento da reunião.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "Votação. Vou programar o resultado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 220551,
         "name": "Franciane Bayer",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "franciane-bayer"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -160,7 +173,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -217,7 +235,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -229,7 +248,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -240,7 +260,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -252,7 +273,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -264,7 +286,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -275,7 +298,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -286,7 +310,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -298,7 +323,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -310,7 +336,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -333,7 +361,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -344,7 +373,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -355,7 +385,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -367,7 +398,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -378,7 +410,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -390,7 +423,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -402,7 +436,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -426,7 +462,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -449,7 +487,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -461,7 +500,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -473,7 +513,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -485,7 +526,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -497,7 +539,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -509,7 +552,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -521,7 +565,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -532,7 +577,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -544,7 +590,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -555,7 +602,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -566,7 +614,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -577,7 +626,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -589,7 +639,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -601,7 +652,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -613,7 +665,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -625,7 +678,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -636,7 +690,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -648,7 +703,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -659,7 +715,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -671,7 +728,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -682,7 +740,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -693,7 +752,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -704,7 +764,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -716,7 +777,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -728,7 +790,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -740,7 +803,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -752,7 +816,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -764,7 +829,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -776,7 +842,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -788,7 +855,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -800,7 +868,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -811,7 +880,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -823,7 +893,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -835,7 +906,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -847,7 +919,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -859,7 +932,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -871,7 +945,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -883,7 +958,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -895,7 +971,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -906,7 +983,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -918,7 +996,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -929,7 +1008,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -940,7 +1020,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -951,7 +1032,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -963,7 +1045,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -975,7 +1058,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -987,7 +1071,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -999,7 +1084,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1011,7 +1097,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1022,7 +1109,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1034,7 +1122,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1046,7 +1135,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1058,7 +1148,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1069,7 +1160,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1080,7 +1172,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1091,7 +1184,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1103,7 +1197,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1114,7 +1209,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -1125,7 +1221,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1137,7 +1234,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1149,7 +1247,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1161,7 +1260,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1173,7 +1273,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1185,7 +1286,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -1197,7 +1299,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1209,7 +1312,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1221,7 +1325,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1233,7 +1338,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -1244,7 +1350,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1256,7 +1363,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -1268,7 +1376,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1280,7 +1389,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1292,7 +1402,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1303,7 +1414,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1315,7 +1427,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1326,7 +1439,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1338,7 +1452,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1350,7 +1465,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1361,7 +1477,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1373,7 +1490,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1385,7 +1503,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1397,7 +1516,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1409,7 +1529,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1421,7 +1542,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -1432,7 +1554,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1444,7 +1567,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     }
   ],

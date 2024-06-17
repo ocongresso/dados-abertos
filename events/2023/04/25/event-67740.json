@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Pronto.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Passemos a",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "Com a competência, a maestria e conhecimento que lhe é peculiar. Boa tarde",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Geraldo Resende -- por Participante -- Weliton Prado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-geraldo-resende-por-participante-weliton-prado"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220669,
         "name": "Lula da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lula-da-fonte"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -263,7 +284,8 @@
       "summary": "Deputado Estadual do Espírito Santo fala sobre compromisso com combate ao câncer, destacando importância de hospitais especializados e acesso à radioterapia moderna em todo Brasil, com apoio de hospitais e serviços existentes em seu estado. Sua especialidade, radioterapia, considera amor primeiro tratamento contra câncer. Pede comissão para debater melhorias em radioterapia e colaboração de sociedade especializada.",
       "speaker": {
         "name": "Dr Bruno Resende",
-        "position": "Deputado Estadual do Espírito Santo"
+        "position": "Deputado Estadual do Espírito Santo",
+        "slug": "dr-bruno-resende"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -285,7 +308,8 @@
       "transcription": "Da Assembleia Legislativa e vamos avançar a sugestão de vossa excelência. Muito bacana né? Parabéns e concordo plenamente né o doutor,",
       "speaker": {
         "name": "Dr Bruno Resende",
-        "position": "Deputado Estadual do Espírito Santo"
+        "position": "Deputado Estadual do Espírito Santo",
+        "slug": "dr-bruno-resende"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     }
   ],

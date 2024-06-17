@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Secretário Extraordinário para Transformação do Estado-Ministério da Gestão e Inovação aponta cinco desafios:",
       "speaker": {
         "name": "Francisco Gaetani",
-        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação"
+        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação",
+        "slug": "francisco-gaetani"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -51,7 +54,8 @@
       "transcription": "Boa tarde",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arnaldo Jardim -- por Participante -- Carol Dartora",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arnaldo-jardim-por-participante-carol-dartora"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Secretário de Governo Digital anunciou expansão e melhoria de serviços governamentais digitais no Brasil, com foco em interoperabilidade, minimização de burocracia e digitalização de 100% de serviços públicos até 2023. Planeja-se também lançar nova carteira de identidade nacional, priorizando privacidade, segurança da informação e cibersegurança.",
       "speaker": {
         "name": "Rogério Souza Mascarenhas",
-        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação"
+        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação",
+        "slug": "rogerio-souza-mascarenhas"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Transformação digital crucial em política pública federal. Paradigma atual é \"digital governance\", com cidadãos digitais exigentes e administração atrasada. Governo digital é adoção de tecnologia digital para modernizar. Receita Federal tem histórico nessa área desde 1968.",
       "speaker": {
         "name": "Juliano Brito da Justa Neves",
-        "position": "Subsecretário de Gestão Coorporativa - Receita Federal do Brasil"
+        "position": "Subsecretário de Gestão Coorporativa - Receita Federal do Brasil",
+        "slug": "juliano-brito-da-justa-neves"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Conselho Nacional de Secretários de Estado da Administração promove transformação digital em estados por 20 anos, criando grupo de trabalho de transmissão digital em 2019 e desenvolvendo diagnóstico em oito eixos. Book de transição fornece boas práticas para novos governos e gestores. Novo ministério MGI fortalece parceria com Consad e estados.",
       "speaker": {
         "name": "Fabrício Barbosa",
-        "position": "Presidente - Conselho Nacional dos Secretários de Estado da Administração - Consad"
+        "position": "Presidente - Conselho Nacional dos Secretários de Estado da Administração - Consad",
+        "slug": "fabricio-barbosa"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Departamento prioriza registro de empresas, focando em desburocratização, simplificação e transformação digital. Desde 2",
       "speaker": {
         "name": "Amanda Mesquita Souto",
-        "position": "Diretora-Executiva - Departamento Nacional de Registro Empresarial e Integração do Ministério do Desenvolvimento"
+        "position": "Diretora-Executiva - Departamento Nacional de Registro Empresarial e Integração do Ministério do Desenvolvimento",
+        "slug": "amanda-mesquita-souto"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República agradece convite, estratégia digital importante para transformação, legislação sobre gestor público requer tolerância a risco, inovação pode ser barata, foco em qualidade de serviço público, desafio de universalização de serviços digitais, sociedade brasileira ainda tem gap com internet.",
       "speaker": {
         "name": "Pedro Helena Pontual Machado",
-        "position": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República"
+        "position": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República",
+        "slug": "pedro-helena-pontual-machado"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Governo digital e inclusão digital necessários a municípios, mas muitos atrás. Planejamento, avaliação e estrutura de gestão de TI importantes para implementação de tecnologias em municípios. Ainda muita legislação por cumprir para atuação dos municípios, especialmente em territórios com déficits em conectividade e infraestrutura de TI. Qualificação de agentes públicos e acesso a tecnologias dos cidadãos essenciais para eficiência do governo digital.",
       "speaker": {
         "name": "Emerson Souto",
-        "position": "Consultor de Inovação da Confederação Nacional dos Municípios"
+        "position": "Consultor de Inovação da Confederação Nacional dos Municípios",
+        "slug": "emerson-souto"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Participante defende transição para receita federal totalmente digitalizada, mas alerta pela necessidade de melhorar inclusão digital e integração de sistemas governamentais. Ele também sub stress a contribuição de todas as estruturas formais e a adaptação às inovações tecnológicas, como inteligências artificiais, para alcançar o futuro. Ele elogia reflexão sobre digitalização da administração pública e ferramentas disponíveis para gestão pública e população.",
       "speaker": {
         "name": "Vilson Antonio Romero",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vilson-antonio-romero"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Período de pandemia revelou falta de preparação e capacitação em tecnologia, causando problemas em instituições. Ajustes precisaram ser feitos abruptamente devido à explosão do uso de tecnologia como único canal possível. Muitas instituições de ensino paralisaram suas atividades em busca de capacidade mínima de operação com a ferramenta disponível. Secretário de Governo Digital - Ministério da Gestão e da Inovação.",
       "speaker": {
         "name": "Rogério Souza Mascarenhas",
-        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação"
+        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação",
+        "slug": "rogerio-souza-mascarenhas"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Secretário de Governo Digital - Ministério da Gestão e da Inovação enfatizou a importância da preparação e capacitação antes da implementação de soluções tecnológicas, incluindo testes e homologação.",
       "speaker": {
         "name": "Rogério Souza Mascarenhas",
-        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação"
+        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação",
+        "slug": "rogerio-souza-mascarenhas"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Participante perguntou sobre organização das secretarias no Ministério de Gestão e interlocutores no parlamento.",
       "speaker": {
         "name": "Rafael Amorim",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rafael-amorim"
       }
     },
     {
@@ -292,7 +316,8 @@
       "summary": "Novo ministério impulsiona gestão pública em órgãos, abordando serviço público, modelagem organizacional, transformação digital, e compras. Reconhecimento de tratamento necessário por crise governamental. Três secretarias executivas e Secretaria Extraordinária de Transformação de Estados para apoiar formulação, implementação, e synergia interna no ministério.",
       "speaker": {
         "name": "Francisco Gaetani",
-        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação"
+        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação",
+        "slug": "francisco-gaetani"
       }
     },
     {
@@ -304,7 +329,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -315,7 +341,8 @@
       "summary": "Secretário Extraordinário para Transformação do Estado: necessita colaboração entre ramos do governo, sociedade e setores para enfrentar desafios como fragilidade da esfera pública, saúde, educação e mudanças tecnológicas; promover ações conjuntas para construir um futuro melhor; Brasil deve focar em seus próprios resultados e se compreender melhor para prosseguir.",
       "speaker": {
         "name": "Francisco Gaetani",
-        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação"
+        "position": "Secretário Extraordinário para Transformação do Estado - Ministério da Gestão e da Inovação",
+        "slug": "francisco-gaetani"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -337,7 +365,8 @@
       "summary": "Secretário de Governo Digital propõe visão federativa e ênfase no cidadão, valorizando integração, parceria e compartilhamento de aprendizados com estados e municípios, utilizando ferramentas como GOV.BR para melhorar interação cidadão-governo.",
       "speaker": {
         "name": "Rogério Souza Mascarenhas",
-        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação"
+        "position": "Secretário de Governo Digital - Ministério da Gestão e da Inovação",
+        "slug": "rogerio-souza-mascarenhas"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -359,7 +389,8 @@
       "summary": "Subsecretário de Gestão Coorporativa - Receita Federal do Brasil enfatizou a importância de priorizar a transformação social em discussões sobre transformação digital, em vez de focar unicamente na tecnologia.",
       "speaker": {
         "name": "Juliano Brito da Justa Neves",
-        "position": "Subsecretário de Gestão Coorporativa - Receita Federal do Brasil"
+        "position": "Subsecretário de Gestão Coorporativa - Receita Federal do Brasil",
+        "slug": "juliano-brito-da-justa-neves"
       }
     },
     {
@@ -370,7 +401,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -381,7 +413,8 @@
       "summary": "Presidente do Consad oferece colaboração do CONSAD em discussões de transmissão digital, destaca importância da união e ampla discussão para alcançar objetivos com foco no cidadão.",
       "speaker": {
         "name": "Fabrício Barbosa",
-        "position": "Presidente - Conselho Nacional dos Secretários de Estado da Administração - Consad"
+        "position": "Presidente - Conselho Nacional dos Secretários de Estado da Administração - Consad",
+        "slug": "fabricio-barbosa"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -403,7 +437,8 @@
       "summary": "Consultor de Inovação da Confederação Nacional de Municípios enfatizou a importância da transformação digital como meio para alcançar serviços eficientes aos cidadãos, destacando também a necessidade de colaboração em políticas públicas, incluindo arrecadação fiscal.",
       "speaker": {
         "name": "Emerson Souto",
-        "position": "Consultor de Inovação da Confederação Nacional dos Municípios"
+        "position": "Consultor de Inovação da Confederação Nacional dos Municípios",
+        "slug": "emerson-souto"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -425,7 +461,8 @@
       "summary": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República falou sobre união e reconstrução, destacando a importância de discutir fluxos e estruturas no processo de digitalização, para avançar nos serviços prestados à população. Não apenas uma \"mágica\" da digitalização, mas uma melhora estrutural.",
       "speaker": {
         "name": "Pedro Helena Pontual Machado",
-        "position": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República"
+        "position": "Secretário-Executivo Adjunto - Casa Civil da Presidência da República",
+        "slug": "pedro-helena-pontual-machado"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     }
   ],

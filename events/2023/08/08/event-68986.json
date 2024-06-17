@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Presidente G16 - Universidade do Tiro abordou impacto decreto 11.615 no comércio de armas e funcionamento de clubes, mostrando queda no faturamento de suas unidades desde outubro de 2022 e redução de colaboradores. Destacou obrigações fiscais e responsabilidade social dos clubes e lojas, promovendo workshops e boas práticas. Mencionou decreto sobre distanciamento de clubes de tiro perto de escolas, afetando suas unidades.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Presidente G16 - Universidade do Tiro: custo de construção inclui rigorosa fiscalização, estruturas reforçadas, não reutilizáveis como outro tipo de imóvel.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Presidente do G16 da Universidade do Tiro afirma falta de tempo útil e exaustão de recursos durante incerteza em relação aos decretos.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Presidente do G16 da Universidade do Tiro disse que gastou quase um milhão de reais na reforma de um imóvel no valor inicial de 550 mil reais.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Presidente G16 - Universidade do Tiro abordou temas como regra distância clubes-escolas, tiro esportivo e impactos no setor. Explicou como regra afetará suas unidades, a importância do tiro esportivo e consequências para atiradores e lojas. Solicitou mudanças no decreto para garantir retorno de processos e evitar paralisação do setor. Afirmou que clubistas e lojistas são mais que simples empresários, são heróis do setor.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Presidente do G16 - Universidade do Tiro prioriza regulamentação dos decretos e necessidade de trabalhar.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Presidente-G16-Universidade do Tiro afirmou que, graças ao decreto, houve melhora em relação ao decreto provisório anterior, diminuindo incerteza em comércio de armas e documentos, além de cursos. Ele ainda mencionou a necessidade de se estudar se deve suspender o decreto através de PDL e trabalhar para ganhar tempo, caso os órgãos fiscalizadores voltem a analisar os processos.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -214,7 +231,8 @@
       "summary": "Presidente do G16 da Universidade do Tiro afirma falta de efetivo na Polícia Federal para analisar processos de posse, incluindo aqueles com elevado número de CACs em um período de quatro anos.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 160545,
         "name": "Alexandre Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-leite"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -285,7 +308,8 @@
       "summary": "Presidente G16 da Universidade do Tiro pressiona órgãos fiscalizadores por atraso na implementação de distância de tiro de 1 km, atendendo preocupação de clubistas.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -308,7 +333,8 @@
       "summary": "Decreto suspende concessões de CR, suspende análise de processos desde janeiro, novo decreto próximo de ser emitido.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -320,7 +346,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -331,7 +358,8 @@
       "summary": "Presidente G16 da Universidade do Tiro abordou insegurança jurídica causada por reclassificação de calibres, agora nove milímetros restrito, proibindo aquisição por novos titulares de Carteira de Armas por três anos, impactando lojistas com estoques atuais.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -343,7 +371,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -353,7 +382,8 @@
       "transcription": "É congelado é dessa forma como a empresa quebra infelizmente. Então",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -376,7 +407,8 @@
       "summary": "Presidente G16 Universidade do Tiro propõe reconsiderar calibre 9mm como permitido, argumentando risco de inafiança e inutilidade com restrição, sendo amplamente utilizado mundialmente com menor carga propelente.",
       "speaker": {
         "name": "Gustavo Pazzini Araújo da Silva",
-        "position": "Presidente - G16 - Universidade do Tiro"
+        "position": "Presidente - G16 - Universidade do Tiro",
+        "slug": "gustavo-pazzini-araujo-da-silva"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 160545,
         "name": "Alexandre Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-leite"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -459,7 +497,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -470,7 +509,8 @@
       "summary": "Advogado propõe reflexões sobre caminho a seguir no parlamento, relacionado à constituição e à vontade popular de manter o direito à posse de armas, demonstrada em plebiscito de 2005. Sugere que leis devem estar em harmonia com a constituição e respeitar o resultado do referendo, que indicou o desejo da maioria dos brasileiros de manter esse direito, apesar da existência de uma lei restritiva e desarmamentista.",
       "speaker": {
         "name": "Eládio Barbosa Carneiro",
-        "position": "Advogado"
+        "position": "Advogado",
+        "slug": "eladio-barbosa-carneiro"
       }
     },
     {
@@ -482,7 +522,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -493,7 +534,8 @@
       "summary": "Advogado afirma que o estatuto de desarmamento, com origem em alta taxa de criminalidade, falhou em seu objetivo, ao permitir que criminalistas se armassem enquanto desarmava cidadãos respeitáveis. Sua proposta de alteração através de decreto é contestada, visto que a matéria deve ser avaliada pelo Congresso Nacional. Sua preocupação é que restrições desnecessárias possam incentivar a atuação criminosa e desestimular a autodefesa de cidadãos respeitáveis.",
       "speaker": {
         "name": "Eládio Barbosa Carneiro",
-        "position": "Advogado"
+        "position": "Advogado",
+        "slug": "eladio-barbosa-carneiro"
       }
     },
     {
@@ -505,7 +547,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -516,7 +559,8 @@
       "summary": "Presidente do Clube BigBoar chateado com tratamento de tiro esportivo; alega perda de 100 mil empregos e impacto econômico no setor.",
       "speaker": {
         "name": "Rodrigo Correia Moreira",
-        "position": "Presidente - Clube de Tiro e Caça BigBoar"
+        "position": "Presidente - Clube de Tiro e Caça BigBoar",
+        "slug": "rodrigo-correia-moreira"
       }
     },
     {
@@ -528,7 +572,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -539,7 +584,8 @@
       "summary": "Presidente do Clube BigBoar discute importância de clube de tiro para formação de atiradores habilidosos, cita aumento de armas na população mas redução de crimes violentos com armas de fogo nos últimos cinco anos, alerta por possível encerramento de clubes de tiro e pede apoio para debates sobre o assunto.",
       "speaker": {
         "name": "Rodrigo Correia Moreira",
-        "position": "Presidente - Clube de Tiro e Caça BigBoar"
+        "position": "Presidente - Clube de Tiro e Caça BigBoar",
+        "slug": "rodrigo-correia-moreira"
       }
     },
     {
@@ -551,7 +597,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -563,7 +610,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -574,7 +622,8 @@
       "summary": "Presidente do Clube de Tiro e Caça BigBoar afirmou que todos recadastraram armas, demonstrando cumprimento da legislação, ao contrário do suposto alto percentual de armas não recadastradas.",
       "speaker": {
         "name": "Rodrigo Correia Moreira",
-        "position": "Presidente - Clube de Tiro e Caça BigBoar"
+        "position": "Presidente - Clube de Tiro e Caça BigBoar",
+        "slug": "rodrigo-correia-moreira"
       }
     },
     {
@@ -586,7 +635,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -598,7 +648,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -610,7 +661,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -622,7 +674,8 @@
       "speaker": {
         "id": 160545,
         "name": "Alexandre Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-leite"
       }
     },
     {
@@ -634,7 +687,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -646,7 +700,8 @@
       "speaker": {
         "id": 160545,
         "name": "Alexandre Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-leite"
       }
     },
     {
@@ -658,7 +713,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -668,7 +724,8 @@
       "transcription": "",
       "speaker": {
         "name": "Max Sangi",
-        "position": "Glock Brasil"
+        "position": "Glock Brasil",
+        "slug": "max-sangi"
       }
     },
     {
@@ -679,7 +736,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -690,7 +748,8 @@
       "summary": "Glock Brasil coordena equipe comercial e agradece presentes; destaca encontro sobre segurança jurídica no mercado, com 20 anos no Brasil e foco no cliente. Pede atenção a importadores, afectados por nova regulação, com estoque parado e que contribuem com tributos e empregos no país. Calibre 9mm é eficiente e majoritário no mercado, associado à queda de criminalidade.",
       "speaker": {
         "name": "Max Sangi",
-        "position": "Glock Brasil"
+        "position": "Glock Brasil",
+        "slug": "max-sangi"
       }
     },
     {
@@ -702,7 +761,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -714,7 +774,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -726,7 +787,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -738,7 +800,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -750,7 +813,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -762,7 +826,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -774,7 +839,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -786,7 +852,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -797,7 +864,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -809,7 +877,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -821,7 +890,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

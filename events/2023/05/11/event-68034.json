@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204411,
         "name": "Filipe Barros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-barros"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Funcionamento ainda não claro, refere-se ao roteiro e à oradora.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Filipe Barros -- por Participante -- Gustavo Gayer",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-filipe-barros-por-participante-gustavo-gayer"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 204411,
         "name": "Filipe Barros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-barros"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     }
   ],

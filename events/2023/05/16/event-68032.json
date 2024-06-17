@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Senhoras e senhores então Vamos encerrar o período de votação, já alcançamos o número mínimo, já tem até algum deputado a mais.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "Quem queira votar?",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     }
   ],

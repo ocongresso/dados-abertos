@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônias anuncia lançamento de nota recomendatória priorizando a primeira infância em PPAs, LDOs e LOAs dos governos estaduais, municipais e do Distrito Federal. A cerimônia conta com a presença de autoridades dos Poderes Executivo, Legislativo e Judiciário, além de representantes de entidades da sociedade civil e de organismos internacionais. O evento marca também o quarto aniversário do Pacto Nacional pela Primeira Infância.",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Mestre de Cerimônias anunciou o discurso do deputado Zacarias Kalil e a presença de Maria Raquel Melo na mesa, destacando a importância do orçamento.",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Mestre de Cerimônias apresenta presidente do Tricom, conselheiro César Miola, que discursará em nome de entidades sistemas de tribunais de contas.",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -78,7 +84,8 @@
       "summary": "Presidente da ATRICON aborda importância de garantir direitos de crianças desfavorecidas, destacando ação conjunta de justiça, controle externo, Poder Executivo e Legislativo. Insinua necessidade de aumento de verbas públicas para isto. Invoca mobilização, escuta e apoio de todos os entes da federação. Falou sobre a necessidade de manter crianças na escola e colher resultados na educação. Cita importância da eficiência, efetividade e qualidade do gasto público.",
       "speaker": {
         "name": "CEZAR MIOLA",
-        "position": "Presidente da ATRICON"
+        "position": "Presidente da ATRICON",
+        "slug": "cezar-miola"
       }
     },
     {
@@ -88,7 +95,8 @@
       "transcription": "",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Conselheiro do CNJ saluta autoridades e participantes, elogia iniciativa da Tricom e parceiros, e destaca importância de investimentos e políticas públicas para cumprir direitos da primeira infância e garantir desenvolvimento integral das crianças. É necessária ação imediata para evitar omissão do Estado e sociedade, e as mudanças positivas devem acontecer agora, pois o futuro é hoje.",
       "speaker": {
         "name": "RICHARD PAE KIM",
-        "position": "Conselheiro do CNJ"
+        "position": "Conselheiro do CNJ",
+        "slug": "richard-pae-kim"
       }
     },
     {
@@ -109,7 +118,8 @@
       "transcription": "",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -121,7 +131,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -133,7 +144,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -145,7 +157,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -155,7 +168,8 @@
       "transcription": "",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -166,7 +180,8 @@
       "summary": "Presidente da ATRICON salienta importância de priorizar primeira infância em planos e orçamentos dos legislativos estaduais, distrital e municipais, com ênfase na transparência. Convida entidades e pessoas a aderirem à nota recomendatória publicada, destacando o movimento dos tribunais de contas brasileiros em defesa da primeira infância.",
       "speaker": {
         "name": "CEZAR MIOLA",
-        "position": "Presidente da ATRICON"
+        "position": "Presidente da ATRICON",
+        "slug": "cezar-miola"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Presidente do Tribunal de Contas do Estado do Tocantins sauda e agradece incentivo à trabalho do tribunal. Menciona presença de autoridades federais e estaduais, relator de orçamento, e presidentes de associações relacionadas. Comemora vídeo institucional como marco para o Tocantins, simbolizando compromisso.",
       "speaker": {
         "name": "ANDRÉ LUIZ MATOS",
-        "position": "Presidente do Tribunal de Contas do Estado do Tocantins"
+        "position": "Presidente do Tribunal de Contas do Estado do Tocantins",
+        "slug": "andre-luiz-matos"
       }
     },
     {
@@ -187,7 +203,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -197,7 +214,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -208,7 +226,8 @@
       "summary": "Presidente do Tribunal de Contas do Estado do Tocantins elogia trabalho do tribunal, destaca papel ativo em orçamentos para primeira infância e mediador entre executivo e legislativo. Menciona entrega de projetos sobre primeira infância em 24 de agosto e envolvimento de diversas entidades. Reconhece empenho do sistema de controle externo em todo o país.",
       "speaker": {
         "name": "ANDRÉ LUIZ MATOS",
-        "position": "Presidente do Tribunal de Contas do Estado do Tocantins"
+        "position": "Presidente do Tribunal de Contas do Estado do Tocantins",
+        "slug": "andre-luiz-matos"
       }
     },
     {
@@ -219,7 +238,8 @@
       "summary": "Mestre de Cerimônias:",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -230,7 +250,8 @@
       "summary": "Secretária Adjunta de Plenajamento e Orçamento homenageia mulheres e aborda desafios do Plano Plurianual 2022-2025, que prioriza políticas multissetoriais para primeira infância com foco em 2 milhões de programas e 44 objetivos específicos. Orçamento será bem aplicado e monitorado com indicadores de resultados influenciados por prioridades governamentais, com participação popular na elaboração do plano com foco em saúde, segurança alimentar e cidadania.",
       "speaker": {
         "name": "MARIA RAQUEL MELO",
-        "position": "Secretária Adjunta de Plenajamento e Orçamento"
+        "position": "Secretária Adjunta de Plenajamento e Orçamento",
+        "slug": "maria-raquel-melo"
       }
     },
     {
@@ -240,7 +261,8 @@
       "transcription": "",
       "speaker": {
         "name": "DAVID PEREIRA PIRES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "david-pereira-pires"
       }
     },
     {
@@ -251,7 +273,8 @@
       "summary": "Presidente do TCE-PE afirma importante acordo nacional sobre primeira infância; destaca projeto de lei que exige inclusão da infância nos planos plurianuais; menciona falta de financiamento do governo federal; sugestão de centralização de recursos para primeira infância; referência ao papel de controle externo nas políticas públicas; parabeniza autoridades e entidades envolvidas.",
       "speaker": {
         "name": "RANILSON RAMOS",
-        "position": "Presidente do TCE - PE"
+        "position": "Presidente do TCE - PE",
+        "slug": "ranilson-ramos"
       }
     },
     {
@@ -262,7 +285,8 @@
       "summary": "Vice Presidente da ATRICON convidou e agradeceu a deputada Paula, considerando-a importante para a primeira infância.",
       "speaker": {
         "name": "EDILSON SOUSA",
-        "position": "Vice Presidente da ATRICON"
+        "position": "Vice Presidente da ATRICON",
+        "slug": "edilson-sousa"
       }
     },
     {
@@ -274,7 +298,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -284,7 +309,8 @@
       "transcription": "",
       "speaker": {
         "name": "PAULA BELMONTE",
-        "position": "Deputada Distrital"
+        "position": "Deputada Distrital",
+        "slug": "paula-belmonte"
       }
     },
     {
@@ -294,7 +320,8 @@
       "transcription": "Muito obrigado deputada, certamente, pois não deputado Kalil.",
       "speaker": {
         "name": "EDILSON SOUSA",
-        "position": "Vice Presidente da ATRICON"
+        "position": "Vice Presidente da ATRICON",
+        "slug": "edilson-sousa"
       }
     },
     {
@@ -306,7 +333,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -317,7 +345,8 @@
       "summary": "Deputada Distrital anunciou conclusão do primeiro centro de pesquisa para estudos de primeira infância dentro da universidade antes do final do ano.",
       "speaker": {
         "name": "PAULA BELMONTE",
-        "position": "Deputada Distrital"
+        "position": "Deputada Distrital",
+        "slug": "paula-belmonte"
       }
     },
     {
@@ -329,7 +358,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -340,7 +370,8 @@
       "summary": "Vice Presidente da ATRICON refere importância da infância para construção do futuro, investedo na primeira infância é construir base sólida do país. Elogia inserção da infância no PPA e destaca papel da ministra Simone Tebet nisso. Valoriza olhar de mãe e médico no atendimento à infância e convida deputada Simone Santana e Fabiano Oliveira para falarem sobre o tema.",
       "speaker": {
         "name": "EDILSON SOUSA",
-        "position": "Vice Presidente da ATRICON"
+        "position": "Vice Presidente da ATRICON",
+        "slug": "edilson-sousa"
       }
     },
     {
@@ -351,7 +382,8 @@
       "summary": "Deputada Estadual-PE elogia nota recomendatória de orçamento priorizando primeira infância, menciona história de preocupação com o tema e enfatiza importância de saúde, educação, proteção, lazer e direito ao brincar. Cita lei do Dia Estadual do Brincar e PEC com identificação de rubricas orçamentárias para ações da primeira infância. Conclui esperando efetivação da lei e chegada de políticas públicas a municípios necessitados.",
       "speaker": {
         "name": "SIMONE SANTANA",
-        "position": "Deputada Estadual - PE"
+        "position": "Deputada Estadual - PE",
+        "slug": "simone-santana"
       }
     },
     {
@@ -362,7 +394,8 @@
       "summary": "Vice Presidente da ATRICON propõe difusão da experiência de Pernambuco sobre exigência constitucional em texto constitucional, como boa prática para tribunais de contas e governos municipais e estaduais, antes de introdução de diretora executiva da AND comunicações e direitos.",
       "speaker": {
         "name": "EDILSON SOUSA",
-        "position": "Vice Presidente da ATRICON"
+        "position": "Vice Presidente da ATRICON",
+        "slug": "edilson-sousa"
       }
     },
     {
@@ -373,7 +406,8 @@
       "summary": "Sociedade civil importante na política de primeira infância; Rede Nacional Primeira Infância coordena maioria por sociedade civil; Guia para elaboração de planos pela primeira infância; Lançamento de Observatório RNPI com dados atualizados de indicadores em agosto.",
       "speaker": {
         "name": "MIRIAM PRAGITA",
-        "position": "Diretora Executiva da ANDI"
+        "position": "Diretora Executiva da ANDI",
+        "slug": "miriam-pragita"
       }
     },
     {
@@ -384,7 +418,8 @@
       "summary": "Reunião sobre priorização de primeira infância no orçamento brasileiro, com apoio de entidades e autoridades. Recomenda-se inclusão e prioridade no planejamento orçamentário anual e plurianual, promovendo investimento em cidadãos e Estado.",
       "speaker": {
         "name": "EDILSON SOUSA",
-        "position": "Vice Presidente da ATRICON"
+        "position": "Vice Presidente da ATRICON",
+        "slug": "edilson-sousa"
       }
     }
   ],

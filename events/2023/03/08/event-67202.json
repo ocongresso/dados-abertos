@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Sessão solicitada por deputadas, alguns absentes devido a problemas de saúde e ausência da governadora. Todos convidados a respeitar a execução do Hino Nacional pela Banda Militar do Distrito Federal.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -61,7 +65,8 @@
       "transcription": "Bom dia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegada Ione -- por Participante -- Sâmia Bomfim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegada-ione-por-participante-samia-bomfim"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "Deputada Carol da Arturra, primeira mulher negra eleita pelo Paraná, assume cargo de participante da mesa.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sâmia Bomfim -- por Participante -- Carol Dartora",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-samia-bomfim-por-participante-carol-dartora"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -153,7 +165,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Carol Dartora -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-carol-dartora-por-participante-bia-kicis"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -199,7 +215,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bia Kicis -- por Participante -- Delegada Ione",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bia-kicis-por-participante-delegada-ione"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -269,7 +291,8 @@
       "summary": "Vereadora da Câmara Municipal de Lagoa Santa/MG homenageia Dia Internacional da Mulher, reconhecendo conquistas desde 1902, mencionando figuras notáveis e desafios atuais. Expressa preocupação com desigualdade política local e espera conquistas e esperança para todas as mulheres. Promover igualdade por governos, sociedade e setor privado.",
       "speaker": {
         "name": "Sabrina",
-        "position": "Vereadora da Câmara Municipal de Lagoa Santa/MG"
+        "position": "Vereadora da Câmara Municipal de Lagoa Santa/MG",
+        "slug": "sabrina"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -316,7 +342,8 @@
       "summary": "Perdeu filha para câncer e construiu hospital priorizando crianças; líder em tratamento de doenças complexas, inclui parcerias internacionais. Atuou em grupos de mulheres, promove educação, empreendedorismo, igualdade social e combate à violência. Hoje, Hospital da Criança de Brasília realizou mais de seis milhões de atendimentos (Fundadora do Hospital da Criança de Brasília-HCB e Conselheira do Grupo Mulheres do Brasil).",
       "speaker": {
         "name": "Ilda Peliz",
-        "position": "Fundadora do Hospital da Criança de Brasília-HCB e Conselheira do Grupo Mulheres do Brasil"
+        "position": "Fundadora do Hospital da Criança de Brasília-HCB e Conselheira do Grupo Mulheres do Brasil",
+        "slug": "ilda-peliz"
       }
     },
     {
@@ -328,7 +355,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -363,7 +393,8 @@
       "summary": "A Professora de Direito Público e Advogada salientou a importância de homenagear as mulheres em posições de liderança e reconhecer as dificuldades enfrentadas no ambiente profissional e pessoal. Destacou a necessidade de mulheres serem respeitadas e terem a mercitocracia aplicada, visto que, apesar de serem mais competentes, elas ganham menos e enfrentam desafios adicionais para alcançar sucesso. A palestra foi dedicada à memória de Yanni Brena, possível vítima de feminicídio.",
       "speaker": {
         "name": "Karina Kufa",
-        "position": "Professora de Direito Público e Advogada"
+        "position": "Professora de Direito Público e Advogada",
+        "slug": "karina-kufa"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -409,7 +443,8 @@
       "summary": "Coordenadora de Comunicação da Anis - Instituto de Bioética, Direitos Humanos e Gênero abordou justiça reprodutiva como horizonte de luta por vida digna e plena, em discussão sobre direitos das mulheres. Cita questões como autonomia, liberdade, violência, opressões, intersecionalidade e a importância da educação sexual e serviços de aborto acessíveis e sem barreiras. Luta é pela vida das meninas, mulheres e gestantes, contra maleabilidades do patriarcado e interseccionais.",
       "speaker": {
         "name": "Nara Menezes",
-        "position": "Coordenadora de Comunicação da Anis - Instituto de Bioética, Direitos Humanos e Gênero"
+        "position": "Coordenadora de Comunicação da Anis - Instituto de Bioética, Direitos Humanos e Gênero",
+        "slug": "nara-menezes"
       }
     },
     {
@@ -421,7 +456,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -433,7 +469,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -445,7 +482,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -456,7 +494,8 @@
       "summary": "Mulheres indígenas discutem direitos no plenário, homenageando Antonieta de Barros. Lutas abrangem assistência, sobrevivência e organização. Hoje, havem mulheres indígenas no Cocar, lideradas por Sônia Guajajara, em secretarias e departamentos, incluindo direitos territoriais. Secretarias de Pará, Tocantins e Ceará também estão presentes. Mulheres indígenas unificam base, rua e política.",
       "speaker": {
         "name": "Kerexu Yxapyry",
-        "position": "Do Povo Mbya Guarani da Terra Indígena Morro dos Cavalos-SC"
+        "position": "Do Povo Mbya Guarani da Terra Indígena Morro dos Cavalos-SC",
+        "slug": "kerexu-yxapyry"
       }
     },
     {
@@ -468,7 +507,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -480,7 +520,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -491,7 +532,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -503,7 +545,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -515,7 +558,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -527,7 +571,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -539,7 +584,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -550,7 +596,8 @@
       "summary": "Diretora do Instituto Marielle Franco ressalta a luta contra violência política baseada em gênero e raça, celebra proposta de dia em homenagem a Marielle Franco, e destaca a necessidade de mecanismos para proteger mulheres negras, indígenas, LGBTs em política. Ela expressa frustração por falta de respostas sobre o assassinato de Marielle Franco e impunidade que perpetua ciclo de violência contra outras mulheres políticas.",
       "speaker": {
         "name": "Lígia Batista",
-        "position": "Diretora do Instituto Marielle Franco"
+        "position": "Diretora do Instituto Marielle Franco",
+        "slug": "ligia-batista"
       }
     },
     {
@@ -562,7 +609,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -574,7 +622,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -586,7 +635,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -598,7 +648,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -609,7 +660,8 @@
       "summary": "Avanços na presença feminina em Parlamentos, mas aumento de violência contra mulheres; grande desafio em políticas contra violência e mulheres na política. A lei Maria da Penha é um marco legal, mas feminicídio ainda ocorre. Necessário enfrentar violência com maior esforço e entendimento. Bancada feminina atua em combate à violência.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegada Ione -- por Participante -- Silvye Alves",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegada-ione-por-participante-silvye-alves"
       }
     },
     {
@@ -620,7 +672,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -632,7 +685,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -643,7 +697,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -653,7 +708,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Silvye Alves -- por Participante -- Delegada Ione",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-silvye-alves-por-participante-delegada-ione"
       }
     },
     {
@@ -665,7 +721,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -677,7 +734,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -689,7 +747,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -701,7 +760,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -713,7 +773,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -725,7 +786,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -737,7 +799,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -748,7 +811,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -760,7 +824,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -772,7 +837,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -784,7 +850,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -796,7 +863,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -808,7 +876,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -819,7 +888,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -831,7 +901,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -843,7 +914,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -855,7 +927,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -867,7 +940,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -879,7 +953,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -891,7 +966,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -903,7 +979,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -914,7 +991,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -926,7 +1004,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -938,7 +1017,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -950,7 +1030,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -962,7 +1043,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -974,7 +1056,8 @@
       "speaker": {
         "id": 136811,
         "name": "Afonso Hamm",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-hamm"
       }
     },
     {
@@ -985,7 +1068,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -997,7 +1081,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1009,7 +1094,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1021,7 +1107,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1032,7 +1119,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1044,7 +1132,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -1056,7 +1145,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1068,7 +1158,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -1080,7 +1171,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1092,7 +1184,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1104,7 +1197,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -1115,7 +1209,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1127,7 +1222,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -1139,7 +1235,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1151,7 +1248,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -1163,7 +1261,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1175,7 +1274,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -1187,7 +1287,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1199,7 +1300,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -1211,7 +1313,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -1223,7 +1326,8 @@
       "speaker": {
         "id": 220650,
         "name": "Paulo Alexandre Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-alexandre-barbosa"
       }
     },
     {
@@ -1235,7 +1339,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     }
   ],

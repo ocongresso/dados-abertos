@@ -13,7 +13,8 @@
       "summary": "Mestra de Cerimônia celebra avanços das mulheres no direito a voto e participação política, mas destaca sua minoria em cargos no Senado e Câmara. Chama a ação para maior igualdade e incentiva reflexão e luta. Evento promovido pelo grupo Mulheres do Brasil e Procuradoria da Mulher na Câmara dos Deputados, com cantoria do hino nacional.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Então dando seguimento ao nosso",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "Esse evento ela",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Mestre de Cerimônia anuncia debates sobre igualdade na política, promovida por Mulheres do Brasil e Procuradoria da Mulher na Câmara. Ela agradece a presença de Luiza Helena Trajano, Newdete Santana de Oliveira e Gisele Ferreira. Sheila apresenta as palestrantes Janete Vaz e Carol Caputo, que falarão sobre as propostas e metas do grupo.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -55,7 +59,8 @@
       "summary": "Grupo Mulheres do Brasil-Brasília agradece convite de deputado Arthur Lira e outros parlamentares; 18 mil mulheres em comitês trabalhando em diversas áreas. Notável trabalho durante pandemia, como campanha de vacinação e entrega de itens de saúde a centros de saúde. Principal objetivo é reinclusão da pauta da PL 1952/2020 para trazer mais mulheres para a política; chamada às mulheres para se envolverem ativamente.",
       "speaker": {
         "name": "Janete Vaz",
-        "position": "Presidente do Grupo Mulheres do Brasil - Brasília"
+        "position": "Presidente do Grupo Mulheres do Brasil - Brasília",
+        "slug": "janete-vaz"
       }
     },
     {
@@ -66,7 +71,8 @@
       "summary": "Mestre de Cerimônia anunciou participantes, corrigiu título e apresentou palestrantes do debate sobre avanços na participação feminina na política, lembrando sobre o tempo de fala.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -78,7 +84,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -88,7 +95,8 @@
       "transcription": "",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -100,7 +108,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -110,7 +119,8 @@
       "transcription": "",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -121,7 +131,8 @@
       "summary": "Senadora fala sobre a importância da sororidade e menciona várias leis e proposições recentemente aprovadas para proteger e promover os direitos das mulheres no Brasil. Ela também destaca a necessidade de recursos para implementar essas leis efetivamente.",
       "speaker": {
         "name": "Leila Barros",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "leila-barros"
       }
     },
     {
@@ -131,7 +142,8 @@
       "transcription": "Senadora Leila, gostaria de passar a palavra agora para a deputada Soraia Santos aqui na pontinha.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -143,7 +155,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -154,7 +167,8 @@
       "summary": "Mestre de Cerimônia agradeceu a oradora por suas palavras e elogiou seu conteúdo. Ela se referiu à oradora como uma mulher forte que representa a luta contra o machismo e é uma inspiração para outras mulheres. A Mestre de Cerimônia também apresentou a próxima palestrante, Taciana Medeiros, como a primeira mulher presidente do Banco do Brasil em 214 anos de história e um exemplo de diversidade e conquista feminina.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -165,7 +179,8 @@
       "summary": "Presidente do Banco do Brasil fala sobre equidade de gênero na política e no banco, prometendo ações afirmativas e inclusão financeira para mulheres. Elogia mulheres fortes na mesa e desafios como CEO por ser uma \"quebra de paradigma\".",
       "speaker": {
         "name": "Tarciana Medeiros",
-        "position": "Presidente do Banco do Brasil"
+        "position": "Presidente do Banco do Brasil",
+        "slug": "tarciana-medeiros"
       }
     },
     {
@@ -175,7 +190,8 @@
       "transcription": "",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -186,7 +202,8 @@
       "summary": "Coordenadora Residente do Sistema das Nações Unidas no Brasil:",
       "speaker": {
         "name": "Silvia Rucks",
-        "position": "Coordenadora Residente do Sistema das Nações Unidas no Brasil"
+        "position": "Coordenadora Residente do Sistema das Nações Unidas no Brasil",
+        "slug": "silvia-rucks"
       }
     },
     {
@@ -197,7 +214,8 @@
       "summary": "Mestre de Cerimônia falou sobre o direito das mulheres ao voto e a participação política. Destacou lutas e avanços, mas mencionou ainda a subrepresentação feminina em cargos políticos. Evento promovido pelo grupo Mulheres do Brasil e Procuradoria da Mulher, com objetivo de debater e buscar igualdade na política. A cerimônia terminou com a execução do hino nacional.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -208,7 +226,8 @@
       "summary": "Presidente do Grupo Mulheres do Brasil agradece convidado, elogia mulheres por realizações e união, destaca necessidade de foco e ação para combater violência contra mulheres e promover igualdade social em todo o mundo.",
       "speaker": {
         "name": "Luiza Trajano",
-        "position": "Presidente do Grupo Mulheres do Brasil"
+        "position": "Presidente do Grupo Mulheres do Brasil",
+        "slug": "luiza-trajano"
       }
     },
     {
@@ -219,7 +238,8 @@
       "summary": "Brasil mudar quero posso, país meu; sociedade salto dar necessita, pular precisamos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -229,7 +249,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -239,7 +260,8 @@
       "transcription": "Então dando seguimento ao nosso",
       "speaker": {
         "name": "Luiza Trajano",
-        "position": "Presidente do Grupo Mulheres do Brasil"
+        "position": "Presidente do Grupo Mulheres do Brasil",
+        "slug": "luiza-trajano"
       }
     },
     {
@@ -250,7 +272,8 @@
       "summary": "Mestre de Cerimônia agradece participação nas discussões sobre causa feminina, pede desculpas pelo pequeno espaço e anuncia roda de conversa sobre mulheres no poder, com foco no universo presidenciável. Presentes estão Lígia Pinto, diretora de relações institucionais do Grupo Mulheres do Brasil, e a senadora Soraya Thronicke.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -261,7 +284,8 @@
       "summary": "Mediadora apresenta grupos e personalidades, homenageia Marina Silva e lê mensagem dela sobre igualdade e política; destaca desafios de mulheres candidatas à presidência, incluindo resistência patriarcal em todos os setores e impacto nas políticas públicas. Passa a palavra à senadora para ouvir sua trajetória e reflexões.",
       "speaker": {
         "name": "Lígia Pinto",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ligia-pinto"
       }
     },
     {
@@ -271,7 +295,8 @@
       "transcription": "Muito obrigada Lígia. Senhoras e senhores, boa tarde. Eu quero começar saudando e agradecendo o convite do Mulheres do Brasil. Isso me honra muito convite desses e poder falar para uma plateia aqui tão seleta. E deveria ter mais homens aqui, né? Sinto falta, precisamos de mais homens aqui também, principalmente porque eles precisam escutar isso aqui, são eles que precisam, a gente está falando pra nossa plateia, né? Então aí aí fica complicado, E eu acho que não, eu acho que isso aqui é extremamente importante, desculpe os que estão aqui, mas eu vou contar uma história pra vocês. Todas as vezes, desde que eu fui eleita, que eu entro assim num num numa palestra, num evento pra mulheres na política, eu começo agradecendo aos homens por eu estar aqui. E eu explico porquê. Em dois mil e dezoito, quando eu estava ali como précandidata ainda ao Senado Federal, lá no meu estado, eu fui convidada pra simpósio de mulheres na política. Todas veteranas, exprefeitas, vereadoras, exdeputadas e tal, enfim. E eu era uma das mais novatas ali e convidaram uma gama de mulheres na área jurídica, na hora contábil, né referente a ao ao nessa sendo eleitoral pra nos dar orientações e tal e o evento era supra suprapartidário. E assim eu era mais desacreditada dali, mas o que que aconteceu? Em dois mil e dezoito, das vinte e quatro cadeiras da Assembleia Legislativa do Mato Grosso do Sul, nosso matogrossense, Soraia, não elegemos nenhuma mulher, nenhuma. Aquelas mulheres que estavam ali, nós falamos sobre legislação, falamos sobre aquele drama todo, E nós estávamos ali naquele momento dando crédito a isso, aquilo, aquele apoio, aquela tal coisa, mas também a rede social. Só que naquele momento a minha rede social também não era tão grande não. Eu não tinha no Facebook sequer dez mil seguidores. Instagram e Twitter eu nem nem acho que eu nem tinha Twitter. Mas desse montante de seguidores, cerca de dez mil, nós averiguamos que cerca de noventa e cinco por cento, noventa a noventa e cinco por cento eram homens naquele momento. Faixa etária, tudo, e na vida aqui na vida concreta, aqui no dia a dia, no olho no olho da campanha, nós percebemos que a presença masculina também era muito grande, ou seja, eu fui ajudada por muitos homens. Então, muitas vezes alguns parlamentares que deveriam estar aqui, a presença masculina também é de repente por achar que aqui a gente vai fazer esse embate, essa briga, e não é por isso. Nós só queremos o nosso tamanho de representatividade, né, Do tamanho que nós somos nesse Brasil. E quando a gente lembra disso, a senadora Lira não está mais aqui, mas ano antes do pleito de vinte e dois, nós aprovamos uma série de legislações aqui no Congresso pra melhorar, tanto que o fundo o fundo eleitoral dobrado pra cada mulher, e mesmo assim isso não adiantou. Mas lá no Senado Federal nós conseguimos aprovar projeto de lei que veio de lá junto com outros que que que acabaram passando e sendo sancionados. Mas deles foi aprovado com muita facilidade que era garantia, deputada Erika, garantia de trinta por cento de cadeiras. Nós aprovamos com muita facilidade e ainda eu me lembro bem, senadora Simone Tebet, quem foi minha parceira ali também como candidata. Nós negociamos porque eles iam levar susto muito grande se isso valesse pra dois mil e vinte e dois. Então nós fizemos isso de forma escalonada, a Ilana ataqueiou a Ilana, vai lembrar, fizemos de forma escalonada para que em dois mil e vinte e dois tivéssemos a garantia de dezoito por cento de cadeiras, porque a câmara, e aí será a briga lá, quando quando alguém não quer alguma coisa fala que a câmara errou, sabe? A câmara não está aceitando e a câmara queria quinze por cento, mas quinze por cento nós já estamos na atingindo naturalmente. Bom, conseguimos que esse projeto de lei passasse de forma escalonada, dezoito por cento até dois mil e trinta, num patamar de trinta por cento. Uma meta bem inferior ao propósito deste grupo que é cinquenta por cento de cadeiras. É muito inferior, mas nós nós preferimos naquele momento chegarmos com mais humildade porque já estava difícil demais deputada, estava. E aí conseguimos fazer passar, a votação foi simbólica e apenas dois senadores levantaram a mão, tiveram a coragem de levantar a mãe dizer que eram contra. Descubram quem são, não vou contar, não vou fazer fofoca aqui não. Descubram, tarefa de casa. Bom, chegou aqui na câmara a bancada feminina lá do Senado se movimentando pra que a gente conseguisse, mas pasmem, até mesmo deputadas eram contra. Muitas vezes por conta, elas falaram ai eu não gosto desse mimimi, desse vitimismo e dessa questão de cotas. Eu entrei aqui também muito contra essa questão de cotas, mas a gente precisa continuar Principalmente quando você vem pra cá e você sente na tua pele o que é ser uma mulher dentro da política brasileira. E aí, gente, a verdade é que esse projeto de lei morreu aqui, vou pedir até pra Maysa, minha assessora, dar uma olhada, né, porque eu acho que é arquivada e pedir pra vocês ou desarquivarem, por favor, porque é vergonhoso, enfim. Mas mesmo assim algumas de nós chegamos e aqui nessa bancada anterior, exaltamos os avanços, a Soraya exaltou enumerou avanços e mais avanços e mais avanços e mais avanços, mas nós continuamos aqui secando a língua de tanto falar. O ambiente ainda é inóspito. O ambiente ainda é difícil. É difícil. E eu estou há quatro anos como presidente da União Brasil mulher nacional trabalhando candidaturas femininas. Eu me sinto muito mal hoje por não termos atingido o nosso intuito, o nosso a nossa meta de eleger mais mulheres. Elas não estavam preparadas? Estavam sim. Elas nós estávamos trabalhando, colocando fundo partidário em prol da capacitação dessas mulheres, vai pra lá, vai pra cá. E eu penso assim muitas vezes deve ter alguém rindo da gente lá fora, porque parece que a gente fala fala fala faz e faz e faz e não aumenta da forma como deveria aumentar. Então uma nós precisamos não é por conta de falta de sempre aqui o meu apreço àqueles homens, a maioria dos homens que nos apoiam, dos nossos familiares, dos nossos esposos, companheiros, pais, irmãos, filhos, porque não é fácil você a família sempre fica tentando te puxar no sentido, ainda mais a minha que não é da política, sentido de proteger. Porque sabe o quanto nós ficamos expostas. E quando a mulher é exposta na política, ninguém xinga ela como xinga homem. Elas são as pessoas são muito mais hostil hostis com as mulheres. Não sei como é que está o meu tempo, me perdoe, porque eu preciso quanto? Posso? Porque eu quero adentrar lá na na campanha, quanto tempo que eu tenho? Cinco minutos. Eu vou falar no lugar da Marina e da Simone. Ah então vai me dar aí quarenta e cinco minutos. Bom, enfim, é ambiente muito difícil e nós temos trabalhado muito mas ainda não está bom, nós precisamos realmente cobrar o nosso espaço. E eu costumo contar que quando eu cheguei no Senado aí você pensa, poxa vida, uma mulher lá na casa alta, primeira eleição, cheguei aqui, as pessoas pensam, chegou lá está no poder. Não, né Ilana? Quando a gente chega dentro dos oitenta e você começa a disputar os espaços de poder com os oitenta. Com os oitenta, e não é nada fácil, porque a gente se engana e eu também, eu mudei muito no sentido de compreender o que é uma violência política contra a mulher porque ela é muito silenciosa. Nós somos bem tratadas, nossa senadora oi olha aqui uma cadeira eu vou dar minha cadeira pra senhora café não sei o que está bonita hoje não sei o que nossa todo muito educação Mas e o meu lugar no poder? Eles não têm medo de ir pro inferno, não têm medo de ir pro inferno. Porque e aí as relatorias, a maioria das relatoria designadas pra nós mulheres são do campo feminino. São nós a gente passa o nosso tempo falando de violência política, de violência contra a mulher, de lei Maria da Penha, de uma série de coisas, mas isso aí geralmente passa quando você entra num num acordo passa fácil. Porque é muito difícil a não ser alguns corajosos ou ignorantes que que tem a coragem de votar contra a gente, a maioria não se expõe ali não. Então vota, passa. Porque é feio votar contra as mulheres. Então a maioria das das das das relatorias que nos dão são nesse campo, no campo das doenças, cadê Rosângela Moro? Estava aí. Isso isso não é menos importante. Mas isso não é assunto só de mulher. Por quê? Porque o que eles querem são as pautas atinentes à economia, segurança pública, infraestrutura, mani, dinheiro, tributo. Isso é o poder. E nós estamos muito habilitadas, capacitadas para assumirmos isso, afinal, a maioria dos lares brasileiros são suportados financeiramente por mulheres. Já somos a maior parte do arrimo de família. Então sabemos sim lidar com economia. Por que esses espaços não são nossos? Espero que agora com este novo governo eu estou vendo uma boa vontade, uma boa vontade mesmo de lidar com as mulheres, parece que o 0 clima está melhorando no respeito a jornalistas enfim. Mas o que eu quero aqui como o meu tempo é curto dizer que sim, em dois mil e vinte e dois eu também também sofri violência política, não vou poder adentrar no fato agora, e se eu Soraia, senadora da república neste momento, estudei e tenho pósgraduação e tudo dentro do maior partido no Brasil, nem tão maior partido do Brasil. Se eu sofri violência política, se eu se tentaram também me fazer de escada, o que não passaram às outras mulheres? Eu quero deixar isso aqui pra vocês pensarem, não estou trazendo respostas e estou trazendo perguntas e estou trazendo aqui reflexão pra que possamos realmente ter responsabilidade com essa pauta. E assim, aqui olha, uma lista de projetos meus que eu não vou nem ter, assim, eu peço que vocês olhem porque eu acho que esse momento é tão importante aqui pra gente, uma série se eu for falar de todos eu vou ter que eu vai ser cortado o meu microfone. Então, vai né? Então, bom, mas enfim, aqui eu trago a minha voz de de gratidão, gratidão ao meu partido que me deu a oportunidade, eu aceitei na terceira vez, eu viria de vice do presidente Bivar e aí os planos mudaram e eu fui assim na última hora que nem disse o João Doria pra mim que entrou já na prorrogação, não foi nem nos quarenta e cinco do segundo tempo. Mas eu perguntei assim pro partido, eu, porque eu sempre presei muito a minha liberdade, a minha independência e sempre fui respeitada. Falei, eu posso ser eu? Claro, Soraia, imagina, eu posso falar o que eu quiser nos debates? Lógico, o senadora claro candidata não sei o que, não sei o que, não sei o que, Quando eu falei eu acho que tinha gente que não me conhecia o suficiente. Que eu não estava brincando. E nem vou brincar. E aqui, obrigada. E não não tenho medo, né? Por mais que tenha sido muito muito difícil, muito difícil ficar como presidente ali né do União Brasil mulher, uma maioria das mulheres sem autonomia financeira. Né? Não tem autonomia financeira. Nós temos autonomia financeira dos nossos nos nossos partidos ou é tudo pra inglês ver? E por último, falando em inglês ver? Sempre parabenizo e agradeço o presidente Rodrigo Pacheco, a Leila estava agradecendo. Nós temos uma liderança feminina. Pergunta se nós temos uma sala, Soraia, pra gente ter uma reunião. Não estou falando em querer cargo não mas pergunta se nós temos cargo. Tudo pra mulher tem sido pra inglês ver, pra fazer cena. Para quem? Às vezes pras próprias mulheres. Então aqui comigo não, eu tenho o microfone eu vou usar o meu microfone é o que eu tenho. Porque nem autonomia financeira dentro das dos nossos, nós não temos. É como se tivesse o cabeça de família de antigamente ele que ele que que gere o recurso né você. E aí fica falando pra todo mundo que isso existe, então que possamos abrir nossos olhos em relação a nossa realidade, avançamos mas não tanto a gente sai e todo mundo nós temos a maior a melhor legislação em a terceira maior segunda ONU sobre violência doméstica, porém eu como advogada de família sei que nós não conseguimos colocar aquela maravilha que existe ali no papel, no texto da lei, na vida real de uma mulher. Eu não consigo citar o agressor com rapidez e tirar ele de perto dessa mulher. Então gente são muitos dramas que nós precisamos. Muito obrigada. Precisamos crescer, amadurecer, bater palma realmente porque pra pra tudo que nós já conquistamos, mas assim a impressão é que tem alguém lá fora rindo falar bobinhas, mais ano se passou, e quem continua mandando somos nós, poucos homens, poucos, né? Então quero finalizar agradecendo pela oportunidade, gostaria de trocar ideia, de responder perguntas, mas o quero aqui, independente de bandeira, de partido, de cor, né, nós somos umas nós somos uma só, nós somos as mulheres brasileiras, e tenham em mim a certeza de que eu sempre sempre sempre terei a coragem de falar o que umas outras porventura não tenham. Muito obrigada. Senadora, muito obrigado pela",
       "speaker": {
         "name": "Soraya Thronicke",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "soraya-thronicke"
       }
     },
     {
@@ -282,7 +307,8 @@
       "summary": "Mestre de Cerimônia agradece participação da senhora no bate-papo, convida-a para próximos eventos, reconhece importância de sua presença e nome no grupo Mulheres do Brasil, pede desculpas por não haver assento suficiente, chamará próximo debate. Breve intervenção de colega Carol Caputo.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -293,7 +319,8 @@
       "summary": "Participante pede aos deputados que votem a favor do projeto de lei 1952/2022, reservando cadeiras para mulheres no Congresso Nacional, começando em 18% e aumentando gradualmente até 30%. Ela também destaca a importância de incluir mulheres com deficiência e pede desculpas por falta de intérprete de LIBRAS.",
       "speaker": {
         "name": "Carol Caputo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carol-caputo"
       }
     },
     {
@@ -304,7 +331,8 @@
       "summary": "Mestre de Cerimônia anuncia painel sobre desafios da mulher na política, com participação de several deputadas e senadoras, incluindo Erica Hilton, Tábata Amaral, Ione, Tereza Nelma, e Dorinha. Ilana Trombica mediator. Evento organizado por Mulheres do Brasil e secretaria da mulher no Congresso. Mestre de Cerimônia anuncia metas e insights, antes de se despedir para comemorar aniversário de sua filha.",
       "speaker": {
         "name": "Sheila D'Amorim",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "sheila-damorim"
       }
     },
     {
@@ -315,7 +343,8 @@
       "summary": "Diretora-geral do Senado e Mediadora celebra aniversário de 13 anos com atenção à participação feminina no legislativo e à igualdade de gênero. Ela é mãe, esposa, ativista social, fundadora de diversos grupos e conselheira. Hoje, o Senado Federal tem a maior bancada de senadoras desde sua história. A falta de banheiro feminino no Plenário Federal por décadas exemplifica a invisibilidade das mulheres. A equipe discutirá medidas práticas para um futuro mais inclusivo.",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -327,7 +356,8 @@
       "speaker": {
         "id": 220645,
         "name": "Erika Hilton",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-hilton"
       }
     },
     {
@@ -337,7 +367,8 @@
       "transcription": "",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -349,7 +380,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -359,7 +391,8 @@
       "transcription": "",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -371,7 +404,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -382,7 +416,8 @@
       "summary": "Diretora-geral do Senado e Mediadora se refere à diversidade das mulheres presentes, incluindo uma mulher trans, uma proveniente de escola pública e Harvard, uma do interior do Nordeste, e uma delegada de segurança pública.",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -394,7 +429,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -405,7 +441,8 @@
       "summary": "Diretora-geral do Senado e Mediadora sobre uso de microfone em mesa: \"Parlamentar relacionado com microfone, prática importante; toda mesa deve ter senadora, acolhimento.\"",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -416,7 +453,8 @@
       "summary": "Senador propõe transformar escolas em locais de respeito e inclusão. Conta sua experiência como ex-deputada, enfatizando a necessidade de mulheres se manifestarem e lutarem por representação, especialmente no Partido e na política em geral. Falou sobre a importância da cota para mulheres em cargos eletivos e a luta pela tipificação da violência política contra mulheres. Alerta para a necessidade de mudanças na estrutura de defesa da mulher no Senado e na sociedade.",
       "speaker": {
         "name": "Professora Dorinha",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "professora-dorinha"
       }
     },
     {
@@ -427,7 +465,8 @@
       "summary": "Diretora-geral do Senado e Mediadora discutiu representatividade, machismo e racismo, mencionando incidente de esponja de aço given to a black female teacher in Ceilândia school, passando a palavra a Deputada Digital Jane Clélia.",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -438,7 +477,8 @@
       "summary": "Deputada Distrital e Procuradora da Mulher da CLDF abordou desigualdade política enfrentada por mulheres negras, subrepresentação delas em política e espacos de poder, necessidade de metere \"pé na porta\" para igualdade, exemplificou com história pessoal de reunir documentos para uma vítima de violência doméstica, e destacou a importância de exigir cotas para representação feminina.",
       "speaker": {
         "name": "Jane Klébia",
-        "position": "Deputada Distrital e Procuradora da Mulher da CLDF"
+        "position": "Deputada Distrital e Procuradora da Mulher da CLDF",
+        "slug": "jane-klebia"
       }
     },
     {
@@ -449,7 +489,8 @@
       "summary": "Diretora-geral do Senado e Mediadora propôs artista Vick Muniz criar obra de arte com cacos de teto de vidro invasão de 8 de Janeiro, simbolizando superação enquanto não esquecer limitações impostas a mulheres. Convidou procuradora da mulher Teresa Nelma para próxima etapa.",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -460,7 +501,8 @@
       "summary": "A participante fala de desafios de ser mulher na política, sua experiência como ex-deputada, e a necessidade de oportunidades e proteção para mulheres no Brasil. Ela é originária de uma região pobre e patriarcal de Alagoas, e destaca a importância de ter voz e opinião, independentemente de ser considerada \"fora da curva\". Ela também menciona a criação do Observatório da Mulher na Política para estudar a situação das mulheres na política no país.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -471,7 +513,8 @@
       "summary": "Diretora-geral do Senado e Mediadora celebrou amizade de vinte anos, comentou experiência no Senado e recebimento de prêmio Berta Lutz, destacando Berta Lutz como exemplo de mulher livre e incentivando a liberdade pessoal.",
       "speaker": {
         "name": "Ilana Trombka",
-        "position": "Diretora-geral do Senado e Mediadora"
+        "position": "Diretora-geral do Senado e Mediadora",
+        "slug": "ilana-trombka"
       }
     },
     {
@@ -482,7 +525,8 @@
       "summary": "Participante agradece a secretária da mulher do Distrito Federal por falar antes do encerramento.",
       "speaker": {
         "name": "Carol Caputo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carol-caputo"
       }
     },
     {
@@ -493,7 +537,8 @@
       "summary": "Secretaria da Mulher do Distrito Federal fala sobre importância da educação, equidade salarial e representatividade das mulheres no poder. Menciona orgulho por coordenação de grupo Mulheres do Brasil e apoio da governadora em exercício. Falou sobre projeto Casa das Mulheres Brasileiras e exemplo de primeira comandante do bombeiros mulher no Brasil.",
       "speaker": {
         "name": "Giselle Ferreira",
-        "position": "Secretaria da Mulher do Distrito Federal"
+        "position": "Secretaria da Mulher do Distrito Federal",
+        "slug": "giselle-ferreira"
       }
     },
     {
@@ -504,7 +549,8 @@
       "summary": "Mulheres poderosas e inspiradoras; celebração de lideranças; enfrentamento de desafios; importância de coragem e fé; lutar por mais representação feminina; evento memorável.",
       "speaker": {
         "name": "Janete Vaz",
-        "position": "Presidente do Grupo Mulheres do Brasil - Brasília"
+        "position": "Presidente do Grupo Mulheres do Brasil - Brasília",
+        "slug": "janete-vaz"
       }
     },
     {
@@ -515,7 +561,8 @@
       "summary": "Participante elogia Janete, destaca igualdade entre todas, mas homenagea deputadaMoema Santiago por sua importante representatividade.",
       "speaker": {
         "name": "Carol Caputo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carol-caputo"
       }
     },
     {
@@ -525,7 +572,8 @@
       "transcription": "Abraço e a gente agradece a todas.",
       "speaker": {
         "name": "Janete Vaz",
-        "position": "Presidente do Grupo Mulheres do Brasil - Brasília"
+        "position": "Presidente do Grupo Mulheres do Brasil - Brasília",
+        "slug": "janete-vaz"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Tirei aqui prioridade. Alô? Alô? Agora sim. Não é lá.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rogério Correia -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rogerio-correia-por-participante-ze-silva"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -121,7 +130,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Silva -- por Participante -- Rogério Correia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-silva-por-participante-rogerio-correia"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 74156,
         "name": "Leonardo Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonardo-monteiro"
       }
     },
     {
@@ -156,7 +168,8 @@
       "summary": "Apolitician discuses Rio Doce's revenue, involving a colleague interested in the topic.",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Discussões em Minas Gerais sobre Bacia do Rio Doce: necessário comprender sua grande sofrimento e empobrecimento devido ao crime/acidente. Recursos de acordo devem beneficiar a bacia, evitando erros do passado. Parabenizo comissão e deputados, esperamos concluir acordo rapidamente para ajudar vítimas de Mariana e habitantes da bacia do Rio Doce.",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -333,7 +360,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -345,7 +373,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     }
   ],

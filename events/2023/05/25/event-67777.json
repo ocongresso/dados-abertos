@@ -18,7 +18,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Diretor de Políticas e Programas de Educação Superior no MEC refere importância de entidades sindicais e pró-reitores em defesa da universidade pública brasileira. Discute financiamento da extensão universitária, citando histórico do programa e discussões iniciais sobre extensão e diretoria da CESU, com foco na indissociabilidade entre ensino, pesquisa e extensão.",
       "speaker": {
         "name": "ALEXANDRE BRASIL CARVALHO DA FONSECA",
-        "position": "Diretor de Políticas e Programas de Educação Superior - Ministério da Educação"
+        "position": "Diretor de Políticas e Programas de Educação Superior - Ministério da Educação",
+        "slug": "alexandre-brasil-carvalho-da-fonseca"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Extensão fundamental na educação superior, mas desfinanciada. Necessário inclui-la em 10% da carga horária e aumentar orçamento e participação em políticas sociais para promover desenvolvimento social e no conhecimento.",
       "speaker": {
         "name": "HÉLDER ETERNO DA SILVEIRA",
-        "position": "Presidente - Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileiras"
+        "position": "Presidente - Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileiras",
+        "slug": "helder-eterno-da-silveira"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Vice-Reitor da Universidade Federal da Bahia discutiu diálogo com ministério, ampliando assistência e bolsas para extensão universitária, e melhorias de condições para pesquisadores e alunos. Resumido: diálogo com ministério, apoio à extensão universitária, melhores condições para pesquisadores e alunos.",
       "speaker": {
         "name": "PENILDON SILVA FILHO",
-        "position": "Vice-Reitor - Universidade Federal da Bahia"
+        "position": "Vice-Reitor - Universidade Federal da Bahia",
+        "slug": "penildon-silva-filho"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Participante destaca importância de extensão na formação, com identidade vertical e capilar em rede de institutos federais. Ela pede orçamento garantido para curricularizar extensão, reconhecimento para servidores técnicos-administrativos e editais específicos para extensão, com 633 campi, 1.479.000 matrículas, 82.000 servidores e 11.000 projetos de pesquisa e extensão em todo Brasil.",
       "speaker": {
         "name": "Geísa Boaventura",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "geisa-boaventura"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Pró-reitor de extensão da Universidade Federal da Bahia destaca extensão como ferramenta de mudança social, ênfase em parcerias comunitárias, financiamento reforçado para ensino, pesquisa e extensão, contribuições para políticas culturais, e valorização de ações e justa remuneração para mestres da cultura popular.",
       "speaker": {
         "name": "GUILHERME BERTISSOLO",
-        "position": "Pró-reitor de extensão - Universidade Federal da Bahia"
+        "position": "Pró-reitor de extensão - Universidade Federal da Bahia",
+        "slug": "guilherme-bertissolo"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Associação Brasileira de Reitores estaduais e municipais agradece convite da comissão de educação e cultura, destacando sua promoção de cooperação entre instituições educacionais. A Abruem é formada por 47 instituições com aproximadamente 815 mil estudantes e 45 mil docentes. A entidade promove extensão em territórios e defende Universidade Sem Muros, exigindo financiamento federal justo.",
       "speaker": {
         "name": "FRANCISCO DO O DE LIMA JÚNIOR",
-        "position": "Presidente - Associação Brasileira dos Reitores das Universidades Estaduais e Municipais - Abruem"
+        "position": "Presidente - Associação Brasileira dos Reitores das Universidades Estaduais e Municipais - Abruem",
+        "slug": "francisco-do-o-de-lima-junior"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Participante entregou duas cartas durante a reunião: uma do Fórum de Pró-Reitores de Extensão dos Institutos Federais produzida em abril, e outra da Regional Norte da Amazônia produzida recentemente.",
       "speaker": {
         "name": "Geísa Boaventura",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "geisa-boaventura"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Presidente da Andifes destacou a necessidade urgente de refinanciamento em universidades, dando prioridade a programas de extensão estratégica para abordar questões nacionais e reconstruir simbolismo nas sociedade. Ele também enfatizou a necessidade de aumento de orçamentos gerais, políticas de extensão bem financiadas, ajustes equitativos de bolsas e iniciativas de extensão independentes e dignas.",
       "speaker": {
         "name": "RICARDO MARCELO FONSECA",
-        "position": "Presidente - Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior - Andifes"
+        "position": "Presidente - Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior - Andifes",
+        "slug": "ricardo-marcelo-fonseca"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -260,7 +281,8 @@
       "summary": "Participante agradece oportunidade de discutir e destaca importância de investimento em extensão universitária, conforme plano nacional de educação 2014-2024. Ela expressa dificuldades de atingir territórios distantes em tempo razoável e a importância de atuação em rede, reconhecendo força atual da ANDIF.",
       "speaker": {
         "name": "Aldenize Xavier",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "aldenize-xavier"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -282,7 +305,8 @@
       "summary": "Participante destaca importância da extensão acadêmica na formação cidadã, promovendo educação transformadora e obedecendo princípio constitucional.",
       "speaker": {
         "name": "Ediene Pena",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ediene-pena"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -305,7 +330,8 @@
       "summary": "Participante agradece oportunidade, cumprimenta, reflete sobre desafios atuais da extensão universitária, menciona vitórias e desafios, dá exemplo de universidade com alta taxa de aplicação de recursos na extensão, e conclui precisando de mais recursos devido às condições amazônicas.",
       "speaker": {
         "name": "Cauã Araujo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "caua-araujo"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -328,7 +355,8 @@
       "summary": "O participante expressou gratidão e brevidade em seu discurso, enfatizando a importância de ajudar uns aos outros para tornar uma realidade desconhecida algo concreto, encerrando com um agradecimento especial a Cristiane Rocha por sua paciência.",
       "speaker": {
         "name": "Maria da Conceição dos Reis",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria-da-conceicao-dos-reis"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -350,7 +379,8 @@
       "summary": "Universidades promovem desenvolvimento social e regional com contribuição em políticas públicas, especialmente através da extensão universitária, que exige financiamento garantido para resultados expressivos em diversas áreas, como agricultura, cultura, saúde, meio ambiente e outras.",
       "speaker": {
         "name": "Crisciane Rocha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "crisciane-rocha"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -373,7 +404,8 @@
       "summary": "Participante defende garantia de orçamento para extensão universitária, ligando universidade à sociedade, destacando a importância dela, evitando ser \"a menina pobre\".",
       "speaker": {
         "name": "Maria Santana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria-santana"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -395,7 +428,8 @@
       "summary": "Boa tarde de parte do Participante, vindo de Mossoró, representando a UERN e ForProx Nordeste. Acredita na importância de pautar a extensão na política, com orçamento próprio para fortalecê-la. Propõe cumprimento obrigatório de curricularização da extensão no ensino. Reconhece o papel da extensão em alcançar áreas onde o Estado não chega, trazendo diferença em lugares com necessidades básicas insatisfeitas.",
       "speaker": {
         "name": "Esdras Marchezan",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "esdras-marchezan"
       }
     },
     {
@@ -406,7 +440,8 @@
       "summary": "Novo programa educacional transforma Brasil.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lídice da Mata -- por Participante -- Dandara",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lidice-da-mata-por-participante-dandara"
       }
     },
     {
@@ -417,7 +452,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -428,7 +464,8 @@
       "summary": "Boa tarde, participante está contente em falar sobre atuação em rede entre ANDIFES, CONIF e universidades federais para obter financiamento em comum.",
       "speaker": {
         "name": "Maria Francisca Moraes de Lima",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria-francisca-moraes-de-lima"
       }
     },
     {
@@ -439,7 +476,8 @@
       "summary": "Lídice da Mata defende importância de estudos federais e extensão universitária, propõe união de esforços.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dandara -- por Participante -- Lídice da Mata",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dandara-por-participante-lidice-da-mata"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -462,7 +501,8 @@
       "summary": "Participante discute desafios em orçamento de instituições municipais, especificamente durante pandemia. Sua instituição ampliou extensão, ajudando a formar professores e apoiar agricultura familiar, mas carece de financiamento externo e se sente excluída de discussões orçamentárias. Acredita no papel transformador da extensão universitária, incluindo instituições municipais.",
       "speaker": {
         "name": "Zaqueu Henrique de Sousa",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "zaqueu-henrique-de-sousa"
       }
     },
     {
@@ -474,7 +514,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -485,7 +526,8 @@
       "summary": "Participante fala sobre a importância de uma rede forte de integração entre universidades e institutos. Discutem-se mudanças na formação em diferentes áreas, com foco na universalização das atividades de extensão e seu impacto em políticas públicas. Aborda-se um projeto de país que priorize a formação cidadã e o desenvolvimento estratégico.",
       "speaker": {
         "name": "Moises de Melo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "moises-de-melo"
       }
     },
     {
@@ -496,7 +538,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -507,7 +550,8 @@
       "summary": "Professora universitária; apoia consenso no descompasso entre extensão territorializada e orçamentária. Argumenta que extensão se resolve com consignação orçamentária em instituições públicas, não apenas federais. Explica que a extensão se coordena com políticas públicas de desenvolvimento territorial em todo país, exigindo um pacto federativo. Menciona a curricularização da extensão como desafio para instituições públicas. Promove discussão sobre isso nos estados.",
       "speaker": {
         "name": "Lana Nascimento",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "lana-nascimento"
       }
     },
     {
@@ -518,7 +562,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -529,7 +574,8 @@
       "summary": "O participante destacou a importância da formação universitária e extensão, que tem potential para melhorar indicadores nacionais e capacitar professores em áreas como inovação e liderança. Ele defende que a extensão universitária pode ajudar o Brasil a se tornar líder mundial, transformando-o em referência na educação. O sucesso requer apoio a universidades de todos os entes federativos.",
       "speaker": {
         "name": "Eduardo Jara",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "eduardo-jara"
       }
     },
     {
@@ -540,7 +586,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -551,7 +598,8 @@
       "summary": "Participante agradece presentes e elogia debate como qualificado. Reconhece demandas claras e necessidade de financiamento para programa como PROESTE ou outro, com ênfase em planejamento para recursos na próxima União orçamento e permanência estudantil. Pergunta sobre próxima etapa para obter resultados concretos.",
       "speaker": {
         "name": "Fernando Coelho",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fernando-coelho"
       }
     },
     {
@@ -563,7 +611,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -574,7 +623,8 @@
       "summary": "Participante destaca a gravidade da situação orçamentária na educação superior, calculando que a maioria das universidades destina menos de cinquenta centavos por dia por aluno para extensão cultural. Eles argumentam que isso é um problema sério que precisa ser resolvido e elogiam a extensão como a segunda maior transformação no ensino universitário nos últimos 25 anos, depois da política de ações afirmativas.",
       "speaker": {
         "name": "Franck Maciel Peçanha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "franck-maciel-pecanha"
       }
     },
     {
@@ -585,7 +635,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     }
   ],

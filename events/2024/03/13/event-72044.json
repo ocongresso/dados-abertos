@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Votação",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "Meus amigos, quero.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amaro Neto -- por Participante -- Silas Câmara",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amaro-neto-por-participante-silas-camara"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 138286,
         "name": "Luciano Alves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-alves"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     }
   ],

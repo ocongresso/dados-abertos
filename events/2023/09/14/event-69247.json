@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ex-Deputado Federal critica certificação de óculos por terceiros, aumento de custos e dificuldades para consumidores, especialmente aqueles de baixa renda. Argumenta contra necessidade de certificadora especial e metrologia de óculos, pede eliminação do termo \"óculos de leitura\" e prescrição por oftalmologista ou clínica de optometria. Se opõe à proposição de certificação.",
       "speaker": {
         "name": "GUIGA PEIXOTO",
-        "position": "Ex-Deputado Federal"
+        "position": "Ex-Deputado Federal",
+        "slug": "guiga-peixoto"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente do Conselho Regional de Óptica e Optometria de Rondônia agradece participação em audiência, mantendo brevidade.",
       "speaker": {
         "name": "ADRIANO OLIVEIRA",
-        "position": "Presidente - Conselho Regional de Óptica e Optometria de Rondônia"
+        "position": "Presidente - Conselho Regional de Óptica e Optometria de Rondônia",
+        "slug": "adriano-oliveira"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Presidente do Conselho Regional de Óptica e Optometria de Rondônia apoia projeto de certificação de lentes oftalmicas, mas critica exigência de receita médica para compra, alegando impacto negativo em profissionais e acesso ao público.",
       "speaker": {
         "name": "ADRIANO OLIVEIRA",
-        "position": "Presidente - Conselho Regional de Óptica e Optometria de Rondônia"
+        "position": "Presidente - Conselho Regional de Óptica e Optometria de Rondônia",
+        "slug": "adriano-oliveira"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Médico Oftalmologista - Associação Médica Brasileira (AMB): apresentação sobre fundamentos relacionados à saúde ocular.",
       "speaker": {
         "name": "JOEL SILVEIRA FILHO",
-        "position": "Médico Oftalmologista - Associação Médica Brasileira (AMB)"
+        "position": "Médico Oftalmologista - Associação Médica Brasileira (AMB)",
+        "slug": "joel-silveira-filho"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Médico Oftalmologista - Associação Médica Brasileira (AMB) discute projeto de lei 23/2",
       "speaker": {
         "name": "JOEL SILVEIRA FILHO",
-        "position": "Médico Oftalmologista - Associação Médica Brasileira (AMB)"
+        "position": "Médico Oftalmologista - Associação Médica Brasileira (AMB)",
+        "slug": "joel-silveira-filho"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO) deseja apresentar vídeo comparativo sobre três áreas importantes, após mostrará treinamento e especializações necessárias para se tornar oftalmologista, possui 6 minutos para apresentação.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Óptico: confecciona óculos, não diagnóstica ou trata condições oculares.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -164,7 +177,8 @@
       "transcription": "Alô alô. Oi, e agora? Está bom?",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -175,7 +189,8 @@
       "summary": "Projeto de lei para reabilitação saúde visual demonstra corporativismo e mercantilismo; prescrições necessitarão de carta de refração com detalhes técnicos específicos; ópticos no laboratório farão a verificação e confecção dos elementos corretivos. Preocupação com profissionais qualificados e mercantilização do processo.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO) discutiu evolução de lentes, impacto na saúde ocular e certificação de laboratórios. Importância de prescrição médica, formação de profissionais e limitação de contrabando foram destacadas. Favor certificação séria, contra a retrocessão na participação do profissional de óptica e otometria na melhoria da qualidade de vida. Concluiendo.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "É necessário reconhecer importância de ópticos e optometristas no sistema de saúde, visual e ocular, para melhorar acesso e qualidade de cuidados, evitando consequências desnecessárias e custos ao SUS. Disputas e ilegalidade devem cessar, promovendo reconhecimento e estudos oficiais.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Conselho Federal de Medicina (CFM) é responsável por registro, julgamentos e regulação de profissão médica. Aumento de escolas e médicos no Brasil, especialmente oftalmologistas, destacados. Prescrição de lentes oftalmológicas por médicos vital para doenças oculares e exames regulares. CFM apoia projeto de lei 23/2019 sobre prescrição de lentes somente por médicos.",
       "speaker": {
         "name": "MARIA TERESA GONÇALVES",
-        "position": "Conselheira Federal pelo Estado do Amapá - Conselho Federal de Medicina (CFM)"
+        "position": "Conselheira Federal pelo Estado do Amapá - Conselho Federal de Medicina (CFM)",
+        "slug": "maria-teresa-goncalves"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -266,7 +288,8 @@
       "transcription": "Todos Só cumprimentar aqui a",
       "speaker": {
         "name": "ANDRÉ RONCATTO",
-        "position": "Vice-Presidente da Fecomércio-RS e Coordenador Brasileiro do Comércio de Produtos e Serviços Ópticos da CNC - CBÓPTICA - Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)"
+        "position": "Vice-Presidente da Fecomércio-RS e Coordenador Brasileiro do Comércio de Produtos e Serviços Ópticos da CNC - CBÓPTICA - Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+        "slug": "andre-roncatto"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -288,7 +312,8 @@
       "summary": "Certificação de produtos ópticos, combate à concorrência desleal e informalidade, apoio a projeto de lei por qualidade a consumidores, combate ao comércio informal, ênfase em saúde visual, melhoria de qualificação de profissionais, atenção a detalhes técnicos para garantir constitucionalidade e evitar problemas com prescrição médica e certificação de produtos.",
       "speaker": {
         "name": "ANDRÉ RONCATTO",
-        "position": "Vice-Presidente da Fecomércio-RS e Coordenador Brasileiro do Comércio de Produtos e Serviços Ópticos da CNC - CBÓPTICA - Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)"
+        "position": "Vice-Presidente da Fecomércio-RS e Coordenador Brasileiro do Comércio de Produtos e Serviços Ópticos da CNC - CBÓPTICA - Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+        "slug": "andre-roncatto"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -311,7 +337,8 @@
       "summary": "Presidente do CBO enfatizou importância de médicos para diagnóstico e tratamento oculares, hesitando em propostas de certificação de prescrições oftalmológicas. Destacou necessidade de avaliação abrangente de saúde do paciente e políticas públicas para acesso a oftalmologia no Brasil, com alta incidência de diabetes e glaucoma. CBO promove saúde ocular e forma profissionais qualificados.",
       "speaker": {
         "name": "CRISTIANO CAIXETA",
-        "position": "Presidente - Conselho Brasileiro de Oftalmologia (CBO)"
+        "position": "Presidente - Conselho Brasileiro de Oftalmologia (CBO)",
+        "slug": "cristiano-caixeta"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -334,7 +362,8 @@
       "summary": "Ex-Deputado Federal discute projeto aprovado sobre certificação de ópticas, questionando a necessidade de certificadoras e enfatizando a importância da Receita Federal, médicos oftalmologistas e nota fiscal no controle de qualidade. Sua conclusão é um voto contrário a essa \"aberração\", comparando-a a outra \"aberração\" do passado sobre kits de primeiros socorros em carros.",
       "speaker": {
         "name": "GUIGA PEIXOTO",
-        "position": "Ex-Deputado Federal"
+        "position": "Ex-Deputado Federal",
+        "slug": "guiga-peixoto"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -358,7 +388,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -370,7 +401,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -382,7 +414,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -393,7 +426,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -404,7 +438,8 @@
       "summary": "Ex-Deputado Federal propõe avaliação de óculos por médicos oftalmologistas, sem necessidade de certificadora, para facilitar acesso à assistência visual, especialmente para a população desassistida. Critica adição de custos com certificadora no processo, making it harder for the eyewear business in Brazil.",
       "speaker": {
         "name": "GUIGA PEIXOTO",
-        "position": "Ex-Deputado Federal"
+        "position": "Ex-Deputado Federal",
+        "slug": "guiga-peixoto"
       }
     },
     {
@@ -415,7 +450,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -427,7 +463,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -439,7 +476,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -463,7 +502,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -475,7 +515,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -487,7 +528,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -498,7 +540,8 @@
       "summary": "Ex-Deputado Federal está contra ópticos trabalhando em ópticas, considera isso crime contra economia popular; defende que ópticas façam óculos baseados em prescrição oftalmológica; acredita que médicos devem ser responsáveis por corrigir e aferir óculos.",
       "speaker": {
         "name": "GUIGA PEIXOTO",
-        "position": "Ex-Deputado Federal"
+        "position": "Ex-Deputado Federal",
+        "slug": "guiga-peixoto"
       }
     },
     {
@@ -510,7 +553,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -521,7 +565,8 @@
       "summary": "Participante defende excelência e transparência em ciências da saúde e jurídica, apontando órgãos internacionais que reconhecem o optometrista como primeira barreira contra cegueira evitável. Ele destaca a prioridade da atenção primária no Brasil e cita a STF sobre a autorização de optometristas a trabalhar com formação apropriada. Ele propõe uma conversa objetiva entre CBO e Cristiano Caixeta e enfatiza a necessidade de regulação do optometrista no Brasil.",
       "speaker": {
         "name": "Fábio Luiz da Cunha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fabio-luiz-da-cunha"
       }
     },
     {
@@ -533,7 +578,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -544,7 +590,8 @@
       "summary": "Participante parabeniza todos e fica cinco anos no Conselho de Medicina. Aprendeu que a lei é fundamental, mas sua interpretação pode variar. Centrou-se em discussão sobre optometristas prescrivendo: algumas fontes dizem que sim, outras que não. Resumidamente, o participante quer esclarecer que, de acordo com a informação disponível, os optometristas podem prescrever.",
       "speaker": {
         "name": "Alípio Souza Neto",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "alipio-souza-neto"
       }
     },
     {
@@ -556,7 +603,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -567,7 +615,8 @@
       "summary": "Participante discorda sobre STF e óculos, aponta formação completa de oftalmologistas e risco de venda de produtos caros por optometristas. Destaca importância de diagnóstico preciso e menciona problemas de saúde ocular nos EUA, argumentando que o Brasil pode se intensificar com mais oftalmologistas e ênfase no diagnóstico acurado.",
       "speaker": {
         "name": "CLAUDIO FERNANDES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "claudio-fernandes"
       }
     },
     {
@@ -578,7 +627,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -589,7 +639,8 @@
       "summary": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO) defende reconhecimento da optometria no Brasil, como primária e preventiva em 176 países. Sua prática inclui prescrição, reeducação e correção de anomalias visuais, sem invasão em patologias. Suporte necessário para evitar carga financeira ao Estado e aumentar acesso a esse serviço.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -600,7 +651,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -610,7 +662,8 @@
       "transcription": "Doutor Eduardo que eu só apartei por isso, só confundi o ódio com a me desculpa. Obrigado",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -622,7 +675,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -634,7 +688,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -645,7 +700,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -657,7 +713,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -668,7 +725,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -680,7 +738,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -692,7 +751,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -703,7 +763,8 @@
       "summary": "Presidente de Honra - CBOO reconhece colaboração com oftalmologistas, especialmente em casos complexos ou necessitando cirurgia de catarata. Lamenta falta de oftalmologistas em alguns estados, não para substituí-los, mas para respeito a formação profissional dos optometristas.",
       "speaker": {
         "name": "RICARDO BRETAS",
-        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)"
+        "position": "Presidente de Honra - Conselho Brasileiro de Óptica e Optometria (CBOO)",
+        "slug": "ricardo-bretas"
       }
     },
     {
@@ -714,7 +775,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -726,7 +788,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -738,7 +801,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     }
   ],

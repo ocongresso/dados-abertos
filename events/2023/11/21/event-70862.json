@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Bom agradecendo",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Lídice da Mata",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-lidice-da-mata"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Feliz por brega transformar sua vida, agradece Marshall, Pedro, João e Tiago; anteriormente falava em chinelo e calçado, hoje é empresário e cantor; apoia movimento e outros artistas; realizado com história de cinco anos.",
       "speaker": {
         "name": "ANDERSON NEIFF",
-        "position": "Cantor e Emrpesário"
+        "position": "Cantor e Emrpesário",
+        "slug": "anderson-neiff"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Cantor contente por participar do Novembro Brega, iniciativa anual apoiada por vereador Marcos Aurélio, prefeitura de Recife e Galo da Madrugada. Três dias de shows, oito bandas. Agradece Marcelo Queiroz, vice-presidente da Marta e deputado Pedro Campos; agradece especialmente deputado Lício da Marta por apoiar projeto de Pedro Campos.",
       "speaker": {
         "name": "CONDE",
-        "position": "Cantor"
+        "position": "Cantor",
+        "slug": "conde"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Participante fala sobre a emoção de estarem reunidos em congresso, destaca a importância da luta pela cultura, especialmente a cultura brega e periférica, agradece apoio de autoridades e menciona a necessidade de políticas públicas e edital específico para o movimento brega, louvando o deputado Pedro Campos e seu compromisso.",
       "speaker": {
         "name": "Marco Aurélio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marco-aurelio"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Cantora agradece resistência de 20 anos, superando desistência e realizando sonhos, presente no dia da consciência negra, trazendo música brega e história de força.",
       "speaker": {
         "name": "NEGA DO BABADO",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "nega-do-babado"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -165,7 +178,8 @@
       "transcription": "Sua boca meu amor me deixa louca me fazer Obrigada bonitão.",
       "speaker": {
         "name": "NEGA DO BABADO",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "nega-do-babado"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Participante falou sobre resistência, gratidão e história do brega. Cresceu no brega e, como vereador, quer acabar com sua descriminalização e valorizar sua cultura. Cita apoio de outros vereadores e artistas presentes, e inspira união para a luta do gênero seguir avante. Obrigada.",
       "speaker": {
         "name": "Natália de Menudo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "natalia-de-menudo"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Empresário representa classe de criadores de conteúdo brega. Brega era discriminado, mas agora causa orgulho e representa cultura. Mudou vidas e impulsionó economia criativa. Artistas brega tienen números nacionales. Feliz por representar ritmo rico do estado.",
       "speaker": {
         "name": "ALEXANDRE VINÍCIUS",
-        "position": "Empresário"
+        "position": "Empresário",
+        "slug": "alexandre-vinicius"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Cantora agradece presentes e destaca importância do movimento brega na economia cultural e inclusão social, representando jovens, mulheres e minorias. Homenageia filho com autismo, reconhecendo artistas e empresários do gênero. Agradece apoio político para expansão futura.",
       "speaker": {
         "name": "DANY MYLER",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "dany-myler"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -256,7 +277,8 @@
       "summary": "Cantora destaca origem do movimento brega, iniciado como ritmo e evoluído para forma de expressão diária da periferia, com influenciadores, comunicadores e políticos, combatendo marginalização e promovendo empregos e dignidade. Hoje, presente em Brasília, cantora agradece apoio e destaca valor do povo do brega.",
       "speaker": {
         "name": "MICHELLE MELO",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "michelle-melo"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Produtor celebra visibilidade do movimento brega, mencionando artistas de sua geração e agradecendo deputado Pedro por apoio.",
       "speaker": {
         "name": "Rogério Som",
-        "position": "Produtor"
+        "position": "Produtor",
+        "slug": "rogerio-som"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -301,7 +326,8 @@
       "summary": "Cantor fala sobre origem humilde, nomeação \"brega\" é preconceito, música reflete povo e sentimentos, está feliz e honrado por estar ahí. Menciona sua carreira, parceria com Marília Mendonça e agradece aos presentes. Suplica que lei seja aprovada e se torne mais do que uma simples lei.",
       "speaker": {
         "name": "RODRIGO MELL",
-        "position": "Cantor"
+        "position": "Cantor",
+        "slug": "rodrigo-mell"
       }
     },
     {
@@ -313,7 +339,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -324,7 +351,8 @@
       "summary": "Cantor agradece oportunidade que o brega deu a ele e sua família, empregando doze pessoas em sua banda, reconhecendo importância do movimento brega e seu alcance.",
       "speaker": {
         "name": "Elvis",
-        "position": "Cantor"
+        "position": "Cantor",
+        "slug": "elvis"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -347,7 +376,8 @@
       "summary": "Professor e Pesquisador da Universidade Federal de Pernambuco fala sobre a importância da pesquisa acadêmica para nacionalizar o brega, reconhecendo-o como expressão cultural brasileira, especificamente de Pernambuco. Destaca a Universidade pública no reconhecimento e história do brega, retirando o estigma e promovendo a educação e conhecimento sobre suas dinâmicas periféricas. Menciona a existência de 67 teses e dissertações sobre música brega em diferentes regiões do Brasil.",
       "speaker": {
         "name": "THIAGO SOARES",
-        "position": "Professor e Pesquisador - Universidade Federal de Pernambuco"
+        "position": "Professor e Pesquisador - Universidade Federal de Pernambuco",
+        "slug": "thiago-soares"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -394,7 +427,8 @@
       "summary": "Participante admira gênero musical brega, nele encontra salvação de vidas, especialmente entre jovens negros de periferias. Atua na coordenação nacional de entidades negras e no Conselho de Promoção da Igualdade Racial, apresentará brega e afroempreendedorismo negro para análise. Agradece e elogia comunidade brega por reconhecer movimento e presença na cena musical global.",
       "speaker": {
         "name": "Igor Prazeres",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "igor-prazeres"
       }
     },
     {
@@ -406,7 +440,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -417,7 +452,8 @@
       "summary": "Coord. do Minist. da Cultura é recifense, apaixonado pelo brega. Ele coordena formalização e regulamentações de trabalhadores da cultura. Evento é importante, brega ganhou espaço e reconhecimento. Hoje é patrimônio imaterial de Pernambuco. Brega visa dar visibilidade à cadeia produtiva que o movimento gera. Parabeniza festival e pessoas envolvidas com brega. Menciona Paulinho do Acadêmico.",
       "speaker": {
         "name": "Angelo Ranieri",
-        "position": "Coord. do Minist. da Cultura"
+        "position": "Coord. do Minist. da Cultura",
+        "slug": "angelo-ranieri"
       }
     },
     {
@@ -428,7 +464,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -439,7 +476,8 @@
       "summary": "Hoje é um dia importante para o movimento brega, com o reconhecimento como patrimônio cultural nacional. Produtor agradece a Deus, João e Pedro Campos por acreditarem no projeto. É um sonho de longa data, desde Reginaldo Rossi até a nova geração, e essa oportunidade permite que os envolvidos no movimento brega possam sustentar suas famílias.",
       "speaker": {
         "name": "Paulinho do acadêmico",
-        "position": "Produtor"
+        "position": "Produtor",
+        "slug": "paulinho-do-academico"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -462,7 +501,8 @@
       "summary": "Jovem negro e homossexual gratitude a música \"Brega\" por salvar sua vida e permiti-lhe se tornar um grande comunicador com milhões de seguidores e idealizador de uma premiação com artistas de \"Brega\" no teatro. Apresentou o evento \"Novembro Brega\" e admira muitos artistas do gênero. \"Brega\" muda vidas.",
       "speaker": {
         "name": "Marcelo Barbosa",
-        "position": "Youtuber"
+        "position": "Youtuber",
+        "slug": "marcelo-barbosa"
       }
     },
     {
@@ -474,7 +514,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -485,7 +526,8 @@
       "summary": "Produtor de espetáculos públicos fala sobre sua missão na articulação nacional de favelas e periferia, valorizando a organização política da cadeia do brega e reconhecendo sua importância cultural. Menciona a aprovação da lei Aldiblanc e outras iniciativas de incentivo à cultura, além de se referir à necessidade de inclusão do brega nesses programas. Destaca a histórica importância do momento e incentiva a continuação da organização da cadeia do brega.",
       "speaker": {
         "name": "Pedro stilo",
-        "position": "Produtor de espetáculos públicos"
+        "position": "Produtor de espetáculos públicos",
+        "slug": "pedro-stilo"
       }
     },
     {
@@ -497,7 +539,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -509,7 +552,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -521,7 +565,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -532,7 +577,8 @@
       "summary": "A Secretária dos Comitês de Cultura agradeceu presentes, elogiou parlamentares e ressaltou importância de cultura viva, patrimônio e diversidade, incluindo brega. Ela mencionou iniciativas em andamento no ministério, como direito autoral e incentivo financeiro à cultura. A secretária também valorizou trabalho e profissão de setor cultural, incluindo novas profissões e expressões como brega. (2023/03/17)",
       "speaker": {
         "name": "ROBERTA MARTINS",
-        "position": "Secretária dos Comitês de Cultura - Ministério da Cultura"
+        "position": "Secretária dos Comitês de Cultura - Ministério da Cultura",
+        "slug": "roberta-martins"
       }
     },
     {
@@ -544,7 +590,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -555,7 +602,8 @@
       "summary": "Cantora promoveu projeto beneficiando 20 profissionais técnicos, oferecendo conhecimento e reconhecimento em carreira.",
       "speaker": {
         "name": "MICHELLE MELO",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "michelle-melo"
       }
     },
     {
@@ -566,7 +614,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -578,7 +627,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -589,7 +639,8 @@
       "summary": "Cantor agradece deputada Alice por apoio e lembranças de sua música garçom, no bar, todos são iguais; procura igreja e barraca em cidades.",
       "speaker": {
         "name": "CONDE",
-        "position": "Cantor"
+        "position": "Cantor",
+        "slug": "conde"
       }
     },
     {
@@ -601,7 +652,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     }
   ],

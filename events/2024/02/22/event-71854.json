@@ -13,7 +13,8 @@
       "summary": "Representante da FPA discorreu sobre o dia produtivo com debate sobre imunidades e reforma tributária, com foco em segurança jurídica e objetivos compartilhados. Passará a palavra para Marcos Muniz da Liga Solidária para abordar problemas da associação.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Representante da LIGA SOLIDÁRIA fala sobre parceria com Município de São Paulo, ênfase em primeira infância e idosos, e discussão sobre imunidades previstas nas leis 12.000 e 8.700. Liga, presidida por mulheres, faz parte de rede de órgãos isentos de impostos e deseja contribuir com transparência e segurança jurídica. Criação de grupo de trabalho na OAB São Paulo para estudar imunidade mencionada.",
       "speaker": {
         "name": "MARCOS MUNIZ",
-        "position": "Representante da LIGA SOLIDÁRIA"
+        "position": "Representante da LIGA SOLIDÁRIA",
+        "slug": "marcos-muniz"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": "Representante da FPA discutiu sistema S e CESTO SENAC, fornecendo atendimento ao trabalhador do transporte e comunidade; destacou unidade tributária garantida constitucionalmente no sistema S; busca manter isenção de tributos na exportação de serviço de transporte internacional; espera status quo para continuar funcionamento do transporte e fluxo no Mercosul.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": "Representante da ACIUB destaca importância de preservar imunidades atuais no novo marco tributário e se preocupa com resíduos tributários em exportações. Proposta de crédito presumido para desonerar produção no Brasil. Simplificação tributária visada, não menor carga tributária para empresários. Tributação indireta impacta todos, especialmente os mais pobres. Falam em nome de todos os consumidores.",
       "speaker": {
         "name": "MARCELA GUIMARÃES",
-        "position": "Representante da ACIUB"
+        "position": "Representante da ACIUB",
+        "slug": "marcela-guimaraes"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": "Representante da FPA preocupado com promessa de reforma tributária, destaca desconfiança em imunidade na exportação e sua efetivação por devolução de crédito. Importância da imunidade para competitividade externa sem carga tributária e possível barreira de saída com mais problemas de barreiras de entrada na Europa.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Representante da CNT discutiu importância do CESTO SENAC, maior empregador odontológico no Brasil, e da unidade tributária no sistema S do setor de transporte. Também abordou a exportação de serviço no transporte internacional, que atualmente não é tributada, esperando que mantenha seu status quo. Validação em leis complementares é considerada crucial para evitar surpresas durante a tramitação dos textos legais.",
       "speaker": {
         "name": "ANDREA CAVALCANTI",
-        "position": "Representante da CNT"
+        "position": "Representante da CNT",
+        "slug": "andrea-cavalcanti"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": "Representante da FPA destacou importância da isenção de imposto na exportação para reduzir custo de frete e manter competitividade, argumentando contra aumento de carga tributária.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "Setor proteína animal: importante no Brasil, crescente, sustentável. Quatro milhões de empregos, cinquenta mil pequenos produtores, contribui à renda em municípios pequenos. Reforma tributária: imunidade exportação, desoneração cadeia exportação, créditos exportação ressarcidos, incentivo industrialização, imunidade investimentos bens de consumo e capital.",
       "speaker": {
         "name": "MARCELO OSÓRIO",
-        "position": "Representante da ABPA"
+        "position": "Representante da ABPA",
+        "slug": "marcelo-osorio"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": "Representante da FPA discutiu imunidade constitucional, focando no setor de exportação, particularmente no frango brasileiro, demonstrando seu impacto no desenvolvimento e emprego, preços justos para brasileiros, e redução da pobreza, além de benefícios para consumidores estrangeiros. Palavra passada para Bruno Toledo do Ibrah.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -112,7 +121,8 @@
       "summary": "Representante da IBRAM preocupado com exportação e imunidade em GT; elogia reforma tributária, mas alerta desafios para leis complementares; busca solucionar problemas minerador brasileiro com lei em branco; propõe garantia de imunidade em tributos substituídos, mas exige endereçamento na lei complementar; sugere sanções e livre crédito caso não seja concretizado.",
       "speaker": {
         "name": "BRUNO TOLEDO",
-        "position": "Representante da IBRAM"
+        "position": "Representante da IBRAM",
+        "slug": "bruno-toledo"
       }
     },
     {
@@ -123,7 +133,8 @@
       "summary": "Representante da FPA discutiu ausência de simetria entre impostos, destacando problemas com imposto seletivo e IBS. Sugeriu comitê de distribuição que ressarciria exportadores antes de distribuir fundos. Pediu atenção a Bruno Alves da UNEM em seguida.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -134,7 +145,8 @@
       "summary": "Setor agropecuário impulsiona Brasil, mas enfrenta desafios com queda de commodities, pandemia, e crise climática. APROSOJA BRASIL propõe medidas fiscalmente favoráveis, como crédito presumido, alíquotas reduzidas, e limitação de impostos. Importante: isenção de impostos, crédito na exportação, e destruição de créditos à cadeia exportadora.",
       "speaker": {
         "name": "FABRÍCIO ROSA",
-        "position": "Representante da APROSOJA BRASIL"
+        "position": "Representante da APROSOJA BRASIL",
+        "slug": "fabricio-rosa"
       }
     },
     {
@@ -145,7 +157,8 @@
       "summary": "Discurso sobre imunidade na exportação indireta e rastreabilidade, com dificuldades na efetivação da Prossoja Brasil e interesse no diferimento e rastreabilidade na exportação, convidando Dalton Miranda da Biov para discutir o assunto.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -156,7 +169,8 @@
       "summary": "ABIOVE enfrenta desafios no setor produtor, prioriza debates completos. Alterará conceitos tributários com sistema modificado, busca simplificação e segurança jurídica. Dará prioridade à devolução rápida de ressarcimentos. Promoverá equilíbrio entre exportação e industrialização, incentivando soluções através de políticas públicas, não tributárias. Novo modelo tributário pode ser regulamentado por lei ordinária.",
       "speaker": {
         "name": "DALTON MIRANDA",
-        "position": "Representante da ABIOVE"
+        "position": "Representante da ABIOVE",
+        "slug": "dalton-miranda"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Representante da FPA propôs questão de convergência e divergência, pediu por perguntas ou comentários e passou a palavra para Marcela.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -178,7 +193,8 @@
       "summary": "Representante da ACIUB propõe leis tributárias claras, objetivas e autoaplicáveis, eliminando subjetividade e carga tributária injusta, promovendo justiça fiscal e livre concorrência.",
       "speaker": {
         "name": "MARCELA GUIMARÃES",
-        "position": "Representante da ACIUB"
+        "position": "Representante da ACIUB",
+        "slug": "marcela-guimaraes"
       }
     },
     {
@@ -188,7 +204,8 @@
       "transcription": "Marcela, doutora Andreia Cavalcante, você gostaria de fazer algum comentário? Nós",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -199,7 +216,8 @@
       "summary": "Representante da CNT destacou importância da regulação do transporte de exportação de serviços, especificamente no setor aéreo e rodoviário de cargas, e a manutenção dos atendimentos gratuitos à população, garantida pela Constituição Federal.",
       "speaker": {
         "name": "ANDREA CAVALCANTI",
-        "position": "Representante da CNT"
+        "position": "Representante da CNT",
+        "slug": "andrea-cavalcanti"
       }
     },
     {
@@ -209,7 +227,8 @@
       "transcription": "",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -220,7 +239,8 @@
       "summary": "Representante da ABPA destacou importância do agronegócio na segurança alimentar nacional e global, e a necessidade de sensibilizar o parlamento e a sociedade sobre o assunto, especialmente em relação à reforma tributária atual e à valorização da produção agropecuária pelo Estado. Mencionou também a importância da tilápia como proteína sustentável com grande potencial de exportação.",
       "speaker": {
         "name": "MARCELO OSÓRIO",
-        "position": "Representante da ABPA"
+        "position": "Representante da ABPA",
+        "slug": "marcelo-osorio"
       }
     },
     {
@@ -230,7 +250,8 @@
       "transcription": "Vou passar a palavra ao Marcos Muniz, que está online com a gente da Liga Solidária. Nos comentários? Ah, eu.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -241,7 +262,8 @@
       "summary": "Representante da LIGA SOLIDÁRIA destacou importância do Terceiro Setor no Brasil, com 220 mil organizações que oferecem 6 milhões de empregos diretos e atendimento gratuito em áreas como saúde e educação. Sua proposta é fortalecer essas organizações, garantindo regulamentação clara, contas transparentes e impacto medido.",
       "speaker": {
         "name": "MARCOS MUNIZ",
-        "position": "Representante da LIGA SOLIDÁRIA"
+        "position": "Representante da LIGA SOLIDÁRIA",
+        "slug": "marcos-muniz"
       }
     },
     {
@@ -252,7 +274,8 @@
       "summary": "Representante da FPA prioriza reforma tributária que simplifique, reduza carga tributária e garanta imunidade na exportação, especialmente para produtos agropecuários e industriais, com isenção de impostos para competir no exterior e evitar barreiras.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -263,7 +286,8 @@
       "summary": "Representante da IBRAM comenta sobre dificuldade do setor privado participar de discussões no Ministério da Fazenda. Ela destaca iniciativa das frentes em permitir que preocupações sejam abordadas antes da remessa do projeto ao congresso, principalmente a garantia de imunidade das exportações e mecanismos de restituição de créditos.",
       "speaker": {
         "name": "BRUNO TOLEDO",
-        "position": "Representante da IBRAM"
+        "position": "Representante da IBRAM",
+        "slug": "bruno-toledo"
       }
     },
     {
@@ -273,7 +297,8 @@
       "transcription": "Reforçar novamente o importante da gente trazer isso pra lei complementar, especialmente no nosso caso a questão do transporte enquanto exportador de serviço, seja ele em carga, seja ele em passageiro, porque a gente também tem que sobre setor aéreo, sobre outras, rodoviário de cargas, enfim, nós temos outras modalidades aí a serem discutidas na lei complementar. E lembrar que hoje a gente faz trabalho aí que é importante pra sociedade civil que é o sistema S, é braço educacional que é primordial hoje pro país, de atendimento à saúde também, pra gente tentar ter olhar cuidadoso de respeito ao que já foi estabelecido pela constituição federal, pra gente tenha a certeza que a gente vai manter essa imunidade e no nosso caso manter esses atendimentos gratuitos à população. Muito obrigada. Muito obrigado.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -284,7 +309,8 @@
       "summary": "Representante da APROSOJA BRASIL agradeceu oportunidade, elogiou trabalho de parlamentares na defesa do setor, valorizou diálogo e compromisso em consolidar propostas justas para manter agricultura como setor vital na economia brasileira.",
       "speaker": {
         "name": "FABRÍCIO ROSA",
-        "position": "Representante da APROSOJA BRASIL"
+        "position": "Representante da APROSOJA BRASIL",
+        "slug": "fabricio-rosa"
       }
     },
     {
@@ -294,7 +320,8 @@
       "transcription": "Obrigado, Fabrício. Dalton, para a gente finalizar e eu colocar aqui os encaminhamentos. Bom, Eduardo.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -305,7 +332,8 @@
       "summary": "Iniciativa valora material pronto para projetos de lei;",
       "speaker": {
         "name": "DALTON MIRANDA",
-        "position": "Representante da ABIOVE"
+        "position": "Representante da ABIOVE",
+        "slug": "dalton-miranda"
       }
     },
     {
@@ -316,7 +344,8 @@
       "summary": "Representante da FPA propôs efetivação de imunidades, especialmente para exportações, garantir manutenção de créditos, restituição em 60 dias, compensação de créditos com outros tributos ou transferência a outros contribuintes do IBS caso não restituídos. Valoriza reforma tributária atual como otimista e adequada para momento atual.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -327,7 +356,8 @@
       "summary": "Participante discutiu importância de manter estoque constitucional de imunidades em emenda 132, impedindo geração e acúmulo de créditos em operações imunes, exceto por previsão em lei complementar. Sua proposta é organizar isso na lei complementar para permitir acúmulo e aproveitamento de tais créditos.",
       "speaker": {
         "name": "Pedro",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "pedro"
       }
     },
     {
@@ -338,7 +368,8 @@
       "summary": "Representante da FPA mencionou governo's participation in discussions, expressing concern over its absence, and invited government to listen online.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     },
     {
@@ -349,7 +380,8 @@
       "summary": "Representante da LIGA SOLIDÁRIA propôs discussed the importance of expanding executive discussions for effective sector participation, emphasizing the relevance of considering here-learned insights.",
       "speaker": {
         "name": "MARCOS MUNIZ",
-        "position": "Representante da LIGA SOLIDÁRIA"
+        "position": "Representante da LIGA SOLIDÁRIA",
+        "slug": "marcos-muniz"
       }
     },
     {
@@ -359,7 +391,8 @@
       "transcription": "Grupo de trabalho tão significativo. Muito obrigado. Muito obrigado a todos, boa tarde.",
       "speaker": {
         "name": "EDUARDO LOURENÇO",
-        "position": "Representante da FPA"
+        "position": "Representante da FPA",
+        "slug": "eduardo-lourenco"
       }
     }
   ],

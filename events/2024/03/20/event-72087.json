@@ -14,7 +14,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Falta algum colega parlamentar ainda votar? Apuração e proclamação do resultado.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Eleição de novos vice-presidentes da comissão: Evair Vieira de Melo com 27 votos como 1º vice-presidente, Rodolfo Nogueira com 27 votos como 2º vice-presidente, Ana Paula Leão com 27 votos como 3ª vice-presidente. Declarados eleitos e empossados em primeiro escrutínio, assumindo seus cargos. Convidados a fazer pronunciamentos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -47,7 +50,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -282,7 +305,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -442,7 +479,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -454,7 +492,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -466,7 +505,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -478,7 +518,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -489,7 +530,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -501,7 +543,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -512,7 +555,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -524,7 +568,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -536,7 +581,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -548,7 +594,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -559,7 +606,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -571,7 +619,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -583,7 +632,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -595,7 +645,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -607,7 +658,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -619,7 +671,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -631,7 +684,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -643,7 +697,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -654,7 +709,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -666,7 +722,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -677,7 +734,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -689,7 +747,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -701,7 +760,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -712,7 +772,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -724,7 +785,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -736,7 +798,8 @@
       "speaker": {
         "id": 204567,
         "name": "Raimundo Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-costa"
       }
     },
     {
@@ -747,7 +810,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -759,7 +823,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -771,7 +836,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -783,7 +849,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -795,7 +862,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -807,7 +875,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -819,7 +888,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -831,7 +901,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -843,7 +914,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -855,7 +927,8 @@
       "speaker": {
         "id": 121948,
         "name": "Adriano do Baldy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "adriano-do-baldy"
       }
     },
     {
@@ -867,7 +940,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -879,7 +953,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -891,7 +966,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -903,7 +979,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -915,7 +992,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Medida provisória sobre crédito fiscal discutida com 98 emendas, com relatório de deputado Luiz Fernando Faria. Ofício do Congresso Nacional recebido. Requerimento de retirada de pauta aberto.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -111,7 +119,8 @@
       "summary": "Começaram sanções por atraso na votação, 340 votantes suficientes para encerrar requerimento. Finalizou o processo de votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -262,7 +283,8 @@
       "summary": "Votação concluída: 307 contra, 2 a favor, 2 abstenções, 70 obstruções. Encerrada discussão, rejeitado requerimento, sob regimento 95.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -332,7 +359,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -379,7 +410,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -391,7 +423,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -414,7 +448,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -437,7 +473,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -449,7 +486,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -461,7 +499,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -471,7 +510,8 @@
       "transcription": "Emprego que deveria estar sendo preservada e não está nesse instante.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Rafael Prudente",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-rafael-prudente"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -507,7 +549,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -519,7 +562,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -530,7 +574,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -542,7 +587,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -554,7 +600,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -566,7 +613,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -578,7 +626,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -590,7 +639,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -602,7 +652,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -613,7 +664,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -625,7 +677,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -637,7 +690,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -648,7 +702,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -660,7 +715,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -672,7 +728,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -684,7 +741,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -696,7 +754,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -708,7 +767,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -720,7 +780,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -732,7 +793,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -744,7 +806,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -755,7 +818,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -765,7 +829,8 @@
       "transcription": "Instrução, oriento a obstrução e quero dizer que não vai acontecer essa mágica que o colega que me antecedeu falou, não vai ter dinheiro pra município com essa medida provisória não, porque aquelas pessoas que investem, investiram até agora, contando com o crédito que teriam, vão deixar de ter esse crédito. E quando você não tem crédito, é muito mais fácil você deixar de investir naquele local do que você produzir mais e mais, gastar mais e mais, pagar mais e mais imposto e dar dinheiro para o Estado. Existe curva de Lafer, minha gente. Existe limite do que se pode pagar. Além desse limite que esse governo está ultrapassando de com força, o que acontece é fuga de capital, é fuga de investimento, eu nunca vi tanto empresário, tanto brasileiro largando, saindo desse país, buscando local onde ele possa produzir, investir de forma mais próspera. Governo, presidente",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -777,7 +842,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -788,7 +854,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -800,7 +867,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -811,7 +879,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -823,7 +892,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -835,7 +905,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -847,7 +918,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -858,7 +930,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -870,7 +943,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -881,7 +955,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -893,7 +968,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -904,7 +980,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -915,7 +992,8 @@
       "summary": "Votação terminada: rejeição do requerimento com 1 abstenção.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -927,7 +1005,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -939,7 +1018,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -951,7 +1031,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -963,7 +1044,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -975,7 +1057,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -987,7 +1070,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -999,7 +1083,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1011,7 +1096,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1023,7 +1109,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -1035,7 +1122,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1047,7 +1135,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -1059,7 +1148,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1071,7 +1161,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1083,7 +1174,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1095,7 +1187,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1106,7 +1199,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1117,7 +1211,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1129,7 +1224,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1140,7 +1236,8 @@
       "summary": "Tem início da votação, orienta-se a seguir o presidente.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1152,7 +1249,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1163,7 +1261,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1175,7 +1274,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1187,7 +1287,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1199,7 +1300,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -1210,7 +1312,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1221,7 +1324,8 @@
       "summary": "Votação concluída: 327 a favor, 43 contra, 1 abstenção. Parecer aprovado. Opiniões divergentes expressadas sobre adequação financeira e constitucionalidade. Deputados Odair Cunha e Bia Kiss votaram respectivamente a favor e contra.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -1233,7 +1337,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1244,7 +1349,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1255,7 +1361,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1266,7 +1373,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1276,7 +1384,8 @@
       "transcription": "Nosso bloco orientase",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1288,7 +1397,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -1299,7 +1409,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1310,7 +1421,8 @@
       "speaker": {
         "id": 204436,
         "name": "Isnaldo Bulhões Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "isnaldo-bulhoes-jr"
       }
     },
     {
@@ -1321,7 +1433,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1333,7 +1446,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1344,7 +1458,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1356,7 +1471,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1367,7 +1483,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1379,7 +1496,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -1390,7 +1508,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1402,7 +1521,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -1413,7 +1533,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1425,7 +1546,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1436,7 +1558,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1448,7 +1571,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -1460,7 +1584,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1472,7 +1597,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1482,7 +1608,8 @@
       "transcription": "PSDB e PSD republicanos. Presidente, o bloco MDB PSD republicanos podemos",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rafael Prudente -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rafael-prudente-por-participante-arthur-lira"
       }
     },
     {
@@ -1493,7 +1620,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1505,7 +1633,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1516,7 +1645,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1528,7 +1658,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -1540,7 +1671,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1552,7 +1684,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -1563,7 +1696,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1575,7 +1709,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1586,7 +1721,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1598,7 +1734,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1609,7 +1746,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1620,7 +1758,8 @@
       "summary": "Votação encerrada: 355 a favor, 56 contra e uma abstenção. A medida provisória é aprovada, enviarão destacamento de bancada nº 5 para converter e encaminhar à votação.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -1632,7 +1771,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -1643,7 +1783,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1655,7 +1796,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1666,7 +1808,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1678,7 +1821,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -1689,7 +1833,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1700,7 +1845,8 @@
       "summary": "Início da votação após encaminhamento do bloco por deputada Bia; presidente orientou outros deputados e agora é a vez de Bulhões do MBB.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1712,7 +1858,8 @@
       "speaker": {
         "id": 204436,
         "name": "Isnaldo Bulhões Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "isnaldo-bulhoes-jr"
       }
     },
     {
@@ -1723,7 +1870,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1735,7 +1883,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1747,7 +1896,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1759,7 +1909,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1770,7 +1921,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1782,7 +1934,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -1793,7 +1946,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1805,7 +1959,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1816,7 +1971,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1828,7 +1984,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1839,7 +1996,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1850,7 +2008,8 @@
       "summary": "Votação aprovou texto com emenda de comissão quarenta. Alberto Neto de destaque como capitão da bancada três.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -1862,7 +2021,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1873,7 +2033,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1885,7 +2046,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1896,7 +2058,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1907,7 +2070,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -1919,7 +2083,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1931,7 +2096,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1943,7 +2109,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1955,7 +2122,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1966,7 +2134,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1978,7 +2147,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1989,7 +2159,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2001,7 +2172,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -2012,7 +2184,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2023,7 +2196,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -2034,7 +2208,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2046,7 +2221,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2057,7 +2233,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2067,7 +2244,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2079,7 +2257,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2090,7 +2269,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2101,7 +2281,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -2113,7 +2294,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2123,7 +2305,8 @@
       "transcription": "Anos. Senhor presidente, nosso bloco orienta o voto não. Como orienta o PL? Presidente, o PL mantém",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -2135,7 +2318,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -2147,7 +2331,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2159,7 +2344,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2170,7 +2356,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2182,7 +2369,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2194,7 +2382,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2206,7 +2395,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2217,7 +2407,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2229,7 +2420,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -2240,7 +2432,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2251,7 +2444,8 @@
       "summary": "Tempo suficiente com 50 deputados; Rejeitado destaque, mantido texto; Último destaque da emenda 72 do PL; Vontade de manter destaque de bancada 6; Trabalhando aqui.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2263,7 +2457,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2274,7 +2469,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2286,7 +2482,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -2297,7 +2494,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2308,7 +2506,8 @@
       "summary": "Iniciar votação segundo MDB, PSD, Republicanos, Podemos e PL, mas PL obstruindo.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -2320,7 +2519,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2331,7 +2531,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2343,7 +2544,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2354,7 +2556,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2366,7 +2569,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -2378,7 +2582,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2390,7 +2595,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2401,7 +2607,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2412,7 +2619,8 @@
       "summary": "Votação final sobre tributação agendada para aprovação amanhã; emenda rejeitada; matéria irá ao Senado Federal.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2423,7 +2631,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -2435,7 +2644,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2446,7 +2656,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -2458,7 +2669,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2469,7 +2681,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2481,7 +2694,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2493,7 +2707,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -2504,7 +2719,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2516,7 +2732,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -2528,7 +2745,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2540,7 +2758,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2552,7 +2771,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2562,7 +2782,8 @@
       "transcription": "Presidente, eu só quero fazer a justificativa de de voto que eu não. Nos nos termos do artigo setenta, está suspensa a sessão por trinta minutos.",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -2572,7 +2793,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -2582,7 +2804,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -2592,7 +2815,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -2604,7 +2828,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2616,7 +2841,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2627,7 +2853,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2639,7 +2866,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -2651,7 +2879,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2663,7 +2892,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2675,7 +2905,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2687,7 +2918,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2699,7 +2931,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2711,7 +2944,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2723,7 +2957,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2735,7 +2970,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2747,7 +2983,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2759,7 +2996,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2770,7 +3008,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2782,7 +3021,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -2794,7 +3034,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2806,7 +3047,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -2818,7 +3060,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2829,7 +3072,8 @@
       "summary": "Deputado Van Hathon pressionado, PL passa a obstruir; orientação sobre tempo incerta.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -2841,7 +3085,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2852,7 +3097,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2864,7 +3110,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -2875,7 +3122,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2887,7 +3135,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -2898,7 +3147,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2910,7 +3160,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -2921,7 +3172,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2933,7 +3185,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -2945,7 +3198,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2956,7 +3210,8 @@
       "summary": "Ato legislativo sobre reforma tributária apresentado ao plenário, resultado: 46 sim, 311 não, 72 abstenções. Leitura da proposta consolidada por deputado Aguinaldo Ribeiro.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2968,7 +3223,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -2978,7 +3234,8 @@
       "transcription": "E talvez o debate mais longo, o debate mais extenso, o debate mais profundo e o debate mais difícil que nós já tivemos nessa casa. Porque debater, por exemplo, a reforma da previdência, que foi tema importante, mas é pontual. Debater reforma trabalhista como aqui nós fizemos também é pontual. O sistema tributário complexo que nós temos hoje ele fala de diversas formas e envolve setores diversos, envolve entes federados, envolve a complexidade do país que nós temos. Por isso, eu tenho a absoluta tranquilidade de que nós vamos concluir essa análise sobre o que se debruçou o Senado Federal para concluirmos essa reforma. E quis o destino aqui que hoje nós tivéssemos sentado em parte dessa sessão presidindo essa sessão o deputado que está aqui, eu queria aproveitar pra render a minha homenagem a esse companheiro, né, que lutou tanto pela mudança no sistema tributário que Deus faz dessas coisas, áudio, faz faz isso com a gente. E a gente tem que ser grato a ele. Por isso, eu passo agora e ao momento importante que é a leitura do voto e vou fazer só uma menção já que está ali o meu o autor da propositura né? O nosso deputado Baleia Rossi da da PEC quarenta e cinco. O Raul foi quem Ficou tudo bem. Nos fez votar inclusive na comissão, aqui a PEC dois nove três que é essa que nós estamos pensando inclusive a PEC quarenta e cinco no dia de hoje E o senador Eduardo Braga, que teve uma uma missão muito difícil que foi tratar de tema em praticamente quatro meses, né? Aprovar lá no Senado. Então, eu queria dizer que o que está aqui hoje foi resultado de consenso. E eu diria assim, construção de maioria, né, que a gente faz nessa casa, porque é difícil ter consciência numa casa tão plural. Mas, é preciso a gente desmistificar coisas. Mais uma vez, não vamos permitir primeiro que se traga pra cá politização acerca dessa reforma. Dessa reforma é uma reforma que o parlamento propôs ao longo desse tempo e não conseguiu fazer, né? Essa reforma ela vai, de fato, impactar o nosso país sobremaneira, porque nós vamos ter nela a simplificação tributária, se equivoca e é falso dizer que essa reforma não combate as principais mazelas do sistema tributário sobre o consumo no nosso país. Nós estamos trazendo não só simplificação, nós estamos trazendo a a eliminação da acumulatividade, nós estamos combatendo e trazendo transparência para o nosso país porque hoje o nosso cidadão não sabe quanto paga de imposto desse país, porque o nosso sistema não é claro, ele é pesado e pesado sobre os que mais precisam no nosso país, sobre os mais desprotegidos, porque ele é regressivo, Ou seja, quem precisa mais é justamente quem paga mais. Por isso, presidente, eu faço esse preâmbulo antes de ler o nosso parecer que vamos explicar aqui a nossa manifestação mas com muita tranquilidade ciente do do esforço que foi feito aqui por todos e todos participaram, isso não é uma construção de só. E eu vou me iniciar aqui esse relatório nessa certeza de que estamos concluindo esse trabalho com muita responsabilidade. É lógico que vai ter coisa que você dissesse assim, você preferia fazer diferente? Talvez eu, talvez não, eu preferia fazer diferente. Eu defendi aqui o IVA único, achava que era mais simples, né? Mas a nossa complexidade federativa nos impõe a também a lógica da política onde você não impõe a sua vontade. Mas você tem que ceder também pra que se construa, na verdade, a vontade de todos, que é o que é o símbolo desta casa. Por isso eu passo e se me permitirem passo direto ao voto. Clube a este relator a honrosa missão após designação do excelentíssimo presidente da Câmara dos Deputados. Demiti parecer sobre o mérito da PEC da reforma tributária, bem como sobre o mérito das emendas que lhe foram apresentadas dos termo do parágrafo quarto do artigo duzentos e dois do regime interno da Câmara dos Deputados observados os mesmos pressupostos de admissibilidade que condicionam as apensada. Por oportuno destaques não sendo necessária nova análise de admissibilidade das proposições em apreciação. A PEC dois nove três de dois mil e quatro teve sua admissibilidade apreciada pela CCJ em quatro de fevereiro de dois mil e quatro. A partir do parecer exarado pelo deputado Osmar Serragne, para PEC número dois para PEC número duzentos e vinte e oito de dois mil e quatro, da qual foi desmembrada. As emendas a ela apresentadas tiveram sua admissibilidade apreciadas ou na CCJ ou pela comissão especial da PEC dois nove três dois mil e quatro. Sob a relatoria do eminente deputado Luiz Carlos Raul cujo parecer foi aprovado em onze de dezembro de dois mil e dezoito. Já a PEC número quarenta e cinco de dois mil e dezenove passou na Câmara dos Deputados pelo crivo da admissibilidade pela CCJ em vinte e dois de maio de dois mil e dezenove a partir de parecer de lavra do deputado João Roma e no senado federal da comissão de constituição e justiça e cidadania daquela casa em sete de novembro de dois mil e vinte e três, nos termos do parecer de autoria do senador Eduardo Braga. Análise de mérito da PEC dois nove três dois mil e dezenove de suas emendas. O desfecho de longo processo da reforma tributária se dá a partir da PEC dois nove três dois mil e e quatro. É a oportunidade para homenagear eu já fiz isso aqui agora, o deputado Luiz Carlos Alves. Ela toda essa proposta outrora na respectiva comissão especial, incansável, defensor da reforma tributária, é justo reconhecer e afirmar deputado que seu trabalho muito contribuiu para concluirmos o alinhamento do nosso sistema tributário do consumo ao modelo adotado do restante do mundo. Relação ao mérito da proposta como se sabe o texto do substitutivo a PEC dois nove três dois mil e quatro aprovado em onze de dezembro de dois mil e dezoito. Foi apresentado pelo senador David Alcolumbre na forma da PEC número cento e dez de dois mil e dezenove. Esta PEC juntamente a PEC quarenta e cinco de dois mil e dezenove. Tornaramse a base da discussão da atual reforma tributária. As quarenta e nove emendas apresentadas originalmente à PEC dois dois oito de dois mil e quatro da qual deriva a PEC dois nove três dois mil e catorze Referese a contexto diverso daquele que se passa a discussão atual. Na época ainda não se podia antever que as duas casas legislativas serrariam fileiras em favor de Aliando as melhores práticas internacionais e acordariam pela extinção do ICMS, a discussão da tributação do consumo no país. Por essa razão, optamos por não acatálas. Já em relação às sete emendas apresentadas à comissão especial na PEC dois nove três dois mil e dezenove, todas foram parcialmente acatadas no substitutivo aprovado naquela comissão e não trazem inovações que cai vão ser incluídas no texto. Deste modo optamos por rejeitar essas emendas. Análise do mérito da PEC quarenta e cinco de dois mil e dezenove. O retorno da PEC quarenta e cinco de três de abril de dois mil e dezenove para apreciação das modificações do Senado Federal ao texto aprovado por esta casa em julho de dois mil e vinte e três, marca a conclusão de longo processo de diálogo institucional iniciado em dois mil e dezenove. Com apresentação da Pec quarenta e cinco dois mil e dezenove na Câmara dos Deputados pelo deputado Baleia Rossi e da PEC cento e dez de nove de julho de dois mil e dezenove no Senado Federal pelo senador David Ocolumbre. Devemos muito a esses dois parlamentares, Deputado Baleia Rossi e senador David Acolumbre. Pela coragem na iniciativa de trazer à pauta matéria tão importante para o país, mas que possua dificuldade de consenso delas muitos já haviam desistido. Destaques que ambos não foram apenas autores das propostas, mas ferrenhos defensores da ideia durante toda a discussão da matéria. O diálogo continuou com a criação da comissão mista temporária da reforma tributária em dezenove de fevereiro de dois mil e vinte, com o objetivo de produzir uma proposta que unificasse os dois trechos, tendo sido designado relator da matéria após amplo processo de estudo e discussão apresentei ao colegiado doze de maio de dois mil e vinte e substitutivo as duas PECs que não chegou a ser apreciado pela extinção por esgotamento de prazo regimental da comissão especial da PEC quarenta e cinco dois mil e dezenove. Esse substitutivo apesar de não votado continuar a ser discutido e anado pela CCJ do senado da PEC número cento e dez dois mil e dezenove em dezesseis de março de dois mil e vinte e dois. Seu relator, senador Roberto Rocha apresentou novo substitutivo que também não foi apreciado por aquele colegiado. Aliás, eu também gostaria aqui de ressaltar o empenho e o trabalho do senador Roberto Rocha enquanto presidente da comissão mista e relator da PEC cento e dez, que sempre acompanhou esse tema até hoje. Em dois mil e vinte e três tendo a reforma tributária sido elencada como uma das prioridades nacionais, a Câmara dos Deputados instituiu nove de fevereiro de dois mil e vinte e três, grupo de trabalho para analisar e debater a quarenta e cinco de dois mil e dezenove. Sob a impecável presidência do deputado Reginaldo Lopes que está aqui nesse plenário e que eu também quero aqui abraçar, dizer da honra de ter sido e ser colega do deputado Reginaldo Lopes que com tanta e tanta dedicação conduziu os trabalhos do grupo de trabalho. Esse grupo que também teve na sua integração e aqui renda a homenagem aos parlamentares, a deputada Tábata Amaral, os deputados Adail Filho, Glauustim da Fox, Ivan Valente, Jonas Donizetti, Luiz Felipe Bragança, Mauro Benevides Filho, Nilton Cardoso Júnior, Saulo Viana, Sidnei Leite e Vitor Lipe. Todos e em nome de todos eu cumprimento todos os parlamentares dessa casa que tem acompanhado e se dedicado a esse tema e que de forma relevante contribuiu para o aprimoramento do texto apresentado. Tomando por base todo o cabedal de conhecimento acumulado. O grupo de trabalho aprovou em seis de junho de dois mil e vinte e três. Relatório com diretrizes para a reforma tributária a ser levada à apreciação do plenário na Câmara dos Deputados. E foi com base nessas diretrizes que esta casa aprovou em sete de julho de dois mil e vinte e três o substitutivo, a PEC número quarenta e cinco de dois mil e dezenove, oferecendo ao país uma reforma tributária abrangente e coesa, representando o consenso possível de nossa sociedade em que propôs sistema tributário alinhado às melhores práticas internacionais, capaz de impactar positivamente o crescimento da economia brasileira. Reduzindo custos, eliminando litígios e corrigindo distorções alocativas. Enviada ao Senado Federal aquela casa passou quatro meses ao debate e estudo desse modelo tributário. Em oito de novembro de dois mil e vinte e três, no último oito de novembro de dois mil e vinte e três aprovou o novo substitutivo a PEC número quarenta e cinco de dois mil e nove. E fazemos questão aqui mais uma vez de ressaltar o trabalho feito pelo eminente deputado, senador, nosso senador Eduardo Braga. Esse trabalho resultou nesse sistema que trata de diversas questões mas que sem dúvida nenhuma nós trazemos aqui agora para detalhar para os senhores cada cada ponto desse que nós passamos a, e eu queria aqui fazer adendo antes de passar o texto. Eu queria aqui destacar ponto que é importante, que foi a construção desse dia de hoje, né? Do debate que foram feito com as lideranças. Da casa que foi feito na construção com o Senado, debate e aqui o próprio relator do Senado presente no plenário, senador Eduardo Braga. Quero fazer adendo aqui importante que foi a determinação dos dois presidentes. Do senador Rodrigo Pacheco que desde então acompanhou esse processo da comissão mista composta por deputados federais, deputadas, senadores e senadoras. Pelo nosso presidente Arthur Lira, que com determinação trouxe esse debate e marcou data pra se votar. Porque é muito difícil votar tema como esse. Toda vez que a gente vai votar sempre tem uma solução que aparentemente poderia ser uma solução melhor. E esse debate sempre segue e a gente não consegue finalizar. Pois bem, durante essa semana se intensificou. E houve debate, não só dentro da casa como externo. E esse debate fez com que nós, com as lideranças aqui da câmara, o Senado, com as lideranças do Senado, eu, senador Eduardo Braga, o presidente Pacheco e o presidente Arthur, Nós, baseado naquilo que foi fruto do debate dos líderes partidários, tivemos ontem, numa reunião, por mais de quatro horas, onde nós passamos o texto, avaliando o texto pra que nós pudéssemos concluir esse trabalho hoje. E esse trabalho, na minha opinião, e eu sei que na opinião de muitos, nós passamos a definir exatamente cada ponto desses que eu presto atenção das senhoras e senhores nessa explicação. Que foi fruto dessa construção conjunta. Até porque nós não queremos votar sobre uma reforma tributária, nós queremos votar uma reforma tributária, uma emenda constitucional e promulgála e entregála ao Brasil ainda este ano. Porque meus amigos esse processo está só começando. Nós temos grande debate na legislação complementar pra fazer o ano que vem. Nós estamos constitucionalizando calendário pra que o nosso sistema tributário seja modificado. E isso não se faz do dia pra noite. Muito bem. Nada de discussão com as lideranças da casa, com o governo federal e aqui eu também queria destacar empenho do próprio ministro Haddad, da sua equipe, está aqui o 0 Bernard Pique. Tivemos ontem, madrugada adentro. Discutindo esses temas pra chegar tecnicamente a melhor solução. E ao próprio presidente da república que não é uma reforma, não vamos politizar, mas foi preciso sim o presidente resolver aportar os recursos do fundo de desenvolvimento regional senão não tinha reforma. No passado nós não tivemos porque esse tema federativo não conseguia andar, e precisava dessa decisão de quem compreendesse a federação como todo, pra aportar quarenta bilhões aqui na câmara e ampliar do Senado em mais vinte, virando sessenta bilhões de reais. Então é preciso destacar sim essa vontade aqui de se fazer a reforma tributária e disso o presidente Lula também esteja envolvido com uma instituição importante, o executivo para colaborar com a PEC proposta pelas duas casas. Esse trabalho é importante, né, De cooperação entre todos nós. E nessa discussão com as duas casas com o governo federal nós chegamos a este momento. Contudo, não foi possível manter algumas das inovações incorporadas no Senado. Destaques que a promulgação de parte de PEC eliminando dela a matéria que não é consensual entre as duas casas legislativas é prática sentada no processo legislativo brasileiro já chancelada pelo STF na ação direta de inconstitucionalidade a DI. Vinte e vinte e oito de dois mil e dois. Disse disso se possível suprimir parcela do texto de PEC sem retorno para outra casa. Desde que a parte tenha autonomia e não prejudique o sentido ou compreensão do remanescente. Diante do exposto proporemos a seguir algumas exclusões de texto em análise correspondentes a emendas supressivas. Cuidouse de eliminar tópicos que correspondem a acréscimos do senado que gozam de autonomia com relação ao restante do texto. Suas exclusões representam apenas a não concordância da Câmara dos Deputados com essas inovações. Não prejudicando a estrutura da reforma tributária aprovada. A parte remanescente constante do substitutivo por nós apresentado compõe texto coeso, sem lacunas e totalmente aplicável, sendo passivos de promulgação imediata. Dos tópicos para o qual são necessários ajustes diz respeito aos regimes diferenciados com direitos a alíquotas reduzidas de IBS e de CBS. Não podemos perder de vista que a redução de alíquota para o bem ou serviço adquirido pelo consumidor final implicará aumento de alíquota para o restante da economia já que a manutenção de carga tributária é pressuposto da reforma. Tendo isso em mente é recomendável que exceções a regra geral de tributação em em razão da concessão de benefícios fiscais privilegie produtos e serviços de consumo relevante por famílias de baixa renda. A eleição de produtos consumidos por pessoas com melhores condições econômicas, por mais relevantes que sejam, implicará o financiamento do benefício pelo esse pessoal de sua parcela. Por outro lado caso o meu serviço beneficiado com alíquota reduzida seja consumido por pessoa jurídica, consistindo em insumo de alguma cadeia produtiva será aproveitado pelo adquirente quando do pagamento do IBS, CBS de vírus. Nesses casos a inclusão do bioserviço na lista de reduções ou alíquota somente traz complexidades e ineficiências econômicas, sem nenhuma redução de carga tributária já que o valor pago a menor será recolhido na etapa seguinte. Seguindo esses parâmetros, optamos por realizar as seguintes exclusões. Eliminamos a possibilidade da redução em cem por cento de alíquota da aquisição de medicamentos e dispositivos médicos por entidades de assistência social, sem fins lucrativos. Já há uma uma duplicidade porque a o nosso texto inclusive anterior já previa inclusive a redução até cem por cento destes dispositivos. A cesta básica estendida, o artigo oito, parágrafo segundo da PEC seria aquela que contém produtos com alíquota reduzida em sessenta por cento e com cashback obrigatório. Contudo a PEC já garante o mesmo tratamento para alimentos e produtos de higiene elencados na lei complementar com possibilidade de cashback e redução de alíquota. Não havendo sentido em obrigar o legislador complementar decisões que seriam mais bem ponderadas de acordo com os recursos limitações de cada época. É importante dizer que nós já destacamos nessa redução alimentos destinados a consumo humano. Portanto nós já temos essa essa previsibilidade aprovada no texto nas duas casas, Câmara e Senado. Quanto ao destacase que a PEC Enases já garante a possibilidade de devolução do IBS e do CBS a pessoas físicas com o objetivo de reduzir as desigualdades de renda. Nesse texto nós estamos apenas mantendo aquilo que a câmara também já aprovou aí o que o Senado também manteve. Foram necessários ajustes em algum dos setores. Incluídos no no âmbito dos regimes específicos. Foram necessários ajustes em alguns dos setores incluídos no âmbito dos regimes específicos. Eu queria fazer aproveitar, vou ler aqui, mas fazer só realçar. Quando a gente fala regime específico, a pessoa confunde com regime especial, como se isso fosse sinônimo já de algum tipo de benefício. O regime específico é que você não vai aplicar o IVA diretamente no regime de de débito e crédito. É que você vai definir em lei complementar qual será exatamente, como será exatamente essa tributação e com e com o que é alíquota. E que quem vai fazer isso? Esta casa juntamente com o Senado Federal. Nesse sentido, a inclusão de setores que por sua natureza podem se sujeitar ao regime normal de apuração que é o que eu disse, causará complexidades e ineficiências podendo causar novos litígios justamente o que se pretende evitar novo sistema pode ainda resultar em tratamento mais gravoso que as regras normais caso seja mal calibrado. Nesse contexto, propomos a exclusão dos seguintes setores incluídos na PEC do Senado. E eu quero dizer também e realçar que essa essas decisões foram decisões tratadas com os líderes dessa casa. Essas decisões não foram decisões que teve o condão só desse relator. Mas nós propusemos aqui, fizemos debate e foi o consenso majoritário do líder dessa casa que propôs exatamente essas alterações. Serviços de saneamento e de concessão de rodovias que está no artigo cinco meia A parágrafo sexto inciso seis da Constituição Federal. Serviços de transporte aéreo, artigo cinco meia A, parágrafo sexto, inciso sétimo da Constituição Federal. Operações que envolvam a disponibilização da estrutura compartilhada do serviço de telecomunicações. Artigo cinco meia A, parágrafo sexto, inciso oitavo da Constituição Federal. Bens e serviços que promovem a economia circular, artigo cinco meia A, parágrafo sexto, inciso nono da Constituição Federal. Operações com micigeração e minigeração distribuída de energia elétrica. Artigo cinco meia a, parágrafo sexto, inciso dez da Constituição Federal. Outra exclusão diz respeito ao regime específico de combustíveis e de lubrificantes com relação a dispositivo que atribuiu a resolução do senado a fixação dos alíquotas uniformes que anteriormente era de competência de lei complementar. Entendemos que razão da importância do produto tratado essa discussão deva ser mais ampla com a participação dos entes federativos e de todo o parlamento. Por intermédio da apresentação, tramitação e aprovação de projeto de lei sobre o tema. Quanto a regime favorecido de ABSCBS da Zona Franca de Manaus e das áreas de livre comércio. Realizamos duas exclusões. E aqui mais uma vez eu queria realçar todo o trabalho e nesse contexto essa esse consenso porque aí sim foi consenso Ele resulta já inclusive na eliminação de alguns destaques. Diante do debate acerca da ideia de tributar as demais unidades da federação com uma CID com o objetivo de aumentar a competitividade da região amazônica e ainda direcionar os recursos desse tributo para a mesma região, chegouse ao consenso inclusive com o Senado, refirome a reunião que tivemos ontem com o presidente Pacheco, com o presidente Arthur, com este relator e com o relator o senador Eduardo Braga, de se alterar o modelo de benefício da zona franca de de Manaus, mantendo a a vantagem competitiva da região com o uso do IPI e não da CID. Nesse sentido eliminamos a menção à CID no parágrafo primeiro do artigo noventa e dois b do ADCT e excluímos o parágrafo quinto do mesmo artigo que tratava de sua destinação. Como decorrência dessa mudança. Excluímos a linha b do inciso segundo do artigo dois e meia da do ADCT que extinguia o IPI quanto a quando a SID fosse instituída e mudamos a redação do parágrafo único do mesmo artigo, determinando que o IPI terá em dois mil e vinte e sete suas alíquotas zeradas em relação aos produtos que não tenham industrialização incentivada na Zona Franca de Manaus. Na prática nós teremos o IPI Zona Franca de Manaus. A segunda, foi excluir o parágrafo sétimo do artigo noventa e dois B do ADCT que listava os setores que não poderiam ser beneficiados dos incentivos do regime favorecido. Mas nele não listando petróleo, lubrificantes, combustíveis, líquidos e gasosos, derivados de petróleo que atualmente constam das vedações do artigo terceiro, parágrafo primeiro do decreto lei número dois oito oito vinte e oito de fevereiro de mil novecentos e sessenta e sete. Destaques que essa vedação foi incluída no projeto de lei de conversão da medida provisória mil e trinta e quatro de primeiro de março de vinte e para eliminar vantagem tributária indevida de empresas que por meio de medidas liminares importavam combustível na Zona Franca sem o pagamento de contribuição para o PIS, PASEP e Confins. Não podemos admitir que se busque recriar tal vantagem agora em sede constitucional. Quanto ao comitê gestor do IBS não houve consenso em relação aos ao seu presidente a possibilidade de sabatine pelo Senado Federal. Essa alteração é que para o presidente do comitê gestor do entendimento de alguns e desta casa autoridades federais diretamente subordinadas à presidência da república, muitos inclusive com foram preveniados para julgamento de crime de responsabilidade, Tendo em vista que o comitê não é órgão federal e seu controle externo é realizado pelos entes subnacionais. Não possuem qualquer vínculo com a União procedemos à retirada desse dispositivo. Parou que na prática a SID só mudou de novo. Também encaminhamos no sentido de excluir a competência do controle externo do comitê das assembleias e Câmara Legislativas que o fariam com o auxílio dos tribunais de contas para os próprios tribunais de contas que o farão por meio de órgão colegiados. Pelo que propomos a exclusão da parte final do inciso quarto do parágrafo segundo do artigo cinco meia. B da federal. Quanto à transição federativa realizamos a exclusão do mecanismo mecanismo que premia os entes que forem mais eficientes em seu sistema de arrecadação, artigo três parágrafos segundo e terceiro e artigo três dois, inciso segundo do ADCT a partir de fator de transição por julgarmos que o mecanismo previsto traz insegurança em relação aos seus reflexos na participação na arrecadação durante os cinquenta anos de transição de todos os entes federativos subnacionais. Não houve concordância também com algumas alterações trazidas em relação a outros tributos. A última supressão proposta é a do parágrafo dezoito do artigo trinta e sete da constituição federal que aplica o limite remuneratório dos servidores federais aos servidores das administrações tributárias e os estados do DF e dos municípios. Diversos entes federados solicitaram a exclusão por temer uma forte pressão dos salários e os físicos estaduais e municipais que os funcionários poderiam receber mais que os próprios governadores e prefeitos. Alguns acréscimos trazidos no texto do senado se mostraram importantes. Mas a redação proposta trouxe preocupações que recomendaram aproveitamentos. Por sua vez, as alterações dos princípios tributários que vedam que a união, os estados, o Distrito Federal, os municípios editem normas infralegais sob matéria tributária, sem dar ampla publicidade aos estudos e pareceres que as embasaram, que deverão conter a avaliação do seu impacto sobre o grau de complexidade e a capacidade arrecadatória do sistema tributário nacional, determinam que projeto de lei que exige aumento de tributo contém avaliação e demonstração do seu impacto econômico financeiro. O inciso sétimo e os parágrafos oitavo e nono do artigo cento e cinquenta tornam demasiadamente rígido e brocático o processo de alteração das normas infalegais tributárias, além de dificultar sobremaneira as iniciativas do governo federal, estadual e municipais, já que nem toda alteração é precedida de estudo ou parecer. Esses dispositivos praticamente eliminam a possibilidade dos parlamentos apresentarem projetos de lei em matéria tributária pelo dificuldade de obterem dados e muitas vezes de possuírem corpo técnico especializados para elaboração desses seres e estudos. Para o os serviços financeiros, alteramos a redação do ensino segundo do parágrafo primeiro e do parágrafo segundo do artigo dez da PEC para deixar mais claro o seu texto, sem modificação de conteúdo. Por fim, efetuamos correções de redações, de redação, de erros materiais e de referências de alguns poucos dispositivos sem qualquer repercussão no mérito. Pelas ações razões expostas, submeto aos ilustres pares o resultado de amplo trabalho de entre câmaras dos deputados, senado federal, voto pela aprovação da proposta da emenda à constituição número quarenta e cinco de dois mil e dezenove, consequentemente pela rejeição da PEC número dois nove três dois mil e quatro e das duas propostas apensadas à PEC número cento e quarenta de dois mil e doze e a PEC dois oito três dois mil e treze. Bem como das emendas apresentadas nos termos consignados a seguir. Reconhecendo o 0 mérito nós. Então nós nós nos embora nós reconhecemos reconheçamos né o mérito das emendas propostas nós nos manifestamos pela rejeição as emendas com base no substitutivo que nós estamos apresentando nesse momento. Que hora e caminho e passo a a mesa já está no sistema, mas está aqui à disposição de todos os senhores. Eu agradeço ao presidente a paciência todos os meus colegas de plenário e ficando à disposição para esclarecimento de qualquer questão aqui colocada. Muito obrigado senhor presidente. Senhor presidente, questão de ordem baseado no artigo cento e vinte e oito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Luiz Carlos Hauly",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-luiz-carlos-hauly"
       }
     },
     {
@@ -2989,7 +3246,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3001,7 +3259,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3013,7 +3272,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3025,7 +3285,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3037,7 +3298,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3049,7 +3311,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3061,7 +3324,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3073,7 +3337,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3085,7 +3350,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3096,7 +3362,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3108,7 +3375,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3120,7 +3388,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3132,7 +3401,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3144,7 +3414,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -3156,7 +3427,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3168,7 +3440,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -3180,7 +3453,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3190,7 +3464,8 @@
       "transcription": "O bloco MDB PSD republicano e Podemos recomendamos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -3202,7 +3477,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -3213,7 +3489,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3224,7 +3501,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -3235,7 +3513,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3246,7 +3525,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -3258,7 +3538,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3270,7 +3551,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -3281,7 +3563,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3293,7 +3576,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3304,7 +3588,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3316,7 +3601,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3327,7 +3613,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3338,7 +3625,8 @@
       "summary": "Votação encerrada com 44 a favor, 3 against, rejeição de requerimento e início de discussão em primeiro turno, agendado na manhã pela primeira oradora, com clima de trabalho preservado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -3350,7 +3638,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -3362,7 +3651,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3374,7 +3664,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3386,7 +3677,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3398,7 +3690,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -3410,7 +3703,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3422,7 +3716,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3434,7 +3729,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3446,7 +3742,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -3458,7 +3755,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3470,7 +3768,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -3482,7 +3781,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3494,7 +3794,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -3505,7 +3806,8 @@
       "summary": "Promover crescimento econômico, gerando emprego e renda.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Carlos Hauly -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-carlos-hauly-por-participante-arthur-lira"
       }
     },
     {
@@ -3516,7 +3818,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3528,7 +3831,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -3539,7 +3843,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3551,7 +3856,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3562,7 +3868,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3574,7 +3881,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -3585,7 +3893,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3597,7 +3906,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -3608,7 +3918,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3620,7 +3931,8 @@
       "speaker": {
         "id": 227310,
         "name": "Silvio Antonio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silvio-antonio"
       }
     },
     {
@@ -3631,7 +3943,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3643,7 +3956,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -3655,7 +3969,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3667,7 +3982,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3678,7 +3994,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3690,7 +4007,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -3701,7 +4019,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3711,7 +4030,8 @@
       "transcription": "Entra o bloco MDB PSD republicanos e Podemos. Por parte do bloco senhor presidente,",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -3722,7 +4042,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -3733,7 +4054,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3745,7 +4067,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -3756,7 +4079,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3768,7 +4092,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -3780,7 +4105,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3792,7 +4118,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3803,7 +4130,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3815,7 +4143,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -3826,7 +4155,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3838,7 +4168,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -3849,7 +4180,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3861,7 +4193,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -3872,7 +4205,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3884,7 +4218,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -3895,7 +4230,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3906,7 +4242,8 @@
       "summary": "Discussão encerrada no primeiro turno; Reginaldo Lopes recebeu votação a favor.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -3918,7 +4255,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -3929,7 +4267,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3941,7 +4280,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3952,7 +4292,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3964,7 +4305,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -3975,7 +4317,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3987,7 +4330,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3999,7 +4343,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4010,7 +4355,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -4021,7 +4367,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4031,7 +4378,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4043,7 +4391,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -4055,7 +4404,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4066,7 +4416,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4078,7 +4429,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4090,7 +4442,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -4101,7 +4454,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4113,7 +4467,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -4124,7 +4479,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4135,7 +4491,8 @@
       "summary": "Votação finalizou com 309 a favor, 3 abstenções e 66 obstruções. Em votação unânime, proposta de emenda à constituição aprovada. Consultar orientações de partidos sobre questão de ordem.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4147,7 +4504,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4159,7 +4517,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -4171,7 +4530,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4183,7 +4543,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4194,7 +4555,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4205,7 +4567,8 @@
       "summary": "Senado começa votação de PEC 45, efeito administrativo, conforme orientação da PL Alberto Neto. Lideranças partidárias informem parlamentares.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4217,7 +4580,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -4228,7 +4592,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4240,7 +4605,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -4251,7 +4617,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4262,7 +4629,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4274,7 +4642,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -4285,7 +4654,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4297,7 +4667,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -4308,7 +4679,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4320,7 +4692,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -4331,7 +4704,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4343,7 +4717,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4354,7 +4729,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -4365,7 +4741,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4377,7 +4754,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -4388,7 +4766,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4400,7 +4779,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -4411,7 +4791,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4423,7 +4804,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4434,7 +4816,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -4445,7 +4828,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4457,7 +4841,8 @@
       "speaker": {
         "id": 178975,
         "name": "Baleia Rossi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "baleia-rossi"
       }
     },
     {
@@ -4468,7 +4853,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4479,7 +4865,8 @@
       "summary": "Ato concluído: emenda constitucional aprovada no primeiro turno, com 123 abstenções, para votação separada de inciso e parágrafo específicos. Encaminhada a favor do requerimento por deputado Cherini.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4490,7 +4877,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -4501,7 +4889,8 @@
       "summary": "Cidadão desarmado, aumento de homicídios e impostos sobre armamentos; política liberal favorável ao cidadão armado e livre.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Vitor Lippi",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-vitor-lippi"
       }
     },
     {
@@ -4512,7 +4901,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4524,7 +4914,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -4535,7 +4926,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4547,7 +4939,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4558,7 +4951,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4569,7 +4963,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4580,7 +4975,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4591,7 +4987,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4602,7 +4999,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4613,7 +5011,8 @@
       "summary": "União mantém texto; PL vota também a favor.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4625,7 +5024,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -4637,7 +5037,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4649,7 +5050,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -4660,7 +5062,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4672,7 +5075,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4684,7 +5088,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4696,7 +5101,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -4707,7 +5113,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4719,7 +5126,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -4730,7 +5138,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4742,7 +5151,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -4753,7 +5163,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4765,7 +5176,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4777,7 +5189,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4789,7 +5202,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -4801,7 +5215,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4813,7 +5228,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -4825,7 +5241,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -4837,7 +5254,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -4849,7 +5267,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -4861,7 +5280,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -4872,7 +5292,8 @@
       "summary": "Reunião liderada por Arthur Lira; discussão sobre contagem de votos para um assunto (números mencionados: 308, 378, 390).",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vitor Lippi -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vitor-lippi-por-participante-arthur-lira"
       }
     },
     {
@@ -4884,7 +5305,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4895,7 +5317,8 @@
       "summary": "Votação concluída: 326 a favor, 160 contra, totalizando 487 votos. PSOL's bancada 16 propôs destaque a favor, enquanto opôs destaque a deputado Zé Medeiros. Votação encerrada, decisão mantida.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4907,7 +5330,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -4919,7 +5343,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4930,7 +5355,8 @@
       "summary": "Iniciou-se a votação, com destaques em sequência. Foi solicitada atenção dos deputados ao sistema de colegiado. A situação do bloco foi questionada.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4942,7 +5368,8 @@
       "speaker": {
         "id": 204436,
         "name": "Isnaldo Bulhões Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "isnaldo-bulhoes-jr"
       }
     },
     {
@@ -4953,7 +5380,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4965,7 +5393,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -4977,7 +5406,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4989,7 +5419,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5000,7 +5431,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5012,7 +5444,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -5023,7 +5456,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5035,7 +5469,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5047,7 +5482,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5059,7 +5495,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -5071,7 +5508,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5082,7 +5520,8 @@
       "summary": "Votação terminou; bancada aumentou, duas abstenções; texto mantido, rejeitado \"destaque\"; discutido saneamento, apoio do deputado Carlos Veras; referência à tentativa de influência de Pernambuco.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -5094,7 +5533,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -5105,7 +5545,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5117,7 +5558,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -5128,7 +5570,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5140,7 +5583,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5151,7 +5595,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5163,7 +5608,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -5175,7 +5621,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5187,7 +5634,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -5199,7 +5647,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5210,7 +5659,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -5222,7 +5672,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5232,7 +5683,8 @@
       "transcription": "Os seus votos de fallec parlamentar, ficará iniciada a votação como Oriente PL.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -5244,7 +5696,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -5256,7 +5709,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5268,7 +5722,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -5279,7 +5734,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5291,7 +5747,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5302,7 +5759,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5314,7 +5772,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -5326,7 +5785,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5337,7 +5797,8 @@
       "summary": "Votação para aprovar destaque rejeitado; quatro deputados queriam ser ouvidos, mas voto imediato decidido; alguns nomes mencionados, mas uma inscrita esquecida.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -5349,7 +5810,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5360,7 +5822,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5372,7 +5835,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -5384,7 +5848,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5394,7 +5859,8 @@
       "transcription": "Os seus votos em falec parlamentar. O verme caminha sim presidente. Está iniciada a votação o PL como presidente o PL",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -5406,7 +5872,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -5418,7 +5885,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5429,7 +5897,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5440,7 +5909,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5452,7 +5922,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -5463,7 +5934,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5475,7 +5947,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -5487,7 +5960,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5499,7 +5973,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -5510,7 +5985,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5521,7 +5997,8 @@
       "summary": "Votação rejeitou destaque, manteve texto; PL propôs alteração, indeferida; Reginaldo Lopes contrário,satisfeito com resultado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -5533,7 +6010,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -5544,7 +6022,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5555,7 +6034,8 @@
       "summary": "Votação iniciada com Progressistas, PSB, PDT e bloco MDB republicanos. Ordem de voto solicitada às deputadas e deputados. Presidente orientando processo, com destaque supressivo no registro de votos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -5567,7 +6047,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -5579,7 +6060,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5591,7 +6073,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5602,7 +6085,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5613,7 +6097,8 @@
       "summary": "Votação encerrada, quórum alcançado com 437 sim, 10 não. MDB deputado Isinaldo Bulhões destacado a favor. Sem encaminhamento adicional, apenas orientação do deputado Raul.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -5625,7 +6110,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -5637,7 +6123,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5649,7 +6136,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5661,7 +6149,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5673,7 +6162,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -5685,7 +6175,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5696,7 +6187,8 @@
       "speaker": {
         "id": 178975,
         "name": "Baleia Rossi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "baleia-rossi"
       }
     },
     {
@@ -5708,7 +6200,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5718,7 +6211,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -5730,7 +6224,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -5741,7 +6236,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5753,7 +6249,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -5764,7 +6261,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5776,7 +6274,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5787,7 +6286,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5799,7 +6299,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -5810,7 +6311,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5822,7 +6324,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5833,7 +6336,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5845,7 +6349,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -5856,7 +6361,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5868,7 +6374,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -5879,7 +6386,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5890,7 +6398,8 @@
       "summary": "Votação encerrada. Aprovados texto e destaque 22. Hugo Motta apoia.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -5902,7 +6411,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -5913,7 +6423,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5925,7 +6436,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -5937,7 +6449,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5948,7 +6461,8 @@
       "summary": "Repúblicanos e PSB aconselham voto não, enquanto PL e PT da Federação indicam voto sim.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -5960,7 +6474,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -5971,7 +6486,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -5983,7 +6499,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -5995,7 +6512,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6007,7 +6525,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -6018,7 +6537,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6030,7 +6550,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6042,7 +6563,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6054,7 +6576,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -6065,7 +6588,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6077,7 +6601,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -6088,7 +6613,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6100,7 +6626,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6112,7 +6639,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6124,7 +6652,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -6136,7 +6665,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6148,7 +6678,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -6159,7 +6690,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6170,7 +6702,8 @@
       "summary": "Votação concluída: 192 contra, 5 a favor, 2 abstenções. Destaque de bancada 18. Pedido de votação separada sobre artigos 3 e 19 do texto da PEC 293/04. Disputa entre deputados Auler e Mendonça Filho. Sessão continuando.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -6182,7 +6715,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -6193,7 +6727,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6205,7 +6740,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -6216,7 +6752,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6228,7 +6765,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -6240,7 +6778,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6252,7 +6791,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -6263,7 +6803,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6275,7 +6816,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -6286,7 +6828,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6298,7 +6841,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -6310,7 +6854,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6322,7 +6867,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -6334,7 +6880,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6344,7 +6891,8 @@
       "transcription": "Fiz isso depois da orientação do deputado Mendonça. Como orienta o PL? Presidente, o PL libera.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -6356,7 +6904,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6367,7 +6916,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6379,7 +6929,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -6390,7 +6941,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6402,7 +6954,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -6413,7 +6966,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6425,7 +6979,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -6436,7 +6991,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6448,7 +7004,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -6459,7 +7016,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6471,7 +7029,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -6482,7 +7041,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6494,7 +7054,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -6505,7 +7066,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6517,7 +7079,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6529,7 +7092,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6541,7 +7105,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -6553,7 +7118,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6565,7 +7131,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -6576,7 +7143,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6587,7 +7155,8 @@
       "summary": "Votação terminada, destaque final do primeiro turno. Republicanos apoiam deputado Hugo Mota. Cherini, líder da minoria, deseja falar.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -6599,7 +7168,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -6611,7 +7181,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6623,7 +7194,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -6634,7 +7206,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6646,7 +7219,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -6658,7 +7232,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6670,7 +7245,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -6681,7 +7257,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6693,7 +7270,8 @@
       "speaker": {
         "id": 178854,
         "name": "Elmar Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "elmar-nascimento"
       }
     },
     {
@@ -6705,7 +7283,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6716,7 +7295,8 @@
       "summary": "Sem bateria em Pernambuco, ainda assim confiam em excelência deputado Hugo para resolver problema.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -6728,7 +7308,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -6739,7 +7320,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6751,7 +7333,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6762,7 +7345,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6774,7 +7358,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -6785,7 +7370,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6797,7 +7383,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -6809,7 +7396,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6821,7 +7409,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -6833,7 +7422,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6845,7 +7435,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -6857,7 +7448,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6869,7 +7461,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -6881,7 +7474,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6892,7 +7486,8 @@
       "summary": "Votação resulta em segundo turno; requerido prazo reduzido para sua apreciação; um deputado apoia isso; também há um pedido de quebra de exercício.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -6904,7 +7499,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -6916,7 +7512,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6928,7 +7525,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -6940,7 +7538,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6952,7 +7551,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -6964,7 +7564,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -6974,7 +7575,8 @@
       "transcription": "Oriente o MDB sim. MDB sim como orienta a rede novo. Presidente, nós",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -6986,7 +7588,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -6998,7 +7601,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7010,7 +7614,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -7021,7 +7626,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7033,7 +7639,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -7044,7 +7651,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7055,7 +7663,8 @@
       "summary": "Votação: 309 a favor, 33 contra. Aprovação de requerimento para discussão em segundo turno da emenda constitucional 45/19, alterando sistema tributário nacional. Aprovada dispensa de intertício e adiamento de debates. Discussão imediata na lista. Parlamentares favoráveis à matéria, usem pouco tempo. Em favor. Rapidamente, deputado Raul, para discutir. Aprovado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -7067,7 +7676,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -7078,7 +7688,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7090,7 +7701,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -7102,7 +7714,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7114,7 +7727,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7126,7 +7740,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7138,7 +7753,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -7149,7 +7765,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7161,7 +7778,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -7172,7 +7790,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7184,7 +7803,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -7196,7 +7816,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7208,7 +7829,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7220,7 +7842,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7232,7 +7855,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -7244,7 +7868,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7255,7 +7880,8 @@
       "summary": "PSDB e PL favorablem votação, MDB segue PL orientações, PT causa obstrução.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -7267,7 +7893,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -7278,7 +7905,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7290,7 +7918,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -7301,7 +7930,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7313,7 +7943,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -7324,7 +7955,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7336,7 +7968,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -7348,7 +7981,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7359,7 +7993,8 @@
       "summary": "Votação rejeitada, passa para segundo turno, sem encaminhamento.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -7371,7 +8006,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -7382,7 +8018,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7394,7 +8031,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7405,7 +8043,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7417,7 +8056,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -7428,7 +8068,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7440,7 +8081,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -7452,7 +8094,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7464,7 +8107,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -7475,7 +8119,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7485,7 +8130,8 @@
       "transcription": "PSD, Republicanos e Podemos. Senhor Presidente, essa é uma sessão",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -7497,7 +8143,8 @@
       "speaker": {
         "id": 178975,
         "name": "Baleia Rossi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "baleia-rossi"
       }
     },
     {
@@ -7508,7 +8155,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7520,7 +8168,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7531,7 +8180,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7543,7 +8193,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -7555,7 +8206,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7567,7 +8219,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -7578,7 +8231,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7590,7 +8244,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -7601,7 +8256,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7613,7 +8269,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -7624,7 +8281,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7636,7 +8294,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -7647,7 +8306,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7659,7 +8319,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -7671,7 +8332,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7682,7 +8344,8 @@
       "summary": "Votação aprovou emendação constitucional, aguarda voto em separado sobre extração de alíquota geral. Todos votarem rapidamente para entregar trabalho do Parlamento ao Brasil.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -7694,7 +8357,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7705,7 +8369,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7717,7 +8382,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -7728,7 +8394,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7740,7 +8407,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -7752,7 +8420,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7762,7 +8431,8 @@
       "transcription": "Republicanos PSD, o bloco orienta sim, como orienta o PL. O PL orienta",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -7774,7 +8444,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -7785,7 +8456,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7797,7 +8469,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -7808,7 +8481,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7820,7 +8494,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -7831,7 +8506,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7843,7 +8519,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -7854,7 +8531,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7866,7 +8544,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -7877,7 +8556,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7889,7 +8569,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -7900,7 +8581,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7912,7 +8594,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -7923,7 +8606,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7935,7 +8619,8 @@
       "speaker": {
         "id": 178975,
         "name": "Baleia Rossi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "baleia-rossi"
       }
     },
     {
@@ -7946,7 +8631,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7957,7 +8643,8 @@
       "summary": "Votação encerrada. PEC 45 em segundo turno aprovada, deputado José Medeiros favorável.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -7969,7 +8656,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -7980,7 +8668,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -7992,7 +8681,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -8004,7 +8694,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8016,7 +8707,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -8028,7 +8720,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8038,7 +8731,8 @@
       "transcription": "Orienta o bloco MDB PSD Republicanos e Podemos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -8050,7 +8744,8 @@
       "speaker": {
         "id": 178975,
         "name": "Baleia Rossi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "baleia-rossi"
       }
     },
     {
@@ -8061,7 +8756,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8073,7 +8769,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -8084,7 +8781,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8096,7 +8794,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -8107,7 +8806,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8119,7 +8819,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -8130,7 +8831,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8142,7 +8844,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -8153,7 +8856,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8165,7 +8869,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -8176,7 +8881,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8188,7 +8894,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -8199,7 +8906,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8211,7 +8919,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -8222,7 +8931,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8234,7 +8944,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -8245,7 +8956,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8257,7 +8969,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -8269,7 +8982,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -8280,7 +8994,8 @@
       "summary": "Votação aprovada para reforma tributária; mérito coletivo de Congresso e ministro Haddad; conquista do poder legislativo; agradecimentos; sessão encerrada.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

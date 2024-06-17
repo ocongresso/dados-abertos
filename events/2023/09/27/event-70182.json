@@ -13,7 +13,8 @@
       "summary": "Chefe de Gabinete inaugurou Frente Parlamentar em defesa do SUS, agradecendo apoio de 196 parlamentares e presença de representantes de entidades relacionadas à saúde. Entregou a palavra ao presidente da frente, deputado Márcio Gerry.",
       "speaker": {
         "name": "POLIANA RÉGIA",
-        "position": "Chefe de Gabinete"
+        "position": "Chefe de Gabinete",
+        "slug": "poliana-regia"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -47,7 +50,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -81,7 +87,8 @@
       "summary": "Representante da Fiocruz elogia SUS como sistema inclusivo e resistente, destacando sua importância e necessidade de fortalecimento, especificamente no financiamento e atenção primária. Apóia iniciativa do Congresso e programa de governo para acesso a novos medicamentos e terapias. Fiocruz está junto ao SUS e oferece suporte institucional.",
       "speaker": {
         "name": "MÁRIO SANTOS MOREIRA",
-        "position": "Representante da FIOCRUZ"
+        "position": "Representante da FIOCRUZ",
+        "slug": "mario-santos-moreira"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -126,7 +136,8 @@
       "transcription": "",
       "speaker": {
         "name": "VEIBER TAPEBA",
-        "position": "Secretário de Saúde Indígena do Ministério da Saúde"
+        "position": "Secretário de Saúde Indígena do Ministério da Saúde",
+        "slug": "veiber-tapeba"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Representando o Conselho Federal de Farmácia: boa tarde, breves considerações sobre tópicos discutidos anteriormente.",
       "speaker": {
         "name": "JARDEL INÁCIO",
-        "position": "Representando o Conselho Federal de Farmácia"
+        "position": "Representando o Conselho Federal de Farmácia",
+        "slug": "jardel-inacio"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -196,7 +212,8 @@
       "summary": "Presidente da Federação Nacional dos Farmacêuticos apoia iniciativa do deputado Cléber Verde e valoriza SUS e trabalhadores da saúde. Menciona importância de piso nacional para farmacêuticos, carreira única no SUS, e revogação da Emenda Constitucional 95. Elogia SUS por salvar vidas durante pandemia e pede valorização financeira para trabalhadores de saúde.",
       "speaker": {
         "name": "FÁBIO BASÍLIO",
-        "position": "Presidente da Federação Nacional dos Farmacêuticos"
+        "position": "Presidente da Federação Nacional dos Farmacêuticos",
+        "slug": "fabio-basilio"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -243,7 +263,8 @@
       "summary": "Saúda SUS, profissionais de saúde e mulheres usuárias do SUS; refere-se à iniciativa de fortalecer o SUS e o complexo econômico industrial da saúde; FINEP tem papel importante no financiamento do SUS com recursos reembolsáveis e não reembolsáveis, priorizando inovação e desenvolvimento resiliente do setor da saúde.",
       "speaker": {
         "name": "JULIETA PALMEIRA",
-        "position": "Integrante da FINEP"
+        "position": "Integrante da FINEP",
+        "slug": "julieta-palmeira"
       }
     },
     {
@@ -254,7 +275,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -266,7 +288,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -288,7 +312,8 @@
       "summary": "Participante mencionou Julieta, compainheira amada, vamos ouvir deputado Merlong e depois Ronald.",
       "speaker": {
         "name": "ANA PAULA BATISTA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ana-paula-batista"
       }
     },
     {
@@ -299,7 +324,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -310,7 +336,8 @@
       "summary": "Representando a Secretária de Atenção Especializada da Saúde, apoiamos fortalecimento do SUS e seus princípios: universalidade, integralidade, equidade e participação social. Esperamos mais parlamentares defendo o SUS, crucial para saúde no Brasil.",
       "speaker": {
         "name": "RÚBENS DIAS",
-        "position": "Representando a Secretária de Atenção Especializada da Saúde"
+        "position": "Representando a Secretária de Atenção Especializada da Saúde",
+        "slug": "rubens-dias"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -333,7 +361,8 @@
       "summary": "Lançamento frente parlamentar a favor do SUS, sistema de saúde pública brasileiro, comemorando 35 anos da Constituição que garante direito à saúde como não mercadoria. Coordenador-Geral de Articulação destaca importância da democracia e participação popular no fortalecimento do SUS. Recentemente, PPA participativo (plano plural) enfatizou prioridades como atenção básica e especializada, reforçando o papel da frente parlamentar na defesa do SUS.",
       "speaker": {
         "name": "RONALD FERREIRA",
-        "position": "Coordenador-Geral de Articulação"
+        "position": "Coordenador-Geral de Articulação",
+        "slug": "ronald-ferreira"
       }
     },
     {
@@ -345,7 +374,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -356,7 +386,8 @@
       "summary": "Conselho Nacional de Saúde participa no sindicato dos trabalhadores da Fundação Oswaldo Cruz, promovendo conferências sobre saúde mental. Atualmente, construindo quinta conferência nacional de saúde mental, programada para dezembro. Realização de conferências virtuais e livres sobre luta antimanicomial e privatização da saúde.",
       "speaker": {
         "name": "PAULO HENRIQUE GARRIDO",
-        "position": "Conselho Nacional de Saúde"
+        "position": "Conselho Nacional de Saúde",
+        "slug": "paulo-henrique-garrido"
       }
     },
     {
@@ -368,7 +399,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     }
   ],

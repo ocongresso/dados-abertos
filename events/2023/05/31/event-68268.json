@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204409,
         "name": "Daniel Trzeciak",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-trzeciak"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     }
   ],

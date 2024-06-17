@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Da subcomissão especial de",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "O velcro consegue registrar ele agora? Pra gente colocar? Tem que registrar o velcro e o daminho.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "O velcro consegue registrar ele agora? Pra gente colocar? Tem que registrar o velcro e o daminho.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Arnaldo Jardim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-arnaldo-jardim"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "\nObrigado a todos.",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": " César Lattes, físico brasileiro nascido em 1924, descobriu com colaboradores partícula Mason que garante coesão atômica, confirmando teoria de Hideki Yukawa. Lattes liderou cena científica nacional, ajudando a criar instituições como CAPES e CBPF. Nomeou sistema de cadastro de cientistas no CNPq, hoje base de dados curricular. Sua vida e obra marcaram gerações de cientistas. Hoje, celebra-se impacto dos físicos no conhecimento humano e no progresso tecnológico.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -89,7 +96,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -101,7 +109,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -113,7 +122,8 @@
       "speaker": {
         "id": 0,
         "name": "RODRIGO BARBOSA CAPAZ",
-        "position": "Presidente da Sociedade Brasileira de Física"
+        "position": "Presidente da Sociedade Brasileira de Física",
+        "slug": "rodrigo-barbosa-capaz"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 0,
         "name": "RICARDO GALVÃO",
-        "position": "Professor e Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        "position": "Professor e Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+        "slug": "ricardo-galvao"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 0,
         "name": "FRANCISCO LEONARDO",
-        "position": "Centro Brasileiro de Pesquisa Físicas"
+        "position": "Centro Brasileiro de Pesquisa Físicas",
+        "slug": "francisco-leonardo"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 0,
         "name": "ANDERSON GOMES",
-        "position": "Academia Brasileira de Ciências"
+        "position": "Academia Brasileira de Ciências",
+        "slug": "anderson-gomes"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 0,
         "name": "ANGEL MARTINEZ",
-        "position": "Presidente da Associação Brasileira da Física Médica"
+        "position": "Presidente da Associação Brasileira da Física Médica",
+        "slug": "angel-martinez"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 0,
         "name": "INÁCIO ARRUDA",
-        "position": "Secretário de Ciência e Tecnologia para o Desenvolvimento Social"
+        "position": "Secretário de Ciência e Tecnologia para o Desenvolvimento Social",
+        "slug": "inacio-arruda"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 0,
         "name": "MILTON COELHO",
-        "position": "Ex-deputado federal"
+        "position": "Ex-deputado federal",
+        "slug": "milton-coelho"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 0,
         "name": "MARIA CRISTINA LATTES",
-        "position": "Filha do Sr. César Lattes"
+        "position": "Filha do Sr. César Lattes",
+        "slug": "maria-cristina-lattes"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     }
   ],

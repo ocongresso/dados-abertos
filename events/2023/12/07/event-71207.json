@@ -17,7 +17,8 @@
       "summary": "Inauguração do seminário sobre federalismo de políticas públicas para pessoas com deficiência, com mesa de abertura e debates. Equipe de intérpretes de LIBRAS presentes e tecnologias de acessibilidade implementadas, como interpretação de LIBRAS e áudio descritivo. Autoridades relevantes presentes. Aplausos serão substituídos por aplausos em LIBRAS em respeito a convidados autistas. Público convidado a ouvir o hino nacional interpretado pelo coral da Câmara dos Deputados.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": "Mestre de Cerimônias agradece autoridades e convidados presentes em evento para lançamento de dois livros sobre direitos de pessoas com deficiência. Um livro, de Rafael Guigiger, trata da realidade da rotina de fiscalização de cotas para pessoas com deficiência em empresas de grande porte, além de outros temas relacionados.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": "Homem branco de 87 anos, ex-engenheiro com deficiência visual, não conseguiu emprego na iniciativa privada apesar de nível superior. Superou desafios, passou em concurso e hoje fiscaliza cotas para pessoas com deficiência no trabalho. No Brasil, uma lei precisa de outra lei para ser cumprida. Conta histórias de vidas transformadas pela lei de cotas no livro que escreveu. Lembrar que políticas públicas afetam pessoas e não apenas números.",
       "speaker": {
         "name": "RAFAEL GIGUER",
-        "position": "Escritor"
+        "position": "Escritor",
+        "slug": "rafael-giguer"
       }
     },
     {
@@ -70,7 +75,8 @@
       "summary": "Agradecemos Carlos de Souza Maciel por estar presente. Menciona técnicos de áudio e vídeo ao fundo. Anuncia início de pronunciamentos das autoridades, começando com o presidente da comissão de defesa dos direitos da pessoa com deficiência, deputado Márcio Jerry.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Mestre de Cerimônias agradece autoridades e convidados, including",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -104,7 +112,8 @@
       "summary": "Escritor apresenta pesquisa de 10 anos sobre autismo, realizada em vários países. Lamenta pouco atendimento a deficientes no Brasil, mas cita exemplos de boas instituições. Desafio constante, necessidade de união para combatir preconceitos e apoiar pessoas com deficiência.",
       "speaker": {
         "name": "OSWALDO FREIRE",
-        "position": "Escritor"
+        "position": "Escritor",
+        "slug": "oswaldo-freire"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Mestre de Cerimônias agradece autores e participantes do evento, nomeadamente Osvaldo, Rafael, diretora Patrícia e sua escola. Anuncia quebra de protocolo com apresentação cultural do grupo de arte inclusiva e sua coreografia \"Gratidão\".",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -125,7 +135,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Apresentação de Dança",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-de-danca"
       }
     },
     {
@@ -135,7 +146,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da Apresentação de Dança",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-de-danca"
       }
     },
     {
@@ -146,7 +158,8 @@
       "summary": "Mestre de Cerimônias anuncia encerramento de apresentação de dança inclusiva, gratuita no Centro de Convenções Ulysses Guimarães no dia 15 de dezembro e dá boas-vindas a Ana Paula Feminella, Secretária Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e Cidadania.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -156,7 +169,8 @@
       "transcription": "Bom dia, estão estão acordados? Ah bom, a oba, é uma alegria imensa estar aqui com vocês. Inicio fazendo uma breve autodescrição, eu sou uma mulher é de cinquenta e anos e cadeira de rodas a minha cadeira de rodas é vermelha. Estou com, eu tenho cabelo preto escuro liso na altura do pescoço, estou com uma blusa bege com uma, detalhe de uma folha em dourado, e uma calça azul marinho com bege. É uma alegria imensa né, quero aqui saudar nosso deputado Márcio Geri, presidente da Comissão dos Direitos pessoa com deficiência, pela importante iniciativa de abordar sobre o 0 federalismo na no acesso às políticas públicas pelas pessoas com ciência, é tema de de muita importância, quero agradecer então, né, e saudar aqui toda essa mesa tão tão qualificada pra fazer o debate aquelas que vão participar online também né, que tem uma participação bastante importante, também de forma virtual, quero agradecer às artistas que aqui se apresentaram, a todos os trabalhadores que viabilizaram o sucesso dessa atividade, e a cada e cada uma de vocês, de todas as autoridades que eu considero que são as pessoas que estão nos assistindo, estão aqui na na plateia né, nossa querida Cléo Bon, presidente da brasileira das das associações da síndrome de Down, o 0 nosso querido diretor, Décio Guimarães, né diretor da política da educação inclusiva que está né, no comando da da nova política nacional dos direitos da de educação inclusiva, E a todas as autoridades aqui presentes, que se eu ficar falando aqui, eu vou perder, né a oportunidade, Mas assim, é é uma alegria contar com a presença de vocês, a presença qualificada, presidente da Forbrás, que eu estou identificando aqui, a Ana Paula. Então é muito muito bom muito importante essa presença de todos vocês e quero saudar a quem está nos nos assistindo pelo pelo, pela internet né pelos meios, os canais de comunicação da Câmara de Deputados. O Brasil é uma política é uma república federativa né, e o federalismo está inscrito na nossa Constituição é a nossa identidade nacional, e há diferentes diferentes políticas públicas né como saúde, educação, habitação, cultura, segurança pública, meio ambiente, saneamento, assistência social, e também as políticas de direito da pessoa com Ciência precisam encontrar as regras desse jogo federativo né, o que que é esse federalismo? Né as regras que definem o que compete a cada do em dos entes federados né então ao governo federal né o poder público federal, Aos aos governos estaduais e do Distrito Federal, assim como as prefeituras aos municípios né? Essa e também contamos com a importante participação das organizações da sociedade civil pra melhorar a a garantia e a promoção dos direitos das pessoas com deficiência. Mas se a gente quer de fato garantir que os direitos da pessoa com deficiência sejam tratados como políticas de estado, nós precisamos efetivar essa construção do arranjo federativo necessário pra promoção dos direitos da pessoa com deficiência, pra que a constituição saia do papel e se efetive melhorando e oportunizando né equidade social às pessoas com deficiência, precisa acontecer Esse arranjo federativo precisa haver planejamento, capacidade estatal de prover né do Estado brasileiro sendo estado também articulador das políticas públicas e pra que, nós alcancemos né, saiam as políticas públicas definidas Aqui no Congresso, as políticas públicas, né implementadas pelo Governo Federal têm que se efetivar no dia a dia das pessoas com Ciência em todo o território nacional, reconhecendo imensos desafios dessa dessa nossa geografia né, de país imenso de uma gigante e que a as pessoas com deficiência estão em todos os territórios, em todos os municípios. E reconhecer também que a gente está vive ainda uma emergência humanitária que apaga a existência das pessoas Humanitária que apaga a existência das pessoas com deficiência no nosso país né, e e podemos dizer que é no mundo né, a gente tem e convive com capacitismo que é estrutural na nossa nossa sociedade, ele acaba impactando nas nossas relações sociais, Em viabilizando a nossa participação social com equidade de direitos né, e cada ente federativo né, Precisa saber quais são as suas contribuições, as suas responsabilidades, os seus direitos, como participa né, com com pessoal, com recursos orçamentários, tecnológicos, comunicacionais, com alimentação das informações, não basta só fazer a gente tem que ter uma uma monitoramento da implementação da convenção internacional dos direitos da pessoa com deficiência, o Brasil é é dos estadospartes que assinou ratificou e tornou como texto constitucional a convenção internacional sobre os direitos da pessoa com deficiência, E tem o compromisso, né, firmado por uma estrutura de órgão independente autônomo pra fazer o monitoramento da implementação da convenção internacional sobre os direitos da pessoa com deficiência. Há projeto de lei no Congresso tramitando pra efetivar essa essa esse monitoramento da implementação é consolidar também a política de estado consolidando também o controle social Sobre a implementação das políticas públicas né na efetividade dos direitos das pessoas com deficiência né? A gente precisa Saber quanto cada órgão cada entidade recebe com quanto cada ente ente federado também contribui né. E no Brasil, outras áreas já avançaram bastante né? A gente pode aprender com experiências mais avançadas de políticas públicas como o SUS, o Sistema Único de Saúde, né, não houvesse o SUS, a pandemia seria ainda mais traumática e mais, difícil pra população brasileira, o SUAS né que também caminha né nessa nessa construção federativa também com grande participação da sociedade civil, no sistema único da assistência social e aqui a gente está com o 0 Wagner né que representa aqui o CONADE e é da Fena Paz né, então tem uma né, são várias entidades sociais que também promovem e fazem essa essa esse contrato social pra estabelecer, pra garantia da da assistência social no nosso país. E esses sistemas né o SUS, o SUS são referência internacional inclusive né? São estruturas Já consolidadas, em muitos sentidos né? O ministro Silvio de Almeida né a quem eu represento aqui, Tem enfatizado bastante a necessária superação de política de governo pra afirmação de políticas de estado, avaliação e aperfeiçoamento das políticas públicas, deixando bem claro, que a as pessoas com deficiência elas têm direito a qualquer política pública a qualquer política pública universal a gente ainda tem na agenda de direitos humanos da pessoa com deficiência, ela é extremamente transversal, mas ainda invisibilizada muitas vezes né, há uma subrepresentação social das pessoas com deficiência isso acaba invisibilizando e e essa é uma Uma das questões né dos pontos críticos, né que, nós vamos qualificar, qualificando também a participação social. Nosso país tem seis mil e seis mil seiscentos e setenta municípios, se eu não me engano, setenta muito obrigada pela correção. Cinco mil quinhentos e setenta municípios, e registrados somente seiscentos e trinta e seis conselhos municipais dos direitos da pessoa com deficiência, né então a a gente né, na retomada do Ministério dos Direitos Humanos Cidadania, nós também retomamos o processo de de incentivo à constituição de novos E fortalecimento dos atuais conselhos de direitos, das pessoas com deficiência, acreditamos que é com o controle social, com a participação social, que vamos colocar o tema da deficiência enfim, como tema estratégico pra implementação de todas as políticas públicas, Reconhecendo as nossas especificidades não como custo, mas como viabilidade de promoção dos direitos econômicos e sociais de toda a população brasileira, não há nação sem inclusão das pessoas com deficiência, não há democracia Sem consolidar os direitos também das pessoas com deficiência. É nesse sentido, que precisamos de políticas públicas que ultrapassem os governos a b ou c, E que tenham bases institucionais firmes, constituída pelos conselhos fortes atuantes em todos os estados e municípios, é com planos de média e longa direção que ofereçam diretrizes, objetivos e metas, exequíveis e pactuadas com a sociedade, é o nosso plano nosso novo plano Viver Sem Limites. Nós precisamos de fundos orçamentários suficientes e pactuados entre os entes federados. De órgãos gestores né secretarias ou congêneres, nos estados, nos municípios e no governo federal, inclusive no DF, Com capacidade estatal pra promover e fazer a gestão dessa inclusão. Precisamos de comitês intergestores, bipartides, tripartides, Sistemas de informação alimentados federativamente. Isso é necessário pra que a gente consiga acompanhar Até onde vai né não só o orçamento, mas todo o esforço pra que se efetive no dia a dia a melhoria da qualidade de vida da população com ciência no nosso país. E precisamos de programas de qualificação profissional pra todas as pessoas pra pra todos que atendimento público a todos os servidores públicos, agentes, agentes de segurança, precisamos fazer grande letramento anticapacitista, Na própria nem em toda a sociedade né então difundir os direitos das pessoas com deficiência, explicar o que é capacitismo, o que é que é a discriminação baseada no preconceito em razão de deficiência, é a parte visível né a exclusão, a omissão, seja intencional ou não intencional, que impede inviabiliza os direito o exercício de direitos e muitas vezes violenta a dignidade das pessoas com deficiência. Nós tivemos essa semana, a publicação do Atlas da Violência, da produzido pelo IPEA, onde aponta que as mulheres com deficiência as mulheres com deficiência intelectual são as maiores vítimas das violências sexuais as violências a a gente tem que reconhecer que nessa heterogeneidade Do público de pessoas com deficiência há pessoas ainda mais, que requerem requerem suportes diferenciados a que Que se customizar políticas públicas que reconheçam essa diversidade humana, né os suportes na medida da necessidade, que a gente conquiste a nossa autonomia, o nosso nossa oportunidade de participar da sociedade e contribuir para o desenvolvimento social, econômico, local da nossa sociedade né? Os fundos que já existem, eles ainda são poucos, eles são novos e ainda estão Pouco inoperantes pela ausência também né dessa desse dessa institucionalidade federativa. Eu quero dizer que a gente tem muito a avançar na construção de de sistema federativo dos direitos da pessoa com deficiência do no Brasil, mas que é fundamental esse debate que aqui, aqui se fortalece com esse evento, e que requer então encaminhamentos, a continuidade e encaminhamentos pra que a gente serenamente faça essa construção dessa desse federalismo no Brasil. Por fim eu quero, quero me manifestar, Deputado, peço licença pra falar sobre, os processos de criminalização de pessoas que se manifestam da sociedade civil que se manifesta, em defesa da do dos das instituições públicas do nosso país né? Agora aconteceu né os manifestantes na Assembleia Legislativa de São Paulo, manifestantes que fazendo resistência à privatização da Sabesp e que estão presos né, então a gente faz a solicitação né pra que essa câmara também se manifeste, evite esse tipo de atuação, né porque nós precisamos sim da sociedade civil forte atuante de forma crítica participando da consolidação dos direitos a gente precisa de instituições públicas fortes também capazes de operar na garantia dos direitos de todas as pessoas né, então aqui falo especialmente sobre os os direitos da pessoa com deficiência, né, posto que há necessidade de visibilidade e sim dá agenda de conhecimento sobre a nossa a nossa existência, né as pessoas com deficiência foram deixadas pra morrer, no contexto da pandemia não priorizadas na sua vacinação, nós não sabemos nem ao menos quantos de quantas pessoas com deficiências faleceram em função da pandemia de covid, mas nós estamos aqui hoje, também no compromisso né de dar continuidade que é o legado de outras tantas pessoas com deficiência, outras tantas ativistas defensoras de direitos da pessoa com deficiência, lutaram pra que a gente conquistasse né essas tantas normas né a efetividade dos direitos da pessoa com deficiência na nossa constituição então são é uma trajetória de décadas, né pra que se constituíssem esses direitos que estão já positivados na nossa constituição e legislação, mas que ainda precisam sair do papel, precisam se efetivar. E aqui faço alerta também da quantidade de projetos de lei que estão ainda em tramitação no Congresso Nacional, que ainda colocam em cheque, conquistas que já que esse movimento de pessoas com deficiência de a dos movimentos sociais né por direitos humanos das pessoas com deficiência, então uma atenção especial pra que a lei de cota, de cotas das pessoas com deficiência no nos empregos No trabalho ela ela precisa sim se efetivar, a gente tem então agora no novo plano Viver Sem Limites com a constituição, né do decreto que o presidente Lula assinou pela Câmara Interministerial, gestora do novo plano Viver Sem Limites, que a gente trate do tema da empregabilidade por exemplo como tema de conhecimento de interesse mútuo não só do Ministério do Trabalho, o Ministério do Trabalho positivou compromisso da criação no contexto do Plano Nacional do Viver Sem Limites a criação de novos Cento e vinte mil empregos trabalhos formais né pras pessoas com deficiência e do INSS. Agora né num contexto de que que temos quinhentos e cinquenta, aproximadamente, pessoas com deficiência no mercado formal de trabalho isso é percentual bastante grande. Agora se compararmos com percentual de adultos com deficiência, que ainda procuram empregos que ainda não alcançam a empregabilidade né e a inclusão profissional é uma das formas mais dignas de inclusão da pessoa com deficiência né que se garanta esse direito que a gente trate então pro questões complexas que é inclusão profissional, a inclusão EE0 reconhecimento de todas as fases da vida, né desde o nascimento da criança com deficiência e todas as fases, a gente precisa sim grande empenho de toda a sociedade, de toda todos os parlamentares, os gestores públicos, ativistas, pesquisadores, pra que demos o salto qualitativo necessário no sentido de, refundar a agenda de direitos humanos das pessoas com deficiência, não somos limitados, limitadas são as instituições que não percebem as nossas as lacunas assistenciais que nos inviabilizam, nos oprimem e nos coloquem nos colocam mais expostos a vulnerabilização econômica social, vulnerabilizando inclusive nossos nossos corpos e a nossa existência né como, seres humanos, falo isso, porque muitas vezes, ainda a sociedade nos percebe né percebe as pessoas com deficiência como problema, ou como simplesmente beneficiários dos das políticas públicas. Não, não somos problema, não não é uma questão de doença, é uma questão é uma condição humana sempre presente na em toda a história da humanidade, Temos sim muita capacidade por isso que a discriminação em razão da deficiência é chamada de capacitismo, é por isso que a nossa secretaria dos direitos humanos, nosso Ministério dos Direitos Humanos, tem atuado firmemente numa campanha de geração de produção de conhecimento e difusão de conhecimentos que desvendem o que é o preconceito em razão de deficiência em todo o pai em todo o nosso país. Muitas pessoas ainda nos descriminam por desconhecer Os nossos direitos por desconhecer, e a gente precisa abordar sobre esse tema, a gente trouxe alguns materiais, aqui temos esse esse aqui é o registro, histórico de movimento feito na no contexto da da preparação da Décima sexta conferência nacional de saúde, foi uma conferência nacional livre sobre saúde da pessoa com deficiência, que reuniu de forma híbrida mil e trezentas pessoas, que elegeu temas e propostas para a conferência nacional de saúde e e elegeu também dez delegados. Essa mobilização ocorreu com o apoio né institucional da Escola Nacional de Saúde Pública da Fundação Oswaldo Cruz, com o nosso apoio do Ministério dos Direitos da e das Humanas e da Cidadania, mais efetivamente no na mobilização São de mais de trinta organizações da sociedade civil, então é nesse na construção desse protagonismo e na difusão de conhecimentos Que né viabilizem o pleno exercício dos direitos da pessoa com deficiência e que nos colocamos à disposição. Quero quero dizer também que nessa semana nós lançamos Esse essa cartilha, da campanha da continuidade da campanha combata o capacitismo. Hein, teremos popularizar o tema, assim como foi importante chamar de racismo a discriminação em razão de coretnia, né diz basta ao racismo a população brasileira já entende melhor quando é racismo e o compromisso de denunciar práticas racistas no nosso país, a gente quer sim popularizar o termo capacitismo porque as nossas capacidades são subestimadas. Não é porque necessitamos de recursos de acessibilidade de portes de metodologias específicas para o 0 nosso desenvolvimento que, os nossos direitos civis e políticos podem ser tutelados. Não, os direitos das pessoas com deficiência precisam ser garantidos, os nossos protagonistas. Por isso faço aqui, né a oferta né de que leiam, conheçam e difundam conhecimentos anticapacitistas pra que a gente dê o salto e quero saudar também a comissão dos direitos da pessoa com deficiência, que lançou esse glossário, esse glossário ele surgiu de demandas da sociedade civil e do meu tempo de sociedade civil sabe deputado? Então no ano passado até o ano passado, enquanto integrante né do coletivo de trabalhadores com deficiência Da CUT, da Frente Nacional de Mulheres com Deficiência, nós contribuímos pra existir existência desse glossário, glossário de terminologias adequadas para o tratamento das pessoas com deficiência, na era da inclusão. Porque tem muito projeto de lei ainda, que usa termos inadequados, termos ultrapassados e a gente precisa sempre se atualizar. Então aqui há termos que o todos os os deputados, todos os senadores, todos os parlamentares e toda a população precisa conhecer, temos como capacitismo, Por que que nós queremos ser chamados sempre como pessoas com deficiência? Por ter pessoas no lugar, né inicialmente a gente precisa se colocar como pessoas por conta do desse capacitismo que está tão institucionalizado gente, porque a gente ainda não é visto como protagonista, como agentes da inclusão. É por isso que a gente reforça tanto essa essa campanha. A agenda de conhecimento é tão importante, e eu acho muito triste quando a gente perde a continuidade, E aí está o foco do federalismo na continuidade das políticas públicas na efetivação de políticas de estado, nós encontramos recentemente deputado, Uma caixa, uma caixa que vem desde antes do né desde o período da do governo Dilma, da Secretaria da Educação, Secretaria Nacional de Direitos da Pessoa com Deficiência, uma caixa cheia de DVDs com o conteúdo da convenção internacional sobre direitos da pessoa com em libras, DVDs que já são uma tecnologia que está ultrapassada que computadores a maioria dos computadores já nem usa mas esse esse equipamento, havia uma caixa cheia lotada, isso aqui é dinheiro público, que não foi utilizado né? O meu tempo está esgotado, mas eu quero dizer que assim essa agenda de difusão de conhecimento precisa também ser uma agenda como política de estado esse essa continuidade do federalismo Também envolve essa essa essa continuidade, uma da dos problemas pro exercício dos direitos é efetivamente O conhecimento e a informação de forma acessível para o exercício de direitos. Muito obrigado a todos vocês, fico à disposição. Muito bem",
       "speaker": {
         "name": "ANNA PAULA FEMINELLA",
-        "position": "Secretária Nacional dos Direitos da Pessoa com Deficiência - Secretaria Nacional dos Direitos da Pessoa com Deficiência"
+        "position": "Secretária Nacional dos Direitos da Pessoa com Deficiência - Secretaria Nacional dos Direitos da Pessoa com Deficiência",
+        "slug": "anna-paula-feminella"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Mestre de Cerimônias anuncia e agradece a presença do deputado Rafael Leitor, subsecretária Simone Capela, representante Paulo Santos e secretária Ana Paula. Quebra de protocolo: aluno Davi dará breve discurso.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -178,7 +193,8 @@
       "summary": "Aluno Participante se refere ao colégio \"Cento e Dois Sul\" e quer discutir a temperatura negativa de 65 graus Celsius em Portugal. Está confortável falando no microfone.",
       "speaker": {
         "name": "DAVI",
-        "position": "Aluno Participante"
+        "position": "Aluno Participante",
+        "slug": "davi"
       }
     },
     {
@@ -189,7 +205,8 @@
       "summary": "Mestre de Cerimônias agradece participação, menciona possibilidade de ser mestre de cerimônias ou deputado, expressa agradecimento a Davi por sua presença, apresenta ex-deputada federal Rosinha da ADEPfall e viceprocuradora geral do trabalho Maria Aparecida Gurgel.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -200,7 +217,8 @@
       "summary": "Vice-Procuradora-Geral do Trabalho falou sobre inclusão de pessoas com deficiência em políticas públicas, direitos trabalhistas e federalismo. Destacou a importância de políticas de Estado, execução local e representação em todos os níveis. Mencionou o artigo 36 da Lei de Inclusão e a necessidade de capacitação no emprego. Promoveu o diálogo e a participação de pessoas com deficiência em decisões.",
       "speaker": {
         "name": "MARIA APARECIDA GUGEL",
-        "position": "Vice-Procuradora-Geral do Trabalho - Ministério Público do Trabalho"
+        "position": "Vice-Procuradora-Geral do Trabalho - Ministério Público do Trabalho",
+        "slug": "maria-aparecida-gugel"
       }
     },
     {
@@ -211,7 +229,8 @@
       "summary": "Mestre de Cerimônias agradeceu Maria Aparecida Gurgel e apresentou ex-deputada federal e representante do Comitê Brasileiro de Clubes Paralímpicos, Rosinha da ADFal.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -222,7 +241,8 @@
       "summary": "Ex-deputada e representante Comitê Brasileiro de Clubes Paralímpicos falou sobre inclusão e esportes para pessoas com deficiência. Ela mesma usuária de cadeira de rodas, elogiou avanços, mas destacou a necessidade de melhores políticas públicas e recursos para atingir verdadeira inclusão em todas as áreas, especialmente no esporte. Ela realçou importância de esporte como meio de inclusão social e transformador na vida das pessoas com deficiência.",
       "speaker": {
         "name": "ROSINHA DA ADEFAL",
-        "position": "Ex-deputada e representante - Comitê Brasileiro de Clubes Paralímpicos - CBCP"
+        "position": "Ex-deputada e representante - Comitê Brasileiro de Clubes Paralímpicos - CBCP",
+        "slug": "rosinha-da-adefal"
       }
     },
     {
@@ -233,7 +253,8 @@
       "summary": "Mestre de Cerimônias anuncia e agradece a presença de diversos convidados, incluindo o secretário executivo de frentes parlamentares e a presidente da Fundação Catarinense de Educação Especial, e cede a palavra à diretora da associação nacional de defensores públicos.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -244,7 +265,8 @@
       "summary": "Diretora Presidenta da ANADEP enfatizou importância de espaços institucionais fortes, especialmente no sistema de justiça, para defesa de direitos. Lançou campanha de educação em direitos e destacou necessidade de mais defensores, criatividade em atingir público, e aprovação de leis de inclusão por parte do Congresso Nacional.",
       "speaker": {
         "name": "RIVANA BARRETO RICARTE",
-        "position": "Diretora Presidenta - Associação Nacional das Defensoras e Defensores Públicos - ANADEP"
+        "position": "Diretora Presidenta - Associação Nacional das Defensoras e Defensores Públicos - ANADEP",
+        "slug": "rivana-barreto-ricarte"
       }
     },
     {
@@ -255,7 +277,8 @@
       "summary": "Mestre de Cerimônias cumprimenta representante da sociedade civil na CONADE, Wagner Gonçalves Saltorato da APAE Brasil.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -265,7 +288,8 @@
       "transcription": "A todos e a todas falo do meu propósito, estou aqui na frente, ao meu lado direito e de quem está assistindo do lado esquerdo. Né? Vou fazer a minha auto descrição, eu sou uma pessoa baixa, Branca, tenho cabelos claros, já começam a embranquecer. A barba é mais escura que o cabelo mas também já está Embranquecendo bastante, né? Estou com blazer cinza, uma camiseta que eu não sei definir a cor, porque parece verde ou amarelo mas é diferente é esquisito, né? Uma calça jeans e tênis cinza Da e, o solado da mesma cor, que eu não sei também definir, né? Acho que é isso. Eu queria fazer o agradecimento ao do convite da participação, principalmente né a representação do CONADE aqui, Ao deputado Márcio GR, parabenizar né a a sua gestão à frente da comissão, que nesse ano Levantou importantes debates nessa casa, a política de educação, a política de saúde, a política de assistência, Exclusivamente para pessoas com deficiência então foram discussões muitíssimo importantes, e que também subsidiaram outras discussões em outros plenários, né a instituição de plano governamental então Foi uma atuação bastante brilhante né, e esperamos que no próximo ano se repita né dessa mesma maneira né, ouvindo a todos, ouvindo principalmente as pessoas com deficiência, né, eu estou na representação do CONADE E normalmente quem estaria aqui né assim, seria o titular dessa representação da rede APAE, que é o meu companheiro de luta, E amigo de trabalho Adenilson Marins, né, que é uma pessoa com deficiência teve paralisia cerebral, Nada sobre nós, nada sobre nós sem nós, então assim eu sou uma pessoa que não tenho deficiência mas eu sou militante da causa, Sou uma pessoa branca, né, sou trabalhador que apoia o Adenilson então eu faço, a, A gente chama de amplificação da fala dele, porque ele tem uma desarteria então é uma fala bastante, Difícil de ser compreendida e eu faço esse papel também então, só pra colocar de onde eu estou falando né? E é isso. A representação do CONADE ela tem importantes segmentos da sociedade civil, Né eu ia fazer o registro de todas as entidades mas são tantas que eu fico até receoso de de Perder alguém embora tenha feito todos os registros mas acho que meu tempo também está bastante encurtado. Mas É importante registrar, não tem jeito, acho que é é é importante então tem temos a FENES, a ABRA, a FCD, a FAG, a UNDF, Fena Pestalosa, Febra Raras, Retina Brasil, as a CBDV, a ONCB, a PABB, A ABSW que representa a síndrome de Williams, CNC, o GT, a Brazco, OAB e o CONFE, né todos Representando a sociedade civil no CONADE. Então essa fala ela representa todas essas instituições. A gente na APAE está passando por momento histórico, né assim a gente acaba de voltar De congresso nosso vigésimo sétimo congresso nacional, né, e foram três dias de troca de experiências, Apresentação de pesquisas, mesas, onde o estado se fez presente e onde teve uma participação De várias políticas públicas, nos colocando, nos pontuando, nos direcionando sobre os rumos que a APAE Tomará, né, a partir desse desse congresso e estamos num período de mudança de gestão também. Então é momento que a gente está repensando a nossa trajetória, dialogando, fazendo exercício civilizatório né assim rumo a futuro livre do capacitismo, né assim, trabalhando numa perspectiva de direitos. Então somos vinte e seis federações estaduais, estamos presentes em todos os estados, Duas mil duzentos e setenta unidades, né, duas mil mais de duas mil e duzentos, duas mil duzentos e cinquenta Ciência, nós também procuramos atender as suas famílias, então é número expressivo de atendimentos que a APAE realiza. E isso nos habilita então a falar pouquinho sobre federalismo, né? Inicialmente acho que é importante a gente falar sobre a questão constitucional que fala sobre o federalismo né, o artigo primeiro né da constituição fala que nós somos uma Uma república federativa, e é formada por uma união indissolúvel de estados e municípios. Então assim não dá pra separar, não dá pra desconstituir somos isso, né assim, e Eu vou além né e fala da questão no artigo dezoito da descentralização políticoadministrativa, Né entre a união estados Distrito Federal e municípios, todos com autonomia, né. E aí nós como uma instituição que fazemos a defesa e e garantia de direitos, compreendemos que o papel do controle social do CONADE É propor, acompanhar, controlar a execução das políticas públicas em defesa da pessoa com deficiência, Nos estados, municípios, Distrito Federal e também nacionalmente, né? E essa não é uma tarefa simples. Né? Primeiro, porque não existe uma política específica para a pessoa com deficiência, Né? A pessoa com deficiência ela deve ser prioridade, é isso que a lei brasileira de inclusão determina. E eu peço licença porque eu vou ler o artigo oitavo porque eu acho que ele é muito importante, né? É dever do estado, mas não é só do estado não, É da sociedade e é da família assegurar a pessoa com deficiência com prioridade, Prioridade, repito e sublime, a efetivação dos direitos referentes A vida, a saúde, a sexualidade, a paternidade, a maternidade, a alimentação, a habitação, a educação, A profissionalização, ao trabalho, à previdência social, à habitação e à reabilitação, Ao transporte, acessibilidade, à cultura, ao desporto, ao turismo, ao lazer, à informação, à comunicação, aos avanços científicos e tecnológicos, a dignidade ao respeito, a liberdade, a convivência familiar e comunitária entre Outras decorrentes da constituição federal, da convenção sobre os direitos da pessoa com deficiência, e seu Protocolo facultativo e das leis e de outras normas que garante seu bemestar pessoal, social e econômico. Então não é favor, não é caridade, não é benemerência, é direito, é disso que nós estamos falando no federalismo, Né? O Brasil adotou modelo de federalismo simétrico, mas é uma federação assimétrica. Nós temos diferenças regionais, temos diferenças de de Ambientes de pessoas de diversidade nós somos país extremamente gigante, Né? E e temos desafios gigantes, né, e a prática é garantir essa prioridade Na lei e no papel. Ela parece até simples, o duro é a prática. É isso que nós precisamos discutir. Temos alguns momentos, de alegria né assim que a gente pode celebrar deles é a volta da escuta, né? Estamos aqui, estamos falando, Né? Estamos reativando os conselhos, estamos retomando e o controle social, então isso é motivo de celebrar, né? E aí a gente verifica que, Nós tivemos plano plurianual com a participação do CONADE presente, inclusive com a representação da Denílson, E eu estive apoiando. Nós tivemos também a elaboração do plano viver sem limites, Com todo uma possibilidade de, várias formas de participação popular, foram doze capitais, Não é isso Ana Ana está aqui pra me auxiliar, nas cinco regiões do país né, teve uma consulta pública aberta, Mais de duas mil e quinhentas participações, e aí eu fico pensando que foi tímida, Né? Não sei identificar o porquê dessa timidez, não sei se é o tema que talvez não afete tantas participações, Não sei se é questão do recurso tecnológico que não está tão disponível às pessoas com deficiência então não sei falar muito bem sobre isso, Mas ela eu acho que ainda foi tímida, poderíamos ter muito mais participação, né assim, precisaríamos de escolas Falando sobre esse tema a participação de escolas, né assim, acho que teríamos que ter feito várias outras estratégias de mobilização para essa participação efetivar em uma proposta democrática de escuta, né? E aí eu eu gostaria de refletir pouquinho Sobre essa vida vivida, né? Sobre a pessoa com deficiência fora dos planos, fora das políticas, fora do papel escrito né? A pessoa que deficiência que mora lá no Amazonas e que utiliza o POC POC, eu fui corrigido esses dias Né em Belém que eu falava voadora. E aí eles falaram que não não é voadora, se alguém aqui do do Norte estiver, também pode me corrigir porque eu aceito a correção com tranquilidade, então assim não é porque não faz barulhinho do motor? Então eles chamam de poc poc, né? E aí eles. As pessoas estão lá normais zonas e utilizam do POC POC pra chegar às escolas utilizam do POC POC pra chegar Aos hospitais pra chegar ao ao ao atendimento que ela precisa. Então assim, como é que fica essa pessoa com deficiência? Como é que fica a como é que fica a acessibilidade dessa pessoa? É isso que a gente precisa enxergar no federalismo. Não é somente aqui no plano, Não é somente aqui na política pública não é somente aqui no Congresso, a gente precisa olhar pra essas pessoas, né? A gente precisa Olhar para o indígena que é uma pessoa com deficiência e está aldeado. Né assim, como é que a gente garante direitos, Lá, na aldeia, né? A gente também tem a mãe negra periférica que tem seu filho com deficiência, E que ela além do filho com deficiência tem mais outros filhos, e que às vezes não consegue acessar o trabalho porque precisa dar uma atenção especial. Nós temos situações de pessoas com extrema necessidade de suporte. E como é que ficam Essas pessoas como é que fica a autonomia dessas pessoas além do grande centro além das cidades que tem atendimento, Né? E aí a gente volta pra questão do CONADE, né assim e eu cito Caetano e Gil, É preciso estar atento e forte, né assim a gente precisa estar atento e forte, mas não é só na CONADE É preciso estar nos conselhos estaduais e nos conselhos municipais também, né fazer garantir essa prioridade que a gente falou que a legislação garante, da pessoa com deficiência e precisamos principalmente que os municípios recebam recursos Né, necessários pra romper as barreiras, e pra pra isso eu trago algumas reflexões né, é no município que a pessoa com deficiência está, é lá que ela estuda, é lá que ela é atendida na saúde, e é lá que ela está atendida na assistência social. Precisamos encontrar esforços locais. Tchau. Precisamos encontrar esforços locais, né? Mas também precisamos pensar em alternativas De suporte regionais porque o nível de especialização exige e não tem jeito da gente chegar em todos os Cinco mil quinhentos e setenta municípios, né? Como que a gente faz isso? Como é que a gente promove essa essa forma de se unir entre os municípios né pra garantir os direitos da pessoa com deficiência. Lembrando que, Algumas políticas exigem atendimento de convivência, e que é impossível fazer isso de forma regionalizada, Né? Então a gente precisa também estar aí nos municípios pequeno. Eu preciso falar da questão do plano Viver sem limites né, e dos grandes desafios que ele se propõe a fazer. São quatro eixos bastante importantes. O acesso à educação, atenção à saúde, à inclusão social e acessibilidade. E isso se desdobra nas várias políticas públicas estão sendo repensadas e chama atenção três políticas em especial, né? A questão da saúde a questão da, assistência e a questão da educação são três Políticas né nacionais que estão sendo colocadas, a política nacional de educação especial na perspectiva da educação inclusiva, Política nacional de atenção integral à saúde das pessoas com deficiência, e a política nacional dos cuidados. Então a gente também tem que estar atento a isso. Como é que isso vai chegar a esses cinco mil quinhentos e setenta município vinte e seis estados e o Distrito Federal, Né? Volto ao meu lugar de conselheiro. Eu não tenho respostas, Não tenho resposta, mas temos a disposição pra lutar, e temos a a disposição pra ser vigilantes, Para estarmos atentos, né, a a APAE está presente nos municípios, estamos reforçando uma diretriz Cidadania e participar dos conselhos nos seus municípios nos seus estados, né? Nós reconhecemos Nós nos reconhecemos como apoio necessário pra elevar nossos atendidos e atendidas para a sua autonomia. Estamos nos municípios, estados, no CONADE, e no papel da fiscalização do controle social e principalmente como parceiros a construção de uma sociedade mais justa, igualitária para todos e todas. É isso que nós temos feito e é isso que nós Faremos. Obrigado deputado por por esse convite. Obrigado Ana, né. A Ana também representa e é presidente do CONADE E por isso que temos uma outra pessoa e ainda assim uma sociedade civil aqui presente e obrigada a todos por me ouvir. Estou bastante né Fux, esqueci de falar isso da audiodescrição. Muito bem o nosso muito",
       "speaker": {
         "name": "WAGNER GONÇALVES SALTORATO",
-        "position": "representando - Conselho Nacional dos Direitos da Pessoa com Deficiência (Conade)"
+        "position": "representando - Conselho Nacional dos Direitos da Pessoa com Deficiência (Conade)",
+        "slug": "wagner-goncalves-saltorato"
       }
     },
     {
@@ -276,7 +300,8 @@
       "summary": "Mestre de Cerimônias anuncia encerramento da mesa de honra, agradece autoridades e convidados, e dá início à mesa de debate com a palavra do deputado Márcio Jerry. O primeiro a falar é Decío Nascimento Guimarães, Diretor de políticas de educação especial do Ministério da Educação.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -287,7 +312,8 @@
       "summary": "Agradecimento por convite; é pessoa cega, homem, branco, com cabelos curtos e pouco grisalhos, usando terno cinza, camisa cinza, e gravata vermelha; destaca importância de políticas públicas para todos, especialmente pessoas com deficiência; foca em políticas de educação inclusiva; busca participação ativa de pessoas com deficiência em conselhos de educação e escolas; menciona anúncio de ações e medidas para fortalecer políticas de educação especial pelo presidente Lula.",
       "speaker": {
         "name": "DÉCIO NASCIMENTO GUIMARÃES",
-        "position": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) da Ministério da Educação"
+        "position": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) da Ministério da Educação",
+        "slug": "decio-nascimento-guimaraes"
       }
     },
     {
@@ -298,7 +324,8 @@
       "summary": "Mestre de Cerimônias agradeceu presentes de Instituto Nossa Senhora do Brasil, MAHHPEAW e Luane Carvalho Costa, e anunciou palestra de 5 minutos de Luane.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -309,7 +336,8 @@
       "summary": "Financiamento e implementação de políticas de saúde integral priorizando acesso e autonomia para pessoas com deficiência, abordando revisão da política nacional, rede de cuidados e lançamento da política nacional de atenção especializada; desafios na qualificação da implementação e no fortalecimento de discussões.",
       "speaker": {
         "name": "LUANE CARVALHO COSTA",
-        "position": "Assessora Técnica da Coordenação-Geral de Saúde da Pessoa com Deficiência - Ministério da Saúde"
+        "position": "Assessora Técnica da Coordenação-Geral de Saúde da Pessoa com Deficiência - Ministério da Saúde",
+        "slug": "luane-carvalho-costa"
       }
     },
     {
@@ -320,7 +348,8 @@
       "summary": "Mestre de Cerimônias apresenta a palestra de Angela Pires, assessora de direitos humanos do sistema da ONU no Brasil, com duração de 5 minutos.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -331,7 +360,8 @@
       "summary": "Direitos humanos essenciais para todos, incluindo deficiência; história Declaração Universal direitos humanos universalidade; evolução abordagem deficiência, autonomia; adoção Convenção ONU Direitos Pessoa deficiência, Agenda 2030 objetivos desenvolvimento sustentável; colaborar igualdade direitos pessoas deficiência países comunidades.",
       "speaker": {
         "name": "ANGELA PIRES",
-        "position": "Assessora de Direitos Humanos do Escritório e Coordenadora Residente do Sistema das Nações Unidas no Brasil - Organização das Nações Unidas (ONU) no Brasil"
+        "position": "Assessora de Direitos Humanos do Escritório e Coordenadora Residente do Sistema das Nações Unidas no Brasil - Organização das Nações Unidas (ONU) no Brasil",
+        "slug": "angela-pires"
       }
     },
     {
@@ -342,7 +372,8 @@
       "summary": "Mestre de Cerimônias apresenta presidente da Federação Brasileira das Associações da Síndrome de Down.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -353,7 +384,8 @@
       "summary": "Presidente da Federação Brasileira de Associações da Síndrome de Down falou sobre representação em cinco regiões, distinguir deficiência e doença, discussão da avaliação biopsicossocial no Brasil, avanços em política de inclusão, necessidade de políticas públicas em saúde, educação e federalismo, e importância da linguagem simples na comunicação com pessoas com deficiência intelectual.",
       "speaker": {
         "name": "CLEUNICE BOHN DE LIMA",
-        "position": "Presidente - Federação Brasileira das Associações da Síndrome de Down"
+        "position": "Presidente - Federação Brasileira das Associações da Síndrome de Down",
+        "slug": "cleunice-bohn-de-lima"
       }
     },
     {
@@ -364,7 +396,8 @@
       "summary": "Mestre de Cerimônias anuncia palestra de representante da Associação Brasileira por Direitos de Pessoas Autistas, disponibilizando cinco minutos para sua fala.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -375,7 +408,8 @@
       "summary": "Representante da Associação Brasileira por Ação de Pessoas Autistas, defende política nacional inclusiva, educação especial, federalismo com estado-sociedade, valoriza SUS e combate à hegemonia de métodos terapêuticos, pedindo mais estado e menos mercado em políticas públicas.",
       "speaker": {
         "name": "ÉRICA CURADO",
-        "position": "Associação Brasileira para Ação por Direitos das Pessoas Autistas"
+        "position": "Associação Brasileira para Ação por Direitos das Pessoas Autistas",
+        "slug": "erica-curado"
       }
     },
     {
@@ -386,7 +420,8 @@
       "summary": "Mestre de Cerimônias anuncia: Senhora Erica Curado desce, segue apresentação do senhor Aguinaldo Quintino, representante da ANASO, com 5 minutos para falar na tribuna.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -397,7 +432,8 @@
       "summary": "Associação Nacional dos Surdos Oralizados destacou importância de federalismo em políticas públicas para pessoas com deficiência, especificamente para surdos oralizados. Ela abordou desafios na saúde, educação, trabalho, lazer e previdência, com falta de reconhecimento, acesso e conhecimento como temas comuns. A organização expressou esperança de ser convidada para contribuir nas políticas públicas, visando maior acessibilidade e inclusão para surdos oralizados.",
       "speaker": {
         "name": "AGNALDO QUINTINO",
-        "position": "Associação Nacional dos Surdos Oralizados - Anaso"
+        "position": "Associação Nacional dos Surdos Oralizados - Anaso",
+        "slug": "agnaldo-quintino"
       }
     },
     {
@@ -408,7 +444,8 @@
       "summary": "Mestre de Cerimônias anuncia palestra sobre defesa de direitos de pessoas com deficiência e associação de ostomizados, em evento agradecendo Agnaldo. (5 minutos)",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -419,7 +456,8 @@
       "summary": "Presidente do MOBR discutiu federalismo, políticas públicas e inclusão de pessoas com deficiência. Sua ênfase estava em melhorar atenção às necessidades de ostomizados, mudanças na CONITEC e INSS, e inclusão do terceiro setor na elaboração de políticas. Ela abordou a necessidade de agilidade e coordenação entre entes federados, bem como representação adequada de pessoas com deficiência.",
       "speaker": {
         "name": "ANA PAULA BATISTA",
-        "position": "Presidente - Movimento Ostomizados do Brasil - MOBR"
+        "position": "Presidente - Movimento Ostomizados do Brasil - MOBR",
+        "slug": "ana-paula-batista"
       }
     },
     {
@@ -430,7 +468,8 @@
       "summary": "Mestre de Cerimônias apresenta livro \"Rompendo Barreiras\", homenageia deputado, agradece convidados e dá voz a pergunta do público por meio do advogado e escritor Mário Goulart Maia.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -441,7 +480,8 @@
       "summary": "Jurista sugestiona projeto: graduados públicas federal e estaduais retribuírem Estado com serviços por dois anos, reduzindo déficit saúde. Ele propõe como exemplo sua experiência no CNJ e texto publicado em 2018. Oferece ajuda se necessário.",
       "speaker": {
         "name": "MARIO GOULART",
-        "position": "Jurista"
+        "position": "Jurista",
+        "slug": "mario-goulart"
       }
     },
     {
@@ -452,7 +492,8 @@
       "summary": "Mestre de Cerimônias saudou público e anunciou palestrante, Maurício Campos Júnior, autor de best-seller \"Junoca, o cadeirante fora da cadeira\".",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -463,7 +504,8 @@
       "summary": "Escritor carece cabelo, nariz proeminente, usa roupas simples e está em cadeira de rodas, mas se considera bonito e escreve com o pé. Realizou dois espetáculos, um na Bahia e outro no Senado. Crítico aqueles que reclamam e incentiva atitude, pois pessoas com deficiência podem muito mais. Casado com uma \"pessoa normal\" e faz muito trabalho para ela, já que é ativo e não fica parado em casa. Encoraja a pensar menos e aproveitar oportunidades.",
       "speaker": {
         "name": "MAURICIO CAMPOS JUNIOR",
-        "position": "Escritor"
+        "position": "Escritor",
+        "slug": "mauricio-campos-junior"
       }
     },
     {
@@ -474,7 +516,8 @@
       "summary": "Participante é negra, considerada parda no registro de nascimento, casada com Junoca há 8 anos, ativista por causa que também afeta pessoas sem deficiência, acredita em unidade de todos com deficiência para causar impacto, agradece oportunidade.",
       "speaker": {
         "name": "ALLANA MAGALHÃES CAMPOS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "allana-magalhaes-campos"
       }
     },
     {
@@ -485,7 +528,8 @@
       "summary": "Escritor expressa afecto a João, menciona presença de seu filho e agradece.",
       "speaker": {
         "name": "MAURICIO CAMPOS JUNIOR",
-        "position": "Escritor"
+        "position": "Escritor",
+        "slug": "mauricio-campos-junior"
       }
     },
     {
@@ -496,7 +540,8 @@
       "summary": "Mestre de Cerimônias convidou escritor Maurício Campos, coordenador Carlos de Souza Maciel, e presidente da Fundação Catarinense de Educação Especial Jeane Leite. Permite manifestações e chama Ana Paula para falar.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -507,7 +552,8 @@
       "summary": "Presidente - Movimento Ostomizados do Brasil - MOBR discutiu importância da portaria 400 do Ministério da Saúde, promover maior qualidade de vida para ostomizados. MOBR busca reformar portaria, criar subcomissão no Congresso e uma política nacional de atenção à pessoas com ostomia. também mencionou a necessidade de avaliação biopsicossocial e enfatizou vulnerabilidade de ostomizados e pessoas com deficiência.",
       "speaker": {
         "name": "ANA PAULA BATISTA",
-        "position": "Presidente - Movimento Ostomizados do Brasil - MOBR"
+        "position": "Presidente - Movimento Ostomizados do Brasil - MOBR",
+        "slug": "ana-paula-batista"
       }
     },
     {
@@ -517,7 +563,8 @@
       "transcription": "Teria que encerrar mas eu vou dar três minutinhos pra senhora que eu vou quebrar o protocolo. Três é muito.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -528,7 +575,8 @@
       "summary": "Presidente da Federação Brasileira das Associações de Syndrome de Down pediu cumprimento da convenção com status constitucional, reconhecendo importância nas três esferas. Agradecida por trabalho dos secretários Ana Paula Feminella e Decio, destacando crescimento da auto defesa e participação de pessoas com deficiência intelectual em todos os regiões do Brasil.",
       "speaker": {
         "name": "CLEUNICE BOHN DE LIMA",
-        "position": "Presidente - Federação Brasileira das Associações da Síndrome de Down"
+        "position": "Presidente - Federação Brasileira das Associações da Síndrome de Down",
+        "slug": "cleunice-bohn-de-lima"
       }
     },
     {
@@ -539,7 +587,8 @@
       "summary": "Mestre de Cerimônias convidou o deputado Márcio para encerramento do encontro.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -551,7 +600,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     }
   ],

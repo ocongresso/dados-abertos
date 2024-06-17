@@ -13,7 +13,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": " Melhoria presente, esperando por decisão do estúdio.",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -44,7 +47,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião devido a problemas técnicos",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao-devido-a-problemas-tecnicos"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": " Discussão sobre melhoria da educação bilíngue de surdos no MEC; apoio à criação de comissões IGTs para progresso na Cenebs; necessidade de alinhar documentos do CNE com políticas educacionais atuais; elogios à deputada Amália por apoiar essa causa.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Weliton Prado -- por Participante -- Amália Barros",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-weliton-prado-por-participante-amalia-barros"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": " Educação bilíngue para surdos é prioritária, resultado de esforço dos três poderes e legislação garantindo direitos e acesso de qualidade. Combate à dificuldade de compreensão conceitual e formação de professores e gestores em andamento, com mais vagas e recursos em 2023. Inclusão de surdos na educação bilíngue avança, mas enfrenta ainda desafios.",
       "speaker": {
         "name": "MARISA DIAS LIMA",
-        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)"
+        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)",
+        "slug": "marisa-dias-lima"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": " Coordenador substituto do LSB-PSL destacou importância de respeitar direitos linguísticos surdos, necessidade de educação bilíngue e formação de professores qualificados. Desde 2011, surdos pressionam por inclusão em leis de educação e política pública. FENEES e outras associações desempenham papel crucial em garantir direitos humanos surdos. Coordenador agradece líderes surdos por lutar por acessibilidade linguística.",
       "speaker": {
         "name": "MESSIAS RAMOS COSTA",
-        "position": "Coordenador substituto - Curso de Língua de Sinais Brasileira-Português como Segunda Língua (LSB-PSL)"
+        "position": "Coordenador substituto - Curso de Língua de Sinais Brasileira-Português como Segunda Língua (LSB-PSL)",
+        "slug": "messias-ramos-costa"
       }
     },
     {
@@ -124,7 +134,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": " Professor adjunto do Curso de Letras Libras da UFSC destaca importância de escola bilíngue para educação de surdos, com ensino em Libras e português, em todos os espaços, incluindo formação de professores e material didático. O número de alunos surdos matriculados na educação básica é preocupante em relação à população surda, com maioria sem atendimento para educação bilíngue, resultando em atraso linguístico e escolar.",
       "speaker": {
         "name": "RODRIGO ROSSO MARQUES",
-        "position": "Professor Adjunto - Departamento de Libras do Curso de Letras Libras da UFSC - Universidade Federal de Santa Catarina"
+        "position": "Professor Adjunto - Departamento de Libras do Curso de Letras Libras da UFSC - Universidade Federal de Santa Catarina",
+        "slug": "rodrigo-rosso-marques"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": " Vice-presidente da Feneis defende educação bilíngue para surdos, apoiada por leis e documentos. Ele destaca a necessidade contínua do governo em sustentá-la, além de pressionar por representação surda em pastas governamentais e maior apoio à CNEBS. É urgente mudar a realidade atual.",
       "speaker": {
         "name": "MAGNO PRADO GAMA PRATES",
-        "position": "Vice-presidente - Feneis - Federação Nacional de Educação e Integração dos Surdos"
+        "position": "Vice-presidente - Feneis - Federação Nacional de Educação e Integração dos Surdos",
+        "slug": "magno-prado-gama-prates"
       }
     },
     {
@@ -169,7 +183,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -180,7 +195,8 @@
       "summary": " Participante apoia escolas e classes bilíngues para surdos, essas lutas são legítimas e importantes. Embora legislação garante direitos de surdos, realidade é diferente e muitos surdos não têm acesso a educação bilíngue, sendo essa a melhor forma de desenvolvimento deles. Educação inclusiva para surdos é educação bilíngue, não apenas presença de intérprete em escola comum.",
       "speaker": {
         "name": "NÍDIA LIMEIRA DE SÁ",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "nidia-limeira-de-sa"
       }
     },
     {
@@ -192,7 +208,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -203,7 +220,8 @@
       "summary": " Participante está feliz por debates como este, que dão voz à comunidade surda e sua luta sécular por inclusão e reconhecimento de suas necessidades linguísticas e educacionais. Ela sente que gestores sabem o que fazer, mas optam por não agir, prejudicando assim a comunidade surda e suas oportunidades. A esperança é que haja mais compreensão e inclusão além da comissão de deficiência.",
       "speaker": {
         "name": "DANIA ESTEVES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "dania-esteves"
       }
     },
     {
@@ -215,7 +233,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -226,7 +245,8 @@
       "summary": " Participante elogia abertura de espaço para pessoas surdas discutirem educação desejada; valoriza importância da educação em formação de cidadão; reflete sobre dificuldades de comunicação; compromete-se a aprimorar bancas e formação de profissionais com FENES; expressa apoio e carinho.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "alexandre"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -248,7 +269,8 @@
       "transcription": "Queria confirmar com o Magno se ele está conseguindo ver a minha sinalização. Senhor Magno,",
       "speaker": {
         "name": "MARISA DIAS LIMA",
-        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)"
+        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)",
+        "slug": "marisa-dias-lima"
       }
     },
     {
@@ -260,7 +282,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -271,7 +294,8 @@
       "summary": " Reunião CNEBS em 24-25/4 para discutir educação bilíngue de surdos, apresentando balanço de ações de 2022. Odipeb e Ccadi aberto ao diálogo. Grupos de trabalho, cartilha de transporte escolar e emenda parlamentar serão considerados. PDDE é política pública permanente com recursos próprios. Coordenadora-Geral incentiva melhoria de dados e diálogo.",
       "speaker": {
         "name": "MARISA DIAS LIMA",
-        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)"
+        "position": "Coordenadora-Geral de Atendimento Especializado - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi) do Ministério da Educação (Mec)",
+        "slug": "marisa-dias-lima"
       }
     },
     {
@@ -282,7 +306,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -293,7 +318,8 @@
       "summary": " Coordinator substitute - LSB-PSL discute importância da inclusão e visibilidade surda, proposindo colégios bilíngues em universidades federais. Lamenta falta de oportunidades de aprender LIBRAS desde bebê e enfatiza necessidade de desenvolver fluência em LIBRAS e habilidades de escrita em escolas para surdos. Agradece a participação e o interesse em financiamento e políticas para a comunidade surda.",
       "speaker": {
         "name": "MESSIAS RAMOS COSTA",
-        "position": "Coordenador substituto - Curso de Língua de Sinais Brasileira-Português como Segunda Língua (LSB-PSL)"
+        "position": "Coordenador substituto - Curso de Língua de Sinais Brasileira-Português como Segunda Língua (LSB-PSL)",
+        "slug": "messias-ramos-costa"
       }
     },
     {
@@ -305,7 +331,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -316,7 +343,8 @@
       "summary": " Professor Adjunto do Curso de Letras Libras da UFSC destacou importância de escola bilíngue para educação de surdos, promovendo autoestima e cidadania iguais às dos ouvintes. Movimento surdo lutou por esses direitos, resultando em diretrizes de educação bilíngue previamente debatidas com comunidade surda. Exhortou a refletir sobre responsabilidade de oferecer educação de qualidade a crianças surdas.",
       "speaker": {
         "name": "RODRIGO ROSSO MARQUES",
-        "position": "Professor Adjunto - Departamento de Libras do Curso de Letras Libras da UFSC - Universidade Federal de Santa Catarina"
+        "position": "Professor Adjunto - Departamento de Libras do Curso de Letras Libras da UFSC - Universidade Federal de Santa Catarina",
+        "slug": "rodrigo-rosso-marques"
       }
     },
     {
@@ -328,7 +356,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -339,7 +368,8 @@
       "summary": " Vice-presidente da Feneis discute importância de parcerias e legislação para a educação bilíngue de surdos no MEC. Reclama sobre atrasos na criação de comissões IGTs e demanda mais transparência e efetividade no trabalho com a educação bilíngue. Suporta a proposta de alinhar documentos do CNE e PNE para melhorar a educação bilíngue em escolas. Elogia a deputada Amália por apoiar a causa surda.",
       "speaker": {
         "name": "MAGNO PRADO GAMA PRATES",
-        "position": "Vice-presidente - Feneis - Federação Nacional de Educação e Integração dos Surdos"
+        "position": "Vice-presidente - Feneis - Federação Nacional de Educação e Integração dos Surdos",
+        "slug": "magno-prado-gama-prates"
       }
     },
     {
@@ -351,7 +381,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -285,7 +308,8 @@
       "summary": "Inicia-se votação, paciente espera por turnos. União Brasil recomenda voto contra remoção de pauta.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -308,7 +333,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -320,7 +346,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -332,7 +359,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -356,7 +385,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -368,7 +398,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -380,7 +411,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -392,7 +424,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -404,7 +437,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -416,7 +450,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -428,7 +463,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -439,7 +475,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -449,7 +486,8 @@
       "transcription": "Pena retirada de pauta, sete votos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -461,7 +499,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     }
   ],

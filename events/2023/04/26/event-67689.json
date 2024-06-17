@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -204,7 +220,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Neto -- por Participante -- Antônia Lúcia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-neto-por-participante-antonia-lucia"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -227,7 +245,8 @@
       "summary": "Projeto de lei discutido, passando da presidência de Antônia Lúcia para o Dr. Fernando Máximo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Antônia Lúcia -- por Participante -- Dr. Fernando Máximo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-antonia-lucia-por-participante-dr-fernando-maximo"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     }
   ],

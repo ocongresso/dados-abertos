@@ -17,7 +17,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220583,
         "name": "Delegado Fabio Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-fabio-costa"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "Queria boa tarde a todas e a todos queria parabenizar deputado Alfredo",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alfredo Gaspar -- por Participante -- Rafael Brito",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alfredo-gaspar-por-participante-rafael-brito"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -61,7 +65,8 @@
       "transcription": "Cumprimentar o deputado Alfredo que preside essa",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rafael Brito -- por Participante -- Marx Beltrão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rafael-brito-por-participante-marx-beltrao"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     }
   ],

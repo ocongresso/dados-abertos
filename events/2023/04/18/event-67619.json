@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Chefe da Auditoria Especializada em Governança e Inovação do TCU abordou controle de gastos do cartão corporativo do governo federal, destacando fiscalização contínua autorizada pelo Plenário do TCU e reforçando importância de análises mensais dos gastos em parceria com gestores, visando identificar e corrigir potenciais problemas.",
       "speaker": {
         "name": "Wesley Vaz Silva",
-        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU"
+        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU",
+        "slug": "wesley-vaz-silva"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Diretor da Auditoria Especializada em Governança e Inovação TCU:",
       "speaker": {
         "name": "Ricardo Akl Lasmar de Alvarenga",
-        "position": "Diretor da Auditoria Especializada em Governança e Inovação Tribunal de Contas da União - TCU"
+        "position": "Diretor da Auditoria Especializada em Governança e Inovação Tribunal de Contas da União - TCU",
+        "slug": "ricardo-akl-lasmar-de-alvarenga"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Chefe da Auditoria Especializada em Governança e Inovação do TCU:",
       "speaker": {
         "name": "Wesley Vaz Silva",
-        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU"
+        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU",
+        "slug": "wesley-vaz-silva"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "A CGU tem atuação distinta do TCU, não abrangendo presidência da República. O cartão de pagamento do governo federal é um meio de pagamento para pequenas compras, promovendo transparência. Despesas sigilosas da presidência seguem normas e serão publicadas no final do mandato. CGU fez recomendações para adoção de comércio eletrônico no setor público, visando transparência e prevenção de desvios. CGU não fiscaliza gastos da presidência por competência legal.",
       "speaker": {
         "name": "Gustavo Roriz",
-        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU"
+        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU",
+        "slug": "gustavo-roriz"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Chefe da Auditoria Especializada em Governança e Inovação do TCU propõe lei para regulamentar gastos diversos, incluindo uso de cartões corporativos do governo. Fiscalização contínua será realizada, com análise de gastos sigilosos a cada 30 dias, identificando possíveis irregularidades e informando órgãos competentes. A fiscalização visa maior transparência e controle dos gastos públicos.",
       "speaker": {
         "name": "Wesley Vaz Silva",
-        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU"
+        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU",
+        "slug": "wesley-vaz-silva"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Diretor da Auditoria Especializada em Governança e Inovação Tribunal de Contas da União - TCU:",
       "speaker": {
         "name": "Ricardo Akl Lasmar de Alvarenga",
-        "position": "Diretor da Auditoria Especializada em Governança e Inovação Tribunal de Contas da União - TCU"
+        "position": "Diretor da Auditoria Especializada em Governança e Inovação Tribunal de Contas da União - TCU",
+        "slug": "ricardo-akl-lasmar-de-alvarenga"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Responsável por regulamentar cartão de pagamento do Governo Federal é MGI, não Ministério de Planejamento;",
       "speaker": {
         "name": "Gustavo Roriz",
-        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU"
+        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU",
+        "slug": "gustavo-roriz"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": "Diretor de Auditoria da CGU sugeriu melhorias para gastos da Presidência, oferece esclarecimentos adicionais e colaborará com o Tribunal de Contas na implementação de auditoria contínua.",
       "speaker": {
         "name": "Gustavo Roriz",
-        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU"
+        "position": "Diretor de Auditoria de Governança e Gestão Controladoria Geral da União - CGU",
+        "slug": "gustavo-roriz"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -254,7 +275,8 @@
       "summary": "Chefe da Auditoria Especializada em Governança e Inovação do TCU sugeriu que podem responder melhor às perguntas com a fiscalização contínua de casos concretos, esperando que simples regras em fiscalizações possam fornecer indícios relevantes. Ele reafirmou o compromisso do TCU em ajudar no debate e contribuir na legislação, estando sempre à disposição dos parlamentares.",
       "speaker": {
         "name": "Wesley Vaz Silva",
-        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU"
+        "position": "Chefe da Auditoria Especializada em Governança e Inovação do TCU",
+        "slug": "wesley-vaz-silva"
       }
     },
     {
@@ -265,7 +287,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -289,7 +313,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     }
   ],

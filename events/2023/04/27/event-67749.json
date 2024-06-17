@@ -13,7 +13,8 @@
       "summary": "Conversa sobre literatura brasileira moderna; entrevistadora Maria Amélia Eloi e jornalista Roberto Seabra participam. Transmissão ao vivo no YouTube e Facebook.",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "Olá Faleiro, que alegria têlo aqui no programa. Antes de falarmos propriamente da sua obra literária, eu queria que você nos contasse pouco sobre esse percurso né, até você chegar aqui. Hoje você é autor reconhecido pela crítica, pelo público, publicado por uma grande editora, e mas você passou por né uma história grande aí, por várias profissões. Queria que você contasse pra gente como que foi esse processo, o seu início e o seu gosto pela literatura, como é que você começou a se descobrir leitora, a se descobrir escritor, quem te como foram esses primeiros passos? Bom Maria,",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Escritor nascido em 1987 em Porto Alegre; publicou \"Vila Sapo\" e \"Os Sobredores\", finalista do Prêmio Jabuti 2022. Suas obras, publicadas pela Editora Todavia, apresentam linguagem viva e expressiva, retratando personagens comuns e realidade de favelas, impactados pelo abismo social e racial brasileiro. Agora, conversa com Maria Amélia.",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -55,7 +59,8 @@
       "summary": "Início humilde, múltiplas profissões, descobriu leitura e escrita gradualmente, apoio na família e amigos.",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -66,7 +71,8 @@
       "summary": "O autor começou a ler tarde em vida, influenciado por sua irmã que o encorajou a ler para formar opiniões sobre livros. Ele se tornou um leitor ávido e, posteriormente, começou a escrever suas próprias histórias em quadrinhos e, eventualmente, se tornou escritor. Seu primeiro livro publicado foi \"Vila Sapo\". Através de persistência e dedicação, o autor alcançou o sucesso literário.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -77,7 +83,8 @@
       "summary": "O entrevistador discute a escrita do entrevistado, comparando-a à de Rubem Fonseca e notando como o autor escreve sobre a violência urbana a partir da perspectiva da classe trabalhadora, em contraste com a perspectiva de classe média de Fonseca. O entrevistador questiona se isso reflete um novo Brasil e uma maior representação de pessoas da periferia não apenas como personagens, mas como protagonistas e autoras.",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -88,7 +95,8 @@
       "summary": "AUTOR reflete sobre acesso à literatura em comunidades desfavorecidas, como a sua em Porto Alegre, chamada Lomba do Piero. Ele observa falta de escolas e livrarias, afastamento proposital, e necessidade de políticas públicas para facilitar acesso e valorizar referências negras no debate intelectual. Apesar de progressos, muito a ser melhorado.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Sentido da vida, morte como realidade constante, e sofrimento na busca pela sobrevivência são temas frequentes na obra mencionada. A existência humana é retratada como uma luta sem fim em território hostil.",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -110,7 +119,8 @@
       "summary": "O autor explora sua realidade de periferia, retratando pessoas, sonhos e angústias, não se limitando a temas de violência e precariedade. Ele combina oralidade popular e linguagem formal, tendo abolicido sua postura linguística preconceituosa. Após conversas sobre linguagem como ferramenta de dominação, aproximou-se da oralidade, levando a um livro de estreia bem recebido. Valora contrastes linguísticos em sua obra, mantendo uma narrativa em terceira pessoa mais formal.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -121,7 +131,8 @@
       "summary": "Entrevistadora abordou linguagem do romance, classificação como tradução marxista, sua genialidade literária e crítica acadêmica. Resposta sobre leitura acadêmica e recepção da crítica desejada.",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -132,7 +143,8 @@
       "summary": "Autor discorda levemente com traduzir Marx para linguagem popular, sugerindo adaptar conceitos baseado na perspectiva e simbolismo dos indivíduos. Ele observa que pessoas da periferia são conscientes de sua exploração, mas às vezes carecem de esperança para mudar. O autor frequentemente usa letras de música em suas falas.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -143,7 +155,8 @@
       "summary": "Música, especialmente rap, ajudou entrevistador a se tornar escritor, influenciando sua trajetória enquanto lia e ouvia gênero ao mesmo tempo.",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -154,7 +167,8 @@
       "summary": "O autor, inspirado por Racionais MC's durante a adolescência e graças à internet, teve forte impacto em sua formação intelectual e subjetividade, sendo guia em sua visão de mundo, especialmente para aqueles sem figura paterna.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -164,7 +178,8 @@
       "transcription": "",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -175,7 +190,8 @@
       "summary": "Autor afirma conhecimento crescente com Jackson Tanório e Jeferson; revela ter descoberto recentemente outros escritores com dificuldades semelhantes; admite desconhecer eventos literários por longo tempo; menciona apoio de amigos escritores como Jefferson, Antônio Caetano e Marlon Pires Ramos; se descreve como autor marginal periférico.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -186,7 +202,8 @@
       "summary": "Entrevistador sugere que literatura brasileira pode ser relegada a segundo plano devido à falta de representação do povo em suas obras. Eleva Lima Barreto e outros autores que retratam o povo, questionando se o cânone atual será substituído por um novo.",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -197,7 +214,8 @@
       "summary": "Autor discute progressos na literatura, como acesso e publicação, mas menciona atraso em comparar ao apelo popular de músicas like samba e rap. Suge que literatura está em \"altar burguês\" e precisa ser \"arrancada dali\" e trazida ao povo. Menciona movimento Slam, que atrai multidões, especialmente jovens, e pode ser \"porta de entrada\" para outros gêneros literários. Autor acredita que Slam pode ser capaz de mudar a literatura em algum ponto no futuro.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -207,7 +225,8 @@
       "transcription": "",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     },
     {
@@ -218,7 +237,8 @@
       "summary": "Autor relata encontro de negócios entre pessoas com diferentes realidades em Vila Sapo; transação será feita à noite, com uso de advogado para garantir justiça.",
       "speaker": {
         "name": "JOSÉ FALERO",
-        "position": "AUTOR"
+        "position": "AUTOR",
+        "slug": "jose-falero"
       }
     },
     {
@@ -229,7 +249,8 @@
       "summary": "Entrevistador participa de encontro com leitores e autores, aprecia trabalho do entrevistado e espera próxima reunião.",
       "speaker": {
         "name": "BETO SEABRA",
-        "position": "ENTREVISTADOR"
+        "position": "ENTREVISTADOR",
+        "slug": "beto-seabra"
       }
     },
     {
@@ -240,7 +261,8 @@
       "summary": "Entrevistadora desejou sucesso em novos projetos e agradeceu a público por participar do debate.",
       "speaker": {
         "name": "MARIA AMÉLIA ELÓI",
-        "position": "ENTREVISTADORA"
+        "position": "ENTREVISTADORA",
+        "slug": "maria-amelia-eloi"
       }
     }
   ],

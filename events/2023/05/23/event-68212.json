@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Deputado Gilberto Silva, da Paraíba, fala em nome do estado na casa.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Lamento prisão presidente; declarações gen. Dutra envergonham forças armadas. Cassação Dep. Delagnol questionada, interferência poder judiciário no legislativo. Ministro Benedito Gonçalves, conhecido da Lava Jato, decisão contrária à própria corte. Afronta à democracia, apelo à mesa diretora para não aceitar decisão. Defender democracia, basta ativismo judicial.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Laura Carneiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-laura-carneiro"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 225386,
         "name": "Renan Ferreirinha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renan-ferreirinha"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -124,7 +133,8 @@
       "speaker": {
         "id": 225386,
         "name": "Renan Ferreirinha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renan-ferreirinha"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -159,7 +171,8 @@
       "summary": "Deputado critica achiques políticos, defende independência dos poderes e anuncia proposição contra abuso de autoridade do STF.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Laura Carneiro -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-laura-carneiro-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -171,7 +184,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -183,7 +197,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -195,7 +210,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -207,7 +223,8 @@
       "speaker": {
         "id": 205476,
         "name": "Charles Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "charles-fernandes"
       }
     },
     {
@@ -219,7 +236,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -231,7 +249,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -243,7 +262,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -255,7 +275,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -267,7 +288,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -279,7 +301,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -290,7 +313,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -302,7 +326,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -314,7 +339,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -326,7 +352,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -338,7 +365,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -350,7 +378,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -361,7 +390,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -373,7 +403,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -385,7 +416,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -397,7 +429,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -409,7 +442,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -421,7 +455,8 @@
       "speaker": {
         "id": 143942,
         "name": "Caio Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "caio-vianna"
       }
     },
     {
@@ -433,7 +468,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -445,7 +481,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -457,7 +494,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -469,7 +507,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -481,7 +520,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -493,7 +533,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -505,7 +546,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -517,7 +559,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -529,7 +572,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -541,7 +585,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -553,7 +598,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -565,7 +611,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -577,7 +624,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -589,7 +637,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -601,7 +650,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -613,7 +663,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -625,7 +676,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -637,7 +689,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -649,7 +702,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -661,7 +715,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -673,7 +728,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -685,7 +741,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -696,7 +753,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -708,7 +766,8 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
@@ -720,7 +779,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -732,7 +792,8 @@
       "speaker": {
         "id": 204367,
         "name": "Daniel Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-freitas"
       }
     },
     {
@@ -744,7 +805,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -756,7 +818,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -768,7 +831,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -780,7 +844,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -792,7 +857,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -804,7 +870,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -816,7 +883,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -828,7 +896,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -840,7 +909,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -852,7 +922,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -864,7 +935,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -876,7 +948,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -888,7 +961,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -900,7 +974,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -912,7 +987,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -924,7 +1000,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -936,7 +1013,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -948,7 +1026,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -960,7 +1039,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -972,7 +1052,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -984,7 +1065,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -996,7 +1078,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -1008,7 +1091,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1020,7 +1104,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -1032,7 +1117,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1044,7 +1130,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -1056,7 +1143,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1068,7 +1156,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1080,7 +1169,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1092,7 +1182,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -1104,7 +1195,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1116,7 +1208,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -1128,7 +1221,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1140,7 +1234,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -1152,7 +1247,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1164,7 +1260,8 @@
       "speaker": {
         "id": 220630,
         "name": "Pedro Aihara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-aihara"
       }
     },
     {
@@ -1176,7 +1273,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1188,7 +1286,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -1200,7 +1299,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1212,7 +1312,8 @@
       "speaker": {
         "id": 138286,
         "name": "Luciano Alves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-alves"
       }
     },
     {
@@ -1224,7 +1325,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1236,7 +1338,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -1248,7 +1351,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1260,7 +1364,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -1272,7 +1377,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1284,7 +1390,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1296,7 +1403,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1308,7 +1416,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -1320,7 +1429,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1332,7 +1442,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -1343,7 +1454,8 @@
       "summary": "Não simplificar drogas criminaliza tráfico; exemplos cigarro, bebidas alcoólicas; debate regulamentação Anvisa, importação matérias-primas; contra PL399/2006, sério ou engano; espera Supremo reconheça Brasil não estar preparedo lidar com essa questão.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Roberto Monteiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-roberto-monteiro"
       }
     },
     {
@@ -1354,7 +1466,8 @@
       "summary": "Pedido por política de juventude restauração e oportunidades, crítica à liberação de drogas e compaixão pelos necessitados.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Roberto Monteiro -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-roberto-monteiro-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -1366,7 +1479,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1378,7 +1492,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -1390,7 +1505,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1402,7 +1518,8 @@
       "speaker": {
         "id": 205476,
         "name": "Charles Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "charles-fernandes"
       }
     },
     {
@@ -1413,7 +1530,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1425,7 +1543,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -1437,7 +1556,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1449,7 +1569,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -1461,7 +1582,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1473,7 +1595,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1485,7 +1608,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1496,7 +1620,8 @@
       "summary": "Deputado diz estar revoltado por racismo a Vinicius Júnior na Espanha e quer ruptura com eles, comparando incidente a crucificação de Jesus e vendo em Vinicius um representante do Brasil e sua pele no mundo.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -1508,7 +1633,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1520,7 +1646,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1532,7 +1659,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1544,7 +1672,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -1556,7 +1685,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1568,7 +1698,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -1580,7 +1711,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1592,7 +1724,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1604,7 +1737,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1616,7 +1750,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -1628,7 +1763,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1640,7 +1776,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1652,7 +1789,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1664,7 +1802,8 @@
       "speaker": {
         "id": 204488,
         "name": "Célio Studart",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celio-studart"
       }
     },
     {
@@ -1676,7 +1815,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1687,7 +1827,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -1699,7 +1840,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1711,7 +1853,8 @@
       "speaker": {
         "id": 220627,
         "name": "Paulinho Freire",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulinho-freire"
       }
     },
     {
@@ -1723,7 +1866,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1735,7 +1879,8 @@
       "speaker": {
         "id": 220669,
         "name": "Lula da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lula-da-fonte"
       }
     },
     {
@@ -1747,7 +1892,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1759,7 +1905,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -1771,7 +1918,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1783,7 +1931,8 @@
       "speaker": {
         "id": 74574,
         "name": "Paulo Magalhães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-magalhaes"
       }
     },
     {
@@ -1794,7 +1943,8 @@
       "summary": "Rui Costa nomeado chefe de Casa Civil por Lula, ex-governador da Bahia, agora estabiliza e tranquiliza governo Lula; Jerônimo, governador atual da Bahia, continua trabalho; vitória é merecida e exemplo para Brasil.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Reinhold Stephanes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-reinhold-stephanes"
       }
     },
     {
@@ -1806,7 +1956,8 @@
       "speaker": {
         "id": 205865,
         "name": "Reinhold Stephanes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reinhold-stephanes"
       }
     },
     {
@@ -1818,7 +1969,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -1829,7 +1981,8 @@
       "speaker": {
         "id": 205865,
         "name": "Reinhold Stephanes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reinhold-stephanes"
       }
     },
     {
@@ -1841,7 +1994,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -1852,7 +2006,8 @@
       "speaker": {
         "id": 205865,
         "name": "Reinhold Stephanes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reinhold-stephanes"
       }
     },
     {
@@ -1864,7 +2019,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -1876,7 +2032,8 @@
       "speaker": {
         "id": 205865,
         "name": "Reinhold Stephanes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reinhold-stephanes"
       }
     },
     {
@@ -1888,7 +2045,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1899,7 +2057,8 @@
       "summary": "Lula twenty-two login, left's narratives inadequate against facts; Brazil heading towards Argentina's economy's destruction. Mention of biased Folha de São Paulo journalist calling SC \"fascist\" state; Brazil cannot endure this misgovernment, will be overthrown soon.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reinhold Stephanes -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reinhold-stephanes-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -1911,7 +2070,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1923,7 +2083,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -1935,7 +2096,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1947,7 +2109,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -1959,7 +2122,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1971,7 +2135,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1982,7 +2147,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1994,7 +2160,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -2006,7 +2173,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2018,7 +2186,8 @@
       "speaker": {
         "id": 205865,
         "name": "Reinhold Stephanes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reinhold-stephanes"
       }
     },
     {
@@ -2030,7 +2199,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2042,7 +2212,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -2054,7 +2225,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2066,7 +2238,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -2077,7 +2250,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2089,7 +2263,8 @@
       "speaker": {
         "id": 98148,
         "name": "Cobalchini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cobalchini"
       }
     },
     {
@@ -2101,7 +2276,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2113,7 +2289,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -2125,7 +2302,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2137,7 +2315,8 @@
       "speaker": {
         "id": 154178,
         "name": "Milton Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "milton-vieira"
       }
     },
     {
@@ -2149,7 +2328,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2161,7 +2341,8 @@
       "speaker": {
         "id": 74044,
         "name": "Wilson Santiago",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "wilson-santiago"
       }
     },
     {
@@ -2173,7 +2354,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2185,7 +2367,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -2197,7 +2380,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2209,7 +2393,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -2221,7 +2406,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2233,7 +2419,8 @@
       "speaker": {
         "id": 220696,
         "name": "Ivoneide Caetano",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ivoneide-caetano"
       }
     },
     {
@@ -2245,7 +2432,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2257,7 +2445,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -2269,7 +2458,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2281,7 +2471,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -2293,7 +2484,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2305,7 +2497,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2317,7 +2510,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2329,7 +2523,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -2341,7 +2536,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2353,7 +2549,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -2365,7 +2562,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2377,7 +2575,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -2389,7 +2588,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2401,7 +2601,8 @@
       "speaker": {
         "id": 225386,
         "name": "Renan Ferreirinha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renan-ferreirinha"
       }
     },
     {
@@ -2413,7 +2614,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2425,7 +2627,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -2437,7 +2640,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2449,7 +2653,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -2461,7 +2666,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2473,7 +2679,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -2485,7 +2692,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2497,7 +2705,8 @@
       "speaker": {
         "id": 220584,
         "name": "Murilo Galdino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murilo-galdino"
       }
     },
     {
@@ -2509,7 +2718,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2521,7 +2731,8 @@
       "speaker": {
         "id": 98615,
         "name": "Ismael",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael"
       }
     },
     {
@@ -2533,7 +2744,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2545,7 +2757,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2557,7 +2770,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2569,7 +2783,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -2581,7 +2796,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2593,7 +2809,8 @@
       "speaker": {
         "id": 220584,
         "name": "Murilo Galdino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murilo-galdino"
       }
     },
     {
@@ -2605,7 +2822,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2617,7 +2835,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -2629,7 +2848,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2641,7 +2861,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2653,7 +2874,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2665,7 +2887,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -2677,7 +2900,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2689,7 +2913,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -2701,7 +2926,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2713,7 +2939,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -2725,7 +2952,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2737,7 +2965,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2749,7 +2978,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2761,7 +2991,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -2773,7 +3004,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2785,7 +3017,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -2797,7 +3030,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2809,7 +3043,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -2821,7 +3056,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2833,7 +3069,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -2845,7 +3082,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2857,7 +3095,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2869,7 +3108,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2881,7 +3121,8 @@
       "speaker": {
         "id": 220641,
         "name": "Rodrigo Gambale",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-gambale"
       }
     },
     {
@@ -2893,7 +3134,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2905,7 +3147,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -2916,7 +3159,8 @@
       "summary": "\"Alerta sobre importância de prevenção para salvar vidas durante pandemia; deseja registro da fala.\"",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-arthur-lira"
       }
     },
     {
@@ -2928,7 +3172,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2938,7 +3183,8 @@
       "transcription": "Senhor presidente, com base",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -2950,7 +3196,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2962,7 +3209,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2974,7 +3222,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -2986,7 +3235,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2998,7 +3248,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -3010,7 +3261,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3022,7 +3274,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -3034,7 +3287,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3046,7 +3300,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -3057,7 +3312,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3069,7 +3325,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3080,7 +3337,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3092,7 +3350,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -3104,7 +3363,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3116,7 +3376,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -3127,7 +3388,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3139,7 +3401,8 @@
       "speaker": {
         "id": 136811,
         "name": "Afonso Hamm",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-hamm"
       }
     },
     {
@@ -3151,7 +3414,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3163,7 +3427,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -3174,7 +3439,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3185,7 +3451,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -3196,7 +3463,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3208,7 +3476,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -3219,7 +3488,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3231,7 +3501,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -3242,7 +3513,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3254,7 +3526,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -3265,7 +3538,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3277,7 +3551,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -3289,7 +3564,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3301,7 +3577,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -3312,7 +3589,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3324,7 +3602,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -3335,7 +3614,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3347,7 +3627,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -3359,7 +3640,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3371,7 +3653,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -3382,7 +3665,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3394,7 +3678,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -3405,7 +3690,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3417,7 +3703,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -3429,7 +3716,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3441,7 +3729,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -3453,7 +3742,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3465,7 +3755,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -3476,7 +3767,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3488,7 +3780,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -3499,7 +3792,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3511,7 +3805,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3522,7 +3817,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3534,7 +3830,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -3545,7 +3842,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3557,7 +3855,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -3569,7 +3868,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3581,7 +3881,8 @@
       "speaker": {
         "id": 198783,
         "name": "Emanuel Pinheiro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emanuel-pinheiro-neto"
       }
     },
     {
@@ -3592,7 +3893,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3604,7 +3906,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -3615,7 +3918,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3627,7 +3931,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -3639,7 +3944,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3650,7 +3956,8 @@
       "summary": "Votação iniciada. Todos no plenário votaram. Líder pediu tempo da fala para ser usado na votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -3662,7 +3969,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -3673,7 +3981,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3684,7 +3993,8 @@
       "summary": "Votação: 15542 contra, 2 a favor; requerimento rejeitado. Debate sobre projeto, Cláudio Cajado discursa; atenção pedida.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -3695,7 +4005,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -3706,7 +4017,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3718,7 +4030,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -3729,7 +4042,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3741,7 +4055,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -3753,7 +4068,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3765,7 +4081,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -3776,7 +4093,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3788,7 +4106,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -3799,7 +4118,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3811,7 +4131,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -3822,7 +4143,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3834,7 +4156,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -3845,7 +4168,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3857,7 +4181,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -3869,7 +4194,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3881,7 +4207,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -3892,7 +4219,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3904,7 +4232,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3915,7 +4244,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3927,7 +4257,8 @@
       "speaker": {
         "id": 122158,
         "name": "Pedro Paulo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-paulo"
       }
     },
     {
@@ -3939,7 +4270,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3951,7 +4283,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -3962,7 +4295,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3974,7 +4308,8 @@
       "speaker": {
         "id": 220601,
         "name": "Washington Quaquá",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "washington-quaqua"
       }
     },
     {
@@ -3985,7 +4320,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -3997,7 +4333,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -4009,7 +4346,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4021,7 +4359,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -4032,7 +4371,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4044,7 +4384,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -4056,7 +4397,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4066,7 +4408,8 @@
       "transcription": "Senhor presidente, senhor presidente, nosso voto sim. Temos a plena certeza de",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4078,7 +4421,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4089,7 +4433,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4101,7 +4446,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -4112,7 +4458,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4124,7 +4471,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -4135,7 +4483,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4147,7 +4496,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -4158,7 +4508,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4170,7 +4521,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4181,7 +4533,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4193,7 +4546,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -4204,7 +4558,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4216,7 +4571,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -4227,7 +4583,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4239,7 +4596,8 @@
       "speaker": {
         "id": 198783,
         "name": "Emanuel Pinheiro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emanuel-pinheiro-neto"
       }
     },
     {
@@ -4251,7 +4609,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4262,7 +4621,8 @@
       "summary": "Votação encerrada; 370, não 105; discusso e encaminhado; projeto emendado para comissões de finanças, constituição e justiça; permissão dada à fala do deputado Cláudio Cajado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4274,7 +4634,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -4286,7 +4647,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4298,7 +4660,8 @@
       "speaker": {
         "id": 72442,
         "name": "Felipe Carreras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-carreras"
       }
     },
     {
@@ -4309,7 +4672,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4321,7 +4685,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4333,7 +4698,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4343,7 +4709,8 @@
       "transcription": "Federação, o PL, desculpe da líder. Presidente, é sim, pessoal.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4355,7 +4722,8 @@
       "speaker": {
         "id": 178937,
         "name": "Altineu Côrtes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "altineu-cortes"
       }
     },
     {
@@ -4366,7 +4734,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4378,7 +4747,8 @@
       "speaker": {
         "id": 160592,
         "name": "Zeca Dirceu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zeca-dirceu"
       }
     },
     {
@@ -4390,7 +4760,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4402,7 +4773,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -4413,7 +4785,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4425,7 +4798,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -4436,7 +4810,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4448,7 +4823,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -4459,7 +4835,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4471,7 +4848,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -4482,7 +4860,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4494,7 +4873,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -4505,7 +4885,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4517,7 +4898,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -4529,7 +4911,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4541,7 +4924,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -4552,7 +4936,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4564,7 +4949,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -4575,7 +4961,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4586,7 +4973,8 @@
       "summary": "Votação em andamento, emendas rejeitadas a menos que salvadas em destaques. Blocos forneceram orientações de votação contrárias ao relator. Prestar atenção à orientação de cada bancada e de deputados específicos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4596,7 +4984,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4608,7 +4997,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -4620,7 +5010,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4632,7 +5023,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4643,7 +5035,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4655,7 +5048,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -4666,7 +5060,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4678,7 +5073,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -4689,7 +5085,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4701,7 +5098,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -4713,7 +5111,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4724,7 +5123,8 @@
       "summary": "Votação finalizou com 123 emendas rejeitadas. Aprovação do texto agradece contribuições equilibradas de líderes. Espera-se voto de destaques em 20 minutos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -4736,7 +5136,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -4748,7 +5149,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4760,7 +5162,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -4772,7 +5175,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4784,7 +5188,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -4796,7 +5201,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4807,7 +5213,8 @@
       "summary": "Votação iniciada, maioria favorável a manutenção do texto, orientações de MDB, Republicanos, PSD, e Partido Liberal, incluindo deputado Fraga.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -4819,7 +5226,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -4831,7 +5239,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4843,7 +5252,8 @@
       "speaker": {
         "id": 160592,
         "name": "Zeca Dirceu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zeca-dirceu"
       }
     },
     {
@@ -4854,7 +5264,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4866,7 +5277,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -4877,7 +5289,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4889,7 +5302,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -4900,7 +5314,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4912,7 +5327,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -4923,7 +5339,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4935,7 +5352,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -4947,7 +5365,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -4958,7 +5377,8 @@
       "summary": "Sessão terminada; 429 a favor, 20 contra e 1 abstenção; Ordem do dia: MP 115/22 e PLC 93/23 para deliberação em 24/05 às 13h55; Emendas e requerimentos permitidos a partir das 9h do mesmo dia.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

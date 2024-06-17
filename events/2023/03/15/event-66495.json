@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Enquanto",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -85,7 +91,8 @@
       "transcription": "Passemos a apuração.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Novo participante (Romero Rodrigues) se apresenta e propõe foto de boas-vindas com deputados.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Carlos Gomes -- por Participante -- Romero Rodrigues",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-carlos-gomes-por-participante-romero-rodrigues"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220660,
         "name": "Yury do Paredão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "yury-do-paredao"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -179,7 +193,8 @@
       "summary": "Deputado elogiado por experiência e nomeação à presidência da Comissão do Turismo, que se destaca por eficiência e atividade em ajudar setor afetado pela pandemia, criando empregos e renda em todo país. Parabéns merecidos por trajetória e capacidade.",
       "speaker": {
         "name": "Tiago Dimas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiago-dimas"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     }
   ],

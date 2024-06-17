@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "\"Vertage de duzent\": obra de arte com complexa utilização de conceitos físicos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Chamar atenção para que esse",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -157,7 +169,8 @@
       "summary": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR destaca importância de atender crianças em primeira infância e reduzir violências institucionais em delegacias. Falta efetividade em políticas públicas relacionadas à infância. Projeto apresentado prioriza acolhimento e confiança entre crianças e polícia, com estruturas adequadas e capacitação constante.",
       "speaker": {
         "name": "Wilkinson Fabiano Oliveira de Arruda",
-        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR"
+        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR",
+        "slug": "wilkinson-fabiano-oliveira-de-arruda"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -204,7 +220,8 @@
       "summary": "Discurso do Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR se concentra na responsabilidade penal como forma de justiça, não de problema resolução. Ele sugere considerar um meio termo para adolescentes entre 15 e 18 anos que cometem crimes hediondos ou graves, além de uma reforma no regime de internação atual para que adolescentes possam ser responsabilizados por crimes graves com medidas mais eficazes do que as atuais, sem recorrer ao sistema penitenciário atual.",
       "speaker": {
         "name": "Wilkinson Fabiano Oliveira de Arruda",
-        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR"
+        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR",
+        "slug": "wilkinson-fabiano-oliveira-de-arruda"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -299,7 +323,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -311,7 +336,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -323,7 +349,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -334,7 +361,8 @@
       "summary": "Juiz de Direito do Tribunal de Justiça de Goiás destaca importância de primeira infância em segurança pública, com foco em apoio inicial, evitação de estresse tóxico, desenvolvimento de competências essenciais, relacionamentos responsivos e impactos econômicos positivos. Em Goiás, há um programa de cuidado para filhos de mães presas contra criminalidade infantojuvenil.",
       "speaker": {
         "name": "Fernando Augusto Chacha de Rezende",
-        "position": "Juiz de Direito - Tribunal de Justiça de Goiás"
+        "position": "Juiz de Direito - Tribunal de Justiça de Goiás",
+        "slug": "fernando-augusto-chacha-de-rezende"
       }
     },
     {
@@ -346,7 +374,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -358,7 +387,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -370,7 +400,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -382,7 +413,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -394,7 +426,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -406,7 +439,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -418,7 +452,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -429,7 +464,8 @@
       "summary": "Polícia Civil de Goiás valoriza proteção de crianças e adolescentes. A unidade de Goiânia possui estrutura adequada e setor psicossocial para ajudar. Dois projetos inovadores lidam com a primeira infância, envolvendo médicos pediatras em estágio. Parceria com a Secretaria de Educação forma professores a identificar sinais de violência. Combate à violência requer uma rede e permite que vítimas vivam com dignidade e normalidade.",
       "speaker": {
         "name": "Mariza Mendes Cesar",
-        "position": "Delegada da Delegacia de Proteção à Criança e ao Adolescente - DPCA - Subsecretaria de Segurança Pública do Estado de Goiás"
+        "position": "Delegada da Delegacia de Proteção à Criança e ao Adolescente - DPCA - Subsecretaria de Segurança Pública do Estado de Goiás",
+        "slug": "mariza-mendes-cesar"
       }
     },
     {
@@ -441,7 +477,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -453,7 +490,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -465,7 +503,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -476,7 +515,8 @@
       "summary": "Coordenador Geral de Políticas de Prevenção à Violência e Criminalidade - Senasp destaca importância de prevenção, especialmente em crianças e adolescentes, com foco na Lei 13.575 e metas de redução de crimes no plano nacional de segurança pública. Estratégia inclui investimentos em segurança escolar, programas de prevenção e centros comunitários de paz em áreas vulneráveis. Governo federal disposto ao debate e contribuição para prevenção à violência.",
       "speaker": {
         "name": "Leandro Arbogast da Cunha",
-        "position": "Coordenador Geral de Políticas de Prevenção à Violência e a Criminalidade - Secretaria Nacional de Segurança Pública - Senasp"
+        "position": "Coordenador Geral de Políticas de Prevenção à Violência e a Criminalidade - Secretaria Nacional de Segurança Pública - Senasp",
+        "slug": "leandro-arbogast-da-cunha"
       }
     },
     {
@@ -488,7 +528,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -500,7 +541,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -512,7 +554,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -524,7 +567,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -536,7 +580,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -548,7 +593,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -560,7 +606,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -572,7 +619,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -584,7 +632,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -594,7 +643,8 @@
       "transcription": "Presidente. Sim, só pro senhor fazer a sua.",
       "speaker": {
         "name": "Wilkinson Fabiano Oliveira de Arruda",
-        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR"
+        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR",
+        "slug": "wilkinson-fabiano-oliveira-de-arruda"
       }
     },
     {
@@ -605,7 +655,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -616,7 +667,8 @@
       "summary": "Segurança é essencial em tudo; crianças necessitam de forças de segurança protegendo a primeira infância. Graças por convite, honrado por contribuir em debates enriquecedores. Agradece a colaboradores e autoridades. Disponível.",
       "speaker": {
         "name": "Wilkinson Fabiano Oliveira de Arruda",
-        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR"
+        "position": "Delegado de Polícia - Delegacia Amiga da Criança - Marmeleiro - PR",
+        "slug": "wilkinson-fabiano-oliveira-de-arruda"
       }
     },
     {
@@ -628,7 +680,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -639,7 +692,8 @@
       "summary": "Delegada da DPCA agradece oportunidade de aprender com conteúdo rico, compartilha iniciativas inovadoras da polícia civil de Goiás e se oferece para participar de futuras palestras e comissões para combater eficazmente a violência contra crianças e adolescentes.",
       "speaker": {
         "name": "Mariza Mendes Cesar",
-        "position": "Delegada da Delegacia de Proteção à Criança e ao Adolescente - DPCA - Subsecretaria de Segurança Pública do Estado de Goiás"
+        "position": "Delegada da Delegacia de Proteção à Criança e ao Adolescente - DPCA - Subsecretaria de Segurança Pública do Estado de Goiás",
+        "slug": "mariza-mendes-cesar"
       }
     },
     {
@@ -651,7 +705,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -662,7 +717,8 @@
       "summary": "Juiz de Direito - Tribunal de Justiça de Goiás agradeceu e parabenizou os presentes, destacando a importância do engajamento na primeira infância para efetivar a segurança pública. Ele encorajou a comissão parlamentar a selecionar o que é mais importante para alcançar os principais resultados, seguindo o princípio de Pareto (20/80).",
       "speaker": {
         "name": "Fernando Augusto Chacha de Rezende",
-        "position": "Juiz de Direito - Tribunal de Justiça de Goiás"
+        "position": "Juiz de Direito - Tribunal de Justiça de Goiás",
+        "slug": "fernando-augusto-chacha-de-rezende"
       }
     },
     {
@@ -674,7 +730,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

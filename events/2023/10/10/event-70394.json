@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Tino Neto, a fim de proceder à deliberação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Silvia Cristina -- por Participante -- Florentino Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-silvia-cristina-por-participante-florentino-neto"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Deputada Silvia Cristina.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Florentino Neto -- por Participante -- Silvia Cristina",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-florentino-neto-por-participante-silvia-cristina"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     }
   ],

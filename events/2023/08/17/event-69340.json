@@ -17,7 +17,8 @@
       "summary": "Deputado abre reunião extraordinária de CPI para investigar grupo \"Movimento dos Trabalhadores Sem Terra\"; disponibiliza ata da reunião anterior e sinopse do expediente na página da internet da comissão; convida Ministro de Agricultura para audiência pública; estabelece regras para audiência, concedendo 20 minutos de fala ao convidado e 30 minutos ao relator para interpelações.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária agradece convite, hoje convocação, para comparecer à comissão. Mencionou compromisso com Jaika para projeto de apoio à conversão de pastagens degradadas e plano de recuperação para produtores rurais do Rio Grande do Sul. Cancelou viagem para dia nacional do Campo Limpo. Pede foco no tema específico da comissão, mas está disponível para outros assuntos em futuros convites.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Deputado propõe ajustar tempos de débate para liberar ministro às 11h. Acordo é fazer o mais rápido possível e evitar obstruções. Inscrições de parlamentares serão encerradas.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "Deputado fala sobre ordem de fala no debate, relator Ricardo Sales será o primeiro a falar, depois o deputado Evair Vieira de Melo terá a palavra.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária cresceu perto de Centenário do Sul, mudou-se para Mato Grosso, onde vivia em reforma agrária, agora é ministro; elogia sucesso de Movimento sem Terra em Centenário do Sul com cooperativas e produção sustentável de soja não transgênica, incentiva o fim do preconceito contra este movimento social.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária considera legítimo reivindicar dentro da democracia e lei, mas invasão não se justifica.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -128,7 +138,8 @@
       "transcription": "Eu não defendo com improviso de propriedade. A lei não permite e não deve ser feita. Portanto qualquer",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -150,7 +162,8 @@
       "transcription": "Culpado dessa forma.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária: Reivindicar terra devoluta legal, entrada permitida.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -194,7 +210,8 @@
       "transcription": "Reivindicar a terra devoluta legítimo. Não desculpe.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -216,7 +234,8 @@
       "transcription": "Da mesma forma que",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -228,7 +247,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -239,7 +259,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária permite reivindicação, mas invasações têm consequências.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -251,7 +272,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -262,7 +284,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -273,7 +296,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -284,7 +308,8 @@
       "summary": "Deputado solicita breve resposta do ministro, com permissão do relator. Aguarda opiniões dos senhores.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária afirma direito à propriedade legítimo, contra invasões à propriedade privada e pública, e informa encerramento de inscrições no Infoleg, com último escrito pertencente ao deputado Domingos Sávio.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -319,7 +346,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -330,7 +358,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária fala a favor da ciência, especialmente no desenvolvimento da agricultura brasileira. Desde 1974, a área de agricultura brasileira cresceu 140% graças à criação da Embrapa e ao uso de tecnologias modernas e eficientes, incluindo transgênicos. Promove uso de transgênicos e não-transgênicos para atender diferentes mercados e mantém suporte à pesquisa da Embrapa.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -342,7 +371,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -353,7 +383,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária fala sobre discussão de MST e reforma agrária, oferece-se para discutir transgênicos se convidado.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -365,7 +396,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -376,7 +408,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária disposto a debater sobre reforma agrária e outros assuntos da agropecuária no Congresso Nacional, incluindo transgenia. Mencionou CPI e pedido de ordem.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -399,7 +433,8 @@
       "summary": "Deputado pede breve tempo para falar, cita alguns colegas e permite a deputada Carol falar antes de responder.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -411,7 +446,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -422,7 +458,8 @@
       "summary": "Deputado sobre a demora da sessão: há acordo de não atrasar, ministro convidado não obrigado a responder, poderá ser novamente convocado. Agora o relator, Senhor Ricardo Saci.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -434,7 +471,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -445,7 +483,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária defende proteção e preservação daqueles que cultivam legalmente e pacificamente, rejeitando invasões de propriedades.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -457,7 +496,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -468,7 +508,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária abordou direitos de posse e regularização de terra. Defende prioridade de uso histórico e produção agrícola legal. Sua família nunca foi beneficiária da reforma agrária, mas adquiriu legalmente terra perto de um assentamento, com regularização em limites permitidos por lei. Promove garantia de posse sem risco de invasão ou precariedade.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -480,7 +521,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -491,7 +533,8 @@
       "summary": "Deputado insiste em repetir sua posição, deseja continuar sessão e defende ministro contra críticas. Advierte assessores a não interromper. Ameaça em expulsar qualquer assessor que falar fora de vez. Irá continuar com perguntas.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -503,7 +546,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -513,7 +557,8 @@
       "transcription": "Agricultura,",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -525,7 +570,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -536,7 +582,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária afirma que Aprosoja, entidade que ajudou a fundar, se politizou e perdeu legitimidade nos temas e na forma de conduzir. Sente tristeza pelos caminhos que a entidade tomou.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -548,7 +595,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -559,7 +607,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária fala sobre apoio à agropecuária legal e sustentável no Brasil, destacando o maior Plano Safra da história e o compromisso de continuar assim. Menos de 2% dos produtores cometem crimes e exemplos de produção sustentável em áreas de fronteira existem. Aqueles que desmatam ou queimam ilegalmente devem ser punidos.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -570,7 +619,8 @@
       "summary": "Deputado informa sobre pedidos de fala de outros deputados e redução de tempo de líderança e fala para ouvir relator.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -582,7 +632,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -593,7 +644,8 @@
       "summary": "Deputado critica MST por invasões e abusos, pede cumprimento de leis; refere ligação do ministro Fávaro ao MST e cita exemplo de vítima sem corroboração da bancada feminina.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -605,7 +657,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -616,7 +669,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária: pediu que posição seja transmitida ao presidente Lula, referente a conversa com ministro Paulo Teixeira.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -628,7 +682,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -638,7 +693,8 @@
       "transcription": "Deputado Evair, por dez minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -650,7 +706,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -661,7 +718,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária reconhece legitimidade da luta pela terra do MST, tem amigos no movimento e respeita-os.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -673,7 +731,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -684,7 +743,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária enfatizou a importância de combater crimes com rigor da lei.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -696,7 +756,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -707,7 +768,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária nega ser amigo do MST, critica queima de floresta em seu estado.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -719,7 +781,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -729,7 +792,8 @@
       "transcription": "Com os senhores da lei. Então estou avisando, os seus amigos estão é melhor se afastar dessa gente.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -740,7 +804,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -751,7 +816,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária enfatizou a importância de punir crimes, independentemente de quem os cometa, mas considera aqueles que atuam de forma honesta como amigos.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -762,7 +828,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -773,7 +840,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária visitou indústria de equipamentos agrícolas, impressionado com modelo de pequenas propriedades e tecnologia avançada da agricultura chinesa, optando por continuar direto na agenda com Martinho.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -784,7 +852,8 @@
       "summary": "Deputado insiste em cumprir acordo e regime, apesar dificuldades.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -796,7 +865,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -807,7 +877,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária se defende, afirma que o governo é democrático, aberto ao diálogo e inclusivo, contraste com STF e Ester. Nega calote de empresários.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -818,7 +889,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -828,7 +900,8 @@
       "transcription": "O senhor sabia que o MST participou da campanha ao seu lado, o senhor e o MST.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -840,7 +913,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -851,7 +925,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária afirmou que menos de 2% de fazendeiros depositam correctamente dados, contradizendo registro obrigatório.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -863,7 +938,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -873,7 +949,8 @@
       "transcription": "Detalhar os planos safra aqui eu venho com o maior prazer. Perfeito. O ministro Darren disse que o senhor não tratou de",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -885,7 +962,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -896,7 +974,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária se refere à sua infância em uma pequena gleba em uma comunidade formada por assentamentos de reforma agrária, e expressa interesse em buscar glebas adicionais no futuro.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -907,7 +986,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -917,7 +997,8 @@
       "transcription": "Não, eu não. O senhor tem propriedades?",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -929,7 +1010,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -939,7 +1021,8 @@
       "transcription": "São fã de ar por uso campeão e a minha filha fez a regularização fez o preto a regularização está regularizado. Então vocês",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -951,7 +1034,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -962,7 +1046,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária relatou entrada em área por interesse familiar, ocorrida por volta de 2010.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -973,7 +1058,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -983,7 +1069,8 @@
       "transcription": "Anos ela, nós compramos o direito pro acessório e fizemos regularização dentro da lei. Vocês ocuparam essa área.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -995,7 +1082,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -1006,7 +1094,8 @@
       "summary": "Movimentos pela felicidade e bem-estar dignos de respeito, se dentro da lei e ordem democrática. Legítimo sonhar em casa própria, educação superior e terra para produzir. Apoio a MST se atuarem corretamente, contra se não.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1018,7 +1107,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -1028,7 +1118,8 @@
       "transcription": "Ele vai fazer. Ok.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1038,7 +1129,8 @@
       "transcription": "Só aproveitar a resposta.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1050,7 +1142,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -1061,7 +1154,8 @@
       "summary": "Ministro de Estado do Ministério da Agricultura e Pecuária afirmou que não é necessária invasão de terras, mas sim utilização de terras públicas disponíveis para reforma agrária por meio do diálogo e da legalidade.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1073,7 +1167,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -1084,7 +1179,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária avaliou desocupação da Suzano, promoveu diálogo permanente, estruturou criação de banco de dados de propriedades públicas, encorajou partilha e retomada do plano de reforma agrária, sem necessidade de invasão.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1096,7 +1192,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -1107,7 +1204,8 @@
       "summary": "Liderança reduzirá tempo de fala; Deputada Carol terá 3min e 35s, em vez de 7min. Discurso continuará sem interrupção.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1119,7 +1217,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1130,7 +1229,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária relata apoio à reforma agrária, destacando apoio do presidente Lula e movimento \"marcha das Margaridas\" para acontecer dentro do INCRA.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1142,7 +1242,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1153,7 +1254,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária destacou a importância do título de propriedade para agricultura brasileira, produzir alimentos sem ele é precário.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1165,7 +1267,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1176,7 +1279,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária focou na convergência para melhorar ambiente produtores, discutindo uso de pesticidas, transgênicos e mercados remunerativos.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1187,7 +1291,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1198,7 +1303,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária afirmou necessidade de uso de pesticidas em agricultura para preservar lavouras e garantir nicho de mercado.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1210,7 +1316,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1221,7 +1328,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária participou de reuniões sobre banco de terras para reforma agrária, presente quando presidente determinou sua criação, seguindo relatório.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1233,7 +1341,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1244,7 +1353,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária abordou CPI, utilização de ciência para calendarizar plantio de soja, diferentes datas para plantio em diferentes regiões do Brasil, e pedidos de calendarizações sendo feitos de forma técnica e personalizada a cada região. Espera resposta sobre o assunto.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1255,7 +1365,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1266,7 +1377,8 @@
       "summary": "Tempo reduzido para orador seguinte, deputado Lucas Redcker passa de 10 para 5 minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1278,7 +1390,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -1289,7 +1402,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária defende direito de propriedade, anuncia interesse de investimento japonês em agropecuária brasileira, promete atenção a endividamento de produtores no Rio Grande do Sul, discute calendarização de plantio de soja de acordo com realidade climática regional, zela por atender necessidades do Rio Grande do Sul sem negligenciar o restante do Paraná.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1300,7 +1414,8 @@
       "summary": "Deputado pede focus na pauta da CPI, limita duração de discursos, cede tempo a Crisóstomo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1312,7 +1427,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1322,7 +1438,8 @@
       "transcription": "Porque eles estavam realmente cometendo",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1334,7 +1451,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1344,7 +1462,8 @@
       "transcription": "Está dez segundos ali Estou sendo bem tranquilo ministro, né? Eu também. Ok.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1356,7 +1475,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1366,7 +1486,8 @@
       "transcription": "Assuncao o senhor tem três minutos deputado.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1378,7 +1499,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -1388,7 +1510,8 @@
       "transcription": "Do. Não. Com a palavra o deputado Zé Trovão por três minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1400,7 +1523,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1411,7 +1535,8 @@
       "summary": "Deputado fala de importância da fala de ministro e pedido de tempo por outro deputado.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1423,7 +1548,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -1433,7 +1559,8 @@
       "transcription": "Obrigado. Com a palavra capitão Alden por três minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1445,7 +1572,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -1455,7 +1583,8 @@
       "transcription": "Ok com a palavra agora por três minutos deputado Marcon. Presidente, nova relatora Caroline. E aí",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1467,7 +1596,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -1477,7 +1607,8 @@
       "transcription": "Deputado Alencar Santana.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1489,7 +1620,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -1499,7 +1631,8 @@
       "transcription": "Deputado Zé Aroldo, deputado o senhor tem quatro minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1511,7 +1644,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -1522,7 +1656,8 @@
       "summary": "Deputado fala sobre discursos de parlamentares, três ausências mencionadas.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1534,7 +1669,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -1544,7 +1680,8 @@
       "transcription": "O seu questionamento vai responder com a palavra deputado Domingos Sávio por três minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1556,7 +1693,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -1566,7 +1704,8 @@
       "transcription": "A última inscrição, deputado Messias também, seus três minutos. Senhor presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1578,7 +1717,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -1589,7 +1729,8 @@
       "summary": "Deputado agradece presentia ministro e parlamentares; destaca importância de diálogo em democracia; anuncia apresentação de relatório com soluções para problemas relacionados a crimes. Obrigado ministro por disponibilidade e agenda ocupada.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1600,7 +1741,8 @@
       "summary": "Ministro de Estado - Ministério da Agricultura e Pecuária defende reforma agrária efetiva, com investigação rigorosa de crimes, suporte a agricultura familiar e aumento de produção agrícola, visando uma agropecuária forte com geração de emprego e oportunidades.",
       "speaker": {
         "name": "CARLOS HENRIQUE BAQUETA FÁVARO",
-        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária"
+        "position": "Ministro de Estado - Ministério da Agricultura e Pecuária",
+        "slug": "carlos-henrique-baqueta-favaro"
       }
     },
     {
@@ -1611,7 +1753,8 @@
       "summary": "Deputado reafirma compromisso com verdade e avanço da CPI, trazerá mais segurança jurídica e deseja reforma agrária constitucional e moral dentro da constituição. Sessão encerrada.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     }
   ],

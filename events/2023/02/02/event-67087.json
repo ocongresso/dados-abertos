@@ -17,7 +17,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Lideranças partidárias nomeiam candidatos a ministro do TCU conforme constituição e decreto. Três candidatos habilitados: Deputada Soraya Santos, Deputado Jonathan de Jesus, e Senhor Fábio Ramalho. Debate em plenário por falta de comissões permanentes. Décio Neves dá voz a oradores por 10 minutos, iniciando com Deputada Soraya Santos. Questão de ordem do Deputado Marcelo Vanrada sobre problemas técnicos com microfone.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 160531,
         "name": "Jhonatan de Jesus",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jhonatan-de-jesus"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -133,7 +143,8 @@
       "summary": "Participante fala de seu serviço à casa há 16 anos, seu compromisso com a palavra e justiça, experience em liderança, valores de humildade, dignidade e amor, e requer apoio para continuar servindo no Tribunal de Contas em Brasília.",
       "speaker": {
         "name": "Fábio Ramalho",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fabio-ramalho"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "summary": "decisão presidência, discussão eleição ministro Tribunal Contas, necessita tramitação Comissão Finanças e Tributação, mas ainda não instalada; determina adoção rito excepcional para escolha ministro Tribunal Contas, sem prejuízo; responde questão de ordem.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 221328,
         "name": "Adilson Barroso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "adilson-barroso"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -224,7 +242,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Marcos Pereira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-marcos-pereira"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Líders, contate Florêncio para comparecer na mesa. Pereira solicita apoio de líderes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcos Pereira -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcos-pereira-por-participante-arthur-lira"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -282,7 +305,8 @@
       "summary": "Nova votação realizada; Soraia Santos recebe 75 votos, Fábio Ramalho recebe 174 votos e Jonatas de Jesus é eleito novo ministro do Tribunal de Contas com apoio majoritário. Projeto é transmitido ao Senado Federal; sessão é fechada.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     }
   ],

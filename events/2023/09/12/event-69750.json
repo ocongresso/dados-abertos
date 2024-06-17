@@ -18,7 +18,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ex-Presidente do Banco Central abordou importância de orçamento em três dimensões: macroeconomia, com ênfase em responsabilidade fiscal e juros baixos; produtividade, com eficiente alocação de gastos públicos; equidade, por meio de visão estratégica para prioridades nacionais e mobilidade social.",
       "speaker": {
         "name": "Armínio Fraga",
-        "position": "Ex-Presidente - Banco Central"
+        "position": "Ex-Presidente - Banco Central",
+        "slug": "arminio-fraga"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretário do Tesouro Nacional - Ministério da Fazenda enfatiza importância de novo marco fiscal para estabilidade macroeconômica, atrair investimentos e garantir crescimento sustentável. Novo marco fiscal prevê limite à despesa pública e associação à receita, com metas de resultado primário para estabilizar dívida. Equipe econômica também trabalha para recompor base fiscal e alcançar equidade social.",
       "speaker": {
         "name": "Rogério Ceron",
-        "position": "Secretário do Tesouro Nacional - Ministério da Fazenda"
+        "position": "Secretário do Tesouro Nacional - Ministério da Fazenda",
+        "slug": "rogerio-ceron"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Deputado Federal - Câmara dos Deputados insta governo a garantir receitas para sustentabilidade fiscal, evitando gastos sem previsão de receita e eficientizando arrecadação. LDO fundamental para fortalecer marco fiscal, prevenir riscos e incertezas. Deputado confiante no governo dar sustentação ao regime fiscal.",
       "speaker": {
         "name": "Claudio Cajado",
-        "position": "Deputado Federal - Câmara dos Deputados"
+        "position": "Deputado Federal - Câmara dos Deputados",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Secretário de Orçamento Federal destaca evolução para regime fiscal sustentável, com discussão positiva no executivo e Congresso. Novo modelo cobre 96% da despesa primária orçamentária, com foco na clareza metodológica e neutralidade, incorporando orçamentação médio prazo e revisão do gasto, visando maior clareza sobre o espaço fiscal e alinhamento com práticas internacionais para perpetuar a regra.",
       "speaker": {
         "name": "Paulo Bijos",
-        "position": "Secretário de Orçamento Federal - Ministério do Planejamento"
+        "position": "Secretário de Orçamento Federal - Ministério do Planejamento",
+        "slug": "paulo-bijos"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Diretor Executivo - Instituição Fiscal Independente - IFI afirma necessity de âncora fiscal para controlar déficit fiscal e dívida, evitando inflação, altos juros e recessão. O Brasil tem histórico ruim de controle fiscal, com déficit acumulado desde 2014. A nova estrutura fiscal busca disciplinar gastos e aumentar receitas, porém enfrenta desafios como aprovação parlamentar e possível erosão da base de cálculo, podendo levar a judicializações e contingenciamento de gastos.",
       "speaker": {
         "name": "Marcus Pestana",
-        "position": "Diretor Executivo - Instituição Fiscal Independente - IFI"
+        "position": "Diretor Executivo - Instituição Fiscal Independente - IFI",
+        "slug": "marcus-pestana"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Dívidas públicas excessivas impactam negativamente crescimento. Ajustes fiscais por receita pioram crescimento e inflação que ajustes por despesa. Limiar de dívida e impacto de ajustes dependem de outros fatores, mas situação atual do Brasil requer ação devido à dívida maior e mais cara do que países comparáveis. Não há concordância sobre limiar exato ou efeitos de ajustes, mas dívida grande compromete crescimento e ajustes por receita são piores do que ajustes por despesa.",
       "speaker": {
         "name": "Jeferson Bittencourt",
-        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia"
+        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia",
+        "slug": "jeferson-bittencourt"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Ex-Secretário do Tesouro Nacional destacou:",
       "speaker": {
         "name": "Jeferson Bittencourt",
-        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia"
+        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia",
+        "slug": "jeferson-bittencourt"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Ex-Secretário do Tesouro Nacional - Ministério da Economia: reverter meta de primário teria impacto menor do que reverter velocidade de crescimento da despesa, que causaria grande reversão de expectativas do mercado.",
       "speaker": {
         "name": "Jeferson Bittencourt",
-        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia"
+        "position": "Ex-Secretário do Tesouro Nacional - Ministério da Economia",
+        "slug": "jeferson-bittencourt"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "CONOF Câmara dos Deputados propõe modelo fiscal sustentável até 2024, integração de regras fiscais com ajustes em caso de descumprimento, e arcabouço fiscal priorizando investimentos e poupança com base no IPCA mais crescimento real. Apresentação inclui detalhes orçamento e LDO, com cenários de impacto no déficit e dívida pública.",
       "speaker": {
         "name": "Ricardo Alberto Volpe",
-        "position": "Consultor de Orçamento - CONOF - Câmara dos Deputados"
+        "position": "Consultor de Orçamento - CONOF - Câmara dos Deputados",
+        "slug": "ricardo-alberto-volpe"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "CONORF-Senado Federal destacou evolução de regras fiscais, estresse importância metas resultado primário, teto gastos, e ferramentas como contingenciamentos e bloqueios para controlar divida e alocar despesas de acordo com prioridades e sustentabilidade. Apoia novas regras aprovadas para fortalecer gestão e execução do orçamento.",
       "speaker": {
         "name": "Ana Cláudia Borges",
-        "position": "Consultora de Orçamento - CONORF - Senado Federal"
+        "position": "Consultora de Orçamento - CONORF - Senado Federal",
+        "slug": "ana-claudia-borges"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Responsabilidade fiscal e social indissociáveis; dívida pública brasileira crescente desde 2015; necessidade de consolidação fiscal para estabilizar dívida; consolidação geralmente metade por receita e metade por despesa; ajustes fiscais pela despesa mais bem-sucedidos, mas cortes em investimento público podem ser contraproducentes; nova regra fiscal com previsibilidade de despesas e meta de resultado primário crescente.",
       "speaker": {
         "name": "Bráulio Borges",
-        "position": "Pesquisador Associado do Instituto Brasileiro de Economia - FGV-Ibre"
+        "position": "Pesquisador Associado do Instituto Brasileiro de Economia - FGV-Ibre",
+        "slug": "braulio-borges"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -304,7 +329,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "Avanço ter piso de investimentos em LOA, PLOA e lei orçamentária anual, mas despesas discricionárias (livre arbítrio) ainda permitem contingenciamento a qualquer tempo, dependendo de relatórios bimestrais. Ainda, essas despesas seguem não sendo consideradas como investimentos próprios. Consciência da necessidade de aumentar investimentos nacionais.",
       "speaker": {
         "name": "Paulo Bijos",
-        "position": "Secretário de Orçamento Federal - Ministério do Planejamento"
+        "position": "Secretário de Orçamento Federal - Ministério do Planejamento",
+        "slug": "paulo-bijos"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -408,7 +442,8 @@
       "summary": "Segundo o Secretário de Orçamento Federal - Ministério do Planejamento, no assunto do veto, a capacidade de contingenciamento proporcional ou não reside no gestor público, dependendo das circunstâncias e níveis de custeio a serem preservados. A incerteza gerou a necessidade de preservar essa flexibilidade.",
       "speaker": {
         "name": "Paulo Bijos",
-        "position": "Secretário de Orçamento Federal - Ministério do Planejamento"
+        "position": "Secretário de Orçamento Federal - Ministério do Planejamento",
+        "slug": "paulo-bijos"
       }
     },
     {
@@ -419,7 +454,8 @@
       "summary": "Consultor de Orçamento - CONOF - Câmara dos Deputados: existem rigidezes orçamentárias, como gastos discricionários com saúde e educação (aprox. 60 bilhões) e custeio da máquina pública (outros 60 bilhões), totalizando 120 bilhões. Deduzindo-se os gastos obrigatórios, restam cerca de 15 bilhões disponíveis para gestão do governo, o que limita a capacidade de cortes. Cortes na mesma proporção no custeio resultariam em quase 70%, o que é inviável.",
       "speaker": {
         "name": "Ricardo Alberto Volpe",
-        "position": "Consultor de Orçamento - CONOF - Câmara dos Deputados"
+        "position": "Consultor de Orçamento - CONOF - Câmara dos Deputados",
+        "slug": "ricardo-alberto-volpe"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     }
   ],

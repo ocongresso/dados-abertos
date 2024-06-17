@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Fundo da da sala, do plenário, da comissão viação e transporte. Aí não funcionou? Tem algum deputado",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Presidente recebe 18 votos de 19, convida Cesinha de Madureira a presidir comissão de transporte, empossado. Parabéns deputado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "transcription": "Muito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Leônidas Cristino -- por Participante -- Cezinha de Madureira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-leonidas-cristino-por-participante-cezinha-de-madureira"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 204525,
         "name": "Rosana Valle",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosana-valle"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -260,7 +281,8 @@
       "transcription": "O deputado",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Castro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-castro-neto"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     }
   ],

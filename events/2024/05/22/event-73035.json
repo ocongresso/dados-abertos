@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     }
   ],

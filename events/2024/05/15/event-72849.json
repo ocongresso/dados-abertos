@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "Obrigado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amaro Neto -- por Participante -- Sargento Portugal",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amaro-neto-por-participante-sargento-portugal"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     }
   ],

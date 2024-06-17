@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Por favor, podem se dirigir a urna eletrônica.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Por favor, podem se dirigir a urna eletrônica.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Novo presidente, Bruno, empossado com competência e brilhantismo, assume cargo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Claudio Cajado -- por Participante -- Bruno Farias",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-claudio-cajado-por-participante-bruno-farias"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     }
   ],

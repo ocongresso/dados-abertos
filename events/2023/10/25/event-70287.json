@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "A Advogada fala sobre a necessidade de atualizar a lei de direitos autorais de 1998, considerando óbvias disposições constitucionais e civis em contratos, esclarecendo lacunas e imprecisões, como sobre dubladores e formas de transferência de direitos autorais, e adequar conceitos à tecnologia atual, como o streaming.",
       "speaker": {
         "name": "Simone Lahorgue",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "simone-lahorgue"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Advogada propõe atualizar exceções de direito autoral, considerar gestão coletiva audiovisual e pagamentos por exibição de forma única, analisar artigos relevantes da lei de artistas e direitos autorais para compatibilidade, tratar remuneração jornalística em discussão separada, e ser cautelosa em alterações legais para evitar insegurança jurídica e ambiente desfavorável para indústria brasileira em crescimento.",
       "speaker": {
         "name": "Simone Lahorgue",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "simone-lahorgue"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "CBAr promove arbitragem e solução consensual de conflitos, opina sobre legislação relacionada, propõe mudanças em artigo 100B, argumenta contra câmara governamental de arbitragem, questiona arbitragem de ofertas finais no projeto de lei e sugere negociação de ofertas finais.",
       "speaker": {
         "name": "Rafael Alves",
-        "position": "Diretor - Comitê Brasileiro de Arbitragem (CBAr)"
+        "position": "Diretor - Comitê Brasileiro de Arbitragem (CBAr)",
+        "slug": "rafael-alves"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Presidente - Pro-Música Brasil Produtores Fonográficos Associados defende atualização lei de direitos autorais sem impactos negativos ao mercado e artistas; alerta por cuidado com mudanças que possam comprometer sistema atual, que remunera autores e artistas proporcionalmente mais do que na era das vendas físicas; se posiciona contra restrições à liberdade contratual entre criadores e produtores.",
       "speaker": {
         "name": "Paulo Rosa",
-        "position": "Presidente - Pro-Música Brasil Produtores Fonográficos Associados"
+        "position": "Presidente - Pro-Música Brasil Produtores Fonográficos Associados",
+        "slug": "paulo-rosa"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Associação Brasileira de Música Independente (ABMI) satisfeita por debater lei de direitos autorais. ABMI representa gravadoras, promove música e cultura. Mercado de música cresce, com 40% gerado por música independente, especialmente com mercado digital e streaming. Lei de direitos autorais deve se adaptar às transformações digitais.",
       "speaker": {
         "name": "Maria Rita Neiva",
-        "position": "Representante - Associação Brasileira de Música Independente (ABMI)"
+        "position": "Representante - Associação Brasileira de Música Independente (ABMI)",
+        "slug": "maria-rita-neiva"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Defende atual lei de direitos autorais, considerada exemplo mundial; lei protege autor e garante exclusividade; projeto de lei traz flexibilização sem contrapartida e cláusula genérica de exceção por analogia causa insegurança jurídica; movimento de autores e especialistas elaborou minuta de anteprojeto de lei com exceções razoáveis e remuneração compensatória.",
       "speaker": {
         "name": "Dalton Morato",
-        "position": "Diretor Jurídico - Associação Brasileira de Direitos Reprográficos (ABDR)"
+        "position": "Diretor Jurídico - Associação Brasileira de Direitos Reprográficos (ABDR)",
+        "slug": "dalton-morato"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "ECAD promove segurança jurídica para direitos autorais, especialmente digitais, propondo alterações legais e remuneração benéfica através de sociedade de gestão coletiva.",
       "speaker": {
         "name": "Elizabeth Levy",
-        "position": "Gerente Jurídica e Institucional - Escritório Central de Arrecadação e Distribuição (ECAD)"
+        "position": "Gerente Jurídica e Institucional - Escritório Central de Arrecadação e Distribuição (ECAD)",
+        "slug": "elizabeth-levy"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "ABTA propõe foco em gestão coletiva de direitos autorais online, preservando negociações individuais ou coletivas. A nova política de custo TV por assinatura pode impactar a distribuição de conteúdo e legislação. A entidade de gestão coletiva deve ser transparente com preços objetivos. Projeto de lei deve respeitar contratos e direitos adquiridos para circulação de obras na internet. ABTA oferece esclarecimentos adicionais sobre a proposta.",
       "speaker": {
         "name": "Jonas Antunes Couto",
-        "position": "Diretor Jurídico-Regulatório - Associação Brasileira de Televisão por Assinatura (ABTA)"
+        "position": "Diretor Jurídico-Regulatório - Associação Brasileira de Televisão por Assinatura (ABTA)",
+        "slug": "jonas-antunes-couto"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Presidente - Associação Brasileira de Direitos Autorais (ABDA) falou sobre a importância da lei de direitos autorais, lei 9.610/98, e do projeto de lei 2.370/21. Destacou a necessidade de respeitar essa lei e exemplificou com convenções de Berna, Genebra e Roma. Discutiu a participação de segmentos produtivos da cultura e a regulação de plataformas para pagamento de direitos autorais.",
       "speaker": {
         "name": "Roberto Corrêa de Mello",
-        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)"
+        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)",
+        "slug": "roberto-correa-de-mello"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -236,7 +255,8 @@
       "summary": "Mercado de artes plásticas; Associação de Galerias de Arte do Brasil (AGAB); mercado secundário, revendas de obras de arte; direito de sequência, recebido por artistas e herdeiros em cada revenda. Atual lei prevê mecanismo justo, mas sem regulamentação; nova proposta altera cálculo do direito, causando dificuldades operacionais e possivelmente favorecendo informalidade. AGAB defende manter lei atual com regulamentação para facilitar operações e pagamento.",
       "speaker": {
         "name": "Victor Gomes",
-        "position": "Assessor Jurídico - Associação de Galerias de Arte do Brasil (AGAB)"
+        "position": "Assessor Jurídico - Associação de Galerias de Arte do Brasil (AGAB)",
+        "slug": "victor-gomes"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -259,7 +280,8 @@
       "summary": "Presidente - Associação Brasileira de Direitos Autorais (ABDA) propõe remuneração digna de 3% do preço de venda a autores de artes visuais, durante toda a vida do autor mais 70 anos. Valor não depende de declaração de valor de aquisição. Tema será discutido na reunião do Air em Paris. Autores e sucessores devem receber remuneração mínima de 3%, independentemente da comissão paga a intermediários. Lei em projeto.",
       "speaker": {
         "name": "Roberto Corrêa de Mello",
-        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)"
+        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)",
+        "slug": "roberto-correa-de-mello"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Galeriasistas hoje pagam impostos e declaram compras de arte;",
       "speaker": {
         "name": "Victor Gomes",
-        "position": "Assessor Jurídico - Associação de Galerias de Arte do Brasil (AGAB)"
+        "position": "Assessor Jurídico - Associação de Galerias de Arte do Brasil (AGAB)",
+        "slug": "victor-gomes"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Plataformas de streaming pagam bem a artistas e compositores; autores recebem quase 15% do preço de streaming, maior quantia do que nas vendas físicas; nenhum país paga direitos conexos de gravações brasileiras utilizadas em streaming interativo.",
       "speaker": {
         "name": "Paulo Rosa",
-        "position": "Presidente - Pro-Música Brasil Produtores Fonográficos Associados"
+        "position": "Presidente - Pro-Música Brasil Produtores Fonográficos Associados",
+        "slug": "paulo-rosa"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Presidente - Associação Brasileira de Direitos Autorais (ABDA) discutiu taxa de oral e direitos conexos. Oral está resolvida em 13%, mas problema é com direitos conexos em audiovisual e música associada, não havendo remuneração na Europa. No Brasil, questão é receber esses direitos conexos, apoiando interesses de músicos e intérpretes brasileiros e estrangeiros.",
       "speaker": {
         "name": "Roberto Corrêa de Mello",
-        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)"
+        "position": "Presidente - Associação Brasileira de Direitos Autorais (ABDA)",
+        "slug": "roberto-correa-de-mello"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -349,7 +378,8 @@
       "summary": "Representante da ABMI complementou discussão sobre gestão coletiva, destacando:",
       "speaker": {
         "name": "Maria Rita Neiva",
-        "position": "Representante - Associação Brasileira de Música Independente (ABMI)"
+        "position": "Representante - Associação Brasileira de Música Independente (ABMI)",
+        "slug": "maria-rita-neiva"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     }
   ],

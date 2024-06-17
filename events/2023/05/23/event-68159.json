@@ -16,7 +16,8 @@
       "summary": "Mestre de Cerimônia pede que todos se sentem, silenciem seus telefones e se preparem para ouvir a execução do hino nacional no ritmo de ciranda pernambucana.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -26,7 +27,8 @@
       "transcription": "Da maior das verdades que nós somos todas irmãs, todos irmãos.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -36,7 +38,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -47,7 +50,8 @@
       "summary": "Mestre de Cerimônia anunciou a posse da nova coordenação da Secretaria da Mulher na Câmara dos Deputados, instituída em 2",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -70,7 +75,8 @@
       "summary": "Mestre de Cerimônia convidou presenças importantes e da coordenadora geral do Observatório Nacional da Mulher na Política, deputada Iandra Moura, para falar.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Mestre de Cerimônia convidou para falar deputada Soray Santos e saudou várias presenças de senadoras e deputadas, incluindo Dorinha, Luiza Canziani, Ana Paula Lima, Marusa Boldrin, Jaque Rocha, Talíria Petroni, Erika Kokai, Dandara, Juliana Cardoso, Helena Lima, Maria Arraes, Silva Waiampi, Margarete de Coelho e marinha Ralp.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Mestre de Cerimônia convidou deputada Leda e Anastasia de Vinskaya (ONU Mulheres) para falarem na noite.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": "Mestre de Cerimônia agradeceu presentes autoridades e convidou coordenadora bancada feminina a falar.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -161,7 +174,8 @@
       "summary": "Mestre de Cerimônia anunciou a posse da nova coordenação da secretaria da mulher da Câmara dos Deputados e agradeceu a presença das deputadas. Convidou para foto oficial e coquetel. Encerrando cerimônia. Boa noite a todos.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     }
   ],

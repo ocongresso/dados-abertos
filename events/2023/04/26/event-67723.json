@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Historiadora e Criadora do Projeto Quebrada Alimentada enfatiza importância de alimentar pessoas e identificar quem está faminto, valorizando cozinhas comunitárias para detectar necessidades e parcerias com outras áreas. Três impactos das cozinhas solidárias mencionados: disposição para trabalho, desempenho escolar e relações domésticas, levando a redução da violência doméstica.",
       "speaker": {
         "name": "Adriana Salay",
-        "position": "Historiadora e Criadora do Projeto Quebrada Alimentada"
+        "position": "Historiadora e Criadora do Projeto Quebrada Alimentada",
+        "slug": "adriana-salay"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA restaurado; CONSEA promove diálogo entre sociedade civil e governo sobre alimentação; programas importantes nasceram no CONSEA, como PAA e compra de 30% de agricultura familiar para programa alimentação escolar; grande desafio é aprovar PL das cozinhas solidárias como política pública, preservando riqueza da experiência local; CONCEA apoia processo de aprovação do PL.",
       "speaker": {
         "name": "Elisabetta Recine",
-        "position": "Presidente do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA"
+        "position": "Presidente do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA",
+        "slug": "elisabetta-recine"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Coordenador Nacional do MPA:",
       "speaker": {
         "name": "Leomarcio Araújo",
-        "position": "Coordenador Nacional do Movimento dos Pequenos Agricultores - MPA"
+        "position": "Coordenador Nacional do Movimento dos Pequenos Agricultores - MPA",
+        "slug": "leomarcio-araujo"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Coordenadora Nacional do MTST sobre cozinhas solidárias e fome no Brasil: fome presente desde pós-escravismo, aumenta com governos direitas; cozinhas combatem fome e entregam afeto e políticas, não apenas comida; projeto inspirado em Argentina com quatro mil cozinhas; MTST tem 39 cozinhas em 3 estados + DF, servindo 1.700 marmitas diariamente; necessidade de sustento e ampliação além de arrecadação da internet; valor da solidariedade para radicalizar democracia e acabar com fome.",
       "speaker": {
         "name": "Ana Paula Perles",
-        "position": "Coordenadora Nacional do Movimento dos Trabalhadores Sem Teto, Projeto Cozinhas Solidárias - MTST"
+        "position": "Coordenadora Nacional do Movimento dos Trabalhadores Sem Teto, Projeto Cozinhas Solidárias - MTST",
+        "slug": "ana-paula-perles"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Governo se compromete com agenda de combate à fome, destacando cozinhas solidárias. Estratégias incluem Bolsa Família, programa de aquisição de alimentos e reajuste do programa nacional de alimentação escolar. Menciona demanda por recomposição da rede de equipamentos públicos e regulamentação de cozinhas solidárias como tecnologia social. Governo negoia programa de aquisição de alimentos para apoiá-las.",
       "speaker": {
         "name": "Patrícia Gentil",
-        "position": "Diretora do Departamento de Promoção da Alimentação Adequada e Saudável - Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome"
+        "position": "Diretora do Departamento de Promoção da Alimentação Adequada e Saudável - Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+        "slug": "patricia-gentil"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     }
   ],

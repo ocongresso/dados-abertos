@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 204541,
         "name": "Eduardo Bismarck",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bismarck"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 204541,
         "name": "Eduardo Bismarck",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bismarck"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220627,
         "name": "Paulinho Freire",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulinho-freire"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 204541,
         "name": "Eduardo Bismarck",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bismarck"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -149,7 +160,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -161,7 +173,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -173,7 +186,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -185,7 +199,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -197,7 +212,8 @@
       "speaker": {
         "id": 204541,
         "name": "Eduardo Bismarck",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bismarck"
       }
     },
     {
@@ -209,7 +225,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -221,7 +238,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -233,7 +251,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -245,7 +264,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -257,7 +277,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -268,7 +289,8 @@
       "summary": "Oferece ler texto, incentiva norma boa, convida deputado Vermelho para presidência.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Romero Rodrigues -- por Participante -- Vermelho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-romero-rodrigues-por-participante-vermelho"
       }
     },
     {
@@ -280,7 +302,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -292,7 +315,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -304,7 +328,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -316,7 +341,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -327,7 +353,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -338,7 +365,8 @@
       "summary": "Promete participação em evento em cidade de Romero Rodrigues; aprova requerimento; convida para festival em Foz do Iguaçu.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vermelho -- por Participante -- Romero Rodrigues",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vermelho-por-participante-romero-rodrigues"
       }
     },
     {
@@ -350,7 +378,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -362,7 +391,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -374,7 +404,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     }
   ],

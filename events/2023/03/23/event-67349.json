@@ -18,17 +18,19 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 180869,
       "start_time": 1679562086,
       "duration": 9,
-      "transcription": "O deputado Otónio Moura de Paula, tem vossa excelência a palavra. A fala do presidente ou do ex",
+      "transcription": "\nO deputado Otónio Moura de Paula, tem vossa excelência a palavra. A fala do presidente ou do ex",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -123,18 +132,20 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 8249,
       "start_time": 1679562859,
       "duration": 162,
-      "transcription": "Senhor presidente, na verdade eu vim aqui só fazer resumo da semana. Parabenizar os deputados de oposição. Nós estamos conseguindo trazer, o ministro Flávio Dino, pra falar sim do oito de janeiro da CPMI, das invasões do MST, do decreto das armas e também das rebeliões que estão acontecendo no Rio Grande do Norte. Também vamos trazer o Ministro da Educação pra tentar entender o que que eles analisaram, qual os números pra quererem enfraquecer o programa das escolas cívicomilitares, programa de tanto sucesso. Temos também nessa semana a fala desastrosa, irresponsável, criminosa do expresidiário Luiz Inácio Lula da Silva, eu não posso nem falar né porque teoricamente esta imprensa, esse consórcio da imprensa, se fosse o Bolsonaro, Nossa, mas não, o Lula? Eu não vi em nenhum local falando que isso não era fala de estadista, a liturgia do cargo. Olha, mais mico deste governo e também nós temos algo muito grave, que foi a descoberta de plano contra o atual senador Moro, juiz de tantos juízes que também condenou o expresidiário e atual presidente. Muito importante salientar e aqui eu quero parabenizar de público o deputado André Fernandes, que foi juntamente com grande parlamentar Nicolas Ferreira. Foram lá conversar com o senador Rodrigo Pacheco e nós teremos sim a leitura da CPMI do oito de janeiro. O Brasil merece respeito, merece transparência e verdade. Na esteira também temos uma CPI que vai investigar essas invasões de propriedade privada. Nós queremos saber Quem está financiando? Porque nós temos fato concreto. Não venho falar, o fato concreto é a escalada das invasões criminosas em propriedades, sejam produtivas ou não. É muito fácil fazer oposição, com governo incompetente, despreparado, que é o governo do Lula. Depois",
-      "summary": "Deputado resumiu semana: parabenizou oposição, anunciou ministros visitando Congresso, criticou ex-presidente Lula e falou sobre CPI para investigar invasões de propriedade. Elogiou colega por trabalho em CPI do 8 de janeiro e destacou importância de transparência e verdade.",
+      "transcription": "\nSenhor presidente, na verdade eu vim aqui só fazer resumo da semana. Parabenizar os deputados de oposição. Nós estamos conseguindo trazer, o ministro Flávio Dino, pra falar sim do oito de janeiro da CPMI, das invasões do MST, do decreto das armas e também das rebeliões que estão acontecendo no Rio Grande do Norte. Também vamos trazer o ministro da educação para tentar entender o que que eles analisaram, qual os números para quererem enfraquecer o programa das escolas cívicomilitares, programa de tanto sucesso. Temos também nessa semana a fala desastrosa, irresponsável, criminosa do expresidiário Luiz Inácio Lula da Silva.\n\nEu não posso nem falar né porque teoricamente esta imprensa, esse consórcio da imprensa, se fosse o Bolsonaro, Nossa, mas não, o Lula? Eu não vi em nenhum local falando que isso não era fala de estadista, a liturgia do cargo. Olha, mais mico deste governo. E também nós temos algo muito grave, que foi a descoberta de plano contra o atual senador Moro. Juiz de tantos juízes que também condenou o expresidiário e atual presidente.\n\nMuito importante salientar e aqui eu quero parabenizar de público o deputado André Fernandes, que foi juntamente com grande parlamentar Nicolas Ferreira. Foram lá conversar com o senador Rodrigo Pacheco e nós teremos sim a leitura da CPMI do oito de janeiro. O Brasil merece respeito, merece transparência e verdade. Na esteira, também temos uma CPI que vai investigar essas invasões de propriedade privada. Nós queremos saber quem está financiando, porque nós temos fato concreto.\n\nNão venho falar, o fato concreto é a escalada das invasões criminosas em propriedades, sejam produtivas ou não. É muito fácil fazer oposição com governo incompetente, despreparado, que é o governo do Lula. Depois",
+      "summary": " Deputado elogiou oposição, mencionou visitas ministeriais ao Congresso, criticou ex-presidente, apoiou CPI para investigar invasões e valorizou transparência na CPI de 8 de janeiro. (92 characters)",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 80815,
         "name": "Léo Prates",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leo-prates"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 205476,
         "name": "Charles Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "charles-fernandes"
       }
     },
     {
@@ -218,7 +235,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -230,18 +248,20 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
       "id": 180891,
       "start_time": 1679563622,
       "duration": 29,
-      "transcription": "Bolsonaro teve mais de cento e cinquenta pedidos de impeachment na nossa casa. Sem fundamento algum. Então colegas de direita. No mínimo, motivo, peça impeachment do descondenado. Temos que dar o tronco, temos que ser atuantes, e o Brasil quer. E vamos conseguir esse impeachment para o bem do Brasil.",
-      "summary": "Pedidos impeachment contra Bolsonaro sem fundamento. Exortação a requerer impeachment contra o \"descondenado\" para benefício do Brasil.",
+      "transcription": "\nBolsonaro teve mais de cento e cinquenta pedidos de impeachment na nossa casa. Sem fundamento algum. Então colegas de direita. No mínimo, motivo, peça impeachment do descondenado. Temos que dar o tronco, temos que ser atuantes, e o Brasil quer.\n\nE vamos conseguir esse impeachment para o bem do Brasil.",
+      "summary": " Recomenda-se pedir impeachment para benefício do Brasil, sem mais solicitações infundadas.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Otoni de Paula",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-otoni-de-paula"
       }
     },
     {
@@ -253,7 +273,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -265,7 +286,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -276,7 +298,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -288,18 +311,20 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
       "id": 180913,
       "start_time": 1679564141,
       "duration": 33,
-      "transcription": "Para as creches, para as cozinhas solidários, restaurantes populares, escolas, então levar realmente também para essas famílias que estão precisando. Então mostra a sensibilidade de Governo que governa e antes de seus cem dias já tem mostrado muitas ações importantes para todos os brasileiros. Era isso senhor presidente, gostaria que nossa fala fosse veiculada na voz do Brasil. Muito obrigado.",
-      "summary": "Ação governo em benefício de creches, cozinhas solidárias, restaurantes populares e escolas; sensibilidade demonstrada em poucos dias no cargo.",
+      "transcription": "\nPara as creches, para as cozinhas solidários, restaurantes populares, escolas, então levar realmente também para essas famílias que estão precisando. Então mostra a sensibilidade de Governo que governa e antes de seus cem dias já tem mostrado muitas ações importantes para todos os brasileiros. Era isso, senhor presidente, gostaria que nossa fala fosse veiculada na voz do Brasil. Muito obrigado.",
+      "summary": " Ajuda a creches, cozinhas, restaurantes e escolas; liderança atenciosa.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Otoni de Paula -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-otoni-de-paula-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -311,7 +336,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -323,7 +349,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -335,7 +362,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -347,7 +375,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -359,7 +388,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -371,7 +401,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -383,7 +414,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -395,7 +427,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -407,7 +440,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -419,7 +453,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -431,7 +466,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -443,7 +479,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -455,7 +492,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -467,7 +505,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -479,7 +518,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -491,7 +531,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -503,7 +544,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -515,7 +557,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -527,7 +570,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -539,7 +583,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -551,7 +596,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -563,7 +609,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -575,7 +622,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -587,7 +635,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -599,7 +648,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -611,7 +661,8 @@
       "speaker": {
         "id": 103758,
         "name": "Luciano Azevedo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-azevedo"
       }
     },
     {
@@ -623,7 +674,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -635,7 +687,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -647,7 +700,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -659,7 +713,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -671,7 +726,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -683,7 +739,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -695,7 +752,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -707,7 +765,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -719,7 +778,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -731,7 +791,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -743,7 +804,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -755,7 +817,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -767,7 +830,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -779,7 +843,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -791,7 +856,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -803,7 +869,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -815,7 +882,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -827,7 +895,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -839,7 +908,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -851,7 +921,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -863,7 +934,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -875,7 +947,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -886,7 +959,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -898,7 +972,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -910,7 +985,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -922,7 +998,8 @@
       "speaker": {
         "id": 220698,
         "name": "Beto Preto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-preto"
       }
     },
     {
@@ -934,7 +1011,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -946,7 +1024,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -958,7 +1037,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -970,18 +1050,20 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
       "id": 180960,
       "start_time": 1679569570,
       "duration": 107,
-      "transcription": "Mas ninguém tem coragem de tocar o dedo na ferida. Os presídios federais não tem superlotação em Presídio Federal, Mas, em compensação, os juízes com medo, essa é a verdade, de aplicar no líder De uma facção criminosa de aplicar o RDC, eles têm medo de serem assassinados. Ora, então vamos criar juiz sem rosto, aquele que assina e ninguém sabe quem foi que assinou, É uma forma de proteger o sistema, o poder judiciário. Mas não, nós não podemos ficar administrando A segurança pública por espasmos. É o que acontece. Ontem eu fui procurado por jornalista Que a pergunta principal é, o que os senhores vão fazer diante do que está acontecendo? E eu desafiei o jornalista, eu falei, me apresente, Eu digo a você que qualquer iniciativa hoje, já existe projetos na casa. Então, senhor Presidente, A gente tenha que fazer meaculpa e realmente pressionar. E pressionar o governo pra que a gente vote essas matérias importantes nesta casa. Ficar do jeito que está, não adianta. Amanhã vai ser outro ministro ameaçado de morte, aí vem fazer CPI, vem fazer projeto. Os projetos existem. O que nós temos é que fazer o preso cumprir a sua pena de maneira integral, e não prejudicando a sociedade como hoje existe através dos saidões. Muito obrigado, Presidente. Que consta os anais da casa. Senhor Presidente, minutinho para mim.",
-      "summary": "Juízes tem medo de aplicar penalidades rigorosas a líderes criminosos por temor de serem assassinados; propõe juízes anônimos para proteger o sistema judicial; impulsiona a aprovação de projetos relevantes na casa para abordar a questão de segurança pública e cumprimento integral de penas, reduzindo benefícios prisionais; sugerem governo ser pressionado para votar essas matérias.",
+      "transcription": "\nMas ninguém tem coragem de tocar o dedo na ferida. Os presídios federais não tem superlotação em Presídio Federal, Mas, em compensação, os juízes com medo, essa é a verdade, de aplicar no líder de uma facção criminosa, de aplicar o RDC, eles têm medo de serem assassinados. Ora, então vamos criar juiz sem rosto, aquele que assina e ninguém sabe quem foi que assinou, É uma forma de proteger o sistema, o poder judiciário. Mas não. Nós não podemos ficar administrando a segurança pública por espasmos.\n\nÉ o que acontece. Ontem eu fui procurado por jornalista que a pergunta principal é, o que os senhores vão fazer diante do que está acontecendo? E eu desafiei o jornalista, eu falei, me apresente, eu digo a você que qualquer iniciativa hoje, já existe projetos na casa. Então senhor presidente, a gente tenha que fazer meaculpa e realmente pressionar E pressionar o governo pra que a gente vote essas matérias importantes nesta casa. Ficar do jeito que está não adianta.\n\nAmanhã vai ser outro ministro ameaçado de morte, aí vem fazer CPI, vem fazer projeto, os projetos existem. O que nós temos é que fazer o preso cumprir a sua pena de maneira integral, e não prejudicando a sociedade como hoje existe através dos saidões. Muito obrigado, presidente. Que consta os anais da casa. Senhor presidente, minutinho para mim.",
+      "summary": " Juiz anônimo proposto para combatimento de criminosos; apoio à aprovação de projetos sobre segurança pública e penalizações rigorosas; governo pressionado a votar matérias.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -993,7 +1075,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1005,7 +1088,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -1017,7 +1101,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1029,7 +1114,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1041,7 +1127,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1053,7 +1140,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1064,7 +1152,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1076,7 +1165,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1088,7 +1178,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1100,7 +1191,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1112,7 +1204,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1124,7 +1217,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1136,7 +1230,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1148,7 +1243,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1160,7 +1256,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1172,7 +1269,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -1184,7 +1282,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1196,7 +1295,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -1208,7 +1308,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1220,7 +1321,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -1232,18 +1334,20 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
       "id": 180981,
       "start_time": 1679570961,
       "duration": 17,
-      "transcription": "Presidente. Senhores parlamentares. Vou restabelecer a sequência aqui. Vossa excelência disse que eu falaria após quem tava na tribuna, agora querem passar na minha frente na frente que ele tá na tribuna? Então não pode. Não pede pra ele depois senhora presidente",
-      "summary": "Presidente prioriza sequência de fala, não permite participante pular fileira na frente de outro que está na tribuna.",
+      "transcription": "\nPresidente. Senhores parlamentares. Vou restabelecer a sequência aqui. Vossa excelência disse que eu falaria após quem tava na tribuna, agora querem passar na minha frente na frente que ele tá na tribuna? Então não pode.\n\nNão pede pra ele depois senhora presidente",
+      "summary": " No discurso, o presidente enfatiza o fair play em tom de falas, não permitindo que um participante pule a fila à frente do outro na tribuna.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Maria do Rosário",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-maria-do-rosario"
       }
     },
     {
@@ -1255,7 +1359,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1267,7 +1372,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1278,7 +1384,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1290,7 +1397,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1302,7 +1410,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1314,7 +1423,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1326,7 +1436,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1338,7 +1449,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1350,7 +1462,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1362,7 +1475,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1374,18 +1488,20 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
       "id": 180994,
       "start_time": 1679571931,
       "duration": 77,
-      "transcription": "Quatro oito de dois mil e vinte e três, requer requeremos com base no artigo cinco cinco do regimento interno, regime de urgência na apreciação do projeto de lei sete quatro sete de dois mil e vinte e três que altera a lei doze mil oitocentos e setenta e de vinte e dois de outubro de dois mil e três, que institui o programa Mais Médicos para autorizar a recontratação ou renovação de contrato dos profissionais médicos em atuação ou que já atuaram no programa Mais Médicos para distritos sanitários especiais e indígenas. Para encaminhar o requerimento a favor, deputado Odair Cunha. Contrário, deputado Gustavo Gaia. A favor, deputado João Daniel. Contrário, deputado Bibo Nunes. Dirguíssima presidente.",
-      "summary": "Solicita-se urgência para aprovar renovação ou recontratação de médicos no programa Mais Médicos em distritos especiais e indígenas. Opiniões favoráveis de deputados Odair Cunha e João Daniel, contrárias de deputados Gustavo Gaia e Bibo Nunes.",
+      "transcription": "\nQuatro oito de dois mil e vinte e três, requer requeremos com base no artigo cinco cinco do regimento interno, regime de urgência na apreciação do projeto de lei sete quatro sete de dois mil e vinte e três que altera a lei doze mil oitocentos e setenta e de vinte e dois de outubro de dois mil e três que institui o programa Mais Médicos para autorizar a recontratação ou renovação de contrato dos profissionais médicos em atuação ou que já atuaram no programa Mais Médicos para distritos sanitários especiais e indígenas. Para encaminhar o requerimento a favor, deputado Odair Cunha. Contrário, deputado Gustavo Gaia. A favor, deputado João Daniel. Contrário deputado Bibo Nunes.\n\nDirguíssima presidente",
+      "summary": " Deputados debatem renovação de Mais Médicos em distritos especiais e indígenas, com opiniões divergentes.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -1397,7 +1513,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -1409,7 +1526,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1421,7 +1539,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1433,7 +1552,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1445,7 +1565,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1457,7 +1578,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1469,7 +1591,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1481,7 +1604,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1493,7 +1617,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1505,7 +1630,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1517,7 +1643,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1528,7 +1655,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1540,7 +1668,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1552,7 +1681,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1564,7 +1694,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1576,7 +1707,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1588,7 +1720,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1600,7 +1733,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1612,7 +1746,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1624,7 +1759,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1636,7 +1772,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1648,7 +1785,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1660,18 +1798,20 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
       "id": 181013,
       "start_time": 1679573081,
       "duration": 31,
-      "transcription": "Para o bom andamento da casa e aproveitando o ensejo só dizer aquilo que eu tentei falar sem ter sido permitida a palavra a mim, infelizmente, mas passou, que de fato deputado Sóchez, eu estive presente na reunião de líderes e diferentemente do que for dito por outro parlamentar, ali não houve acordo para votar matérias não com sensuais, somente Gostaria de falar Muito obrigado e mais uma vez parabéns à presidência pela condução. Obrigado deputado",
-      "summary": "Sóstenes Cavalcante, presente na reunião de líderes, nega acordo previo para votar matérias sem senso; elogia presidência.",
+      "transcription": "\nPara o bom andamento da casa e aproveitando o ensejo só dizer aquilo que eu tentei falar sem ter sido permitida a palavra a mim, infelizmente, mas passou, que de fato deputado Sóchez, eu estive presente na reunião de líderes e diferentemente do que for dito por outro parlamentar, ali não houve acordo para votar matérias não consensuais. Gostaria de falar Muito obrigado e mais uma vez parabéns à presidência pela condução. Obrigado",
+      "summary": " Sóstenes negou acordo prévio e elogiou Maria do Rosário.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Sóstenes Cavalcante",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-sostenes-cavalcante"
       }
     },
     {
@@ -1683,7 +1823,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1695,7 +1836,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1706,7 +1848,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1718,7 +1861,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1729,7 +1873,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1741,7 +1886,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -1752,7 +1898,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1764,7 +1911,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1776,7 +1924,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -1788,7 +1937,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1800,7 +1950,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1812,7 +1963,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1824,7 +1976,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1836,7 +1989,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1848,7 +2002,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1860,7 +2015,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1872,7 +2028,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -1884,7 +2041,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1896,7 +2054,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1908,7 +2067,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1920,7 +2080,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1932,7 +2093,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1944,7 +2106,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1956,7 +2119,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1968,7 +2132,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -1980,7 +2145,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -1992,7 +2158,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -2004,7 +2171,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2016,7 +2184,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2028,7 +2197,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2040,7 +2210,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -2052,7 +2223,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2064,7 +2236,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -2076,7 +2249,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2088,7 +2262,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -2099,7 +2274,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2111,7 +2287,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -2122,7 +2299,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2134,7 +2312,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2146,7 +2325,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2158,7 +2338,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2169,7 +2350,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2181,7 +2363,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2193,7 +2376,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2205,7 +2389,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2216,7 +2401,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2228,7 +2414,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -2239,7 +2426,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2251,7 +2439,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2263,18 +2452,20 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
       "id": 8423,
       "start_time": 1679576830,
       "duration": 124,
-      "transcription": "Presidente, a todos que estão aqui primeiramente para Deus, toda honra, toda glória e todo louvor de gratidão. E até certamente para alguns estranho, né? Eu saí de lá e vim pra cá, Deus é só, está em todos os lugares, não tem esquerda, Nem centro e nem direi. E quero aqui então usando essa bíblia sagrada três textos somente Pra ser rápido na mensagem. Lá em Lamentações Jeremias, capítulo três, vinte e nove, diz assim, No que se queixa o homem pois vivente, queixese cada dos seus pecados. Em Tiago, capítulo primeiro, verso cinco, diz assim, Se alguém de vocês tem falta de sabedoria, peça para Deus que a todos dá livremente de boa vontade E lhe será concedido e penalizando o terceiro texto, lá em Romanos doze dezenove. Amados, nunca Gentileza, vingarse, mas deixe com Deus a ira, pois está escrito, minha é a vingança, Eu retribuirei, diz o senhor. Então eu fecho aqui dizendo o seguinte, é absurdo. Eu não entro nessa A polarização de atacar ninguém. Agora, que é inconcebível, o governante maior dessa nação E, infelizmente, ter feito pronunciamento e horas ou dia depois, Tudo isso que está aí gerando essas balbúrdia, né, de lado, fala uma coisa, outro fala outro, É absurdo, ele tem que pensar em governar o país e chega de briga, esquerda e direita e o povo passando fome, o povo fica com raiva Até a do político, porque a sua pancadaria. Então, finalizo dizendo, Deus existe e é o senhor desta nação. Shalom, a paz.",
-      "summary": "Deputado fala sobre importância de Deus em política, cita passagens bíblicas sobre arrependimento, sabedoria e vingança, critica polarização e brigas entre esquerda e direita, incentiva a pensar em governar país e viver em paz.",
+      "transcription": "\nPresidente, a todos que estão aqui primeiramente para Deus, toda honra, toda glória e todo louvor de gratidão. E até certamente para alguns estranho, né? Eu saí de lá e vim pra cá, Deus é só, está em todos os lugares, não tem esquerda, nem centro e nem direito. E quero aqui então usando essa bíblia sagrada, três textos somente pra ser rápido na mensagem. Lá em Lamentações Jeremias, capítulo três, vinte e nove, diz assim, no que se queixa o homem pois, vivente, queixese cada dos seus pecados.\n\nEm Tiago, capítulo primeiro, verso cinco, diz assim, se alguém de vocês tem vai ou falta de sabedoria, peça para Deus que a todos dá livremente de boa vontade e lhe será concedido. E finalizando o terceiro texto, lá em Romanos doze dezenove. Amados, nunca gentileza, vingarse, mas deixe com Deus a ira, pois está escrito, minha é a vingança, Eu retribuirei, diz o senhor. Então eu fecho aqui dizendo o seguinte, é absurdo. Eu não entro nessa polarização de atacar ninguém.\n\nAgora, que é inconcebível, o governante maior dessa nação, e infelizmente ter feito pronunciamento e horas ou dia depois tudo isso que está aí gerando essas balbúrdia, né, de lado, fala uma coisa, outro fala outro, É absurdo. Ele tem que pensar em governar o país e chega de briga, esquerda e direita e o povo passando fome. O povo fica com raiva até do político, porque a sua pancadaria. Então, finalizo dizendo, Deus existe e é o senhor desta nação. Shalom, a paz.",
+      "summary": " Deputado fala sobre governar país em paz, encorajando menor polarização e valorização de Deus em política.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -2285,7 +2476,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2297,7 +2489,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -2308,7 +2501,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2320,7 +2514,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -2331,7 +2526,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2343,7 +2539,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -2354,7 +2551,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2366,7 +2564,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -2378,7 +2577,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2390,7 +2590,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -2402,7 +2603,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2414,7 +2616,8 @@
       "speaker": {
         "id": 220694,
         "name": "Ricardo Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-maia"
       }
     },
     {
@@ -2426,7 +2629,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2438,7 +2642,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -2450,9 +2655,10 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718632939
 }

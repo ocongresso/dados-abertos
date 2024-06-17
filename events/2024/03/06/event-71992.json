@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Não, não chegou. A gente só pode trabalhar com o venda ESG e agora a gente já migrou pra votação e agora congela qualquer coisa que chegue agora já não serve presente mais pra hoje. Até se chegar membro, sentar agora membro da comissão ele já não volta, porque esse momento ele é congelado, quando a gente migra o gerenciador ele é sistema isolado. Então já foi Ritinha, Bora trabalhar Rita. Por gentileza mais alguém gostaria de convidar o seu deputado para votar? Convidar os deputados para que após o encerramento aqui, e a chefia tudo bem? Convidálos para subir a sala sete cinco, para breve papo e uma recepção que a Rita está pagando as coxinhas ali. Está encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Deputado Gilberto Abramo é eleito presidente da comissão de transporte com 16 votos favoráveis e 2 brancos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "Transportes e declaro empossado bom mineiro.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Gilberto Abramo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-gilberto-abramo"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     }
   ],

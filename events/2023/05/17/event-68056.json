@@ -18,7 +18,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     }
   ],

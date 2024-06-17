@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Apoio, informação e coragem contra câncer de mama; priorizar exames e tratamento; conhecer-se e se conectar; atenção reforçada em famílias afetadas.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "E neste",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Ministra de Estado das Mulheres convida mulheres líderes para trabalhar em campanha de saúde, destacando a necessidade da prevenção do câncer e do cuidado com o corpo feminino, combate a preconceitos e valoriza o SUS. Importante prevenir e cuidar de si todas as mulheres, todos os dias do ano.",
       "speaker": {
         "name": "CIDA GONÇALVES",
-        "position": "Ministra de Estado das Mulheres"
+        "position": "Ministra de Estado das Mulheres",
+        "slug": "cida-goncalves"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Senadora fala sobre importância do mês de outubro como campanha de conscientização sobre detecção precoce de câncer de mama, destaca programa nacional de navegação de pacientes e relevância de acesso à saúde para todas as mulheres no Brasil.",
       "speaker": {
         "name": "Zenaide Maia",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "zenaide-maia"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Coordenadora-Geral de Prevenção às Condições Crônicas na Atenção Primária à Saúde destaca importância discutir fatores de risco câncer de mama, enfatizando prevenção primária, detecção precoce, ação intersetorial, e fortalecimento da atenção primária com ênfase em equipes de saúde e ação multidisciplinar. Em 2023, previsto mais de 73 mil novos casos câncer de mama no Brasil.",
       "speaker": {
         "name": "GILMARA LÚCIA DOS SANTOS",
-        "position": "Coordenadora-Geral de Prevenção às Condições Crônicas na Atenção Primária à Saúde, da Secretaria de Atenção Primária à Saúde – Ministério da Saúde"
+        "position": "Coordenadora-Geral de Prevenção às Condições Crônicas na Atenção Primária à Saúde, da Secretaria de Atenção Primária à Saúde – Ministério da Saúde",
+        "slug": "gilmara-lucia-dos-santos"
       }
     },
     {
@@ -175,7 +189,8 @@
       "summary": "Movimento Outubro Rosa informa e previne câncer de mama e colo do útero, destaca importância de atenção integral e vacina contra HPV para mulheres; convida a fortalecer prevenção primária no SUS. É investimento do SUS garantir atenção às mulheres em prevenção de câncer. Mensagem do Ministério da Saúde.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Iza Arruda -- por Participante -- Weliton Prado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-iza-arruda-por-participante-weliton-prado"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -246,7 +266,8 @@
       "summary": "Mês conscientização câncer mama e colo útero; acesso a serviços, detecção precoce, redução fatores de risco; elogio compromisso Brasil; impacto women, especialmente de baixa classe socioeconômica; investir vacina HPV, tela organizada, melhorar atendimento saúde para pré-detecção, detecção precoce e cuidado integral.",
       "speaker": {
         "name": "LARISSA VERÍSSIMO",
-        "position": "Consultora Nacional de Doenças Crônicas Não Transmissíveis – Organização Pan-Americana de Saúde – OPAS/OMS"
+        "position": "Consultora Nacional de Doenças Crônicas Não Transmissíveis – Organização Pan-Americana de Saúde – OPAS/OMS",
+        "slug": "larissa-verissimo"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -269,7 +291,8 @@
       "summary": "Coordenadora de Advocacy do Instituto Oncoguia destacou importância de Outubro Rosa para conscientização sobre câncer de mama, ênfase em diagnóstico precoce, acesso a cuidados de saúde, especialmente para mulheres vulneráveis. Ainda, desafios no Brasil com diagnósticos tardios e atrasos no tratamento. Ela incentiva conscientização e mobilização anuais, abordagem individualizada e prioridade no orçamento de saúde para atender às necessidades desse público.",
       "speaker": {
         "name": "HELENA ESTEVES",
-        "position": "Coordenadora de Advocacy do Instituto Oncoguia"
+        "position": "Coordenadora de Advocacy do Instituto Oncoguia",
+        "slug": "helena-esteves"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -364,7 +394,8 @@
       "summary": "Presidente da Associação Mulheres Mastectomizadas de Brasília – Recomeçar, falou sobre compromisso com combate ao câncer de mama, destaques para lei dos 30 dias e política nacional de controle e combate ao câncer, ainda propos algumas recomendações para mudar cenário atual.",
       "speaker": {
         "name": "JOANA JEKER",
-        "position": "Presidente Fundadora da Associação de Mulheres Mastectomizadas de Brasília – Recomeçar"
+        "position": "Presidente Fundadora da Associação de Mulheres Mastectomizadas de Brasília – Recomeçar",
+        "slug": "joana-jeker"
       }
     },
     {
@@ -376,7 +407,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -435,7 +471,8 @@
       "summary": "Câncer de mama: alta incidência e mortalidade no Brasil e DF. Prioridade a políticas de prevenção, tratamento, reabilitação e acesso igualitário a medicações. Avanços tecnológicos e testes genéticos importantes. Suporte psicológico e reabilitação física essenciais. Campanha \"Os juntos somos mais fortes\" em outubro para diagnóstico precoce e suporte às pacientes.",
       "speaker": {
         "name": "LUCIMARA PRISCILA CAMPUS VERAS",
-        "position": "Presidente Regional da Sociedade Brasileira de Mastologia do Distrito Federal"
+        "position": "Presidente Regional da Sociedade Brasileira de Mastologia do Distrito Federal",
+        "slug": "lucimara-priscila-campus-veras"
       }
     },
     {
@@ -447,7 +484,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -459,7 +497,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -482,7 +522,8 @@
       "summary": "Copeira da Câmara dos Deputados elogia deputado por acolhimento, reflete sobre experiência com câncer de mama e enfatiza importância de políticas sustentáveis e apoio para mulheres vencerem a doença e reiniciar suas vidas. Destaca avanços na medicina e tecnologia, e valoriza SUS.",
       "speaker": {
         "name": "ELAINE NASCIMENTO",
-        "position": "Copeira da Câmara dos Deputados"
+        "position": "Copeira da Câmara dos Deputados",
+        "slug": "elaine-nascimento"
       }
     },
     {
@@ -494,7 +535,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     }
   ],

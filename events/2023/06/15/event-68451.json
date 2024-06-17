@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Itamaraty liderou esforços negociação e implementação Convenção Quadro OMS para Controlo Tabaco, promovendo proteção contra efeitos tabagismo. Convenção inclui medidas redução demanda e oferta, meio ambiente, recursos financeiros e cooperação científica. No Brasil, CONIC implementa convenção com participação de diversos ministérios e atuação internacional Itamaraty.",
       "speaker": {
         "name": "MATHEUS MACHADO DE CARVALHO",
-        "position": "Chefe da Divisão de Saúde Global - Ministério das Relações Exteriores - MRE"
+        "position": "Chefe da Divisão de Saúde Global - Ministério das Relações Exteriores - MRE",
+        "slug": "matheus-machado-de-carvalho"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Ministro de Agricultura preocupa-se com geração de emprego e renda no Brasil, destacando lavoura do tabaco como importante, afetando 2,5 milhões de pessoas. Prioriza segurança dos trabalhadores e produção integrada de tabaco, com 38 rigorosas regras que promovem redução ou eliminação de agrotóxicos, enfatizando uso de bioinsumos e tecnologia sustentável.",
       "speaker": {
         "name": "CLECIVALDO SOUSA RIBEIRO",
-        "position": "Coordenador-geral de produção vegetal - Ministério da Agricultura e Pecuária - MAPA"
+        "position": "Coordenador-geral de produção vegetal - Ministério da Agricultura e Pecuária - MAPA",
+        "slug": "clecivaldo-sousa-ribeiro"
       }
     },
     {
@@ -86,7 +92,8 @@
       "summary": "Participante mencionou trabalho do Ministério da Agricultura desde 2",
       "speaker": {
         "name": "MARCOS VINICIUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marcos-vinicius"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -107,7 +115,8 @@
       "transcription": "À vontade, estamos à disposição.",
       "speaker": {
         "name": "CLECIVALDO SOUSA RIBEIRO",
-        "position": "Coordenador-geral de produção vegetal - Ministério da Agricultura e Pecuária - MAPA"
+        "position": "Coordenador-geral de produção vegetal - Ministério da Agricultura e Pecuária - MAPA",
+        "slug": "clecivaldo-sousa-ribeiro"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -130,7 +140,8 @@
       "summary": "Coordenador de Fomento à Assistência Técnica e Extensão Rural - MDA destacou importância da diversificação no cultivo do tabaco, propondo criação de meios de vida sustentáveis para agricultores. MDA trabalha nessa área há uma década, buscando alternativas viáveis como fruticultura, hortaliças, criação de pequenos animais e renicultura. O objetivo é garantir sustentabilidade e proteger agricultores familiares de incertezas de mercado e reduções da demanda global.",
       "speaker": {
         "name": "MANOEL JOSÉ DINIZ MENDONÇA",
-        "position": "Coordenador de Fomento à Assistência Técnica e Extensão Rural - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA"
+        "position": "Coordenador de Fomento à Assistência Técnica e Extensão Rural - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA",
+        "slug": "manoel-jose-diniz-mendonca"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -153,7 +165,8 @@
       "summary": "Presidente - Associação dos Fumicultores do Brasil - AFUBRA salientou a importância do tabaco para diversos setores e a liderança do setor em responsabilidade ambiental. A produção de tabaco em 2022 ocorreu em 1908 municípios de 3 estados, envolvendo 142,190 famílias produtoras e 2 milhões de pessoas. Foi produzida 590 mil toneladas, gerando receita bruta de 9 bilhões de reais, com área plantada de 270 mil hectares e dois hectares utilizados por produtor.",
       "speaker": {
         "name": "BENÍCIO ALBANO WERNER, presidente da Associação dos Fumicultores do Brasil - AFUBRA",
-        "position": "Presidente - Associação dos Fumicultores do Brasil - AFUBRA"
+        "position": "Presidente - Associação dos Fumicultores do Brasil - AFUBRA",
+        "slug": "benicio-albano-werner-presidente-da-associacao-dos-fumicultores-do-brasil-afubra"
       }
     },
     {
@@ -163,7 +176,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alceu Moreira -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alceu-moreira-por-participante-pezenti"
       }
     },
     {
@@ -174,7 +188,8 @@
       "summary": "Tabaco necessita ampla área de soja e milho, porém rende maior receita bruta e exportação; Brasil é 2º maior produtor mundial; industrialização gera empregos; produção oferece muitos empregos, levando autoridades a valorizar sua importância, particularmente contra contrabando de cigarros.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pezenti -- por Participante -- Alceu Moreira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pezenti-por-participante-alceu-moreira"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -197,7 +213,8 @@
       "summary": "O participante é produtor de tabaco e líder na região produtora. Ele está preocupado com a falta de conhecimento do governo sobre a produção de tabaco e a forma como as campanhas anti-tabaco o retratam. Ele defende a legalidade da produção de tabaco e sua contribuição para a preservação ambiental. Ele pede que os representantes governamentais na COP se informem melhor sobre a realidade dos produtores de tabaco e os respeitem.",
       "speaker": {
         "name": "SERGIO REIS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sergio-reis"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Diretor-executivo - Associação Brasileira da Indústria do Fumo - ABIFUMO apoiou discussão sobre produção e exportação de tabaco, destacando importância de memória de compromissos e declaração interpretativa da Convenção Quadro, junto com programa de apoio à diversificação produtiva em áreas de tabaco.",
       "speaker": {
         "name": "GIUSEPPE LOBO",
-        "position": "Diretor-executivo - Associação Brasileira da Indústria do Fumo - ABIFUMO"
+        "position": "Diretor-executivo - Associação Brasileira da Indústria do Fumo - ABIFUMO",
+        "slug": "giuseppe-lobo"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Brasil interpreta conventão quadro não proíbe produção de tabaco ou restringe políticas de apoio a agricultores; Brasil se opõe à uso da conventão para práticas discriminatórias no livre comércio; Governo brasileiro instruído a considerar acordos feitos durante audiências públicas na formulação de posição para COP; Encourajar envolvimento de ministérios relevantes na formulação de posição.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alceu Moreira -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alceu-moreira-por-participante-pezenti"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 133810,
         "name": "Marcelo Moraes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-moraes"
       }
     },
     {
@@ -253,7 +274,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -264,7 +286,8 @@
       "summary": "Presidente - Sindicato Interestadual da Indústria do Tabaco - SINDITABACO solicita reunião com ministro Rui Costa para discutir importância da produção de tabaco no Brasil, enfatizando sua relevância para o estado e produtores, incluindo os produtores familiares. Também questiona existência e composição da CONIC. Dados sobre produção e exportação de tabaco são apresentados, demonstrando sua contribuição econômica significativa.",
       "speaker": {
         "name": "IRO SCHÜNKE, presidente do Sindicato Interestadual da Indústria do Tabaco - SINDITABACO",
-        "position": "Presidente - Sindicato Interestadual da Indústria do Tabaco - SINDITABACO"
+        "position": "Presidente - Sindicato Interestadual da Indústria do Tabaco - SINDITABACO",
+        "slug": "iro-schunke-presidente-do-sindicato-interestadual-da-industria-do-tabaco-sinditabaco"
       }
     },
     {
@@ -276,7 +299,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 133810,
         "name": "Marcelo Moraes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-moraes"
       }
     },
     {
@@ -299,7 +324,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -310,7 +336,8 @@
       "summary": "CONIC reestruturada sob novo governo; Itamaraty pronto para participar; CONIC historicamente incluiu sociedade civil e setor produtivo; ainda não recriada oficialmente.",
       "speaker": {
         "name": "MATHEUS MACHADO DE CARVALHO",
-        "position": "Chefe da Divisão de Saúde Global - Ministério das Relações Exteriores - MRE"
+        "position": "Chefe da Divisão de Saúde Global - Ministério das Relações Exteriores - MRE",
+        "slug": "matheus-machado-de-carvalho"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -334,7 +362,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -358,7 +388,8 @@
       "speaker": {
         "id": 133810,
         "name": "Marcelo Moraes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-moraes"
       }
     },
     {
@@ -370,7 +401,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -381,7 +413,8 @@
       "summary": "Participante destacou liderança brasileira no mercado internacional de tabaco, destacando sua importância econômica em municípios como Canguçu. Solicitou apoio parlamentar para defender essa produção no governo federal, ressaltando seu impacto na economia, meio ambiente e questões trabalhistas.",
       "speaker": {
         "name": "VINÍCIUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vinicius"
       }
     },
     {
@@ -393,7 +426,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -404,7 +438,8 @@
       "summary": "Deputado Estadual-RS agradece e parabeniza envolvimento na audiência pública; cumprimenta deputado federal Marcelo Moraes e outros presentes; expressa preocupação com discussões sobre não criminalização do Colombo e da produção regional; propõe sensibilizar governo e criar documento efetivo na COP; menciona movimentos na comissão de agricultura no estado do Rio Grande do Sul.",
       "speaker": {
         "name": "LUCIANO SILVEIRA",
-        "position": "Deputado Estadual - RS"
+        "position": "Deputado Estadual - RS",
+        "slug": "luciano-silveira"
       }
     },
     {
@@ -416,7 +451,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -427,7 +463,8 @@
       "summary": "Participante expressa angústia de produtores de tabaco na Bahia por incerteza sobre posição do governo brasileiro em COPs, preocupado com possível exclusão de reuniões inclusive de representantes do legislativo e indústria; pede que comissão encaminhe preocupação à Casa Civil para evitar constrangimentos no Panamá.",
       "speaker": {
         "name": "MARCOS DALÍRIO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marcos-dalirio"
       }
     },
     {
@@ -439,7 +476,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -450,7 +488,8 @@
       "summary": "Participante valoriza apoio ao deputado Alceu por defender produção do tabaco; Federação Nacional dos Trabalhadores das Indústrias do Fumo e Afins representa sete sindicatos em quatro estados; indústria do tabaco gera 40 mil empregos diretos, beneficiando 120 mil pessoas e comunitáde; apoio à agenda que sustenta produção de tabaco.",
       "speaker": {
         "name": "ÉDER RODRIGOS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "eder-rodrigos"
       }
     },
     {
@@ -462,7 +501,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -473,7 +513,8 @@
       "summary": "O participante sauda todos na audiência e destaca a importância do tabaco para a economia e a cultura dos municípios produtores, solicitando que o governo federal não criminalize essa cultura. Ele menciona as más consequências para as famílias de produtores e trabalhadores se houver necessidade de substituir a cultura do tabaco, e ressalta a alta contribuição do setor para o ICMS e a empregabilidade no Brasil.",
       "speaker": {
         "name": "GILSON BEKER",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gilson-beker"
       }
     },
     {
@@ -485,7 +526,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -496,7 +538,8 @@
       "summary": "Participante valoriza produção de tabaco em sua cidade, destacando sua contribuição para o sustento e melhora na qualidade de vida dos produtores rurais e suas famílias, reforçando a importância desse trabalho para a educação e o futuro dos municípios.",
       "speaker": {
         "name": "DIEGO WOLTER",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "diego-wolter"
       }
     },
     {
@@ -508,7 +551,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -519,7 +563,8 @@
       "summary": "Participante defende interesse de agricultores, especificamente da cultura do fumo, questionando se novas medidas aumentariam produção ou ameaçariam lavoura, referindo sua própria experiência como vereador e sindicalista.",
       "speaker": {
         "name": "WEBER",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "weber"
       }
     },
     {
@@ -530,7 +575,8 @@
       "summary": "Participante defende produção de fumo, critica criminalização por Saúde; pede discussão com produtores e resguardo legal; apoia família e agricultores; questiona posição de setores do governo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pezenti -- por Participante -- Alceu Moreira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pezenti-por-participante-alceu-moreira"
       }
     },
     {
@@ -541,7 +587,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -552,7 +599,8 @@
       "summary": "Participante elogiou iniciativa, estressei importância cultural, econômica e social do tabaco para o país, partilhou conexão pessoal com produção de tabaco e cumprimento de normas, elogiou discursos anteriores, destacou arrecadação de impostos e renda dos produtores, incentivou divulgação de informações precisas e pediu apoio para manter produção de tabaco no Brasil.",
       "speaker": {
         "name": "MARCELO MARON",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marcelo-maron"
       }
     },
     {
@@ -563,7 +611,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -574,7 +623,8 @@
       "summary": "Participante valoriza cadeia produtiva do tabaco, critica ausência de representantes do Ministério da Saúde em regiões produtoras e destaca importância do tabaco para economia local.",
       "speaker": {
         "name": "MARCELO CARVALHO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marcelo-carvalho"
       }
     },
     {
@@ -586,7 +636,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -598,7 +649,8 @@
       "speaker": {
         "id": 133810,
         "name": "Marcelo Moraes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-moraes"
       }
     },
     {
@@ -609,7 +661,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -621,7 +674,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -633,7 +687,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -645,7 +700,8 @@
       "speaker": {
         "id": 133810,
         "name": "Marcelo Moraes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-moraes"
       }
     },
     {
@@ -657,7 +713,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     }
   ],

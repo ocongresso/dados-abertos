@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Commemoração do Dia da Assistente Social; celebração de 30 anos do Código de Ética; combate ao machismo na profissão; importância de uma campanha constante; defesa dos direitos e atribuições da profissão; luta contra a precarização do trabalho; memória e reconhecimento do trabalho assistencial.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "Defesa de direitos é coisa",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Presidenta da Associação Brasileira de Ensino e Pesquisa em Serviço Social destacou importância do serviço social em garantia direitos, especialmente trabalhadores precarizados. Abordou desigualdade social, necessidades sociais vs rentabilidade econômica, e defendeu políticas trabalho, direitos classe trabalhadora, reforma sanitária, segurança alimentar, universidade pública, alianças Congresso para direitos sociais.",
       "speaker": {
         "name": "ERLÊNIA SOBRAL DO VALE",
-        "position": "Presidenta da Associação Brasileira de Ensino e Pesquisa em Serviço Social"
+        "position": "Presidenta da Associação Brasileira de Ensino e Pesquisa em Serviço Social",
+        "slug": "erlenia-sobral-do-vale"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Conselheira do Conselho Federal de Serviço Social agradece convite, homenageia assistentes sociais e destaca importância do serviço social no Brasil, defendendo direitos e lutando contra opressões. Menciona gestão do CEFÉS, poema \"Vossas Mulheres\" e atuação valente de profissionais durante pandemia. Reafirma compromisso com piso salarial para assistentes sociais e igualdade social.",
       "speaker": {
         "name": "RAFAELLA DA CÂMARA LOBÃO BARROSO",
-        "position": "Conselheira do Conselho Federal de Serviço Social"
+        "position": "Conselheira do Conselho Federal de Serviço Social",
+        "slug": "rafaella-da-camara-lobao-barroso"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Presidenta do Conselho Regional de Serviço Social 8ª Região agradece convidada, menciona importância de dia assistente social e lutas nessa semana. Ela destaca necessidade de fortalecer serviço social por meio do piso salarial e melhores condições de trabalho. Ela também fala sobre resistência e valorização da profissão, reafirmando compromisso do conjunto SEFECRES com essa perspectiva.",
       "speaker": {
         "name": "KARINA FIGUEIREDO",
-        "position": "Presidenta do Conselho Regional de Serviço Social 8ª Região"
+        "position": "Presidenta do Conselho Regional de Serviço Social 8ª Região",
+        "slug": "karina-figueiredo"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "Presidente da Comissão de Defesa de Direitos Humanos elogia serviço social por sua luta por direitos e emancipação humana, destacando comprometimento de profissionais e alianças com outras áreas.",
       "speaker": {
         "name": "FÁBIO FÉLIX",
-        "position": "Presidente da Comissão de Defesa dos Direitos Humanos, Cidadania, Ética e Decoro Parlamentar da Câmara Legislativa do Distrito Federal"
+        "position": "Presidente da Comissão de Defesa dos Direitos Humanos, Cidadania, Ética e Decoro Parlamentar da Câmara Legislativa do Distrito Federal",
+        "slug": "fabio-felix"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     }
   ],

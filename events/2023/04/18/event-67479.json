@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Departamento de Biocombustíveis, representando Ministério de Minas e Energia, agradece convite e discute política pública de biodiesel. Menciona alcance da Resolução CINE 03/2023 sobre mistura e cronograma para b15. Apresentará 9 slides sobre o assunto.",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "B15 aprovado com condições em 2019, implementado em 2023 para reduzir dependência de diesel importado, aumentar oferta de biodiesel e CBIO, e aprimorar qualidade. Objetivo também inclui reduzir importação e ajudar na descarbonização dos transportes. Proconve p8 traz avanços tecnológicos e gerenciamento de emissões.",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Discurso do Diretor da ANP sobre RenovaBio e monitoramento de qualidade de combustíveis. Reitera apoio a RenovaBio, novas especificações do biocombustível em 90 dias, alta conformidade dos combustíveis nos últimos anos, e posição a favor da mistura de até B15. ANP disponível para debate e esclarecimentos.",
       "speaker": {
         "name": "Fernando Wandscheer De Moura Alves",
-        "position": "Diretor da Agência Nacional do Petróleo, Gás e Biocombustíveis - ANP"
+        "position": "Diretor da Agência Nacional do Petróleo, Gás e Biocombustíveis - ANP",
+        "slug": "fernando-wandscheer-de-moura-alves"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Presidente do IBP falou sobre história e importância do setor de petróleo e gás no Brasil, exportação de petróleo, desafio de oferecer combustível de alta qualidade em todo o país, consequências do uso de biodiesel e pedido para trazer produto diferente ao mercado.",
       "speaker": {
         "name": "Roberto Ardenghy",
-        "position": "Presidente do Instituto Brasileiro de Petróleo e Gás - IBP"
+        "position": "Presidente do Instituto Brasileiro de Petróleo e Gás - IBP",
+        "slug": "roberto-ardenghy"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Produto vegetal não elegível para incentivos fiscais de energias renováveis no Brasil.",
       "speaker": {
         "name": "Roberto Ardenghy",
-        "position": "Presidente do Instituto Brasileiro de Petróleo e Gás - IBP"
+        "position": "Presidente do Instituto Brasileiro de Petróleo e Gás - IBP",
+        "slug": "roberto-ardenghy"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia destacou:",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "ANP certifica 32 usinas de biodiesel com baixo carbono; permite HVO e coprocessamento, mas coprocessamento ainda não aproveitado para CBIOs.",
       "speaker": {
         "name": "Fabio Da Silva Vinhado",
-        "position": "Superintendente Adjunto de Biocombustíveis e de Qualidade de Produtos da Agência Nacional do Petróleo, Gás e Biocombustíveis - ANP"
+        "position": "Superintendente Adjunto de Biocombustíveis e de Qualidade de Produtos da Agência Nacional do Petróleo, Gás e Biocombustíveis - ANP",
+        "slug": "fabio-da-silva-vinhado"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Departamento de Biocombustíveis propõe inclusão de diesel renovável, aguardando discussão governamental e reunião com entidades para discutir proposta.",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Transporte: maior consumidor de biodiesel, 6.7 bilhões de litros produzidos em 2021. CNT representa 1.640.000 empresas e 2 mi de empregos. Aumento do teor de biodiesel causou problemas mecânicos em 60% dos veículos, gerando prejuízos financeiros e aumento de resíduos perigosos. 70% dos empresários discordam do teor atual de 7%, preferindo misturas de 10% ou menos. Diesel congela em veículos, causando paralisações.",
       "speaker": {
         "name": "Erica Marcos",
-        "position": "Gerente Executiva Ambiental da Confederação Nacional do Transporte – CNT"
+        "position": "Gerente Executiva Ambiental da Confederação Nacional do Transporte – CNT",
+        "slug": "erica-marcos"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Diretor Técnico da ANFAVEA sobre biodiesel:",
       "speaker": {
         "name": "Henry Joseph Junior",
-        "position": "Diretor Técnico da Associação Nacional dos Fabricantes de Veículos Automotores – ANFAVEA"
+        "position": "Diretor Técnico da Associação Nacional dos Fabricantes de Veículos Automotores – ANFAVEA",
+        "slug": "henry-joseph-junior"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia destacou a necessidade de encaixar as peças certas e evitar forçá-las em lugares inadequados. O B15 foi aprovado em especificações anteriores. Mudanças no produto são improváveis com o uso de combustível de qualidade e conforme o plano de manutenção do fabricante. Abusos e manipulações de outras peças podem causar problemas. Trabalho colaborativo é fundamental para solução adequada.",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Director of Biocombustibles emphasized various biocombustibles applications, citing alternative fuel truck example used in agriculture and mining.",
       "speaker": {
         "name": "Marlon Arraes Jardim",
-        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia"
+        "position": "Diretor do Departamento de Biocombustíveis, representando o Ministério de Minas e Energia",
+        "slug": "marlon-arraes-jardim"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Combustível é maior custo no transporte, tratado com cuidado. Grande parte de empresários relata problemas com biodiesel, mas outros discordam. Reconhecemos problemas específicos, não ignoramos fatos. Promovemos diversificação energética, buscando combustíveis avançados e descarbonização sem custos evitáveis. Todo usuário merece produto de qualidade.",
       "speaker": {
         "name": "Erica Marcos",
-        "position": "Gerente Executiva Ambiental da Confederação Nacional do Transporte – CNT"
+        "position": "Gerente Executiva Ambiental da Confederação Nacional do Transporte – CNT",
+        "slug": "erica-marcos"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Frota transportadora antiga com dificuldades de manutenção e aumento de custos com biodiesel. Autônomos ganham pouco e piden revisão do percentual de biodiesel. Produção de biodiesel majoritariamente de soja em vez de beneficiar pequenos produtores.",
       "speaker": {
         "name": "Alan Medeiros",
-        "position": "Assessor Institucional da Confederação Nacional dos Transportadores Autônomos - CNTA"
+        "position": "Assessor Institucional da Confederação Nacional dos Transportadores Autônomos - CNTA",
+        "slug": "alan-medeiros"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -374,7 +405,8 @@
       "summary": "Presidente da Federação Nacional do Comércio de Combustíveis e Lubrificantes aborda desafios do setor, incluindo questões relacionadas a tanques de armazenamento, limpeza e descarte de resíduos, manutenção de equipamentos e aumento de custos operacionais. As estações de serviço sofrem as consequências desses problemas e enfrentam paradas e desgaste de equipamentos. Esses empresários estão no último elo de uma cadeia com mais de 670 empresas de TRR.",
       "speaker": {
         "name": "James Thorp Neto",
-        "position": "Presidente da Federação Nacional do Comércio de Combustíveis e de Lubrificantes - Fecombustível"
+        "position": "Presidente da Federação Nacional do Comércio de Combustíveis e de Lubrificantes - Fecombustível",
+        "slug": "james-thorp-neto"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -397,7 +430,8 @@
       "summary": "Transporte rodoviário de cargas em crise, predominância de caminhoneiros e passageiros, falta de representação ativa, impactos na cadeia e bolso do transportador. Necessário visão matricial, resolução de pequenos problemas com poder público atuando como mediador. Caminhão parado causa prejuízo. Oferece apoio para assessoria.",
       "speaker": {
         "name": "Marlon Naves",
-        "position": "Consultor Executivo - Transporte Rodoviário de Cargas"
+        "position": "Consultor Executivo - Transporte Rodoviário de Cargas",
+        "slug": "marlon-naves"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     }
   ],

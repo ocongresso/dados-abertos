@@ -17,7 +17,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Poeta Gonçalves Dias nasceu em Caxias, aprendeu filosofia, idiomas e direito; publicou Primeiros Santos em 1847. Foi advogado, professor, jornalista e pesquisador. Sua obra mais famosa, a Canção do Exílio, inspirou várias obras e é considerada certidão de nascimento da poesia genuinamente brasileira. Acredita-se que o poeta morreu em um naufrágio no Maranhão em 1864.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Presidente da Academia de Letras do Maranhão agradeceu pronta receptividade do Legislativo, honrou Gonçalves Dias com homenagem no Bicentenário de seu nascimento, reconheceu seu talento poético e trabalho como historiador e pesquisador, destacando sua poesia americana e defensa da cultura indígena.",
       "speaker": {
         "name": "Lourival Serejo",
-        "position": "Presidente da Academia de Letras do Maranhão"
+        "position": "Presidente da Academia de Letras do Maranhão",
+        "slug": "lourival-serejo"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Na Academia Brasiliense de Letras, um membro homenageia Gonçalves Dias e o Piauí, relatando a história da independência do estado e a batalha de Jenipapo em 1822. Menciona sua conexão pessoal com o Piauí e o Maranhão, e recita poemas de Gonçalves Dias para concluir sua homenagem.",
       "speaker": {
         "name": "Hugo Napoleão",
-        "position": "Membro da Academia Brasiliense de Letras"
+        "position": "Membro da Academia Brasiliense de Letras",
+        "slug": "hugo-napoleao"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -138,7 +149,8 @@
       "summary": "Ministro do Superior Tribunal de Justiça celebra Bicentenário de Gonçalves Dias, poeta símbolo da nacionalidade, direito e luta brasileira; homenageam-no Parlamento, Poder Judiciário e Executivo por sua poesia que reflete a vida como combate e promoção da democracia, meio ambiente equilibrado, direitos dos povos originários e construção de sociedade justa e fraterna.",
       "speaker": {
         "name": "Reinaldo Soares da Fonseca",
-        "position": "Ministro do Superior Tribunal de Justiça"
+        "position": "Ministro do Superior Tribunal de Justiça",
+        "slug": "reinaldo-soares-da-fonseca"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     },
     {
@@ -183,7 +198,8 @@
       "summary": "O Presidente da Academia de Letras do Maranhão, agradeceu honra de oferecer medalha bicentenário de Gonçalves Dias à Senhora Rosana Sarney, deputada Rosana. Mencionou omissão de saudação ao doutor Kécio, deputado Carlos Lula e jovens estudantes presentes.",
       "speaker": {
         "name": "Lourival Serejo",
-        "position": "Presidente da Academia de Letras do Maranhão"
+        "position": "Presidente da Academia de Letras do Maranhão",
+        "slug": "lourival-serejo"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 73806,
         "name": "Roseana Sarney",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "roseana-sarney"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -41,7 +43,8 @@
       "summary": "Hamas, existindo há 36 anos, considerado terrista, atacou Israel com grande ofensiva vinda de Gaza, com a morte intencional de civis, mulheres, crianças e idosos, usando reféns e fogo como armas, causando horror e indignação. Após ataque, alguns celebraram com comemoração e dança.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -51,7 +54,8 @@
       "transcription": "Eu",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -157,7 +169,8 @@
       "summary": "Falta coordenação e definição de ato terrorista no Brasil; risco cresce com menos agentes federais; aumentam libaneses ligados ao Hezbollah e atividades criminosas; necessita autoridade contra terror e controle imigração Muslim; urgente abordar questões; maior atenção segurança.",
       "speaker": {
         "name": "MARCO AURÉLIO VIEIRA",
-        "position": "General de Divisão da Reserva do EB, Presidente do Conselho Editorial do Instituto Villas Boas"
+        "position": "General de Divisão da Reserva do EB, Presidente do Conselho Editorial do Instituto Villas Boas",
+        "slug": "marco-aurelio-vieira"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 220619,
         "name": "Delegado Ramagem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-ramagem"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -239,7 +258,8 @@
       "summary": "Geral da Reserva do EB, Presidente do Conselho Editorial do Instituto Villas Boas sobre segurança em eventos importantes: a responsabilidade é passada entre as forças policiais e militares, com ênfase na cooperação e liderança da Polícia Federal. Experiência adquirida em eventos como Jornada Mundial da Juventude, chegada do Papa, Jogos Mundiais Militares, Copas do Mundo e Olimpíadas, porém necessita ser permanente.",
       "speaker": {
         "name": "MARCO AURÉLIO VIEIRA",
-        "position": "General de Divisão da Reserva do EB, Presidente do Conselho Editorial do Instituto Villas Boas"
+        "position": "General de Divisão da Reserva do EB, Presidente do Conselho Editorial do Instituto Villas Boas",
+        "slug": "marco-aurelio-vieira"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 220619,
         "name": "Delegado Ramagem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-ramagem"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -298,7 +322,8 @@
       "summary": "Conflito israelense-palestino: abordar de modo pragmático, sem viés ideológico. No Brasil, foco em \"controle competitivo\" e redes ilícitas. Importância de combate à lavagem de dinheiro no contexto do crime organizado e terrorismo. Dificuldade de definir terrorismo, especialmente no contexto brasileiro. Nexo entre crime e terrorismo considerar atividades antes e depois do ato terrorista.",
       "speaker": {
         "name": "ALESSANDRO VISACRO",
-        "position": "Coronel da Reserva - Exército Brasileiro"
+        "position": "Coronel da Reserva - Exército Brasileiro",
+        "slug": "alessandro-visacro"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 220619,
         "name": "Delegado Ramagem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-ramagem"
       }
     },
     {
@@ -332,7 +359,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -379,7 +410,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -390,7 +422,8 @@
       "summary": "Sistema Westfaliano obsoleto para enfrentar crime transnacional e terrorismo; Brasil requer controle normativo efetivo e atenção à tríplice fronteira, ainda que historicamente neutro.",
       "speaker": {
         "name": "ALESSANDRO VISACRO",
-        "position": "Coronel da Reserva - Exército Brasileiro"
+        "position": "Coronel da Reserva - Exército Brasileiro",
+        "slug": "alessandro-visacro"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -413,7 +447,8 @@
       "summary": "Ex-Diretor-Geral da Força Nacional abordou a complexidade da ameaça terrorista no Brasil, com ênfase na dificuldade de policiar e ocupar extensas fronteiras secas e marítimas. Sugeriu soluções tecnológicas e de inteligência, participação em eventos esportivos e integração dos órgãos de segurança e defesa. Destacou a importância do investimento federal para combater crimes e ameaças nas fronteiras.",
       "speaker": {
         "name": "Coronel Aginaldo",
-        "position": "Ex Diretor-Geral da Força Nacional"
+        "position": "Ex Diretor-Geral da Força Nacional",
+        "slug": "coronel-aginaldo"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -436,7 +472,8 @@
       "summary": "Caucaia: segunda cidade mais violenta do Ceará e quinta do Brasil, ameaçada por facções como GDE, PCC e Comando Vermelho. A polícia militar do Ceará precisa de maior apoio para combater esses grupos e manter a segurança dos 350 mil habitantes.",
       "speaker": {
         "name": "Coronel Aginaldo",
-        "position": "Ex Diretor-Geral da Força Nacional"
+        "position": "Ex Diretor-Geral da Força Nacional",
+        "slug": "coronel-aginaldo"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -459,7 +497,8 @@
       "summary": "Professor de Relações Internacionais discute situação em Gaza e tríplice fronteira: Israel elimina terroristas Hamas, atenção a rede radical libanesa no Brasil. Cooperação com inteligência americana é mencionada. Preocupação com inimigo interno no Brasil, especificamente o executivo. Governo brasileiro encorajado a tomar posição sobre relações com Venezuela e Bolívia.",
       "speaker": {
         "name": "CHRISTIAN LOHBAUER",
-        "position": "Professor de Relações Internacionais"
+        "position": "Professor de Relações Internacionais",
+        "slug": "christian-lohbauer"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -494,7 +535,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -518,7 +561,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -530,7 +574,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -541,7 +586,8 @@
       "summary": "Professor discute terrorismo no Brasil, particularmente na Tríplice Fronteira, com risco de recrutamento e financiamento por grupos como Hezbollah, Hamas e Okaeda. Resposta abrangente necessária, envolvendo setores públicos e privados, para combater terrorismo globalmente.",
       "speaker": {
         "name": "JORGE LASMAR",
-        "position": "Professor Permanente do Programa de Pós-Graduação em Relações Internacionais da PUC Minas e Doutor em Relações Internacionais pela London School of Economics and Political Science (LSE, Inglaterra)"
+        "position": "Professor Permanente do Programa de Pós-Graduação em Relações Internacionais da PUC Minas e Doutor em Relações Internacionais pela London School of Economics and Political Science (LSE, Inglaterra)",
+        "slug": "jorge-lasmar"
       }
     },
     {
@@ -551,7 +597,8 @@
       "transcription": "Muito obrigado, professor Lasmar. E eu",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sanderson -- por Participante -- General Pazuello",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sanderson-por-participante-general-pazuello"
       }
     },
     {
@@ -563,7 +610,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -575,7 +623,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -586,7 +635,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -598,7 +648,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -610,7 +661,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     },
     {
@@ -622,7 +674,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -634,7 +687,8 @@
       "speaker": {
         "id": 220611,
         "name": "General Pazuello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-pazuello"
       }
     }
   ],

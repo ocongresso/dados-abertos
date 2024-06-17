@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bia Kicis -- por Participante -- Josenildo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bia-kicis-por-participante-josenildo"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Josenildo -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-josenildo-por-participante-bia-kicis"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     }
   ],

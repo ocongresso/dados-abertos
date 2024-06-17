@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Desde 1856, evoluíram equipamentos e armamentos, mas a atenção dos patrulheiros é imutável em Goiás, presente em todos os lugares, marcado pela profissionalismo, qualificação e confiabilidade. Uma nova abordagem de segurança pública é implementada em Goiás, chamada \"Smith\".",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Assistente Policial Militar do Congresso Nacional agradece convidados, elogia coronel Muller, reconhece importância de Polícia Militar no país. Valoriza história e papel deles, deseja maior presença militar no evento. Reitera compromisso com sociedade.",
       "speaker": {
         "name": "CORONEL NEWTON NERY DE CASTILHO",
-        "position": "Assistente Policial Militar do Congresso Nacional"
+        "position": "Assistente Policial Militar do Congresso Nacional",
+        "slug": "coronel-newton-nery-de-castilho"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Agradecimento a Deus e cumprimentos a autoridades presentes;",
       "speaker": {
         "name": "CORONEL ALLAN PEREIRA CARDOSO",
-        "position": "Comandante do 17º Comando Regional, neste Ato representando o Comando Geral da Polícia Militar de Goiás"
+        "position": "Comandante do 17º Comando Regional, neste Ato representando o Comando Geral da Polícia Militar de Goiás",
+        "slug": "coronel-allan-pereira-cardoso"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": "Reunião homenageando Polícia Militar de Goiás; louvor à história e importância da corporação desde a independência, reconhecendo contribuições e atuação na governabilidade e paz social. Menção à disciplina das polícias militares e bombeiros, 400 mil ocorrências atendidas em SP em 2022, aprovação das polícias militares no Brasil é de 60%.",
       "speaker": {
         "name": "CORONEL ELIAS MILER",
-        "position": "Diretor da Federação Nacional de Oficiais do Estado de São Paulo"
+        "position": "Diretor da Federação Nacional de Oficiais do Estado de São Paulo",
+        "slug": "coronel-elias-miler"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     }
   ],

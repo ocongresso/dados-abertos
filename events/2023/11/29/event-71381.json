@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Acabei de estar posta aqui. Lá no fundo do plenário. Está encerrada",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Deputado Gilberto Nascimento presidente, Luiz Ovando 1° vice-presidente, Daniel Agrobon 2° vice-presidente, Rogéria Santos 3° vice-presidente; empate em votação, nenhuma abstenção.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Novo presidente assume cargo com aplausos; deseja iniciar trabalhos bem.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Raimundo Santos -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-raimundo-santos-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -215,7 +232,8 @@
       "summary": "Próxima reunião planejada, presidente requisitado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Dr. Luiz Ovando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-dr-luiz-ovando"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 221329,
         "name": "Ricardo Abrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-abrao"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Permissão concedida para debater acordo enquanto dura votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -111,7 +119,8 @@
       "summary": "Tempo de votação encerrado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bia Kicis -- por Participante -- Junio Amaral",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bia-kicis-por-participante-junio-amaral"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -133,7 +143,8 @@
       "summary": "Novo segundo vice-presidente: André Fernandes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Junio Amaral -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-junio-amaral-por-participante-bia-kicis"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Deputado Evair de Melo agradece, pediu retirada de item 14 solicitando ministro Mauro Vieira esclarecer medidas do governo brasileiro sobre prisão de turistas brasileiras por tráfico de drogas na Alemanha, causada por troca de etiquetas de malas no aeroporto de Guarulhos. Recebeu denúncias da inocência das turistas, mas estavam presas a despeito das provas da quadrilha em Guarulhos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 143632,
         "name": "Domingos Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-neto"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -299,7 +323,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -310,7 +335,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -322,7 +348,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -334,7 +361,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -345,7 +373,8 @@
       "summary": "Agradecimento por ser escolhido pela maioria da comissão.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bia Kicis -- por Participante -- André Fernandes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bia-kicis-por-participante-andre-fernandes"
       }
     },
     {
@@ -357,7 +386,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -369,7 +399,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -380,7 +411,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -391,7 +423,8 @@
       "summary": "Senadora Kicis sugeriu que, caso necessário, se possa fazer verificação do artigo 58 da Constituição, que permite solicitar depoimento de qualquer cidadão. Ela apoiou o pedido de Jorge Sola para convidar Rodrigo Tacla Duran a falar à comissão sobre acusações feitas. Discussão será submetida à votação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- André Fernandes -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-andre-fernandes-por-participante-bia-kicis"
       }
     },
     {
@@ -403,7 +436,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -415,7 +449,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -427,7 +462,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -438,7 +474,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -450,7 +487,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -462,7 +500,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -474,7 +513,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -485,7 +525,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -497,7 +538,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -508,7 +550,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -520,7 +563,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -531,7 +575,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -543,7 +588,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -554,7 +600,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -566,7 +613,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -578,7 +626,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -589,7 +638,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -601,7 +651,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -612,7 +663,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -623,7 +675,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -635,7 +688,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -647,7 +701,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -659,7 +714,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -671,7 +727,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -683,7 +740,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -695,7 +753,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -707,7 +766,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -719,7 +779,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -730,7 +791,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -742,7 +804,8 @@
       "speaker": {
         "id": 204409,
         "name": "Daniel Trzeciak",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-trzeciak"
       }
     },
     {
@@ -754,7 +817,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -766,7 +830,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -778,7 +843,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -789,7 +855,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -801,7 +868,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -813,7 +881,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -824,7 +893,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -836,7 +906,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -847,7 +918,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -859,7 +931,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -870,7 +943,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -881,7 +955,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -893,7 +968,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -905,7 +981,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -917,7 +994,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -928,7 +1006,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -939,7 +1018,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -950,7 +1030,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -962,7 +1043,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -974,7 +1056,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -986,7 +1069,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -997,7 +1081,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1008,7 +1093,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -1019,7 +1105,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1031,7 +1118,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -1043,7 +1131,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -1054,7 +1143,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1066,7 +1156,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1078,7 +1169,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1090,7 +1182,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1102,7 +1195,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -1114,7 +1208,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1126,7 +1221,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -1138,7 +1234,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1150,7 +1247,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -1161,7 +1259,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1173,7 +1272,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1184,7 +1284,8 @@
       "summary": "Votação iniciada, apenas requerimento de deputado Jorge Solo discutido; comissão não deve atuar como determinado.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1196,7 +1297,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -1208,7 +1310,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1220,7 +1323,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1232,7 +1336,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -1243,7 +1348,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1255,7 +1361,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -1267,7 +1374,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -1279,7 +1387,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1291,7 +1400,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -1303,7 +1413,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1315,7 +1426,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -1327,7 +1439,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -1338,7 +1451,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1350,7 +1464,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -1361,7 +1476,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1373,7 +1489,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -1385,7 +1502,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1396,7 +1514,8 @@
       "summary": "Requerimento rejeitado: 19 sim, 8 não, 0 abstenção; resultado proclamado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -1408,7 +1527,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -1419,7 +1539,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1431,7 +1552,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1443,7 +1565,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     }
   ],

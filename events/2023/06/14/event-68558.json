@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "São quarenta sessões. A Leandro, falaram que ela deu pulinho no outro plenário, mas ela já está voltando pra Com certeza. Eu indago se algum parlamentar presente",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alberto Fraga -- por Participante -- Yandra Moura",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alberto-fraga-por-participante-yandra-moura"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     }
   ],

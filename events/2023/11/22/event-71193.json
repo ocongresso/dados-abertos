@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

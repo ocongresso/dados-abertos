@@ -18,7 +18,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Queria informar aos nobres pares, que tivemos probleminha técnico.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -95,7 +102,8 @@
       "transcription": "Convido",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Márcio Marinho -- por Participante -- Jorge Braz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcio-marinho-por-participante-jorge-braz"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Deputado expressa gratidão a Deus e eleitores; relata visita a filho em prisão, onde recebeu mensagem de \"não trair o povo\"; elogia Membro do Senado por brilhante trabalho e origem humilde; destaca importância da comissão em defender o povo; pede unidade na comissão como missão em defender a população do Brasil.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],

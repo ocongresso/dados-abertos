@@ -18,7 +18,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Não, claro.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Então item quarenta, projeto",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -119,7 +128,8 @@
       "transcription": "Item quarenta, projeto",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Kiko Celeguim -- por Participante -- Mauricio Marcon",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-kiko-celeguim-por-participante-mauricio-marcon"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     }
   ],

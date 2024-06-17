@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônias convidou Deputada Gisela Simona, Deputado Lúcio Moschini, e Vice-presidente Sóstenes Cavalcanti a falarem.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Mestre de Cerimônias convida para assistir vídeo sobre programa intercambio legislativo.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -55,7 +59,8 @@
       "summary": "Programa intercâmbio legislativo na Câmara dos Deputados em Brasília; vereadores e vereadoras de todo o Brasil experimentarão vida parlamentar, conhecendo instalações e trabalho dos deputados em comissões e plenário. Evento visa fortalecer democracia e legislativo por meio de experiência e ideias compartilhadas. Parabéns a participantes.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -65,7 +70,8 @@
       "transcription": "Registramos a presença.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -76,7 +82,8 @@
       "summary": "Mestre de Cerimônias convidou Deputada Gisela Simona, deputado Lúcio Moschini, e deputado Sóstenes Cavalcanti (segundo vice-presidente da Câmara dos Deputados) para falarem.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -88,7 +95,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -98,7 +106,8 @@
       "transcription": "Convidamos agora pra fazer uso da palavra o quarto secretário da mesa Lúcio Moschini.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -110,7 +119,8 @@
       "speaker": {
         "id": 178954,
         "name": "Lucio Mosquini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucio-mosquini"
       }
     },
     {
@@ -120,7 +130,8 @@
       "transcription": "",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -132,7 +143,8 @@
       "speaker": {
         "id": 220608,
         "name": "Cristiane Lopes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "cristiane-lopes"
       }
     },
     {
@@ -142,7 +154,8 @@
       "transcription": "Deputada Gisela Simona. E convido também para compor a mesa o deputado Lúcio Moschini, quarto secretário da mesa. Convidamos a fazer uso da palavra o segundo vicepresidente da Câmara dos Deputados, deputado Sóstenes Cavalcanti. Boa",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -153,7 +166,8 @@
       "summary": "Chefe de Gabinete da Presidência da Câmara: agradece convite, representa Presidente, estressa importância do evento, agradece equipe, menciona vereadores de diversas regiões, deseja sucesso, oferece ajuda e incentiva a aprender sobre orçamento e competências legislativas.",
       "speaker": {
         "name": "NATÁLIA MORATO",
-        "position": "Chefe de Gabinete da Presidência da Câmara"
+        "position": "Chefe de Gabinete da Presidência da Câmara",
+        "slug": "natalia-morato"
       }
     },
     {
@@ -164,7 +178,8 @@
       "summary": "Mestre de Cerimônias agradeceu convite e representou Arthur Lira. Louvou vereadores presentes e agradeceu equipe do evento. Apresentou programação com visita ao prédio, workshop e aulas sobre orçamento público e competências legislativas municipais. Desejou sucesso e ofereceu disposição a participantes.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -175,7 +190,8 @@
       "summary": "Diretor Geral da Câmara elogia inovador intercâmbio, experiência enriquecedora que fortalece laços e beneficia democracia e povo brasileiro. Parabéns à vice-presidência.",
       "speaker": {
         "name": "CELSO DE BARROS CORREIA NETO",
-        "position": "Diretor Geral da Câmara"
+        "position": "Diretor Geral da Câmara",
+        "slug": "celso-de-barros-correia-neto"
       }
     },
     {
@@ -185,7 +201,8 @@
       "transcription": "Deputada Gisela Simona. E convido também para compor a mesa o deputado Lúcio Moschini, quarto secretário da mesa. Convidamos a fazer uso da palavra o segundo vicepresidente da Câmara dos Deputados, deputado Sóstenes Cavalcanti. Boa",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -196,7 +213,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -206,7 +224,8 @@
       "transcription": "Final agora, o deputado Sócides Cavalcanti, vicepresidente da Câmara dos Deputados. Segundo",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -218,7 +237,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -229,7 +249,8 @@
       "summary": "Mestre de Cerimônias solicita: registro da presença de vereadores, importância do registro em 50% das aulas para certificado, novo cronograma nas pastas. Anuncia: aula inaugural em forma de debate sobre eleições 2024, mediada por Roberto Carlos Pontes, com participação de Tarcísio Vieira, Maria Cláudia Bucanieri Pinheiro, e Fabrício Juliano Mendes Medeiros.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     },
     {
@@ -239,7 +260,8 @@
       "transcription": "",
       "speaker": {
         "name": "ROBERTO CARLOS PONTES",
-        "position": "Consultor Legislativo da Câmara"
+        "position": "Consultor Legislativo da Câmara",
+        "slug": "roberto-carlos-pontes"
       }
     },
     {
@@ -249,7 +271,8 @@
       "transcription": "A todos, é bastante difícil traduzir em palavras a honra, a distinção, que me coube a partir do gentil convite formulado pelo segundo vicepresidente da câmara, deputado Sóustenilson Cavalcanti pra participar, dessa tarde por alguns minutos sem prejuízo de outros encontros de uma troca de impressões, de inquietações, em torno do fenômeno eleitoral. Eu gostaria de saudar o distinto auditório, saudar também os integrantes da mesa, presidida pelo Professor Roberto Carlos Pontes, que conheço de longa data, inclusive da Seara acadêmica, participando de inúmeras bancas de graduação, mestrado, doutorado em torno da temática direito eleitoral. O evento também me dá a oportunidade, Professor Roberto Carlos, de rever os diletos amigos que estão à direita e à esquerda, sem trocadilho, aqui ao meu lado, a insigne ministra Maria Cláudia Buchianeri, que também conheço desde muito jovem, ambos, e sempre que ia encontro, me lembro daquela passagem da Bachelet, no Chile que dizia que, quando uma mulher entra na política, muda a mulher, quando várias entram na política muda a política, e quando várias entram com o perfil da ministra Ducchianeri, a política muda definitivamente pra algo bastante melhor. A minha esquerda, saudado por último, mas não menos importante, está aqui o Doutor Fabrício. Fabrício é dos ícones, dos pontísticos da advocacia eleitoral, tem décadas de bons serviços prestados à advocacia eleitoral, testemunhei sua atuação enquanto advogado, testemunhei sua atuação enquanto ministro do tribunal, é por assim dizer dos príncipes da da da advocacia eleitoral brasileira, e sem nenhum tipo de exagero, constou por merecimento de listas para o Tribunal Eleitoral, e se nesse Brasil houver justiça, certamente, num curto espaço de tempo, sua excelência com certeza irá prestar também, assim como Maria Cláudia e eu prestamos, né, esse serviço obrigatório à justiça eleitoral, com certeza honrando e dignificando também a beca e a toga da mesma maneira. Minhas senhoras e minhas senhoras, eu aprendi desde muito cedo que discursos bons são discursos rápidos, e se eles forem bem rápidos nem precisam ser muito bons, né, e quem sou eu aqui do alto da minha ignorância pra ensinar padres a rezarem missa, com certeza cada uma das senhoras e dos senhores sabem muito mais de Direito Eleitoral do que eu, porque vivenciam na prática, no dia a dia, o impacto concreto dessas normas e dessas compreensões jurídicas elaboradas por nossos tribunais, de maneira que a minha participação é apenas para ressaltar algumas preocupações, trazer algumas impressões, algumas inquietações que já não são de hoje e que, muito provavelmente, vão sofrer uma dobra pra essa eleição que se avizinha e que tende a ser extremamente disruptiva por uma série de fatores. A legislação eleitoral, as senhoras e os senhores sabem muito bem, é uma legislação muito casuística. Muitos doutrinadores rotulam, né, de uma legislação em forma de carapaça, porque ela muda muito pouco, e muda apenas o suficiente pra resolver alguns picos de insatisfação social, e aquele que produz a norma eleitoral muitas vezes é o destinatário dela, e o impasse sempre surge no trato dessa matéria. Quem tem voz pra alterar a lei eleitoral, muitas vezes não tem interesse na mudança, porque são mudanças da regra de jogo vencido por essa pessoa. E quem tem interesse de mudança, não tem voz, porque não nos esqueçamos que as casas legislativas são casas de vencedores, de pessoas que passaram pelo escrutínio das urnas e tem na estimação social para representar o povo nos parlamentos. Numa rápida abordagem, extremamente sincrética, é possível divisar como premissa de tudo aquilo que será tratado nos painéis subsequentes, a existência de uma série de lacunas na legislação eleitoral, lacunas que são, não só normativas, mas são também lacunas ontológicas e lacunas axiológicas, né, pra aqueles que já militam há bastante tempo nessa matéria, antes do final da década de noventa, a vinda baila da lei das eleições, a lei nove mil quinhentos e quatro, que se pretendeu permanente, nós convivíamos com a criação pelo Parlamento de uma lei eleitoral antes de cada eleição. E nós, académicamente, sempre criticamos isso porque eram leis que forçavam a doutrina e a jurisprudência a trabalharem nos solavancos. Quando surge essa lei nove mil quinhentos quatro, quero crer que todos que estão nessa mesa aplaudimos de pé a iniciativa do legislador de trabalhar texto indefinitivo. Isso seria muito importante pra dar segurança jurídica, pra dar previsibilidade normativa, mas qual não foi nossa surpresa quando de lá pra cá, da vinda baila das eleições até os dias que correm, nós tivemos mais reformas eleitorais do que eleições, e aqueles problemas que existiam nas legislações anteriores, casoisticamente elaboradas para cada pleito apenas algumas partes do seu que alteravam apenas algumas partes do sistema, sem uma preocupação com a harmonia do todo e sempre nos estertores do prazo da anualidade. Os senhores e as senhoras sabem que a nossa constituição federal tem uma cláusula pétrea bastante importante fora do artigo sessenta, que é o 0 Locus mais conhecido das cláusulas pétreas, são aquelas cláusulas que não podem ser alteradas nem por emenda constitucional, a não ser que as alterações sejam pra aprimorar a tutela requestrada, como é o caso do artigo dezesseis, que já sofreu uma reforma pra ampliar o seu cânion, mas a partir desse dispositivo legal qualquer lei que altere o processo eleitoral, entra em vigor na data da sua publicação, mas não se aplica ao pleito que ocorra há menos de ano. Isso é muito importante justamente pra gerar previsibilidade, pra que as regras do jogo eleitoral não sejam alteradas durante o jogo eleitoral. E se assim é para o legislador que fabrica normas no vazio normativo, normas de primeira ordem, também deve ser ou também deveria ser para os tribunais. O mesmo artigo 16 que imuniza a tônica democrática dessas alterações legislativas casuísticas, também deveria ser obstáculo aginadas jurisprudenciais abruptas dos tribunais brasileiros em meio ao processo eleitoral. Os senhores já percebem nas entrelinhas dessa fala, uma preocupação com a nossa realidade fenomenica. Uma segunda observação que eu faria, e e me parece muito importante, é que, não só no Brasil, mas em toda a América do Sul, na América Latina, no continente europeu, nos Estados Unidos da América, convivese a mais do poder com aquilo que nós podemos chamar de alguns impasses de algumas armadilhas que estão aí a olhos nus para serem vistos por especialistas ou leigos, por letrados ou até mesmo por pessoas míopes. A democracia encontrase, por assim dizer, não Estado de alerta. E se os senhores puxarem pela memória, essas achegas de desnaturação da tônica democrática, antes eram facilmente perceptíveis porque eram ruidosas, eram barulhentas, como não lembrar do bombardeio no Palácio Lamoneda, em Santiago do Chile, bombas caíram sobre esse palácio. Então os ataques à democracia eram ataques mais visíveis, mais pirotécnicos. Hoje não, hoje não. A democracias, a democracia encontrase questionada por ataques que são silenciosos, por ataques que são insidiosos, como se fossem botes traiçoeiros, e normalmente ataques insidiosos, silenciosos, botes traiçoeiros sobre instrumentos da própria democracia, como cortes eleitorais, como supremo tribunal federal, como o próprio processo eleitoral. Então percebam que mesmo na boca de déspotas extremamente autoritários, o discurso da democracia é utilizado como super trunfo. Déspotas autoritários, a partir de visões mais ou menos exóticas do que seja democracia, enchem a boca pra dizer, mas eu fui eleito. Minhas contas foram aprovadas, a Justiça Eleitoral deferiu meu registro. Mas vejam as senhoras e senhores, que tudo isso, feito a partir de elemento de consideração puramente formal. E é nesse ponto que me parece que devem ser direcionadas às nossas atenções. Nós estamos vivendo momento em que os próprios fundamentos do Estado de direito estão em plena revisitação. Vejam, supremacia da constituição, separação de poderes, superioridade da lei, direitos garantidos individuais, características inegociáveis do estado direito, enquanto fenômeno de superação do próprio absolutismo. No absolutismo, sim, o Estado estava acima da ordem jurídica. Era portanto juridicamente indemandável, e nós tínhamos que acreditar em homens, na boa intenção desses homens. E houve sim, alguns désputas esclarecidos. A anda ontem falava disso no no Tribunal Eleitoral. Amurabi, por exemplo, que escreveu o seu código de Hamurabi, duzentos e oitenta e dois artigos numa monumental pedra preta, encontrada numa escavação inglesa na cidade de Susa, na Pérsia, artigos que são de atualidade extremamente reluzente, mas que tem fio condutor, jamais limitando o poder de Hamurabi. O estado absolutista portanto reconhecia direitos, até com uma certa prodigalidade, mas direitos no plano da planície, entre particulares, jamais limitando o poder do estado. No estado de direito não, nós substituímos essa crença na boa intenção dos homens, por mais bem intencionados que sejam, pela crença na lei, no império da lei, como produto de consenso possível e as senhoras e os senhores sabem como é difícil encontrar alguns consensos, em meio a processos legislativos. Então vejam que, nos dias que correm, nós temos uma possibilidade real desses signos do estado direito estarem sendo utilizados, justamente, no sentido da erosão do seu símbolo material. Vejam, direitos e garantias individuais, separação de poderes, superioridade da lei, supremacia da constituição, nada serão, se trabalhadas apenas sob o aspecto formal. Eu dizia ontem, Maria Cláudia, Fabrício, Roberto, modestamente, modestamente, fazia as seguintes perguntas a auditório ilustrado como esse que está à minha frente. Aí sim olha os senhores acham que é por acaso que o Congresso Nacional se anima a discutir temas como limitação dos poderes monocráticos de ministros dos tribunais superiores. Formas de cooptação de ministros dos tribunais superiores, que é projeto que isso não me falha a memória do então deputado ainda Flávio Dino. Discursos políticos antecipando problemas em sabatinas de membros de tribunais superiores. Então vejam, não vai aqui individualização de quem quer que seja, e muito menos uma crítica à instituição que eu amo que é a Justiça Eleitoral, quem eu dediquei os melhores anos das nossas vidas. Mas a justiça precisa se abrir para a realidade, a realidade de cada uma das senhoras e dos senhores. É muito fácil aqui de Brasília, encastelados em torres de marfim, em prédios os mais luxuosos possíveis, com as melhores equipes, com os melhores maquinários e computadores, pra ficar julgando, anos depois uma realidade que nos é desconhecida. Falta sensibilidade ao poder judiciário, a meu sentir, e eu dou a mão com a umatória, falta o Poder Judiciário entender que por trás do processo existe ser humano, sensível à dor, ao sofrimento, que aquilo não é das secas, da Amazônia profunda, do Pantanal. Julgar uma pessoa sem se colocar no lugar dessa pessoa? Isso falta. E o que sobra? Sobra a meu sentir, e essa é a minha preocupação principal nessa fala. Uma moderação, uma autocontenção, respeito mundo, ao ato administrativo e ao ato jurídico. Julgar é aplicar a lei mediante provocação, administrar é aplicar a lei de ofício, Não é a favor, não é liberalidade, é dever concreto, que advém da ordem jurídica reconhecer, que o interesse público muitas vezes está no reconhecimento da posição do particular. Que o endereço público não é o interesse em favor do estado, que o direito público não é direito em favor do estado, mas sim contra o estado. Porque é da experiência humana que todo aquele que maneja do poder tende a dele abusar, inclusive o poder do poder judiciário. Se todo poder emana do povo em seu nome será exercido, todo, eu não sou bom de matemática, a não ser na cobrança de honorários, né Maria Cláudia, muitos de nós do direito escolhemos o direito, porque não éramos bons, nas exatas, mas quando eu leio no texto constitucional todo poder, é cem por cento do poder, não é noventa e nove, não é noventa e oito por cento. Então poder do poder judiciário também é exercitado em nome do povo, não é que o judiciário tenha que julgar segundo a opinião pública, não, absolutamente não, mas todo e qualquer juiz precisa ter consciência e isso não é desdouro de que bom juiz está aqui pra servir a constituição cujos cânions são exatamente os obstáculos ao excesso de poder. Eu agradeço muitíssimo à possibilidade que me deram de, de alguma forma, externar essas preocupações e devolvo a palavra ao meu querido amigo professor Roberto Carlos Pontes, não é, para prosseguimento do nosso painel. Muito obrigada senhoras e senhores. Bem.",
       "speaker": {
         "name": "TARCÍSIO VIEIRA DE CARVALHO NETO",
-        "position": "Advogado e Jurista"
+        "position": "Advogado e Jurista",
+        "slug": "tarcisio-vieira-de-carvalho-neto"
       }
     },
     {
@@ -260,7 +283,8 @@
       "summary": "Consultor Legislativo da Câmara mencionou desafios da justiça eleitoral, como uso de inteligência artificial em campanhas e falta de estabilidade de regras. Também destacou a emenda constitucional 111, que permite consultas populares em municípios sobre questões locais de forma simplificada.",
       "speaker": {
         "name": "ROBERTO CARLOS PONTES",
-        "position": "Consultor Legislativo da Câmara"
+        "position": "Consultor Legislativo da Câmara",
+        "slug": "roberto-carlos-pontes"
       }
     },
     {
@@ -270,7 +294,8 @@
       "transcription": "Eu quero iniciar saudando primeiro agradecendo a oportunidade à Câmara dos Deputados, especialmente a segunda vicepresidência, na pessoa do deputado Sóch Luiz Cauã Kant. Quero cumprimentar o Professor Roberto Carlos, com quem tem tido, principalmente nos últimos meses, a felicidade de encontrar em várias bancas discutindo sempre a temática eleitoral, principalmente lá no IBP, né, onde nossos alunos se esmeram pra produzir uma massa crítica interessante em matéria eleitoral. Cumprimentar também o ministro de ontem, de hoje e de sempre, Tarcísio Vieira, de Carvalho Neto, a ministra Maria Cláudia Buchianeri Pinheiro, dois ministros que sempre foram enquanto advogados inspiração pra nós advogados, eu sei que falo em nome de toda classe. E continuam sendo inspiração pra todos nós, principalmente depois da passagem que tiveram perante o Tribunal Superior Eleitoral. Então são grandes inspirações, são espelhos, e são também faróis, né, que apontam a direção pra onde nós advogados devemos ir e continuarmos pra continuarmos exercendo a nossa função da melhor forma possível. Eu quero, além de agradecer, enaltecer, homenagear a câmara e principalmente a segunda vicepresidência por essa iniciativa, e torcendo pra que outras, outros eventos como esse possam acontecer, dada a importância dos temas que são aqui debatidos, e dada a importância desse intercâmbio que se estabelece com a vinda de vocês, pra que a gente escute, né a experiência de cada de vocês. No exercício cotidiano de mandato parlamentar, na base né na na pirâmide democrática, e ao mesmo tempo com essa entrega que a gente pode eventualmente fazer pra vocês a partir de reflexões que nós fazemos que nós, produzimos em relação a esses temas. Cumprimentar também os servidores da casa, o professor Roberto está aqui, mas eu queria fazer esse cumprimento especial em nome de três servidores que já foram mencionadas mas eu não quero deixar também de mencionar. Ana Groba, Fabíola Caixeta e Ludmilla. Queria cumprimentar todos os colaboradores da casa dessa Câmara dos Deputados e, assim parabenizálas por pela organização do evento. E por fim, mas não menos importante, a todas, as senhoras e todos os senhores. O tema que me foi dado, eu confesso que não é tema muito simpático, mas é tema necessário, né. Se todos são vereadores e vereadoras, vocês pelo menos participaram de uma campanha eleitoral. E a prestação de contas é uma etapa do processo eleitoral, que lembra muito filme né que passava na Sessão da Tarde, que tinha como título, Eu Sei o Que Você Fez no Verão Passado. Naquela necessidade né de ganhar a eleição, de angariar os votos necessários para a eleição, às vezes o candidato ou a candidata mete os pés pelas mãos. E esquece, que essa escorregada, principalmente no campo da prestação de contas, pode trazer algumas consequências muito graves, dentre as quais a própria perda do mandato. E aí, me deram esse tema pra lembrar a todos vocês que é importante, todo empenho durante a campanha eleitoral, mas é importante tomar alguns cuidados. Como disse o meu antecessor, na sua brilhante explanação, o ministro Tarcísio, amigo Tarcísio, Eu também não estou aqui na posição de ensinar terço, a freiras, não dá pouco, né. Mas, eu tenho por missão aqui trazer algumas lembranças, rememorar alguns aspectos, dentro da temática da prestação de contas, sabendo todavia, que é muito provável que no ano que vem o Tribunal Superior Eleitoral edite uma nova resolução. Ajustando as regras da prestação de contas. Mas é bem verdade que a espinha dorsal, nessa temática ela se mantém. Algumas novidades poderão aparecer, mas tópicos, pontuais. A lógica do que nós temos em termos de prestação de contas, ela vai se manter. Então eu tenho uma breve apresentação aqui, mas eu vou correr até porque o tempo ele está, escasso no dia de hoje. Peço gentileza e que possam passar a próxima. Obrigado. Então o que que a gente tem, o que que eu queria trazer pra vocês? Por que que a gente deve prestar contas né? Do ponto de vista filosófico né de inspiração, o dever de prestar contas ele nasce, pela necessidade que tem à Justiça Eleitoral, de fiscalizar controlar as campanhas eleitorais. É importante saber, de onde vem o dinheiro para as campanhas eleitorais. Quem está financiando a democracia no país? Tirando aquela aquele financiamento que é vedado. Mesmo assim remanece o direito da sociedade brasileira, de procurar saber, de saber, de ter a informação sobre, quem financia determinado candidato uma determinada candidata. E esse dever, ele cresce em importância se nós pararmos pra pensar que muito mais do que noventa por cento dos recursos injetados em campanhas eleitorais, são recursos, hoje, de origem pública. Então por duplo fundamento, por uma dupla razão de ser, existe a obrigação de todo aquele, de todo aquela, que queira se lançar num pleito eleitoral como candidato ou candidata, de prestar contas à Justiça Eleitoral. É preciso portanto fomentar, né, transparência, o maior transparência, pra que isso seja fator que confere legitimidade à eleição e ao eleito. Tudo isso na perspectiva de de se prevenir o nefasto abuso do poder econômico. E é interessante a gente relembrar aqui o seguinte, não se faz campanha eleitoral sem recursos financeiros. Portanto, pode gastar, deve se gastar. O que se pretende como uma prestação de contas, mas nem sempre ela chega a essa a essa conclusão, mas o que se pretende com o sistema racional de prestação de contas o nosso com o devido respeito não é racional, mas a gente precisa se submeter a ele. É, nada mais nada menos do que prevenir, evitar o abuso do poder econômico porque esse abuso termina conspurcando a legitimidade da eleição e do resultado, apresentado por essa eleição. Portanto o direito o cidadão tem o direito a obter essas informações relacionadas a quem está financiando ou a quem financiou determinado candidato e candidato. E aí basta lembrar o seguinte, a Justiça Eleitoral vem se, aperfeiçoando tanto nessa Seara, que esse acompanhamento pode se dar até mesmo em tempo real. Com algum delay, mas quase que em tempo real. Porque é importante que o candidato, perdão, que o eleitor, acompanhe a arrecadação de recursos e o gasto desses recursos arrecadados pelo candidato que poderá em outubro receber o voto de confiança do eleitor. Então eu tenho direito de ir acompanhando, a execução financeira orçamentária e financeira digamos assim da campanha de candidato que pode receber o meu voto lá em outubro, pra ver se de fato ele vem se se comportando de acordo com a legislação, e pra que eu veja como eleitor, se aquele candidato ou candidata está recebendo recursos de alguma fonte que pra mim é aceitável. Próximo por favor. Quem é que prestar contas? Muito rapidamente. O candidato. Ele tem obrigação de prestar contas. E aqui a lei das eleições ela tem parágrafo parágrafo segundo parágrafo primeiro que dizem rigorosamente a mesma coisa. A prestação dos candidatos é feita pelo próprio candidato. Ou seja, a responsabilidade pelas contas é do candidato. Então o candidato ele pode até delegar essa missão, mas a responsabilidade por eventual deslize, por eventual, irregularidade, é do próprio candidato. Existem formas simplificadas de prestação de contas, isso é uma novidade trazida pela resolução do TSE, última resolução a vinte e três seiscentos e sete de dois mil e dezenove. E são dois tipos de prestação de contas. Uma prestação de contas simplificada, isso é importante porque a gente tem Brasil muito extenso, muito desigual, com realidades diferentes e isso termina repercutindo na própria realidade eleitoral. Existem candidatos ao cargo de vereador de municípios que são completamente desiguais, e que portanto vão possuir estruturas diferentes, que vão arrecadar montantes diferentes. E aí a legislação em boa hora trouxe procedimento simplificado de prestação de contas, e procedimento que a gente chama de comum. No simplificado. Pode passar por gentileza. No no simplificado, pode passar por favor. No simplificado, o que que a gente tem? Quando é que ele se aplica? Quando os candidatos apresentarem movimentação financeira, correspondente a no máximo vinte mil reais, atualizados monetariamente. E naquelas situações em que prefeito, naquelas eleições para prefeito e vereador, com menos em municípios com menos de cinquenta mil eleitores, e aí independentemente do valor da movimentação financeira. Essas duas hipóteses, terminam abraçando a maioria, das situações, verificadas nos municípios brasileiros. Então hoje dá pra dizer, que grande parte das prestação de contas, nas eleições de dois mil e vinte e quatro, se darão por meio da simplificada. E eu estou falando de prefeito, prefeitos e vereadores. Então a grande maioria simplificada. E tem a prestação de contas comum, que que é aquela prestação de contas que tem espaço quando não se tem, portanto, nem candidatos que arrecadaram no máximo vinte mil reais, ou candidatos em municípios com mais de cinquenta mil eleitores. A consequência das duas formas de prestação de contas as consequências são as mesmas. Pode passar por gentileza. E daqui a pouco eu falo dessas consequências. O que que se informa na prestação de contas? Uma série de informações, uma série de elementos perdão, uma série de dados que são levados ao conhecimento da Justiça Eleitoral, como a qualificação do prestador, recibos emitidos né, cada doação que é recebida, os senhores e as senhoras precisam emitir recibo eleitoral. Ainda que não seja uma doação, financeira, mas uma doação estimava em dinheiro, isso gera também o dever de, emitir ar recibo eleitoral. Quais as doações que foram efetuadas pelo candidato, pela candidata? Despesas que foram realizadas então se eu tenho uma conta no meu Instagram, no Facebook, no Twitter, e essa conta ela é administrada, com o meu perfil de candidato. Isso é gasto eleitoral, uma despesa eleitoral e eu preciso escritural, eu preciso mostrar à justiça eleitoral que eu gastei com esse recurso. Eventuais, dívidas de campanhas que foram deixadas sem a quitação, precisa informar a justiça eleitoral. Então com uma série de elementos pra que a justiça eleitoral possa, quando da verificação das contas, a partir da análise desses elementos, dos estratos bancários que serão juntados, dos contratos que foram celebrados, dos relatórios de atividades, ela possa verificar a rigidez das contas a partir do que foi arrecadado, e que foi gasto. Próximo por favor. Também na mesma linha, esse aqui eu posso disponibilizar pro senhores e as senhoras depois se vocês quiserem não tem problema. E aí como eu estou com tempo pouco mais curto, a gente tem depois de apresentados esses documentos, procedimento que vai ser aberto pela justiça eleitoral. A prestação de contas é feita pelo candidato independentemente da prestação de contas do partido. Ah Fabrício, o partido prestou contas então eu estou tranquilo né. Não, você tem que prestar também. São contas diferentes. E o candidato vai prestar contas sempre pelo SPCR, sistema disponibilizado pela Justiça Eleitoral no próprio site da Justiça Eleitoral, tipo formulário, e a partir dali vocês vão lançar, vocês ou O procedimento até certo ponto simples, do ponto de vista processual, mas é importante ficar atento pra que, eventual goza eventual contestação eventual apontamento da Justiça Eleitoral possa ser resolvido antes do julgamento, não gerando portanto a aprovação com ressalvas ou mesmo a desaprovação. Algumas questões surgem, durante o dia a dia de uma campanha eleitoral né, principalmente para vereadores, eu já me deparei com algumas delas. A mais recorrente é, Fabrício, eu não tenho a menor pretensão de arrecadar recursos. Eu vou fazer uma campanha eleitoral, livre de aplicação de recursos, só com base em voluntários. Eu preciso abrir conta? Sim. Mas eu não vou. Abra. Abra. Abra. Por que que é preciso abrir? Pra você mostrar à Justiça Eleitoral de que mesmo com conta aberta você não teve movimentação financeira. É a prova documental de que foi aberta uma conta para eventualmente arrecadar e gastar. E não houve movimentação bancária a partir daí a justiça eleitoral vai verificar o que que você fez na prática em termos de campanha eleitoral. Pra ver se essa informação que você está a dizer, a partir de uma movimentação bancária zerada, corresponde à realidade. Há inúmeros precedentes de que a não abertura da conta bancária já enseja a rejeição das contas. Então é pra abrir. Ah Fabrício a burocracia não tem desculpa não tem mais o que argumentar, nem Maria Cláudia e Tarcísio juntos no processo, conseguem eu acho reverter essa derrota. Portanto abram a conta. E no prazo de dez dias, a contar do recebimento do CNPJ, que vai ser disponibilizado pela Receita Federal. Portanto abra. E mais, se você não abre, a conta dentro desse prazo, você perde a oportunidade eventualmente de receber algum recurso do Fefec do fundo partidário, tem que ser contas diferentes tá. Não pode ser a mesma conta. Então vamos lá. Não custa nada essa conta isenta de tarifa. Não custa nada abrir uma conta Fefec fundo eleitoral, e uma conta fundo partidário. Vai que amanhã o deputado lembra de mim, e diz vereador vereadora, eu consegui aqui quinze mil reais quero mandar pra sua conta. Ih deputado eu não abri, e já se passaram os dez dias pra abertura da conta. Então, pra que eu tenha uma estrutura mínima na minha campanha eleitoral, eu estou estudando algumas providências dentre as quais, a abertura de pelo menos duas contas. Três contas já é luxo, porque a terceira seria outros recursos. Recursos de origem privada. Nem todo mundo recebe. Então essa terceira já seria mais luxo digamos assim. Agora, fundo eleitoral e fundo partidário, a dica que eu dou, abram as tuas contas e esperem em algum momento essa possibilidade de ter algum tipo de, crédito. Bom, pra finalizar, entendi Fabrício, eu tenho que prestar contas, é procedimento que vai variar, vai depender do tamanho do meu município, né, o número de eleitores, e, de quanto eu vou arrecadar, isso. E se eu não prestar contas? E se eu for omisso nesse dever de prestar contas? Quais são as consequências? Quando a conta é julgada, a Justiça Eleitoral ela pode aprovar, aprovar, aprova quando não tem nenhum tipo de problema, Aprova com ressalvas, quando embora existam algumas irregularidades, elas são informais e não comprometem o todo da prestação de contas. Aprova com ressalvas, ou desaprova as contas. Consequências jurídicas mais graves de uma desaprovação têm? Automaticamente não. Mas, se o número de regularidades for muito grande, muito provavelmente o candidato ou a candidata, além de estar sofrendo no processo de prestação de contas, vai estar também respondendo paralelamente uma ação de investigação judicial eleitoral com fundamento no artigo trinta a, da lei das eleições. E aí uma coisa casa com a outra. Mas, a consequência pura e simples da rejeição, vai depender do caso concreto. Consequência ruim é a não prestação das contas. Por quê? Isso impede a obtenção pelo cidadão omisso. Da chamada certidão de quitação eleitoral e pra ser candidato é preciso que nós tenhamos. Condições de elegibilidade atendidas plenas, e que não incita sobre a gente nenhuma hipótese de inelegibilidade. A partir do momento em que a gente não tem não apresenta as contas a gente perde. As certidão de quitação eleitoral que impede por sua vez obter concorrer a cargo público eletivo até que essa missão venha ser sanada. E como é que eu faço pra sanar essa missão Fabrício? Você vai ter que contratar outro advogado, advogado vai fazer processo de regularização para que a partir daí você obtenha a certidão de quitação eleitoral portanto. O que se extrai de tudo isso é não tem como não prestar contas sob pena de você ter gasto muito mais elevado pra regularizar a sua situação. Eu tentei ser, o mais sucinto possível pra não extrapolar muito meu tempo. Eu espero que eu tenha aqui trazido alguns elementos que possam servir para a, a campanha eleitoral de vocês. Eu estou estou à disposição de todos, o pessoal que tem meu contato, e aí a gente pode continuar discutindo essa temática, não apenas aqui nesse encontro. E no mais eu quero desejar a todos vocês, sorte e sucesso nas eleições do ano que vem, e estada muito proveitosa aqui em Brasília sobretudo, neste intercâmbio. Muito obrigado professor.",
       "speaker": {
         "name": "FABRÍCIO JULIANO MENDES MEDEIROS",
-        "position": "Professor do Instituto de Direito Público - IDP"
+        "position": "Professor do Instituto de Direito Público - IDP",
+        "slug": "fabricio-juliano-mendes-medeiros"
       }
     },
     {
@@ -281,7 +306,8 @@
       "summary": "Consultor Legislativo da Câmara propõe simplificar prestação de contas eleitorais, priorizando relevância e materialidade. Ele sugere abordar detalhes através de resoluções, como exigência de recibos e PIX, e tratamento de declaração de ausência de movimentação financeira por resolução. Ele também destaca a importância de promover a participação de lideranças femininas em eleições para evitar candidaturas fraudulentas.",
       "speaker": {
         "name": "ROBERTO CARLOS PONTES",
-        "position": "Consultor Legislativo da Câmara"
+        "position": "Consultor Legislativo da Câmara",
+        "slug": "roberto-carlos-pontes"
       }
     },
     {
@@ -291,7 +317,8 @@
       "transcription": "É uma alegria e uma honra estar aqui com os senhores e com as senhoras nessa tarde, pra tratar de desafios para as eleições do ano que vem. O senhor e a senhora são vereadores e vereadoras, titulares de mandatos, candidatos e candidatas, sofrem na pele os efeitos de uma legislação que muda muito tempo, de uma jurisprudência que muda o tempo todo, de não saber muitas vezes o que fazer, e lá na frente, pagar o preço muitas vezes para uma conduta que não se tensionou que não se sabia. O meu assunto aqui. É sobre fraude à quota de gênero. E eu antes de tudo agradeço deputado Sóstenes pelo convite estar aqui com os senhores e com as senhoras para mim é uma alegria. Agradeço também o Doutor Roberto que está fazendo a mediação desse debate de forma tão brilhante. Cumprimento os meus amigos, de sempre já de uma vida, começo viu Tarcísio por antiguidade com o doutor Fabrício, meu amigo já, eu ia falar há cinquenta anos, mas como eu não tenho cinquenta anos, você tem. De muitas décadas, Fabrício, uma alegria estar aqui com você, Fabrício estava com saudade. Cumprimentar também o ministro Tarcísio Vieira de Carvalho, dos ministros mais brilhantes que já ocupou a cadeira no Tribunal Superior Eleitoral nos representou muito bem na classe dos juristas. Roberto, não vou falar sobre a perspectiva filosófica. Tenho falado muito há muito tempo sobre a questão da presença feminina na política, estou batendo nessa tecla há muito tempo. Isso não é uma questão filosófica, isso é uma questão de democracia. Defender a democracia não é só defender urna e resultado. Democracia não é rito formal de votação, muito embora, sem o respeito às urnas e aos resultados, sem eleições livres e periódicas não haja democracia, mas democracia não é só isso defender a democracia não é só isso. Democracia é uma pauta de valores e o primeiro deles é representatividade. Ou não? Para que serve a democracia, se não para que a sociedade se faça representar adequadamente nos espaços de poder. Então se a gente quer falar sobre defesa de democracia, a gente precisa falar sobre inclusão. Inclusão e representatividade. De mulheres, sim, de mulheres, mas não apenas. Vamos falar de negros e negras, vamos falar das comunidades dos povos tradicionais, comunidades indígenas, vamos falar de pessoas com deficiência, membros da comunidade LGBTQIA+, democracia é isso, a base olhar para mesa e se encontrar refletida. Eu vejo fotos e fotos circulando de diversos momentos relevantíssimos da nossa república, e eu fico pensando onde é que eu encontro nessa foto. Eu vi recentemente uma foto do Presidente da República anunciando o novo Ministro Supremo, e o novo procuradorgeral da república, tinham dez homens levantando os braço, não tinha uma mulher. Que escolha é essa? Que mesa é essa que eu não faço parte? Eu eu represento cinquenta e dois por cento de eleitorado. E eu sou mulher branca, mas a maioria da nossa sociedade o maior extrato da nossa sociedade o maior segmento social brasileiro são as mulheres negras, vinte e cinco por cento da nossa sociedade, elas olham pra cima elas não vêm nada. Então a gente precisa pensar o que que está acontecendo, Por que que o Brasil que é uma potência regional, índice desenvolvimento humano, PIB escolaridade. Ocupo antepenúltimo lugar no ranking da América Latina de presença feminina no Parlamento. Todos os nossos vizinhos têm mais mulheres no Parlamento do que a gente só dois que não tem mais Haiti e Honduras. Tem alguma coisa errada aqui. Nós somos uma potência em tantos os aspectos e não conseguimos projetar isso em presença feminina. Alguma coisa precisa mudar, ah existe uma cultura patriarcal, verdade? Existe uma questão religiosa, verdade também. Mas será que isso é só aqui? Os nossos vizinhos latinoamericanos não passaram por esse processo cultural colonização histórico? É muito diferente no Brasil, do México, do Chile, da Argentina. E aí a gente percebe que há algo além. O Brasil tem arcabouço jurídico institucional concebido para alijar mulheres dos espaços de poder, pronto, a gente precisa mudar a nossa lei. Pronto também. O modelo de reserva de candidatura, que existe há quase vinte anos, não trouxe os avanços que a gente queria. O Tribunal Superior Eleitoral tem enxugado gelo dentro do modelo normativo que nós temos. Tem tentado extrair da norma o máximo que ela pode oferecer. Mas isso também não tem resolvido o problema. O Tribunal Superior Eleitoral, por jurisprudência, assentou que não basta ter trinta por cento de mulheres na lista. Esse trinta por cento é obrigatório, se o partido não cumprir, a chapa inteira cai, é uma consequência grave gente, muito grave, que rompe uma tradição de pessoalidade da cassação. O TSE quando caça pessoas, a Justiça Eleitoral quando caça, ela caça candidato. Quando muito, ela caça uma chapa majoritária, são dois prefeito e vice, porque a chapa é unem indivisível, não é possível que o prefeito se elegeu com base num ilícito e o vice não, ele subiu no mesmo ticket no mesmo bilhete, você tem que caçar os dois. E de repente a Justiça Eleitoral começou a caçar lista. Lista de mandatos proporcionais, quatro cinco pessoas caindo de uma vez só. Foi uma ruptura de modelos grave consequência, volume grande de votos descartados, isso não é banal. Aindagase a despeito disso. A presença feminina tem aumentado? Não. O TSE determinou que não basta trinta por cento na lista, tem que dar trinta por cento do tempo de rádio e TV, tem que dar trinta por cento do dinheiro, o TSE tem feito o que ele pode, e quando eu falo o TSE fala justiça eleitoral como todo, indago, isso tem resolvido o problema com a velocidade que o problema demanda? Não. Desde dois mil e dezoito que a OEA confecciona relatórios dirigidos ao Brasil dizendo, o modelo precisa mudar. Reserva de candidatura não resolve. A gente precisa de reserva de cadeiras. Evidentemente que pra isso a gente precisa de uma PEC. A Câmara dos Deputados até se animou, mas o Senado da República infelizmente não. Na outra legislatura o Senado se animou, uma PEC de relatoria da administra Simone Tebet, mas aí quem não se animou foi a Câmara. É difícil a formação de consenso nesse assunto, até porque nós sabemos que o poder é cobertor curto pra eu tampar a cabeça o pé fica de fora pra alguém entrar, alguém tem que sair. E agora, superando a questão filosófica da presença feminina, estou de olho no tempo. Como os senhores e as senhoras são vereadores e vereadoras, como estamos aqui a discutir desafios e perspectivas das eleições do ano que vem, preciso lhes alertar. Não há uma sessão do Tribunal Superior Eleitoral em que uma chapa de vereador não é derrubada por farol de a cota de gênero. Toda sessão, três quatro vereadores são cassados. Vereadorras também, mulheres estão perdendo seus mandatos por fraude à cota de gênero. Muitas vezes uma decisão gera derrubada de mais mulheres e a subida de homens. Num efeito backlesh, numa consequência indesejada, de modelo que volto a dizer, não é o melhor, e não tem funcionado. E por isso, preciso lhes advertir, porque não é incomum e convido convido cada dos senhores e das senhoras, terminado esse evento, entrem no Google, inclusive está habilitando essa matéria no prêmio Jabuti, acabou de me relatar aqui, e o título da matéria é Cerco aos Laranjas. E a matéria dividida, dez minutos. Primeiro, com o estágio de jurisprudência do TSE. E depois, mulheres que perderam o seu mandato por conta dessa jurisprudência. Segundo a pesquisa da repórter Mariana Muniz, cento e vereadores eleitos nas últimas eleições já foram cassados por fraude à quota de gênero. Isso significa oitenta e dois por cento desses casos desembocam na queda daquela lista. Não é pouco. E é por isso que lhes convido, enquanto candidatas e candidatos, enquanto dirigentes partidários, e aqui fica a minha advertência, os dirigentes partidários que estão sendo incluídos no polo passivo dessas ações, estão ficando inelegíveis por oito anos. A terem todo cuidado. Porque o Tribunal Superior Eleitoral, desde o famoso presidente de Jacobina, na Bahia, ele tornou praticamente objetivos os requisitos para reconhecimento de fraude à cota de gênero. Então se partido tinha que lançar três candidatas mulheres, Se uma delas. Teve baixa votação. Seis, sete, dez, quinze votos. O que é baixa votação? É critério subjetivo. Se teve baixa votação, se não praticou atos efetivos de campanha, o que são atos efetivos de campanha? Muitas vezes você tem uma duas postagens no Facebook, uma foto, outra foto e só. E prestação de contas ou movimentação de conta bancária zerada, isso está sendo interpretado, quase que objetivamente, como uma candidatura fictícia. E se essa candidatura é fictícia, o partido então não atendeu à regra legal que determina que trinta por cento dos candidatos, seja de dos sexos, lamentavelmente esse sexo minoritário, sempre é mulher. E a consequência é a queda de todos os eleitos naquela lista E se todos os eleitos forem mulheres, vão cair também. Há casos de queda de vereadores de três ou quatro partidos diferentes, com mais com descarte superior a cinquenta por cento dos votos naquele município. E há questões complexas, porque há mulheres tidas como fictícias que tiveram dez votos, mas há homens naquele mesmo pleito que tiveram cinco. E agora? O homem pode ter cinco votos e a mulher não? Existe o debate dificílimo da desistência voluntária, da mulher que simplesmente abandona a campanha. Este é problema de difícil solução. Por que que o homem pode simplesmente falar puxa essa campanha não está vingando, eu não recebi o dinheiro que eu queria, eu vou apoiar o meu colega. A mulher não pode, porque se ela fizer isso, baixa o número de candidatas porque ela é tida como fictícia, apoiou uma terceira pessoa. Mas isso também pode ser usado, o partido lança essa mulher, depois o dirigente pressione e fala agora assina aqui que você está desistindo. Como resolver esse problema? Sem duplamente onerar a mulher, acaba que a mulher tem que estar sempre se explicando por que que você abandonou a campanha. E nas eleições de dois mil e vinte isso ainda foi mais dramático dois mil e vinte, porque nós tivemos a pandemia, e nós sabemos que os ônus e encargos da pandemia se fizeram sentir muito mais intensamente nas mulheres. E ainda assim essas alegações de desistências voluntárias pra cuidar de mãe disso daquilo, não estão sendo aceitas pelo Tribunal Superior Eleitoral. E eu convido os senhores e as senhoras faço esse convite com muita ênfase, Deem uma lida na matéria da da repórter Mariana Muniz no Globo, porque ali é quase que diário de uma mulher cassada, E ela fala eu não sabia, eu não sabia que a minha colega de chapa não ia fazer campanha, eu não tinha nem ideia do que estava acontecendo, eu me entreguei pra minha campanha e de repente eu fui cassada. E no meu lugar entrou homem. Cerco a laranjas, quatro de dezembro, jornal O Globo. Não deixem de ler. E por que que eu estou fazendo trazendo esta matéria aos senhores e às senhoras? Porque a responsabilidade ao fim ao cabo é de que esse tipo de situação aconteça, nós estamos vendo candidatos e candidatas penalizados, perdendo o seu mandato, e isso tem que acontecer mas de tentar minimamente extrair alguma efetividade, mas de tentar minimamente extrair alguma efetividade e tentar incluir pouco mais de mulheres na política. Só que esse modelo tem trazido consequências difíceis, e muitas vezes o candidato cassado nem sonha que isso está acontecendo na sua lista. Então fica aqui o convite, e a exortação, pra que os senhores e as senhoras na condição de candidatos e candidatos a vereadores e vereadoras, e aqui fica o registro também, os os proporcionais que estão sentindo na pele essas cassações são os vereadores. A gente não tem muita notícia de deputado estadual cassado, é sobretudo vereadores e vereadoras. Cuidem das suas listas, conversem com os dirigentes partidários, conversem com os presidentes de partido, não permitam que essa situação aconteça. Porque se essa situação acontecer, cai a lista independentemente do conhecimento do candidato que estava lá, da anuência ou da participação, porque a jurisprudência do TSE é que a lista é nula, a lista é irregular, porque não contou com o percentual mínimo de gênero. Pouco importa quem se elegeu nessa lista, pouco importa qual foi o grau de envolvimento do eleito neste episódio. Este grau de envolvimento só vai ser discutido mais adiante pra fins de inelegibilidade. Mas todo mundo que estava na lista que foi eleito perde o mandato. Isso desloca pros senhores e pras senhoras ônus adicional, de na campanha tomar todo o cuidado pra que esse tipo de situação não aconteça. A Justiça Eleitoral tem feito o seu papel, tem sido absolutamente rigorosa pra tentar extrair de modelo, que é péssimo, o mínimo de efetividade. Agora isso tem trazido algumas consequências e a gente escuta o relato, muito comum acho que todos aqui, já escutaram, desses candidatos e dessas candidatas caçadas, de eu não tenho nada a ver com isso, eu não tive participação nenhuma, eu não conheço essa suposta candidata fictícia, mas ainda assim, a perda do mandato é uma consequência automática. Então para além de fazer campanha, para além de pedir voto, para além de cuidar da prestação de contas, para além de emitir recibo, para além de criar conta bancária muitas vezes zerada, não deixem de conversar com os respectivos dirigentes partidários, não deixem de se atentar. Porque volto a dizer, dos casos que chegaram ao TSE, oitenta e dois por cento geraram a queda da lista. Então esse é urgente e emergente, porque é uma questão de democracia. Mas é uma questão que está atingindo a vida dos senhores e das senhoras muito diretamente. Eu tenho absoluta certeza que todos os senhores conhecem algum caso de gente cassada por fraude à quota de gênero. Então vamos redobrar o cuidado para que essas situações não mais aconteçam, muito obrigada pela atenção de todos e todas.",
       "speaker": {
         "name": "MARIA CLAUDIA BUCCHIANERI PINHEIRO",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "maria-claudia-bucchianeri-pinheiro"
       }
     },
     {
@@ -302,7 +329,8 @@
       "summary": "Ele chamou atenção para o impacto da anulação de eleições quando a cassação de uma chapa faz com que a anulação de votos exceda 50%, afetando não apenas os envolvidos na fraude, mas também outros eleitos, prejudicando a legitimidade da eleição. Fotografia na rampa iminente, por isso sem perguntas. Palavra cedida a convidados.",
       "speaker": {
         "name": "ROBERTO CARLOS PONTES",
-        "position": "Consultor Legislativo da Câmara"
+        "position": "Consultor Legislativo da Câmara",
+        "slug": "roberto-carlos-pontes"
       }
     },
     {
@@ -313,7 +341,8 @@
       "summary": "Advogado e Jurista: Convite à deputada Gisela Simona e Lúcio Moschini para mesa, saudação ao segundo vice-presidente da Câmara dos Deputados, Sóstenes Cavalcanti.",
       "speaker": {
         "name": "TARCÍSIO VIEIRA DE CARVALHO NETO",
-        "position": "Advogado e Jurista"
+        "position": "Advogado e Jurista",
+        "slug": "tarcisio-vieira-de-carvalho-neto"
       }
     },
     {
@@ -324,7 +353,8 @@
       "summary": "Advogada propôs trajetória feliz para todos, valorizando dedicação ao país e democracia, oferecendo-se para responder questões por email.",
       "speaker": {
         "name": "MARIA CLAUDIA BUCCHIANERI PINHEIRO",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "maria-claudia-bucchianeri-pinheiro"
       }
     },
     {
@@ -335,7 +365,8 @@
       "summary": "Professor do IDP destacou importância de representantes evitar surpresas como perda de mandato, reconheceu boas ações no relacionamento com cidadãos e desejou sucesso no ano novo.",
       "speaker": {
         "name": "FABRÍCIO JULIANO MENDES MEDEIROS",
-        "position": "Professor do Instituto de Direito Público - IDP"
+        "position": "Professor do Instituto de Direito Público - IDP",
+        "slug": "fabricio-juliano-mendes-medeiros"
       }
     },
     {
@@ -346,7 +377,8 @@
       "summary": "Encerramento do painel/aula inaugural; gratidão à organização por oportunidade de participar.",
       "speaker": {
         "name": "ROBERTO CARLOS PONTES",
-        "position": "Consultor Legislativo da Câmara"
+        "position": "Consultor Legislativo da Câmara",
+        "slug": "roberto-carlos-pontes"
       }
     },
     {
@@ -357,7 +389,8 @@
       "summary": "Mestre de Cerimônias: convidou para coffee break, espera brevemente, necessitam de luz para foto, e serão orientados pelo pessoal do cerimonial. Obrigado.",
       "speaker": {
         "name": "GUTIERREZ BATISTA RODRIGUES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gutierrez-batista-rodrigues"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Criou centro para documentação e história contemporânea do Brasil, com foco em ensino e tecnologia, promovendo partecipação estudantis. Ideia de dicionário de políticos brasileiros discutida.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 74784,
         "name": "Luiza Erundina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luiza-erundina"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "CPDOC, criado em 1973 na FGV, tem missão de reunir acervo documental histórico do Brasil. Hoje, tem 238 arquivos, 8 mil horas de entrevistas, atividade de pesquisa e ensino, reconhecida no Brasil e exterior. A homenagem recebida é estimulante para continuar missão.",
       "speaker": {
         "name": "CELSO CASTRO",
-        "position": "Diretor do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC"
+        "position": "Diretor do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC",
+        "slug": "celso-castro"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "A Coordenação da Documentação do CPDOC agradece homenagem e destaca importância da instituição na preservação da história contemporânea do Brasil, alcançando conquistas como a abertura da Casa Acervo e a digitalização de arquivos de mulheres, como o do deputada Luiza Erundina. O novo arquivo exigiu abordagem inovadora, tendo em vista a natureza digital dos documentos.",
       "speaker": {
         "name": "CAROLINA ALVES",
-        "position": "Coordenadora da Documentação do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC"
+        "position": "Coordenadora da Documentação do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC",
+        "slug": "carolina-alves"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "CPDOC promove pesquisa e documentação histórica, incorpora inovação tecnológica e interdisciplinariedade, valoriza produção audiovisual. Desafios e oportunidades surgem com evolução tecnológica. Alunos impulsionam exploração de novas fronteiras e perspectivas. CPDOC é fonte de conhecimento, inovação e mudanças positivas, com meta de notáveis conquistas e construção de realidade social justa nos próximos 50 anos.",
       "speaker": {
         "name": "THAIS BLANK",
-        "position": "Professora do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC"
+        "position": "Professora do Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas – CPDOC",
+        "slug": "thais-blank"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -257,7 +278,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Talíria Petrone -- por Participante -- Ivan Valente",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-taliria-petrone-por-participante-ivan-valente"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     }
   ],

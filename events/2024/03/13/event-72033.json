@@ -14,7 +14,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Tempo, ajuda chamar deputados ainda não votando.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220641,
         "name": "Rodrigo Gambale",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-gambale"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -95,7 +102,8 @@
       "summary": " Amigo presidencial, grande professor, histórica contribuição na comissão de ciência.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vitor Lippi -- por Participante -- Luisa Canziani",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vitor-lippi-por-participante-luisa-canziani"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": " Eleição de liderança da comissão: presidente, deputada Neli Aquino; primeiro vice-presidente, deputado Gilson Daniel; segundo vice-presidente, sargento Portugal; terceiro vice-presidente, deputado Igor Timo. Deputada Neli assume como presidente. Parabéns.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -175,7 +189,8 @@
       "summary": " Nova presidenta da comissão empolgada em promover progresso humano por meio de ciência, tecnologia e inovação; agradece suporte de colaboradores e amigos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luisa Canziani -- por Participante -- Nely Aquino",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luisa-canziani-por-participante-nely-aquino"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 178989,
         "name": "Renata Abreu",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renata-abreu"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 220641,
         "name": "Rodrigo Gambale",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-gambale"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     }
   ],

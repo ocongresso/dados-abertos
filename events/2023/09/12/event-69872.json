@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Deputado Rogério.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rogério Correia -- por Participante -- Patrus Ananias",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rogerio-correia-por-participante-patrus-ananias"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74160,
         "name": "Patrus Ananias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "patrus-ananias"
       }
     }
   ],

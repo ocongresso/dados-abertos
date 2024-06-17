@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernanda Melchionna -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernanda-melchionna-por-participante-erika-kokay"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Presidente - Associação dos Empregados do Banco da Amazônia agradeceu a presença de deputadas e dirigentes sindicais, destacou a importância da defesa dos funcionários públicos e do Banco da Amazônia. Expressou preocupação com ameaças à estabilidade do \"quadro de apoio\" no banco, que pode impactar outros empregados de estatais. Reiterou a necessidade de unidade e solidariedade de entidades e parlamentares em defesa dessa categoria e da instituição.",
       "speaker": {
         "name": "GILSON AFONSO DE MEDEIROS LIMA",
-        "position": "Presidente - Associação dos Empregados do Banco da Amazônia"
+        "position": "Presidente - Associação dos Empregados do Banco da Amazônia",
+        "slug": "gilson-afonso-de-medeiros-lima"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "A deputada Fernanda Melchionna elogiou a luta da deputada que não se reelegeu, porém não nomeou, pela Vivi e estabelecimento de demissão acordada de 80% no estado. Ela destacou ameaça de demissão compulsória ainda presente e fez apelo à solidariedade em defesa dos trabalhadores do Banco da Amazônia e de todas as estatais.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Erika Kokay -- por Participante -- Fernanda Melchionna",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-erika-kokay-por-participante-fernanda-melchionna"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Banco da Amazônia não tem política de demissão específica. Funcionários são contratados por concurso, mas podem ser demitidos sem motivação em alguns casos. Em 2022, houve demissões de empregados do quadro de apoio, levando a ação judicial do sindicato e acordo entre as partes. Resumidamente, o Banco tem dificuldades em aumentar vagas e alguns empregados do quadro de apoio ainda permanecem no Banco, com audiência agendada para janeiro para resolver a situação.",
       "speaker": {
         "name": "WELLINGTON MARQUES DA FONSECA",
-        "position": "Gerente da Central do Contencioso Trabalhista - Banco da Amazônia"
+        "position": "Gerente da Central do Contencioso Trabalhista - Banco da Amazônia",
+        "slug": "wellington-marques-da-fonseca"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Secretário geral do Sindicato dos Bancários do Pará discutiu demissões no Banco da Amazônia. Questionou demissão compulsória de funcionários do quadro de apoio e engenheiros, resultado de planos de desenvolvimento do banco. Pede claro posicionamento do presidente do banco sobre o futuro do quadro de engenheiros e do quadro de apoio. Deseja dialogar com o banco e zelar pelo interesse dos trabalhadores concursados.",
       "speaker": {
         "name": "SÉRGIO LUIZ CAMPOS TRINDADE",
-        "position": "Secretário geral - Sindicato dos Bancários do Pará"
+        "position": "Secretário geral - Sindicato dos Bancários do Pará",
+        "slug": "sergio-luiz-campos-trindade"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "CEST coordena e exerce governança em estatais, especialmente em políticas, governança corporativa, orçamento, pessoal. Não interfere em administração diária ou demissões; segue deliberações judiciais ou conversações com funcionários. Disponível para acompanhar debates.",
       "speaker": {
         "name": "JUSSARA VALADARES",
-        "position": "Diretora de Política de Pessoal e Previdência Complementar de Estatais - Ministério da Gestão e da Inovação em Serviços Públicos"
+        "position": "Diretora de Política de Pessoal e Previdência Complementar de Estatais - Ministério da Gestão e da Inovação em Serviços Públicos",
+        "slug": "jussara-valadares"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "A Diretora do Sindicato dos Empregados em Estabelecimentos Bancários no Estado do Maranhão agradece convite e presença dos convidados, elogia luta pela manutenção dos empregos e questiona justificativa de demissões pela direção do banco, considerando aumento de lucro e tempo de serviço dos funcionários. Ela critica proposta da direção do banco na negociação e destaca missão do Banco da Amazônia como banco de fomento, não privado.",
       "speaker": {
         "name": "MARLA SILVA BRITO",
-        "position": "Diretora - Sindicato dos Empregados em Estabelecimentos Bancários no Estado do Maranhão"
+        "position": "Diretora - Sindicato dos Empregados em Estabelecimentos Bancários no Estado do Maranhão",
+        "slug": "marla-silva-brito"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Engenheira Agrônoma do BASA denuncia demissões arbitrárias, questiona contratação de empresas terceirizadas, e solicita à comissão o respeito e encaminhamento das reivindicações à presidência do Brasil e ao ministro Haddad.",
       "speaker": {
         "name": "ANDREA GONÇALVES DOS SANTOS",
-        "position": "Engenheira Agrônoma do BASA"
+        "position": "Engenheira Agrônoma do BASA",
+        "slug": "andrea-goncalves-dos-santos"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Presidente da Associação dos Empregados do Banco da Amazônia defende Banco como diferencial no mercado, destacando sua cultura e missão de financiar projetos sustentáveis. Critica risco de gerência atual, pedindo retorno de técnicos capacitados e menos dependência de assessores jurídicos caros. Suplica apoio a deputados para proteger direitos de trabalhadores do Banco e outras estatais, prevenindo derrota que colocaria em risco suas carreiras.",
       "speaker": {
         "name": "GILSON AFONSO DE MEDEIROS LIMA",
-        "position": "Presidente - Associação dos Empregados do Banco da Amazônia"
+        "position": "Presidente - Associação dos Empregados do Banco da Amazônia",
+        "slug": "gilson-afonso-de-medeiros-lima"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Discussão válida; assuntos judicializados; esperar decisão do Poder Judiciário; agradece presença; prontos para fornecer esclarecimentos.",
       "speaker": {
         "name": "WELLINGTON MARQUES DA FONSECA",
-        "position": "Gerente da Central do Contencioso Trabalhista - Banco da Amazônia"
+        "position": "Gerente da Central do Contencioso Trabalhista - Banco da Amazônia",
+        "slug": "wellington-marques-da-fonseca"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Secretário geral do Sindicato dos Bancários do Pará defende valorização de bancos públicos e seus funcionários. Luta pela missão social dos bancos, contra foco apenas em resultados financeiros. Menciona histórico de ameaças a bancos públicos na década de 90. Importância de reconhecer, valorizar e fidelizar funcionários como instituição.",
       "speaker": {
         "name": "SÉRGIO LUIZ CAMPOS TRINDADE",
-        "position": "Secretário geral - Sindicato dos Bancários do Pará"
+        "position": "Secretário geral - Sindicato dos Bancários do Pará",
+        "slug": "sergio-luiz-campos-trindade"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -280,7 +303,8 @@
       "summary": "Diretora de Política de Pessoal e Previdência Complementar de Estatais propõe fortalecimento de empresas estatais através da valorização de seus empregados, desejando colaborar com a comissão e praticar um governo que valorize trabalho e gere valor para a sociedade.",
       "speaker": {
         "name": "JUSSARA VALADARES",
-        "position": "Diretora de Política de Pessoal e Previdência Complementar de Estatais - Ministério da Gestão e da Inovação em Serviços Públicos"
+        "position": "Diretora de Política de Pessoal e Previdência Complementar de Estatais - Ministério da Gestão e da Inovação em Serviços Públicos",
+        "slug": "jussara-valadares"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -302,7 +327,8 @@
       "summary": "Diretora do Sindicato dos Bancários no Maranhão agradece audiência e deseja medidas para tranquilidade de trabalhadores com empregos garantidos e liberdade para sair quando quiserem.",
       "speaker": {
         "name": "MARLA SILVA BRITO",
-        "position": "Diretora - Sindicato dos Empregados em Estabelecimentos Bancários no Estado do Maranhão"
+        "position": "Diretora - Sindicato dos Empregados em Estabelecimentos Bancários no Estado do Maranhão",
+        "slug": "marla-silva-brito"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     }
   ],

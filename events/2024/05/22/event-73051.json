@@ -13,7 +13,8 @@
       "summary": " Início do segundo dia de encontro de procuradoras da mulher no legislativo. Presentes George Nunes, deputada Gisela Simone, secretária nacional do PSB mulheres e Sindilegges. Convocadas para painel: deputada Grace Elias, Margarete Coelho, diretora do Sebrae, fundadora da Aliança Empreendedora Lina Uzeste e deputada Maria Rosas. Bom dia a todos.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": " Início do segundo dia do encontro de procuradoras do legislativo, homenagem a presenças importantes e apresentação de painel sobre autonomia econômica das mulheres, com participação de deputadas, diretora de Sebrae e fundadora da Aliança Empreendedora. Palavra passada para a deputada Grace Elias.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 0,
         "name": "LUCIANA",
-        "position": "Pastora"
+        "position": "Pastora",
+        "slug": "luciana"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 0,
         "name": "MARGARETE COELHO",
-        "position": "Diretora de Administração e Finanças do SEBRAE - SEBRAE POR ELAS"
+        "position": "Diretora de Administração e Finanças do SEBRAE - SEBRAE POR ELAS",
+        "slug": "margarete-coelho"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 0,
         "name": "LINA USECHE",
-        "position": "Fundadora da Aliança Empreendedora"
+        "position": "Fundadora da Aliança Empreendedora",
+        "slug": "lina-useche"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Greyce Elias -- por Participante -- Maria Rosas",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-greyce-elias-por-participante-maria-rosas"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 0,
         "name": "GABRIELA ROLLEMBERG",
-        "position": "Cofundadora do Instituto Quero Você Eleita"
+        "position": "Cofundadora do Instituto Quero Você Eleita",
+        "slug": "gabriela-rollemberg"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": " Mais mulheres na política geram mudanças culturais e sociais; oferecem apoio para candidatas, buscando mulheres eleitas, não apenas candidatas; ajuda na construção de imagem, narrativa e propostas, promovendo mais mulheres em política, unidas em luta por um sonho comum.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -221,7 +239,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 0,
         "name": "NATALIA GRIGORIEVS",
-        "position": "Articuladora Política do Movimento Mulheres Negras Decidem"
+        "position": "Articuladora Política do Movimento Mulheres Negras Decidem",
+        "slug": "natalia-grigorievs"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BARROS",
-        "position": "Vice-Presidente do Instituto ELAS NO PODER"
+        "position": "Vice-Presidente do Instituto ELAS NO PODER",
+        "slug": "juliana-barros"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 218086,
         "name": "Ely Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ely-santos"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BARROS",
-        "position": "Vice-Presidente do Instituto ELAS NO PODER"
+        "position": "Vice-Presidente do Instituto ELAS NO PODER",
+        "slug": "juliana-barros"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 0,
         "name": "JULIANA BARROS",
-        "position": "Vice-Presidente do Instituto ELAS NO PODER"
+        "position": "Vice-Presidente do Instituto ELAS NO PODER",
+        "slug": "juliana-barros"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -376,7 +407,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -435,7 +471,8 @@
       "speaker": {
         "id": 0,
         "name": "KALIANA KALACHE",
-        "position": "Diretora de Políticas Públicas da META"
+        "position": "Diretora de Políticas Públicas da META",
+        "slug": "kaliana-kalache"
       }
     },
     {
@@ -447,7 +484,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -459,7 +497,8 @@
       "speaker": {
         "id": 0,
         "name": "Mariana Carvalho",
-        "position": "Deputada Federal - MA"
+        "position": "Deputada Federal - MA",
+        "slug": "mariana-carvalho"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -482,7 +522,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -492,7 +533,8 @@
       "transcription": "\nJá já. Minha Damares, você já subiu já vai ficando.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria Rosas -- por Participante -- Soraya Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-rosas-por-participante-soraya-santos"
       }
     },
     {
@@ -504,7 +546,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -515,7 +558,8 @@
       "summary": " Senadora, pertencendo a partido diferente de outras senadoras, elogia unidade entre mulheres no Senado e Câmara. Destaca importância de vereadoras na proteção de mulheres e crianças com deficiência em municípios. Promete trabalhar em rede com vereadoras para grandes transformações no país, especialmente na retomada econômica pós-pandemia. Reconhece desafios e contribuição de mulheres na política.",
       "speaker": {
         "name": "Damares Alves",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "damares-alves"
       }
     },
     {
@@ -527,7 +571,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -539,7 +584,8 @@
       "speaker": {
         "id": 0,
         "name": "DORA PIRES",
-        "position": "Secretária Nacional de Mulheres do PSB"
+        "position": "Secretária Nacional de Mulheres do PSB",
+        "slug": "dora-pires"
       }
     },
     {
@@ -551,7 +597,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -563,7 +610,8 @@
       "speaker": {
         "id": 0,
         "name": "CLOARA PINHEIRO",
-        "position": "Deputada Estadual"
+        "position": "Deputada Estadual",
+        "slug": "cloara-pinheiro"
       }
     },
     {
@@ -575,7 +623,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -587,7 +636,8 @@
       "speaker": {
         "id": 0,
         "name": "LILIANA LINHARES",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "liliana-linhares"
       }
     },
     {
@@ -599,7 +649,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -611,7 +662,8 @@
       "speaker": {
         "id": 0,
         "name": "LILIANA LINHARES",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "liliana-linhares"
       }
     },
     {
@@ -623,7 +675,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -635,7 +688,8 @@
       "speaker": {
         "id": 0,
         "name": "CÁTIA RODRIGUES",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "catia-rodrigues"
       }
     },
     {
@@ -646,7 +700,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -658,7 +713,8 @@
       "speaker": {
         "id": 0,
         "name": "LUCIANA CÂNDIDA",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "luciana-candida"
       }
     },
     {
@@ -670,7 +726,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -682,7 +739,8 @@
       "speaker": {
         "id": 0,
         "name": "PATRÍCIA CRIZANTO",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "patricia-crizanto"
       }
     },
     {
@@ -694,7 +752,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -706,7 +765,8 @@
       "speaker": {
         "id": 0,
         "name": "SARGENTO SABRINA",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "sargento-sabrina"
       }
     },
     {
@@ -718,7 +778,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -730,7 +791,8 @@
       "speaker": {
         "id": 0,
         "name": "BRUNA SPITZNER",
-        "position": "Vereadora"
+        "position": "Vereadora",
+        "slug": "bruna-spitzner"
       }
     },
     {
@@ -742,7 +804,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     }
   ],

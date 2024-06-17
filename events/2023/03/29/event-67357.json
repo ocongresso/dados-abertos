@@ -18,17 +18,19 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
       "id": 182602,
       "start_time": 1680085374,
       "duration": 875,
-      "transcription": "Deputado Valmir Assunção só pra reforçar aqui já.",
+      "transcription": "\nDeputado Valmir Assunção só pra reforçar aqui já.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 180214,
         "name": "Pastor Diniz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-diniz"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 74383,
         "name": "Giacobo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giacobo"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220669,
         "name": "Lula da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lula-da-fonte"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -308,7 +333,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -320,18 +346,20 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
       "id": 182609,
       "start_time": 1680088188,
       "duration": 18,
-      "transcription": "Presidente, só adentro, por favor, pra gente incluir na audiência pública do PAA, o ministro da pesca e aquicultura, o exdeputado André de Paula também por favor. Senhor senhor presidente eu queria, nessa audiência convidar",
-      "summary": "Presidente solicita inclusão de ministro pesca e ex-deputado na audiência, quer convidar participante.",
+      "transcription": "\nPresidente, só adentro, por favor, pra gente incluir na audiência pública do PAA, o ministro da pesca e aquicultura, o exdeputado André de Paula também por favor. Senhor senhor presidente eu queria, nessa audiência convidar.",
+      "summary": " Presidente propõe inclusão de novos participantes na audiência.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tião Medeiros -- por Participante -- Ana Paula Leão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tiao-medeiros-por-participante-ana-paula-leao"
       }
     },
     {
@@ -343,7 +371,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -379,7 +410,8 @@
       "speaker": {
         "id": 220669,
         "name": "Lula da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lula-da-fonte"
       }
     },
     {
@@ -390,7 +422,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -414,7 +448,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -437,7 +473,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -494,7 +535,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -517,7 +560,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -529,7 +573,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -540,7 +585,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -563,7 +610,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -575,7 +623,8 @@
       "speaker": {
         "id": 180214,
         "name": "Pastor Diniz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-diniz"
       }
     },
     {
@@ -587,17 +636,19 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
       "id": 182621,
       "start_time": 1680089003,
       "duration": 8,
-      "transcription": "Isso aí. Então vamos seguir. É o item quarto da pauta, o requerimento de número quinze de dois mil e vinte.",
+      "transcription": "\nIsso aí. Então vamos seguir. É o item quarto da pauta, o requerimento de número quinze de dois mil e vinte.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Leão -- por Participante -- Tião Medeiros",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-leao-por-participante-tiao-medeiros"
       }
     },
     {
@@ -609,7 +660,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -621,7 +673,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -633,7 +686,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -645,7 +699,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -657,7 +712,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -669,7 +725,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -681,7 +738,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -693,7 +751,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -705,7 +764,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -717,7 +777,8 @@
       "speaker": {
         "id": 74141,
         "name": "Josias Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josias-gomes"
       }
     },
     {
@@ -729,7 +790,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -741,7 +803,8 @@
       "speaker": {
         "id": 136811,
         "name": "Afonso Hamm",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-hamm"
       }
     },
     {
@@ -753,7 +816,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -765,7 +829,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -777,7 +842,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -789,7 +855,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -801,7 +868,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -813,7 +881,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -825,7 +894,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -837,7 +907,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -848,7 +919,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -860,7 +932,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -871,7 +944,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -883,7 +957,8 @@
       "speaker": {
         "id": 180214,
         "name": "Pastor Diniz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-diniz"
       }
     },
     {
@@ -894,7 +969,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -906,7 +982,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -918,7 +995,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -930,7 +1008,8 @@
       "speaker": {
         "id": 220597,
         "name": "Thiago Flores",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-flores"
       }
     },
     {
@@ -942,7 +1021,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -954,7 +1034,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -965,7 +1046,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -977,7 +1059,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -988,7 +1071,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1000,7 +1084,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -1011,7 +1096,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1023,7 +1109,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -1035,7 +1122,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1047,18 +1135,20 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
       "id": 182672,
       "start_time": 1680092252,
       "duration": 27,
-      "transcription": "O agro. Então cada dia mais o agro aí sendo representado pelo por quem realmente representa que são os produtores rurais. Fico feliz com isso, e fico feliz de ter então participado ali nessa segundafeira, da abertura oficial e pude ver ali o quanto o agro é importante para o Brasil, o quanto o agro é forte. E a minhas palavras são essa presidente, obrigado pela oportunidade. Obrigado",
-      "summary": "Produtores rurais representados; abertura oficial valorizou agro; presidente agradece oportunidade.",
+      "transcription": "\nO agro. Então cada dia mais o agro aí sendo representado pelo por quem realmente representa que são os produtores rurais. Fico feliz com isso, e fico feliz de ter então participado ali nessa segundafeira, da abertura oficial e pude ver ali o quanto o agro é importante para o Brasil, o quanto o agro é forte, e a minhas palavras são essa presidente, obrigado pela oportunidade. Obrigado",
+      "summary": " Rurais representados, agro valorizado na abertura, presidente agradece oportunidade.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tião Medeiros -- por Participante -- Pedro Lupion",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tiao-medeiros-por-participante-pedro-lupion"
       }
     },
     {
@@ -1069,7 +1159,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -1081,7 +1172,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -1092,7 +1184,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -1104,18 +1197,20 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
       "id": 182671,
       "start_time": 1680092623,
       "duration": 17,
-      "transcription": "Presidente desde já vamos proteger o nosso agronegócio, defender como setor importantíssimo da economia e da geração de empregos no Brasil. Obrigado presidente. Eu que agradeço deputado",
-      "summary": "Protegerão agronegócio e empregos, agradecem colaboração.",
+      "transcription": "\nPresidente desde já vamos proteger o nosso agronegócio, defender como setor importantíssimo da economia e da geração de empregos no Brasil. Obrigado presidente. Eu que agradeço deputado",
+      "summary": " Proteção agronegócio, mantém empregos, agradece apoio.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pedro Lupion -- por Participante -- Tião Medeiros",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pedro-lupion-por-participante-tiao-medeiros"
       }
     },
     {
@@ -1126,7 +1221,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1138,7 +1234,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -1150,7 +1247,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1162,7 +1260,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -1173,7 +1272,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -1185,7 +1285,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -1197,9 +1298,10 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633686
 }

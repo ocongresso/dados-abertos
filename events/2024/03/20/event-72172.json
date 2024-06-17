@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "Gostaria de solicitar, gente já vai abrir ali pra o início da votação, e solicitar a assessoria que mobilize os parlamentares, titulares e suplentes da comissão para que pudesse se dirigir aqui para esta votação. Olha, vamos iniciar a votação, declaro aberta a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": " Proclamado resultado da votação: três vice-presidentes escolhidos unanimamente, Flávia Moraes com 29 votos. Parabéns a Dimas, Flávia, e Ismael Alexandrino. Flávia Moraes concedida a palavra.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 220570,
         "name": "Ismael Alexandrino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael-alexandrino"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 220602,
         "name": "Dimas Gadelha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dimas-gadelha"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     }
   ],

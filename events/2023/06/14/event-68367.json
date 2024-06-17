@@ -18,7 +18,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ministro da Pesca e Aquicultura se diz feliz por retornar à Câmara dos Deputados, apresenta novo ministério com nova estrutura e seus secretários nacionais. Irá fazer uma breve introdução, seguida de apresentações e ponto relevantes por cada secretário.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Ministro da Pesca e Aquicultura destaca importância do setor no Brasil, com foco em valorizar pesca, aumentar consumo de peixe, melhorar aquicultura e garantir pesca sustentável. Propõe consolidação institucional, retomada de exportações, reativação de conselho e melhoria de estatísticas.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Secretária Nacional de Registro, Monitoramento e Pesquisa - Ministério da Pesca anuncia:",
       "speaker": {
         "name": "FLÁVIA LUCENA",
-        "position": "Secretária Nacional de Registro, Monitoramento e Pesquisa - Ministério da Pesca"
+        "position": "Secretária Nacional de Registro, Monitoramento e Pesquisa - Ministério da Pesca",
+        "slug": "flavia-lucena"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "summary": "Implementação de mapas de bordo digitais testados, registro de embarcações, parceria com setor produtivo e cientistas, quadrilha de projetos de longo prazo para gerenciar recursos pesqueiros. Quatro pilares de ajuste em 2023 para desenvolvimento da pesca.",
       "speaker": {
         "name": "FLÁVIA LUCENA",
-        "position": "Secretária Nacional de Registro, Monitoramento e Pesquisa - Ministério da Pesca"
+        "position": "Secretária Nacional de Registro, Monitoramento e Pesquisa - Ministério da Pesca",
+        "slug": "flavia-lucena"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Ministro da Pesca e Aquicultura focaliza parcerias e programas:",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "A pesca artesanal é essencial, responsável por 60% da produção pesqueira no Brasil e gera trabalho para mais de um milhão de pessoas. O Ministério da Pesca criou a Secretaria Nacional de Pesca Artesanal para fortalecê-la, com foco em inclusão produtiva, inovação e ordenamento pesqueiro. Forthcoming actions include: National Week of Artisanal Fishing, National Forum and Plan for Artisanal Fishing, and initiatives to promote technical assistance and youth involvement.",
       "speaker": {
         "name": "CRISTIANO RAMALHO",
-        "position": "Secretário Nacional de Pesca Artesanal - Ministério da Pesca"
+        "position": "Secretário Nacional de Pesca Artesanal - Ministério da Pesca",
+        "slug": "cristiano-ramalho"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Ministro da Pesca e Aquicultura anuncia substituição temporarily de secretário nacional da pesca industrial e pede a dois diretores fazerem considerações sobre a atuação da pesca industrial.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -130,7 +140,8 @@
       "summary": "Saúda equipe e sociedade civil. Secretaria Nacional de Pesca Industrial reorganizada em dois departamentos. 6 ações prioritárias desde janeiro, como retomada de comitês de gestão e discussão de políticas de pesca. Publicação do plano nacional de desenvolvimento sustentável da pesca amadora e esportiva, focando em geração de dados, ordenamento pesqueiro, inclusão e promoção. Anúncio de workshops para abordar demandas do setor industrial e modernização da subvenção diesel.",
       "speaker": {
         "name": "EDIPO CRUZ",
-        "position": "Diretor de Pesca Industrial, Amadora e Esportiva - Ministério da Pesca"
+        "position": "Diretor de Pesca Industrial, Amadora e Esportiva - Ministério da Pesca",
+        "slug": "edipo-cruz"
       }
     },
     {
@@ -140,7 +151,8 @@
       "transcription": "Bom dia a todos,",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -151,7 +163,8 @@
       "summary": "O Diretor do Departamento da Indústria do Pescado - Ministério da Pesca fala sobre os desafios do setor, incluindo a necessidade de estruturar e organizar a cadeia produtiva, adequar as condições higiênico-sanitárias da frota pesqueira, e fortalecer a conformidade e cooperação entre setores e governos. Também menciona o potencial da agropecuária e a importância da rastreabilidade, qualidade e conformidade no elo industrial.",
       "speaker": {
         "name": "HELINTON JOSÉ ROCHA",
-        "position": "Diretor do Departamento da Indústria do Pescado - Ministério da Pesca"
+        "position": "Diretor do Departamento da Indústria do Pescado - Ministério da Pesca",
+        "slug": "helinton-jose-rocha"
       }
     },
     {
@@ -162,7 +175,8 @@
       "summary": "Ministro da Pesca e Aquicultura anuncia nomeação de secretária nacional de aquicultura, ex-deputada Tereza Nelma.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Secretária nacional de aquicultura deseja triplicar produção de peixe e camarão no Brasil, vendo-a como solução contra fome, promovedora de alimentação saudável e geração de emprego, com ênfase em uso sustentável de água e baixa emissão de gases do efeito estufa. É necessário investimento em recursos, tributação isonoma, simplificação de licença ambiental, e extensão rural, além de cursos para pequenos produtores.",
       "speaker": {
         "name": "TEREZA NELMA",
-        "position": "Secretária nacional de aquicultura - Ministério da Pesca"
+        "position": "Secretária nacional de aquicultura - Ministério da Pesca",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -184,7 +199,8 @@
       "summary": "Ministro da Pesca e Aquicultura agradeceu a oportunidade de expor a ação do ministério, enfatizando a importância de energia política e liderança para fortalecê-lo. Ele destacou a necessidade de interface com o Congresso Nacional para fortalecer o arcabouço legal da atividade. O ministro elogiou a iniciativa de realização de audiência pública no Estado de Roraima e reafirmou o compromisso do ministério em trabalhar em conjunto com os parlamentares e líderes do setor.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -196,7 +212,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Ministro da Pesca e Aquicultura prioriza em destacar e multiplicar iniciativas importantes como a de Uberlândia, agradece e passa a palavra.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -254,7 +275,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -265,7 +287,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 204567,
         "name": "Raimundo Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-costa"
       }
     },
     {
@@ -311,7 +337,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -334,7 +362,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -357,7 +387,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -368,7 +399,8 @@
       "summary": "Ministro da Pesca e Aquicultura propõe discussão sobre tainha em Santa Catarina, destacando importância econômica e cultural da pesca. Falam-se desafios, necessidade de novos caminhos, diálogo, e reforço de equipes estaduais com parcerias. Agradece presentes e ouve sugestões.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -379,7 +411,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -390,7 +423,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -401,7 +435,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -412,7 +447,8 @@
       "speaker": {
         "id": 143632,
         "name": "Domingos Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-neto"
       }
     },
     {
@@ -423,7 +459,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -435,7 +472,8 @@
       "speaker": {
         "id": 143632,
         "name": "Domingos Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-neto"
       }
     },
     {
@@ -446,7 +484,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -458,7 +497,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -469,7 +509,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -481,7 +522,8 @@
       "speaker": {
         "id": 220669,
         "name": "Lula da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lula-da-fonte"
       }
     },
     {
@@ -493,7 +535,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -505,7 +548,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -517,7 +561,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -528,7 +573,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -540,7 +586,8 @@
       "speaker": {
         "id": 198783,
         "name": "Emanuel Pinheiro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emanuel-pinheiro-neto"
       }
     },
     {
@@ -551,7 +598,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -563,7 +611,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -574,7 +623,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -585,7 +635,8 @@
       "summary": "Ministro da Pesca e Aquicultura agradece jovens competentes, ressalta importância de preservar meio ambiente em políticas públicas, destaca desafios geográficos e culturais no setor pesqueiro, e promete construir pesca ambientalmente sustentável, evitando prejuízo a pescadores.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -596,7 +647,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -608,7 +660,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -620,7 +673,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -631,7 +685,8 @@
       "summary": "Ministro da Pesca e Aquicultura agradece preocupação com orçamento, destaca importância de ministério ter interlocução direta com presidente, prometendo trabalhar em parceria com outros ministérios e receber visitantes no ministério. Ele valoriza o parlamento e convida deputados a contribuir em discussão sobre setor.",
       "speaker": {
         "name": "ANDRÉ DE PAULA",
-        "position": "Ministro - Ministro da Pesca e Aquicultura"
+        "position": "Ministro - Ministro da Pesca e Aquicultura",
+        "slug": "andre-de-paula"
       }
     },
     {
@@ -643,7 +698,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     }
   ],

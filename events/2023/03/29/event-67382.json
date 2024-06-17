@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -63,17 +67,19 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
       "id": 182677,
       "start_time": 1680087304,
       "duration": 2,
-      "transcription": "Passase",
+      "transcription": "\nPassase",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -109,9 +117,10 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633838
 }

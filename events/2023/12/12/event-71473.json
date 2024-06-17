@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Coordenador-geral - Infraestrutura de qualidade - MDIC discutiu regulamentação no Brasil, ferramentas de boas práticas, PROREG, análise de impacto regulatório, normas técnicas internacionais e Estratégia Nacional de Infraestrutura de Qualidade. Objetivo é qualificar regulação e promover competitividade, evitando custos desnecessários.",
       "speaker": {
         "name": "Tiago Munk",
-        "position": "Coordenador-geral - Infraestrutura de qualidade - MDIC"
+        "position": "Coordenador-geral - Infraestrutura de qualidade - MDIC",
+        "slug": "tiago-munk"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "INMETRO regula instrumentos de medição, priorizando aqueles em comércio e atividades de saúde, segurança e meio ambiente. Medidores de energia, água e gás também são controlados. Regulamentação estabelece desempenho e segurança, baseada em normas internacionais, com aprovação de modelo, supervisão durante vida útil e intervenção técnica se necessário.",
       "speaker": {
         "name": "Marcelo Luís",
-        "position": "DIRETOR SUBSTITUTO - DIRETORIA DE METROOGIA LEGAL DO INMETRO"
+        "position": "DIRETOR SUBSTITUTO - DIRETORIA DE METROOGIA LEGAL DO INMETRO",
+        "slug": "marcelo-luis"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel: Fala sobre a importância de cobrar energia elétrica de forma correta para evitar aumento de tarifas e cada consumidor pagar conforme o seu consumo. Menciona problemas técnicos.",
       "speaker": {
         "name": "Carlos Mattar",
-        "position": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel"
+        "position": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel",
+        "slug": "carlos-mattar"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Presidente da Frente Nacional dos Consumidores de Energia questionou sobre aumento de contas de luz com medidores inteligentes, particularmente em condomínios carentes no Amapá. Perguntou sobre requisitos ou falhas que poderiam aumentar o consumo, como fiação antiga ou falta de aterramento, e se há maneira de saber se um consumo excessivo é causado por problemas na residência do consumidor.",
       "speaker": {
         "name": "Luiz Eduardo Barata",
-        "position": "Presidente - Frente Nacional dos Consumidores de Energia"
+        "position": "Presidente - Frente Nacional dos Consumidores de Energia",
+        "slug": "luiz-eduardo-barata"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Presidente da Frente Nacional de Consumidores de Energia enfatizou importância de aspectos econômicos e éticos no setor de energia.",
       "speaker": {
         "name": "Luiz Eduardo Barata",
-        "position": "Presidente - Frente Nacional dos Consumidores de Energia"
+        "position": "Presidente - Frente Nacional dos Consumidores de Energia",
+        "slug": "luiz-eduardo-barata"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Presidente - Frente Nacional de Consumidores de Energia sobre uso justo de energia: importância de pagar contas, tarifa social relevante, mas não só para pessoas de baixa renda, furto de energia é generalizado, necessidade de movimento amplo e valorização da questão. Obrigado.",
       "speaker": {
         "name": "Luiz Eduardo Barata",
-        "position": "Presidente - Frente Nacional dos Consumidores de Energia"
+        "position": "Presidente - Frente Nacional dos Consumidores de Energia",
+        "slug": "luiz-eduardo-barata"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel abordou perdas de energia elétrica no Brasil, divididas em perdas técnicas e perdas não técnicas. Perdas técnicas são inerentes à rede e têm lei física, enquanto perdas não técnicas derivam de furtos, fraudes, erros de leitura e faturamento. Essas últimas, também chamadas \"gatos\", são associadas à gestão da concessionária e características socioeconômicas.",
       "speaker": {
         "name": "Carlos Mattar",
-        "position": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel"
+        "position": "Superintendente de Regulação dos Serviços de Transmissão e Distribuição da Aneel",
+        "slug": "carlos-mattar"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Assessor de Regulação - ABRADEE se apresenta e saluda deputados.",
       "speaker": {
         "name": "Lucas Malheiros",
-        "position": "Assessor de Regulação - ABRADEE"
+        "position": "Assessor de Regulação - ABRADEE",
+        "slug": "lucas-malheiros"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "A Associação Brasileira de Distribuidores de Energia Elétrica (ABRADEE) representa 39 empresas distribuidoras em todo o país, atendendo 99,6% do mercado. O setor distribuição evolui constantemente, investindo fortemente em tecnologia e rede, representando 4% do PIB e empregando 200 mil pessoas. O serviço atinge 99,8% do país, sendo a \"última milha\" entre a geração e o consumidor.",
       "speaker": {
         "name": "Lucas Malheiros",
-        "position": "Assessor de Regulação - ABRADEE"
+        "position": "Assessor de Regulação - ABRADEE",
+        "slug": "lucas-malheiros"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "Acesso à energia elétrica: 99,8% da população, mas econômicamente não está à vista de todos. Superintendente de Pesquisa - Fundação Getúlio Vargas Energia aponta 10 milhões de famílias no Cadastro Único que não usufruem da tarifa social, principalmente em regiões com alta ocorrência de perdas não técnicas (furto de energia). Impactos econômicos para as famílias e em arrecadação de impostos. Tecnologia ajudaria a atuar em áreas com dificuldade de acesso.",
       "speaker": {
         "name": "Felipe Gonçalves",
-        "position": "Superintendente de Pesquisa - Fundação Getúlio Vargas Energia"
+        "position": "Superintendente de Pesquisa - Fundação Getúlio Vargas Energia",
+        "slug": "felipe-goncalves"
       }
     },
     {
@@ -245,7 +265,8 @@
       "summary": "Utilização de tecnologia de medição avançada é permitida e regulamentada por ANEEL e INMETRO desde os anos 90. O alto custo na rede elétrica inviabiliza operações e combate a perdas não técnicas. ANEEL e Inmetro têm regulamentações atualizadas sobre o assunto. Supremo Tribunal Federal atento a efeitos econômicos das decisões. Discussões em linha com transformação e modernização do setor de distribuição, com ênfase em novas tecnologias.",
       "speaker": {
         "name": "Gustavo De Marchi",
-        "position": "Consultor - Fundação Getúlio Vargas Energia"
+        "position": "Consultor - Fundação Getúlio Vargas Energia",
+        "slug": "gustavo-de-marchi"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Gerência de Operações Tecnológicas-LACTEC: área de pesquisa e desenvolvimento em energia, com foco em medição e tarifação. Projetos com Companhia Paranaense de Energia, incluindo medidor de energia pré-pago e calibração de medidores. Sistemas de detecção de fraude, monitoramento de qualidade de energia e medição centralizada. Visão de gestão inteligente de energia em cidades inteligentes.",
       "speaker": {
         "name": "Luciano Carstens",
-        "position": "Gerente de Operações Tecnológicas - LACTEC"
+        "position": "Gerente de Operações Tecnológicas - LACTEC",
+        "slug": "luciano-carstens"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -314,7 +340,8 @@
       "summary": "Assessor de Regulação - ABRADEE afirma: medidores seguros, registram consumo efetivo; aumentos em conta podem resultar de hábitos ineficientes e equipamentos menos eficientes; medidores não aumentam consumo, apenas registram.",
       "speaker": {
         "name": "Lucas Malheiros",
-        "position": "Assessor de Regulação - ABRADEE"
+        "position": "Assessor de Regulação - ABRADEE",
+        "slug": "lucas-malheiros"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -337,7 +365,8 @@
       "summary": "DIRETOR SUBSTITUTO - DIRETORIA DE METROLOGIA LEGAL DO INMETRO: O INMETRO controla medidores de energia, que podem ser influenciados por fatores alheios a si mesmos. Medidores antigos podem dar resultados inferiores ao reais. Quando houver dúvidas, os órgãos delegados do INMETRO nos estados farão verificações para confirmar se a causa é externa ou um problema no medidor.",
       "speaker": {
         "name": "Marcelo Luís",
-        "position": "DIRETOR SUBSTITUTO - DIRETORIA DE METROOGIA LEGAL DO INMETRO"
+        "position": "DIRETOR SUBSTITUTO - DIRETORIA DE METROOGIA LEGAL DO INMETRO",
+        "slug": "marcelo-luis"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     }
   ],

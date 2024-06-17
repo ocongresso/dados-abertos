@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -75,7 +80,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Fernando Máximo -- por Participante -- Keniston Braga",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-fernando-maximo-por-participante-keniston-braga"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -121,7 +130,8 @@
       "transcription": "Corrigindo deputado Fernando. Obrigado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Keniston Braga -- por Participante -- Dr. Fernando Máximo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-keniston-braga-por-participante-dr-fernando-maximo"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     }
   ],

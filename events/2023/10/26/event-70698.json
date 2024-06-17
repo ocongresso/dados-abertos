@@ -16,7 +16,8 @@
       "summary": "Mestre de Cerimônias convida convidados a se sentar em mesa oficial do seminário sobre autismo na Amazônia, no Palácio Cabanagem. Presentes: deputadas federais Alessandra Abreu e Isa Arruda, prefeito Daniel Santos, vereador Rui, presidente da frente parlamentar Fabrício Miranda, reitora Erdijânia Veras, coordenadora de políticas públicas Naiara Barbalho, advogada Flávia Marsal, e padre Eugênio Conceição. Todos cantam o hino nacional.",
       "speaker": {
         "name": "Edson Farias",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "edson-farias"
       }
     },
     {
@@ -26,7 +27,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -36,7 +38,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -47,7 +50,8 @@
       "summary": "Mestre de Cerimônias convida senhora Ângela Avis e outros presentes, como vereadores, chefe de gabinete, secretária, representantes de associações e universidade, a participar da mesa. Presentes: vereadores de Ananindeua e Paragominas, reitor, secretária, chefe de gabinete e representantes de associações. Deputada Alessandra terá a palavra.",
       "speaker": {
         "name": "Edson Farias",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "edson-farias"
       }
     },
     {
@@ -58,7 +62,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE agradece a Deus e acolhe todos; elogia criadores da subcomissão e aponta inclusão de pessoas com TEA como objetivo. Louva a governadora do Pará, Naiara Barbalho, pelos avanços na inclusão de pessoas com TEA no estado. Menciona planos de ouvir os envolvidos e criar políticas públicas benéficas. Reconhece sua amizade com a deputada Isa e seu comprometimento em comum com a causa.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": "Relatora da SUBTEA/CSAUDE agradece oportunidade de participar, destaca importância de inclusão, amor, diversidade e acessibilidade para políticas públicas relacionadas ao autismo. Menciona convidar presidindo subcomissão e convida para pensar em vocações de pessoas com autismo, como exemplificado por Lucas, um escritor e artista autista militar, e uma pernambucana que publicou um livro na Câmara Federal. Encora o compromisso com a causa e agradece por recepção.",
       "speaker": {
         "name": "Iza Arruda",
-        "position": "Relatora - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Relatora - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -80,7 +86,8 @@
       "summary": "Mestre de Cerimônias registra presença de Mara Minéia Souza do grupo Mundo Azul, Vereador Félix Júnior, Vereadora, e Deputado Estadual Fábio Freitas como convidado de mesa.",
       "speaker": {
         "name": "Edson Farias",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "edson-farias"
       }
     },
     {
@@ -91,7 +98,8 @@
       "summary": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) se refere a:",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -102,7 +110,8 @@
       "summary": "Presidente - Comissão de Direitos das Pessoas com Autismo da OAB/PA agradeceu participantes, destacou apoio de deputada Alessandra Abe e outros presentes. Ela mencionou o avanço no Pará com quatro centros de atendimento e um laboratório de formação profissional, além da primeira base de dados sobre autismo no Brasil. Também falou sobre a necessidade de mais mudanças e a importância da participação na política.",
       "speaker": {
         "name": "Nayara Barbalho",
-        "position": "Presidente - Comissão de Direitos das Pessoas com Autismo da OAB/PA"
+        "position": "Presidente - Comissão de Direitos das Pessoas com Autismo da OAB/PA",
+        "slug": "nayara-barbalho"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) anunciou instituição de ação específica no orçamento de 2024 para construção e manutenção de centros de autismo, permitindo emendas de deputados para financiamento.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -124,7 +134,8 @@
       "summary": "Deputado Estadual do Pará se emociona com a causa do autismo, cita sua experiência pessoal e compromete apoio a subcomissão e projetos relacionados. Ele também sugere descentralizar Centros Integrados de Reabilitação (CIR) no Pará.",
       "speaker": {
         "name": "Fábio Freitas",
-        "position": "Deputado Estadual do Pará"
+        "position": "Deputado Estadual do Pará",
+        "slug": "fabio-freitas"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": "Presidente da Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) cede tempo de fala a pais, mães, e associações, com apoio de prefeito Daniel e vereadores.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -146,7 +158,8 @@
       "summary": "Vereador de Ananindeua/PA falou sobre compromisso com autismo, representado por deputadas e familiares. Elas e outros, incluindo prefeito e ONGs, trabalham em prol da inclusão de pessoas com TEA na cidade. Emenda do Serteia traz serviços especializados. Gabinete do vereador receberá currículos de pessoas autistas para contratação, demonstrando inclusão no local de trabalho.",
       "speaker": {
         "name": "Fabrício Miranda",
-        "position": "Vereador de Ananindeua/PA"
+        "position": "Vereador de Ananindeua/PA",
+        "slug": "fabricio-miranda"
       }
     },
     {
@@ -157,7 +170,8 @@
       "summary": "Presidente SUBTEA/CSAUDE agradece e cede o palavro para a reitora da UFRA.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -168,7 +182,8 @@
       "summary": "Reitora da UFRA agradece convite, elogia evento e tema, refere experiência de deputada vice-reitora, cumprimenta mesa, agenda visita na semana seguinte para apresentar projetos da UFRA, especialmente relacionados a turismo e acessibilidade, menciona trabalho com sensibilidade na universidade, incluindo alunos com deficiência, e expressa prazer em participar do evento e continuar trabalhando em relação à ação.",
       "speaker": {
         "name": "Herdjania Veras",
-        "position": "Reitora da Universidade Federal Rural da Amazônia (UFRA)"
+        "position": "Reitora da Universidade Federal Rural da Amazônia (UFRA)",
+        "slug": "herdjania-veras"
       }
     },
     {
@@ -179,7 +194,8 @@
       "summary": "Subcomissão Especial sobre Políticas Públicas para Pessoas com Espectro Autista se reporta à primeira romaria de acessibilidade do Sírio, com expressão de orgulho e alegria, dando voz à Doutora Flávia Marsal, vice-presidente da comissão do autismo da OAB Pará.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -190,7 +206,8 @@
       "summary": "Coordenadora - Projeto TEA da UFRA anunciou criação de comissão para direitos de pessoas com TEA, buscando políticas públicas efetivas em colaboração com famílias e poder público. Ela agradeceu apoio do prefeito de Belém e Ananindeua em formação de professores e implementação de políticas. Coordenadora é mãe de pessoa com autismo e expressou gratidão a famílias por transformarem sonho em realidade.",
       "speaker": {
         "name": "Flávia Marçal",
-        "position": "Coordenadora - Projeto TEA da UFRA"
+        "position": "Coordenadora - Projeto TEA da UFRA",
+        "slug": "flavia-marcal"
       }
     },
     {
@@ -201,7 +218,8 @@
       "summary": "Presidente da Subcomissão Especial sobre Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) agradeceu Flávia e abriu o tempo de fala para as associações, mães e pais, começando com Ângela Lima, presidente da associação \"Somos mães e pais de anjos.\"",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -212,7 +230,8 @@
       "summary": "Presidente da Associação Somos Pais de Anjos compartilhou sua experiência trabalhando com crianças com deficiência e seu amor por uma criança autista particular. Ela agradeceu às mulheres presentes e falou sobre o grupo de mães e pais de anjos, que cresce e ajuda outras mães a encontrarem recursos e informações. Ela expressou sua gratidão a todos presentes e políticos locais por apoiar a causa do autismo.",
       "speaker": {
         "name": "Ângela Lima",
-        "position": "Presidente da Associação Somos Pais de Anjos"
+        "position": "Presidente da Associação Somos Pais de Anjos",
+        "slug": "angela-lima"
       }
     },
     {
@@ -223,7 +242,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE prioriza pessoas autistas para falarem, dando voz a suas experiências.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -234,7 +254,8 @@
       "summary": "Fala sobre a jornada de 30 anos com seu filho autista, enfatizando a luta diária e a inclusão como aprendizado constante. Ela valoriza o apoio do Ministério Público e pede à sociedade por mais abraços à inclusão. Sua mensagem final é uma celebração da formação acadêmica e do emprego de seu filho, juntamente com a entrega de um presente representando seu trabalho com Histórias em Quadrinhos (HQs).",
       "speaker": {
         "name": "Eliane Helena Moura Quaresma",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "eliane-helena-moura-quaresma"
       }
     },
     {
@@ -245,7 +266,8 @@
       "summary": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) enfatizou aprendizado com testemunhos e necessidade de compartilhar ideias e sugestões neste momento único.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -256,7 +278,8 @@
       "summary": "Participante Convidada, 28 anos, autista e TDAH, estudante de artes visuais, abordou a importância de políticas públicas que considerem autistas adultos e sua necessidade de atendimento especializado ao longo da vida. Ela destacou a interseccionalidade que afeta diversos níveis de suporte e inclusão. Ela própria experimentou desafios no diagnóstico e inserção profissional, mas alcançou sucesso acadêmico e artístico. Exortou a ouvir autistas adultos e reconhecer sua diversidade.",
       "speaker": {
         "name": "Kattari Quadros Dias",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "kattari-quadros-dias"
       }
     },
     {
@@ -267,7 +290,8 @@
       "summary": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE) destacou importância de intervenção precoce e acompanhamento de adultos autistas, mencionando talentosa jovem autista que expôs suas obras de arte.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -278,7 +302,8 @@
       "summary": "Participante Convidada comparte herança como madre de un niño autista e desafíos en su búsqueda de políticas públicas que atiendan las necesidades especiales de su hijo. Ella subraya la trascendencia de considerar la transición de la infancia a la edad adulta y la necesidad continua de apoyo comunitario y servicios de salud. Además, ella expresa su preocupación por la aceptación social y el trato digno de personas con autismo.",
       "speaker": {
         "name": "Vanessa",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "vanessa"
       }
     },
     {
@@ -288,7 +313,8 @@
       "transcription": "Muito obrigada pela contribuição. Pode falar. Pode se.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -299,7 +325,8 @@
       "summary": "Presidente da APAE Moju/PA falou sobre desafios de ter três integrantes da família com autismo, esperando avaliação há anos e lutando por suporte, especificamente no município de Moju com muitos autistas e pessoas com deficiência. Ela agradece apoio e menciona a filha que terá baile de debutante.",
       "speaker": {
         "name": "Dirlei Pereira Bruce",
-        "position": "Presidente da Associacao de Pais e Amigos dos Excepcionais | Apae Moju / PA"
+        "position": "Presidente da Associacao de Pais e Amigos dos Excepcionais | Apae Moju / PA",
+        "slug": "dirlei-pereira-bruce"
       }
     },
     {
@@ -310,7 +337,8 @@
       "summary": "Presidente SUBTEA/CSAUDE: continuamos falas; Isa é exemplo de luta; uniremos forças para ajudar e dar suporte a todas.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -320,7 +348,8 @@
       "transcription": "Oi.",
       "speaker": {
         "name": "Robério Neto",
-        "position": "Participante Convidado"
+        "position": "Participante Convidado",
+        "slug": "roberio-neto"
       }
     },
     {
@@ -331,7 +360,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE incentiva pessoas a se manifestarem, oferecendo suporte para registrar suas ideias.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -342,7 +372,8 @@
       "summary": "Participante Convidado propõe praças inclusivas com brinquedos acessíveis e áreas cobertas, além de postos de saúde com profissionais capacitados e apoio às crianças com autismo, incluindo área de venda de produtos relacionados e tratamento de seletividade alimentar.",
       "speaker": {
         "name": "Robério Neto",
-        "position": "Participante Convidado"
+        "position": "Participante Convidado",
+        "slug": "roberio-neto"
       }
     },
     {
@@ -353,7 +384,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE oferece três minutos de fala a dez pessoas; disponível para receber ideias e encaminhá-las à relatora Isa; sua equipe contactará para marcar.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -364,7 +396,8 @@
       "summary": "Participante Convidado sugeriu felicitações à diretora Patrícia da PAN, mencionou contato dela, expressou felicidade com o Serteia e sugeriu acolher autistas de suporte nível 3 no futuro, agradeceu aos presentes e pediu desculpas.",
       "speaker": {
         "name": "Robério Neto",
-        "position": "Participante Convidado"
+        "position": "Participante Convidado",
+        "slug": "roberio-neto"
       }
     },
     {
@@ -375,7 +408,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE convida pai a inauguração; elogia sua participação; pede para passar microfone para mãe atípica.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -386,7 +420,8 @@
       "summary": "Participante Convidada compartilhou sua experiência como mãe e deficiente visual, morando em local precário e lutando por uma casa adequada. Ela enfatizou a importância de cuidar das mães e fornecer moradias adequadas para pessoas de baixa renda. Ela agradeceu o apoio da vereadora Nice.",
       "speaker": {
         "name": "Leidiane Malcher de Almeida",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "leidiane-malcher-de-almeida"
       }
     },
     {
@@ -398,7 +433,8 @@
       "speaker": {
         "id": 220674,
         "name": "Dra. Alessandra Haber",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dra-alessandra-haber"
       }
     },
     {
@@ -409,7 +445,8 @@
       "summary": "Participante Convidada expressa emoção em comparecer, parabeniza os presentes e agradece. Ela elogia causa, emphasiza importância de inclusão e saúde mental, especialmente em relação a autistas e neurodiversidade. Ela destaca a necessidade de ajuda e colaboração entre instituições e profissionais para atendimento efetivo e encerra com chamada para criação de carteirinha municipal para ajudar indivíduos com dificuldades em saúde mental.",
       "speaker": {
         "name": "Andreia",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "andreia"
       }
     },
     {
@@ -420,7 +457,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE pediu respeito ao tempo de fala para todos os participantes, entregando a palavra a mãe atípica Néia.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -431,7 +469,8 @@
       "summary": "Mãe de quatro crianças, três com autismo, confronta desafios diários de cuidar deles sozinha, lutando para obter ajuda e apoio de profissionais de saúde e comunidade. Sente impacto na saúde devido ao estresse.",
       "speaker": {
         "name": "Valdinéia Leston",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "valdineia-leston"
       }
     },
     {
@@ -442,7 +481,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE agradece e menciona presença de mãe atípica.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -453,7 +493,8 @@
       "summary": "Participante Convidada agradece convite ao seminário, coordena grupo de pais e mães de PCD em Ananindeua. Ela defende melhores melhorias no CAPS e CAPESI, confia na transição para um prédio próprio, incentiva tratamento inclusivo e humanizado para autismo, pede avaliação aprimorada para contratar profissionais especializados em autismo, questiona privação de lazer em feriados e fins de semana, e deseja políticas inclusivas reais.",
       "speaker": {
         "name": "Kátia",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "katia"
       }
     },
     {
@@ -464,7 +505,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE se compromete a atender pessoalmente as pessoas inscritas que não terão a oportunidade de falar na reunião, além de passar a palavra para a última palestrante, Patrícia da PAN.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -475,7 +517,8 @@
       "summary": "Participante Convidada, mãe de crianças com autismo, compartilhou desafios de ser mãe de criança com deficiência e a necessidade de apoio, suporte e políticas públicas. Ela também destacou a importância da saúde bucal em pessoas com deficiência.",
       "speaker": {
         "name": "Patrícia",
-        "position": "Participante Convidada"
+        "position": "Participante Convidada",
+        "slug": "patricia"
       }
     },
     {
@@ -486,7 +529,8 @@
       "summary": "Presidente da SUBTEA/CSAUDE permite que uma pessoa de Ipixuna do Pará fale, procurando Christian.",
       "speaker": {
         "name": "Alessandra Haber",
-        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)"
+        "position": "Presidente - Subcomissão Especial - Políticas Públicas para Pessoas com Espectro Autista (SUBTEA/CSAUDE)",
+        "slug": "alessandra-haber"
       }
     },
     {
@@ -497,7 +541,8 @@
       "summary": "Participante Convidado criou uma vida em Castanhal para estar perto de sua filha autista, Sara. Aceitaram o diagnóstico de Sara e estudaram como cuidar dela, apesar da resistência da família. Superaram desafios como sua alimentação e sono, adaptando seu ambiente e rotina. Ele elogia a mãe e rede de apoio de Sara. Ele pede que ninguém abandone seus filhos, pois cada conquista é uma vitória e requer esforço e envolvimento de muitas pessoas.",
       "speaker": {
         "name": "Cristian",
-        "position": "Participante Convidado"
+        "position": "Participante Convidado",
+        "slug": "cristian"
       }
     },
     {
@@ -509,7 +554,8 @@
       "speaker": {
         "id": 220674,
         "name": "Dra. Alessandra Haber",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dra-alessandra-haber"
       }
     },
     {
@@ -520,7 +566,8 @@
       "summary": "Padre e Vigário episcopal de Ananindeua (PA) convidou para oração silenciosa em respeito a pessoas que lutam por projeto, pedindo proteção para duas mulheres e dedicando-se à causa de cuidar de pessoas. Finaliza em nome do Pai e do Espírito Santo, abençoando a todos.",
       "speaker": {
         "name": "Ivan Conceição",
-        "position": "Padre e Vigário episcopal de Ananindeua (PA)"
+        "position": "Padre e Vigário episcopal de Ananindeua (PA)",
+        "slug": "ivan-conceicao"
       }
     }
   ],

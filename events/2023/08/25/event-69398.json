@@ -17,7 +17,8 @@
       "summary": "Senador inaugura audiência pública sobre a importância da ciência e sua percepção pública, com duração de 10 minutos por palestrante e 3 minutos para interpelar. Objetivo: informar parlamentares, aumentar recursos necessários no país, sensibilizar a população e mostrar a relação entre ciência, tecnologia, inovação e vida diária. Primeira palestrante: Secretária de Políticas e Programas e Estratégia do Ministério da Ciência e Inovação.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Ciência vital para melhorar qualidade de vida e desenvolver o país, necessitando de financiamento para pesquisa básica, ampliação do acesso à pós-graduação e universidades, e reconhecimento social da autoridade do conhecimento.",
       "speaker": {
         "name": "Marcia Cristina Bernardes Barbosa",
-        "position": "Secretaria de politicas e programas estrategicos do Ministério da Cieência, Tecnología e inovações"
+        "position": "Secretaria de politicas e programas estrategicos do Ministério da Cieência, Tecnología e inovações",
+        "slug": "marcia-cristina-bernardes-barbosa"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Senador cede palavra a Átila Iamarino, divulgador científico.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Divulgador Científico: financiar e divulgar ciência, especialmente para jovens, crucial em novos meios de comunicação. No Brasil, cientistas devem adaptar-se às preferências por vídeos e áudios. Falta de incentivo profissional dificulta processo. Desinformação na internet precisa ser combatida com estratégias institucionais.",
       "speaker": {
         "name": "Atila Iamarino",
-        "position": "Divulgador Científico"
+        "position": "Divulgador Científico",
+        "slug": "atila-iamarino"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Senador se refere à professora Roseli Lopes, vicediretora do Instituto dos Estados Avançados da Universidade de São Paulo, e sauda-a com educação.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "A vice-diretora do Instituto de Estudos Avançados da Universidader de São Paulo destaca a importância de popularizar ciência e tecnologia, cultivo de talentos, conexão entre pesquisa e indústria, e criação de redes de feiras STEM para impulsionar talentos e inovação no Brasil. Ela também defende análise de dados de projetos estudantis e políticas integradas de longo prazo para promover excelência e abrangência na ciência, tecnologia e inovação no país.",
       "speaker": {
         "name": "Roseli Lopes",
-        "position": "Vice-diretora do Instituto de Estudos Avançados da Universidader de São Paulo"
+        "position": "Vice-diretora do Instituto de Estudos Avançados da Universidader de São Paulo",
+        "slug": "roseli-lopes"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Senador enfatiza importância de cientistas no progresso do país, citando a Dra. Helena Nader como exemplo.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Presidente da Academia Brasileira de Ciencias desejou boa tarde, elogiou senador Alcir, lamentou falta de compreensão de deputados sobre importância de ciência e tecnologia, comunicou pessimismo sobre futuro, cita exemplos de contribuições brasileiras, expressou preocupação com fuga de cérebros e falta de investimento em ciência, mencionou ameaça a lei complementar sete sete, e agradeceu ao Senado.",
       "speaker": {
         "name": "Helena Bonciani Nader",
-        "position": "Presidente da Academia Brasileira de Ciencias"
+        "position": "Presidente da Academia Brasileira de Ciencias",
+        "slug": "helena-bonciani-nader"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Senador elogia fala sobre importância de ciência e tecnologia, agradece convidados, cede palavra a presidente da Sociedade Brasileira para o Progresso da Ciência.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Presidente da sociedade Brasileira para o Progresso e Ciência alerta sobre perigo do negacionismo científico, levando Brasil a ter 500 mil mortes acima da média mundial com Covid-19. É necessário promover confiança e alfabetização científica na população, incorporando conhecimento básico em ciências, história, geografia, sociologia, e filosofia.",
       "speaker": {
         "name": "Renato Janine Ribeiro",
-        "position": "Presidente da sociedade Brasileira para o  Progresso e Ciência"
+        "position": "Presidente da sociedade Brasileira para o  Progresso e Ciência",
+        "slug": "renato-janine-ribeiro"
       }
     },
     {
@@ -127,7 +137,8 @@
       "summary": "Senador cedeu palavra ao diretor de pesquisa e desenvolvimento da 3M Brasil.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -138,7 +149,8 @@
       "summary": "A Diretor de Desenvolvimento para América Latina da 3M do Brasil valoriza transparência, integridade e inovação, e destaca a preocupação dos brasileiros com mudanças climáticas e confiança no papel da ciência. A 3M promove sustentabilidade por meio de descarbonização, energia limpa, transporte sustentável e economia circular, e recomenda ampliar o FNDCT, aprimorar a Lei do Bem e investir continuamente em ciência e tecnologia para impulsionar o desenvolvimento sustentável.",
       "speaker": {
         "name": "Paulo Roberto Gandolfi",
-        "position": "Diretor de Desenvolvimento para  América Latina da 3M do Brasil"
+        "position": "Diretor de Desenvolvimento para  América Latina da 3M do Brasil",
+        "slug": "paulo-roberto-gandolfi"
       }
     },
     {
@@ -148,7 +160,8 @@
       "transcription": "Eu vou fazer aqui alguma algumas considerações, depois a gente vai pras considerações finais. Eu quero, primeiro lamentar né o que ocorreu aqui na câmara, Com relação à ciência e tecnologia, nós conseguimos no Senado Federal, retirar, né do texto né o a questão do fundo o fundo constitucional que é do DF que, pra nós era fundamental, o Fundeb, que foi relator também lá no Senado do Fundeb, conseguimos também tirar do texto, e fiquei muito feliz com a a inclusão evidente também no Senado da área de ciência e tecnologia. Eu iria apresentar lá mas o senador Renan acabou apresentando a a emenda né, retirando do arcabouço, os recursos, né, os os recursos da ciência e tecnologia. E aí sinceramente não entendi aqui na Câmara, qual foi o motivo realmente de devolver o texto o, 0 texto do relator que foi aprovado aqui na câmara. Não sei se é uma questão estadual, não é, porque no mérito, nós discutimos aqui o FNDCT foi unanimidade Câmara do Senado derrubamos veto voltou o governo fez a recomposição lógico que depois dessa tragédia né que aconteceu aqui, nós teremos que agora, né trabalhar pouco mais e o que eu percebo né, por isso que a importância dessa audiência aqui na comissão do orçamento é que ciência e tecnologia pesquisa como é de médio e longo prazo né as pessoas muitas vezes pensam apenas na próxima eleição né, poucos pensam na próxima geração, então é era igual aqui o saneamento, o saneamento você faz gasta aí investe né, porque não é gasto também investimento milhões e bilhões de de recursos, mas fica debaixo da terra ninguém vê, não é, então o que dá voto é aquilo que as pessoas veem de imediato, e lamentavelmente a gente vai perdendo pouco da dos parlamentares que se interessam né pela pela ciência, porque não dá voto imediato. E mas eu quero dar uma boa notícia aqui né eu sei que a o FNDCT nós vamos fiscalizar e acompanhar passo a passo aqui com relação ao orçamento. A lei do bem, não é? Nós temos dois projetos no Senado. De minha autoria também, né o como o FNDCT por incrível que pareça, a lei do bem a gente conseguiu já, o senador Marcos Pontes é o relator, quartafeira que vem eu vou presidir a comissão e nós vamos aprovar, né a o projeto da lei do bem. E aí vai pra Kai, e já pediu inclusive pra que o próprio presidente da da CCT, o Senador Carlos Viana pudesse relatar esse projeto no Nakay, não é? Da na mesma linha nós temos já tramitando aqui regime de urgência na Câmara né o projeto da Casiane. E aí fica mais fácil a gente conseguir aprovar que na Câmara dela e o nosso lá do Senado evidentemente que as coisas facilitam muito, pra que a gente possa já, né aprovar ainda este ano e vigorar já nesse nesse orçamento. Então perspectiva é boa agora, eu senti falta, não é? Eu me lembro como deputado no que nós trabalhamos aqui também né, por a inovação na constituição, o marco regulatório de eu vi muita participação assim de muitas instituições que vieram aqui em peso, não é e falamos com o presidente com reunião de líderes, não é, criamos confusão danada aqui fez sei lá né, a nossa querida Helena nada ele lembra porque ela sempre foi sempre esteve à frente de todos esses movimentos, pelo menos desde a época que eu, foi secretário né eu eu eu sou contador auditor não sou nem. Especialista na área mas eu, como secretário, né, no primeiro momento né qualquer que lida com essa área, sabe da importância disso para o desenvolvimento do país né, é uma coisa tão óbvia que chega, as pessoas acabam ficando cega com relação a isso, mais os exemplos estão aí práticos né, os países que investiram na ciência e na educação, infelizmente no Brasil é o que foi falado né, não temos política de estado, a gente tem política de governo. Então cada governo que entra é uma nova história, né, e fazem até questão de acabar com o que o que foi feito nos no no governo anterior, nos governos anteriores. Então essa falta de política de estado é que me incomoda muito, não é? Foi falado aqui com relação à reeleição, não é da os deputados que prometem depois não cumprem, não é? Eu tenho a PEC tramitando aqui exatamente nesse sentido, né, que, os governos precisam apresentar uma plano de metas após a eleição em noventa dias após a eleição, isso durante o mandato não executar aquilo que ele prometeu na campanha que está no plano de meta ele fica inelegível, porque de fato chega né de tanta promessa de mentiras, e na na hora que a pessoa tem a caneta não faz nada daquilo que prometeu. E vai passando né, cada eleição entra governo sai governo muda o governo sai governo e as coisas continuam ou até mesmo pioram né, em determinados pontos então, eu convido né, não sei como porque, né, não tem nem também às vezes não tem nem condição de fazer mobilização mas ontem mesmo eu sugeri à Embrapa e, pode acontecer com vocês também eu quando fui secretário eu criei, nós tínhamos o governo na cidade onde todos os secretários, né, ficava o dia todo em em determinados eventos né, então a gente pediu colocou o dia da ciência e tecnologia, então todo secretário, governador, não é, nós estivemos na Embrapa fomos na Universidade de Brasília, pra que eles conhecesse de perto né o os laboratórios como funcionam, não é, e sugerir agora que eu acho que é o mais correto, eu trouxe a Embrapa ontem aqui como a gente está fazendo agora, e sugeri à Embrapa também isso que a gente fizesse nos estados, não é, esse alinhamento lá com o governador com o secretário de ciência e tecnologia dos estados, municípios, e cobrar lá na ponta, né, eu vejo muitas vezes as pessoas vindo da Brasília aqui conversar com os senadores aqui, mas o que surte mais efeito é lá na ponta, é chamálos lá, não é então pegar lá o 0 senador lá da de São Paulo e reunir com eles lá em São Paulo chama USP chama lá todos os os institutos de pesquisa e vamos fazer convencimento chamando os os deputados federais, senadores, vereadores, deputado estadual, precisa mobilizar pra que eles reconheça o óbvio que é exatamente o investimento. Eu fico triste né, porque eu peguei uma época onde a gente tinha realmente laboratório nas escolas, não é tinha incentivo a a pesquisa, não é? Hoje você não tem recurso falar Lúcia aí na na falta de pós pósgraduado não é? Até o ano dois anos atrás ou o ano passado até, né uma bolsa era mil e quinhentos reais com dedicação exclusiva é uma coisa assim tão absurda, não é como dois mil e quinhentos doutorado e a pessoa como é que vai sobreviver com dois e quinze não paga nenhum aluguel, né? E eu estou vendo aí as pessoas indo embora agora não precisa nem ir embora mais tem a internet, né as pessoas estão trabalhando agora via internet pra outros países pra outras empresa, e a gente vai perdendo competitividade e perdendo, né os jovens e as os as pessoas competentes e que foram anos e anos disso tudo, estou indo embora. Alemanha agora parece que está abrindo quinhentas mil vagas, e vão pegar todo mundo que está aqui no Brasil assim rapidamente né. A mesma coisa os concursos né, nós estamos aí com uma, uma falta de concurso na cidade de seiscentos há anos, a Embrapa tem treze anos que não faz concurso né, e as pessoas às vezes acham que é só pegar na prateleira ali né e substituir, esquecendo que tem aí uma transição importantíssima aí que leva dois três quatro anos, então a gente tem que preparar pra isso mas, por incrível que pareça o óbvio não é reconhecido, por isso que eu não sei como a gente precisa porque eu, a cada ano que passa eu vejo, não é que, as pessoas se interessam menos por isso, né? Investe em muitas áreas que às vezes não tem relevância, em detrimento aí do do do principal que é educação ciência e tecnologia. Então Helena eu também fico assim meio né, não vou dizer desanimado não porque a gente não pode perder a perder a esperança né mas, eu vejo os discursos né os discursos maravilhosa, todo mundo, todo mundo defende educação, todo mundo defende tecnologia, inovação mas, na não é chega de discurso né, ela já está há muitos anos superado agora tem que trabalhar em em termos de recurso de programas, colocar a estrutura nas escolas né, que é outro problema né, a gente parece que cada secretaria é governo diferente né? Imagine se a ciência e tecnologia não fala com a educação, aqui em alguns estados, nem a secretaria de ciência e tecnologia conversa com a fundação de amparo à pesquisa, né indicações políticas separadas cada indica uma coisa e não se fala não, não há esse essa integração né então, a gente precisa fazer aí talvez não movimento porque dá uma sacudida nessa turma por isso que eu fiz aqui na comissão mista do orçamento que é deputados e senadores, e tem alguns vários aqui que, né até defendem bem mas temos que traduzir essa defesa do discurso em recurso, em ações, né, vamos vamos agora, nós vamos começar agora a votação da LDO. E vou já vou apresentar só esperando apresentar já a emenda do não contingenciamento dentro da LDO, né, e depois na LOA, né, então a gente temos que fazer esse trabalho pra evitar realmente que venha novamente o contingenciamento desses recursos, não é independente de qualquer coisa, essa área não pode ser como foi dito né, não não não é nem manter não tem que ser ampliado os recursos porque o que foi o que vem normalmente são recursos né insuficientes em todas as áreas. Então é é o objetivo foi exatamente esse né pra sensibilizar aqui a a comissão que tem senadores e deputados, e colocar ter uma colocar a ciência e tecnologia como prioridade nacional, né? São tantos exemplos que existe aí mas, eu estava falando com a Embrapa né, a gente tem tantos projetos sendo votado aqui, no caso da Embrapa especificamente mas SBPC né, a Associação da da Ciência e Tecnologia tem peso tem tem credibilidade então, esses assuntos técnicos que normalmente são complexos pra muitas muitos parlamentares, precisam ser avalizados, subsidiado pelo pelas instituições que a gente acredita né e que tem credibilidade aí, pra não ficar essa aqui partidária ideológica né, coisas tão tão óbvia mas aí vem a questão ideológica a gente tem que superar isso. Por isso que aqui agora viu Helena, as comissões eu vejo que vem perdendo muita força porque as comissões elas são partidárias proporcionais, não é, então vem o viés ideológico e a gente não tem acaba virando discurso. O tem funcionado bem e acho que vai prevalecer daqui pra frente, são as frentes parlamentar. As frentes né, você vê aí a a FPA inclusive, que é a Frente Parlamentar do agro, né, a Frente Parlamentar de Logística, tem a Frente Parlamentar de Comércio e Serviços agora, não é, que tem subsidiado os parlamentares, e é uma frente superpartidária, então você vai pra essas reuniões, que acontece semanalmente nessas nessas poucas frentes que funcionam, e você tem todo, né, as condições, você recebe todas as pesquisas, as fundamentações, né os prós, os contra, né a posição do setor. E aí então tem mais eficiência. Acho difícil aprovar qualquer coisa aqui no Congresso hoje por exemplo, não é, que não passe pela frente de de o agro e à frente das da comércio de serviço, né, então a gente precisa eu, a última vez que eu estive em São Paulo, na frente ciência e tecnologia, eu participei dum de uma reunião aí da da MEI, que é o movimento empresarial pela inovação, e que normalmente são convidados, o pessoal do Ministério da Ciência e tecnologia também, né, a a questão da indústria, eu disse olha, a a ciência e tecnologia, ela perpassa todas as áreas, né? Ela interage com todos então a gente poderia ser a frente mais importante do Congresso Nacional, porque nós teríamos condições de trazer pra essa composição, né praticamente todas as áreas, mas exatamente na numa estrutura como foi montado por essas outras frentes, e ciência e tecnologia poderá ter espaço muito grande se houver realmente, não é a a participação dessas instituições todas inclusive das indústrias da pá, onde tudo acontece o agro mesmo né, as pessoas vão participar também pra gente fortalecer esse segmento. Eu vejo que daqui pra a gente vai precisar muito, não é de de informação pesquisa por isso que eu convidei a três M né que eu vi, eu fiz uma reunião com eles na ciência e tecnologia e vi, né, a questão da da pesquisa que eles fizeram, não é a importância de popularizar isso. Então eu vou, na quartafeira né, eu eu vamos ver se a gente consegue aprovar na comissão já o parecer do senador Marcos Marcos Pontes né em função dos dos projetos nossos que estão tramitando lá, aprovar na Kai na sequência EEA gente poder concomitante aprovar aqui na câmara o projeto da da Casiane, né que está na linha a gente fez exatamente isso pra ajustando exatamente pra facilitar e e agilizar o processo né? Bem sem, mais comentários eu vou eu vou passar aqui pras considerações finais, não o professor Janine já teve que sair, mas eu vou passar agora na ordem inversa né, eu vou eu vou a nossa, se bem que a a professora Márcia acho que tem compromisso também, eu vou passar primeiro pra Márcia, pra que ela possa fazer também as suas considerações finais, agradecendo já a sua presença Márcia, obrigado. Márcia Professora Marques já teve que se ausentar, lá deixa eu Então vou passar aí. Átila também saiu. Professora Helena presidente da Academia Brasileira de Ciências, né, com a grande lutadora da ciência e tecnologia. Obrigado pela presença Helena, é prazer revêla, não é, está contigo aí. Obrigada senador, pra mim de novo eu",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -159,7 +172,8 @@
       "summary": "Presidente da Academia Brasileira de Ciências valoriza pesquisa da Febrasse, desejando continuar apoiando educação, ciência, tecnologia e inovação no Brasil. Suporta melhoria e revisão da Lei de Diretrizes Orçamentárias para fortalecer orçamento do Ministério correspondente, mantendo e melhorando atividades em andamento. Agradece colaboradores e participantes do evento.",
       "speaker": {
         "name": "Helena Bonciani Nader",
-        "position": "Presidente da Academia Brasileira de Ciencias"
+        "position": "Presidente da Academia Brasileira de Ciencias",
+        "slug": "helena-bonciani-nader"
       }
     },
     {
@@ -170,7 +184,8 @@
       "summary": "Senador refere passagem de palavra a diretora do Instituto de Estudos Avançados da USP, professora Roseli Lopes, para considerações finais.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": "A vice-diretora se ofereceu para ajudar com recursos pessoais e institucionais, oferecendo o Instituto de Estudos Avançados para eventos e visitas técnicas, a fim de aumentar o conhecimento sobre o assunto no Brasil e na Câmara dos Deputados.",
       "speaker": {
         "name": "Roseli Lopes",
-        "position": "Vice-diretora do Instituto de Estudos Avançados da Universidader de São Paulo"
+        "position": "Vice-diretora do Instituto de Estudos Avançados da Universidader de São Paulo",
+        "slug": "roseli-lopes"
       }
     },
     {
@@ -192,7 +208,8 @@
       "summary": "Senador propõe turno de fala para diretor da Três M, destacando pesquisa e desenvolvimento.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -203,7 +220,8 @@
       "summary": "Diretor de Desenvolvimento para América Latina da 3M do Brasil agradeceu oportunidade de falar, expressou gratidão a parceiros e ressaltou a importância de pesquisa, desenvolvimento e indústria sustentável para o crescimento do país. Defendeu a neoindustrialização ou nova industrialização sustentável como prioridade para o Brasil e 3M, e se disse disponível a discutir outros aprimoramentos no futuro próximo com parceiros.",
       "speaker": {
         "name": "Paulo Roberto Gandolfi",
-        "position": "Diretor de Desenvolvimento para  América Latina da 3M do Brasil"
+        "position": "Diretor de Desenvolvimento para  América Latina da 3M do Brasil",
+        "slug": "paulo-roberto-gandolfi"
       }
     },
     {
@@ -214,7 +232,8 @@
       "summary": "Senador propõe manifesto por melhores recursos para ciência e tecnologia, envolvendo Academia de Ciências e líderes do Congresso, expressando insatisfação com orçamento atual e buscando impedir retrocesso em conquistas alcançadas.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     }
   ],

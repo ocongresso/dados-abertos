@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "No fundo né? A votação é no fundo do plenário. Não está completo ainda? Não, não, ainda não. Eu tinha contado, pouco mais cedo, mas eu vi que já entraram mais Precisa o quê? Vinte pra começar? Isso. Mas não tem muito esquerda aqui, né? Pelo que eu estou vendo aqui não Não, não. Ela fazia da ciência e tecnologia, e veio pra cá. Mas ciência e tecnologia Tudo pra cá? Pois é, eles não valorizaram como deveriam. Pra mim isso aqui é mais importante que segurança, comunicação. Eu acho que Tem teu trabalho que eu entendo aí. E o presidente? E aí? Nobres colegas.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "Presidência da comissão de comunicação, declarandoo empossado. Está eleito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bibo Nunes -- por Participante -- Amaro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bibo-nunes-por-participante-amaro-neto"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220651,
         "name": "Simone Marquetto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "simone-marquetto"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220655,
         "name": "Mario Frias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-frias"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 103758,
         "name": "Luciano Azevedo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-azevedo"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     }
   ],

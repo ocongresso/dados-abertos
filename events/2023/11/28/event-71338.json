@@ -15,7 +15,8 @@
       "transcription": "",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -25,7 +26,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -35,7 +37,8 @@
       "transcription": "Registramos",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": "Mestre de Cerimônias anunciou missão da Frente: ligar Legislativo Federal com sociedade civil, construir propostas, fiscalização e capacitação, promover integridade e transparência no serviço público. Iniciativa suprapartidária com mais de 230 parlamentares e apoio de diversas entidades. Presentes autoridades civis. Coordenação com deputada federal Adriana Ventura.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": "Lançamento da FIT com três painéis de monitoramento: transferências voluntárias, especiais e interações entre autoridades. Ajudam a compreender melhor gestão pública, alocação e uso de recursos federais, desigualdades regionais e colaborações. Cidadãos podem monitorar, questionar e participar de um sistema político mais transparente.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -79,7 +85,8 @@
       "transcription": "Registramos",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -102,7 +110,8 @@
       "summary": "Mestre de Cerimônias anunciou abertura por deputado federal Alfredo Gaspar, mencionando ranking político, Ministério da Saúde e luta contra corrupção eleitoral.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -114,7 +123,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -125,7 +135,8 @@
       "summary": "Mestre de Cerimônias convidou deputado Van Huten e deputada federal Obia Kicis a falarem. Boa tarde.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -147,7 +159,8 @@
       "transcription": "Para uso da palavra, o deputado federal, capitão Alberto Neto.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -159,7 +172,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -170,7 +184,8 @@
       "summary": "Mestre de Cerimônias convidou deputados federais Diego Garcia e Joaquim Passarinho a falarem.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -182,7 +197,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -192,7 +208,8 @@
       "transcription": "Fará uso da palavra o deputado federal Paulo Foletto.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -203,7 +220,8 @@
       "summary": "Deputado fala sobre méritos de Adriana, sua colaboradora. Comemora a melhora do Espírito Santo em transparência e organização em 20 anos, mas critica a falta de fiscalização da emenda de relator. Destaca a importância da FIT para fortalecer a integridade e transparência, ajudando a melhorar a nação e o serviço à população. Menciona sua filiação ao PSB e a importância de contribuições ativas.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -214,7 +232,8 @@
       "summary": "Mestre de Cerimônias anuncia e convida deputada Flávia Moraes do PDT do Goiás a falar.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -226,7 +245,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -236,7 +256,8 @@
       "transcription": "Convidamos a fazer uso da palavra Joana, da transparência internacional.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -247,7 +268,8 @@
       "summary": "A Coordenadora de Comunicação da Transparência Internacional elogiou a iniciativa de ampliar a transparência em gastos públicos, mencionou trabalhos com órgãos governamentais e tribunais de contas, e destacou a importância de medidas concretas contra a corrupção, que é considerada um problema prioritário pelo povo brasileiro de acordo com uma pesquisa recente.",
       "speaker": {
         "name": "Joana Nublat",
-        "position": "Coordenadora de Comunicação da  Transparência Internacional"
+        "position": "Coordenadora de Comunicação da  Transparência Internacional",
+        "slug": "joana-nublat"
       }
     },
     {
@@ -258,7 +280,8 @@
       "summary": "Mestre de Cerimônias anuncia senadora Paula Belmonte e convida jornalista Luana Melo de Brasil a falar.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -269,7 +292,8 @@
       "summary": "Jornalista elogia iniciativa da Frente Parlamentar e Fiquem Sabendo, agência de dados independente, que promovem transparência pública e acesso à informação. Menciona ferramentas como agenda transparente e parceria com a Fiquem Sabendo em projetos de lei e investigações jornalísticas.",
       "speaker": {
         "name": "Luana Melody Brasil",
-        "position": "Jornalista"
+        "position": "Jornalista",
+        "slug": "luana-melody-brasil"
       }
     },
     {
@@ -279,7 +303,8 @@
       "transcription": "Neste momento, ao senhor Juan Carlos Arruda, diretor geral do ranking dos políticos.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -290,7 +315,8 @@
       "summary": "Diretor Geral do Ranking de Políticos saudou e elogiou combate à corrupção no Brasil, destacando importância de manter integridade e transparência. O ranking mostra como parlamentares gastam recursos, situação judiciária e como votam em pautas. Eles participarão de debate contra corrupção, ajudando Frente Parlamentar de Integridade e Transparência.",
       "speaker": {
         "name": "Juan Carlos Arruda",
-        "position": "Diretor Geral do Ranking dos Políticos"
+        "position": "Diretor Geral do Ranking dos Políticos",
+        "slug": "juan-carlos-arruda"
       }
     },
     {
@@ -300,7 +326,8 @@
       "transcription": "É com satisfação que passamos a palavra a deputada digital Paula Belmonte.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     },
     {
@@ -311,7 +338,8 @@
       "summary": "Deputada Distrital propõe fortalecer transparência, lança \"Observatório do Cidadão\" com inteligência artificial para fiscalizar orçamento do executivo, e convida presidents das câmaras estaduais, frente parlamentar e imprensa para entrega em 11 de dezembro. Câmara recebe prêmio de mais transparente do Brasil.",
       "speaker": {
         "name": "PAULA BELMONTE",
-        "position": "Deputada Distrital"
+        "position": "Deputada Distrital",
+        "slug": "paula-belmonte"
       }
     },
     {
@@ -323,7 +351,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -334,7 +363,8 @@
       "summary": "Mestre de Cerimônias encerra solenidade e deseja boa noite e ótima semana.",
       "speaker": {
         "name": "Paulo Caixeita",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "paulo-caixeita"
       }
     }
   ],

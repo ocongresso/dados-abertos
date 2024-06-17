@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Muito obrigado presidente Wellington Prado ressaltar sempre o trabalho",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Weliton Prado -- por Participante -- Dr. Frederico",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-weliton-prado-por-participante-dr-frederico"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Aí obrigado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Frederico -- por Participante -- Weliton Prado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-frederico-por-participante-weliton-prado"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 221339,
         "name": "Dr. Benjamim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-benjamim"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Participante se diz feliz por estar na casa de leis, comemorando 10 anos da exposição Outubro Rosa e lançando a campanha do projeto de lei que institui o plano nacional de combate ao câncer. Ela pede a aprovação da política e do Funcâncer, visando ampliar o acesso de qualidade ao SUS para pessoas com câncer.",
       "speaker": {
         "name": "Joana Jecker",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "joana-jecker"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Participante cumpriu deputados e valorou trabalho da comissão e escuta da sociedade civil. Ela destacou aprovação do PL 295/20 e apresentou recomendações para aperfeiçoamento. Mencionou mobilização para incluir alterações no texto, especialmente sobre PPA, câncer e oncologia no planejamento e orçamento do Ministério da Saúde. Anunciou o décimo congresso do TJCC em setembro em São Paulo.",
       "speaker": {
         "name": "Luana Ferreira Lima",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "luana-ferreira-lima"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     }
   ],

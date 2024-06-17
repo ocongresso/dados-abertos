@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Passaremos",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -92,7 +99,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Reginaldo Lopes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-reginaldo-lopes"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -137,7 +148,8 @@
       "transcription": "Passo a",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reginaldo Lopes -- por Participante -- Maria do Rosário",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reginaldo-lopes-por-participante-maria-do-rosario"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -184,7 +199,8 @@
       "summary": "Celebração de 15 anos dos Institutos Federais por Secretário de Educação Profissional e Tecnológica, agradecendo apoio a parlamentares durante negacionismo e cortes na educação. História dos institutos remonta a 1909, com expansão no século XXI. Hoje, 680 unidades atendem over 1.5 milhões de estudantes, priorizando formação continuada, pesquisa, inclusão, equidade e educação profissional e técnica no futuro.",
       "speaker": {
         "name": "GETÚLIO MARQUES",
-        "position": "Secretário de Educação Profissional e Tecnológica do Ministério da Educação"
+        "position": "Secretário de Educação Profissional e Tecnológica do Ministério da Educação",
+        "slug": "getulio-marques"
       }
     },
     {
@@ -196,7 +212,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 220533,
         "name": "Prof. Reginaldo Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-reginaldo-veras"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Presidente e Reitora do Instituto Federal do Sertão Pernambucano se referem à sua alegria por participar do evento e passam a palavra para os deputados, incluindo Maria do Rosário.",
       "speaker": {
         "name": "MARIA LEOPOLDINA VERAS",
-        "position": "Presidente e Reitora do Instituto Federal do Sertão Pernambucano"
+        "position": "Presidente e Reitora do Instituto Federal do Sertão Pernambucano",
+        "slug": "maria-leopoldina-veras"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -254,7 +275,8 @@
       "summary": "Criação Institutos Federais: história de sucesso e transformação. Necessidade de parceria sociedade e infraestrutura. Regiões com desafios específicos. Rede federal: diversidade, inclusão e expansão. Lançamento \"Vozes da Internacionalização\".",
       "speaker": {
         "name": "MARIA LEOPOLDINA VERAS",
-        "position": "Presidente e Reitora do Instituto Federal do Sertão Pernambucano"
+        "position": "Presidente e Reitora do Instituto Federal do Sertão Pernambucano",
+        "slug": "maria-leopoldina-veras"
       }
     },
     {
@@ -266,7 +288,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -385,7 +417,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     }
   ],

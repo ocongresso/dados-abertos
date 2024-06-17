@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Amiga, não avisa mais não porque ele não gosta muito do sítio ficar muito em cima, como a direita está aí, você, se aqui já está quase Fortaleza. Eu vou encerrar a votação",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Eleitos deputados Carlos Gomes, Célio Estudant, e Lebron como primeiro, segundo e terceiro vice-presidentes, respectivamente. Treze votos a favor, um em branco.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 178962,
         "name": "Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-gomes"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204488,
         "name": "Célio Studart",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celio-studart"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 220600,
         "name": "Lebrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lebrao"
       }
     },
     {
@@ -147,7 +158,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     }
   ],

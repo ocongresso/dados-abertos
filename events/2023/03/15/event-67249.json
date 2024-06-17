@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Deputados e adaptedos votam em urna eletrônica.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -110,7 +118,8 @@
       "transcription": "Declarando empossado. Eu já estou curioso aqui pra",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -132,7 +142,8 @@
       "transcription": "Declarando empossado. Eu já estou curioso aqui pra",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- José Rocha -- por Participante -- Luiz Lima",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jose-rocha-por-participante-luiz-lima"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -273,7 +295,8 @@
       "summary": "Ex-Deputado Federal é ativo parlamentar, fez diferença na comissão de esporte e apresentou projetos e relatórios. Ele recebe apoio do orador atual e será apoiado se necessário. A cadeira está novamente ocupada por ele. Agradecimentos expressados.",
       "speaker": {
         "name": "Pabblo",
-        "position": "Ex- Deputado Federal"
+        "position": "Ex- Deputado Federal",
+        "slug": "pabblo"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

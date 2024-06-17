@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "O Diretor de Informação e Informática do DATASUS - Ministério da Saúde apresentou projetos que melhoram a conectividade no SUS, como o InfosSUS 4, Norte Conectado, e a criação de uma rede nacional de dados de saúde. Também mencionou o uso de tecnologia avançada, como o 5G e aplicativos do SUS, e a distribuição de chips para agentes comunitários de saúde.",
       "speaker": {
         "name": "José Eduardo Oliveira",
-        "position": "Diretor de Informação e Informática do DATASUS - Ministério da Saúde"
+        "position": "Diretor de Informação e Informática do DATASUS - Ministério da Saúde",
+        "slug": "jose-eduardo-oliveira"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Assessor Técnico do CONASS destaca importância de conectividade e integração de sistemas de saúde, enfrentando desafios como fragmentação de informações e federalização de bases de dados. Objetivo é implementar Política Nacional de Informática em Saúde, integrando sistemas e estabelecendo plataforma nacional de dados, com ênfase em infraestrutura, conectividade, alimentação de informações e educação permanente em saúde digital.",
       "speaker": {
         "name": "Nereu Henrique Mansano",
-        "position": "Assessor Técnico - Conselho Nacional de Secretários Estaduais de Saúde - CONASS"
+        "position": "Assessor Técnico - Conselho Nacional de Secretários Estaduais de Saúde - CONASS",
+        "slug": "nereu-henrique-mansano"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "NIC.br mantém registro de domínio .br e apoia internet brasileira. Diretor-Presidente mencionou SIMET, sistema de medição de qualidade de conexão em saúde, e apresentou dados de conectividade em instituições de saúde em 2",
       "speaker": {
         "name": "Demi Getschko",
-        "position": "Diretor-Presidente - Núcleo de Informação e Coordenação do Ponto BR (NIC.br) - CETIC.br"
+        "position": "Diretor-Presidente - Núcleo de Informação e Coordenação do Ponto BR (NIC.br) - CETIC.br",
+        "slug": "demi-getschko"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -145,7 +156,8 @@
       "transcription": "",
       "speaker": {
         "name": "José Eduardo Oliveira",
-        "position": "Diretor de Informação e Informática do DATASUS - Ministério da Saúde"
+        "position": "Diretor de Informação e Informática do DATASUS - Ministério da Saúde",
+        "slug": "jose-eduardo-oliveira"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Assessor Técnico - CONASS: Estratégia e informação fundamentais para diretrizes saúde estadual. Exigido diagnóstico detalhado, aprovação de projetos depende de documentos resultantes de esforço e coordenação entre áreas. Melhoria necessária para acesso e infraestrutura hospitalar, particularmente em unidades menores e no Norte, com foco na qualidade e velocidade do serviço.",
       "speaker": {
         "name": "Nereu Henrique Mansano",
-        "position": "Assessor Técnico - Conselho Nacional de Secretários Estaduais de Saúde - CONASS"
+        "position": "Assessor Técnico - Conselho Nacional de Secretários Estaduais de Saúde - CONASS",
+        "slug": "nereu-henrique-mansano"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "O Diretor-Presidente do Núcleo de Informação e Coordenação do Ponto BR (NIC.br) - CETIC.br, falou sobre a importância da medição de conectividade, incluindo qualidade de banda larga e fatores estatísticos. Também mencionou a relevância de ferramentas adicionais como criptografia e portabilidade de dados, especialmente dados críticos de saúde, devido à LGPD e à IA. Ele gostaria de ter sugestões para fazer perguntas mais interessantes para obter uma visão mais completa da área.",
       "speaker": {
         "name": "Demi Getschko",
-        "position": "Diretor-Presidente - Núcleo de Informação e Coordenação do Ponto BR (NIC.br) - CETIC.br"
+        "position": "Diretor-Presidente - Núcleo de Informação e Coordenação do Ponto BR (NIC.br) - CETIC.br",
+        "slug": "demi-getschko"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     }
   ],

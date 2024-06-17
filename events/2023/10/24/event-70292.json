@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "BNDES apoia patrimônio histórico há 25+ anos, incentiva fontes alternativas e sustentabilidade. Lei 388/19 reconhece importante papel de estados e municípios. Novo instrumento descentraliza, oferece reembolsabilidade e estimula economia da cultura. Sociedade civil contribui com fundo perene para preservação do patrimônio cultural brasileiro.",
       "speaker": {
         "name": "LUCIANE FERNANDES GORGULHO",
-        "position": "Chefe do Departamento de Desenvolvimento Urbano, Cultura e Turismo - Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+        "position": "Chefe do Departamento de Desenvolvimento Urbano, Cultura e Turismo - Banco Nacional de Desenvolvimento Econômico e Social - BNDES",
+        "slug": "luciane-fernandes-gorgulho"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Técnico em Planejamento e Pesquisa - IPEA discute fundo patrimonial para IPHAN, com vantagens como menor competição, participação social efetiva, maior transparência e racionalidade na priorização. No entanto, há desafios quanto às fontes de recursos e à gestão de recursos retornáveis. Especialização pode isolar e resultar em perda de coordenação, e incentivos fiscais requerem políticas específicas. Há dúvidas sobre a relação com outros sistemas, como MINC e FNC.",
       "speaker": {
         "name": "FREDERICO BARBOSA DA SILVA",
-        "position": "Técnico em Planejamento e Pesquisa - Instituto de Pesquisa  Econômica Aplicada - IPEA"
+        "position": "Técnico em Planejamento e Pesquisa - Instituto de Pesquisa  Econômica Aplicada - IPEA",
+        "slug": "frederico-barbosa-da-silva"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Vereador elogia projeto Oliva Verde, comparando-o à livraria mais antiga do país e ao Solar do Aris, ambos em Campos. Suporta esforços para transformar a Oliva Verde em patrimônio cultural e museu, preservando história nacional e local. Também destacou a história de Campos e sua conexão com a presidência brasileira, bem como a importância de preservar patrimônio.",
       "speaker": {
         "name": "RAPHAEL THUIN",
-        "position": "Vereador"
+        "position": "Vereador",
+        "slug": "raphael-thuin"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -86,7 +92,8 @@
       "summary": "Ministério da Justiça apoia criação de fundo para preservar patrimônio histórico do Brasil, parceria com Ministério da Cultura e IPHAN, financiamento de projetos de recuperação em diversas regiões do país.",
       "speaker": {
         "name": "TOMAZ CARVALHO DE MIRANDA",
-        "position": ""
+        "position": "",
+        "slug": "tomaz-carvalho-de-miranda"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -109,7 +117,8 @@
       "summary": "Presidente do IPHAN discutiu desafios de gestão política e institucional na preservação dos 1270 bens tombados, 52 patrimônios imateriais, 36000 sítios arqueológicos do Brasil. Apontou falta de acompanhamento na qualificação da estrutura de gestão e na sustentabilidade orçamentária diante do crescente número de bens protegidos. Exortou à reflexão sobre estratégias de financiamento e colaboração interfederativa na preservação do patrimônio cultural brasileiro.",
       "speaker": {
         "name": "LEANDRO GRASS",
-        "position": "Presidente - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN"
+        "position": "Presidente - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN",
+        "slug": "leandro-grass"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     }
   ],

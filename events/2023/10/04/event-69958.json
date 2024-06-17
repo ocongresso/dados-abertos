@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ministro do Turismo elogia esforço do parlamento brasileiro em abordar caso da empresa, expressa tristeza com a falta de colaboração da empresa e ressalta importância de legislar mercado de turismo diante de transformações sociais rápidas, prometendo segurança jurídica e estabilidade no setor, impactando positivamente tanto consumidores como empreendedores.",
       "speaker": {
         "name": "CELSO SABINO",
-        "position": "Ministro do Turismo - Ministério do Turismo"
+        "position": "Ministro do Turismo - Ministério do Turismo",
+        "slug": "celso-sabino"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente da Associação Brasileira da Indústria de Hotéis destacou a importância da hotelaria na economia brasileira e sua dificuldade atual: vendas de diárias por terceiros sem consentimento, gerando situações injustas e comprometendo a sobrevivência de muitos hotéis. Ele pede cuidado do Poder Judiciário em analisar tais casos e manter equidade.",
       "speaker": {
         "name": "MANOEL LINHARES",
-        "position": "Presidente - Associação Brasileira da Indústria de Hotéis"
+        "position": "Presidente - Associação Brasileira da Indústria de Hotéis",
+        "slug": "manoel-linhares"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Procon-SP recebe 50 mil reclamações mensais, com pico em agosto de 2023. Reclamações de turismo aumentaram de 2 mil para 10 mil no mesmo período. Empresa de viagens recebeu multa de 2,8 milhões de reais e é monitorada por 2,3 mil reclamações de consumidores, valendo 15 milhões de reais. Procon-SP continua fiscalizando obrigações vencidas.",
       "speaker": {
         "name": "LUIZ ORSATTI FILHO",
-        "position": "Diretor do Procon-SP - Procon-SP"
+        "position": "Diretor do Procon-SP - Procon-SP",
+        "slug": "luiz-orsatti-filho"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Coordenador-Geral de Estudos e Monitoramento da Senacon:",
       "speaker": {
         "name": "VITOR HUGO DO AMARAL FERREIRA",
-        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça"
+        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Compra de pacotes ou passagens turísticas muito baratas pode indicar algo errado; cuidado para evitar problemas na justiça.",
       "speaker": {
         "name": "MANOEL LINHARES",
-        "position": "Presidente - Associação Brasileira da Indústria de Hotéis"
+        "position": "Presidente - Associação Brasileira da Indústria de Hotéis",
+        "slug": "manoel-linhares"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Aumento de reclamações ao Procon-SP em 2023, com aproximadamente 10 mil recibos. Diretor do Procon-SP informa tendência em questão.",
       "speaker": {
         "name": "LUIZ ORSATTI FILHO",
-        "position": "Diretor do Procon-SP - Procon-SP"
+        "position": "Diretor do Procon-SP - Procon-SP",
+        "slug": "luiz-orsatti-filho"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -214,7 +231,8 @@
       "summary": "Procon-SP cumpre decisão judicial de recuperação empresarial, suspensão ainda em vigor; empresa não tem atividade suspensa.",
       "speaker": {
         "name": "LUIZ ORSATTI FILHO",
-        "position": "Diretor do Procon-SP - Procon-SP"
+        "position": "Diretor do Procon-SP - Procon-SP",
+        "slug": "luiz-orsatti-filho"
       }
     },
     {
@@ -225,7 +243,8 @@
       "summary": "Ministro do Turismo: Empresa iniciou processo de recuperação judicial, priorizando dívidas trabalhistas, fiscais e consumidoristas. Negou-se a comparecer e responder perguntas.",
       "speaker": {
         "name": "CELSO SABINO",
-        "position": "Ministro do Turismo - Ministério do Turismo"
+        "position": "Ministro do Turismo - Ministério do Turismo",
+        "slug": "celso-sabino"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -248,7 +268,8 @@
       "summary": "Ministro do Turismo discute evolução tecnológica e direitos consumidores; estudam modelo de negócio de transação de milhas; Senacon investiga empresa em defesa dos consumidores. Levantamento em andamento para garantir progresso no setor turístico.",
       "speaker": {
         "name": "CELSO SABINO",
-        "position": "Ministro do Turismo - Ministério do Turismo"
+        "position": "Ministro do Turismo - Ministério do Turismo",
+        "slug": "celso-sabino"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -283,7 +306,8 @@
       "summary": "Coordena-General of Studies and Monitoring of the National Secretariat of Consumer - Ministry of Justice:",
       "speaker": {
         "name": "VITOR HUGO DO AMARAL FERREIRA",
-        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça"
+        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -376,7 +407,8 @@
       "summary": "Coordenador-Geral de Estudos e Monitoramento da Senacon:",
       "speaker": {
         "name": "VITOR HUGO DO AMARAL FERREIRA",
-        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça"
+        "position": "Coordenador-Geral de Estudos e Monitoramento da Secretaria Nacional do Consumidor - Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -399,7 +432,8 @@
       "summary": "Procon-SP disposto a colaborar com Legislativo para desenvolver forte legislação que proteja direitos do consumidor e promova relação harmônica com fornecedor. Agradecimento à comissão.",
       "speaker": {
         "name": "LUIZ ORSATTI FILHO",
-        "position": "Diretor do Procon-SP - Procon-SP"
+        "position": "Diretor do Procon-SP - Procon-SP",
+        "slug": "luiz-orsatti-filho"
       }
     },
     {
@@ -411,7 +445,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "\nRequerimento",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Juliana Cardoso -- por Participante -- Célia Xakriabá",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-juliana-cardoso-por-participante-celia-xakriaba"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     }
   ],

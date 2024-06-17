@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luizianne Lins -- por Participante -- Reginete Bispo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luizianne-lins-por-participante-reginete-bispo"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Só pra comunicar aqui gente, primeiro",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reginete Bispo -- por Participante -- Luizianne Lins",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reginete-bispo-por-participante-luizianne-lins"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     }
   ],

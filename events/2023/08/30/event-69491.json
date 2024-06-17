@@ -18,7 +18,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Obrigado mas aí enquanto você desloca a produtividade é apenas te parabenizar deputado Tulio Gadelha pela sugestão de ter essa",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Túlio Gadêlha -- por Participante -- Reimont",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tulio-gadelha-por-participante-reimont"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     }
   ],

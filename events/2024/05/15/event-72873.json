@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Aproveito o momento para reforçar",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220582,
         "name": "Daniel Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-barbosa"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220582,
         "name": "Daniel Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-barbosa"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     }
   ],

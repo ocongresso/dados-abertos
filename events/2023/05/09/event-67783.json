@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Conselho Federal de Biologia e sua liderança passam a palavra para o próximo presidente.",
       "speaker": {
         "name": "PROFESSORA MARIA EDUARDA LACERDA DE LARRAZABAL",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE BIOLOGIA E COORDENADORA ADJUNTA DO FÓRUM DOS CONSELHOS PROFISSIONAIS DAS PROFISSÕES REGULAMENTADAS"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE BIOLOGIA E COORDENADORA ADJUNTA DO FÓRUM DOS CONSELHOS PROFISSIONAIS DAS PROFISSÕES REGULAMENTADAS",
+        "slug": "professora-maria-eduarda-lacerda-de-larrazabal"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": "Conselho de Química protege sociedade; vital no dia-a-dia; impacto profissional significativo; exemplo durante pandemia de Covid-19; regulamentação profissional desde 1956; missão de enfatizar profissão melhor para sociedade; apoio a frente parlamentar.",
       "speaker": {
         "name": "PROFESSOR JOSE DE RIBAMAR OLIVEIRA FILHO",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL FEDERAL DE QUÍMICA"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL FEDERAL DE QUÍMICA",
+        "slug": "professor-jose-de-ribamar-oliveira-filho"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": "Senador destacou admiração por profissionais liberais e sua experiência como contador. Prometeu apoiar e defender conselho fiscalizador no Senado.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Presidente do Conselho Federal de Biologia e Coordenadora Adjunta do Fórum de Conselhos Profissionais de Profissões Regulamentadas lembra de enviar saudações de doutor Aécio Dantas Prado e expressa agradecimento.",
       "speaker": {
         "name": "PROFESSORA MARIA EDUARDA LACERDA DE LARRAZABAL",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE BIOLOGIA E COORDENADORA ADJUNTA DO FÓRUM DOS CONSELHOS PROFISSIONAIS DAS PROFISSÕES REGULAMENTADAS"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE BIOLOGIA E COORDENADORA ADJUNTA DO FÓRUM DOS CONSELHOS PROFISSIONAIS DAS PROFISSÕES REGULAMENTADAS",
+        "slug": "professora-maria-eduarda-lacerda-de-larrazabal"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -196,7 +212,8 @@
       "summary": "Boa tarde a todos; agradecimento a parlamentares por defesa de conselhos profissionais; importância de instituições fortes em democracia; necessidade de regulamentação de profissões; discussing policies for city and countryside; preservação de conhecimento e tecnologia no campo; diversidade e inclusão.",
       "speaker": {
         "name": "ENGENHEIRO CIVIL JOEL KRUGUER",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA",
+        "slug": "engenheiro-civil-joel-kruguer"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -219,7 +237,8 @@
       "summary": "Presidente do Conselho Federal de Psicologia abordou importância dos conselhos profissionais no Brasil, destacando sua função na transformação e regulamentação das profissões e no interesse público. Mencionou a Frente Parlamentar em apoio aos conselhos profissionais regulamentados e o fracasso da PEC 182/2019. destacou também a necessidade de uma função social em suas profissões e o combate à desigualdade social.",
       "speaker": {
         "name": "DOUTOR PEDRO PAULO GASTALHO DE BICALHO",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE PSICOLOGIA"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE PSICOLOGIA",
+        "slug": "doutor-pedro-paulo-gastalho-de-bicalho"
       }
     },
     {
@@ -231,7 +250,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -266,7 +288,8 @@
       "summary": "Conselhos profissionais vitales para sociedade; orientam, fiscalizam e garantem qualidade de serviços; combatem exercício ilegal da profissão; sinalizam ameaças legislativas, como PLC 38/22, e lutam contra desregulamentação, como proposta no PLC 38/22.",
       "speaker": {
         "name": "DOUTORA ANDREIA CINTRA LOPES",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE FONOAUDIOLOGIA"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE FONOAUDIOLOGIA",
+        "slug": "doutora-andreia-cintra-lopes"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -289,7 +313,8 @@
       "summary": "Presidente do Conselho Federal de Medicina Veterinária falou sobre saúde única, dois campos (saúde e agronegócio), defesa da saúde animal totais, missão oferecer serviços de qualidade à sociedade, ensino de qualidade na medicina veterinária, e batalha contra ensino a distância em 100% para veterinária.",
       "speaker": {
         "name": "DOUTOR FRANCISCO CAVALCANTE DE ALMEIDA",
-        "position": "PRESIDENTE DO CONSELHO FEDERAL DE MEDICINA VETERINÁRIA"
+        "position": "PRESIDENTE DO CONSELHO FEDERAL DE MEDICINA VETERINÁRIA",
+        "slug": "doutor-francisco-cavalcante-de-almeida"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -312,7 +338,8 @@
       "summary": "Conselho Regional dos Nutricionistas comemora encontro sobre importância de conselhos profissionais à sociedade, destacando proteção a público e bons profissionais, sem onerar estado. Suporte da Frente Parlamentar de apoio e Conselho Federal de Medicina à causa.",
       "speaker": {
         "name": "Manoela",
-        "position": "Conselho Regional dos Nutricionistas"
+        "position": "Conselho Regional dos Nutricionistas",
+        "slug": "manoela"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -359,7 +389,8 @@
       "summary": "O presidente da FENASEV agradeceu e parabenizou a organização da frente parlamentar, destacando a importância da presença de servidores públicos em debates sobre o serviço público. Ele mencionou problemas como falta de diálogo, ausência de acordos coletivos, precarização do trabalho e falta de contratação com concurso público nos conselhos. Ele pediu para ser ouvido e ter oportunidade de contribuir, visando à valorização do papel fundamental dos conselhos e ordens.",
       "speaker": {
         "name": "Carlos Tadeu",
-        "position": "Presidente da FENASEV"
+        "position": "Presidente da FENASEV",
+        "slug": "carlos-tadeu"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -382,7 +414,8 @@
       "summary": "Presidente do Conselho Regional de Administração de Minas Gerais agradeceu apoio de deputado Rogério Correia em lutas anteriores e confia no seu trabalho continuado para enfrentar desafios atuais, como ensino a distância, cultos e diplomas falsos. Agradecido por mais de 200 profissionais que assinaram em suporte.",
       "speaker": {
         "name": "Jehu Aguilar",
-        "position": "Presidente do Conselho Regional de Administração de Minas Gerais"
+        "position": "Presidente do Conselho Regional de Administração de Minas Gerais",
+        "slug": "jehu-aguilar"
       }
     },
     {
@@ -394,7 +427,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -405,7 +439,8 @@
       "summary": "Ações de gratidão pela criação da frente parlamentar, reconhecimento da importância da representação comercial em diversas áreas e oferecimento de apoio da representação comercial à frente parlamentar com seu milhão de representantes.",
       "speaker": {
         "name": "Joao Pedro da Silva",
-        "position": "Diretor da Representação Comercial"
+        "position": "Diretor da Representação Comercial",
+        "slug": "joao-pedro-da-silva"
       }
     },
     {
@@ -417,7 +452,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -428,7 +464,8 @@
       "summary": "Conselho Regional de Arquitetura: apoio à reconstrução democrática, contribuição científica em diversas áreas, disposição para rápido processo, defesa da democracia e da regulamentação profissional.",
       "speaker": {
         "name": "Jeferson Dantas",
-        "position": "Conselho Regional de Arquitetura"
+        "position": "Conselho Regional de Arquitetura",
+        "slug": "jeferson-dantas"
       }
     },
     {
@@ -440,7 +477,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -451,7 +489,8 @@
       "summary": "Presidente do Conselho Regional de Psicologia defende conselhos profissionais contra ataques, celebra papel de psicólogos e outros profissionais da saúde durante pandemia e incentiva lutas pela classe trabalhadora, incluindo reivindicações salariais e de redução de carga horária para psicólogos.",
       "speaker": {
         "name": "Thessa Guimarães",
-        "position": "Presidente do Conselho Regional de Psicologia"
+        "position": "Presidente do Conselho Regional de Psicologia",
+        "slug": "thessa-guimaraes"
       }
     },
     {
@@ -463,7 +502,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -475,7 +515,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -487,7 +528,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -498,7 +540,8 @@
       "summary": "Representante do Conselho Regional de Serviço Social de Minas Gerais agradece convidado, sauda todos presentes, expressa satisfação por lutas em defesa de direitos humanos e estado democrático, apoia pautas como melhores condições de trabalho e salários, e defesa de direitos humanos e acessibilidade urbana, e promete unidade em defesa de conselhos e profissões relevantes.",
       "speaker": {
         "name": "Glaucia de Fatima Batista",
-        "position": "Representante do Conselho Reginal de Serviço Social de Minas Gerais"
+        "position": "Representante do Conselho Reginal de Serviço Social de Minas Gerais",
+        "slug": "glaucia-de-fatima-batista"
       }
     },
     {
@@ -510,7 +553,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -521,7 +565,8 @@
       "summary": "Conselho Federal de Educação Física apoia frente parlamentar e agradece esforços em defesa da profissão, celebrando vitória na aprovação da lei 14.385/21.",
       "speaker": {
         "name": "Carlos Alberto",
-        "position": "Conselho Federal de Educação Fisica"
+        "position": "Conselho Federal de Educação Fisica",
+        "slug": "carlos-alberto"
       }
     },
     {
@@ -533,7 +578,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -544,7 +590,8 @@
       "summary": "Presidente do Conselho Regional de Farmácia de Minas Gerais agradece atuação de deputado Rogério Correia e reafirma que conselhos defendem ética e sociedade contra inabilitados e leigos.",
       "speaker": {
         "name": "Junia Medeiros",
-        "position": "Presidente do Conselho Regional de Farmácia de Minas Gerais"
+        "position": "Presidente do Conselho Regional de Farmácia de Minas Gerais",
+        "slug": "junia-medeiros"
       }
     },
     {
@@ -556,7 +603,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     }
   ],

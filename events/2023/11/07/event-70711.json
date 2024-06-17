@@ -18,7 +18,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Procuradora Regional da República comemora 200 anos da primeira constituição brasileira e reconhece desigualdades históricas no Brasil, incluindo racismo e machismo. Ela menciona a constituição de 1988 e destaca a necessidade de um estado republicano que siga princípios de impessoalidade, legalidade e moralidade.",
       "speaker": {
         "name": "RAQUEL BRANQUINHO",
-        "position": "Procuradora Regional da República, representando a Procuradoria Geral da República"
+        "position": "Procuradora Regional da República, representando a Procuradoria Geral da República",
+        "slug": "raquel-branquinho"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -132,7 +142,8 @@
       "summary": "Procurador-Geral da União homenageia primeira assembleia constituinte brasileira, estabelecendo liberdades e unidade nacional em 1824. Celebramos 200 anos, renovando compromisso com democracia, direitos humanos e participação cidadã, inspiração na coragem dos fundadores.",
       "speaker": {
         "name": "Marcelo Eugênio Feitosa Almeida",
-        "position": "Procurador-Geral da União"
+        "position": "Procurador-Geral da União",
+        "slug": "marcelo-eugenio-feitosa-almeida"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -154,7 +166,8 @@
       "transcription": "Convido deputado",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lafayette de Andrada -- por Participante -- Luiz Philippe de Orleans e Bragança",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lafayette-de-andrada-por-participante-luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Defende posição por propriedade, liberdade religiosa, expressão e imprensa, apoiando história brasileira e melhor futuro.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Philippe de Orleans e Bragança -- por Participante -- Lafayette de Andrada",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-philippe-de-orleans-e-braganca-por-participante-lafayette-de-andrada"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Deputada Federal no período de 1999/2008, Diretora Econômico-Financeira e de TI, representando os Correios, compareceu em evento comemorativo aos 200 anos da Assembleia Constituinte. Lançou selo comemorativo, destacando história dos Correios e importância da democracia e justiça no Brasil. Convidou brasileiros a refletirem sobre legado da primeira constituinte e renovarem compromisso com esses valores.",
       "speaker": {
         "name": "MARIA DO CARMO LARA PERPÉTUO",
-        "position": "Deputada Federal no período de 1999/2008. Diretora Econômico-Financeira e de TI, representando os Correios"
+        "position": "Deputada Federal no período de 1999/2008. Diretora Econômico-Financeira e de TI, representando os Correios",
+        "slug": "maria-do-carmo-lara-perpetuo"
       }
     },
     {
@@ -268,7 +290,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lafayette de Andrada -- por Participante -- Luiz Philippe de Orleans e Bragança",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lafayette-de-andrada-por-participante-luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -278,7 +301,8 @@
       "transcription": "Luiz Felipe, para também proceder a obliteração no correio do selo abusivo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Philippe de Orleans e Bragança -- por Participante -- Lafayette de Andrada",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-philippe-de-orleans-e-braganca-por-participante-lafayette-de-andrada"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     }
   ],

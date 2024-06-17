@@ -17,7 +17,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -124,7 +133,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reimont -- por Participante -- Professora Luciene Cavalcante",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reimont-por-participante-professora-luciene-cavalcante"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -121,7 +130,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Professora Luciene Cavalcante -- por Participante -- Reimont",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-professora-luciene-cavalcante-por-participante-reimont"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -143,7 +154,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -213,7 +230,8 @@
       "transcription": "Eletrônico.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -235,7 +254,8 @@
       "transcription": "Boa tarde.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reimont -- por Participante -- Delegada Ione",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reimont-por-participante-delegada-ione"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     }
   ],

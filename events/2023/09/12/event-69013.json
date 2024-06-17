@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "Aqui. Magno, só minuto, por favor.",
       "speaker": {
         "name": "MAGNO PRADO",
-        "position": "Vice-Presidente - Federação Nacional de Educação e Integração dos Surdos - FENEIS"
+        "position": "Vice-Presidente - Federação Nacional de Educação e Integração dos Surdos - FENEIS",
+        "slug": "magno-prado"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     }
   ],

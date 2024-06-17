@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amaro Neto -- por Participante -- Cezinha de Madureira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amaro-neto-por-participante-cezinha-de-madureira"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -73,7 +78,8 @@
       "transcription": "Vamos",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Amaro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-amaro-neto"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Trabalhos. Está encerrada a votação. Passamos a apuração.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Nova presidenta da Comissão de Minas e Energia escolhido, é o deputado Júnior Ferrari, da chapa única com 100% de votos. Agradecimentos à equipe e compromisso com temas relevantes, como Foz Equatorial e renovação das distribuidoras. Pedido de apoio para continuar fortalecendo agências relacionadas.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Júnior Ferrari",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-junior-ferrari"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 220631,
         "name": "Samuel Viana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "samuel-viana"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 160553,
         "name": "Antonio Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-brito"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 204573,
         "name": "Otto Alencar Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otto-alencar-filho"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": " Deputado sauda e congratula Rodrigo, elogia unanimidade em sua eleição. Menciona deputados Hugo Leal e Samuel Viana. Destaca desastre ambiental e desafios da mineração, pede estudo de partículas em Antonio Pereira. Solicita atenção a saúde, segurança e zonas de risco na região. Oferece colaboração, pede proximidade com municípios e população, e que empresas percebam parceria. Agradece presidente por ouvir suas dificuldades.",
       "speaker": {
         "name": "Duarte Gonçalves Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-goncalves-jr"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 141458,
         "name": "João Carlos Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-carlos-bacelar"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -349,7 +378,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -396,7 +429,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -407,7 +441,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -419,7 +454,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -430,7 +466,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -442,7 +479,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -454,7 +492,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -466,7 +505,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -478,7 +518,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -490,7 +531,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -502,7 +544,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     }
   ],

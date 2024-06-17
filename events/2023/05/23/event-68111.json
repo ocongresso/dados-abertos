@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -78,7 +83,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -90,7 +96,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -102,7 +109,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -183,7 +197,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -195,7 +210,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -218,7 +235,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -241,7 +260,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -253,7 +273,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -265,7 +286,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -277,7 +299,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -289,7 +312,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -300,7 +324,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -312,7 +337,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -324,7 +350,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -336,7 +363,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -348,7 +376,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -360,7 +389,8 @@
       "speaker": {
         "id": 204479,
         "name": "Nicoletti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nicoletti"
       }
     },
     {
@@ -372,7 +402,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -384,7 +415,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -395,7 +427,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -406,7 +439,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -418,7 +452,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -430,7 +465,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -442,7 +478,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -454,7 +491,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -465,7 +503,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -477,7 +516,8 @@
       "speaker": {
         "id": 191923,
         "name": "Flávio Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavio-nogueira"
       }
     },
     {
@@ -488,7 +528,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -500,7 +541,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -512,7 +554,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -523,7 +566,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -534,7 +578,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -546,7 +591,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -558,7 +604,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -570,7 +617,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -582,7 +630,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -594,7 +643,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -606,7 +656,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -617,7 +668,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -629,7 +681,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -641,7 +694,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -652,7 +706,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -663,7 +718,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -675,7 +731,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -686,7 +743,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -698,7 +756,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -710,7 +769,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -722,7 +782,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -734,7 +795,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -746,7 +808,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -757,7 +820,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -769,7 +833,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -780,7 +845,8 @@
       "summary": "Palestrante votou e mencionou Benfica; questionou sobre outras pessoas e presidente. (Resumo do início da votação)",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -791,7 +857,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -802,7 +869,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -813,7 +881,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -824,7 +893,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -835,7 +905,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -846,7 +917,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -858,7 +930,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -870,7 +943,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -880,7 +954,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -892,7 +967,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -904,7 +980,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -916,7 +993,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -928,7 +1006,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -940,7 +1019,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -952,7 +1032,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -964,7 +1045,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -976,7 +1058,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -987,7 +1070,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -999,7 +1083,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -1010,7 +1095,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -1022,7 +1108,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -1034,7 +1121,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -1046,7 +1134,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -1057,7 +1146,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -1068,7 +1158,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -1080,7 +1171,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -1092,7 +1184,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -1104,7 +1197,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -1116,7 +1210,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -47,7 +50,8 @@
       "transcription": "O churrasco hoje à noite é por conta do Fraga. Senhores.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "Que peço, que seja procedida a apuração. Parabéns.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -91,7 +98,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sanderson -- por Participante -- Alberto Fraga",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sanderson-por-participante-alberto-fraga"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 220583,
         "name": "Delegado Fabio Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-fabio-costa"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 178937,
         "name": "Altineu Côrtes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "altineu-cortes"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -282,7 +305,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220570,
         "name": "Ismael Alexandrino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael-alexandrino"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -507,7 +549,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -519,7 +562,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -529,7 +573,8 @@
       "transcription": "Senhores, senhores muito obrigado pela",
       "speaker": {
         "name": "Descerramento da Foto em Homenagem ao Ex-Presidente da Comissão, Deputado Sanderson.",
-        "position": ""
+        "position": "",
+        "slug": "descerramento-da-foto-em-homenagem-ao-expresidente-da-comissao-deputado-sanderson"
       }
     },
     {
@@ -541,7 +586,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -553,7 +599,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     }
   ],

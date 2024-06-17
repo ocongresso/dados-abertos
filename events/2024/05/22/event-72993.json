@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220651,
         "name": "Simone Marquetto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "simone-marquetto"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220651,
         "name": "Simone Marquetto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "simone-marquetto"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 0,
         "name": "LEO FOLIM",
-        "position": "PARTICIPANTE"
+        "position": "PARTICIPANTE",
+        "slug": "leo-folim"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 220651,
         "name": "Simone Marquetto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "simone-marquetto"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     }
   ],

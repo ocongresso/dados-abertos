@@ -13,7 +13,8 @@
       "summary": "Início da cerimônia de lançamento da Frente Parlamentar de Cuidados às mães e crianças com deficiências, autismo e doenças raras, por deputada Cristiane Lopes. Objetivo: dar voz, definir políticas públicas de excelência e criar rede de apoio. Dados sobre deficiência e abandono de mães. Convidados para mesa: Flávia Amaral, Vanessa Medeiros, Lauda Santos, Jaqueline Correia, Larissa Lafaiete de Godoy, Catarina, e Cristiane Lopes. Sinal de respeito para hino nacional.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "summary": "Hino Nacional encerrado, deputada Catarina falou como vice-presidente da frente.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -45,7 +48,8 @@
       "summary": "Mães atípicas e autismo: abandono, ansiedade, depressão, necessidade de apoio, inclusão na sociedade, sensibilização, ambientes acolhedores, resiliência, empoderamento das mães, políticas públicas, trabalho em rede, acessibilidade, valorização da diferença, conexão humana.",
       "speaker": {
         "name": "Flávia Amaral",
-        "position": "Presidente da Comissão das Pessoas com Autismo da OAB/DF"
+        "position": "Presidente da Comissão das Pessoas com Autismo da OAB/DF",
+        "slug": "flavia-amaral"
       }
     },
     {
@@ -56,7 +60,8 @@
       "summary": "Mestre cerimônia permite mãe autista compartilhar história; menciona desafios como desespero, isolamento e dificuldade em acessar terapias; busca apoio e políticas públicas para ajudar mães e famílias atípicas.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Mãe de duas filhas, defende políticas públicas para apoiar mães atípicas, especialmente aquelas com crianças with deficiências, autismo e doenças raras. Questiona estereótipos negativos associados à maternidade atípica e destaca importância do autocuidado e apoio à saúde física e mental das mães. Celebra e enriquece sua própria compreensão sobre maternidade atípica. Agora passa a palavra à advogada.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -77,7 +83,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -88,7 +95,8 @@
       "summary": "Mestre cerimônia anuncia Doutora Larissa Lafaiete de Godoy e cumprimenta a mesa, especialmente a deputada Cristiane. Menciona representação de mães atípicas e frente parlamentar.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Mães atípicas enfrentam solidão e dificuldades em busca cuidados para filhos com necessidades especiais; precisam de apoio, descanso e dignidade; política pode ajudar; maternidade atípica é desafio grande.",
       "speaker": {
         "name": "Larissa Lafaiete de Godoi",
-        "position": "Advogada Presidente do Movimento Terapia de Mães Atípicas"
+        "position": "Advogada Presidente do Movimento Terapia de Mães Atípicas",
+        "slug": "larissa-lafaiete-de-godoi"
       }
     },
     {
@@ -110,7 +119,8 @@
       "summary": "Mestre cerimónia cedeu palavra a deputada Catarina, vice-presidente da frente.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -122,7 +132,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Mestre cerimónia elogiou Augusto e deputada Cristiane por iniciativa de frente, valorizou suporte para mães e adolescentes com desafios especiais. Promove inclusão, elimina barreiras, garante educação acessível e cria ambientes seguros para adolescentes com condições especiais. Esta unido com deputada Cristiane em apoio a causa.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -145,7 +157,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -156,7 +169,8 @@
       "summary": "Mestre cerimônia passa palavra à coordenadora e fundadora da Moabe Luziânia, Goiás, Patrícia Uzilan.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Uma mãe atípica e dedicada, Patrícia, tem cinco anos buscando apoio para famílias com autismo em Luziânia. Ela e outras mães precisam de suporte jurídico, social e terapêutico básico para cuidar de filhos com autismo de nível 3, como seu filho João Miguel. Ela agradece à comissão por estar lutando por políticas públicas que possam ajudar essas famílias a ter uma vida melhor.",
       "speaker": {
         "name": "Patrcia Uzimal",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "patrcia-uzimal"
       }
     },
     {
@@ -178,7 +193,8 @@
       "summary": "Mestre cerimônia passa palavra à anfitriã, deputada federal Cristiane Lopes.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -190,7 +206,8 @@
       "speaker": {
         "id": 220608,
         "name": "Cristiane Lopes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "cristiane-lopes"
       }
     },
     {
@@ -200,7 +217,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -212,7 +230,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -222,7 +241,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -234,7 +254,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -244,7 +265,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -256,7 +278,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -267,7 +290,8 @@
       "summary": "Mestre cerimônia passa palavra à Vanessa Medeiros de la AMAV, Haras.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -277,7 +301,8 @@
       "transcription": "",
       "speaker": {
         "name": "Vanessa Medeiros",
-        "position": "Membra da Comissão/  Vice Presidente da AMAVI Raras"
+        "position": "Membra da Comissão/  Vice Presidente da AMAVI Raras",
+        "slug": "vanessa-medeiros"
       }
     },
     {
@@ -288,7 +313,8 @@
       "summary": "Mestre cerimônia celebra implementação da frente por deputada Cristiane Lopes e sauda parlamentares presentes. Elogia mães cuidadoras de pessoas com deficiência, especialmente autismo, e destaca importância de ONGs e associações para políticas públicas. Promete abrir gabinete à ONGs e solicitar avaliação de políticas do governo atual. Valoriza inclusão e simplificação de acesso a políticas públicas.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -300,7 +326,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -311,7 +338,8 @@
       "summary": "Mestre cerimônia transfere palavra à presidente Amaviharas e vice-presidente FEBRAHARAS, Lalda Santos.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -321,7 +349,8 @@
       "transcription": "",
       "speaker": {
         "name": "Lauda Santos",
-        "position": "Presidente da AmaviRaras e Vice Presidente da FebraRaras"
+        "position": "Presidente da AmaviRaras e Vice Presidente da FebraRaras",
+        "slug": "lauda-santos"
       }
     },
     {
@@ -332,7 +361,8 @@
       "summary": "Mestre cerimônia passa a palavra à coordenadora e fundadora da Moabe Luziânia, Goiás, Patrícia Uzilan.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -343,7 +373,8 @@
       "summary": "Presidente do Instituto Diabetes Brasil fala sobre diabetes em crianças e adolescentes; destaca falta de tratamento adequado, alto número de óbitos, e necessidade de acesso a insulina e tecnologias de monitoramento. También menciona projeto de lei para inclusión de diabetes tipo em políticas de deficiência.",
       "speaker": {
         "name": "Jaqueline Correia",
-        "position": "Presidente do Instituto Diabetes Brasil"
+        "position": "Presidente do Instituto Diabetes Brasil",
+        "slug": "jaqueline-correia"
       }
     },
     {
@@ -353,7 +384,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -365,7 +397,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -375,7 +408,8 @@
       "transcription": "Muito obrigado deputada Arica Cockai. Eu convido agora ao púlpito do deputado Sóstenez Cavalcanti.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -387,7 +421,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -397,7 +432,8 @@
       "transcription": "Palavras de encerramento e agradecimento, eu convido a nossa deputada Cristiane Lopes.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre cerimónia"
+        "position": "Mestre cerimónia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -409,7 +445,8 @@
       "speaker": {
         "id": 220608,
         "name": "Cristiane Lopes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "cristiane-lopes"
       }
     }
   ],

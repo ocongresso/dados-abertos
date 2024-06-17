@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Está encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Presidente Anelê Aquino eleita; deputada Nelei Aquino convidada para presidir subcomissão de esportes.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

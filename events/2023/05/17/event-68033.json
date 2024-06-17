@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Plano Safra começa em fevereiro, destaca sustentabilidade e menores emissões de gases. Discussões em andamento sobre normas, recursos, juros e crédito. Ministério do Meio Ambiente envolveu. Plano Safra necessita de mais recursos, podendo requerer readequação ou solicitação adicional ao Congresso.",
       "speaker": {
         "name": "GILSON BITTENCOURT",
-        "position": "Subsecretário de Política Agrícola e Negócios Agroambientais - Ministério da Fazenda"
+        "position": "Subsecretário de Política Agrícola e Negócios Agroambientais - Ministério da Fazenda",
+        "slug": "gilson-bittencourt"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Diretor de Produtos Bancários - FEBRABAN propõe ao Ministério da Agricultura melhorias no crédito rural: aumento de recursos, ênfase em pessoas físicas, apoio a produtores e cooperativas, priorização de depósitos compulsórios para agricultura, promoção de financiamento sustentável e simplificação do crédito rural para ampliar alcance e reduzir custos.",
       "speaker": {
         "name": "RAFAEL BALDI",
-        "position": "Diretor de Produtos Bancários - Federação Brasileira de Bancos - FEBRABAN"
+        "position": "Diretor de Produtos Bancários - Federação Brasileira de Bancos - FEBRABAN",
+        "slug": "rafael-baldi"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "CNA visitou cinco regiões para propostas Plano Safra; documento reflete prioridades produtores. Custos de produção aumentaram: arroba boi subiu 34%, diesel 55%, ração/sal mineral 96%. Cadinho de milho/soja ainda não acompanhou queda dos fertilizantes. Propostas CNA: volume de crédito cumprido conforme anunciado, recursos para equalização, revisar limites de enquadramento PRONAF/PRONAMP, reduzir taxas de juros, incentivar seguro rural, usar crédito privado.",
       "speaker": {
         "name": "BRUNO BARCELOS LUCCHI",
-        "position": "diretor técnico - Confederação Nacional da Agricultura - CNA"
+        "position": "diretor técnico - Confederação Nacional da Agricultura - CNA",
+        "slug": "bruno-barcelos-lucchi"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Secretária da CONTAG propôs foco em agricultura familiar, crédito acessível, políticas para alimentos saudáveis, redução de agrotóxicos e cooperativismo. Solicitou maior orçamento para assistência técnica, crédito fundiário, reforma agrária, e redução de juros em créditos específicos.",
       "speaker": {
         "name": "VÂNIA MARQUES PINTO",
-        "position": "Secretária - Confederação Nacional dos Trabalhadores na Agricultura - CONTAG"
+        "position": "Secretária - Confederação Nacional dos Trabalhadores na Agricultura - CONTAG",
+        "slug": "vania-marques-pinto"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Apoio à Produção de Alfoods, Transição Agroecológica, Inclusão Produtiva e Combate à Fome pela Agricultura Familiar; Financiamento priorizando PRONAF custeio, melhores condições para créditos sustentáveis, redução de taxa de juros e aumento de limites financeiros; Planejamento para atender populações vulneráveis e expandir área de cobertura do seguro da agricultura familiar.",
       "speaker": {
         "name": "PATRÍCIA VASCONCELOS LIMA",
-        "position": "Secretária de Agricultura Familiar e Agroecologia - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA"
+        "position": "Secretária de Agricultura Familiar e Agroecologia - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA",
+        "slug": "patricia-vasconcelos-lima"
       }
     },
     {
@@ -156,7 +168,8 @@
       "summary": "Plano Safra MDA propõe PRONAF mais inclusivo, targeting public who can't access credit. Focus on increasing production of healthy foods, controlling inflation, and helping vulnerable groups with differentiated rates and conditions. Currently under discussion among relevant ministries and institutions.",
       "speaker": {
         "name": "ROBSON LOPES",
-        "position": "Coordenador-geral de Financiamento à Produção Rural - Ministério do desenvolvimento Agrário - MDA"
+        "position": "Coordenador-geral de Financiamento à Produção Rural - Ministério do desenvolvimento Agrário - MDA",
+        "slug": "robson-lopes"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -179,7 +193,8 @@
       "summary": "Coordenador do Ramo Agropecuário da OCB propõe:",
       "speaker": {
         "name": "JOÃO JOSÉ PRIETO FLÁVIO",
-        "position": "Coordenador do Ramo Agropecuário - Organização das Cooperativas Brasileiras - OCB"
+        "position": "Coordenador do Ramo Agropecuário - Organização das Cooperativas Brasileiras - OCB",
+        "slug": "joao-jose-prieto-flavio"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -202,7 +218,8 @@
       "summary": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA afirma que a construção do Plano Safra enfrenta dificuldades devido à forte demanda por recursos e ao céu de brigadeiro econômico. Os recursos orçamentários para apoio à agricultura diminuíram em comparação a 2014 e 2",
       "speaker": {
         "name": "WILSON VAZ DE ARAÚJO",
-        "position": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA"
+        "position": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA",
+        "slug": "wilson-vaz-de-araujo"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -225,7 +243,8 @@
       "summary": "Gerente de agronegócios do Banco do Brasil apresentou crescimento na carteira de crédito, com ênfase no setor agrícola. Ataque à agricultura familiar e oferta de crédito simplificado e digital a produtores rurais. Metade do crédito agrícola é do Banco do Brasil, com liderança no mercado. PRONAF registrou crescimento, apesar de recursos limitados.",
       "speaker": {
         "name": "KARLA MARIA SANTOS CORTES",
-        "position": "Gerente executiva da diretoria de agronegócios - Banco do Brasil"
+        "position": "Gerente executiva da diretoria de agronegócios - Banco do Brasil",
+        "slug": "karla-maria-santos-cortes"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 221328,
         "name": "Adilson Barroso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "adilson-barroso"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 220542,
         "name": "Alexandre Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-guimaraes"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -422,7 +457,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -434,7 +470,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -445,7 +482,8 @@
       "summary": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA propõe:",
       "speaker": {
         "name": "WILSON VAZ DE ARAÚJO",
-        "position": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA"
+        "position": "Secretário Adjunto de Política Agrícola - Ministério da Agricultura e Pecuária - MAPA",
+        "slug": "wilson-vaz-de-araujo"
       }
     },
     {
@@ -457,7 +495,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -468,7 +507,8 @@
       "summary": "Subsecretário de Política Agrícola e Negócios Agroambientais - Ministério da Fazenda propõe:",
       "speaker": {
         "name": "GILSON BITTENCOURT",
-        "position": "Subsecretário de Política Agrícola e Negócios Agroambientais - Ministério da Fazenda"
+        "position": "Subsecretário de Política Agrícola e Negócios Agroambientais - Ministério da Fazenda",
+        "slug": "gilson-bittencourt"
       }
     },
     {
@@ -480,7 +520,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -492,7 +533,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     }
   ],

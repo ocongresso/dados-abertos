@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Hora eu passo a palavra para",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -59,7 +63,8 @@
       "transcription": "Hora eu passo a palavra para",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "Bom dia pra todo mundo.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -91,7 +98,8 @@
       "transcription": "Bom dia pra todo mundo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilvan Maximo -- por Participante -- Professora Luciene Cavalcante",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilvan-maximo-por-participante-professora-luciene-cavalcante"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -114,7 +123,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -135,7 +146,8 @@
       "transcription": "Hora eu passo a palavra para",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Professora Luciene Cavalcante -- por Participante -- Gilvan Maximo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-professora-luciene-cavalcante-por-participante-gilvan-maximo"
       }
     },
     {
@@ -146,7 +158,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -158,7 +171,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -182,7 +197,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -194,7 +210,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -218,7 +236,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -230,7 +249,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -253,7 +274,8 @@
       "summary": "Dirigente do Instituto Servir Brasil e SINDILEGIS celebra 35 anos do sindicato e valoriza servidores públicos. Reconhece a importância do serviço público no desenvolvimento da iniciativa privada e critica a PEC 32 por precarizar o serviço público. Promove educação e desenvolvimento contínuo, lançando iniciativas como \"Gente Que Inspira\". Destaca a adaptação do Congresso brasileiro durante a pandemia de COVID-19.",
       "speaker": {
         "name": "ALISON SOUSA",
-        "position": "Diretor Institucional Instituto Servir Brasil e Presidente do SINDILEGIS"
+        "position": "Diretor Institucional Instituto Servir Brasil e Presidente do SINDILEGIS",
+        "slug": "alison-sousa"
       }
     },
     {
@@ -265,7 +287,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -276,7 +299,8 @@
       "summary": "Associação Nacional dos Auditores Fiscais completa 73 anos; servidor público desde 1987, passando por Receita Federal; alerta por ajustes fiscais nos orçamentos dos servidores; governo tramita nova reforma transversal sem diálogo ou negociação com servidores; ausência de perspectiva de recomposição salarial; apoio aos dirigentes do sindicato e à luta por serviço público de qualidade.",
       "speaker": {
         "name": "VILSON ANTONIO ROMERO",
-        "position": "Presidente da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - ANFIP"
+        "position": "Presidente da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - ANFIP",
+        "slug": "vilson-antonio-romero"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -299,7 +324,8 @@
       "summary": "Presidente da Pública Central do Servidor enfatizou importância de se lembrar que servidores públicos são trabalhadores do Estado, criticou o tratamento dispensado a eles há décadas, e destacou a necessidade do orgulho de ser servidor, unindo trabalhadores do Estado em prol dos cidadãos brasileiros.",
       "speaker": {
         "name": "JOSÉ GOZZE",
-        "position": "Presidente da Pública Central do Servidor"
+        "position": "Presidente da Pública Central do Servidor",
+        "slug": "jose-gozze"
       }
     },
     {
@@ -311,7 +337,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -322,7 +349,8 @@
       "summary": "Agradecimento por convite; celebração Dia do Servidor Público; homenagem a servidores pelos serviços essenciais e à luta diária; necessidade de valorização do setor público; investimento em serviços públicos para progresso do país; próximo ato contra PEC 32 e vetos; feliz aniversário ao Sindileges; força no trabalho em defesa de servidores.",
       "speaker": {
         "name": "COSTA NETO",
-        "position": "Presidente o Sindicato dos Servidores do Poder Judiciário e MPU – SINDJUS"
+        "position": "Presidente o Sindicato dos Servidores do Poder Judiciário e MPU – SINDJUS",
+        "slug": "costa-neto"
       }
     },
     {
@@ -334,7 +362,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -345,7 +374,8 @@
       "summary": "Servidores públicos recebem avanços em direitos, incluindo regulamentação de convenção cinco, câmara de transformação do Estado com envolvimento do movimento sindical e lançamento de marco corregulatório abordando temas relevantes. Sindilegio elogiado por atuação além de sua base. (Palavras-chave: avanços, direitos, servidores públicos, convenção cinco, câmara de transformação, movimento sindical, marco corregulatório, sindilegio.)",
       "speaker": {
         "name": "JOÃO DOMINGOS",
-        "position": "Presidente da Confederação dos Servidores Públicos do Brasil - CSPB"
+        "position": "Presidente da Confederação dos Servidores Públicos do Brasil - CSPB",
+        "slug": "joao-domingos"
       }
     },
     {
@@ -357,7 +387,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     }
   ],

@@ -17,7 +17,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "Convido todos para assistir ao vídeo institucional.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": "Maracanaú, cidade de 40 anos, passou de rural para próspera. Agora focus em educação, saúde, infraestrutura, transporte e cultura, construindo escolas, UTIs, postos de saúde, avenidas, programa social e transporte público, enquanto honra sua cultura e tradição.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -58,7 +62,8 @@
       "transcription": "Discurso do presidente Arthur Lira. O senhor presidente pronuncia o seguinte.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -80,7 +86,8 @@
       "transcription": "Passa",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernanda Pessoa -- por Participante -- Luiz Gastão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernanda-pessoa-por-participante-luiz-gastao"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -114,7 +123,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -124,7 +134,8 @@
       "transcription": "Quero aqui registrar, a presença da",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Gastão -- por Participante -- Fernanda Pessoa",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-gastao-por-participante-fernanda-pessoa"
       }
     },
     {
@@ -136,7 +147,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -147,7 +159,8 @@
       "summary": "Senador elogia Maracanau, cidade produtiva e visionária que inspirou programa pela paz e é celebrada como Dia Nacional do Espiritismo. Ele tem gratidão a Maracanau por forte apoio nas eleições e déjà alocou fundos para projetos sociais, com plano de ajudar famílias com autismo.",
       "speaker": {
         "name": "Eduardo Girão",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "eduardo-girao"
       }
     },
     {
@@ -159,7 +172,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -171,7 +185,8 @@
       "speaker": {
         "id": 204496,
         "name": "Celso Sabino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-sabino"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -207,7 +224,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -219,7 +237,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -230,7 +249,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -254,7 +275,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -265,7 +287,8 @@
       "summary": "Ex-senador se dirige aos presentes, felicitando e agradecendo a gestão do município. Menciona a história de Maracanã e a luta por sua emancipação, destacando o papel do distrito industrial e a chegada de operários. Reconhece o trabalho dos emancipadores e a importância de ter uma gestão local competente para atender a população. Expresa felicidade por poder contribuir com o município.",
       "speaker": {
         "name": "Inácio Arruda",
-        "position": "Ex-senador"
+        "position": "Ex-senador",
+        "slug": "inacio-arruda"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -289,7 +313,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -312,7 +338,8 @@
       "summary": "Prefeito da Maracanaú-CE falou em cerimônia comemorativa de 40 anos do município, homenageando personalidades que ajudaram em sua emancipação e destacando crescimento econômico e progresso na educação e saúde.",
       "speaker": {
         "name": "Roberto Pessoa",
-        "position": "Prefeito da Maracanaú-CE"
+        "position": "Prefeito da Maracanaú-CE",
+        "slug": "roberto-pessoa"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     }
   ],

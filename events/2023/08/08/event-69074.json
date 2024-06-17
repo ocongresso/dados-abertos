@@ -17,7 +17,8 @@
       "summary": "Senadora inicia quarta reunião com quórum regimental; anuncia votação de matérias e leitura de expedientes de julho; informa aprovação por aclamação de membros da mesa da CMO; e convida novos vice-presidentes a compor a mesa. Parabéns e pedido de boa sorte para o mandato.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "Passo a palavra pro meu deputado Marcos Beltrão.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "Senadora afirma que senadores Carlos Viana e Wilde estavam ou tentando estar presentes.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "Aqui mas fica registrado a nossa presença então aí a mesa. Então. Havendo agora.",
       "speaker": {
         "name": "Wilder Morais",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "wilder-morais"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Senadora propôs dispensar leitura ata terceira reunião, pediu leitura, registrada presença colegas na mesa, votaram aprovaram ata de julho de 2022. Pauta retirada relatório preliminar LDO 2024, incluído requerimento Danilo Forte. Votação direta para abordar requerimento.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Senador propôs votar incluindo requerimento sobre audiência sobre aumento do limite de compromissos fiscalizatórios.",
       "speaker": {
         "name": "Dr. Hiran",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "dr-hiran"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Senadora fala em registrar presença e ceder palavra a deputado.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "Discussão encerrada, lei aprovada na Câmara dos Deputados e passa para consideração do Senado Federal. Item dois: relatório sobre projeto de lei relativo ao orçamento fiscal da União a favor do Ministério da Ciência, Tecnologia e Inovação, votação posterior. Relatoria designada ao Senador Vanderlan Cardoso, com opção para o Senador Isalcir. Relatório já lido, agora é discussão. Item anterior já foi discutido em reunião anterior, mas será discutido novamente.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -173,7 +187,8 @@
       "transcription": "",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -184,7 +199,8 @@
       "summary": "Discussão encerrada, relatório em votação na Câmara e Senado, aprovado para Congresso Nacional. Senadora aprecia relatório do Projeto de Lei 14/22 para fortalecer financiamento de ministérios ciência, agricultura e mulheres com R$ 25.890.727.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -195,7 +211,8 @@
       "summary": "Senadora votou pela aprovação do PLN 14.223, rejeição de emendas 2 e 3, considerando condicionalidade, juridicidade e mérito da matéria.",
       "speaker": {
         "name": "Augusta Brito",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "augusta-brito"
       }
     },
     {
@@ -206,7 +223,8 @@
       "summary": "Senadora propôs votação sobre realização de audiência pública sobre importância da Embrapa para desenvolvimento pecuário nacional. Audiência aprovada.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -217,7 +235,8 @@
       "summary": "Senador defende maior apoio orçamentário à Embrapa, orgulho nacional completando 50 anos.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -228,7 +247,8 @@
       "summary": "Senadora refere revelação de tecnologia de algodão colorido por empresa em Paráíba, convidando conhecimento.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -240,7 +260,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -251,7 +272,8 @@
       "summary": "Senadora propôs prorrogação de requerimento, cita apoio de outros parlamentares.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -263,7 +285,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -273,7 +296,8 @@
       "transcription": "Deputado Bomgaz. Obrigado deputado Gaguinho.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -285,7 +309,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -295,7 +320,8 @@
       "transcription": "Pelo deputado Marcos Beltrança e passar a palavra pro deputado",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -307,7 +333,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -317,7 +344,8 @@
       "transcription": "José Rocha obrigada deputado Marques Beltrão, com a palavra deputado José",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -329,7 +357,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -339,7 +368,8 @@
       "transcription": "Lido pelo senador Isalci com a palavra deputado Sérgio Souza.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -351,7 +381,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -361,7 +392,8 @@
       "transcription": "Souza, deputado Geraldo Resende com a palavra.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -373,7 +405,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -383,7 +416,8 @@
       "transcription": "Obrigada deputado Geraldo Rezende e com a palavra Senador Chico Rodrigues.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -394,7 +428,8 @@
       "summary": "Senador concorda com requerimento sobre orçamento Embrapa, instituição crucial para agricultura, deve fortalecer internamente e atender demandas. Governo deve cuidar de concursos para evitar interrupção na pesquisa com saída de pesquisadores idosos. Embrapa desempenha papel estratégico na economia.",
       "speaker": {
         "name": "Chico Rodrigues",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "chico-rodrigues"
       }
     },
     {
@@ -405,7 +440,8 @@
       "summary": "Senadora propõe votação sobre aprovação de itens relacionados a discussões na câmara dos deputados e requisita audiência pública sobre a importância da ciência na percepção pública, com fala para o autor do requerimento.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -416,7 +452,8 @@
       "summary": "Senador propõe audiência no Senado sobre popularização da ciência e falta de percepção da sua importância. Menciona dificuldade em nomear um pesquisador brasileiro e destaca a necessidade de transmissão de conhecimento e discussão sobre concursos no setor. Solicita o apoio de colegas para discutir essa \"matéria tão importante\" com a presença de pesquisadores e entidades relacionadas.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -426,7 +463,8 @@
       "transcription": "Obrigado senadores Alcir, o requerimento está em discussão, com a palavra o autor, o deputado Daniel Almeida.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -438,7 +476,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -449,7 +488,8 @@
       "summary": "Senadora aprova requerimento em votação e cede presidência para o deputado Luciano Amaral no item 6.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -459,7 +499,8 @@
       "transcription": "Item seis, apreciação do requerimento",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Daniella Ribeiro -- por Participante -- Luciano Amaral",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-daniella-ribeiro-por-participante-luciano-amaral"
       }
     },
     {
@@ -471,7 +512,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -482,7 +524,8 @@
       "summary": "Senadora propõe discussão de governança orçamentária relacionada às políticas públicas para mulheres, buscando apoio dos colegas para aprovação de requerimento de audiência pública em defesa da mulher e do orçamento público.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -493,7 +536,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -504,7 +548,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -516,7 +561,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -528,7 +574,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -539,7 +586,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -550,7 +598,8 @@
       "summary": "Senadora propõe transparência no orçamento definido para áreas da mulher, desejando esclarecimentos sobre alocação de recursos em formação, combate à violência, saúde, trabalho, renda, empreendedorismo e políticas públicas, valorizando participação de ministra e ministro de Justiça nesta causa. Parabéns à presidente senadora Daniela.",
       "speaker": {
         "name": "Professora Dorinha Seabra",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "professora-dorinha-seabra"
       }
     },
     {
@@ -561,7 +610,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -573,7 +623,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -584,7 +635,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -596,7 +648,8 @@
       "speaker": {
         "id": 74044,
         "name": "Wilson Santiago",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "wilson-santiago"
       }
     },
     {
@@ -607,7 +660,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -619,7 +673,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -631,7 +686,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -643,7 +699,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -655,7 +712,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -665,7 +723,8 @@
       "transcription": "Agradeço. Continue com a condução, já estamos terminando aqui. Nossa senadora Daniela.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -676,7 +735,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     }
   ],

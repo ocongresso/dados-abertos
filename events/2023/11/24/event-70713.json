@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Tratado de Petrópolis sintetizou luta acreana por ser brasileiro; homenageia bravos pioneiros da borracha; Acre, antes amazônico, hoje próspero e progressista, balanceando desenvolvimento e preservação. Sim, o Acre existe, cultura e beleza refletidas no seu hino. Orgulhosamente, apresentamos o glorioso estado do Acre.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -92,7 +99,8 @@
       "transcription": "Concedo a palavra à deputada Meire Serafim autora.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Meire Serafim -- por Participante -- Prof. Paulo Fernando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-meire-serafim-por-participante-prof-paulo-fernando"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -136,7 +147,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Prof. Paulo Fernando -- por Participante -- Meire Serafim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-prof-paulo-fernando-por-participante-meire-serafim"
       }
     },
     {
@@ -148,7 +160,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -159,7 +172,8 @@
       "summary": "Diretora Econômico-Financeiro, Tecnologia e Segurança da Informação da Empresa Brasileira de Correios e Telégrafos agradece convite a homenagem ao Acre; cumprimenta autoridades presentes; menciona honra em representar Correios nesta casa; destaca importância do Tratado de Petrópolis e lançamento de emissão filatélica; ressalta papel social e estratégico dos Correios em conectar todo território brasileiro.",
       "speaker": {
         "name": "MARIA DO CARMO LARA PERPÉTUO",
-        "position": "Diretora Econômico-Financeiro, Tecnologia e Segurança da Informação da Empresa Brasileira de Correios e Telégrafos"
+        "position": "Diretora Econômico-Financeiro, Tecnologia e Segurança da Informação da Empresa Brasileira de Correios e Telégrafos",
+        "slug": "maria-do-carmo-lara-perpetuo"
       }
     },
     {
@@ -171,7 +185,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -194,7 +210,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -205,7 +222,8 @@
       "summary": "Capitão da Polícia Militar do Acre saluda participantes e reconhece importância de 17 de novembro de 1903 para história do estado, comemorando sua brasileiridade e hospitaleiro povo. Agradecendo oportunidade de falar e homenageando origem nordestina e contribuição do Exército Brasileiro, cita Hino Acreano, comprometendo-se a defender o estado com energia e coragem.",
       "speaker": {
         "name": "ABRAÃO",
-        "position": "Capitão da Polícia Militar do Acre"
+        "position": "Capitão da Polícia Militar do Acre",
+        "slug": "abraao"
       }
     },
     {
@@ -216,7 +234,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -226,7 +245,8 @@
       "transcription": "",
       "speaker": {
         "name": "Apresentação Musical",
-        "position": ""
+        "position": "",
+        "slug": "apresentacao-musical"
       }
     },
     {
@@ -237,7 +257,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -248,7 +269,8 @@
       "summary": "Agradecimento por parte da Polícia Militar do Acre ao Capitão Abraão e aos participantes do evento; reconhecimento da linda canção do Estado que remete à luta e coragem do povo seringueiro.",
       "speaker": {
         "name": "VILLAVERDE",
-        "position": "Sargento da Polícia Militar do Acre"
+        "position": "Sargento da Polícia Militar do Acre",
+        "slug": "villaverde"
       }
     },
     {
@@ -260,7 +282,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     }
   ],

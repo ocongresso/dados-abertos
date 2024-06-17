@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lêda Borges -- por Relator -- Delegada Ione",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-leda-borges-por-relator-delegada-ione"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Tecnologista - Assessora Técnica Especializada - Ministério da Saúde enfatizou a importância de ações contínuas contra câncer de mama, destaque para acesso oportuno ao diagnóstico, tratamento rápido, cuidados paliativos, reconstrução mamária, e prevenção com foco em fatores endócrinos, reprodutivos, comportamentais, ambientais e genéticos. Coordenação geral de prevenção e controle do câncer fortalece atenção primária à saúde e participação do paciente.",
       "speaker": {
         "name": "PATRÍCIA FREIRE DOS SANTOS",
-        "position": "Tecnologista - Assessora Técnica Especializada - Ministério da Saúde"
+        "position": "Tecnologista - Assessora Técnica Especializada - Ministério da Saúde",
+        "slug": "patricia-freire-dos-santos"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Boa saúde prioritária no combate a câncer de mama; alta ocorrência em todas as regiões; atenção primária crucial no rastreamento e prevenção; controlar fatores de risco como obesidade e alimentação inadequada; investir na prevenção desses fatores. Rastreamento organizado através de mamografia aos 50-69 anos, identificar e acompanhar mulheres, diagnóstico precoce em atenção primária. Materiais de base disponíveis.",
       "speaker": {
         "name": "KAROLINY EVANGELISTA DE MORAES DUQUE",
-        "position": "Consultora Técnica de Prevenção às Condições Crônicas não Transmissíveis na Atenção Primária à Saúde - Ministério da Saúde"
+        "position": "Consultora Técnica de Prevenção às Condições Crônicas não Transmissíveis na Atenção Primária à Saúde - Ministério da Saúde",
+        "slug": "karoliny-evangelista-de-moraes-duque"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Coordenadora de Saúde da Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Ministério das Mulheres aborda a importância de melhorar a atenção básica em saúde para mulheres, reduzir atrasos no diagnóstico e tratamento de câncer, capacitar profissionais em humanização, aumentar verbas para políticas de saúde e fortalecer o controle social com a participação de movimentos e lutadores pela saúude.",
       "speaker": {
         "name": "JOSILENE LÚCIA DOS SANTOS",
-        "position": "Coordenadora de Saúde da Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Ministério das Mulheres"
+        "position": "Coordenadora de Saúde da Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Ministério das Mulheres",
+        "slug": "josilene-lucia-dos-santos"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 74075,
         "name": "Elcione Barbalho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "elcione-barbalho"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 74075,
         "name": "Elcione Barbalho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "elcione-barbalho"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Presidente do Hospital ASCOMCER destaca missão de fortalecer tratamento contra câncer com qualidade humanizada, enfatiza importância de prevenção, especialmente do câncer de mama, e pede apoio para hospitais filantrópicos, contra metas adicionais de emendas parlamentares de custeio.",
       "speaker": {
         "name": "ALESSANDRA SAMPAIO FARIA DE SOUZA",
-        "position": "Presidente - Hospital ASCOMCER - Associação Feminina de Prevenção e Combate ao Câncer de Juiz de Fora/MG"
+        "position": "Presidente - Hospital ASCOMCER - Associação Feminina de Prevenção e Combate ao Câncer de Juiz de Fora/MG",
+        "slug": "alessandra-sampaio-faria-de-souza"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Agradecimento por ser madrinha de exposição e luta contra câncer de mama. Ímportance de fortalecer SUS para tratamento de câncer. Lei dos \"trinta dias\" para diagnóstico precoce e maior política para melhorar tratamento no Brasil, com 95% de cura se detectado cedo. Associação também defende melhor acesso à mamografia e implementação da Política Nacional de Combate e Controle do Câncer.",
       "speaker": {
         "name": "JOANA JEKER DOS ANJOS",
-        "position": "Presidente - Associação de Mulheres Mastectomizadas de Brasília - Recomeçar"
+        "position": "Presidente - Associação de Mulheres Mastectomizadas de Brasília - Recomeçar",
+        "slug": "joana-jeker-dos-anjos"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 74075,
         "name": "Elcione Barbalho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "elcione-barbalho"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -238,7 +257,8 @@
       "summary": "Amiga aguarda biópsia para diagnóstico de possível câncer de mama, falta de insumos retarda procedimento no SUS. Audiência implora atenção a escassez de recursos em hospitais e UPAs, priorizando pacientes oncológicos.",
       "speaker": {
         "name": "Elisabete",
-        "position": "Audiência"
+        "position": "Audiência",
+        "slug": "elisabete"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 204515,
         "name": "André Janones",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-janones"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 204515,
         "name": "André Janones",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-janones"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -309,7 +334,8 @@
       "summary": "Coordenação de Relações Governamentais - FEMAMA afirma:",
       "speaker": {
         "name": "ALEXANDRE BEN",
-        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA"
+        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA",
+        "slug": "alexandre-ben"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -332,7 +359,8 @@
       "summary": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA deseja apoio para garantir testagem genética de pacientes com câncer de mama e ovário em Minas Gerais, de acordo com lei estadual, e solicita apoio ao PL 25/2020 sobre o assunto quando chegar à votação no plenário da câmara.",
       "speaker": {
         "name": "ALEXANDRE BEN",
-        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA"
+        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA",
+        "slug": "alexandre-ben"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -355,7 +384,8 @@
       "summary": "INCA prioriza colaboração para reduzir câncer no Brasil, destaca rastreamento de mama em mulheres de 50 a 69 anos e busca alcançar níveis de países developed com ajuda da sociedade civil e sociedades médicas. Desafios incluem escassez de profissionais e altos custos, destacando importância de biópsia e acesso ao tratamento adjuvante de qualidade, assim como uso de telemedicina.",
       "speaker": {
         "name": "ROBERTO DE ALMEIDA",
-        "position": "INCA"
+        "position": "INCA",
+        "slug": "roberto-de-almeida"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -378,7 +409,8 @@
       "summary": "Aumentou mortalidade por câncer de mama nos últimos dez anos em todas regiões do Brasil. Prevenção e diagnóstico precoce cruciais, mas cobertura de mamografia baixa. Cirurgias oncológicas aumentaram, mas queda em cirurgias de mastologia no SUS. Reconstrução mamária limitada no SUS. Custos de quimioterapia cresceram e tecnologia adotada lentamente. Pandemia pode ter reduzido temporalmente mortalidade, mas não indica melhora.",
       "speaker": {
         "name": "GELCIO MENDES",
-        "position": "Coordenador de Assistência - Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA)"
+        "position": "Coordenador de Assistência - Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA)",
+        "slug": "gelcio-mendes"
       }
     },
     {
@@ -390,7 +422,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -401,7 +434,8 @@
       "summary": "Sociedade Brasileira de Mastologia recomenda mamografia anual de 40 a 74 anos, com foco em melhorar cobertura e treinamento da saúde básica para reduzir mortalidade por câncer de mama. Importância de programas de navegação de pacientes e educação em saúde. Dados do INCA e problemas no Brasil, especialmente com mulheres abaixo dos 50 anos, necessitam atenção.",
       "speaker": {
         "name": "PAULA CRISTINA SAAB",
-        "position": "Sociedade Brasileira de Mastologia"
+        "position": "Sociedade Brasileira de Mastologia",
+        "slug": "paula-cristina-saab"
       }
     },
     {
@@ -413,7 +447,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -437,7 +473,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -448,7 +485,8 @@
       "summary": "Coordenador de Assistência - Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA) informa disponibilização de apresentação, atende pacientes com câncer de mama, iniciativa de aconselhamento genético como política ampla, oferece INPA à sociedade e deputados para discussões. Obrigado, boa tarde.",
       "speaker": {
         "name": "GELCIO MENDES",
-        "position": "Coordenador de Assistência - Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA)"
+        "position": "Coordenador de Assistência - Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA)",
+        "slug": "gelcio-mendes"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -471,7 +510,8 @@
       "summary": "Mulheres morrem diariamente de câncer, especialmente em locais afastados; necessário financiamento e conscientização de políticos e sociedade para tratar e prevenir abandonamento de mulheres com câncer por parceiros. O Ministério das Mulheres trabalha para garantir saúde e bem-estar social das mulheres.",
       "speaker": {
         "name": "JOSILENE LÚCIA DOS SANTOS",
-        "position": "Coordenadora de Saúde da Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Ministério das Mulheres"
+        "position": "Coordenadora de Saúde da Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Ministério das Mulheres",
+        "slug": "josilene-lucia-dos-santos"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -494,7 +535,8 @@
       "summary": "Presidente da Associação de Mulheres Mastectomizadas de Brasília - Recomeçar se declara agradecida pela audiência pública e felicita por Octubro Rosa. Ela pede a aprovação da Política Nacional de Controle e Combate do Câncer (PL 2.952/22) no Senado e do PL do Funcâncer (PL 4.434/22) na comissão de saúde da Câmara dos Deputados. Ambas as políticas públicas visam enfrentar melhor o câncer no país e salvar mais vidas.",
       "speaker": {
         "name": "JOANA JEKER DOS ANJOS",
-        "position": "Presidente - Associação de Mulheres Mastectomizadas de Brasília - Recomeçar"
+        "position": "Presidente - Associação de Mulheres Mastectomizadas de Brasília - Recomeçar",
+        "slug": "joana-jeker-dos-anjos"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -517,7 +560,8 @@
       "summary": "Audiência agradece a Deus e a delegada Ione por estar em reunião importante; valoriza conhecimentos técnicos e políticas para ajudar mulheres com câncer de mama, incluindo ela mesma; reconhece perdas e vitórias em suas vidas e encerra pedindo que se lembrem delas após o Outubro Rosa. Parabéns a colaboradoras e deputados por esforço unido.",
       "speaker": {
         "name": "Eliane",
-        "position": "Audiência"
+        "position": "Audiência",
+        "slug": "eliane"
       }
     },
     {
@@ -529,7 +573,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -540,7 +585,8 @@
       "summary": "Audiência é defensora de direitos da mulher e saúde pública. Ela destaca a importância de mulheres tratando e defendendo os direitos das mulheres na política. Audiência também fala sobre o papel dos agentes de saúde na prevenção e no acompanhamento das pacientes. Ela elogia as mulheres que lutam contra o câncer e incentiva as mulheres a participar mais da política pública. Audiência se declara honrada por estar presente e se sente enriquecida com as histórias ouvidas.",
       "speaker": {
         "name": "Clecia Carvalho",
-        "position": "Audiência"
+        "position": "Audiência",
+        "slug": "clecia-carvalho"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -564,7 +611,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -576,7 +624,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     }
   ],

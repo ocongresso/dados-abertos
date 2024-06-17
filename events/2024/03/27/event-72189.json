@@ -13,7 +13,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Autorizado presidente?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilson Daniel -- por Participante -- Jorge Goetten",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilson-daniel-por-participante-jorge-goetten"
       }
     },
     {
@@ -34,7 +36,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": " Líder PSD Paula Renata presente. Goetten convida deputado Jonas Donizete a falar, agradecendo sua participação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jorge Goetten -- por Participante -- Gilson Daniel",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jorge-goetten-por-participante-gilson-daniel"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": " Luta pela gratidão aos apoiadores; reconhecimento a parlamentares e entidades; defesa do Programa de Retomada do Setor de Eventos (PS) como política pública vital; preocupação com ameaça de cortes orçamentários.",
       "speaker": {
         "name": "Manuel Linhares",
-        "position": "Presidente da Associação Brasileira da Indústria de Hotéis –Abih"
+        "position": "Presidente da Associação Brasileira da Indústria de Hotéis –Abih",
+        "slug": "manuel-linhares"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 204541,
         "name": "Eduardo Bismarck",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bismarck"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 178989,
         "name": "Renata Abreu",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renata-abreu"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -283,7 +306,8 @@
       "summary": " Senador critica projeto do governo que causaria incerteza a setor intensivo em mão de obra e geração de emprego, que já foi decidido pelo Congresso Nacional. Promete que parlamentares resolverão o assunto, mantendo previsto em lei. Menciona sua afiliação ao PL na noite do mesmo dia.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -306,7 +331,8 @@
       "summary": " Presidente da União Nacional de CVBs e Entidades de Destinos - Unedestinos afirma missão das entidades é aumentar fluxo de visitantes em municípios brasileiros por meio de captação e promoção de eventos, destacando importância do turismo na geração de empregos e riquezas, além de ser estratégia de desenvolvimento socioeconômico, com parceria entre setor público e privado.",
       "speaker": {
         "name": "Toni Sando",
-        "position": "Presidente da União Nacional de CVBs e Entidades de Destinos - Unedestinos"
+        "position": "Presidente da União Nacional de CVBs e Entidades de Destinos - Unedestinos",
+        "slug": "toni-sando"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -330,7 +357,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -342,7 +370,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -353,7 +382,8 @@
       "summary": " Deputado cumprimenta presidente, Gilson Daniel, e delegação da Paraíba, incluindo Rodrigo Pinto e assessoria de Emerson Rodrigues. Elogia mobilização e disputa de números entre Ministério da Fazenda e senhores. Reafirma disposição do líder partidário Hugo Mota em mediar com governo para apoiar programa que garante desenvolvimento e animo ao segmento.",
       "speaker": {
         "name": "Raniery Paulino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raniery-paulino"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -471,7 +510,8 @@
       "summary": " Parques e atrações turísticas cruciais para turismo nacional; essenciais em diversas regiões do Brasil; formam cadeia produtiva com +50 atividades econômicas; todos atores da cadeia beneficiados pelo PS; peço aos parlamentares apoiar integralmente o PS como investimento no futuro do Brasil.",
       "speaker": {
         "name": "Murilo Pascoal",
-        "position": "Presidente do Sistema Integrado de Parques e Atrações Turísticas - Sindepat"
+        "position": "Presidente do Sistema Integrado de Parques e Atrações Turísticas - Sindepat",
+        "slug": "murilo-pascoal"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 116379,
         "name": "Darci De Matos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "darci-de-matos"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -518,7 +561,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -529,7 +573,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -541,7 +586,8 @@
       "speaker": {
         "id": 220624,
         "name": "Robinson Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "robinson-faria"
       }
     },
     {
@@ -553,7 +599,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -565,7 +612,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -576,7 +624,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -588,7 +637,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -600,7 +650,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -611,7 +662,8 @@
       "summary": " Proposta de limite de uso de créditos tributários perjudicial, pois a maioria das disputas leva 19 anos e vida média de empresas é de 4-5 anos. Medida equivalente a empréstimo compulsório e sem confiabilidade do Estado no pagamento como credor. Deve ser derrubada, como ocorreu com precatórios.",
       "speaker": {
         "name": "Pablo Cesário",
-        "position": "Presidente Executivo da Abrasca"
+        "position": "Presidente Executivo da Abrasca",
+        "slug": "pablo-cesario"
       }
     },
     {
@@ -623,7 +675,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -635,7 +688,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -647,7 +701,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -659,7 +714,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -671,7 +727,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -683,7 +740,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -694,7 +752,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -706,7 +765,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -718,7 +778,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -729,7 +790,8 @@
       "summary": " Diretor Executivo do FOHB discute futuro do Perse no Congresso Nacional, criticando proposta de exclusão fiscal e questionando custo do programa. Pede veracidade, transparência e consideração às vozes do setor.",
       "speaker": {
         "name": "Orlando Sousa",
-        "position": "Diretor Executivo do Fórum de Operadores Hoteleiros do Brasil - FOHB"
+        "position": "Diretor Executivo do Fórum de Operadores Hoteleiros do Brasil - FOHB",
+        "slug": "orlando-sousa"
       }
     },
     {
@@ -741,7 +803,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -753,7 +816,8 @@
       "speaker": {
         "id": 204409,
         "name": "Daniel Trzeciak",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-trzeciak"
       }
     },
     {
@@ -764,7 +828,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -776,7 +841,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -788,7 +854,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -799,7 +866,8 @@
       "summary": " Associação Brasileira da Indústria de Hotéis do Espírito Santo - Abih/ES destaca valor da hotelaria no turismo, crítica falta de investimento e apoio ao setor. Propõe mudar ênfase em políticas públicas, buscando arrecadar impostos do alojamento informal e apoiar rede hoteleira em sua melhoria e expansão.",
       "speaker": {
         "name": "Fernando Otávio Campos da Silva",
-        "position": "Associação Brasileira da Indústria de Hotéis do Espírito Santo - Abih/ES"
+        "position": "Associação Brasileira da Indústria de Hotéis do Espírito Santo - Abih/ES",
+        "slug": "fernando-otavio-campos-da-silva"
       }
     },
     {
@@ -811,7 +879,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -823,7 +892,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -835,7 +905,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -847,7 +918,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -858,7 +930,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -870,7 +943,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -882,7 +956,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -894,7 +969,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -906,7 +982,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -917,7 +994,8 @@
       "summary": " Assessor de Relações Governamentais da FPhotel agradece apoio em defesa do PERSE, contribuição do setor com 20 bilhões de reais através do REFIS do PS, cumprimento do acordo sobre custo anual do PERSE e necessidade de manter política pública para empresas com prejuízos pandemia, evitando insegurança jurídica e medidas inconstitucionais.",
       "speaker": {
         "name": "Leonardo Volpatti",
-        "position": "Assessor de Relações Governamentais da Frente Parlamentar Mista da Hotelaria Brasileira - FPhotel"
+        "position": "Assessor de Relações Governamentais da Frente Parlamentar Mista da Hotelaria Brasileira - FPhotel",
+        "slug": "leonardo-volpatti"
       }
     },
     {
@@ -929,7 +1007,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -940,7 +1019,8 @@
       "summary": " Event industry faced two-year halt during pandemic; PERSE crucial for sector's survival and professionals' remuneration. Allows large companies to hire smaller ones, enabling Freelancers' employment. Over ten million industry professionals. PERSE necessary to prevent equipment depreciation.",
       "speaker": {
         "name": "Ricardo Dias",
-        "position": "Presidente da Associação Brasileira de Eventos - Abrafesta"
+        "position": "Presidente da Associação Brasileira de Eventos - Abrafesta",
+        "slug": "ricardo-dias"
       }
     },
     {
@@ -952,7 +1032,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -963,7 +1044,8 @@
       "summary": " Ação do artigo 4º da MP limitando compensação de créditos tributários causa prejuízos, falso alívio fiscal, ofensa à moralidade administrativa e separação de poderes, impactando negativamente a sociedade e empresas. Foi uma surpresa no último dia útil de 2023, exigindo refazer orçamentos e afetando contribuintes com ações transitadas em julgado.",
       "speaker": {
         "name": "Felipe Kneipp Salomon",
-        "position": "Advogado"
+        "position": "Advogado",
+        "slug": "felipe-kneipp-salomon"
       }
     },
     {
@@ -974,7 +1056,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -985,7 +1068,8 @@
       "summary": " Diretor de Relações Institucionais CLIA Brasil defende importância do PERSÉ para preservar setor turístico, evitando fechamentos de empregos, redução de renda e aumento de preços, garantindo sustento às agências e operadoras turísticas e mantendo o turismo nacional.",
       "speaker": {
         "name": "Flavio Peruzzi",
-        "position": "Diretor de Relações Institucionais CLIA Brasil (Associação Brasileira de Cruzeiros Marítimos)"
+        "position": "Diretor de Relações Institucionais CLIA Brasil (Associação Brasileira de Cruzeiros Marítimos)",
+        "slug": "flavio-peruzzi"
       }
     },
     {
@@ -997,7 +1081,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     }
   ],

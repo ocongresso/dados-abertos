@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "A palavra. Quer vim pra cá? Melhor, né?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tião Medeiros -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tiao-medeiros-por-participante-pezenti"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 224117,
         "name": "Gabriel Mota",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-mota"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -98,7 +105,8 @@
       "transcription": "Agora o deputado",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pezenti -- por Participante -- Tião Medeiros",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pezenti-por-participante-tiao-medeiros"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     }
   ],

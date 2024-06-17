@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis discutiu eficiência energética em combustíveis veiculares, impacto econômico e ambiental, Projeto de Lei \"Combustível do Futuro\", desafios ambientais de reduzir emissões poluentes e gases de efeito estufa, Programa Nacional de Combustível Sustentável de Aviação, e metas de descarbonização e integração de políticas públicas, incluindo diesel verde e análise de ciclo de vida do poço à roda.",
       "speaker": {
         "name": "Pietro Adamo Sampaio Mendes",
-        "position": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis - Ministério de Minas e Energia"
+        "position": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis - Ministério de Minas e Energia",
+        "slug": "pietro-adamo-sampaio-mendes"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Produção anual de nove bilhões de litros de SAF no Brasil possível; necessária aprovação de PL para investimentos e mercado interno de biorrefino; emphasize no CCS e regulação da ANP; considera aumentar teor de etanol na gasolina para 30%.",
       "speaker": {
         "name": "Pietro Adamo Sampaio Mendes",
-        "position": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis - Ministério de Minas e Energia"
+        "position": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis - Ministério de Minas e Energia",
+        "slug": "pietro-adamo-sampaio-mendes"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Diretor de Assuntos Técnicos - ANFAVEA: matriz energética brasileira favorece descarbonização; desafios nas emissões de veículos pesados; meta de descarbonização depende de renovação de frota; recomenda considerar incentivo a biocombustíveis, especialmente etanol; aumento de teor de etanol na gasolina pode prejudicar descarbonização.",
       "speaker": {
         "name": "Henry Joseph",
-        "position": "Diretor de Assuntos Técnicos - ANFAVEA"
+        "position": "Diretor de Assuntos Técnicos - ANFAVEA",
+        "slug": "henry-joseph"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -96,7 +103,8 @@
       "transcription": "Quatro vírgula pouco. Há dois anos atrás quanto era? Dois e meio por cento. Então dobrou em dois anos? E essa é uma tendência.",
       "speaker": {
         "name": "Henry Joseph",
-        "position": "Diretor de Assuntos Técnicos - ANFAVEA"
+        "position": "Diretor de Assuntos Técnicos - ANFAVEA",
+        "slug": "henry-joseph"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -117,7 +126,8 @@
       "transcription": "Da da da descarbonização. É, Henry, eu eu",
       "speaker": {
         "name": "Henry Joseph",
-        "position": "Diretor de Assuntos Técnicos - ANFAVEA"
+        "position": "Diretor de Assuntos Técnicos - ANFAVEA",
+        "slug": "henry-joseph"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Grupo de pesquisa em biocombustíveis do Instituto Mauá de Tecnologia, junto com outras universidades e apoio da FAPESP e PSA/Stellantis, busca aplicação e melhoria de biocombustíveis em diversos pontos, como motores e células de combustível. Preocupações incluem emissões de CO2, poluição em grandes centros, eficiência energética e matriz energética para veículos elétricos e a biocombustíveis. Para o Brasil, com excesso de soluções, é importante definir caminho do governo.",
       "speaker": {
         "name": "Renato Romio",
-        "position": "Instituto Mauá de Tecnologia"
+        "position": "Instituto Mauá de Tecnologia",
+        "slug": "renato-romio"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Tecnologia de veículo híbrido ainda distante e caro, especialmente para hidrogênio puro. Mirai como exemplo, mas com poucas vendas e difícil encher tanque completamente. Compressor especial necessário para alta pressão de 700 bar.",
       "speaker": {
         "name": "Renato Romio",
-        "position": "Instituto Mauá de Tecnologia"
+        "position": "Instituto Mauá de Tecnologia",
+        "slug": "renato-romio"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -209,7 +226,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ricardo Salles -- por Participante -- Bibo Nunes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ricardo-salles-por-participante-bibo-nunes"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": "Tupy MWM, 85 anos produzindo componentes e motores no Brasil, recomenda renovação de frota média de 17 anos e análise de gás natural e biometano para reduzir emissões em ônibus e caminhões, destacando importância do biometano no futuro, mas requer infraestrutura, e comparação de custos e emissões entre diesel, gás natural, biometano e caminhões elétricos, com redução de custos operacionais e emissões com biometano de aterros sanitários em SP.",
       "speaker": {
         "name": "Cristian Malevic",
-        "position": "Diretor de Engenharia e Unidade de Negócios de Descarbonização e Energia - Tupy MWM"
+        "position": "Diretor de Engenharia e Unidade de Negócios de Descarbonização e Energia - Tupy MWM",
+        "slug": "cristian-malevic"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": "GNV essencial na transição energética, como combustível social barato e menos poluente; 2.300.000 veículos convertidos no Brasil; reduz doenças respiratórias e contribui à meta de descarbonização; maior uso no Rio de Janeiro (78%), mas cresce em outros estados; incentivo político público promovido por associações.",
       "speaker": {
         "name": "Celso Mattos",
-        "position": "Vice-Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - SINDIREPA"
+        "position": "Vice-Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - SINDIREPA",
+        "slug": "celso-mattos"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     }
   ],

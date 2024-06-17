@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Participante é membro da Associação Brasileira de Planos de Saúde e ofereceu-se para participar de debates sobre o acesso de qualidade e sustentável no momento oportuno, uma vez que a lei de 1998 está expirada.",
       "speaker": {
         "name": "Frederico Borges",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "frederico-borges"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Participante é da FEMA Saúde e representa três grandes grupos com 33-34% do mercado. Ele está disposto a participar de audiências e ajudar a modernizar a legislação de 1998, que considera obsoleta.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Unimed do Brasil oferece apoio a debates sobre marco legal da saúde suplementar, incluindo planos de saúde.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     }
   ],

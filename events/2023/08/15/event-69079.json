@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Desafio de investimento em criptomoeda e bitcoin, dia 10 de junho, transmitido online, com voucher de 100 reais convertíveis em bitcoins.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "Não podemos permitir.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     }
   ],

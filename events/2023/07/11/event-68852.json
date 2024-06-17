@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "SENAI-CIMATEC foca na transição energética, especificamente na produção de hidrogênio para diversos segmentos, usando energia eólica e solar como fontes principais. A Bahia tem forte potencial eólico, duas vezes a energia do sistema elétrico brasileiro, com fatores de capacidade altos, oferecendo condições ideais para produzir energia eólica estável sem rajadas. A energia solar na Bahia também é abundante, com capacidade de geração superior a 2 terawatts.",
       "speaker": {
         "name": "MIGUEL ANDRADE",
-        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC"
+        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC",
+        "slug": "miguel-andrade"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "SENAI-CIMATEC anuncia Atlas do hidrogênio verde da Bahia, potentializando produção e descarbonização da indústria; cria-se centro de competência em Cimatec Park para formação em hidrogênio verde.",
       "speaker": {
         "name": "MIGUEL ANDRADE",
-        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC"
+        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC",
+        "slug": "miguel-andrade"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Professor do Laboratório de Genômica e Bioenergia da Unicamp discutiu energia, focando no hidrogênio e CO2. Ele mencionou a necessidade de propósito e inteligência além de tecnologia, e destacou a importância da natureza como guia. Falou sobre a captura e uso de CO2, e mencionou a oportunidade do sertão como \"oásis de energia\". Ele também abordou a questão do hidrogênio \"verde\", e mencionou que a eletrólise da água e o uso do biochar são caminhos do futuro.",
       "speaker": {
         "name": "GONÇALO AMARANTE GUIMARÃES PEREIRA",
-        "position": "Professor e Coordenador do Laboratório de Genômica e Bioenergia da Unicamp - Coordenação do Laboratório de Genômica e Bioenergia da Unicamp"
+        "position": "Professor e Coordenador do Laboratório de Genômica e Bioenergia da Unicamp - Coordenação do Laboratório de Genômica e Bioenergia da Unicamp",
+        "slug": "goncalo-amarante-guimaraes-pereira"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Professor da Universidade Federal de Itajubá discutiu transição energética no Brasil, com foco no hidrogênio de \"cara tropical\". Ele destacou a tradição brasileira neste tema, a necessidade de pesquisa, políticas públicas e recursos humanos para formar uma nova economia energética. Ele também questionou a necessidade de hidrogênio no Brasil, considerando os recursos e características nacionais.",
       "speaker": {
         "name": "LUIZ AUGUSTO HORTA NOGUEIRA",
-        "position": "Professor da Universidade Federal de Itajubá - Universidade Federal de Itajubá"
+        "position": "Professor da Universidade Federal de Itajubá - Universidade Federal de Itajubá",
+        "slug": "luiz-augusto-horta-nogueira"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Brasil pode ser ator relevante em mercado global de hidrogênio de baixo carbono, destacando-se programa H2 Brasil e cooperação internacional. Flexibilidade na produção de hidrogênio e ênfase na intensidade de carbono são necessárias, evitando barreiras desnecessárias.",
       "speaker": {
         "name": "GIOVANI MACHADO",
-        "position": "Diretor de Estudos Econômico-Energéticos e Ambientais da Empresa de Pesquisa Energética - EPE - Empresa de Pesquisa Energética - EPE"
+        "position": "Diretor de Estudos Econômico-Energéticos e Ambientais da Empresa de Pesquisa Energética - EPE - Empresa de Pesquisa Energética - EPE",
+        "slug": "giovani-machado"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Hytron - Soluções em Hidrogênio e Energia, originated from Unicamp's hydrogen lab, specializes in hydrogen production using Brazilian-developed technology. The company has a factory in Brazil, collaborates with a German group, and has projects in various locations using different hydrogen sources, including ANP-regulated projects, mobility projects, and global projects.",
       "speaker": {
         "name": "DANIEL GABRIEL LOPES",
-        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia"
+        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia",
+        "slug": "daniel-gabriel-lopes"
       }
     },
     {
@@ -155,7 +167,8 @@
       "summary": "Humanidade necessita de mobilidade com combustível; proposta de distribuir hidrogênio via etanol, reduzindo custos de transporte; primeira planta piloto de reforma etanol-hidrogênio em operação; etanol permite hidrogênio para transporte leve e pesado; perspectiva de baixo custo hidrogênio verde; transição energética protagonizada pelo etanol; Brasil com investimentos e expansão no setor etanol.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -165,7 +178,8 @@
       "transcription": "Fábrica.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "A Hytron está expandindo seu test center em quatro vezes em Belo Horizonte e duplicou o número de especialistas em tecnologia no último ano, demonstrando o investimento do grupo NEO no Brasil. O Diretor da Hytron agradece a oportunidade de participar do debate.",
       "speaker": {
         "name": "DANIEL GABRIEL LOPES",
-        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia"
+        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia",
+        "slug": "daniel-gabriel-lopes"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 69871,
         "name": "Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bacelar"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -247,7 +267,8 @@
       "summary": "Gerente de Negócios SENAI-CIMATEC propõe parceria com SIMATEC para produção de etanol no sertão, geração de hidrogênio e veículos elétricos, bem como emphasiza a importância de considerar o ciclo de vida completo de cada alternativa de produção de hidrogênio de baixo carbono, priorizando soluções sustentáveis próprias para o Brasil.",
       "speaker": {
         "name": "MIGUEL ANDRADE",
-        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC"
+        "position": "Gerente de Negócios SENAI-CIMATEC - SENAI-CIMATEC",
+        "slug": "miguel-andrade"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -270,7 +292,8 @@
       "summary": "Professor e Coordenador do Laboratório de Genômica e Bioenergia da Unicamp destacou a importância da análise de ciclo de vida para avaliar impactos ambientais e geração de empregos. Sugeriu colocar selo de análise de ciclo de vida em produtos e regulamentar biocombustíveis, destacando o potencial do agave para biorrefinarias no sertão.",
       "speaker": {
         "name": "GONÇALO AMARANTE GUIMARÃES PEREIRA",
-        "position": "Professor e Coordenador do Laboratório de Genômica e Bioenergia da Unicamp - Coordenação do Laboratório de Genômica e Bioenergia da Unicamp"
+        "position": "Professor e Coordenador do Laboratório de Genômica e Bioenergia da Unicamp - Coordenação do Laboratório de Genômica e Bioenergia da Unicamp",
+        "slug": "goncalo-amarante-guimaraes-pereira"
       }
     },
     {
@@ -282,7 +305,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -293,7 +317,8 @@
       "summary": "Professor da Universidade Federal de Itajubá discute energia, especificamente hidrogênio, destacando trabalho, inclusão tecnológica e promoção de comunicação sobre energias alternativas brasileiras. Mencionou construção de laboratório de hidrolisador em Itajubá, previsto para outubro, e a importância de uma marco legal de hidrogênio abrangente, lembrando o potencial do biogás e biomassa.",
       "speaker": {
         "name": "LUIZ AUGUSTO HORTA NOGUEIRA",
-        "position": "Professor da Universidade Federal de Itajubá - Universidade Federal de Itajubá"
+        "position": "Professor da Universidade Federal de Itajubá - Universidade Federal de Itajubá",
+        "slug": "luiz-augusto-horta-nogueira"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -316,7 +342,8 @@
       "summary": "Visão do Diretor de Estudos Econômico-Energéticos e Ambientais da EPE sobre a CCES:",
       "speaker": {
         "name": "GIOVANI MACHADO",
-        "position": "Diretor de Estudos Econômico-Energéticos e Ambientais da Empresa de Pesquisa Energética - EPE - Empresa de Pesquisa Energética - EPE"
+        "position": "Diretor de Estudos Econômico-Energéticos e Ambientais da Empresa de Pesquisa Energética - EPE - Empresa de Pesquisa Energética - EPE",
+        "slug": "giovani-machado"
       }
     },
     {
@@ -328,7 +355,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -339,7 +367,8 @@
       "summary": "Diretor da Hytron propõe pensar no hidrogênio como insumo para reindustrialização no Brasil, aumentando valor agregado e gerando empregos de qualidade com foco em cadeias de produtos de valor. Convida a visitar teste center em Campinas.",
       "speaker": {
         "name": "DANIEL GABRIEL LOPES",
-        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia"
+        "position": "Diretor da Hytron - Soluções em Hidrogênio e Energia - Hytron - Soluções em Hidrogênio e Energia",
+        "slug": "daniel-gabriel-lopes"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     }
   ],

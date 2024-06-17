@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 204422,
         "name": "Ossesio Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ossesio-silva"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     }
   ],

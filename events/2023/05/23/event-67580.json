@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Idosos no Brasil: 31,2 milhões, 14,7% da população; esperança de vida de 76 anos; taxa de crescimento anual de 4%; aproximadamente 1 milhão de idosos novos por ano; 1,4 milhões de geriatras no SUS, mas 7-9 mil necessários. Promover envelhecimento ativo e saudável, atenção integral integrada, avaliação multidimensional, fortalecer rede de atenção à saúde, especialistas necessários.",
       "speaker": {
         "name": "Lígia Gualberto",
-        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde"
+        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde",
+        "slug": "ligia-gualberto"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Representante da Sociedade Brasileira de Geriatria e Gerontologia discute envelhecimento populacional no Brasil, transição epidemiológica, aumento de doenças crônicas não transmissíveis, novo modelo de assistência centrado no idoso, ênfase em equipes multiprofissionais e ação preventiva, atenção primária à saúde, novos serviços para idosos dependentes, escassez de geriatras e necessidade de formação em geriatria.",
       "speaker": {
         "name": "Carlos Uehara",
-        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia"
+        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia",
+        "slug": "carlos-uehara"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Falta médicos geriatras em saúde; necessária qualificação em geriatria; problemas na prática atual; propõe mudanças nos currículos médicos, educação permanente no SUS e aprovação da Convenção Internacional dos Direitos da Pessoa Idosa no Brasil.",
       "speaker": {
         "name": "Karla Giacomin",
-        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC"
+        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC",
+        "slug": "karla-giacomin"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Coordenação - Universidade do Envelhecer - UnB fala sobre envelhecimento no Brasil, sua relação com políticas e legislação, e desafios futuros:",
       "speaker": {
         "name": "Margô Karnikowski",
-        "position": "Coordenadora - Universidade do Envelhecer -UnB"
+        "position": "Coordenadora - Universidade do Envelhecer -UnB",
+        "slug": "margo-karnikowski"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Participante propõe regulamentação de transporte, acesso a catarata gratuita e atenção a alienação parental.",
       "speaker": {
         "name": "Paulo Silveira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "paulo-silveira"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Catarata varia por região, acesso mais fácil em algumas áreas em São Paulo. Negligência é violência contra idosos, denúncias possíveis no Disque 100 ou unidade de saúde, acompanhamento pelo Ministério Público. Durante pandemia, aumento de violência doméstica contra idosos, incluindo negligência e outras formas de violência.",
       "speaker": {
         "name": "Carlos Uehara",
-        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia"
+        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia",
+        "slug": "carlos-uehara"
       }
     },
     {
@@ -155,7 +167,8 @@
       "summary": "A Representante do Centro Internacional de Longevidade Brasil - ILC destacou que a maior causa de violência contra idosos é a dificuldade no cuidado, ligada à negligência e à falta de apoio na prestação de cuidados para famílias e idosos. Ela ressaltou a necessidade de uma política nacional de cuidados que reconheça limites da família no cuidado de idosos e inclua a pessoa idosa como beneficiária da política.",
       "speaker": {
         "name": "Karla Giacomin",
-        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC"
+        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC",
+        "slug": "karla-giacomin"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Coordenadora - Universidade do Envelhecer -UnB: Denunciar violência contra idosos é responsabilidade de cidadãos. Estado deve intervir efetivamente, clarificando mecanismos e estratégias de intervenção, disponíveis com facilidade, especialmente para idosos.",
       "speaker": {
         "name": "Margô Karnikowski",
-        "position": "Coordenadora - Universidade do Envelhecer -UnB"
+        "position": "Coordenadora - Universidade do Envelhecer -UnB",
+        "slug": "margo-karnikowski"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "Representante - Sociedade Brasileira de Geriatria e Gerontologia emphasized the importance of defining the roles of state and family in providing care for the elderly, and highlighted the need for remuneration for caregivers, often women, to prevent neglect and abandonment. Clear policies are required to ensure proper care for the elderly, whether at home or in institutions.",
       "speaker": {
         "name": "Carlos Uehara",
-        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia"
+        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia",
+        "slug": "carlos-uehara"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "A Coordenação da Universidade do Envelhecer - UnB destaca a importância da resolução de conflitos com alto grau de resolutividade e ao mesmo tempo, denunciar situações inadequadas para não permitir que continuem.",
       "speaker": {
         "name": "Margô Karnikowski",
-        "position": "Coordenadora - Universidade do Envelhecer -UnB"
+        "position": "Coordenadora - Universidade do Envelhecer -UnB",
+        "slug": "margo-karnikowski"
       }
     },
     {
@@ -199,7 +215,8 @@
       "summary": "Saúde sênior exige abordagem ampla, comprometendo outros ministérios e qualificação de cuidados, com equipes multidisciplinares e especialistas, como fisioterapeutas, na atenção básica. Lançada portaria favorável a isso.",
       "speaker": {
         "name": "Lígia Gualberto",
-        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde"
+        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde",
+        "slug": "ligia-gualberto"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -222,7 +240,8 @@
       "summary": "A participante é presidente de uma instituição que serve idosos, testemunhando suas dificuldades e necessidades, especialmente quando famílias não podem cuidar deles por falta de oportunidades. Ela traz alguns idosos para a reunião, incluindo um casal com a esposa cega, admirando a paciência e amor com que o idoso cuida dela. Ela sauda a iniciativa da audiência pública, oferecendo sua instituição para visita e agradecendo a presença dos idosos.",
       "speaker": {
         "name": "Eunice",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "eunice"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -245,7 +265,8 @@
       "summary": "Participante apoia discussão sobre idosos, sua necessidade de convivio e atenção, especificamente de instituições que trabalham diretamente com eles. Sua organização, Instituto Ladainha e Associação Brasileira de Capioterapia, oferece suporte, incluindo seminários e projetos em Distrito Federal e outras regiões, como Bahia. Ela convida a deputada a visitar grupos de capoterapia para experienciar a realidade dos idosos.",
       "speaker": {
         "name": "Dagma",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "dagma"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -268,7 +290,8 @@
       "summary": "Participante é idosa de Santa Maria, capoterapeuta com aluna Lindalva, lidera grupo oferecendo carinho e alegria na UBS 2; deseja visita.",
       "speaker": {
         "name": "Teresinha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "teresinha"
       }
     },
     {
@@ -280,7 +303,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -291,7 +315,8 @@
       "summary": "Idoso especialista de Saúde do Ministério destacou importância de formação profissionais, programas financiamento centros de cuidado especializados, atenção primária, programas como \"Gera o Brasil\" e \"Maior Cuidado\", e soluções personalizadas para envelhecimento global enfrentamento desafios.",
       "speaker": {
         "name": "Lígia Gualberto",
-        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde"
+        "position": "Especialista em Saúde do Idoso - do Ministério da Saúde",
+        "slug": "ligia-gualberto"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -313,7 +339,8 @@
       "summary": "Coordenadora - Universidade do Envelhecer -UnB valoriza inclusão idosos em estratégias e leis, destaca importância de formação em geriatria e gerontologia, e fortalecimento de políticas públicas para ajudar idosos em envelhecimento. UNICER busca soluções com parcerias internacionais.",
       "speaker": {
         "name": "Margô Karnikowski",
-        "position": "Coordenadora - Universidade do Envelhecer -UnB"
+        "position": "Coordenadora - Universidade do Envelhecer -UnB",
+        "slug": "margo-karnikowski"
       }
     },
     {
@@ -325,7 +352,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -336,7 +364,8 @@
       "summary": "Representante - Centro Internacional de Longevidade Brasil - ILC abordou a melhoria no trato com idosos, a importância de ratificar a convenção internacional dos direitos da pessoa idosa, o fortalecimento do SUS, apoio às equipes multiprofissionais, revisão da política nacional de cuidado, e democratização do acesso aos cuidados no país.",
       "speaker": {
         "name": "Karla Giacomin",
-        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC"
+        "position": "Representante - Centro Internacional de Longevidade Brasil - ILC",
+        "slug": "karla-giacomin"
       }
     },
     {
@@ -347,7 +376,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -358,7 +388,8 @@
       "summary": "Representante - Sociedade Brasileira de Geriatria e Gerontologia valoriza convenção internacional dos direitos da pessoa idosa e política nacional de cuidados prolongados. Destaca importância de formação na atenção primária ao idoso. Menciona programas e obras sociais que fornecem cuidados odontológicos e serviços de geriatras. Oferece sociedade e universidade em apoio à causa.",
       "speaker": {
         "name": "Carlos Uehara",
-        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia"
+        "position": "Representante - Sociedade Brasileira de Geriatria e Gerontologia",
+        "slug": "carlos-uehara"
       }
     },
     {
@@ -370,7 +401,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     }
   ],

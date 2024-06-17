@@ -14,7 +14,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Na sessão de 2023 no Rio Grande do Sul, após pouco debate, o presidente Marcel van Hattem delega a aprovação dos requerimentos restantes ao deputado Zucco e cede a presidência a ele. Obrigado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcel van Hattem -- por Participante -- Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcel-van-hattem-por-participante-zucco"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     }
   ],

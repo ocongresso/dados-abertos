@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Presidente do Comitê Brasileiro de Clubes discorre sobre história do CBC, importância de clubes para esporte olímpico brasileiro, dificuldades e conquistas, e novas metas para o futuro, incluindo aumento de verba esportiva com apoio de parlamentares.",
       "speaker": {
         "name": "Paulo Maciel",
-        "position": "Presidente do Comitê Brasileiro de Clubes"
+        "position": "Presidente do Comitê Brasileiro de Clubes",
+        "slug": "paulo-maciel"
       }
     },
     {
@@ -87,7 +93,8 @@
       "summary": "Superintendente do Comitê Brasileiro de Clubes promove formação de atletas por meio de doações de loterias e categorias, com comitê avaliando projetos em três eixos: materiais esportivos, recursos humanos e competições, atingindo mais de 600 clubes em todo o país para criar atletas de alto desempenho e ídolos nacionais em todos os estados.",
       "speaker": {
         "name": "João Paulo Gonçalves",
-        "position": "Superintendente do Comitê Brasileiro de Clubes"
+        "position": "Superintendente do Comitê Brasileiro de Clubes",
+        "slug": "joao-paulo-goncalves"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Missão cumprida: atletas brillaram em Tóquio apesar da pandemia. Iniciou-se ciclo olímpico 2024 com forte empenho do CVC em beneficiar clubes em todo o país, fortalecendo-os e repassando recursos consideráveis. Aumento no número de campeonatos brasileiros interclubes no ciclo olímpico 2022-2024. Chamado para ingressar no CBC e participar da maior rede formadora de atletas olímpicos do Brasil.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -109,7 +117,8 @@
       "summary": "Missão cumprida: atletas brillaram em Tóquio apesar da pandemia. Iniciamos ciclo olímpico 2024, fortalecendo clubes com repasse de recursos e equipamentos. No segundo ano, aumentaremos o número de campeonatos brasileiros interclubes. Venha se juntar à maior rede formadora de atletas olímpicos do Brasil.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -132,7 +142,8 @@
       "summary": "Presidente da Assembleia Paraense falou sobre privilégio de presidir CBC, união de clubes que permitiu loterias recebidas e transformação do Flamengo em instituição comunitária por Eduardo. Reconheceu trabalho de Paulo Maciel, Bandeira de Melo, e esforços para modernizar piscina do Flamengo. Agora, foco está nos clubes.",
       "speaker": {
         "name": "Paulo Coimbra Storino",
-        "position": "Presidente da Assembleia Paraense"
+        "position": "Presidente da Assembleia Paraense",
+        "slug": "paulo-coimbra-storino"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -155,7 +167,8 @@
       "summary": "Saudação a Bruno Migra, deputado Bandeira de Melo, e Luiz Lima; vídeo de campeões apresentado.",
       "speaker": {
         "name": "Marcelo Vido",
-        "position": "Diretor de Esportes Olímpicos do Clube de Regatas do Flamengo"
+        "position": "Diretor de Esportes Olímpicos do Clube de Regatas do Flamengo",
+        "slug": "marcelo-vido"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Programa excelente é chave para resultados no longo prazo; financiamento e equipamentos fundamentais; orgulho por reconhecimento internacional; Flamengo conquistou cinco campeonatos mundiais em diferentes modalidades; trabalho à longo prazo é fundamental; apoio do CDC essencial.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "País de sucesso em esportes, 86 anos com múltiplos títulos em várias modalidades, sem formalidade na fala.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Desde 2",
       "speaker": {
         "name": "Marcelo Vido",
-        "position": "Diretor de Esportes Olímpicos do Clube de Regatas do Flamengo"
+        "position": "Diretor de Esportes Olímpicos do Clube de Regatas do Flamengo",
+        "slug": "marcelo-vido"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Presidente do Minas Tênis Clube cumprimenta autoridades e parabeniza organização do Comitê Brasileiro de Clubes (CBC). Elogia gestão do CBC, que atende demandas dos clubes e ajudou no aumento do potencial do Minas como clube formador. Destaca importância dos clubes para o movimento olímpico brasileiro e sugere aumento de recursos do CBC para formação de atletas, visando os Jogos Olímpicos de 2028.",
       "speaker": {
         "name": "Carlos Henrique Martins Teixeira",
-        "position": "Presidente do Minas Tênis Clube"
+        "position": "Presidente do Minas Tênis Clube",
+        "slug": "carlos-henrique-martins-teixeira"
       }
     },
     {
@@ -222,7 +240,8 @@
       "summary": "Minas Teleslube, histórico no esporte brasileiro, forma e revela atletas de sucesso com múltiplos títulos em diferentes modalidades. Falta hoje o prêmio como incentivo para continuar sua missão de educar, formar jovens e beneficiar a sociedade.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -232,7 +251,8 @@
       "transcription": "Muito obrigado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": "Presidente do Grêmio Náutico União cumprimenta os presentes e agradece; apresenta vídeo institucional e prepara para discursar.",
       "speaker": {
         "name": "Paulo José Kolberg Bing",
-        "position": "Presidente do Grêmio Náutico União"
+        "position": "Presidente do Grêmio Náutico União",
+        "slug": "paulo-jose-kolberg-bing"
       }
     },
     {
@@ -265,7 +287,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -275,7 +298,8 @@
       "transcription": "Treinar no Grande Nacional de União é muito bom, por si é clube grande, tem uma boa estrutura pra gente poder treinar e também tem pessoas muito fortes do lado que isso motiva cada cada treino dá outra melhor e eu acho que isso faz a diferença lá no final. Em 2020 todo mundo sofreu, mas depois acabaram vindo os resultados e foi bem fácil aí mostrar que a natação faz parte da vida de todos eles. Porque aqui além da estrutura a gente tem toda a questão de tradição aí da natação e das maratonas aquáticas e é muito importante pra pra todos os atletas e pros profissionais envolvidos. Treinar no Grêmio Norte União não tem muitos benefícios, tantos que eu não morava no Rio Grande do Sul, me mudei pra cá por conta desses benefícios. Benefícios entre eles está a especialidade nas provas estonadas, a equipe, isso eu gosto muito de estar aqui. Olha, é muito Vamos ver. Também na esgrima e na ginástica, né? E ali do judô também que a gente está bem forte e vamos chegar lá, nós vamos assustar no judô no futuro, né? Está bom? Obrigada, viu? Parabéns.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -286,7 +310,8 @@
       "summary": "Clube União: 117 anos, 30 mil associados, quatro sedes, foco em esporte individual olímpico. CBC desde 2014, crescendo atletas de 564 para 922 em 2023, com 40% mulheres. Realizou 11 CBIs, investiu em esporte caro. Líder em maratonas aquáticas, atletas de destaque. Parceria CBC valiosa para aprendizado mútuo, recebeu apoio financeiro do CBC. Atletas de outros estados e países treinam no clube.",
       "speaker": {
         "name": "Paulo José Kolberg Bing",
-        "position": "Presidente do Grêmio Náutico União"
+        "position": "Presidente do Grêmio Náutico União",
+        "slug": "paulo-jose-kolberg-bing"
       }
     },
     {
@@ -298,7 +323,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -309,7 +335,8 @@
       "summary": "Comodoro do Iate Clube de Brasília anunciou exibição de vídeo institucional, dirigindo-se a deputados e atletas presentes.",
       "speaker": {
         "name": "Flávio Pimentel",
-        "position": "Comodoro do Iate Clube de Brasília"
+        "position": "Comodoro do Iate Clube de Brasília",
+        "slug": "flavio-pimentel"
       }
     },
     {
@@ -320,7 +347,8 @@
       "summary": "Iate Clube de Brasília: 60 years promoting sports and developing athletes, supported by institutions since 2",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -330,7 +358,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -341,7 +370,8 @@
       "summary": "Clube social com treze escolas esportivas, cinco recebem apoio do CBC. Oferece fisioterapia e investe recursos próprios em esportes, participa de editais CBC, hospeda CBIs e tem 2.106 crianças matriculadas. Atletas obtém bons resultados em competições nacionais e internacionais, com três atletas competindo no exterior. Equipamentos adquiridos com recursos do CBC aprimoram vela, tênis e natação. O clube alcança melhores resultados graças aos recursos do CBC.",
       "speaker": {
         "name": "Flávio Pimentel",
-        "position": "Comodoro do Iate Clube de Brasília"
+        "position": "Comodoro do Iate Clube de Brasília",
+        "slug": "flavio-pimentel"
       }
     },
     {
@@ -353,7 +383,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -364,7 +395,8 @@
       "summary": "Presidente da Assembleia Paraense fala sobre importância do esporte e da CBC para região distante; menciona história do clube, sua missão social e esportiva, e desafios enfrentados. Destaca papel da CBC em ajudar a enviar atletas para competições com passagens pagas e segurança jurídica fornecida. Clubes precisam ser incentivados a continuar formando atletas e cidadãos, promovendo mudanças sociais, especialmente em regiões distantes.",
       "speaker": {
         "name": "Paulo Coimbra Storino",
-        "position": "Presidente da Assembleia Paraense"
+        "position": "Presidente da Assembleia Paraense",
+        "slug": "paulo-coimbra-storino"
       }
     },
     {
@@ -376,7 +408,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -387,7 +420,8 @@
       "summary": "Prêmio reconhece 00E Arte Clube como maratona aquática polo, fortalecendo Salvador's base para prática. Clube incentiva a atividade esportiva. Homenageado expressa gratidão.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -397,7 +431,8 @@
       "transcription": "Qual que é a importância do prêmio para o em diversos respostas? Esse clube consolida 00E Arte Clube como grande polo da maratona aquática. Salvador tem toda a tem privilégio de ter a base de todos os santos com a condição perfeita pra poder fazer a prática da maratona aquática e o clube incentiva muito o esporte, eu fico muito feliz pra receber o Supremo. Muito obrigado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -409,7 +444,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -420,7 +456,8 @@
       "summary": "Ex-Comodoro do Iate Clube de Brasília citou apoio da CBC e Fena clubes em sucesso do clube na Bahia, permitindo compra de 64 barcos, trazer técnicos de peso, financiar salários, comprar equipamentos, resultando em 23 campeonatos brasileiros, 2 mundiais, 2 sul-americanos, 2 pan-americanos, e uma atleta promissora de medalha olímpica.",
       "speaker": {
         "name": "Marcelo Sacramento",
-        "position": "Ex-Comodoro do Iate Clube de Brasília"
+        "position": "Ex-Comodoro do Iate Clube de Brasília",
+        "slug": "marcelo-sacramento"
       }
     },
     {
@@ -432,7 +469,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -443,7 +481,8 @@
       "summary": "EC Pinheiros: envolve 6 mil atletas, atividades em 6 modalidades esportivas de alto nível, incluindo atletismo, basquete e handebol; reconhecimento por formação de atletas, continuando sua tradição de 123 anos em atividades esportivas.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -453,7 +492,8 @@
       "transcription": "Atualmente o Esporte Clube Pinheiros, o mais olímpico do continente envolve seis mil atletas, considerandose as áreas de formação e escolinha competitiva e alto rendimento. No atletismo segundo colocado no ranking de clubes feminino e 3º no masculino tivemos neste ano alisson dos santos como campeão mundial dos quatrocentos metros com barreiras nos estados unidos o basquete em segundo lugar do ranking masculino briga neste ano pelo pentacampeonato na ldb as meninas do handebol são tricampeãs paulistas e atuais campeãs da liga no adulto. O quadro de atividades esportivas do Pinheiros ainda contempla quinhentos militantes e prémilitantes, além de três mil e quinhentos associados. As modalidades handebol masculino e ginas CBC. Esporte Clube Pinheiros, Excelência na formação de atletas. A importância desse prêmio pro esporte clube e Pinheiros. Eu acho que esse prêmio nos faz dar continuidade aos nossos cento e vinte e três anos de atividades esportivas. Isso sempre faz com que a gente vá pra frente, que nossos associados se sintam representados no âmbito nacional. Meu muito obrigado. Obrigada esse parabéns tem seis anos.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -465,7 +505,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -476,7 +517,8 @@
       "summary": "Cerrado Bioma do DF: seca causa morte, chuvas fazem renascer. Cerrado Basquete, esperança para jovens, oferecendo treinamento e chance de sonhar profissionalmente no Campeonato Brasileiro. Exemplo: menino Derek transformou-se graças ao esporte. Jogadores enfatizam crescimento pessoal e valores adquiridos no Cerrado.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -486,7 +528,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -498,7 +541,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -510,7 +554,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -521,7 +566,8 @@
       "summary": "Presidente da Assembleia Paraense elogia Luiz Lima por apoio, destaca importância de apoiar parlamentares e homenageia Eduardo Bandeira. Agradecido por Luiz Lima's work.",
       "speaker": {
         "name": "Paulo Coimbra Storino",
-        "position": "Presidente da Assembleia Paraense"
+        "position": "Presidente da Assembleia Paraense",
+        "slug": "paulo-coimbra-storino"
       }
     },
     {
@@ -533,7 +579,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -544,7 +591,8 @@
       "summary": "Comitê Brasileiro de Clubes propõe evento com numero 173 em local não especificado, urgência na decisão evitando perda de oportunidade.",
       "speaker": {
         "name": "Paulo Maciel",
-        "position": "Presidente do Comitê Brasileiro de Clubes"
+        "position": "Presidente do Comitê Brasileiro de Clubes",
+        "slug": "paulo-maciel"
       }
     },
     {
@@ -555,7 +603,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -566,7 +615,8 @@
       "summary": "Presidente da Assembleia Paraense elogiou lideranças que favorecem esporte, mencionou parceria com Felipe Caeiras como relator esperado para matéria discutida.",
       "speaker": {
         "name": "Paulo Coimbra Storino",
-        "position": "Presidente da Assembleia Paraense"
+        "position": "Presidente da Assembleia Paraense",
+        "slug": "paulo-coimbra-storino"
       }
     },
     {
@@ -577,7 +627,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -589,7 +640,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -600,7 +652,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -612,7 +665,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -624,7 +678,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     }
   ],

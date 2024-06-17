@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -78,7 +83,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -90,7 +96,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -102,7 +109,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -114,7 +122,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -124,7 +133,8 @@
       "transcription": "Bom senhores",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sanderson -- por Participante -- Delegado da Cunha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sanderson-por-participante-delegado-da-cunha"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -146,7 +157,8 @@
       "summary": "Brasil tem muitos presos em poucos estados; déficit de vagas no encarceramento. Prisão federal importante no combate a crimes. Redução de uso de celulares em unidades prisionais combate crime organizado. Ceará e Rio de Janeiro reconhecidos por redução de presos e aumento de educação e inteligência. Cooperação entre estados e instituições necessária para melhor controle e combate a crimes e materiais ilícitos no Brasil.",
       "speaker": {
         "name": "Sandro Abel Sousa Barradas",
-        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "sandro-abel-sousa-barradas"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -192,7 +207,8 @@
       "summary": "Sistema penitenciário federal melhorado, Diretor de Inteligência Penitenciária fornecendo detalhes.",
       "speaker": {
         "name": "Sandro Abel Sousa Barradas",
-        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "sandro-abel-sousa-barradas"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -215,7 +232,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN confirma: penitenciárias federais preparadas para enfrentar movimentações, parte da estratégia contra crime organizado. Isolamento de lideranças, efetiva ferramenta de combate. Adequadas e equipadas para movimentações como parte de segurança pública estratégia.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -226,7 +244,8 @@
       "summary": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN relata: unidade prisional Rio Grande do Norte, sem motim em crise recenta; 2017, refortalecimento Alcaçuz; transferência líderes reduziu ataques; sistema inclui melhor classificação presos, lideranças isoladas, minimizando riscos; aprimoramento unidades segurança máxima, resposta essencial à segurança pública brasileira.",
       "speaker": {
         "name": "Sandro Abel Sousa Barradas",
-        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor de Inteligência Penitenciária - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "sandro-abel-sousa-barradas"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -249,7 +269,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal-SENAPPEN abordará vulnerabilidades do sistema, além do exposto na reportagem, para manter instalações seguras.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -272,7 +294,8 @@
       "summary": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC: hoje judiciário adota postura garantista, beneficiando criminosos; operação contra André do Neto comprova lavagem de dinheiro, helicóptero comprado por empresa laranja, juiz anula investigação; mudanças legislativas dificultam trabalho policial, necessita-se volta à postura favorável à polícia.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -295,7 +319,8 @@
       "summary": "DEIC diretor enfatizou a importância de integração entre estados, comunicação MP e polícia civil, e compartilhamento de informações com SAP. Mencionou dificuldades em leilões rápidos de bens confiscados e espera mudanças legislativas para continuar isolando lideranças do PCC, que considera benéfico para seu trabalho. Planeja ter policiais de inteligência na SAP para ajudar no combate ao dinheiro das facções.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -307,7 +332,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -412,7 +446,8 @@
       "summary": "SAP identifica e monitorea presos com liderança em facções criminosas, transferindo-os para unidades de alta contenção. Atualmente, 197 mil presos e 100 unidades no sistema penitenciário de SP.",
       "speaker": {
         "name": "Luis Guilherme Parra",
-        "position": "Diretor do Centro de Inteligência - Secretaria da Administração Penitenciária de SP"
+        "position": "Diretor do Centro de Inteligência - Secretaria da Administração Penitenciária de SP",
+        "slug": "luis-guilherme-parra"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -435,7 +471,8 @@
       "summary": "Presos no regime disciplinar diferenciado têm direitos temporariamente suspensos, exceto direito à visita.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegado da Cunha -- por Participante -- Alfredo Gaspar",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegado-da-cunha-por-participante-alfredo-gaspar"
       }
     },
     {
@@ -447,7 +484,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -458,7 +496,8 @@
       "summary": "Diretor do Centro de Inteligência - Secretaria da Administração Penitenciária de SP relata monitoramento de líderes criminosos em unidades de cadeia, resultando em transferências para unidades de presidio federal. Exemplifica com um líder, que em vez de estar na Penitenciaria II de Venceslau, está encarcerado em uma unidade federal.",
       "speaker": {
         "name": "Luis Guilherme Parra",
-        "position": "Diretor do Centro de Inteligência - Secretaria da Administração Penitenciária de SP"
+        "position": "Diretor do Centro de Inteligência - Secretaria da Administração Penitenciária de SP",
+        "slug": "luis-guilherme-parra"
       }
     },
     {
@@ -470,7 +509,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -481,7 +521,8 @@
       "summary": "Departamento Estadual de Investigações Criminais de São Paulo - DEIC: Líderes do PCC, anteriormente confinados em duas células, transformaram essas áreas em seu centro de operações. Após a transferência dos líderes para prisões federais e o monitoramento da SAP, o poder do PCC foi fragmentado eficazmente.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -493,7 +534,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -504,7 +546,8 @@
       "summary": "Ex-facção do prefeito e secretários envolvidos; ambição na política; estudo sobre facções criminosas; proibição de doações para campanha pode beneficiar crime organizado financeiramente.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -516,7 +559,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -527,7 +571,8 @@
       "summary": "PCC começou externalizando suas ações, depois as controlou diretamente com ganhos significativos. Atualmente, focus principal está no tráfico international. Ex-presos, após longas prisões, retornaram a riqueza e exigiram tributos, resultando em confrontos e mortes. Hoje, o PCC em SP prioriza tráfico international, aproveitando vantagem de ser única facção no estado.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -538,7 +583,8 @@
       "summary": "Presidente Alfredo Gaspar cedeu sua participação para Delegado da Cunha, mencionando aproximadamente 300-400 toneladas de cocaína pura.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alfredo Gaspar -- por Participante -- Delegado da Cunha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alfredo-gaspar-por-participante-delegado-da-cunha"
       }
     },
     {
@@ -550,7 +596,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -561,7 +608,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - SENAPPEN destaca importância de prisões no combate a criminalidade organizada; atua em cooperação com estados e na gestão direta de penitenciárias federais, reduzindo violência; vê semelhança com história de prisões italianas; homenageia funcionários falecidos; próxima regulamentação da Polícia Penal Federal; tríade do sistema penitenciário é estrutura, normas e pessoal.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -573,7 +621,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -584,7 +633,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal agradece apoio dos congressistas para avanço de projetos do Ministério da Justiça e Segurança Pública na construção e formalização de políticas penais.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -595,7 +645,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -607,7 +658,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -618,7 +670,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN: Ocupação penal federal around 50% due to legal requirement for federal system to support state systems in crisis, maintaining \"technical reserve\".",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -630,7 +683,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -641,7 +695,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN: Nossa principal barreira a celulares em unidades é estrutura com detectores metal, procedimentos e presença atenta servidores penitenciários. Sistema efetivo.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -653,7 +708,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -664,7 +720,8 @@
       "summary": "Directora do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN afirma que, apesar do cumprimento padrão, cada preso tem um programa individualizado de pena, definido por uma comissão técnica, considerando fatores especiais como acompanhamento médico e educação. A segurança é uniforme.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -675,7 +732,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -686,7 +744,8 @@
       "summary": "Directory of Federal Penitentiary System - National Policies Secretary - SENAPPN: Emphasizes that federal prisoners are treated equally in terms of material assistance, regardless of financial power; Only receives what the penitentiary system offers, such as medication and uniforms; Not associated with any financial power or prisoner's idiosyncrasies.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -698,7 +757,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -709,7 +769,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN destacou a importância do sistema federal no controle de crimes organizados, com custo elevado devido à segurança máxima e baixo número de presos por estabelecimento. Questionou o paradeiro de líderes criminosos sem o sistema federal e sugeriu limite de permanência para detentos no sistema.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -721,7 +782,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -732,7 +794,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPN disse: plano de defesa é amplo, demonstrações parciais, contínua atuação de inteligência penitenciária com apoio externo e integração de sistemas.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -744,7 +807,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -756,7 +820,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -768,7 +833,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -780,7 +846,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -791,7 +858,8 @@
       "summary": "Segundo o Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN, policiais defendem diariamente direitos humanos; sociedade mobilizou-se em apoio; ataque foi à sociedade, não somente sistema penitenciário; respeito às garantias individuais, não \"dos\" humanos; ausência de representantes específicos de comissões de direitos humanos ou OAB.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -803,7 +871,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -814,7 +883,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN afirma: a sociedade require suporte para enfrentar déficits do sistema penal; execução penal necessita individualização e medidas alternativas; condenados requerem atenção desde policiamento até sistema penitenciário; grande sistema, precisa ser bem pensado e trabalhado.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -826,7 +896,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -837,7 +908,8 @@
       "summary": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil propõe:",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -849,7 +921,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -860,7 +933,8 @@
       "summary": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil solicita:",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -872,7 +946,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -883,7 +958,8 @@
       "summary": "Presidente da ADEPOL do Brasil propõe alterações na lei de infiltração policial e se opõe à tipificação de crimes como terrorismo, advertindo sobre consequências negativas, como nas experiências colombianas. Ele urge deputados a rejeitarem o projeto, visto como configuração de leis de organização criminosa e combate ao terrorismo.",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -895,7 +971,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -906,7 +983,8 @@
       "summary": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil recomenda deputados técnicos e qualificados, critica mudança na lei que remove obrigatoriedade de exame criminológico para progressão de regime, destaca importância de lei clarificando lavagem de dinheiro de organizações criminosas e sugere mudanças na lei 9.613/98 ou inserção de parágrafo na Lei 2.850/40.",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -918,7 +996,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -929,7 +1008,8 @@
       "summary": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC mencionou: advogado recebeu grande quantia para defesa breve, suspeita dúvidas sobre financiamento criminoso. Também referiu helicóptero usado em investigação.",
       "speaker": {
         "name": "Fábio Pinheiro Lopes",
-        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC"
+        "position": "Diretor - Departamento Estadual de Investigações Criminais de São Paulo - DEIC",
+        "slug": "fabio-pinheiro-lopes"
       }
     },
     {
@@ -941,7 +1021,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -952,7 +1033,8 @@
       "summary": "Presidente da ADEPOL do Brasil, Rodolfo Queiroz Laterza, sugeriu mecanismo italiano contra máfias e lavagem de dinheiro: prisão e confisco seguidos de verificação judicial de legalidade. Elogiou STJ e deputado Sanderson, e sugeriu \"confisco alargado\" como solução técnica, não ideológica.",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -964,7 +1046,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -975,7 +1058,8 @@
       "summary": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil propõe regulamentar abordagem policial e debate sobre garantismo penal no Brasil, questionando sua deturpação e impacto negativo no direito penal. Discussão está parada na Comissão de Direitos Humanos.",
       "speaker": {
         "name": "Rodolfo Queiroz Laterza",
-        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil"
+        "position": "Presidente - Associação dos Delegados de Polícia do Brasil - ADEPOL do Brasil",
+        "slug": "rodolfo-queiroz-laterza"
       }
     },
     {
@@ -987,7 +1071,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -999,7 +1084,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -1011,7 +1097,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -1023,7 +1110,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1035,7 +1123,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -1047,7 +1136,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -1059,7 +1149,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -1071,7 +1162,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -1082,7 +1174,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -1093,7 +1186,8 @@
       "summary": "Deus é protector de nossa nação; palestra dada por um deputado, pai de um jovem preso, pedindo melhoria na área de segurança e reconhecimento para heróis anônimos, especialmente policiais; agradecendo a oportunidade e o trabalho do presidente da comissão de segurança.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -1105,7 +1199,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     }
   ],

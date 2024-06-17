@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Criação de três CPIs:",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -147,7 +158,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -159,7 +171,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -171,7 +184,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -183,7 +197,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -195,7 +210,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -205,7 +221,8 @@
       "transcription": "Deputado, senhor presidente, me permita",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -217,7 +234,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -264,7 +285,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -275,7 +297,8 @@
       "summary": "Votação terminada por dois pontos; encerrando trabalhos e convocando sessão deliberativa extraordinária para quarta-feira às 9h; tem matérias para deliberação; recordação sobre sessão solene não deliberativa amanhã às 15h em homenagem ao dia internacional da educação.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

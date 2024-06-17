@@ -18,27 +18,30 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
       "id": 181660,
       "start_time": 1680011099,
       "duration": 3539,
-      "transcription": "Quero informar ainda que a partir desse momento que iniciou o período de votação, Não serão mais aceitas modificações na composição da comissão, até porque todos os nomes já estão lançados no sistema pra Poderem votar. Obrigada.",
+      "transcription": "\nQuero informar ainda que a partir desse momento que iniciou o período de votação, não serão mais aceitas modificações na composição da comissão, até porque todos os nomes já estão lançados no sistema pra poderem votar. Obrigada.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 181659,
       "start_time": 1680014638,
       "duration": 1,
-      "transcription": "Senhores.",
+      "transcription": "\nSenhores.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,9 +53,10 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633332
 }

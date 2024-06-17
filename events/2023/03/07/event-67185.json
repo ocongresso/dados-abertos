@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Deputado Luiz Lima recebe um minuto de dedicada tempo para falar no Rio de Janeiro.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Deputado apela ao governador Casa Grande por questão de segurança em Colatina, menciona falta de simpatia e vontade de agir da polícia militar, e pede audiência com comandante para abordar problema; conclui afirmando que oposição está \"deitando e rolando\" e governador deve tomar providência para melhorar segurança em Colatina.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -218,7 +235,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -230,7 +248,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -242,7 +261,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -253,7 +273,8 @@
       "summary": "Deputado se declara morador de Niterói, estado do Rio de Janeiro, preocupado com o aumento de moradores de rua e dependentes químicos causando tumultos e roubos em comércio local. Pede ao prefeito que as secretarias de Direitos Humanos e Ação Social trabalhem em parceria com a polícia para resolver a situação.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -264,7 +285,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -276,7 +298,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -288,7 +311,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -300,7 +324,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -312,7 +337,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -324,7 +350,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -336,7 +363,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -348,7 +376,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -360,7 +389,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -372,7 +402,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -384,7 +415,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -396,7 +428,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -407,7 +440,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -419,7 +453,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -431,7 +466,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -443,7 +479,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -455,7 +492,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -467,7 +505,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -479,7 +518,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -491,7 +531,8 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
@@ -503,7 +544,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -515,7 +557,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -526,7 +569,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -538,7 +582,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -550,7 +595,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -562,7 +608,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -574,7 +621,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -586,7 +634,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -597,7 +646,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -609,7 +659,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -620,7 +671,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -632,7 +684,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -643,7 +696,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -655,7 +709,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -667,7 +722,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -679,7 +735,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -691,7 +748,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -703,7 +761,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -715,7 +774,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -727,7 +787,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -738,7 +799,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -750,7 +812,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -762,7 +825,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -774,7 +838,8 @@
       "speaker": {
         "id": 220583,
         "name": "Delegado Fabio Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-fabio-costa"
       }
     },
     {
@@ -786,7 +851,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -798,7 +864,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -810,7 +877,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -822,7 +890,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -834,7 +903,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -846,7 +916,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -858,7 +929,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -870,7 +942,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -882,7 +955,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -894,7 +968,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -906,7 +981,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -918,7 +994,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -930,7 +1007,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -942,7 +1020,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -953,7 +1032,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -965,7 +1045,8 @@
       "speaker": {
         "id": 204367,
         "name": "Daniel Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-freitas"
       }
     },
     {
@@ -977,7 +1058,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -989,7 +1071,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -1001,7 +1084,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1013,7 +1097,8 @@
       "speaker": {
         "id": 160629,
         "name": "Romero Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "romero-rodrigues"
       }
     },
     {
@@ -1025,7 +1110,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1037,7 +1123,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -1049,7 +1136,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1061,7 +1149,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -1073,7 +1162,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1084,7 +1174,8 @@
       "summary": "Pastor Henrique Vieira e Léo Prates seguem Gilberto Nascimento no plenário.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -1095,7 +1186,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1107,7 +1199,8 @@
       "speaker": {
         "id": 136811,
         "name": "Afonso Hamm",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-hamm"
       }
     },
     {
@@ -1119,7 +1212,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1131,7 +1225,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -1143,7 +1238,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1155,7 +1251,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1166,7 +1263,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1178,7 +1276,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -1190,7 +1289,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1202,7 +1302,8 @@
       "speaker": {
         "id": 80815,
         "name": "Léo Prates",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leo-prates"
       }
     },
     {
@@ -1214,7 +1315,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1226,7 +1328,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -1237,7 +1340,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1249,7 +1353,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -1261,7 +1366,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1273,7 +1379,8 @@
       "speaker": {
         "id": 220543,
         "name": "Ricardo Ayres",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-ayres"
       }
     },
     {
@@ -1284,7 +1391,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1296,7 +1404,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -1307,7 +1416,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1319,7 +1429,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1331,7 +1442,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1343,7 +1455,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -1355,7 +1468,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1367,7 +1481,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -1379,7 +1494,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1391,7 +1507,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1403,7 +1520,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1415,7 +1533,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1426,7 +1545,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1438,7 +1558,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -1449,7 +1570,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1461,7 +1583,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -1473,7 +1596,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1485,7 +1609,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -1497,7 +1622,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1509,7 +1635,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -1521,7 +1648,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1533,7 +1661,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -1545,7 +1674,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1557,7 +1687,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -1569,7 +1700,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1581,7 +1713,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -1593,7 +1726,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1605,7 +1739,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1617,7 +1752,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1629,7 +1765,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1641,7 +1778,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1653,7 +1791,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -1665,7 +1804,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1677,7 +1817,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -1688,7 +1829,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1700,7 +1842,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -1712,7 +1855,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1724,7 +1868,8 @@
       "speaker": {
         "id": 191923,
         "name": "Flávio Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavio-nogueira"
       }
     },
     {
@@ -1736,7 +1881,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1748,7 +1894,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -1760,7 +1907,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1772,7 +1920,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -1783,7 +1932,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1795,7 +1945,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -1807,7 +1958,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1819,7 +1971,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -1831,7 +1984,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1843,7 +1997,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -1855,7 +2010,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1867,7 +2023,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1878,7 +2035,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1889,7 +2047,8 @@
       "summary": "Deputado critica MST por invasões e pergunta quem financia e lidera movimento; denuncia crescimento de invasões em primeiros dois meses do governo Lula em relação a todo mandato de Bolsonaro; pede CPI e acusação de deputados incentivadores; defende agro e ordem e progresso no Brasil.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1900,7 +2059,8 @@
       "summary": "Resumo: Maior respeito ao povo brasileiro é solicitado na casa e mídias. Falado por deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Marcos Pereira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-marcos-pereira"
       }
     },
     {
@@ -1911,7 +2071,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1923,7 +2084,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -1935,7 +2097,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1946,7 +2109,8 @@
       "speaker": {
         "id": 160531,
         "name": "Jhonatan de Jesus",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jhonatan-de-jesus"
       }
     },
     {
@@ -1957,7 +2121,8 @@
       "summary": "O deputado Marcos Pereira agradece aos colegas que o elegeram para o TCU, menciona Arthur Lira como responsável por sua ida ao tribunal, expressa orgulho por seu ciclo na Casa e gratitude ao parlamento. Renuncia ao mandato de deputado para assumir o mandato de ministro do TCU. Menciona sua irmã Cássia e deseja crescimento profundo pro Brasil.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcos Pereira -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcos-pereira-por-participante-arthur-lira"
       }
     },
     {
@@ -1969,7 +2134,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1980,7 +2146,8 @@
       "summary": "Requerimento a favor da criação de comissão externa para monitorar obras públicas paralisadas, apoiado por deputados Flávia Moraes, Márcio Jeri, Kim Kataguiri, Sâmia Bonfim e Davi Soares. Em discussão hoje estão projetos liderados por relatoras deputadas Bia Kisses, Érica Kocai e Alice Portugal. Sessão de amanhã será presidida por uma mulher em comemoração à Semana das Mulheres.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -1992,7 +2159,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -2004,7 +2172,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2016,7 +2185,8 @@
       "speaker": {
         "id": 220584,
         "name": "Murilo Galdino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murilo-galdino"
       }
     },
     {
@@ -2028,7 +2198,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2040,7 +2211,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -2051,7 +2223,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2063,7 +2236,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -2075,7 +2249,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2087,7 +2262,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -2099,7 +2275,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2111,7 +2288,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -2122,7 +2300,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2134,7 +2313,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2145,7 +2325,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2156,7 +2337,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -2167,7 +2349,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2179,7 +2362,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2191,7 +2375,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2203,7 +2388,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     },
     {
@@ -2214,7 +2400,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2226,7 +2413,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2238,7 +2426,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2250,7 +2439,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -2261,7 +2451,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2273,7 +2464,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -2284,7 +2476,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2296,7 +2489,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -2307,7 +2501,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2319,7 +2514,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -2331,7 +2527,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2343,7 +2540,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -2354,7 +2552,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2366,7 +2565,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -2378,7 +2578,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2390,7 +2591,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2401,7 +2603,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2413,7 +2616,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -2425,7 +2629,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2437,7 +2642,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -2449,7 +2655,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2461,7 +2668,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -2472,7 +2680,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2483,7 +2692,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -2495,7 +2705,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2507,7 +2718,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -2519,7 +2731,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -2530,7 +2743,8 @@
       "summary": "Tem início votação de retirada de pauta de forma nominal, não na federação, por proposta de deputado Jordi. Heli Borges também participa.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -2542,7 +2756,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -2553,7 +2768,8 @@
       "summary": "Participante propôs atrasar votação para estudar relatório da MP 1140, pois havia partes controversas e não o recebeu a tempo. Expressou gratidão por resultado da votação anterior.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Sóstenes Cavalcante",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-sostenes-cavalcante"
       }
     },
     {
@@ -2565,7 +2781,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -2577,7 +2794,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -2588,7 +2806,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2600,7 +2819,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -2612,7 +2832,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2624,7 +2845,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -2636,7 +2858,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2648,7 +2871,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -2659,7 +2883,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2671,7 +2896,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -2683,7 +2909,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2695,7 +2922,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -2707,7 +2935,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2719,7 +2948,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -2731,7 +2961,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2742,7 +2973,8 @@
       "speaker": {
         "id": 74454,
         "name": "Eunício Oliveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eunicio-oliveira"
       }
     },
     {
@@ -2754,7 +2986,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2766,7 +2999,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -2778,7 +3012,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2790,7 +3025,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -2802,7 +3038,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2814,7 +3051,8 @@
       "speaker": {
         "id": 204436,
         "name": "Isnaldo Bulhões Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "isnaldo-bulhoes-jr"
       }
     },
     {
@@ -2825,7 +3063,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2837,7 +3076,8 @@
       "speaker": {
         "id": 178887,
         "name": "Rubens Pereira Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rubens-pereira-junior"
       }
     },
     {
@@ -2849,7 +3089,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2861,7 +3102,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     },
     {
@@ -2872,7 +3114,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2884,7 +3127,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -2896,7 +3140,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2907,7 +3152,8 @@
       "summary": "Tempo para alterações no quarto e oitavo artigo antes da leitura operacional pela relatora, Deputada Alice Portugal, de acordo alcançado no plenário.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2919,7 +3165,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -2931,7 +3178,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2943,7 +3191,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -2955,7 +3204,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2967,7 +3217,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2978,7 +3229,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -2990,7 +3242,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -3002,7 +3255,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3014,7 +3268,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -3025,7 +3280,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3037,7 +3293,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -3048,7 +3305,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3060,7 +3318,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -3072,7 +3331,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3084,7 +3344,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -3095,7 +3356,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3106,7 +3368,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -3117,7 +3380,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3129,7 +3393,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -3140,7 +3405,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3152,7 +3418,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -3164,7 +3431,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3176,7 +3444,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -3188,7 +3457,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3200,7 +3470,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -3211,7 +3482,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3223,7 +3495,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3234,7 +3507,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3246,7 +3520,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -3258,7 +3533,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3270,7 +3546,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -3281,7 +3558,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3293,7 +3571,8 @@
       "speaker": {
         "id": 220608,
         "name": "Cristiane Lopes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "cristiane-lopes"
       }
     },
     {
@@ -3305,7 +3584,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3317,7 +3597,8 @@
       "speaker": {
         "id": 220668,
         "name": "Maria Arraes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-arraes"
       }
     },
     {
@@ -3329,7 +3610,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3341,7 +3623,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -3353,7 +3636,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3365,7 +3649,8 @@
       "speaker": {
         "id": 160592,
         "name": "Zeca Dirceu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zeca-dirceu"
       }
     },
     {
@@ -3376,7 +3661,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3388,7 +3674,8 @@
       "speaker": {
         "id": 141464,
         "name": "José Airton Félix Cirilo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-airton-felix-cirilo"
       }
     },
     {
@@ -3399,7 +3686,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3411,7 +3699,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -3423,7 +3712,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3435,7 +3725,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -3446,7 +3737,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3458,7 +3750,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -3469,7 +3762,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3481,7 +3775,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3492,7 +3787,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3504,7 +3800,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -3515,7 +3812,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3527,7 +3825,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -3538,7 +3837,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -3550,7 +3850,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -3562,7 +3863,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     }
   ],

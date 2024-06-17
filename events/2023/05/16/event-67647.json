@@ -16,7 +16,8 @@
       "summary": "Mestre de Cerimônia anuncia instalação de biênio 2023-2024 do SEDS, lançamento de proposições legislativas sobre economia e geração de emprego e renda no pós-pandemia, apresentação de objetivos e atividades do SEDS, breve relato sobre estudo em andamento sobre Dívida Pública, presença do Presidente do SEDS e outros membros, execução do hino nacional.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -26,7 +27,8 @@
       "transcription": "Podemos sentar?",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "summary": "Agradecem presenças, incluindo Luiz Carlos da Silva, Luiz Augusto Santos Lima, Livia Medeiros Neves, Luiz Ovando, Clésio Marcos de Nardin, Jéssica Gomes, Félix Mendonça Júnior, Fausto Barbosa de Paula, Fabrício dos Santos, Ludmilla Carvalho Serafim, Carlos Alberto 8, Cláudia Perdigão, Araújo Joaquim Chacon, Ana Maria Santos Fidelis, Abimael de Jesus Barros Costa, Daniela Cristina, José Eduardo Malta de Sá Brandão, e Kim Gung Hwaya. Iniciam pronunciamentos com Geraldo Leite.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": "Diretor da Consultoria Legislativa compromete apoio ao CEDES para desenvolver estudos estratégicos, priorizando áreas sensíveis como saúde, educação e economia, durante e após a pandemia da COVID-19. Agradecimentos à equipe atual e à nova gestão do CEDES.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Diretor da Consultoria Legislativa da Câmara dos Deputados"
+        "position": "Diretor da Consultoria Legislativa da Câmara dos Deputados",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": "Mestre de Cerimônia convida Doutor Mário Goulart Maia e entrega palavra a deputado Doutor Vitor Linhares para apresentar importância de projetos legislativos do estudo econômico retomado.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -82,7 +88,8 @@
       "summary": "Mestre de Cerimônia agradece presentes, inclui deputados e representantes de vários órgãos e países. Convidou Senhor Presidente Deputado Félix Mendonça Júnior a falar.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Mestre de Cerimônia apresenta Deputado Reginaldo Lopes do PT-MG e cede a palavra ao consultor legislativo Pedro Garrido.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Consultor Legislativo propõe mudanças econômicas após pandemia: discute cinco de onze projetos sobre retomada econômica, geração de emprego e renda, atualização legislação nacional, modificações no FGTS e na lei de falências, encouraça contratação de bens e serviços nacionais e alterações no Código Civil para subcapitalização de empresas. Essas propostas visam melhorar ambiente de negócios e desenvolvimento econômico social no Brasil.",
       "speaker": {
         "name": "Pedro Garrido",
-        "position": "Consultor Legislativo"
+        "position": "Consultor Legislativo",
+        "slug": "pedro-garrido"
       }
     },
     {
@@ -127,7 +137,8 @@
       "summary": "Mestre de Cerimônia agradeceu presentes, incluindo deputados federal e estadual, Coordenadora do Governo do Estado da Bahia, diretora do Inep, assessor da AEB, e convidou deputado e presidente do Centro de Estudos e Debates estratégicos da Câmara dos Deputados a falar.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": "Mestre de Cerimônia agradeceu presentes, incluindo deputado Wellington Prado, e anunciou disponibilização gratuita do material digitalmente no site da Livraria Câmara Leg, com unidades administrativas solicitando exemplares pelo email editor@camara.leg.br. Discurso encerrou solenidade, convidou para coquetel e desejou boa noite.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     }
   ],

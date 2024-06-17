@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente - Sociedade Brasileira de Oncologia Clínica destacou mudança de paradigma em oncologia, com rápido avanço tecnológico e diagnóstico, mais acontecem gaps de acesso a tecnologias e tratamentos, especialmente no sistema público de saúde. Suporte à discussão sobre adequação de disponibilidade e aquisição de medicamentos/terapias, com Sociedade pronta a ajudar no processo de incorporação de tecnologia no país.",
       "speaker": {
         "name": "Carlos Gil Ferreira",
-        "position": "Presidente - Sociedade Brasileira de Oncologia Clínica"
+        "position": "Presidente - Sociedade Brasileira de Oncologia Clínica",
+        "slug": "carlos-gil-ferreira"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretária de Saúde de Santa Catarina discute projeto de lei sobre saúde, principalmente focando no tratamento imediato e igualitário de pacientes com câncer. Ela menciona a importância de cumprir prazos de tratamento e exames, trabalhar com sociedade civil e especialistas, e monitorar fila de pacientes oncológicos em espera de cirurgia.",
       "speaker": {
         "name": "Carmen Zanotto",
-        "position": "Secretária - Secretaria de Estado da Saúde de Santa Catarina"
+        "position": "Secretária - Secretaria de Estado da Saúde de Santa Catarina",
+        "slug": "carmen-zanotto"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Presidente do Instituto Oncoguia identificou problemas no acesso a tratamentos oncológicos recomendados para pacientes do SUS: falta de disponibilização obrigatória em todos os hospitais, protocolos de tratamento desiguais, financiamento insuficiente e falta de atualização no valor dos tratamentos incorporados. Sugeriu compra centralizada e discussão tripartite para melhoria.",
       "speaker": {
         "name": "Luciana Holtz",
-        "position": "Presidente - Instituto Oncoguia"
+        "position": "Presidente - Instituto Oncoguia",
+        "slug": "luciana-holtz"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Procuradora Federal do MPFF-13º Ofício propõe ação pela garantia de medicamentos oncologicos no SUS. Valor APAC não cobre integralmente alguns medicamentos, causando desigualdade e desassistência a pacientes. Propõe revisão do valor da APAC ou adquirir medicamentos centralizadamente pelo Ministério da Saúde para garantir acesso. Critica união por omissão na garantia da disponibilidade do medicamento em tempo.",
       "speaker": {
         "name": "Suzete Bragagnolo",
-        "position": "Procuradora Federal - Ministério Público Federal - 13º Ofício - Núcleo de Seguridade Social, Previdência e Assistência"
+        "position": "Procuradora Federal - Ministério Público Federal - 13º Ofício - Núcleo de Seguridade Social, Previdência e Assistência",
+        "slug": "suzete-bragagnolo"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Comissão Ministério Saúde avalia tecnologias saúde desde 2",
       "speaker": {
         "name": "Ávila Teixeira Vidal",
-        "position": "Coordenadora-Geral de Gestão Estratégica de Tecnologias em Saúde - Ministério da Saúde"
+        "position": "Coordenadora-Geral de Gestão Estratégica de Tecnologias em Saúde - Ministério da Saúde",
+        "slug": "avila-teixeira-vidal"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde aborda acesso a medicamentos, destacando importância de políticas públicas baseadas em ciência, discussão tripartite de financiamento, e considerando modelo atual de política oncológica e compra centralizada. Pede atenção a redação da lei sobre recurso via APAC e impacto orçamentário nas incorporações. Ministério está aberto ao diálogo para solucionar problemas de acesso.",
       "speaker": {
         "name": "Fernando Henrique de Albuquerque Maia",
-        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde"
+        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde",
+        "slug": "fernando-henrique-de-albuquerque-maia"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -263,7 +284,8 @@
       "summary": "Presidente da Sociedade Brasileira de Oncologia Clínica:",
       "speaker": {
         "name": "Carlos Gil Ferreira",
-        "position": "Presidente - Sociedade Brasileira de Oncologia Clínica"
+        "position": "Presidente - Sociedade Brasileira de Oncologia Clínica",
+        "slug": "carlos-gil-ferreira"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -286,7 +309,8 @@
       "summary": "Secretária da Saúde de Santa Catarina:",
       "speaker": {
         "name": "Carmen Zanotto",
-        "position": "Secretária - Secretaria de Estado da Saúde de Santa Catarina"
+        "position": "Secretária - Secretaria de Estado da Saúde de Santa Catarina",
+        "slug": "carmen-zanotto"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -309,7 +334,8 @@
       "summary": "Presidente do Instituto Oncoguia destacou a importância de melhorar a oncologia no Brasil, através de tecnologias, cirurgia, radioterapia, diagnóstico ágil, e autonomia do médico com PCDT. Mencionou desafios na compra centralizada e logística, propondo melhorias para garantir acesso aos pacientes. Está aberta a trabalhar em próximos passos para avançar nesta agenda prioritária.",
       "speaker": {
         "name": "Luciana Holtz",
-        "position": "Presidente - Instituto Oncoguia"
+        "position": "Presidente - Instituto Oncoguia",
+        "slug": "luciana-holtz"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -332,7 +359,8 @@
       "summary": "Procuradora Federal: Agradecimento pela oportunidade de falar sobre orçamento do SUS; pede atenção a recursos estagnados, incluindo atenção básica e preventivas, e oncologia. Parabéns a deputado por iniciativa.",
       "speaker": {
         "name": "Suzete Bragagnolo",
-        "position": "Procuradora Federal - Ministério Público Federal - 13º Ofício - Núcleo de Seguridade Social, Previdência e Assistência"
+        "position": "Procuradora Federal - Ministério Público Federal - 13º Ofício - Núcleo de Seguridade Social, Previdência e Assistência",
+        "slug": "suzete-bragagnolo"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -355,7 +384,8 @@
       "summary": "A Coordenação-Geral de Gestão Estratégica de Tecnologias em Saúde, do Ministério da Saúde, agradece oportunidade de apresentar seu trabalho e se coloca à disposição da população para esclarecer suas dúvidas.",
       "speaker": {
         "name": "Ávila Teixeira Vidal",
-        "position": "Coordenadora-Geral de Gestão Estratégica de Tecnologias em Saúde - Ministério da Saúde"
+        "position": "Coordenadora-Geral de Gestão Estratégica de Tecnologias em Saúde - Ministério da Saúde",
+        "slug": "avila-teixeira-vidal"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -378,7 +409,8 @@
       "summary": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde propõe construção de políticas públicas efetivas para atender e resolver problema do câncer, com inclusão do secretário Gadelha da SECTIX para discutir incorporação de tecnologia. Compromisso de mudar modelos anteriores sem efeito em política pública.",
       "speaker": {
         "name": "Fernando Henrique de Albuquerque Maia",
-        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde"
+        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde",
+        "slug": "fernando-henrique-de-albuquerque-maia"
       }
     },
     {
@@ -390,7 +422,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -414,7 +448,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     }
   ],

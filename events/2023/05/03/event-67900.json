@@ -13,7 +13,8 @@
       "summary": "Início da cerimônia de reinstalação da frente parlamentar de segurança pública; solicita-se ocupar lugares e silenciar telefones; convidados para mesa diretiva, incluindo deputados e general; imposição de respeito; tocamento do hino nacional.",
       "speaker": {
         "name": "Edgar Dias",
-        "position": "Mestre de Cerimónia"
+        "position": "Mestre de Cerimónia",
+        "slug": "edgar-dias"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Mestre de Cerimónia anuncia presentes oficiais, homenageia ex-presidente da Frente Parlamentar de Segurança Pública, e convida atual presidente a entregar placa de agradecimento a deputado capitão Augusto, seguido por pronunciamento do presidente da Frente Parlamentar de Segurança Pública, deputado Alberto Fraga.",
       "speaker": {
         "name": "Edgar Dias",
-        "position": "Mestre de Cerimónia"
+        "position": "Mestre de Cerimónia",
+        "slug": "edgar-dias"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 178829,
         "name": "Capitão Augusto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-augusto"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -137,7 +148,8 @@
       "summary": "General valoriza profissional de segurança pública; aponta importância de ordenamento urbano; menciona solução para problemas de segurança pública no Brasil, exemplificando com sua experiência no Rio de Janeiro. Deseja sucesso e engajamento aos presentes.",
       "speaker": {
         "name": "Braga Netto",
-        "position": "General"
+        "position": "General",
+        "slug": "braga-netto"
       }
     },
     {
@@ -148,7 +160,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -160,7 +173,8 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -207,7 +224,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -218,7 +236,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -230,7 +249,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -254,7 +275,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -265,7 +287,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -311,7 +337,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -335,7 +363,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -347,7 +376,8 @@
       "speaker": {
         "id": 136811,
         "name": "Afonso Hamm",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-hamm"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -382,7 +414,8 @@
       "summary": "General enfatiza: valorize polícia, endureça penas, forneça meios necessários. Contra a violência, policiais ativos e na reserva devem estar armados.",
       "speaker": {
         "name": "Braga Netto",
-        "position": "General"
+        "position": "General",
+        "slug": "braga-netto"
       }
     },
     {
@@ -394,7 +427,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     }
   ],

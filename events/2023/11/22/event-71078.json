@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     }
   ],

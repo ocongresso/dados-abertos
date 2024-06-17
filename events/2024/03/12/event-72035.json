@@ -13,7 +13,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Enquanto estamos no procedimento de votação, gostaria de.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -47,7 +50,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -188,7 +203,8 @@
       "transcription": "Enquanto estamos no procedimento de votação, gostaria de.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 206018,
         "name": "Célia Xakriabá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "celia-xakriaba"
       }
     },
     {
@@ -210,7 +227,8 @@
       "transcription": "Boa",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Célia Xakriabá -- por Participante -- Dilvanda Faro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-celia-xakriaba-por-participante-dilvanda-faro"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     }
   ],

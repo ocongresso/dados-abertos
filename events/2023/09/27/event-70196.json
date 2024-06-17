@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônia apresenta convidados e convida presentes a se levantar para hino nacional. Convidados incluem deputadas federais Antônia Lúcia, Meire Serafim, e Milena Ramos Câmara, deputado federal Gilvan Máximo, doutor Fernando Massimo, doutor Lucas José Ramos Lopes, e advogada Rivana.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Lançada frente parlamentar mista, presidida pela deputada Antonia Lúcia, para defender direitos da criança e do adolescente, inspirada no artigo 2° da Constituição e no Estatuto da Criança e do Adolescente. Instalação, uma conquista a ser celebrada por todos brasileiros. Audiência ao deputado Gilvan Máximo.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Mestre de Cerimônia convidou o deputado Jefferson Campos para compor a mesa e deu voz ao deputado Silas Câmara para falar.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "Mestre de Cerimônia, mulher branca com cabelos castanhos, vestida de vermelho e óculos, transmitindo áudio-descrição, elogiou parceria com defensorias e associados, apresentou presentes e expressou importância do trabalho da Defensoria Pública em projetos de reforma do Estatuto da Criança e do Adolescente, destacando o fortalecimento da defesa dos direitos das crianças e adolescentes, com apoio de parlamentares e sociedade civil.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": "Advogada e Presidente do Progressista Mulher do DF cumprimenta convidados em nome da deputada federal Antônio Lúcia, destaca importância de defender direitos de crianças e adolescentes. Frente visa garantir acesso à saúde, educação e proteger de agressões e pressões. Elogia deputada por luta em defesa dos vulneráveis e agradece presentes. Trabalho em prol das crianças e adolescentes é fundamental. Boa tarde e Deus abençoe a todos.",
       "speaker": {
         "name": "Milena Ramos Câmara",
-        "position": "Advogada e Presidente do Progressista Mulher do DF"
+        "position": "Advogada e Presidente do Progressista Mulher do DF",
+        "slug": "milena-ramos-camara"
       }
     },
     {
@@ -112,7 +121,8 @@
       "summary": "Mestre de Cerimônia discutiu aumento de violência contra crianças e adolescentes no Brasil, apresentou Coalizão Brasileira pelo Fim da Violência, composta por 67 entidades, e sublinhou a importância de acessibilidade, monitoramento, uso de evidências, investimento em prevenção, conselheiros tutelares, programas governamentais e colaboração entre entidades para fortalecer garantias constitucionais do Estatuto da Criança e do Adolescente.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -124,7 +134,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": "Mestre de Cerimônia convidou deputado Jefferson Campos para mesa e quis ouvir deputado Silas Câmara falar.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -146,7 +158,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -157,7 +170,8 @@
       "summary": "Mestre de Cerimônia convidou doutora Ana Paula Catini, deputada Marussa Boldrin e Maria Rosas para se aproximarem da mesa e deu voz ao pastor João Adair Ferreira.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -168,7 +182,8 @@
       "summary": "Presidente do Campo da Catedral das Assembléias de Deus de Madureira cumprimenta todos e traz saudações de líderes religiosos. Oferece apoio do ministério de Madureira e CONEMAD à frente parlamentar em defesa da criança, adolescente e conselhos tutelares. Elogia a deputada Antônia Lúcia por cuidado com crianças e adolescentes, citando Jesus Cristo e Paulo. Cumprimenta a doutora Milena Câmara.",
       "speaker": {
         "name": "Pastor João Adair Ferreira",
-        "position": "Presidente do Campo da Catedral das Assembléias de Deus de Madureira"
+        "position": "Presidente do Campo da Catedral das Assembléias de Deus de Madureira",
+        "slug": "pastor-joao-adair-ferreira"
       }
     },
     {
@@ -178,7 +193,8 @@
       "transcription": "Senhoras e senhores, temos a honra de lançar oficialmente a frente parlamentar mista em defesa da criança, do adolescente e dos conselhos tutelares. A frente parlamentar será presidida pela deputada federal doutora Antonia Lúcia, e terá como vicepresidentes os deputados federais Gilvan Máximo, doutor Fernando Máximo e a deputada Meire Serafim. A constituição da república de oitenta e oito, em seu artigo dois dois sete, estabeleceu o seu dever da família, ser dever da família, da sociedade e do estado assegurar a criança e ao adolescente com absoluta prioridade uma série de direitos sociais e individuais como, o direito à vida, à saúde, à dignidade, aos respeito, à liberdade e à convivência familiar. Dentre outros. Além de colocálos a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão. Neste cenário, e com intuito de cumprir o comando constitucional, e efetivar o atendimento dos direitos de crianças e adolescentes, o Estatuto da Criança e do Adolescente previu a instituição do conselho tutelar, como órgão encarregado pela sociedade, de zelar pelo cumprimento dos direitos da criança e do do adolescente, conforme reza o artigo três do estatuto da criança e do adolescente. Diante de toda essa importância, a instalação desta frente parlamentar é marco que deve ser celebrado por todos os brasileiros. O apoio e a defesa intransigente É uma conquista e uma luta incessante de toda população brasileira. Dito isso, vamos ouvir, os pronunciamentos dos nossos convidados que compõem a mesa. Gostaria de abrir a palavra ao deputado Gilvan Máximo.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -190,7 +206,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -201,7 +218,8 @@
       "summary": "Mestre de Cerimônia elogiou iniciativa de deputado e apoiadores, destacou problemas com natalidade descontrolada e falta de oportunidades para jovens em comunidades carentes, propôs melhores estruturas para conselhos comunitários, lembreu de sua juventude respeitosa e programas de escolas em tempo integral, e expressou compromisso em apoiar a frente parlamentar voltada para jovens e crianças, especialmente no Brasil e comunidades carentes.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -213,7 +231,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -223,7 +242,8 @@
       "transcription": "Gostaríamos de ouvir na sequência o deputado Bebeto, PP do Rio de Janeiro.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -235,7 +255,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -245,7 +266,8 @@
       "transcription": "Deputado, gostaríamos de ouvir agora a doutora Rivana. Defensora pública, presidente da ANABP.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -256,7 +278,8 @@
       "summary": "Defensora pública de Acre e presidenta da Associação Nacional de Defensores Públicos, participa aqui em apoio à reforma do Estatuto da Criança e do Adolescente, buscando fortalecer a atuação dos defensores e contando com o apoio de parlamentares e sociedade civil.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -267,7 +290,8 @@
       "summary": "Mestre de Cerimônia: Chama doutora para pronunciamento de Lucas José Ramos Lopes, secretário executivo da brasileira contra violência a crianças e adolescentes.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -278,7 +302,8 @@
       "summary": "Aumento de violência reportada no Brasil, especialmente maus-tratos e exploração sexual. Dados mostram violência intrafamiliar e contra crianças de 0 a 13 anos por conhecidos. Coalizão utiliza estratégias INSPIRE da ONU para combater violência. Necessário investimento em prevenção e análise de programas. Suporta garantias constitucionais do Estatuto da Criança e do Adolescente. Criança é hoje, não amanhã.",
       "speaker": {
         "name": "Lucas Ramos Lopes",
-        "position": "Secretário Executivo de Coalizão Brasileira pelo fim da Violência contra Crianças e Adolescentes"
+        "position": "Secretário Executivo de Coalizão Brasileira pelo fim da Violência contra Crianças e Adolescentes",
+        "slug": "lucas-ramos-lopes"
       }
     },
     {
@@ -289,7 +314,8 @@
       "summary": "Mestre de Cerimônia anuncia presença de secretária nacional de renda de cidadania, deputada federal Umaruscia Boldrim, e agora daremos ouvido à palavra da presidente da frente, deputada federal doutora Antonia Lúcio.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     },
     {
@@ -300,7 +326,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -311,7 +338,8 @@
       "summary": "Mestre de Cerimônia agradeceu presença no lançamento da frente, anunciou a realização da ata, convidou para foto oficial e encerrou a solenidade.",
       "speaker": {
         "name": "Jader Bezerra",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "jader-bezerra"
       }
     }
   ],

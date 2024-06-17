@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Luiz Luiz.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Pai do Julian Assange fala sobre direito ao conhecimento e violação dos direitos de Assange por Estados Unidos. Expresa gratidão pela defesa de Assange por parte do presidente Lula e Brasil, indicação de vitória garantida.",
       "speaker": {
         "name": "JOHN SHIPTON",
-        "position": "Pai do Julian Assange"
+        "position": "Pai do Julian Assange",
+        "slug": "john-shipton"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -227,7 +245,8 @@
       "summary": "Psicóloga elogia Câmara Federal por atuar em causa Juliana Sanji, destacando importância de empoderamento social e acesso à informação para combater guerra híbrida e promover democracia. Espera que outros países sigam exemplo.",
       "speaker": {
         "name": "Sílvia Alves",
-        "position": "Psicóloga"
+        "position": "Psicóloga",
+        "slug": "silvia-alves"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -250,7 +270,8 @@
       "summary": "Produtor Cultural pede apoio em comissão para tour do filme e ativismo por Julian Assange, incluindo exibições em Rio, São Paulo, Recife, Porto Alegre e Brasília em agosto.",
       "speaker": {
         "name": "Nilson Fonseca",
-        "position": "Produtor Cultural"
+        "position": "Produtor Cultural",
+        "slug": "nilson-fonseca"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -273,7 +295,8 @@
       "summary": "Pai de Vítima da Boate Kiss agradece apoio de deputadas e expressa indignação por luta contra injustiças. Violados direitos, julgado antes dos assassinos de seu filho. Pedido de providência às autoridades mundiais.",
       "speaker": {
         "name": "Flávio",
-        "position": "Pai de Vítima da Boate Kiss"
+        "position": "Pai de Vítima da Boate Kiss",
+        "slug": "flavio"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -296,7 +320,8 @@
       "summary": "Repórter alerta sobre prisão de jornalistas globally, destaca impacto da extradição do Assange no jornalismo e pede esforços diplomáticos, especialmente de Lula, antes da decisão da extradição no Reino Unido até 2 de outubro.",
       "speaker": {
         "name": "Bia Barbosa",
-        "position": "Repórter"
+        "position": "Repórter",
+        "slug": "bia-barbosa"
       }
     },
     {
@@ -308,7 +333,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -320,7 +346,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -332,7 +359,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -343,7 +371,8 @@
       "summary": "Participante destaca importância de debater sobre garantia de direitos humanos e luta contra discurso de ódio. Menciona derrota do fascismo nas urnas e missão de derrotá-lo nas ruas. Falado sobre criminalização pelo uso de mídias e redes sociais, e apoio à liberdade de imprensa e expressão, especialmente no caso de Julian Assange. Defesa da democracia é também abordada.",
       "speaker": {
         "name": "Emmanuele",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "emmanuele"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -366,7 +396,8 @@
       "summary": "Conselho de Direitos Humanos se compromete a ajudar na luta pela libertação de Sanji, envolvendo ministérios e organismos multilaterais, e convida a comissão a participar de esforços coletivos para construir ação organizada.",
       "speaker": {
         "name": "Admilson Medeiros",
-        "position": "Conselho dos Direitos Humanos"
+        "position": "Conselho dos Direitos Humanos",
+        "slug": "admilson-medeiros"
       }
     },
     {
@@ -378,7 +409,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -389,7 +421,8 @@
       "summary": "MST agradece apoio à Juliana Sanji, injustamente acusada e vítima de perseguição política. Ela denunciou crimes de imperialismo americano. Urgente ampliar campanha mundial por sua libertação, inspiração em luta de cinco heróis cubanos. MST está com Sanji e exige liberdade para ela. Transmita abraço solidário a familia e amigos de Sanji.",
       "speaker": {
         "name": "Judite Santos",
-        "position": "MST"
+        "position": "MST",
+        "slug": "judite-santos"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -413,7 +447,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -436,7 +472,8 @@
       "summary": "Participante continuou lutando por famílias e sobreviventes da Boate Kiss, pedindo justiça para que outros pais e filhos não experimentem tragedia. Ofereceu apoio da associação à Luiziane se necessário.",
       "speaker": {
         "name": "Paulo Carvalho",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "paulo-carvalho"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -459,7 +497,8 @@
       "summary": "Pai do Julian Assange agradece e elogia Brasil por seu compromisso com direitos humanos e apoio à liberdade de Julian Assange, bem como seu progresso em busca de assento permanente no Conselho de Segurança das Nações Unidas.",
       "speaker": {
         "name": "JOHN SHIPTON",
-        "position": "Pai do Julian Assange"
+        "position": "Pai do Julian Assange",
+        "slug": "john-shipton"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     }
   ],

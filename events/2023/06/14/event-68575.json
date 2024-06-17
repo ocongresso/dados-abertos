@@ -13,7 +13,8 @@
       "summary": "Iniciamos sessão da Frente Parlamentar para o desenvolvimento de favelas. Solicito liberar lugares para autoridades. Cumprimentamos autoridades presentes, como o Ministro, deputados e senhora Rose Modesto, presidente da Sudeco. Iniciamos solenidade com a execução do hino nacional.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": "Mestre de Cerimônias convidou Washington Coaquá, Carlos Lupe, Preto Zezé, Kalini, Lindberg Faria, Júlio Lopes, Raymond, Adriana Costa e Sônia Guajajara para compor mesa; agradeceu presença de favela e deputados Helder Salomão.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 220601,
         "name": "Washington Quaquá",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "washington-quaqua"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Ministro de Estado da Previdência Social se refere à iniciativa dos parlamentares, dizendo que a volta do presidente Lula ao poder permite avançar nas conquistas. Destaca a importância da previdência social, como maior programa social do planeta, e se solidariza com povos indígenas. Afirma que o PDT está ao lado do favelado.",
       "speaker": {
         "name": "Carlos Lupi",
-        "position": "Ministro de Estado da Previdência Social"
+        "position": "Ministro de Estado da Previdência Social",
+        "slug": "carlos-lupi"
       }
     },
     {
@@ -78,7 +84,8 @@
       "summary": "Mestre de Cerimônias convidou ministros e secretários para mesa; presentes deputados e senador de diferentes estados; Carlito Méz do Sebrae também presente; Washington Cuacá falará.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -90,7 +97,8 @@
       "speaker": {
         "id": 220601,
         "name": "Washington Quaquá",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "washington-quaqua"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": "Presidente da CUFA anunciou fluxo constante de ministros no local e Lula's plan to rotate eighteen confirmed ministers. Sônia está falando subsequentemente.",
       "speaker": {
         "name": "Francisco José Pereira de Lima (Preto Zezé)",
-        "position": "Presidente Global da Central Única das Favelas (CUFA)"
+        "position": "Presidente Global da Central Única das Favelas (CUFA)",
+        "slug": "francisco-jose-pereira-de-lima-preto-zeze"
       }
     },
     {
@@ -112,7 +121,8 @@
       "summary": "Ministra de Estado dos Povos Indígenas do Brasil participa de lançamento de frente parlamentar em defesa de favelas e cidadania de moradores; destaca importância de combatender violência e garantir segurança a essas comunidades, assim como aos povos indígenas e negros; anuncia criação da comissão da Amazônia, povos indígenas e comunidades tradicionais.",
       "speaker": {
         "name": "Sônia Guajajara",
-        "position": "Ministra de Estado dos Povos Indígenas do Brasil"
+        "position": "Ministra de Estado dos Povos Indígenas do Brasil",
+        "slug": "sonia-guajajara"
       }
     },
     {
@@ -122,7 +132,8 @@
       "transcription": "",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Ministra do Turismo se compromete a ajudar favelas por meio do turismo, prometendo emprego, renda, e parceria com a CUFA e frente parlamentar, além de estudar criação de moeda social do turismo, como a Mumbuca, em Maricá. Turismo visando quebrar barreiras e vencer preconceitos em favelas.",
       "speaker": {
         "name": "Daniela Carneiro",
-        "position": "Ministra do Turismo"
+        "position": "Ministra do Turismo",
+        "slug": "daniela-carneiro"
       }
     },
     {
@@ -144,7 +156,8 @@
       "summary": "Mestre de Cerimônias anunciou convidados para mesa: Ministra de Estado da Igualdade Racial, Secretário Executivo da Frente para o Desenvolvimento das Favelas, Ministras de Estado do Esporte e Cultura, Ministro da Secretaria Geral da República, e Ministra da Ciência e Tecnologia. Pediu que se acomodassem.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": "Presidente Global da CUFA agradece presentes em noite histórica com forte participação de favelas no Congresso Nacional, anunciando criação de Frente Parlamentar para abordar temas importantes como economia, orçamento e segurança, priorizando perspectivas de investimento e mudança de paradigma na visão do governo para as favelas.",
       "speaker": {
         "name": "Francisco José Pereira de Lima (Preto Zezé)",
-        "position": "Presidente Global da Central Única das Favelas (CUFA)"
+        "position": "Presidente Global da Central Única das Favelas (CUFA)",
+        "slug": "francisco-jose-pereira-de-lima-preto-zeze"
       }
     },
     {
@@ -166,7 +180,8 @@
       "summary": "Mestre de Cerimônias convidou ministros, saudou, mencionou ministro do Supremo Federal e cedeu palavra à ministra Tebet.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Ministra de Estado do Planejamento e Orçamento iniciou sua experiência atendendo favelas na faculdade. Trabalhou com habitação como vice-governadora e prefeita, e agora como ministra, promove o Favela no Mapa. Promete orçamento para políticas públicas e igualdade salarial entre homens e mulheres. Defende moradia digna e cidadania para moradores de favelas, com foco no PPA participativo e no orçamento de 2024.",
       "speaker": {
         "name": "Simone Tebet",
-        "position": "Ministra de Estado do Planejamento e Orçamento"
+        "position": "Ministra de Estado do Planejamento e Orçamento",
+        "slug": "simone-tebet"
       }
     },
     {
@@ -188,7 +204,8 @@
       "summary": "Mestre de Cerimônias registrou présências autoridades, inclui deputados federais e estaduais de diferentes estados, vice-prefeito de Maricá, vereadora do Pará, e vereador de Maricá. Anunciou a fala da Ministra de Estado da Igualdade Racial, Anieli Franco.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -199,7 +216,8 @@
       "summary": "Ministra de Estado da Igualdade Racial agradece convite, elogia iniciativa e fala sobre importância de representação dos moradores de favelas. Menciona desafios e dados sobre discriminação racial e violência. Destaca importância de protagonismo feminino e inclusão de jovens e negros em pautas estratégicas. Reconhece sua origem favelada e promete manter essa identidade na política.",
       "speaker": {
         "name": "Anielle Franco",
-        "position": "Ministra de Estado da Igualdade Racial"
+        "position": "Ministra de Estado da Igualdade Racial",
+        "slug": "anielle-franco"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Mestre de Cerimônias convidou ministra Ana Moser para falar, após ministra Ariele Franco.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -221,7 +240,8 @@
       "summary": "Ministra de Estado do Esporte considera esporte como inclusão e oportunidade profissional, mas não como única opção. Promove acesso à cidadania e integração social através do esporte, capacitando professores dentro da comunidade em Heliópolis, e visando formar cidadãos engagement com diferentes dimensões do esporte. Deseja estar presente na construção desse movimento e sucesso.",
       "speaker": {
         "name": "Ana Moser",
-        "position": "Ministra de Estado do Esporte"
+        "position": "Ministra de Estado do Esporte",
+        "slug": "ana-moser"
       }
     },
     {
@@ -232,7 +252,8 @@
       "summary": "Mestre de Cerimônias agradece Ministra de Esporte, registra presença de Secretário Nacional da Juventude e deputados federais. Pede para centralizar faixa da CUFA e chama presidente da CUFA para falar.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Fala Presidenta Nacional da CUFA, honrada por estar entre nós; favela é não carência, sim orgulho e coletividade; agradece presença de autoridades e lideranças de favelas; favela sempre resistiu e sobreviveu, agora mais empoderada e participando de esferas políticas; gratitude to Celso Ataíde for influencing her revolution concept.",
       "speaker": {
         "name": "Kalyne Lima",
-        "position": "Presidenta Nacional da Central Única das Favelas (CUFA)"
+        "position": "Presidenta Nacional da Central Única das Favelas (CUFA)",
+        "slug": "kalyne-lima"
       }
     },
     {
@@ -254,7 +276,8 @@
       "summary": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento anunciou a presença da deputada Daiana Santos e convidou a ministra Luciana Santos a falar.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -265,7 +288,8 @@
       "summary": "Ministra de Estado da Ciência, Tecnologia e Inovação saudou lideranças presentes, elogiou força de mulheres brasileiras e reafirmou compromisso do governo com a luta das favelas. Mencionou a retomada de programas como Minha Casa Minha Vida, saneamento básico e educação, além de enfatizar a necessidade de combater a alta taxa de juros para gerar emprego e investimentos nas favelas. Reafirmou homenagem à luta das mulheres negras brasileiras, encerrando com \"firme na luta\".",
       "speaker": {
         "name": "Luciana Santos",
-        "position": "Ministra de Estado da Ciência, Tecnologia e Inovação"
+        "position": "Ministra de Estado da Ciência, Tecnologia e Inovação",
+        "slug": "luciana-santos"
       }
     },
     {
@@ -276,7 +300,8 @@
       "summary": "Mestre de Cerimônias registra presença de ministra, deputado federal, e lideranças de Frente Favela Brasil e outras favelas; agradece a todos por comparecer; chama ministra de Estado da Cultura para falar.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -286,7 +311,8 @@
       "transcription": "",
       "speaker": {
         "name": "Margareth Menezes",
-        "position": "MInistra de Estado da Cultura"
+        "position": "MInistra de Estado da Cultura",
+        "slug": "margareth-menezes"
       }
     },
     {
@@ -297,7 +323,8 @@
       "summary": "Presidente Global da CUFA propõe mobilização cultural em favelas, incentivando acesso a recursos públicos do Ministério da Cultura para população sem CNPJ, priorizando regiões fora do eixo sul e sudeste.",
       "speaker": {
         "name": "Francisco José Pereira de Lima (Preto Zezé)",
-        "position": "Presidente Global da Central Única das Favelas (CUFA)"
+        "position": "Presidente Global da Central Única das Favelas (CUFA)",
+        "slug": "francisco-jose-pereira-de-lima-preto-zeze"
       }
     },
     {
@@ -307,7 +334,8 @@
       "transcription": "",
       "speaker": {
         "name": "Margareth Menezes",
-        "position": "MInistra de Estado da Cultura"
+        "position": "MInistra de Estado da Cultura",
+        "slug": "margareth-menezes"
       }
     },
     {
@@ -318,7 +346,8 @@
       "summary": "Mestre de Cerimônias agradeceu a presença de deputados e juízes, destacando a chegada do juiz André Nicote do STF, vindo de fundo popular. Pediu salva de palavra e chamou o ministro Dias Toffoli para falar.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -329,7 +358,8 @@
       "summary": "Ministro do Supremo Tribunal Federal falou sobre garantia de usucapião especial urbano, limites à ação policial em favelas, e apoio à luta por dignidade e respeito às comunidades.",
       "speaker": {
         "name": "José Antonio Dias Toffoli",
-        "position": "Ministro do Supremo Tribunal Federal"
+        "position": "Ministro do Supremo Tribunal Federal",
+        "slug": "jose-antonio-dias-toffoli"
       }
     },
     {
@@ -340,7 +370,8 @@
       "summary": "Mestre de Cerimônia saudou favelas e aglomerados e convidou rapper Augusto Metralha para performance. Boa noite.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -351,7 +382,8 @@
       "summary": "O participante fala sobre a frente parlamentar das favelas, representando o Brasil e suas comunidades. Ele valoriza a vida simples e enraizada na essência da favela, destacando a mãe forte, o diamante que surge da lama e a importância do respeito mútuo. Ele expressa seu orgulho em ser morador do Sol Nascente e deseja que as favelas cresçam, em vez de seus moradores as deixarem.",
       "speaker": {
         "name": "Augusto Metralha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "augusto-metralha"
       }
     },
     {
@@ -362,7 +394,8 @@
       "summary": "Mestre de Cerimônias apresentou deputados e ministro em evento do PPA.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -373,7 +406,8 @@
       "summary": "Ministro-Chefe da Secretaria-Geral da Presidência da República saudou participantes, agradeceu e elogiou lideranças, mencionou encontro com mulheres quilombolas, e destaque à inclusão de favelas e luta contra desigualdade social. Agora, foco em promover desenvolvimento, geração de emprego e renda.",
       "speaker": {
         "name": "Márcio Macêdo",
-        "position": "Ministro-Chefe da Secretaria-Geral da Presidência da República"
+        "position": "Ministro-Chefe da Secretaria-Geral da Presidência da República",
+        "slug": "marcio-macedo"
       }
     },
     {
@@ -383,7 +417,8 @@
       "transcription": "",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -394,7 +429,8 @@
       "summary": "Ministro de Estado dos Direitos Humanos e da Cidadania se dedica a fortalecer laços com favelas e apoiar pessoas em sofrimento, especialmente vulneráveis. Promete institucionalizar políticas de direitos humanos, articular com outros ministérios, e reduzir letalidade em favelas com políticas tangíveis.",
       "speaker": {
         "name": "Silvio Almeida",
-        "position": "Ministro de Estado dos Direitos Humanos e da Cidadania"
+        "position": "Ministro de Estado dos Direitos Humanos e da Cidadania",
+        "slug": "silvio-almeida"
       }
     },
     {
@@ -405,7 +441,8 @@
       "summary": "Mestre de Cerimônias agradece Ministro Estadual e convida deputadas Talíria Petroni, Juliana Cardoso e Célia Shake ao pódio.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -417,7 +454,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -429,7 +467,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -440,7 +479,8 @@
       "summary": "Mestre de Cerimônias convidou a atenção da platéia para o desfile de jovens das favelas, demonstrando que \"favela não é carência, favela é potência\". Apenas música de fundo com DJ.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -450,7 +490,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-musical"
       }
     },
     {
@@ -461,7 +502,8 @@
       "summary": "Mestre de Cerimônias refletiu sobre a realidade do pobre, comexistência de violência e alegria, referenciando as músicas \"Copo do Coacá\" e \"São de preto, de Fabrelado\".",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     },
     {
@@ -472,7 +514,8 @@
       "summary": "Favela progressou, gratidão ao público presente; evento marcado pela vitória da comunidade.",
       "speaker": {
         "name": "Sandro Lopes dos Santos (MC Meia Noite)",
-        "position": ""
+        "position": "",
+        "slug": "sandro-lopes-dos-santos-mc-meia-noite"
       }
     },
     {
@@ -483,7 +526,8 @@
       "summary": "Lançamento da frente parlamentar em defesa de favelas e cidadania de moradores. Agradecimentos e elogios a presidente e secretário executivo. Menciona prefeita da CUFA. Solenidade encerrada.",
       "speaker": {
         "name": "Anderson Quack",
-        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento"
+        "position": "Mestre de Cerimônias e Chefe da Assessoria de Participação Social e Diversidade do Ministério do Planejamento e Orçamento",
+        "slug": "anderson-quack"
       }
     }
   ],

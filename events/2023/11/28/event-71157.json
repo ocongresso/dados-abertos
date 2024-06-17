@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Coordenador de Projetos e Intérprete da Sra. Mariana de Lima Isaac: Mulher branca, 72 kg, usa óculos marrom, cabelo loiro, blusa verde e blazer azul. Propõe sessão deliberativa após audiência pública.",
       "speaker": {
         "name": "LUIZ CLÁUDIO DA SILVA SOUZA",
-        "position": "Coordenador de Projetos e Intérprete da Sra. Mariana de Lima Isaac leandro Campos"
+        "position": "Coordenador de Projetos e Intérprete da Sra. Mariana de Lima Isaac leandro Campos",
+        "slug": "luiz-claudio-da-silva-souza"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Coordenadora-Geral - Secadi: educação bilíngue para surdos, especial atenção a oralizados e diversas deficiências associadas. Diretoria trabalha no aprimoramento de estrutura física, infraestrutura pedagógica, currículo e materiais didáticos. Ação de fomento e formação para atender demandas específicas da educação especial. Nova comissão opera com entidades representativas, prestando atenção à diversidade de públicos surdos e especificidades de cada grupo.",
       "speaker": {
         "name": "MARIANA DE LIMA ISAAC LEANDRO CAMPOS",
-        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi"
+        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi",
+        "slug": "mariana-de-lima-isaac-leandro-campos"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "Ótimo, parabéns, obrigada. Esqueci até minha fala aqui do papel. É ótimo que aí vai do coração né?",
       "speaker": {
         "name": "MARIANA DE LIMA ISAAC LEANDRO CAMPOS",
-        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi"
+        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi",
+        "slug": "mariana-de-lima-isaac-leandro-campos"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Analista do MPF, apesar de nascida com Síndrome de GoldenHar e problemas auditivos, estudou em escolas regulares, se tornou uma excelente aluna e rejeitou restrições na escolha de carreira com ajuda de mãe, critica direcionamento de oralismo em detrimento da personalidade, especialmente em crianças surdas em fase de aquisição de linguagem, usando implante de condução óssea.",
       "speaker": {
         "name": "DIANA COSTA SAMPAIO",
-        "position": "Analista processual - Ministério Público Federal"
+        "position": "Analista processual - Ministério Público Federal",
+        "slug": "diana-costa-sampaio"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Representante da Associação Nacional Surdos Oralizados agradece convite e fala sobre importância de acessibilidade e tecnologia para surdos, exemplificando com caso de um menino chamado João. Destaca a necessidade de abordar fatores humanos, tecnologia básica e conectividade para uma educação adequada a estudantes surdos. Menciona o uso do sistema de microfone remoto e desafios na utilização da tecnologia em sala de aula.",
       "speaker": {
         "name": "REGINA TANGERINO DE SOUZA JACOB",
-        "position": "Representante - Associação Nacional Surdos Oralizados"
+        "position": "Representante - Associação Nacional Surdos Oralizados",
+        "slug": "regina-tangerino-de-souza-jacob"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -131,7 +141,8 @@
       "summary": "Cientista social e influenciadora digital, surda usuária de aparelhos auditivos, lidera maior comunidade digital sobre surdez no Brasil/Latino-América. Surdez tem graus variados, com acessibilidade e educação às vezes inadequadas e se baseando em mitos sobre sua prevalência. Recursos públicos frequentemente favorecem usuários de LIBRAS, excluindo outros surdos.",
       "speaker": {
         "name": "PAULA PFEIFER",
-        "position": "Cientista social e influencer digital"
+        "position": "Cientista social e influencer digital",
+        "slug": "paula-pfeifer"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Convidada deseja acessibilidade e suporte em escolas públicas de Brasília para pessoas com diferentes deficiências. Ela pede por professores especializados e manutenção regular de equipamentos auditivos. Ela também mencionou dificuldades com equipamentos bilíngues caros e a necessidade de suporte do governo.",
       "speaker": {
         "name": "SOPHIA LOPES",
-        "position": "Convidada"
+        "position": "Convidada",
+        "slug": "sophia-lopes"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "Coordenadora-Geral da Secadi enfatizou a importância da formação continuada para professores em estudos oralizados e temáticas diversas, em parceria com outras instituições. Ela encorajou o contato com a diretoria de política de educação especial para fomentar essa formação e solicitar o uso de tecnologias apropriadas nas escolas, buscando viabilizá-las junto às diretorias.",
       "speaker": {
         "name": "MARIANA DE LIMA ISAAC LEANDRO CAMPOS",
-        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi"
+        "position": "Coordenadora-Geral - Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - Secadi",
+        "slug": "mariana-de-lima-isaac-leandro-campos"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -200,7 +216,8 @@
       "summary": "Analista processual do Ministério Público Federal destacou:",
       "speaker": {
         "name": "DIANA COSTA SAMPAIO",
-        "position": "Analista processual - Ministério Público Federal"
+        "position": "Analista processual - Ministério Público Federal",
+        "slug": "diana-costa-sampaio"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -223,7 +241,8 @@
       "summary": "Representante da Associação Nacional Surdos Oralizados discutiu a necessidade de parceria entre universidades estaduais e federais para oferecer formação continuada à distância, desejando que houvesse uma constructiva discussão entre Ministério da Saúde e Educação, evitando dividir a comunidade de surdos oralizados.",
       "speaker": {
         "name": "REGINA TANGERINO DE SOUZA JACOB",
-        "position": "Representante - Associação Nacional Surdos Oralizados"
+        "position": "Representante - Associação Nacional Surdos Oralizados",
+        "slug": "regina-tangerino-de-souza-jacob"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -245,7 +265,8 @@
       "summary": "Cientista social e influencer digital discute importância de acesso à recursos de acessibilidade para surdos, questionando uso desigual de verbas públicas destinadas à população surda no Brasil. Destaca impacto econômico de perda auditiva não tratada e necessidade de acesso à saúde e educação para promover independência.",
       "speaker": {
         "name": "PAULA PFEIFER",
-        "position": "Cientista social e influencer digital"
+        "position": "Cientista social e influencer digital",
+        "slug": "paula-pfeifer"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Alguém pra votar",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Quatorze votos, doze para Biakiss como presidente, dois votos em branco. Bia Kiss assume presidência da comissão fiscalização financeira. Biakiss assimsegura maior eficiência na comissão com sua liderança e experiência de 2022. Agradecimentos e desejo de sucesso.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Aureo Ribeiro -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-aureo-ribeiro-por-participante-bia-kicis"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     }
   ],

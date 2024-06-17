@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Participante se referiu à comissão sobre desenvolvimento urbano, expressando gratidão e desejando sucesso à nova diretoria. Ele also mentioned their own legacy and the importance of improving the quality of life for Brazilians. They also expressed pride in being honored and gratitude for the kindness and attention shown to them. They reiterated their support and availability for future endeavors.",
       "speaker": {
         "name": "Celso Maldaner",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "celso-maldaner"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     }
   ],

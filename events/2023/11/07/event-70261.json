@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Max Lemos parabéns Flávia Morais por bom trabalho.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Flávia Morais -- por Participante -- Max Lemos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-flavia-morais-por-participante-max-lemos"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Encerramos trabalhos deliberando requerimentos importantes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Max Lemos -- por Participante -- Flávia Morais",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-max-lemos-por-participante-flavia-morais"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " Itaipu Binacional: 50 anos, 3 bilhões de MWh gerados, foco em sustentabilidade e mudando vidas no Paraná e Mato Grosso do Sul, além de fornecer energia limpa e renovável.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -67,7 +72,8 @@
       "transcription": "Vem registrar",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -89,7 +96,8 @@
       "transcription": "Eu convoco.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gleisi Hoffmann -- por Participante -- Dagoberto Nogueira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gleisi-hoffmann-por-participante-dagoberto-nogueira"
       }
     },
     {
@@ -100,7 +108,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -112,7 +121,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -124,7 +134,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": " Diretor-Geral da Itaipu - Brasil se dirige à Câmara de Deputados, homenageando Itaipu Binacional por meio século de existência. Reconhece crise no Rio Grande do Sul, expressando solidariedade e disponibilidade para ajudar. Falou sobre produção histórica de energia sustentável e ampliação de compromissos além da geração, com foco em ambiente, tecnologia e crescimento social. Itaipu é \"mais que energia\", garantindo desenvolvimento sustentável no Brasil e Paraguai.",
       "speaker": {
         "name": "ENIO JOSÉ VERRI",
-        "position": "Diretor-Geral da Itaipu - Brasil"
+        "position": "Diretor-Geral da Itaipu - Brasil",
+        "slug": "enio-jose-verri"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": " Itaipu Binacional: 50 anos de parceria Brasil-Paraguai. Agradecimento a convidados e equipe Itaipu. Relembrando contribuições técnicas e financeiras de Itaipu. Elogio à compreensão e solidariedade entre os dois países. Ótica positiva sobre o futuro da Itaipu.",
       "speaker": {
         "name": "JUSTO ARICIO ZACARÍAS IRUN",
-        "position": "Diretor-Geral da Itaipu - Paraguai"
+        "position": "Diretor-Geral da Itaipu - Paraguai",
+        "slug": "justo-aricio-zacarias-irun"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": " Itaipu: 50 anos de orgulho e colaboração Brasil-Paraguai. Homagea trabalhadores que construíram usina; exemplo de convivência pacífica.",
       "speaker": {
         "name": "LUIS FERNANDO PAROLI SANTOS",
-        "position": "Diretor Presidente da Empresa Brasileira de Participações em Energia Nuclear e Binacional – ENBPar"
+        "position": "Diretor Presidente da Empresa Brasileira de Participações em Energia Nuclear e Binacional – ENBPar",
+        "slug": "luis-fernando-paroli-santos"
       }
     },
     {
@@ -193,7 +209,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -205,7 +222,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -216,7 +234,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -227,7 +246,8 @@
       "summary": " Deputado fala sobre celebração de 50 anos de Itaipu Binacional, aumento de municípios impactados, investimento em meio ambiente e crescimento econômico sustentável; significado de 78 milhões de reais para Mato Grosso do Sul. Orgulho brasileiro em produção de energia limpa.",
       "speaker": {
         "name": "Vander Loubet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vander-loubet"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -250,7 +271,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -261,7 +283,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -273,7 +296,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -285,7 +309,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -297,7 +322,8 @@
       "speaker": {
         "id": 178934,
         "name": "Toninho Wandscheer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "toninho-wandscheer"
       }
     },
     {
@@ -309,7 +335,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     }
   ],

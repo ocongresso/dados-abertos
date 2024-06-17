@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Assumo",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reimont -- por Participante -- Raimundo Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reimont-por-participante-raimundo-santos"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Agradecimento por cartão recebido do deputado Raymond, esperando por resposta com os próprios.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Raimundo Santos -- por Participante -- Reimont",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-raimundo-santos-por-participante-reimont"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     }
   ],

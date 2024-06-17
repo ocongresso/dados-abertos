@@ -18,7 +18,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Apoiar microrrotinas e pequenas empresas importantes, com acesso limitado a financiamento de juros altos e restrições de crédito. Essas empresas têm alto retorno de capital, desempenho dinâmico na economia, geram emprego e são sensíveis às flutuações econômicas. Dificuldade em avaliar risco e garantias limitadas dificultam financiamento, que, quando obtido, ameniza flutuações de atividade e emprego.",
       "speaker": {
         "name": "GILBERTO RODRIGUES",
-        "position": "Chefe do Departamento de Pesquisa Econômica - Banco Nacional do Desenvolvimento - BNDES"
+        "position": "Chefe do Departamento de Pesquisa Econômica - Banco Nacional do Desenvolvimento - BNDES",
+        "slug": "gilberto-rodrigues"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente - Confederação Nacional das Microempresas e Empresas de Pequeno Porte - COMICRO destacou a importância do apoio dos parlamentares para pequenas empresas. Mencionou problemas financeiros enfrentados durante recessão e pandemia, alta taxa de endividamento de MEIs e a necessidade de renegociação de dívidas com juros reduzidos e prazo estendido. Propôs criação de \"desenrola da microempresa\" para ajudar micro e pequenos empresários a pagarem dívidas e retornarem ao mercado.",
       "speaker": {
         "name": "JOSÉ TARCÍSIO DA SILVA",
-        "position": "Presidente - Confederação Nacional das Microempresas e Empresas de Pequeno Porte - COMICRO"
+        "position": "Presidente - Confederação Nacional das Microempresas e Empresas de Pequeno Porte - COMICRO",
+        "slug": "jose-tarcisio-da-silva"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Ex-parlamentar e economista discutiu desafios de microfinanças no Brasil, mencionando modelo de Muhammad Yunus e ênfase na produção. Histórico e problemáticas do capitalismo abordados, com foco atual na situação econômica do Brasil, reforma tributária e legislação da micro e pequena empresa.",
       "speaker": {
         "name": "CARLITO MERSS",
-        "position": "Gerente de Políticas Públicas - SEBRAE Nacional"
+        "position": "Gerente de Políticas Públicas - SEBRAE Nacional",
+        "slug": "carlito-merss"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Diretor Executivo - Associação Brasileira de Instituições de Pagamentos - ABIPAG enfatizou controlar inflação, protéger vulneráveis e micro/pequenas empresas; elogiou Banco Central do Brasil por sucesso no controle inflacionário; destacou necessidade de acesso sustentável de micro/pequenas empresas ao crédito com boas práticas regulatórias.",
       "speaker": {
         "name": "VINICIUS CARRASCO",
-        "position": "Diretor Executivo - Associação Brasileira de Instituições de Pagamentos - ABIPAG"
+        "position": "Diretor Executivo - Associação Brasileira de Instituições de Pagamentos - ABIPAG",
+        "slug": "vinicius-carrasco"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Presidente de Fecomércio/SC discorre sobre desafios para empresários: altos juros e inflação, mercado informal, alta taxa de câmbio, falta de reforma tributária e alto custo de crédito. Empresários, especialmente micro e pequenas, sofrem com queda no indicador de confiança e aumento de endividamento e inadimplência. CMC representa maioria das empresas brasileiras e catarinenses.",
       "speaker": {
         "name": "HÉLIO DAGNONI",
-        "position": "Presidente - Fecomércio/SC"
+        "position": "Presidente - Fecomércio/SC",
+        "slug": "helio-dagnoni"
       }
     },
     {
@@ -131,7 +141,8 @@
       "transcription": "Bem,",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jorge Goetten -- por Participante -- Vitor Lippi",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jorge-goetten-por-participante-vitor-lippi"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "Presidente de Fecomércio/SC discorda da proposta de limite às compras parceladas no cartão de crédito; cita desafios do comércio atual com uso predominante de dinheiro eletrônico.",
       "speaker": {
         "name": "HÉLIO DAGNONI",
-        "position": "Presidente - Fecomércio/SC"
+        "position": "Presidente - Fecomércio/SC",
+        "slug": "helio-dagnoni"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -199,7 +215,8 @@
       "transcription": "Está aparecendo ou não? Estava sim, deixa eu ver novamente, agora não, saiu a apresentação, já voltou agora, OK. Eu vou tentar, eu vou colocála aqui no no modo de apresentação Pra ver se ela, o meu som continua, deputado? Tá OK, estou te ouvindo muito bem, obrigado. Tá. Tá. Tá. Tá. Obrigado. Obrigado. Bom deputado, eu queria queria antes de mais nada eu queria agradecer muito o convite de de estar aqui. Queria dizer que o nosso presidente, o Zackini, ele manda aí abraço pros senhores e só não pude comparecer com problemas de agenda. E eu, bem que enfim, queria cumprimentálos pela iniciativa, porque eu acho que esse é tema, De fato a ampliação do crédito às micro e pequenas empresas e a redução do seu custo, eu acho que é uma agenda Fundamental pro país e é tema que a gente tem se dedicado aqui, na na federação de bancos. Eu queria dizer que eu vou eu vou percorrer aqui eu vou falar mais especificamente sobre spread bancário, Portanto, não nível nominal dos juros, aqui temos representantes do Banco Central e sim pessoas Mais qualificadas, enfim, pra pra pra falar disso, doutor Vinicius já inclusive mencionou esse ponto. Vou falar dos bancário e vou falar especialmente do custo crédito para as pequenas e médias empresas e pretendo terminar com algumas propostas, né, que Ao nosso ver possam contribuir pra que isso, enfim, pra redução desse custo. Eu queria só, eu queria começar, só situando pouco onde estamos, esses números de algum modo foram mencionados pelo doutor Gilberto na primeira parte, Doutor Vinicius, né, mas falar como é que nós estamos em termos de crédito, né, essas são a as variações em doze meses do crédito para as pessoas No Brasil, esta curva vermelha, ela mostra justamente as as as pequenas, micro, pequenas e médias empresas, né? Temos aqui esse boom que foi o, né, da, na pandemia, programas públicos, temos aqui esse processo de desaceleração, Melhor participação dos bancos públicos e também a desaceleração da economia, em função do processo inflacionário, processo de elevação dos juros, Mas ainda assim vejam que na na ponta nós estamos falando de uma variação de dez por cento desse segmento contra uma média De três e meio, o encontro e contra uma variação de menos ponto dois, pras grandes empresas. Grandes empresas aqui tem tem Tem também aqui uma conteúdo aqui positivo que é o fato de que de fato tem grandes o acesso ao mercado de capitais, Então portanto elas acabam de algum modo acessando menos o mercado bancário e até como a gente Vai vai perceber que esses números já foram até colocados aqui de uma outra forma, mas assim, ficamos, é claro que nós estamos ainda no processo, Precisamos enfim melhorar bastante mas vejam que ao longo dos últimos anos nós temos uma O aumento na participação das pequenas e médias empresas no total do crédito, né. Então as grandes empresas de sessenta e três pra cinquenta e As médias empresas sobem de vinte e pra vinte e sete, no caso das pequenas de oito pra dezesseis, nas micro de fato a gente tem aqui uma, Felizmente a gente tem aqui uma redução. Aqui, eu acho que a gente tem de lado os programas públicos, doutor Gilberto mencionou com razão a questão Eu acho que esse é dos componentes, os programas, os outros programas que o governo adotou na pandemia também explicam isso. Mas acho que também E e que foi levantado, acho que pelo doutor Vinicius também, AAA0 mercado de capitais. O mercado de capitais é fundamental porque ele, Ao abrir esse espaço pra empresas médias e grandes, ele acaba justamente facilitando ou melhorando a entrada O mercado bancário para as empresas de pequeno porte, né? Ainda o passo que temos que dar no futuro é como Acessar né, como permitir que as empresas menores também acessem ao mercado de capitais, acho que isso é ponto importante também. Eu queria falar, adicionalmente, ainda sobre inadimplência, né? Veja que quando a gente olha os números absolutos, aqui, Nós temos aqui, primeiro, uma constatação, os números de inadimplência para as pessoas jurídicas são relativamente De baixos no Brasil ou pelo menos né no geral na média, quando a gente olha a distribuição a gente percebe que a gente tem Né? Nível mais alto que era desesperado, as micro e pequenas empresas que é uma inadimplência de quase quatro né, enfim nível É pouquinho acima do que era na pandemia, mas ainda abaixo do que já foi, né, em períodos anteriores, não é? E a gente vê uma bastante assimétricas pras grandes empresas com inadimplência enfim razoavelmente mais baixa. Quando a gente olha isso a divisão Aqui porque claro a gente tem as médias empresas aqui no Brasil, a gente vê que a diferença é maior ainda quando Faz essa segmentação. Veja o que essa curva vermelha é a curva das empresas, das pequenas empresas, Na na margem aqui nós estamos falando em sim, o melhor momento aqui após a pandemia três e meio e nós estamos falando aqui, veja isso Eu queria chamar atenção, acho que doutor Gilberto mencionou como de fato tem uma volatilidade e tem uma fragilidade financeira muito maior nesse segmento. Isso não é uma questão do Brasil, isso é uma questão que a gente encontra em todos os né, em todos os os países, mas o fato que este segmento aqui, Ele tem portanto uma uma fragilidade implícita, porque é natural, uma base de capital menor eventualmente né, uma, enfim, uma situação De de capital e de acesso a crédito, eventualmente exposição à competição maior, isso acaba gerando esse tipo de de fragilidade maior. Mas vejam que isto, né, isto não, portanto a gente tem de lado uma uma fragilidade maior, e a gente tem na ponta nível mais alto, Mas claro que isso explica pedaço? Acho que explica pedaço sim, acho que é razoável a gente esperar que taxas de juros sendo, sejam maiores Para as pequenas empresas, comparativamente às grandes empresas, que provavelmente nós temos como problema é que essa diferença é muito grande no nosso Então nós temos no Brasil spread né no spread total que é mais alto, temos também portanto diferencial que também é muito mais alto, isso que eu gostaria de, gostaria de explorar agora entrando mais diretamente no meu ponto, né, no ponto que eu queria trazer aqui aos senhores, né. Isso aqui, é as taxas de juros, a taxa de juros do prédio bancário para as pessoas jurídica, né? Vejam que nós estamos falando de número que é de vinte por cento, né, a taxa de juros nominal ao ano, Isso na ponta né, subiu em função aí do ciclo recente de aperto monetário né, mas ainda estamos falando aí desse dez pra vinte, E estamos falando aqui no spread que ele subiu de seis pra nove ponto né então vejam, nós estamos falando De uma taxa de juros de vinte ao ano e estamos falando de uma taxa de de nove ponto oito. É claro que este número é uma média, E este número inclui o que a gente sabe as taxas de juros no segmento livre de crédito e inclui também As taxas de juros no segmento direcionado. Portanto, ela é uma média, certo, e que mostra que, mas O custo total, vamos dizer assim, na média, para as empresas é esse, não é? Mas o que que acontece? Acontece E o fato de que eu vou mostrar aqui pros senhores, qual que é o nosso problema? O problema é que esta média, quando a gente olha no comparativo, A gente percebe que as taxas para as microempresas para as pequenas empresas são muito mais alto, né? Eu acho que este que eu acho que é o nosso grande, o nosso grande Desafio aqui é como fazer isso, né? Por que que nós estamos falando de uma diferença que é tão grande? Vejam, aqui eu estou falando da taxa de juros, Essa aqui é a diferença portanto, e aqui eu estou falando dos spread. Então nós estamos falando de spread médio total de pj nove, se Se nós formos contemplar que só às grandes empresas o número é ainda menor, quando a gente está falando de pequenas empresas vinte e três e as microempresas vinte e cinco. Digamos assim, o nosso grande desafio seria a gente tentar encontrar ou a gente tentar identificar quais são as razões, né? O que que a gente Pode fazer para que isso enfim para que essa diferença diminua né, porque ela se reduz ao máximo. Esses dados aqui de microempresas e de empresas de pequeno porte, apenas pra chamar atenção que de alguma maneira, quando nós Alguma garantia? Vejam aqui a aquisição de bens, nós estamos falando de taxas menores, está certo? Quando a gente olha aqui, e E quando a gente fala evidentemente aqui no pequeno porte a mesma coisa, e aqui claro, nós estamos falando do crédito direcionado que tem taxas e bem mais baixas também, Agora, o que que a gente pode, né, o como é que a gente pode, como é que a gente pode explicar, né, o 0 que que a gente Poderia fazer do ponto de vista de uma de uma redução desta enfim, desta diferença E aqui antes de de falar especificamente desta diferença, eu queria falar aos senhores sobre Essa decomposição dos prédio bancário, né? Esses são números do Banco Central, certo? Do Banco Central do Brasil E que é aquela, enfim, é uma decomposição contábil dos bancário. Quando o banco central faz essa decomposição, Eu estou pegando aqui a média de vinte a vinte e dois, né, e estou aplicando isso aos números. Aqui são, enfim, são números que a gente tem aqui, De junho de vinte e três, mas o que eu queria chamar atenção dos senhores é o seguinte, o spread bancário, como os senhores sabem, é a diferença entre os juros Os bancos cobram e os juros que eles captam recursos, né, pagam aos seus investidores, né. Muitas vezes não é o caso aqui, mas muitas vezes as pessoas confundem o spread bancário com a taxa com o lucro das instituições financeiras. Vejo que aqui dá pra gente perceber que dois prédio bancário, o quinto dos prédio bancário corresponde ao lucro das instituições financeiras, Essa parte aqui em verde, né? Nós temos tributos vinte e dois por cento, nós temos despesa administrativas de Vinte e oito e nós temos esse ponto aqui que é a inadimplência que corresponde a trinta por cento do spread bancário, né? Então vejam, no caso, ponto que a gente insiste, as taxas de juros são muito altas no Brasil, os spread bancários são muito altos no Brasil, Mas ponto que a gente vem insistindo né, é que nós temos infelizmente no Brasil custos elevados de intermediação financeira. Nós temos custos elevados que fazem com que a taxa de juros, né, que fazem com que o spread bancário seja levado. Dos pontos importantes, Quando a gente fala da inadimplência, a inadimplência tem além da digamos da perda, além da perda Absoluta vamos dizer assim da inadimplência do nível de inadimplência, e que vocês que os senhores viram, na média ele é, O nível ele é ele é baixo, embora ele seja mais alto do que de outros países, nos segmentos de pequena empresa ele é maior, o que era natural, não é? Mas além da inadimplência, nós temos no Brasil, nós temos uma taxa muito baixa de recuperação de garantias, né. Então vejam, Num comparativo mundial, né, se a gente pensar de cada dólar, nós estamos falando de cada real, nós estamos falando de ponto dezoito, né, dezoito Centers de recuperação do Brasil contra números bem mais elevados, mesmo nos países né, que são aqui os nossos vizinhos ou países comparáveis né, Não estou falando nem de países, Estados Unidos e tal. Ou seja, aqui é uma taxa muito baixa de recuperação de Dias e uma taxa baixa de recuperação de garantias implica numa taxa de juros de spread maior, né, porque o risco, né, de operação É maior, né? Nós estamos falando de, aqui tem vários exemplos, né? E de como você tem E como você acaba no final recuperando pouco e nos créditos mesmo com garantia você acaba não tendo o benefício Que a garantia lhe dá? O crédito né, como como os senhores sabem, nós estamos falando do risco né, do do cliente o risco mais a garantia. Quando a garantia é boa e quer dizer uma garantia que ela é executável no espaço de tempo, isso implica normalmente taxas menores, né. Vejam que aqui no Brasil nessa mesma comparação, o Brasil tem também, o Brasil tem Tempo maior de recuperação, né, o tempo alto elevado de recuperação, quatro anos, e o Brasil também tem custos razoavelmente elevados de recuperação de Então, vejam que aqui nós estamos falando de, né, de uma, de quadro em que a gente Tem estruturalmente spread mais alto e a gente tem especificamente, no caso Desse segmento das micro e pequenas empresas a gente tem spread, uma taxa de juros ainda mais alta. A gente como eu disse aqui na federação, a gente vem trabalhando, vem tentando né fazer sugestões pra que isso possa ser, Pra que se possa melhorar. E aqui, eu estou finalizando, nós chegamos aqui a dois, a duas, Dois grandes fatores que ao nosso ver podem ajudar bastante a a reduzir esse. Deles é reduzir o que a gente chama de assimetria de informações. Empresas grandes, empresas auditadas, Empresas que estão no mercado de capitais, elas têm os seus balanços auditados, demonstrações financeiras trimestrais, eles têm portanto uma Uma uma disponibilização muito grande das suas informações para investidores e para quem está concedendo crédito, né? Este não é o quadro que a gente tem no segmento de pequenas e médias empresas, então como é que a gente pode fazer pra melhorar isso? E ao mesmo tempo, Eu, eu também eu tive uma experiência com uma empresa média, os custos associados a você ter essa disponibilização de Não são baixos, você tem que pensar em processo de advogados, auditores, consultores, são custos elevados. Então, Como é que é possível que a gente possa reduzir essa parte né da da dos cultos? Então, nós colocamos aqui como uma das sugestões, Este acesso à base de dados da receita, isso é uma proposta que inclusive a gente apresentou para o, né, o Ministério da Fazenda, Inclusive o comigo nessa na última, nas medidas que ele apresentou, acho que isso é uma medida importante de você De alguma maneira facilitar o acesso das instituições e de quem está concedendo crédito, sejam bancos, sejam fintech, sejam gestoras A essa base de dar, a base de dados dos clientes, é claro que isso vai ser sempre feito com a necessária autorização O cliente, no caso da empresa, né, então isto aqui é uma primeira, uma primeira sugestão. A segunda sugestão é uma construção de uma base Foi centralizada de informações transacionais né, aqui estamos falando de pagamento, de PIX, toda essa base, mais uma vez veja como Autorização dos clientes e aqui qual que seria a ideia? A ideia aqui é que hoje em dia nas modelagens modernas de crédito, Funciona muito a questão do das das transações né, ou seja, você com isso consegue ter uma Uma precificação ou uma avaliação de risco muito importante, mas acurada. Então aqui seria a ideia de ter isto também, né, portanto, Ter acesso a essas informações mais uma vez, muito sempre com autorização do cliente. E nós pensamos também se não seria possível construir algum tipo de demonstração financeira mais simplificada em algum processo De auditoria também mais simplificado né, ou seja, como é que se poderia também facilitar e achamos que isso Pode ser que estejamos num bom momento pra fazer isso, porque as tecnologias, o acesso à informação, As modelagens, as bases de dados têm permitido que se avance muito neste neste processo né. Então aqui, Faria falando num primeiro num primeiro bloco né de de sugestões que seria como é que você melhora a qualidade da Sem que isso custe muito para as pequenas e me empresas. Então aqui seriam maneiras de, Né? De que essa informação seja mais acessível. Foi mencionado aqui, né, o Open Banking, o Open Banking é processo em construção, mas ainda eu acho que aqui nós estamos Falando de instrumentos que podem ser acoplados, podem ser colocados junto ao ao ao Open Banking, podem facilitar muito. Eu lembro que isto é uma medida extremamente importante do ponto de vista da competição também, né, na medida em que isto isto Seja disponibilizado, vamos dizer, isto vai facilitar o acesso ao mercado de crédito para novos, novos agentes novos players né assim então esse é o primeiro conjunto é a outra questão Eu acho que a gente sempre menciona, eu falei que os números de garantias no Brasil, a gente tem portanto no Brasil processo em que a gente Opera pouco as garantias, elas custam muito, demoram bastante e aí portanto aqui eu coloquei ilustrativamente a questão do quatro Oito oito, mas aqui a ideia maior é é assim, acho que esse é tema, uma pauta, isso está inclusive no na naquela iniciativa no mercado de Tais nós inclusive pela Febraman colocamos esse ponto né? Como é que você pode fortalecer o sistema de garantias, como é que você pode Permitiu uma facilitar uma recuperação maior né de crédito. E eu aqui quero lembrar o seguinte, a gente sempre menciona os Estados Unidos Como grande exemplo na questão do mercado de crédito, as taxas de juros, assim. Mas eu queria lembrar que os Estados Unidos também são exemplo neste sentido, da facilidade E que você recupera o crédito, né? A ideia de que portanto, e aqui, é claro, como você Recupera isso muito rapidamente, isto reduz muito o risco de quem está concedendo o crédito, e por conta disso as taxas de juros são muito menores. Então assim, é uma, vamos dizer, esse é caso típico em que você tem uma ao ao ter isso, e como a gente está falando de uma inadimplência que É expressiva, mas ainda é parcela muito reduzida. Você, ao ter este esse processo fortalecido, Você faz com que toda a economia possa trabalhar com taxas de juros menores, né. Então assim, esse é tema que que aqui tem Todo esse processo de recuperação que eu acho que é tema importante e por fim, eu acho que tem a questão dos fundos garantidores, Nós tivemos uma, nós tivemos aqui durante a pandemia, não é, nós tivemos essa experiência dos fundos Dos fundos garantidores e aqui eu estou falando né de, os fundos do BNDES, mas estou falando também do PRONAMP, estou falando diversas iniciativas, E se mostraram também muito importantes, por quê? Porque a gente sabe que primeiro que Que o segmento como a gente percebeu, ele tem níveis de inadimplência maior, tem níveis de risco mais altos, portanto, É importante que você tenha algum mecanismo que ele possa de alguma maneira Compensar esse risco mais alto. Agora, é importante que seja feito na linha de como a gente viu esses outros instrumentos, onde a gente está falando de Os compartilhados né, ou seja, você tem fundo, mas quem está, você tem pedaço do risco assumido pelo Mas você tem claro, o setor privado assumindo uma parte e muitas vezes uma parte relevante desse risco, Mas eu acho que aqui é é caso em que a gente deveria mesmo pensar, eu acho que não há antagonismo entre setor público setor privado, eu acho que a gente deveria buscar aqui sim uma uma uma complementariedade, se eu posso colocar desta maneira, Ela é em tempos normais ela é muito bemvinda, em tempos de crise ela é excepcionalmente bemvinda, E a gente sabe que quando acontecem crises como a gente vive na pandemia, o risco implícito ou o risco exante né, o risco Percebido é risco muito alto que faz com que o capital privado acabe se acabe se retraindo e aí aumenta muito A importância da participação desses fundos garantidores né que ajudam a a mitigar esse risco especialmente nesses momentos de crise né. Então, aqui, eu acho que já, eu já cheguei aqui ao ao final do meu tempo, eu queria portanto, Dizer primeiro cumprimentar essa, enfim, cumprimentar pela iniciativa, dizer que de alguma maneira nós Estamos tendo progresso nessa direção, né? Eu acho que a gente tem aumento nesse crédito, é claro que ele ainda é insuficiente. Quando a gente olha nos níveis de de de spreads bancários de taxa de juros, e aqui veja, não estou nem entrando na questão de de nível da Não, mas quando a gente está discutindo apenas o há o reconhecimento de que esse é alto, mas há uma uma colocação de nossa parte Nós temos custos muito elevados no Brasil de intermediação financeira, que são ainda maiores para as micro e pequenas empresas, E é por isso que a gente trouxe aqui essas propostas que ao nosso poder contribuir pra que a gente caminhe na direção de fechar esse né entre as Grandes empresas e entre a média e as minhas micro e pequena limpezas né? E que passam por melhoria da qualidade das informações, Pelo fortalecimento do sistema de garantia e com o aperfeiçoamento dos fundos garantidores de crédito. Isso que eu tinha que dizer Pois quero te agradecer, te dei tempinho a mais aqui",
       "speaker": {
         "name": "RUBENS SARDENBERG",
-        "position": "Diretor Executivo de Economia - Federação Brasileira de Bancos - Febraban"
+        "position": "Diretor Executivo de Economia - Federação Brasileira de Bancos - Febraban",
+        "slug": "rubens-sardenberg"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -221,7 +239,8 @@
       "transcription": "Deputado Vitor Lívia, agradeço muito o convite pro Banco Central estar aqui, acho que é importante esse debate sobre taxa de juros, é importante sobre debate sobre inflação, acho que esse não é tema tabu, não é tema tabu e não deve ser tema tabu nem pro Banco Central, nem pra qualquer agente público. Então agradeço o convite pra estar aqui e sem a apresentação vai entrar ainda, né? Eu eu trouxe uma apresentação rápida aqui só pra direcionar. Ok. Não, Não, acho que está bom aqui, eu não preciso ficar olhando para trás. Então a primeira coisa, eu acho que assim, a primeira A fala de abertura é o seguinte, todos na verdade todo mundo está que é a mesma coisa, todos nós queremos desenvolvimento sustentável com inflação baixa, que que fomente a atividade, o emprego, a renda e o bemestar financeiro do cidadão. A gente tem pode ter visões diferentes de como atingir esse objetivo, mas o objetivo é único todos nós. E aqui eu preciso fazer uma comentário, fazer reconhecimento de a contribuição, não só que o Governo Federal, na na figuro do Lula, na figura dos ministros Fernando Haddad, da ministra Simone Tebet, mas especialmente dessas casas aqui do congresso, tá? Aqui representado pelo deputado Vitor Nip, mas especialmente pelos presidentes Arthur Lira e Rodrigo Pacheco, a contribuição que tem dado pro arcabouço institucional do país e que tem permitido avanços. Os avanços podem ser não acontecer às vezes até na velocidade que nós gostaríamos, mas a gente não corrige idiossincrasias criadas em décadas num país complexo como o Brasil, em pouco o espaço de tempo. O importante é a gente continuar na direção correta e continuar com perseverança, perseguindo o objetivo. E nesse nesse contexto o Banco Central tem uma missão muito clara e a gente tem que desempenhado o nosso papel pra colaborar com esse esforço. Então, como até já citou o Vinicius aqui, Vinicius Carrasco, a a gente tem conseguido pelo Banco central, realizar o que a gente chama de pouso suave que é conseguir combater a inflação com o mínimo impacto possível no custo da atividade, no emprego e no crédito, que a apresentação vai trazer. E o cenário pra micro e pequenas empresas, tem melhorado lenta, mas decisivamente ao ao ao no decorrer dos anos. Então começando o Banco Central é órgão público, então como não não estamos na esfera do direito público, tu só podemos fazer aquilo que a lei nos autoriza e nos dá mandato. E nosso mandato é muito claro, é claríssimo, por falar a verdade. Nosso objetivo principal, e esse objetivo foi dado por este Congresso Nacional ao aprovar a lei complementar sete nove, é perseguir e assegurar a estabilidade de preço. Isso é o objetivo se pode do Banco Central em qualquer lugar do mundo, porque em todos os lugares do mundo, as pessoas têm consciência do custo que é a inflação, como bem disse o Vinícius, especialmente pras camadas mais pobres da população, mas também o custo da inflação na sua, na desorganização da economia, e o quanto ela cobra seu preço NA NA REDUÇÃO DO E NA CRIAÇÃO DO EMPREGO NA GERAÇÃO DE RENDA E CLARO MAS, NÓS TEMOS OBJETIVOS QUE SEM TRAZER PREJUÍZO AO PRINCIPAL zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade da economia e fomentar o pleno emprego. E aqui durante essa apresentação eu espero demonstrar que a gente está cumprindo todos eles. Em termos de como é que a gente cumpre isso? Bom, regime de meta para inflação. Por quê? Por que regime de meta para inflação? Porque é de longe o sistema de temas de política monetária mais testada e aprovada no mundo nas últimas três décadas. Então todos os países do mundo hoje relevantes usam o regime de metas pela inflação porque ele, lembrando, regime de metas que é órgão estabelece uma meta clara para a inflação com horizonte relevante à frente, isso e o outro órgão, no caso o Banco Central, cuida de implementar a política monetária para atingir aquela meta definida por pelo outro órgão que aqui no Brasil é o Conselho Monetário Nacional. Isso reduz o nível e a volatilidade, a variação da inflação, e com isso, reduz o custo do processo de inflação, eu preciso de uma Selic, ou uma taxa básica no Brasil a Selic menor para atingir o mesmo objetivo porque eu consigo quando ele é bem implementado esse regime ancorar a expectativa então se a nossa Expectativa ancorar a expectativa na meta. Se a nossa meta pros próximos três anos é de três por cento, se eu tiver as expectativas ancorada em três por cento, eu não vou ter uma inflação inercial e não vou ter reajustes ou ou remarcações de preço preventivas, prevendo uma inflação muito mais alto do que isso, se ela estiver ancorada em três por cento. Então com isso, me dá uma flexibilidade inclusive pra absorver choques, como foi o choque da pandemia como foi o choque na guerra na Ucrânia e acaba trazendo previsibilidade e transparência para realizações que o banco central vai tomar então elas não trazem surpresas à economia, tudo isso junto permite que as pessoas, os agentes econômicos se planejem, invistam e criam emprego e renda, mantendo a inflação baixa. Agora tudo isso depende de credibilidade. A gente não faz isso por decreto, as pessoas não seguem a vontade do Banco Central só porque o Banco Central diz que tem que ser assim. Então, eu tenho dois instrumentos básicos pra fazer isso. Eu tenho a taxa Selic que não é uma taxa na curva inteira de juros, a taxa Selic não impacta o juro daqui a ano, daqui a dois, daqui a três anos. A taxa Selic é a taxa de juros de dia, essa taxa eu consigo controlar. E eu tenho a comunicação. Então eu tenho a comunicação de política que eu tento fazer com que os agentes entendam e acreditem que a inflação vai convergir pra meta. Dentro Canadá no início dos anos noventa você vê como era a inflação antes e como é a inflação depois da barra a partir do da implementação do regime de metros pra Claro que no final do dos gráficos tem repique, que é o repique justamente da pandemia, mas você vê como a média da inflação caiu com o regime de metas da inflação, esse tá agora isso tem sido sucesso no Brasil se a gente pegar e acompanhar 000 gráfico no Brasil a gente vê que também a média a a inflação e aí a inflação está representada pelas barras e as linhas são a meta e o intervalo de tolerância pra cima e pra baixo. A inflação no Brasil também caiu, também caiu a partir da implementação do regime de metros de inflação no nosso caso há vinte e quatro anos atrás lá em noventa e nove e outras coisas que diz, mas mas aqui erra muito, a gente erra demais, foge muito da meta, na verdade não. Nesses vinte e quatro anos, o Brasil deixou de cumprir a meta de inflação sete vezes, que é mais ou menos a mesma coisa que acontece no resto da América Latina, o Chile deixou de cumprir oito vezes, a Colômbia oito vezes, o 0 Peru oito vezes, né? Ah mas esse esse resultado que você traz aí que parece ser interessante, não é a custa de uma Selic que não para de crescer? Na verdade não. Se a gente pegar pegando médias aí de quatro anos pra pra gente sair do assim do tempo presente pegando média de quatro se a gente pegar a média da Selic que era no de noventa e nove dois mil e doze dois mil e treze dois mil e seis e assim por diante, você vê que ainda hoje com a Selic que há pouco tempo estava onze ponto treze ponto setenta e cinco, lembrando assim só parênteses que a Selic no Brasil já esteve em quarenta e cinco por cento. Então hoje nós estamos em estávamos até recentemente treze e setenta e cinco agora estamos em treze e vinte e cinco. Mesmo com essa Selic, os últimos quatro anos, tem a Selic média mais baixa de todo o regime de meta da inflação, então na na tendência a Selic está caindo ao longo do tempo, então quer dizer que isso funciona, é é uma receita clara que funciona pra todo mundo, desde que você faça o certo. A Argentina por exemplo é exemplo de quem fez errado. Argentina seguiu caminho de questionar a autonomia do Banco Central de de simplesmente abandonar o regime de primeiro implicitamente, depois explicitamente, mudou as metas, reduziu os juros quando na verdade deveria subir e aí a gente tem o resultado da Argentina e de fato a Argentina nos mostra também o impacto da inflação pros mais pobres se você pegar de dois mil e dezessete quando a Argentina abandonou simplesmente o regime de meta da inflação até hoje, veja como cresceu a inflação no gráfico de cima e veja como a pobreza cresceu na mesma na mesma no mesmo período, saiu de vinte e cinco pra trinta e nove por cento o nível de pobreza na Argentina, pobreza extrema saiu de quatro ponto oito pra oito ponto isso tem total relação, relação direta com a a subida da inflação, então quer dizer, a a questão de que a inflação impacta mais os pobres não é teoria de livro texto, isso é prática e nós temos a prática aqui no a a prova aqui no nosso vizinho. Tá? Seguindo aqui, eu vou até pular esse slide por do meu tempo, mas é uma comparação de inflação no Brasil e no mundo, nós estamos mais ou menos no meio aí entre os países do G vinte, tá? Então alguém poderia dizer, poxa, mas a inflação já tá baixa aqui, por que que a gente não baixa a taxa Selic rapidamente agora e e frontalmente agora? Que foi alguma coisa até que é que o deputado Jorge trouxe por que que o juro real é tão alto porque há descasamento de política monetária dos seus a gente está vendo a inflação baixa agora não é por causa da treze e setenta e cinco e nós tivemos até duas semanas atrás nós estamos vendo por causa da da Selic que era dezoito meses essa Selic de hoje vai apresentar potência máxima do seu resultado daqui a dezoito meses então não dá para a gente tomar decisões de Selic pela inflação corrente a gente tem que tomar decisões pela inflação corrente pelo hiato do produto pela inflação que será no futuro e pelas expectativas ou seja da crença das pessoas e dos agentes de mercado de que a inflação de fato vai corrigir, convergir pro centro da meta. Então, nesse caso, abrindo pouquinho mais a inflação pra gente ter uma visão mais mais precisa aí a gente chega nos núcleos que até o Vinícius mencionou os núcleos eles tiro os componentes mais voláteis da inflação. Então se a gente for ver a inflação de fato hoje até já deu o repique e vai crescer mais até o final do ano porque estamos abandonando as deflação as deflações que nós tivemos em julho agosto setembro do ano passado então não acumular de 12 meses daqui para até o final do ano a inflação corrente vai crescer e não diminuir e nem por isso nós vamos aumentar a Selic porque novamente nós estamos usando a Selic agora com horizonte de dezoito meses à frente, não pra uma inflação que está todo mês agora. Mas você vê que os núcleos ainda estão em cinco ponto seis por cento a média dos núcleos não acumulados de doze meses. Então nós ainda temos uma inflação que é muito mais alta do a meta que nós temos hoje que é de três e vinte e cinco e de três por cento daqui a nos próximos três anos. Da mesma forma, se eu pegar e separar a inflação por seus componentes principais e aí eu pego assim, administrado serviço, bens industriais, alimentação do domicílio, esse nós temos boas e figuras boas e e mais ou menos nós temos uma boas figuras agora na alimentação do domicílio por conta de sazonalidade o preço tende AAA cair nesse nesses meses aqui é uma questão sazonal, mas os serviços, a inflação de serviço é uma inflação mais difícil de debelar, isso é historicamente em qualquer lugar do mundo, a inflação de serviço ainda está rodando alta. A inflação de administrados, que aqui inclui gasolina e e diesel, que hoje a Petrobras anunciou aumento também vai ter repique de alguns de 0 ponto quarenta na inflação desse ano dividido aí provavelmente entre agosto e setembro por conta dessa dessa mudança de preços. Então a inflação ainda não está não nos dá uma tranquilidade, seguindo aqui, especialmente por conta das expectativas, que é meu último gráfico sobre a as expectativas à frente ainda não estão ancoradas não estão ancorada no centro da meta de três por cento as estão em dois mil e vinte e cinco e vinte e seis elas estão digamos assim teimosamente desancoradas parcialmente desancoradas em três e meio por cento. Então é por isso que o Banco Central diz que a convergência da inflação agora e o COPOM tem reforçado a necessidade da gente perseverar como a polícia é uma política monetária ainda contracionista até que se consolide não apenas o processo de desinflação que a gente está vendo, mas também que se dê a ancoragem das expectativas da conta, porque aí eu tenho todo o poder do regime de meta da inflação entregue e com capacidade de reduzir a inflação. Mas aí a pergunta que se faz é o seguinte, ah mas e o Banco Central só está olhando a inflação e isso tem cobrado o seu preço em termo de atividade e de emprego, tá? Que é uma grande discussão que é a discussão eu permeia tudo na verdade, tá? Na verdade se a gente for pegar e recuperar o PIB histórico mais alto que nós já tivemos lá no primeiro trimestre de dois mil e quatorze, depois veio a grande depressão de quinze e dezesseis, todos aqui se lembram, nós vivemos a lembra? Depressão de quinze e dezesseis, o quanto difícil foi pra todas as empresas, especialmente pra micro e pequena e depois nós tivemos o pico, o V de da queda da pandemia e do retorno, hoje a atividade trazido tudo isso a valores presente real, o PIB está no nível mais alto da história e E sendo revisado pra cima. Então de fato a atividade ela continua crescendo, a atividade não entrou em depressão. E aliás eu tenho muita tranquilidade de falar nisso assim que o Banco Central não não mantém taxa de juros alta por prazer ou por o por sadismo porque eu eu sou membro do COPOM eu estava no COPOM há ano atrás quando a gente colocou a taxa Selic em treze ponto setenta e cinco mas eu também estava no COPOM há três anos atrás em agosto de de de dois mil e vinte, quando a gente colocou a taxa Selic em dois por cento, justamente porque era a taxa Selic necessária na época pra convergir a inflação pra meta que nos tinha sido dada, e pra evitar justamente uma depressão, causada pela pandemia preocupação com a atividade. Então, eu tive a felicidade como membro do COPOM de participar de ciclo de baixa, ciclos de alta, de estabilidade, então foi uma experiência completa no COPOM. Da mesma forma o emprego. Se a gente pegar emprego prépandemia lá em dois mil e que foi o vale de o assim o desemprego mais baixo que nós já tivemos no país, nós já estamos caminhando pro mesmo desemprego de dois mil e catorze. Então de fato o emprego também não não foi tão prejudicado. É isso que a gente tem chamado de pouso suave. Se a gente fizer uma comparação, saiu a apresentação. Então se a gente fizer uma rápida comparação entre países você vai ver na Barra Azul está quanto caiu a inflação aí no período de vinte vinte e dois e vinte e três e quanto sofreu atividade que é a barra laranja nos países você vê no Brasil nós derrubamos a inflação em oito ponto sete pontos percentuais e o PIB cresceu 0 na média dos emergentes a inflação caiu só ponto nove por cento e o PIB caiu quatro ponto quatro. Na média dos avançados a inflação caiu quatro por cento e o PIB caiu em média dois ponto quatro por cento então é isso que a gente chama de pouso suave no Brasil a gente tá conseguindo trazer baixar a inflação reduzir uma inflação que foi alta nos últimos anos por conta da dos choques inflacionários com uma custo menor pra atividade e consequentemente pro emprego. E aí já acelerando pro final, eu acho que Selic custo de crédito é interessante só mostrar isso aqui. Na última vez que a taxa Selic foi treze e setenta e cinco que era que a gente estava a a meia há duas semanas atrás foi em dezembro de dois mil e dezesseis você vê que o custo do crédito em de dois mil e dezesseis pra pessoas físicas em média e aqui eu estou falando só de crédito de taxa livre não estou nem colocando os direcionados que têm ainda assim mais baixo estou falando só de taxa livre pra pessoa física era setenta e por cento ao ano em média agora com a mesma nível de Selic estava em cinquenta e nove por cento então você vê uma queda de doze pontos percentuais com com o mesmo nível de Selic, o que mostra que o spread na não o spread mas o custo final do crédito no Brasil, por conta de reformas que foram aprovadas nessa casa aqui, aí você precisa reconhecer, essa casa tem sido assim, eu não eu diria parceiro do Banco Central, mas líder do processo de de convergência do Banco Central a uma ou de encaminhamento do Banco Central a a cenário mais parecido com o de uma economia avançada, essa casa nunca tem se furtado a a entregar as reformas que tem sido necessária e reformas apresentam resultados, isso que eu mostro. A taxa de pessoas jurídicas, pessoa jurídicas, era de duzentos e setenta e de vinte e oito por cento em média caiu para vinte e três, cinco pontos percentuais com o mesmo nível de taxa Selic, por conta de avanços institucionais que que o país experimentou. E aí assim, eu vou até passar por essa por que que os juros no Brasil são tão altos, e de fato são altos e eu não estou dizendo que esses juros são altos, são baixos, pelo contrário, esses precisam convergir mais pra baixo, e a gente desde que a gente siga nas reformas que estão sendo implementadas, e nesse caminho, que é caminho experimentado por todos os países do mundo, e que hoje que já foram em desenvolvimento, que hoje são avançados, e a gente vai se a gente se tiver perseverança seguir nesse caminho, a gente vai chegar no mesmo ponto, então o 0 Rubens já falou da taxa recuperação de crédito, mas a nossa poupança também é muito baixa, e quando você tem pouca poupança, você tem pouca disponibilidade de de de crédito vindo dessa poupança e o crédito fica mais caro. Você tem também a questão de a o nosso percentual de crédito direcionado é muito alto, ou ou seja, crédito direcionado é imune à taxa à política monetária, então aqui no Brasil nós temos quase quarenta e por cento de crédito direcionados, no México que é o mais próximo tem vinte e seis, né, nós temos também a questão do da nosso risco, riscopaís ainda é mais alto que e outros, lembrando que nós perdemos o grau de investimento e agora estamos fazendo o caminho de volta pra recuperálo. A dívida do governo é alta, e o governo é grande competidor por crédito, ou seja, o governo vai ao mercado tomar crédito, não é tomar crédito de banco, é tomar crédito de cada de nós tem dinheiro num fundo de aplicações, esse fundo que nós colocamos dinheiro, esse fundo vai lá e compra título do governo. Então a questão fiscal, quando a gente diz, ah qual Qual é o grande problema do fiscal? O fiscal dos grandes problemas dele, além de tirar a digamos assim a confiança na economia brasileira, é é que o governo se torna grande competidor de ir ao mercado buscar recurso, por isso que é tão importante as reformas e os digamos assim, as ações corajosas e ousadas até eu diria dentro do do contexto do ministro Fernando Haddad e da ministra Simone Tebet no no caminho de preservar pedir colocar o Brasil numa numa direção fiscalmente responsável e ao mesmo tempo socialmente justa. E por fim, só dois slides é a questão do cooperativismo que o banco central tem incentivado muito e que aí toca a questão do crédito você vê que no gráfico da mostra o crescimento da carteira de crédito nos últimos cinco anos até dezembro de vinte e dois, eu trouxe vinte e dois que era o número que eu tinha do REF tá? Então você vê que a linha laranja é o crescimento do sistema bancário sem cooperativa de crédito e o crescimento das cooperativas de crédito como foi absurdamente maior. E o cooperativismo tem foco muito em pequeno e médio e porque está lá no interior do país perto da pequena empresa. E se você for ver na nas barras da direita, o que é interessante chamarei atenção, você vê o cinza e os dois amarelos é é média, pequena e microempresa. Coopera quase que é totalmente direcionada a micro, pequena e média empresa, e mesmo os bancos, se você pegar essa linha aqui de sessenta e sete por você vê que o a barra cinza e amarela de baixo cresceu e entre dois mil e dezoito e dois mil e vinte e dois. Mesmo os bancos estão dando mais crédito, mais percentual da sua carteira de crédito, a micro, pequena e média empresa. O custo é adequado? Pode baixar muito mais? Certamente que pode se a gente perseverar nas nas mudanças. Micrédito por fim assim, que é crédito aí totalmente direcionado a micro, obviamente como o próprio nome diz, a gente teve nos últimos quatro anos crescimento do microcrédito apesar de ainda é patamar baixo tá e você vê que a Barra Azul é que eu chamo atenção do gráfico da direita o crescimento do crédito, é a carteira de crédito total de microcrédito de dois mil e dezenove a dois mil e vinte, na micro e na microempresa, cinquenta por cento de crescimento. Então na verdade por isso que eu digo aí a a situação a conjuntura em geral o cenário para pequena média micro pequena e média empresa vem melhorando, mas pode melhorar ainda muito mais, desde que nós sejamos perseverantes e aí eu acho que aqui eu concluo com com a questão de retornar a questão do pouso suave, de fato nós estamos como atender a inflação preocupados com a com a, e aliás uma última o comentário deputado Lipe, uma uma das maiores provas que nós consideramos a atividade ao desenvolver a política monetária foi justamente a reação do Banco Central ao choque trazido pela pandemia. A pandemia se os senhores se recordam jogou a inflação com a corrente muito pra cima e as expectativas de inflação muito desencorada, se o Banco Central tivesse colocado a taxa de juros Selic que era necessária aquela época pra convergir rapidamente a inflação pra meta, a Selic teria facilmente ultrapassado vinte por cento. Claro que o Banco Central não faria isso porque aí o que a gente chama de acomodar choque, eu vou acomodar o choque aceitar a inflação pouco mais alta por algum tempo mas ia fazer uma convergência mais longa, mais demorada pra inflação pra meta pra justamente não penalizar a atividade. E os números têm mostrado que nós temos sido bem sucedidos nisso, com obviamente a colaboração de todo o governo federal, do Congresso Nacional e dos agentes econômicos que tem direcionado pra isso pra uma situação melhor do que a gente tinha há alguns anos, mas eu diria que será ainda melhor nos próximos anos se a gente for perseverante e seguindo caminho que vários já adotaram com grande sucesso. Eu eu peço perdão pela por ter estourado o tempo deputado, mas agradeço muito a oportunidade.",
       "speaker": {
         "name": "MAURÍCIO COSTA DE MOURA",
-        "position": "Diretor de Relacionamento Cidadania e Supervisão de Conduta - Banco Central do Brasil"
+        "position": "Diretor de Relacionamento Cidadania e Supervisão de Conduta - Banco Central do Brasil",
+        "slug": "mauricio-costa-de-moura"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Presidente da CONAMPE discute dificuldades de microempresas em obter crédito com juros baixos, endividamento devido à pandemia e inflação. Sugiere revisar custo de dinheiro para pequenas empresas e reduzir taxas de juros, principalmente nos bancos públicos. Apóia redução gradual da Selic, mas não como única causa de altas taxas de juros. Menciona avanços da área financeira e debate necessity of spread discussion.",
       "speaker": {
         "name": "ERCÍLIO SANTINONI",
-        "position": "Presidente - Confederação das Micro e Pequenas Empresas e Empreendedores Individuais - CONAMPE"
+        "position": "Presidente - Confederação das Micro e Pequenas Empresas e Empreendedores Individuais - CONAMPE",
+        "slug": "ercilio-santinoni"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Diretor de Micro e Pequena Empresa e Empreendedorismo - MDIC ressalta importância de financiamento acessível e menor risco para pequenos negócios, critica juros altos no PRONAMP e no Brasil, propõe discussão sobre renda e soluções para diminuir juros, e deseja crescimento econômico com juros menores para pequenos negócios no Brasil.",
       "speaker": {
         "name": "JOAQUIM DONIZETE",
-        "position": "Diretor de Micro e Pequena Empresa e Empreendedorismo - Ministério do Desenvolvimento, Indústria Comércio e Serviços - MDIC"
+        "position": "Diretor de Micro e Pequena Empresa e Empreendedorismo - Ministério do Desenvolvimento, Indústria Comércio e Serviços - MDIC",
+        "slug": "joaquim-donizete"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -301,7 +326,8 @@
       "transcription": "Imagine com MBA Com MBA nem é Sil né que é moda agora né? Nem é cio. Bom, vou convidar.",
       "speaker": {
         "name": "CARLITO MERSS",
-        "position": "Gerente de Políticas Públicas - SEBRAE Nacional"
+        "position": "Gerente de Políticas Públicas - SEBRAE Nacional",
+        "slug": "carlito-merss"
       }
     },
     {
@@ -312,7 +338,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -323,7 +350,8 @@
       "summary": "Discurso focado em ouvir propostas e contribuir no Parlamento; Jorge, assume e agradece.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vitor Lippi -- por Participante -- Jorge Goetten",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vitor-lippi-por-participante-jorge-goetten"
       }
     },
     {
@@ -335,7 +363,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -347,7 +376,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     }
   ],

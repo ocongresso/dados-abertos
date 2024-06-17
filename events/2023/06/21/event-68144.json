@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Dr. Frederico",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-dr-frederico"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Gregos vivem no Brasil desde 182 years; atualmente, 50,000 gregos e descendentes; contribuíram para vida econômica, política e cultural do país. Lideranças gregas marcaram política brasileira.Refugiados da Ásia Menor estabeleceram-se no Brasil, contributing to comercio em São Paulo. Artes e ciências gregas também presentes no Brasil. Dia Nacional da Imigração Grega comemora contribuição grega no Brasil.",
       "speaker": {
         "name": "STAYROS KYRIOPOULOS",
-        "position": ""
+        "position": "",
+        "slug": "stayros-kyriopoulos"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Cultura grega marca nossa vida cotidiana, influenciando diversas áreas do conhecimento e introduzindo conceitos democráticos na civilização ocidental.",
       "speaker": {
         "name": "MATEUS CONSTANTIN PENNA",
-        "position": ""
+        "position": "",
+        "slug": "mateus-constantin-penna"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Reunião histórica sobre imigração grega no Brasil; agradecimentos a Deus, autoridades e comunidade grega; orgulho pela cultura grega; importância da igreja ortodoxa no Brasil. A Grécia é berço de civilização ocidental e influencia língua, arquitetura e arte brasileiras. Deseja aproximação Grécia-Brasil e conhecer relíquias sagradas gregas.",
       "speaker": {
         "name": "MICHAEL AFIF MAGUL",
-        "position": ""
+        "position": "",
+        "slug": "michael-afif-magul"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Chipre, antiga terra grega e cristã ortodoxa, dominada por muitos conquistadores, incluindo a Turquia. Hoje, é o país europeu com maior número de imigrantes per capita. Embaixador celebra chegada de imigrantes gregos ao Brasil e agradece lei que honra esforços de imigrantes mundiais.",
       "speaker": {
         "name": "EVAGORAS VRYONIDES",
-        "position": "Embaixador do Chipre"
+        "position": "Embaixador do Chipre",
+        "slug": "evagoras-vryonides"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Democracia, demagogia e nostalgia: conceitos gregos relacionados a migrantes.",
       "speaker": {
         "name": "IOANNIS TZÓVAS MOUROUZIS",
-        "position": ""
+        "position": "",
+        "slug": "ioannis-tzovas-mourouzis"
       }
     },
     {
@@ -178,7 +192,8 @@
       "summary": "Discurso do Embaixador do Chipre sobre a força da língua grega e sua influência no português, mencionando a migração grega e a recepção de imigrantes na Grécia atual. Ao celebrar a integração construtiva dos migrantes gregos no Brasil, incentiva a acolhida e inclusão de imigrantes.",
       "speaker": {
         "name": "EVAGORAS VRYONIDES",
-        "position": "Embaixador do Chipre"
+        "position": "Embaixador do Chipre",
+        "slug": "evagoras-vryonides"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     }
   ],

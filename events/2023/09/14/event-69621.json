@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Secretário Nacional de Participação Social da Presidência da República aborda importância de novos direitos, como ambientais, e minoritários; menciona PPA participativo para recompor programas e dar visibilidade a demandas sociais; destaca proposta de política nacional de controle populacional de cães e gatos, resultado de participação social.",
       "speaker": {
         "name": "RENATO SIMÕES",
-        "position": "Secretário Nacional de Participação Social da Presidência da República - Secretaria Nacional de Participação Social da Presidência da República"
+        "position": "Secretário Nacional de Participação Social da Presidência da República - Secretaria Nacional de Participação Social da Presidência da República",
+        "slug": "renato-simoes"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Criação Departamento Proteção Animal; reuniões técnicas com 604 pessoas produzindo relatório propostas proteção cães e gatos; garantir recursos programa manejo populacional ético 2024; necessário diálogo para expansão orçamentaria relacionado à questão animal e impacto ambiental.",
       "speaker": {
         "name": "VANESSA NEGRINI",
-        "position": "Diretora - Departamento de Proteção, Defesa e Direitos Animais do Ministério do Meio Ambiente e Mudança do Clima"
+        "position": "Diretora - Departamento de Proteção, Defesa e Direitos Animais do Ministério do Meio Ambiente e Mudança do Clima",
+        "slug": "vanessa-negrini"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Subsecretária de Proteção e Bem-Estar Animal do Estado do Rio de Janeiro:",
       "speaker": {
         "name": "CAMILA COSTA",
-        "position": "Subsecretária de Proteção e Bem-Estar Animal do Estado do Rio de Janeiro"
+        "position": "Subsecretária de Proteção e Bem-Estar Animal do Estado do Rio de Janeiro",
+        "slug": "camila-costa"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Vereador de Belo Horizonte discute importância de controle populacional de cães e gatos no Brasil, citando desafios e exemplos de outros países. Ela destaca a necessidade de politicas públicas efetivas, legislação e investimento nos programas de castração, com foco em proteger tanto animais como humanos contra doenças e zoonoses. Ela também menciona o exemplo de Belo Horizonte, com seus desafios e avanços, e expressa optimismo em vencer a batalha da proteção animal no Brasil.",
       "speaker": {
         "name": "WANDERLEY PORTO",
-        "position": "Vereador da cidade de Belo Horizonte"
+        "position": "Vereador da cidade de Belo Horizonte",
+        "slug": "wanderley-porto"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Presidente da ONG Paraná Contra Maus-Tratos enfatiza importância de vida digna para pets, destacando educação, controle populacional, e responsabilidade na posse. Relata experiência de resgate, culpa proprietário e hotel por maus-tratos, e exorta prefeitura e instituições a promoverem bem-estar de animais e prevenir maus-tratos.",
       "speaker": {
         "name": "ANDRESSA BIANCHESSI",
-        "position": "Presidente da ONG Paraná Contra Maus-Tratos - ONG Paraná Contra Maus-Tratos"
+        "position": "Presidente da ONG Paraná Contra Maus-Tratos - ONG Paraná Contra Maus-Tratos",
+        "slug": "andressa-bianchessi"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Promotora Ministério Público propõe lei nacional sobre manejo populacional de cães e gatos, abordando saúde humana, ambiental e animal. Atualmente, lei federal regulamenta apenas castração, enquanto lei de Minas Gerais é adequada e impulsionou trabalho do Ministério Público. Necessária legislação ampla para implementação de políticas públicas nos estados e municípios.",
       "speaker": {
         "name": "LUCIANA IMACULADA DE PAULA",
-        "position": "Promotora - Ministério Público"
+        "position": "Promotora - Ministério Público",
+        "slug": "luciana-imaculada-de-paula"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Representante da comissão de proteção animal OAB defende política de castração efetiva, mapamento e controle populacional canino/felino, impactando segurança pública e saúde mental. Ela considera castração fundamental, necessitando de programa constante, em vez de campanhas ocasionais. Cada parte interessada deve compreender e cumprir seus deveres em políticas públicas, com sociedade exigindo responsabilidade.",
       "speaker": {
         "name": "ANA PAULA DE VASCONCELOS",
-        "position": "Representante - Comissão de Proteção e Defesa Animal da OAB"
+        "position": "Representante - Comissão de Proteção e Defesa Animal da OAB",
+        "slug": "ana-paula-de-vasconcelos"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Presidente da ANAMMA saluta e elogia audiência pública sobre causa animal no Congresso. Salienta a importância de metas concretas e políticas públicas adequadas para os animais, especialmente cães e gatos errantes em municípios. Menciona exemplo de ativista em Alagoas sofrendo atentado por causa de seu trabalho. ANAMMA disponível para colaborar em políticas públicas.",
       "speaker": {
         "name": "MARÇAL FORTES SILVEIRA CAVALCANT",
-        "position": "Presidente - Associação Nacional de Municípios e Meio Ambiente - ANAMMA"
+        "position": "Presidente - Associação Nacional de Municípios e Meio Ambiente - ANAMMA",
+        "slug": "marcal-fortes-silveira-cavalcant"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Participante aborda importância de políticas para manejo de animais, elogia liderança de Vanessa e Renato Simões, menciona plano de manejo semelhante ao SUS, e destaca importância de incluir causa animal nas campanhas eleitorais.",
       "speaker": {
         "name": "MONTSERRAT BEVILAQUA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "montserrat-bevilaqua"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Participante destaca importância de controle populacional de animais, que vai além de cirurgia e inclui outros assuntos. Em Lafayette, MG, programa de castração seit 2013 mostrou resultados positivos após alguns anos. É necessária participação e compromisso de prefeitos e treinamento de médicos veterinários. Controle populacional deve ser programa federal abrangente, atingindo municípios e populações vulneráveis, como indígenas, quilombolas e após desastres.",
       "speaker": {
         "name": "CARLA SÁSSI",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carla-sassi"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -303,7 +328,8 @@
       "summary": "Participante é protetora de animais de Itaperuna e agradece o projeto RJ PET que reduziu animais em rua. Ela pede mais recursos para expandir o projeto a áreas rurais e cidades vizinhas, e destaca a importância de clínicas de apoio para castração e cuidados de emergência.",
       "speaker": {
         "name": "Cristiane",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "cristiane"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -326,7 +353,8 @@
       "summary": "Participante destaca importância da causa animal, com enfoase na organização \"Amor por Toda Vida\" que distribui alimentos a produtores de animais. Ela incentiva governos federal, estaduais e municipais a criar programas e projetos de proteção animal, além de destacar a necessidade de vacinação contra raiva em milhares de municípios. Ela expressa sua alegria por estar na audiência e acredita que se podem construir políticas públicas mais efetivas para todo o país.",
       "speaker": {
         "name": "SANDRO PIMENTEL",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sandro-pimentel"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -348,7 +377,8 @@
       "summary": "O participante destacou a necessidade de políticas públicas ambientais e de proteção aos animais, enfatizando a importância de hospitais veterinários e centros de zoonoses em cada cidade, além de ações para prevenir o maltrato animal e a poluição de recursos hídricos. Ele mencionou suas experiências anteriores em seu município, Campina Grande, e expressou seu apoio aos esforços para melhorar a situação atual.",
       "speaker": {
         "name": "ANTONIO BERNARDO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "antonio-bernardo"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -370,7 +401,8 @@
       "summary": "Participante trabalha com controle populacional de animais em Brasília, destacando dificuldades no processo de inscrição para castração, falta de orientação, acessibilidade para idosos e pessoas menos instruídas, e escassez de vagas para procedimentos.",
       "speaker": {
         "name": "JÉSSICA DE CARVALHO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jessica-de-carvalho"
       }
     },
     {
@@ -381,7 +413,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -392,7 +425,8 @@
       "summary": "Participante defende castração como prioridade em políticas públicas, destacando a necessidade do poder público cumprir seu papel e o engajamento de muitos apoiadores. Ela menciona a importância da castração para a saúde humana e animal, e sua alegria pela existência de um departamento de proteção animal em sua cidade.",
       "speaker": {
         "name": "VAL BARBIERI",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "val-barbieri"
       }
     },
     {
@@ -403,7 +437,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -414,7 +449,8 @@
       "summary": "Participante destaca importância da saúde como pauta central para mobilização e mudança de paradigma, incorporando saúde animal, humana e ambiental, com foco colaborativo e perspectiva de saúde única, incluindo microorganismos. Oferece apoio da sua instituição ao movimento.",
       "speaker": {
         "name": "CARLA CAMPOS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carla-campos"
       }
     },
     {
@@ -425,7 +461,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -449,7 +487,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     }
   ],

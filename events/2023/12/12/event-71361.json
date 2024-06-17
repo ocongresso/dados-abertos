@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Ministério da Saúde informa: lesões de trânsito causam milhares de mortes e internações anuais, com alto índice de motociclistas. Gravidade das lesões é alta, com 50% de óbitos imediatos. Estratégias efetivas incluem limite de velocidade em 50km/h, proibição de álcool ao dirigir e equipamentos de proteção. Também recomenda investimentos em infraestrutura e transporte coletivo.",
       "speaker": {
         "name": "LETÍCIA CARDOSO",
-        "position": "Ministério da Saúde"
+        "position": "Ministério da Saúde",
+        "slug": "leticia-cardoso"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Secretário Nacional de Trânsito destacou importância de medidas que garantem segurança no trânsito, especialmente fiscalização e gestão de velocidades, com base no PenaTRANS e no novo PNATRANS, para reduzir acidentes e mortes no Brasil. Também mencionou a necessidade de disseminar esses consensos para a população em geral.",
       "speaker": {
         "name": "ADRUALDO CATÃO",
-        "position": "Secretário Nacional de Trãnsito"
+        "position": "Secretário Nacional de Trãnsito",
+        "slug": "adrualdo-catao"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Secretaria Nacional de Trânsito fala sobre a importância do Projeto de Lei sobre mobilidade urbana e segurança no trânsito, relacionado à Lei Federal 12.965. Destaca a necessidade de uma mobilidade sustentável, cidade voltada para as pessoas, segurança no trânsito, priorizando transporte público e modais não motorizados. Menciona desafio do Ministério de Cidades em ajudar prefeituras com mobilidade urbana e compromisso em capacitar municípios para transformação do ambiente urbano.",
       "speaker": {
         "name": "MARCOS DANIEL  DOS SANTOS",
-        "position": "Secretaria Nac. de Trânsito"
+        "position": "Secretaria Nac. de Trânsito",
+        "slug": "marcos-daniel-dos-santos"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Observatório Nacional de Segurança Viária agradece iniciativa sobre segurança no trânsito, reafirma sua missão de reduzir mortes e lesões, atuando em pesquisa, impacto social e advocacia. Apóia projeto de redução de velocidade nos transportes, destacando velocidade como fator de risco e Brazil como terceiro país mais violento do mundo. Compareza à meta da ONU e salve mais vidas no trânsito.",
       "speaker": {
         "name": "RODRIGO RIBEIRO",
-        "position": "Observatório Nac.Segurança Viária"
+        "position": "Observatório Nac.Segurança Viária",
+        "slug": "rodrigo-ribeiro"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "WRI Brasil apoia projeto de lei reduzir limites de velocidade no Brasil, objetivando diminuir acidentes, fatalidades e trazer benefícios econômicos. Exemplos de Fortaleza e Bogotá demonstram redução de sinistros com implementação de limites reduzidos.",
       "speaker": {
         "name": "BRUNO RIZZON",
-        "position": "WRI Brasil"
+        "position": "WRI Brasil",
+        "slug": "bruno-rizzon"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Aumento mortes motocicletas, queda atropelamentos, controlar velocidade crucial, mortalidade caiu mas resultado pode ser enganoso por crise econômica, necessário políticas públicas em educação, infraestrutura e tecnologia, fundos para reduzir mortes no trânsito diminuíram, apoio proposta lei fiscalização velocidade. (Inst. Pesquisa Econômica)",
       "speaker": {
         "name": "CARLOS HENRIQUE CARVALHO",
-        "position": "Inst. Pesquisa Econômica Aplicada"
+        "position": "Inst. Pesquisa Econômica Aplicada",
+        "slug": "carlos-henrique-carvalho"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -210,7 +227,8 @@
       "summary": "Tecnico em Segurança Viária - Organização Pan-Americana da Saúde abordou importância de controlar velocidade para reduzir acidentes, questionou eficácia de sistemas de conscientização e enfatizou controle eletrônico. Apresentou relatório global de segurança no trânsito, com foco em Década de Ação e exemplo do Brasil com redução de 25% em mortes por melhoria na participação da sociedade civil, governos e informações epidemiológicas.",
       "speaker": {
         "name": "VICTOR PAVARINO",
-        "position": "Tecnico em Segurança Viária - Organização Pan-Americana da Saúde"
+        "position": "Tecnico em Segurança Viária - Organização Pan-Americana da Saúde",
+        "slug": "victor-pavarino"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Aumento significativo de mortes por sinistro de trânsito envolvendo motocicletas nos últimos 25 anos. Inst. Pesquisa Econômica Aplicada propõe legislação mais efetiva sobre velocidade e fiscalização do uso de recursos públicos para melhorar o trânsito e reduzir mortes.",
       "speaker": {
         "name": "CARLOS HENRIQUE CARVALHO",
-        "position": "Inst. Pesquisa Econômica Aplicada"
+        "position": "Inst. Pesquisa Econômica Aplicada",
+        "slug": "carlos-henrique-carvalho"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     },
     {
@@ -280,7 +303,8 @@
       "summary": "A Secretaria Nacional de Trânsito encouraja a segurança e uso de bicicletas em cidades, destacando a importância de intervenções além de ciclovias, como redução de velocidades, iluminação pública e design viário. Ela incentiva gestores e interessados a experienciar a mobilidade de bicicleta para comprendê-las melhor. Os benefícios da bicicleta incluem salvar vidas e melhorar a qualidade de vida nas cidades.",
       "speaker": {
         "name": "MARCOS DANIEL  DOS SANTOS",
-        "position": "Secretaria Nac. de Trânsito"
+        "position": "Secretaria Nac. de Trânsito",
+        "slug": "marcos-daniel-dos-santos"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204457,
         "name": "Juninho do Pneu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "juninho-do-pneu"
       }
     }
   ],

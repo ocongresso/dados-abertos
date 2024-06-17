@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Primeiro lugar gostaria de primeiro agradecer a Deus. Agradecer ao meu partido,",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -47,7 +50,8 @@
       "summary": " Reunião de comissão financeira instalada; disputa pela presidência entre deputado Mário Negro Monte Júnior do PP-BA e voto em branco; voto eletrônico com sistema de carteira e identificação biométrica; sistema registra voto em primeiro escrutínio com maioria absoluta ou em segundo com maioria simples, contando voto em branco apenas para quórum; empate no segundo escrutínio, vence o candidato com mais legislaturas; votação em andamento.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "Primeiro lugar gostaria de primeiro agradecer a Deus. Agradecer ao meu partido,",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Paulo Guedes -- por Participante -- Mário Negromonte Jr.",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-paulo-guedes-por-participante-mario-negromonte-jr"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 204450,
         "name": "Doutor Luizinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "doutor-luizinho"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     }
   ],

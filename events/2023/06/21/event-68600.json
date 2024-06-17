@@ -18,7 +18,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Movimento UFRJ Não Está à Venda aponta projeto valorização patrimônio como ameaça à universidade pública, desvinculando-a do povo e levando à redução do papel universitário e privatização de fundo público. Isso é parte de um plano maior, Futurese, que transfere financiamento universitário para o mercado e cede patrimônio. É preciso defender recursos públicos para universidade continuar desempenhando função social, pesquisa e ensino conectados à sociedade.",
       "speaker": {
         "name": "Marinalva Silva Oliveira",
-        "position": "Movimento UFRJ Não Está à Venda"
+        "position": "Movimento UFRJ Não Está à Venda",
+        "slug": "marinalva-silva-oliveira"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "UFRJ privatization process irregular: illegal land donation, non-transparent subcontracts, secret contract information, unjustified renewals, lack of legal authorization for property grant, and insufficient compensation.",
       "speaker": {
         "name": "Carlos Vainer",
-        "position": "Coordenador - Núcleo Experimental de Planejamento Conflitual da UFRJ"
+        "position": "Coordenador - Núcleo Experimental de Planejamento Conflitual da UFRJ",
+        "slug": "carlos-vainer"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Professor da Escola de Educação Física e Desportos da UFRJ expressou preocupação com:",
       "speaker": {
         "name": "Waldir Ramos",
-        "position": "Professor - Escola de Educação Física e Desportos da UFRJ"
+        "position": "Professor - Escola de Educação Física e Desportos da UFRJ",
+        "slug": "waldir-ramos"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Cineasta documenta oposição a construção de casa de show em universidade, causando invasão de área verde e impacto ambiental negativo. Contrato duvidoso, artistas mal informados sobre impacto no antigo Canecão. Protesto em nome da sociedade civil por boa gestão do patrimônio público universitário.",
       "speaker": {
         "name": "Silvio Tendler",
-        "position": "Cineasta"
+        "position": "Cineasta",
+        "slug": "silvio-tendler"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Atriz, diretora e produtora cultural debateia sobre integridade do campus UFRJ em Presidente Prudente; quer estender espetáculo sobre resistência na Amazônia a universidades e ensino médio; defende campus contra projeto do BNDES que atrapalha ensino e ocupa área pública; questiona irregularidades no processo; apela à pressão popular e à revisão dos contratos pelo BNDES; encerra falando sobre consciência ambiental e destruição no Rio de Janeiro.",
       "speaker": {
         "name": "Lucélia Santos",
-        "position": "Atriz, diretora e produtora cultural"
+        "position": "Atriz, diretora e produtora cultural",
+        "slug": "lucelia-santos"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Professor-Decano do CFCH preocupado com impacto do \"Vivo UFRJ\" no espaço acadêmico; solicita mais diálogo, tempo para debate, consideração de impactos ambientais e de trânsito, e questiona modelo de governança. Autonomia universitária e participação na tomada de decisões são defendidas. Corpo social do CFH majoritariamente se opõe ao equipamento cultural proposto.",
       "speaker": {
         "name": "Vantuil Pereira",
-        "position": "Professor - Decano do Centro de Filosofia e Ciências Humanas - CFCH"
+        "position": "Professor - Decano do Centro de Filosofia e Ciências Humanas - CFCH",
+        "slug": "vantuil-pereira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Diretório Central dos Estudantes Mário Prata/UFRJ critica projeto que entrega campus à iniciativa privada, sem participação estudantil na sua elaboração ou transparência sobre as contrapartidas. Denunciam ausência da reitoria em debates e oposição à privatização, propondo alternativas de financiamento público, como a reabertura do Canecão como espaço cultural multiuso. Exigem recomposição do orçamento público para priorizar assistência estudantil.",
       "speaker": {
         "name": "Isadora Pereira de Arruda Camargo",
-        "position": "Diretório Central dos Estudantes Mário Prata/UFRJ"
+        "position": "Diretório Central dos Estudantes Mário Prata/UFRJ",
+        "slug": "isadora-pereira-de-arruda-camargo"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Presidente do Sindicato Nacional dos Docentes do Ensino Superior denuncia tentativa de privatizar patrimônio UFRJ, critica projeto que utiliza assistência estudantil como moeda de troca, alerta para ligação entre aprovação arcabouço fiscal e limites orçamento educação, defende luta unificada para fortalecer educação pública e combater lógica privatizante.",
       "speaker": {
         "name": "Rivânia Moura",
-        "position": "Presidente - Sindicato Nacional dos Docentes do Ensino Superior"
+        "position": "Presidente - Sindicato Nacional dos Docentes do Ensino Superior",
+        "slug": "rivania-moura"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "FASUBRA Sindical abordou financiamento universitário na UFRJ, apontando queda de mais de 50% no orçamento discricionário desde 2013, impactando ensino e pesquisa. Sua proposta é recompor orçamento das universidades públicas e mudar modelo de gestão, promovendo transparência e participação democrática. FASUBRA também apoia a comunidade universitária da UFRJ em suas ações para garantir patrimônio público da universidade.",
       "speaker": {
         "name": "Mário Costa de Paiva Guimarães Júnior",
-        "position": "FASUBRA Sindical"
+        "position": "FASUBRA Sindical",
+        "slug": "mario-costa-de-paiva-guimaraes-junior"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -236,7 +255,8 @@
       "summary": "Sindicato dos Trabalhadores em Educação da UFRJ saudou iniciativa de audiência pública, criticou reitoria por não promover diálogo e ausência em audiência, reafirmou compromisso com autonomia universitária e democracia, questionou processo de decisão e falta de consulta à comunidade no projeto \"valorização do patrimônio\", exigiu garantias de diálogo e democracia na universidade.",
       "speaker": {
         "name": "Marta da Silva Batista",
-        "position": "Sindicato dos Trabalhadores em Educação da UFRJ"
+        "position": "Sindicato dos Trabalhadores em Educação da UFRJ",
+        "slug": "marta-da-silva-batista"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -307,7 +332,8 @@
       "summary": "Movimento UFRJ Não Está à Venda:",
       "speaker": {
         "name": "Marinalva Silva Oliveira",
-        "position": "Movimento UFRJ Não Está à Venda"
+        "position": "Movimento UFRJ Não Está à Venda",
+        "slug": "marinalva-silva-oliveira"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -329,7 +356,8 @@
       "summary": "O Presidente do Sindicato Nacional dos Docentes do Ensino Superior propôs uma audiência pública sobre privatização na educação, especialmente no ensino superior. Ele também pediu a eliminação da lista tríplice e a remoção de interventores em instituições de ensino superior, além de um dia nacional de luta para revogar o novo ensino médio.",
       "speaker": {
         "name": "Rivânia Moura",
-        "position": "Presidente - Sindicato Nacional dos Docentes do Ensino Superior"
+        "position": "Presidente - Sindicato Nacional dos Docentes do Ensino Superior",
+        "slug": "rivania-moura"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -351,7 +380,8 @@
       "summary": "Atriz, diretora e produtora cultural se diz agradecida por convite, elogia reunião e pessoas presentes; se oferece a ajudar na interrupção do processo de privatização do campus UFRJ; menciona peça sobre Chico Mendes e mulheres como algo profundo e relevante; expressa sua oposição ao machismo no Brasil; agradece novamente e faz saudações finais.",
       "speaker": {
         "name": "Lucélia Santos",
-        "position": "Atriz, diretora e produtora cultural"
+        "position": "Atriz, diretora e produtora cultural",
+        "slug": "lucelia-santos"
       }
     },
     {
@@ -362,7 +392,8 @@
       "summary": "Diretório Central dos Estudantes Mário Prata/UFRJ: Luta por inclusão no campus, denúncia barreiras à expressão cultural e apoia pautas nacionais, como revogação de arcabouço fiscal e manutenção do PNAIS.",
       "speaker": {
         "name": "Isadora Pereira de Arruda Camargo",
-        "position": "Diretório Central dos Estudantes Mário Prata/UFRJ"
+        "position": "Diretório Central dos Estudantes Mário Prata/UFRJ",
+        "slug": "isadora-pereira-de-arruda-camargo"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "FASUBRA Sindical discursou em ABC, solidárias em luta contra privatização de ensino superior, participará audiência pública sobre isso. Convida para live às 19h do Glauber, organizada por comitês estaduais contra nova BNCC. Suplica inclusão técnico como candidato a reitor e reitora, alteração do artigo 56 da LDB para conselhos paritários. Pedido de inclusão dessas reivindicações na articulação com deputado Tarcísio para avançar na democratização da universidade.",
       "speaker": {
         "name": "Mário Costa de Paiva Guimarães Júnior",
-        "position": "FASUBRA Sindical"
+        "position": "FASUBRA Sindical",
+        "slug": "mario-costa-de-paiva-guimaraes-junior"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -408,7 +442,8 @@
       "summary": "Coordenador - Núcleo Experimental de Planejamento Conflitual da UFRJ comentou sobre ataques ao espaço e patrimônio público no Rio de Janeiro, como a proposta de privatização de imóveis e terrenos públicos. Propôs que a comissão solicite informações detalhadas de órgãos públicos envolvidos em um projeto obscuro e silencioso, incluindo contratos, termos aditivos, relatórios e atas de reuniões, para garantir transparência.",
       "speaker": {
         "name": "Carlos Vainer",
-        "position": "Coordenador - Núcleo Experimental de Planejamento Conflitual da UFRJ"
+        "position": "Coordenador - Núcleo Experimental de Planejamento Conflitual da UFRJ",
+        "slug": "carlos-vainer"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -431,7 +467,8 @@
       "summary": "Sindicato dos Trabalhadores em Educação da UFRJ apoia luta contra projeto que exclui técnicos administrativos de cargos de gestão; critica retrocesso na UFRJ e incentiva ação na reunião na PV.",
       "speaker": {
         "name": "Marta da Silva Batista",
-        "position": "Sindicato dos Trabalhadores em Educação da UFRJ"
+        "position": "Sindicato dos Trabalhadores em Educação da UFRJ",
+        "slug": "marta-da-silva-batista"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     }
   ],

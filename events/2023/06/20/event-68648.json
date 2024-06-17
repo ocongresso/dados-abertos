@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -59,7 +63,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "Bom dia. Agora",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": "Secretária de Estado do Entorno do Distrito Federal (SEDF) se referiu à importância do SUS, principalmente na atenção básica. Ela elogiou o deputado Zacarias Kalil e Eduardo Velloso por sua defesa do sistema de saúde e mencionou um novo hospital no estado de Goiás para tratamento de câncer infantil. Ela parabenizou as pessoas envolvidas na vigésima terceira cirurgia bem-sucedida e desejou mais sucessos no futuro.",
       "speaker": {
         "name": "Maria Caroline Fleury De Lima",
-        "position": "Secretária de Estado do Entorno do Distrito Federal – SEDF"
+        "position": "Secretária de Estado do Entorno do Distrito Federal – SEDF",
+        "slug": "maria-caroline-fleury-de-lima"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Hospital Estadual da Criança e do Adolescente fornece atendimento completo e humanizado para crianças e adolescentes com alta complexidade, se destacando em fissuras labio palatinas, hemagiomas, gêmeos siameses, e abusos sexuais. Oferece 116 leitos, 30 em UTI, 20 especialidades médicas pediátricas, além de áreas de lazer e serviços de apoio. Anualmente, realiza 150 mil atendimentos, 5 mil cirurgias, 352 mil exames e 48 mil consultas.",
       "speaker": {
         "name": "Fabiana Lopes Dos Santos",
-        "position": "Diretoria Assistencial do Hospital Estadual da Criança e do Adolescente – HECAD"
+        "position": "Diretoria Assistencial do Hospital Estadual da Criança e do Adolescente – HECAD",
+        "slug": "fabiana-lopes-dos-santos"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -138,7 +149,8 @@
       "summary": "Mãe das Gêmeas Heloá e Valentina agradece a Deus, equipe do hospital e médico por excelente recuperação de suas filhas, graças ao SUS. Sem ele, não teriam conseguido pagar cirurgia. Sempre foi positiva sobre a separação das gêmeas.",
       "speaker": {
         "name": "Waldirene Carmelita Do Prado",
-        "position": "Mãe das Gêmeas Heloá e Valentina"
+        "position": "Mãe das Gêmeas Heloá e Valentina",
+        "slug": "waldirene-carmelita-do-prado"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -232,7 +251,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Eduardo Velloso -- por Participante -- Dr. Zacharias Calil",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-eduardo-velloso-por-participante-dr-zacharias-calil"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -277,7 +300,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Zacharias Calil -- por Participante -- Eduardo Velloso",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-zacharias-calil-por-participante-eduardo-velloso"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -312,7 +338,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -323,7 +350,8 @@
       "summary": "Prefeito de Morrinhos cumprimenta participantes de sessão solene, menciona história de família que se mudou de SP para Goiás para tratamento médico e agradece equipe que ajudou. Elogia SUS e pede apoio a Congresso para melhorá-lo.",
       "speaker": {
         "name": "Joaquim Guilherme Barbosa de Souza",
-        "position": "Prefeito de Morrinhos"
+        "position": "Prefeito de Morrinhos",
+        "slug": "joaquim-guilherme-barbosa-de-souza"
       }
     },
     {
@@ -335,7 +363,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -347,7 +376,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     }
   ],

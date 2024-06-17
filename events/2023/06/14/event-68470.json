@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Boa tarde",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reginaldo Lopes -- por Participante -- Socorro Neri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reginaldo-lopes-por-participante-socorro-neri"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Instituto Ethos promove diálogo sobre uma sociedade justa e sustentável, coordena boas práticas empresariais e monitora mais de 400 empresas. Advoga por reforma tributária 3S, maior transparência e sistema tributário progressivo, reduzindo impostos sobre consumo e incentivando concorrência justa no Brasil.",
       "speaker": {
         "name": "Marina Esteves",
-        "position": "Instituto Ethos"
+        "position": "Instituto Ethos",
+        "slug": "marina-esteves"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Doenças crônicas ainda causam maior mortalidade, mas pandemia aumentou mortes por doenças infecciosas, especialmente em pessoas com doenças preexistentes. Tabagismo, consumo de álcool e riscos dietéticos são novos principais fatores de risco. Excesso de peso, especialmente em mulheres, resulta em óbitos relacionados à alimentação inadequada e baixa renda. Reduzir consumo de álcool e tributar tabaco podem beneficiar saúde e reduzir custos para o SUS.",
       "speaker": {
         "name": "Maria Del Carmen Molina",
-        "position": "Diretora do Departamento de Análise Epidemiológica e Vigilância de Doenças não Transmissíveis - DAENT - Ministério da Saúde"
+        "position": "Diretora do Departamento de Análise Epidemiológica e Vigilância de Doenças não Transmissíveis - DAENT - Ministério da Saúde",
+        "slug": "maria-del-carmen-molina"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Iniciativa coletiva dos 4 \"S\" conecta saúde, sustentabilidade e sociobiodiversidade; profundas distorções no sistema tributário brasileiro requerem reforma; impostos seletivos para produtos nocivos a saúde e meio ambiente necesários; cesta básica deveria incluir itens saudáveis; sistema tributário favorece interesses privados sobre interesse público.",
       "speaker": {
         "name": "Paula Johns",
-        "position": "ACT - Promoção da Saúde"
+        "position": "ACT - Promoção da Saúde",
+        "slug": "paula-johns"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "INESC's Lívia: falou sobre ausência de discussão sobre ultraprocessados e bebidas açucaradas, ainda que problemáticas como álcool e fumo. Perguntou por quê dificuldade em avançar nesses tópicos para saúde coletiva.",
       "speaker": {
         "name": "Livi Gerbase",
-        "position": "IMESC"
+        "position": "IMESC",
+        "slug": "livi-gerbase"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Tributação afeta consumo tabaco; grande informalidade no Brasil; reforma tributária pode aumentar consumo de produtos ilegais; pessoas que usam SUS responsáveis por alto consumo; fronteira aberta com Paraguai e falsificações no Nordeste dificultam controle do sistema tributário sobre consumo.",
       "speaker": {
         "name": "Claudia Gerioth",
-        "position": "UNB"
+        "position": "UNB",
+        "slug": "claudia-gerioth"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Debate sobre produtos nocivos à saúde em andamento; CT convida adesões a manifesto sobre reforma tributária para melhor alimentação e acesso a comida saudável; imposto altos não necessariamente causam contrabando; ferramenta para reduzir contrabando e produtos nocivos à saúde é tributação.",
       "speaker": {
         "name": "Paula Johns",
-        "position": "ACT - Promoção da Saúde"
+        "position": "ACT - Promoção da Saúde",
+        "slug": "paula-johns"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "Diretora do DAENT - Ministério da Saúde afirmou tributação efetiva de produtos nocivos, como cigarro, no Brasil, resultando em redução do consumo de tabaco. Ela destaca a necessidade de tributação seletiva em açúcares e alimentos pouco saudáveis e incentivo ao consumo de frutas e hortaliças para melhorar saúde, especialmente entre jovens, pessoas pobres e de baixa escolaridade.",
       "speaker": {
         "name": "Maria Del Carmen Molina",
-        "position": "Diretora do Departamento de Análise Epidemiológica e Vigilância de Doenças não Transmissíveis - DAENT - Ministério da Saúde"
+        "position": "Diretora do Departamento de Análise Epidemiológica e Vigilância de Doenças não Transmissíveis - DAENT - Ministério da Saúde",
+        "slug": "maria-del-carmen-molina"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -199,7 +215,8 @@
       "transcription": "Está aqui com todos vocês, a ideia aqui é a gente estar falando pouquinho desse S, da sociobiodiversidade que entrou no no nessa articulação do sustentável saudável e social e pra gente foi muito muito bom, muito agregou demais porque como já falou né, já falaram aí a sociobiodiversidade ela engloba tanto a sustentabilidade quanto a a questão social e a questão saudável. Eu tenho uma apresentação aqui EAA dentro do observatório das economias da sociobiodiversidade essa é a nossa primeira participação aqui a gente também vai estar, a gente também vai estar participando de duas audiências públicas dentro desse evento aqui da virada parlamentar sustentável, eu queria convidar a todos e a todas a a estarem presentes, a primeira vai ser no dia vinte às treze horas na comissão na ser povos que é sobre sociobioeconomia, desafios do equilíbrio climático e produção de alimentos saudáveis, e a segunda vai ser no dia vinte e na comissão de trabalho, na Cetrab falando das relações de trabalho nas cadeias produtivas da sua diversidade, está bom? Então vamos lá. Então eu começo aqui a apresentação fazendo uma assim uma pergunta né, uma reflexão em relação em que tipo de desenvolvimento a gente quer pros nossos próximos quarenta anos, cinquenta anos, porque em relação à tributação o que a gente viu né, no nesses últimos anos, é que os setores que tiveram incentivos, os os setores que foram beneficiados em relação a tributação a gente tem aí o automobilístico, petróleo e gás, tecnologia, exportação, agrotóxicos né, hoje a gente está vendo aí a uma discussão do dos agrotóxicos e o que que isso trouxe pra gente como resultado trouxe crescimento e desenvolvimento econômico? Sim, trouxe, mas em qual com com o que isso gerou né, quais foram as consequências desse modelo de desenvolvimento e de benefício fiscal pra esses setores, a gente teve aí grande desmatamento e perda de biodiversidade, a gente teve aumento nas desigualdades, na desigualdade social, educação de qualidade, acesso a mercado formal de trabalho, as diferenças de renda por gênero, raça, enfim, a gente tem aí uma grande insegurança alimentar, né diante no Brasil né, a gente tem fome, pessoas passando fome, aproximadamente quinze milhões de pessoas no Brasil vivem em condição de insegurança alimentar grave, e a gente dentro do contexto da sociobiodiversidade, a gente tem aí uma realidade que é muito triste e perigosa né que é a morte que é que quer que que reflete a insegurança dentro dos territórios, né de povos e comunidades tradicionais que é a morte de de o assassinato, morte de lideranças socioambientais, dentro desse mês né, de meio ambiente eu não podia deixar de citar aqui Bruno Pereira e Dom Philips né, que tem ano aí da das mortes, Paulo Paulino Paulo Paulino Guajajara, Marielle Franco que que sempre foi uma lutadora de direitos humanos e ambientais, Dorothy, Chico Mendes e tantos outros, então que tipo de de desenvolvimento é esse né? É esse tipo de desenvolvimento que a gente quer, então nesse caso, como já foi dito aqui, a sociobiodiversidade ela, o s da sociobiodiversidade ela quer, ela é sustentável, diversidade ela quer, ela é sustentável né, ela ela ela promove uma matriz produtiva diferenciada, ela ela quer uma floresta não só em pé, mas uma floresta viva e valorizada, socialmente né, socialmente justa com relações que beneficiem de forma respeitável e honesta os extrativistas e os agricultores familiares saudável, diversa né, com diversidade de alimentos, com a valorização dos dos alimentos regionais, minimamente processados, e como disse né os membros da mesa anterior, que seja incentivado os o não só desincentivar produtos que façam mal à saúde, mas sim também incentivar produtos que fazem bem à saúde né, como frutas, hortaliças, os produtos da sóciobil, EAAAAAA reforma que que englobe também que seja sócio biodiversa com respeito aos povos e comunidades tradicionais, seus conhecimentos seus conhecimentos tradicionais seus os seus territórios e maretórios, então como como a gente vê a a só reforçando a ideia da das economias da sóciobil ela ela está integrada aí na sustentabilidade, no social e na questão saudável. Dentro dentro disso, dito isso, a gente define aqui a a como economias da sociobiodiversidade as economias de povos em comunidades tradicionais baseada na diversidade, no conhecimento tradicional, inovação, nos sistemas produtivos seus produtos e serviços conectados aos seus modos de vida, que maretórios, ou seja, a a as economias da ela elas querem principalmente garantir que povos e comunidades tradicionais garantir seus modos de vidas e em seus territórios e maretórios. Então dessa forma, essa reforma ela tem potencial de de promover né incremento na renda e na condição social dessas comunidades e desses povos tradicionais de e agricultores e agricultoras familiares. Falando em produto, hoje a gente tem levantamento de produtos da economia da Sócio Bio, levantamento de cento e doze produtos da sociobiodiversidade que que são que podem ser alimentícios, não alimentícios, mas aqui no caso a gente eu trouxe alguns pra gente ver como assim os ativos que que essa que essa economia tem dentro dos territórios e pra povos e comunidades tradicionais, entre elas eu destaco aqui o com aqui o açaí, o pirarucu, o pequi, o Baru, babaçu, ervamate, castanha, sendo que o manejo assim, pra trabalhando, estimulando todos esses essas cadeias, o manejo dessas cadeias são exemplos né, de como conhecimento tradicional das práticas sustentáveis, das convivências, da convivência harmônica com com a floresta pode gerar renda, fortalecer a organização social e promover a conservação da biodiversidade, então assim, são de extrema dentro desse contexto que a gente vive hoje que é de uma economia verde né, de desenvolvimento que realmente seja sustentável. Então dentro da das cadeias que eu trouxe aqui eu vou falar de algumas, a gente tem aqui AAA economia da sociobiodiversidade do açaí, o açaí hoje ele é alimento base de mais de três milhões de pessoas na Amazônia, ocidental, a gente tem hoje que sessenta por cento da produção ela é destinada ao consumo interno, isso produção principalmente o maior produtor é o Pará e todo, e esses sessenta por cento está relacionado ao Brasil com AAAA região norte principalmente, trinta por cento é destinado à exportação pra outros estados como São Paulo, Rio de Janeiro e Minas Gerais e dez porcento é direcionado ao mercado externo, então é uma economia que é uma cadeia que que assim ela ela gera né, ela movimenta o mercado interno, mercado interestadual e o mercado internacional. A gente tem como dado hoje como valor bruto da produção são no Pará de treze bilhões e só que o é bilhões de reais e uma comotização só que é uma cadeia que a gente precisa ter muito cuidado por conta da do do processo de comotização está acontecendo na região que que gera perda de sustentabilidade e domínio de grandes empresas sobre a produção, então todo o desenvolvimento de uma cadeia ela precisa ter precisa ter esse cuidado né, pra não não sofrer esse processo de comotização como está acontecendo com o açaí. Uma outra cadeia, vou correr aqui que me avisaram que eu tenho só três minutos, é o pirarucu, o pirarucu dentro dos dados, os dados de produtos da sociobiodiversidade gente são poucos, viu? A gente tem a gente tem que ir muito atrás assim e e buscar bastante pra trazer aqui dados mais atualizados, o do, então se vocês tiverem trabalhos que fale de produtos da Sociobio manda pra gente que a gente sempre está precisando mesmo de dados atualizados. A cadeia do pirarucu a gente tem tem trabalho que nos mostra que foi realizado, tem uma uma numa presença né, de produção de pirarucu em trinta áreas protegidas, mais de mil e duzentos ambientes aquáticos são manejados com com esse peixe, sete milhões de renda brutas já foi gerado assim, gera a a foi gerado em dois mil e dezesseis com a o manejo desse desse peixe, mais de quatro mil pessoas foram beneficiadas com o manejo EE0 manejo gerou uma renda de aproximadamente mil setecentos mil setecentos e sessenta e cinco reais por pessoa que estava participando dessa do projeto então é é são cadeias que que promovem AAA preservação, a conservação e também geram renda né dentro dos territórios. Vou passar aqui o pequi rapidinho, que é aqui do cerrado, bom o maior produtor, dos maiores produtores de pequi é Minas Gerais, o a gente tem aqui representante da Cooperativa do Grande Sertão que é de Minas Gerais e vai falar também de todo o processo, a gente tem que o PII ele tem, foi criado APL do PIQUII né, arranjo produtivo local e e do PIQUII e outros produtos do cerrado formado por quatorze municípios em Minas Gerais, isso é muito bacana porque é raro, não existe a PL de produtos da Sócio Bio no Brasil, nessa os apels são de outros setores, a gente tem o PIQUEI em Minas Gerais uma rede comercial formada por cerca de sessenta e cinco mil extrativistas com uma comercialização de duzentos e cinquenta e seis mil toneladas do produto In Natura, e também temos aqui o 0 valor bruto da produção médio de cento e quinze mil reais. E o último, a última cadeia é o Baru, onde a gente tem aqui o Baru ele vem crescendo aqui no cerrado, entre dois mil e dezenove e dois mil e vinte e teve aumento de produção desse dessa castan inclusive a gente trouxe aí pra vocês que está ali na, que já acabou inclusive, então vocês gostaram, isso é bom, então o Baru ele está crescendo bastante tanto a sua quanto a sua produção e a gente trouxe aqui uns uns dados né, como a produção em dois mil e vinte e foi de quinhentos e trinta e quatro mil toneladas, o valor bruto dessa produção foi de quatorze milhões de reais em Minas Gerais responde por sessenta e sete por cento dessa quantidade aí produzida, então só alguns dados para vocês verem assim o valor mesmo né, das dessas cadeias e como seria muito interessante o incentivo a esses produtos que são produtos que muitos não conhecem como vocês aqui e que podem e que estão aí são nossos né, então daí das nossas florestas os nossos biomas e assim pra finalizar alguns ativos das economias da sociobiodiversidade né, o a as economias da sociobiodiversidade trazem o que? Renda, preservação da biodiversidade, garante, quer dizer estimula né a juventude nos territórios e maretórios, contribui com equilíbrio climático, tem uma baixa pegada de carbono, contribui com a segurança alimentar, com desenvolvimento local, territorial, fortalece a cultura, preserva os solos, as águas, traz inovação, mantém os modos de vida, locais e também ajuda e estimula né a participação da mulher e o empoderamento feminino, e outros né, tem muitos outros ativos aí que as economias da da sociobiodiversidade garantem, estimulam e que dentro dessa dessa proposta da reforma tributária quatro s e dessa desse desenvolvimento sustentável dessa economia verde a gente acha que é fundamental esse olhar aí pra esse pra esse setor, então é isso, muito obrigada. Então pra complementar eu vou meu dedo moderando a mesa também, eu vou chamar o André Tomazi, que é do observatório da castanha, que vai falar exclusivamente vai falar mais pouco da cadeia da castanha do Brasil.",
       "speaker": {
         "name": "Laura Souza",
-        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)"
+        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)",
+        "slug": "laura-souza"
       }
     },
     {
@@ -209,7 +226,8 @@
       "transcription": "Obrigado Laura. Então, primeiramente saudando né, as pessoas que estão aqui no auditório, em especial, assessoria do deputado Ayrton Faleiros, o pessoal da da ACT, da HAC e também do IDS que fez esse convite e que também têm mobilizado aqui as discussões em torno dessa pauta da reforma tributária quatro s né? E que a gente agora então, agregou esse novo s pra pra dentro da discussão que é a sua subdiversidade né. Então, eu queria pedir primeiramente então, pro pessoal ali da da do cerimonial né pra colocar o a apresentação. E dizer dizer então que essa apresentação primeiro ela tem uma, uma parte mais de contextualização pra colocar vocês situálos em relação a essa cadeia da sociobiodiversidade que é a cadeia da castanha da Amazônia, né, que ela é importante produto aí da da sociobiodiversidade brasileira. Depois tem uma uma parte mais institucional pra mostrar pra vocês o que que é o observatório castanhado Amazônia né, então ele é uma rede, ele é ele compõe uma uma série de atores, voltados pra debater esse setor da economia brasileira né, com foco principal nos produtores extrativistas, e depois alguns temas pro debate aqui, e também pra já dar a palavra pra pra nossa Edna depois que vai vim pra cá também no contribuir com a sua visão, com a sua experiência aqui sobre esse tema. Então tá. Opa, é pra lá? Ah já foi, tá não, só pra situálos né em que, em quando que aparece a castanha dentro do economia brasileira né como produto importante da da pauta de de exportações brasileiras, então desde mil oitocentos e setenta na Amazônia a gente tem então a do do do setor produtivo da borracha né da seringa, isso foi importante na virada do século dezenove pro vinte, então algumas imagens aqui só pra situálas em relação a isso né, as pelas de borracha, isso desde mil oitocentos e setenta, teve esse primeiro ciclo né da borracha, E a partir de aqui também, né, o uso do trabalho indígena também associado à produção de borracha nos seringais amazônicos, né? E a partir de mil novecentos e vinte então, a gente tem uma crise no setor produtivo da borracha com a introdução da seringa na Malásia, em países asiáticos, começa a se desenvolver a cadeia da castanha no Brasil, né? Então, junto com outros estão com esse declínio né da cadeia da da borracha, a castanha então, ela surge e e começa a ganhar importância dentro da economia brasileira, né? Então aqui só algumas fotos pra mostrar pra vocês pouco essa evolução histórica e econômica desse dessa cadeia importante, né, pro Brasil, e que ela começou então desde mil novecentos e vinte. Então, a castanha, se a gente for pensar, né, ela está entre os três principais produtos do extrativismo com fins alimentícios no Brasil, né então a gente tem o 0 açaí, o babaçu e a castanha como os três principais produtos de pra alimentação dos vindos do do do extrativismo, né? A castanheira então é uma espécie que dá essencialmente em áreas de terra firme né, ao longo de praticamente toda a bacia amazônica. Ela também, ela ela dá em sete estados produtores, então ela tem uma abrangência significativa né, estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia e Roraima. O Brasil é o maior produtor, né, do mundo com trinta e cinco mil toneladas anuais, sendo que setenta e cinco por cento desse volume é consumido dentro do mercado brasileiro, e gera uma receita aproximada, a gente fez uns aí agora lançamos recentemente dois bilhões de reais pra economia nacional. Que mais? Essa aqui. E também entre os anos de dois mil e quinze e dois mil e dezenove, né, a Bolívia a Bolívia foi o maior exportador de castanhas, né, seguido pelo Peru. E o Brasil figurou apenas com oito por cento das exportações, então essa é uma questão também importante em relação à castanha, né. O Brasil, o maior produtor, entretanto o maior exportador é a Bolívia e o Peru, né? A gente não consegue industrializar a nossa produção e não conseguimos gerar mais receita, mais divisa com produto industrializado, processado em outros países né? Isso é uma questão importante pra essa cadeia. Tem vários dados aqui, né, tentando contextualizar melhor aqui a produção de castanha, né? Então também ela é o único produto brasileiro né internacionalmente comercializado que depende essencialmente do extrativismo, né. Então, a castanha, ela é, quase na sua totalidade, segundo aqui o estudo do Roma né, estimase que mais de noventa por cento da castanha da Amazônia comercializada provém dos do extrativismo né? Feita por povos indígenas e populações tradicionais então, é uma cadeia produtiva né, uma cadeia que de alimentos também de produtos alimentícios que depende essencialmente do extrativismo né, do trabalho extrativista nas matas e florestas amazônicas né? Envolve sessenta mil famílias ou quinhentas mil pessoas né na atividade. Aparentemente travou aqui, não sei o que aconteceu. Acho que é a questão do né, ali não sei se estava passando, não sei o que aconteceu. Ah, está aqui, ó. Em torno de cem organizações comunitárias e mais de cem empresas privadas participam também da da cadeia, são dados da conexos. E estimase que, atualmente também, a. Estimase que a castanha forneça entre dezessete a setenta e quatro por cento da renda derivada da da velha da floresta, e até quarenta e quatro por cento da da renda total das famílias produtoras. Então, a castanha representa uma parcela importante da renda das famílias produtoras, né, amazônicas. E é recurso natural essencial para a segurança econômica de milhares de famílias da floresta. A gente tem mais dados aqui, então também essa questão dos modos de vida das populações, de povos da Amazônia. No Brasil, quase metade de todas as áreas protegidas está designada a uso sustentável pra povos e comunidades tradicionais. E a maioria dessas áreas, né, tem florestas com castanhas também dentro dessas áreas protegidas. Então, esses são dados, curiosidades para vocês entenderem também. Tem uma questão relacionada à à parte nutricional, né, que a castan também é considerado atualmente super alimento. Então, tem alta concentração de compostos lipídios e proteicos, a questão do selênio, estudantes. A questão da do combate ao envelhecimento e formação de radicais livres. Também tem comprovação para do cérebro em relação às doenças neurodegenerativas, e também, essa questão do aumento da imunidade também relacionado à questão da presença de selênio, então é é super alimento. Aqui a gente tem a parte da, né, essas manchas mais escuras no mapa, é a distribuição da onde se dá a a os castanhado, né, nativos, então, é uma área de uma abrangência muito grande em relação ao Brasil, né, se a gente for pensar. Aqui também é uma uma outro mapa de outro estudo também relacionado à dispersão e abrangência das áreas de castanhado né feito pelo pela Kiner né, uma importante pesquisadora, envolve aí em torno de quinhentas mil pessoas na Amazônia, né? Em relação à exportação também, então, o Brasil representa quase metade da produção de castanha, né, então são trinta e cinco mil toneladas por ano, mas com aquele fator que a gente explicou pra vocês, né, que a maioria da da da da da da produção de castanha, ela fica retida no Brasil, né, não vai, o tempo aqui é curto, não vou entrar em maiores detalhes em relação a isso. A questão da distribuição também nos estados, então o Amazonas lidera a produção no estado do no Brasil, seguido pelo Pará, Acre, Roraima, Rondônia, Amapá e Mato Grosso. Aqui também tem as áreas de produção em toneladas a partir dos dados da TEVES do IBGE, onde é que a gente tem a maior concentração de produção de castanha no no na Amazônia brasileira. Aqui também em relação a essa parte relacionada o beneficiamento, né, a questão da produção de de castanho, o quanto que vai pro beneficiamento, o quanto que vai pra exportação também, a gente não precisa entrar em maiores detalhes. Aqui é uma estimativa de estudo que nós fizemos, do quanto que gera de divisas para o Estado brasileiro. Então, a partir da compra na floresta de com noventa e nove milhões de reais, em que as as cooperativas, as usinas pagam ao castanheiro, ao final da cadeia ela chega a gerar, a gente tem número, né, de dois bilhões de reais, isso que é número subestimado, né? Então, provavelmente a cadeia da castanha gera mais divisas ainda para o Brasil. Aqui também não vou entrar nesses detalhes, com relação à explicação daquele daquele gráfico como mostrei anteriormente vocês. Então, aqui aqui também, opa, deixa eu voltar aqui. Aqui também a questão, eu vou entrar nisso depois né, de como que a reforma tributária tem repercussão por exemplo, pode privilegiar por exemplo a melhoria da renda dessas pessoas né? Então, o custo né de produção por exemplo para castanheiro está em torno de cinco reais o quilo, né o custo dele, isso significa o quanto que ele gasta, em termos de combustível, alimentação, o trabalho que ele desempenha dentro da floresta, mas, dos mercados aqui internos brasileiros esse valor chega a bater cento e setenta reais o quilo né do do produto então, há uma discrepância em relação à valorização do trabalho extrativista, e é isso que está em debate, que a gente quer trazer para o debate aqui relacionado à reforma tributária. Então falando pouco do observatório castanha da Amazônia é isso né uma rede de organizações que têm como missão produzir conhecimento, inteligência, e mobilizar os atores da cadeia de valor da castanha, promovendo diálogos e soluções pra consolidar mercado justo que valoriza os povos, as populações e comunidades envolvidas, e que ao mesmo tempo promova a conservação da floresta. Quem tiver mais interesse, tem o site ali, observatóriodacastanha ponto agro ponto b r. Pode entrar também pra ter mais informações. Essa rede do OCA, né, observatório castanha da Amazônia, então mobiliza cento e cinquenta e quatro territórios de áreas protegidas de povos e populações tradicionais. Isso representa quarenta e quatro milhões de hectares de floresta preservada, com, consolidada, pelo seu ponto de vista econômico, por vias das cadeias sóciobio com a a questão da da castanha, por exemplo. Então, essa é uma apresentação mais, uma parte mais institucional, temos aqui nossos objetivos, nossa missão também, não vou entrar nisso. O esquema de governança também do nosso observatório, com as organizações que fazem parte, compõe essa rede. Aqui a gente tem então as organizações fundaram e que fazem parte do do do observatório, né, elas que estão aqui representadas. Temos aqui algumas das nossas iniciativas, né, o diálogo entre setores, os elos, né, aproximar os elos da cadeia. Temos também debate em torno da base produtiva com os extrativistas, com os castanheiros. Temos também podcast, também o Central da Castanha, e uma biblioteca virtual do Oca, que é a maior biblioteca sobre o tema da castanha, com aí em torno de mais de mil documentos e vídeos, artigos relacionados à castanha, né? As principais agendas nossas, então a gente trabalha com essa questão do sistema de preços e informações econômicas, é o CI, castanha. A gente trabalha também com a parte de qualidade, né, então, essa dobradinha é muito importante quando a gente fala de cadeias produtivas, né, preço e qualidade. Tem uma pauta também de direitos humanos, que a gente trabalha dentro do do Oca, uma pauta de tributação que é essa que a gente está aqui atualmente, uma pauta de financiamento e crédito que nós trabalhamos também, e uma parte de pagamento com serviços ambientais do PSA, acho que a Karina está aqui também, a gente vai falar pouco mais sobre isso. Então essa aqui são as várias iniciativas do Oka, eu não vou entrar muito nesse detalhe pra gente entrar na parte do debate mesmo, né? Só que são os boletins de preço que a gente faz, o tempo, né? Tá. Então são muitas informações, eu achei que a gente teria em torno de vinte minutos, mais tempo pra falar, então infelizmente acabou consumindo o nosso tempo, não vou poder entrar nesses detalhes, né? O que eu queria mostrar aqui pra vocês que tem a ver com a reforma tributária, esse dado aqui, esse esse gráfico ele parece confuso a princípio, Mas embaixo, aqui nessas linhas de baixo, nós temos o custo médio pra produzir a castanha, que é o custo do trabalho extrativista. E vejam que ele fica ali né, desde dois mil e oito até dois mil e e vinte e dois, ele transitou entre ponto vinte e oito até três três 0 nove né, com o custo de produção do extrativista. E acima, a variação dos preços praticados pelo, pelo produto né? Então a gente tem uma média dado pela CONAB, da castanha desidratada, uma média também da CONAB, pago ao extrativista que está ali embaixo. Então a gente percebe que, o custo de de produção do extrativista ele influencia pouco na variação do do valor do do produto no mercado. Então, AAA reforma tributária, né, se a gente for pensar, ela ela vai incidir sobre o a questão dos produtos, né, mas ela também tem essa prerrogativa de ajudar, quem está na base, a também conseguir, por meio de uma tratamento tributário diferenciado pros produtos da sociobio, de alavancar também a produção né e considerar aumentar ainda mais essa margem, que é pouco paga também para os extrativistas na base, né, que estão na base da cadeia. Então é isso, são as várias iniciativas nossas, não vou entrar nisso, esse aqui é o grupo dos do com quem a gente trabalha, a rede com com com a qual a gente trabalha. Nós nos encontramos no final do ano passado, temos boletins de de de políticas públicas, grupos de trabalho, fazemos parte do observatório da das do do observatório da da economia da Sociobio, né, do ÓSociobio que a Laura acabou de falar. Temos várias frentes aqui, não vou entrar nesses detalhes, E o que a gente está propondo aqui pra reforma tributária, né? Bom aqui, com uma questão de oportunidades, desafios, não vou entrar nessa mercado internacional, mercado nacional, infelizmente não vão não vamos ter tempo. A questão dos dos direitos humanos também na cadeia, né? Mas o que eu queria pra finalizar aqui e trazer pouco o debate e já dar a deixa para a Edna também, que vai falar na sequência, é que a gente, dentro da reforma tributária, parte do princípio da essencialidade e da seletividade, né? Então tem o artigo cento e cinquenta e três da constituição brasileira, que ela que diz que compete à união e estuda os impostos. E nesse item quatro, que é os impostos industrializados, né, se a gente for abrir aqui o artigo cento e cinquenta e três, o 0 parágrafo terceiro, né, o imposto previsto no no inciso quatro, né, diz que será seletivo em função da essencialidade do produto. E essa esse princípio da essencialidade, ele estabelece que quanto maior a importância social do bem consumido, menor será a carga tributária incidente sobre eles. Assim, a seletividade busca desonerar com alíquotas mais baixas bens e serviços essenciais à população, consoante o artigo cento e cinquenta e três, parágrafo terceiro inciso primeiro da constituição federal brasileira. Então a proposta que a gente está fazendo né, no âmbito do grupo de trabalho proposto pelo deputado Heitor Faleiros, é de colocar dentro do da da da da PEC né, da do da Tec quarenta e cinco né, dispositivo com que introduza esse essa ideia esse conceito da sociobiodiversidade dentro da constituição brasileira. Não existe essa esse conceito ou esse, não não foi estabelecido ainda dentro da constituição brasileira, não foi evocado ainda sociobiodiversidade né, então dentro da da da PEC da PEC quarenta e cinco, a nossa intenção é trazer a sociobiodiversidade, pra que ela tenha tratamento do tributário diferenciado, e que depois em em lei complementar a gente consiga então, definir quais seriam essas alíquotas diferenciadas pra esses produtos da sociobiodiversidade, né? A gente fez debate também, será que a a castanha entraria dentro do rol da classificação dos produtos in natura, assim como as frutas, as hortaliças, né? Então ao invés de você enquadrar a sociobiodiversidade como fruta ou hortaliça, não seria o caso da gente criar uma classe então pra sociobiodiversidade dizendo que, né, ela teria tratamento tributário diferenciado por justamente ser produto, por justamente atender a esse princípio da essencialidade, então esse é primeiro debate, né, que a gente traria pra cá. E outro também, e também já é uma deixa aqui pra pra Karina do né, que também do MMA trabalha também com esse tema, de certa forma se a gente tiver tratamento diferenciado pra pros produtos da sociobiodiversidade, criarmos essa classe, né, e conseguimos emplacar esse termo dentro da constituição brasileira, certa maneira, se a gente conseguir esse tratamento tributário diferenciado, é incentivo econômico que não necessariamente tem relação direta, né, com os pagamentos por serviços ambientais, mas que também viria a impulsionar a as pessoas que estão na floresta, considerando que elas, na forma de produzir esses produtos, também teriam tratamento tributário diferenciado, né? Seria incentivo também econômico e uma certa espécie de pagamento pro serviço ambiental que essas pessoas poderiam fazer, né? Então desonerar essa cadeia também seria uma forma de valorizar o os os o trabalho extrativista que essas pessoas fazem, e que até o momento eu não tenho tratamento tributário diferenciado né? Então esses são são alguns temas pro debate, desculpa porque eu se eu me excedi, e e já passo a palavra aqui na sequência.",
       "speaker": {
         "name": "André Tomasi",
-        "position": "Observatório da Castanha (IIEB/OCA)"
+        "position": "Observatório da Castanha (IIEB/OCA)",
+        "slug": "andre-tomasi"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio) aborda importância de economias sustentáveis e rápida apresentação de especialista em tributação.",
       "speaker": {
         "name": "Laura Souza",
-        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)"
+        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)",
+        "slug": "laura-souza"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Consultora da GIZ discussed tax system's ability to reflect essentiality of products. She highlighted current tax burdens on various stages of \"sociobio\" product supply chains, and how shifting to IBS could negatively impact primary producers, favoring larger industries. Recommendations include: maintaining FUNRURAL tax, implementing a \"credit presumido\" to aid primary producers, lowering ICMS tax for some cesta basica products, preserving cooperative tax benefits to support rural communities.",
       "speaker": {
         "name": "Edna de Cassia Carmelio",
-        "position": "Consultora da Gesellschaft für Internationale Zusammenarbeit (GIZ)"
+        "position": "Consultora da Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+        "slug": "edna-de-cassia-carmelio"
       }
     },
     {
@@ -242,7 +262,8 @@
       "summary": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio) passa palavra para o presidente da Cooperativa Grande Sertão e da UNICAFS, Cido Souza.",
       "speaker": {
         "name": "Laura Souza",
-        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)"
+        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)",
+        "slug": "laura-souza"
       }
     },
     {
@@ -253,7 +274,8 @@
       "summary": "Cooperativa Grande Sertão e Presidente da UNICAFES em destaque:",
       "speaker": {
         "name": "Cido Souza",
-        "position": "Cooperativa Grande Sertão e Presidente da UNICAFES"
+        "position": "Cooperativa Grande Sertão e Presidente da UNICAFES",
+        "slug": "cido-souza"
       }
     },
     {
@@ -263,7 +285,8 @@
       "transcription": "De bioeconomia, secretaria nacional de bioeconomia do Ministério do Meio Ambiente.",
       "speaker": {
         "name": "Laura Souza",
-        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)"
+        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)",
+        "slug": "laura-souza"
       }
     },
     {
@@ -274,7 +297,8 @@
       "summary": "Secretaria Nacional de Bioeconomia do MMA destacou importância de estimular bioeconomia, considerando sociobiodiversidade e uso sustentável de biodiversidade. Propuseram-se estímulos, como reforma tributária, para desenvolver setor, gerar inclusão, conservação e novos usos da biodiversidade. Discutem-se pagamentos por serviços ambientais e regulamentação.",
       "speaker": {
         "name": "Carina Pimenta",
-        "position": "Secretária Nacional de Bioeconomia do MMA"
+        "position": "Secretária Nacional de Bioeconomia do MMA",
+        "slug": "carina-pimenta"
       }
     },
     {
@@ -285,7 +309,8 @@
       "summary": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio) promove terceira mesa sobre reforma tributária solidária, com foco em reduzir carga tributária para os pobres, aumentar taxação para altas rendas e riquezas, e substituir mecanismos que concentram riqueza por outros que promovem redistribuição e circulação de riqueza, impulsionando atividade econômica e justiça social. Participam Luana Passos, Jeferson Nascimento, Carol Dartora (ausente) e Livre Gerbassi.",
       "speaker": {
         "name": "Laura Souza",
-        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)"
+        "position": "Observatório das Economias da Sociobiodiversidade (ÓsocioBio)",
+        "slug": "laura-souza"
       }
     },
     {
@@ -296,7 +321,8 @@
       "summary": "Agradecimento por convite; coordenador na Oxfam Brasil; temas tributária e sociobiodiversidade ligados; debate sobre essencialidade produtos e tributação diferenciada; desoneração produtos cesta básica sem impacto negativo em pessoas de baixa renda, mulheres e negros; débita reforma tributária com perspectiva de gênero e raça; Luana Passos segue.",
       "speaker": {
         "name": "Jefferson Nascimento",
-        "position": "Oxfam Brasil"
+        "position": "Oxfam Brasil",
+        "slug": "jefferson-nascimento"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Discurso propõe reforma tributária para melhorar eficiência e equidade no sistema brasileiro, identificando problemas como cumulatividade de impostos, complexidade e guerra fiscal. Soluções incluem mudanças na tributação direta, maior ênfase em renda e patrimônio, e instituição do imposto de valor agregado. Alude à desigualdade de gênero e raça, e à importância de considerar vulnerabilidades intersecionais.",
       "speaker": {
         "name": "Luana Passos",
-        "position": "Universidade Federal do Oeste da Bahia/Assessora da ministra - Ministério da Gestão e da Inovação em Serviços Públicos (MGI)"
+        "position": "Universidade Federal do Oeste da Bahia/Assessora da ministra - Ministério da Gestão e da Inovação em Serviços Públicos (MGI)",
+        "slug": "luana-passos"
       }
     },
     {
@@ -318,7 +345,8 @@
       "summary": "Oxfam Brasil agradece e cede a palavra para a colega da INESC.",
       "speaker": {
         "name": "Jefferson Nascimento",
-        "position": "Oxfam Brasil"
+        "position": "Oxfam Brasil",
+        "slug": "jefferson-nascimento"
       }
     },
     {
@@ -329,7 +357,8 @@
       "summary": "IMESC propõe ligação orçamento-direitos humanos, mas gastos limitados por teto há 20 anos. Novo arcabouço fiscal requer aumento de arrecadação para maior despesa, mas 70% de corte em receitas é necessário. Reforma tributária e arcabouço fiscal conectam-se, mas falta dialogo com sociedade. Pisos em saúde e educação ameaçados; discussores de orçamento público devem ser coletivos e participativos. Arcabouço pode limitar atuação do Estado em serviços.",
       "speaker": {
         "name": "Livi Gerbase",
-        "position": "IMESC"
+        "position": "IMESC",
+        "slug": "livi-gerbase"
       }
     },
     {
@@ -340,7 +369,8 @@
       "summary": "Oxfam Brasil mencionou:",
       "speaker": {
         "name": "Jefferson Nascimento",
-        "position": "Oxfam Brasil"
+        "position": "Oxfam Brasil",
+        "slug": "jefferson-nascimento"
       }
     },
     {
@@ -351,7 +381,8 @@
       "summary": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS agradece oportunidade de participação em pauta importante, afetando todos brasileiros e sua sustentabilidade. Menciona a rede de participantes, incluindo 57 organizações engajadas em sustentabilidade, direitos humanos, transparência e democracia. Destaca o grande clamor da sociedade civil por participação e competência nas audiências públicas, com esperança na parceria com Legislativo e Executivo para decisões.",
       "speaker": {
         "name": "MARCOS WOORTMANN",
-        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS."
+        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS.",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -362,7 +393,8 @@
       "summary": "Reforma tributária propõe simplificar tributação do consumo, taxar produtos nocivos, conceder cashback a famílias de menor renda, desonerar cesta básica com enfoque em gênero, e promover tributação de renda e patrimônio posteriormente. Objetivo é promover sustentabilidade, reduzir desigualdades e impactar positivamente na economia.",
       "speaker": {
         "name": "Bernard Appy",
-        "position": "Secretário Nacional para a Reforma Tributária"
+        "position": "Secretário Nacional para a Reforma Tributária",
+        "slug": "bernard-appy"
       }
     },
     {
@@ -373,7 +405,8 @@
       "summary": "Coordenador de Advocacy do IDS anunciou ordem de fala para deputada Tábata e posteriormente para o presidente do IDS, Ricardo Yang.",
       "speaker": {
         "name": "MARCOS WOORTMANN",
-        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS."
+        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS.",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -385,7 +418,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -396,7 +430,8 @@
       "summary": "Coordenador de Advocacy do IDS elogiou a deputada Tábata, destacando a discordância entre o tamanho da bancada ambientalista e feminina com a potência ambiental e participação feminina no Brasil. Reconheceu e agradeceu a deputada por representar ambas as causas. Apresentou o presidente do IDS, Ricardo Yang, que participará remotamente.",
       "speaker": {
         "name": "MARCOS WOORTMANN",
-        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS."
+        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS.",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -407,7 +442,8 @@
       "summary": "Instituto Democracia e Sustentabilidade (IDS) propõe reforma tributária \"sociobiodiversa\", simplificada e sustentável, promovendo mitigação crise climática e redução desigualdade. Reforma deve fortalecer autonomia municípios na gestão ambiental e manter conquistas ICMS. Inclui princípios socioambientais no regime tributário e promove desenvolvimento regional sustentável. Também visa municipalizar ITR, aprimorar imposto seletivo e criar Cadastro Nacional de Atividades Verdes.",
       "speaker": {
         "name": "Ricardo Young",
-        "position": "Instituto Democracia e Sustentabilidade (IDS)"
+        "position": "Instituto Democracia e Sustentabilidade (IDS)",
+        "slug": "ricardo-young"
       }
     },
     {
@@ -418,7 +454,8 @@
       "summary": "Coordenador de Advocacy do IDS finalizou intervenções na mesa, passando a palavra ao secretário nacional da reforma tributária, Bernardo Pi.",
       "speaker": {
         "name": "MARCOS WOORTMANN",
-        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS."
+        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS.",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -429,7 +466,8 @@
       "summary": "Secretário Nacional para a Reforma Tributária propõe:",
       "speaker": {
         "name": "Bernard Appy",
-        "position": "Secretário Nacional para a Reforma Tributária"
+        "position": "Secretário Nacional para a Reforma Tributária",
+        "slug": "bernard-appy"
       }
     },
     {
@@ -440,7 +478,8 @@
       "summary": "Instituto Democracia e Sustentabilidade - IDS coordena evento Virada Parlamentar Sustentável sobre representatividade em quatro pilares, com participação considerada um sucesso e proposta ampliada. Agradecimentos à comissão, deputado e deputada presentes.",
       "speaker": {
         "name": "MARCOS WOORTMANN",
-        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS."
+        "position": "Coordenador de Advocacy do Instituto Democracia e Sustentabilidade - IDS.",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -452,7 +491,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     }
   ],

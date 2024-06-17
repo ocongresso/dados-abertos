@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônias anuncia início de debate sobre desenvolvimento da navegação interior, coordenado pelo deputado Saulo Viana. Convidados para discutir desafios e propostas, incluem representantes de ministérios, agências, associações e municípios. Temas: infraestrutura, mão-de-obra, segurança e crédito para setor. Debate dividido em dois blocos de uma hora cada, com participação aberta. Saulo Viana dá boas-vindas e abre encontro.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -35,7 +37,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": "Presidente da ABANI discute importância de navegação na Amazônia, envolvendo atores múltiplos e melhoria com lições aprendidas na crise da seca. Menciona foco em transporte de passageiros e sua dívida social, a necessidade de mostrar valor para sociedade e parlamento, e falta de mão de obra como desafio futuro. Cabotagem complementa navegação interior e é crucial para Amazonas.",
       "speaker": {
         "name": "Claudomiro Carvalho",
-        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI"
+        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI",
+        "slug": "claudomiro-carvalho"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": "Mestre de Ceremônias: Abrindo primeiro bloco sobre infraestrutura da Amazônia, seca de rios, formação de mão-de-obra qualificada e segurança nos rios, presente Lúcio Flávio de Oliveira do Centro da Indústria do Amazonas. Bom dia, deputado Saulo Ramos.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Representante do Ministério dos Portos e Aeroportos fala sobre importância de foco político para desenvolvimento de navegação interior, elogia criação da Frente Parlamentar Mista e destaca a criação da Secretaria de Hidrovias e Navegação.",
       "speaker": {
         "name": "Dino Bastista",
-        "position": "Represetante do Ministério dos Portos e Aeroportos"
+        "position": "Represetante do Ministério dos Portos e Aeroportos",
+        "slug": "dino-bastista"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": "Mestre de Cerimônias: \"Obrigado e boa tarde a todos, bem-vindo especialmente ao diretor de infraestrutura aeroespacial do DNIT, Eric Moura.\"",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "DNIT's Infraestructure Director highlighted the importance of a clear political focus to benefit the waterway sector, expecting 2024 to be a turning point. He mentioned the Tribunal de Contas da União's recognition of the lack of national waterway policy. The DNIT is committed to supporting the waterway sector and sees potential for improvement with proper political backing.",
       "speaker": {
         "name": "Erick Moura",
-        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT"
+        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT",
+        "slug": "erick-moura"
       }
     },
     {
@@ -100,7 +108,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -111,7 +120,8 @@
       "summary": "Almirante e Diretor da ANTAQ: participa evento navegação interior, agradece convite, sauda DNIT diretor, Gianno Batista, presidente Dom Carvalho e outros presentes. Elogia iniciativa tratamento navegação interior no Congresso. Menciona desafios: infraestrutura hidroviária, capacitação fluviários, segurança e seca Amazônica. Falar BR rios e mitigar problemas Amazônia com ação preventiva. Conta com apoio ANTAQ.",
       "speaker": {
         "name": "Wilson Pereira de Lima Filho",
-        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ"
+        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ",
+        "slug": "wilson-pereira-de-lima-filho"
       }
     },
     {
@@ -122,7 +132,8 @@
       "summary": "Mestre de Ceremônias: Abrindo bloco sobre infraestrutura da Amazônia, seca de rios, formação de mão-de-obra qualificada, segurança nos rios; Senhor Flávio, representante do Centro da Indústria do Amazonas, convidado para falar; Bom dia deputado Saulo Ramos.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Representante do CIEAM destacou a necessidade de investimentos em infraestrutura, concessão de hidrovias, e melhoria de praticagem e portuária na região de Manaus, para superar desafios logísticos causados por secas no Rio Amazonas. Ele enfatizou que tanto o setor público quanto o privado devem atuar para garantir o desenvolvimento sustentável da região.",
       "speaker": {
         "name": "Lúcio Flávio de Oliveira",
-        "position": "Representante do Centro da Indústria do Amazonas - CIEAM"
+        "position": "Representante do Centro da Indústria do Amazonas - CIEAM",
+        "slug": "lucio-flavio-de-oliveira"
       }
     },
     {
@@ -143,7 +155,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -154,7 +167,8 @@
       "summary": "Participante, 85 anos, elogia Marinha, destaca artigo revista marítima sobre hidrovias e falta de divulgação. Menciona experiência na CESPE e na construção da hidrovia Tietê-Paraná. Refere-se a encontro em 2022, \"Amazônia inovadora e sustentável\", e propõe integração de países pela navegação interior, combate a banditismo na Amazônia e convênio com FATEC Jaú. Falou sobre cinco pilares da hidrovia: estudo de mercado, frota, emprego e qualificação, imagem e infraestrutura.",
       "speaker": {
         "name": "Jose Wagner Ferreira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jose-wagner-ferreira"
       }
     },
     {
@@ -165,7 +179,8 @@
       "summary": "Mestre de Cerimônias ofereceu palavras ao Senhor Claudiomiro, alinhando-se com o professor Wagner, ex-comandante do oitavo Distrito Naval.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -176,7 +191,8 @@
       "summary": "Almirante e Diretor da ANTAQ elogia FATEC Jaú como modelo de formação de capitães fluviais, menciona convênios com Marinha e homenageia professora Rosa Padroni. Refere-se ao CTFAL em Manaus e simuladores de formação. Apoia e alinha-se com elogios à FATEC Jaú.",
       "speaker": {
         "name": "Wilson Pereira de Lima Filho",
-        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ"
+        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ",
+        "slug": "wilson-pereira-de-lima-filho"
       }
     },
     {
@@ -187,7 +203,8 @@
       "summary": "Mestre de Cerimônias anuncia Luiz Fernando Rezano, presidente da Associação Brasileira de cabotagem, para falar.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -198,7 +215,8 @@
       "summary": "Presidente da Associação Brasileira de Cabotagem - ABAC: cabotagem eficiente é crucial, destacando regulamentação econômica e conscientização parlamentar sobre navegação, principalmente na região amazônica. Falta infraestrutura em Vila do Conde, impactando transporte fluvial e movimentação de TEUs para Manaus, exigindo investimentos em infraestrutura.",
       "speaker": {
         "name": "Luis Fernando Resano",
-        "position": "Presidente da Associação Brasileira de Cabotagem - ABAC"
+        "position": "Presidente da Associação Brasileira de Cabotagem - ABAC",
+        "slug": "luis-fernando-resano"
       }
     },
     {
@@ -209,7 +227,8 @@
       "summary": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI destaca importância do transporte aquático para Amazonas, criticando falta de planejamento e demanda por secretaria estadual dedicada ao transporte. Menciona impacto da seca no preço de cimentos e necessidade do Estado compreender importância da navegação.",
       "speaker": {
         "name": "Claudomiro Carvalho",
-        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI"
+        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI",
+        "slug": "claudomiro-carvalho"
       }
     },
     {
@@ -220,7 +239,8 @@
       "summary": "Presidente da Associação Brasileira de Cabotagem - ABAC destaca importância de planejamento antecipado, identificação de pontos críticos e formação de mão-de-obra qualificada para enfrentar desafios como seca no Amazonas e impactos no custo da praticagem. Alerta sobre riscos de tirar navios do Rio Amazonas, que poderia afetar projetos do Arco Norte e praticagem.",
       "speaker": {
         "name": "Luis Fernando Resano",
-        "position": "Presidente da Associação Brasileira de Cabotagem - ABAC"
+        "position": "Presidente da Associação Brasileira de Cabotagem - ABAC",
+        "slug": "luis-fernando-resano"
       }
     },
     {
@@ -230,7 +250,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -241,7 +262,8 @@
       "summary": "Participante elogia iniciativa de investimento em navegação de cargas e passageiros, destacando a necessidade de infraestrutura, segurança e melhorias no setor, que envolve atendimento a municípios e transporte de pessoas com qualidade. O participante também menciona problemas com administração portuária e a falta de porto em Manaus.",
       "speaker": {
         "name": "Railgila Torres",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "railgila-torres"
       }
     },
     {
@@ -253,7 +275,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -263,7 +286,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -274,7 +298,8 @@
       "summary": "Participante propõe criação de secretaria para navegação interior e enfatiza importância de foco, planejamento e recursos para dragagem e sinalização em rios. Menciona iniciativa privada e concessões como solução, bem como a necessidade de estudos completos e edital com obrigações. Destaca papel da frente parlamentar e apoio dos deputados, especialmente do Norte, para discutir e pressionar por melhorias na navegação interior.",
       "speaker": {
         "name": "Adalberto tocastki",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "adalberto-tocastki"
       }
     },
     {
@@ -284,7 +309,8 @@
       "transcription": "",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -295,7 +321,8 @@
       "summary": "O participante é um ex-sargento do exército brasileiro, trabalha no transporte há cerca de 60 anos, tem conhecimento da Amazônia por ter sido membro da SUFRAMA, e atualmente é consultor da Eikeoplan. Ele está preocupado com a falta de referência ao transporte hidroviário nos livros escolares e quer estimular a criação de um plano de longo prazo para o setor hidroviário brasileiro.",
       "speaker": {
         "name": "Marcelo Perrupato",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marcelo-perrupato"
       }
     },
     {
@@ -306,7 +333,8 @@
       "summary": "Mestre de Cerimônias agradece participantes e anuncia encerramento da primeira etapa.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -317,7 +345,8 @@
       "summary": "DNIT's Aquaviaria Director:",
       "speaker": {
         "name": "Erick Moura",
-        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT"
+        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT",
+        "slug": "erick-moura"
       }
     },
     {
@@ -328,7 +357,8 @@
       "summary": "Mestre de Cerimônias apresenta diretor de infraestrutura aquaviária, DNIT, e pergunta se ele deseja falar. Mestre de Cerimônias refere ter compromisso na agência e pedido permissão ao deputado.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -339,7 +369,8 @@
       "summary": "ANTAQ Diretor prioriza problemas em pequenos portos do Pará, especialmente no Arco Amazônico, com atenção às vertentes sociais e disponibilidade para atender demandas parlamentares e apresentar planos de outorgas. Importância da navegação interior destacada.",
       "speaker": {
         "name": "Wilson Pereira de Lima Filho",
-        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ"
+        "position": "Almmirante e Diretor da Agência Nacional de Transporte Aquaviários - ANTAQ",
+        "slug": "wilson-pereira-de-lima-filho"
       }
     },
     {
@@ -351,7 +382,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -362,7 +394,8 @@
       "summary": "Mestre de Cerimônias convidou para coffee break e anunciou próximo bloco sobre crédito para o setor.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -372,7 +405,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -382,7 +416,8 @@
       "transcription": "Gostaria de convidar todos os participantes pra fazer uma foto oficial aqui na frente, a convite do deputado Saulo Viana. Porque alguns se ausentarão e nós gostaríamos de registrar esse momento. Pessoal, pode comparecer aqui pra fazer uma foto oficial do evento. Por por favor.",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -392,7 +427,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -402,7 +438,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -413,7 +450,8 @@
       "summary": "Mestre de Cerimônias convida Edmar, capitão de mar e guerra, para segunda parte da mesa de debates sobre crédito para o setor de navegação interior, com fomento e agilidade em políticas. Passa palavra para o presidente, deputado Saulo Viana.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -425,7 +463,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -436,7 +475,8 @@
       "summary": "Representante do Ministério dos Portos e Aeroportos afirmou que:",
       "speaker": {
         "name": "Dino Bastista",
-        "position": "Represetante do Ministério dos Portos e Aeroportos"
+        "position": "Represetante do Ministério dos Portos e Aeroportos",
+        "slug": "dino-bastista"
       }
     },
     {
@@ -447,7 +487,8 @@
       "summary": "Mestre de Cerimônias: debate aberto a inscrição, levante a mão; Débora ajudará; palavra passada para Claudiomiro Carvalho, presidente da ABANE; boa tarde a todos.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -458,7 +499,8 @@
       "summary": "Presidente da ABANI enfatizou importância do fundo para desenvolvimento de navegação, critica uso para outras atividades desvinculadas. Redução de receita enfraquece financiamento e modernização frota. Avisa risco de escassez de recursos futuros para navegação, se trend continua. Insiste em solução mais estruturada para financiamento e subsídios, especialmente transporte passageiros.",
       "speaker": {
         "name": "Claudomiro Carvalho",
-        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI"
+        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI",
+        "slug": "claudomiro-carvalho"
       }
     },
     {
@@ -469,7 +511,8 @@
       "summary": "Mestre de Cerimônias pede para que chamem o participante \"Dodó\" pelo nome, informa que o evento deve encerrar às 13h e pede quem deseje fazer considerações finais antes do encerramento.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -480,7 +523,8 @@
       "summary": "Participante destacou importância do Fundo Maria Mercante e dragagem no Rio Paraguai para transporte de cargas; apontou atraso no licenciamento ambiental para dragagem sul do Rio Paraguai e ofereceu ajuda como consultor da empresa JF atuante na região. Sugeriu discussão sobre renovação de frota no Amazonas com fundo garantidor, pois isso aumentaria sustentabilidade.",
       "speaker": {
         "name": "Adalberto tocastki",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "adalberto-tocastki"
       }
     },
     {
@@ -491,7 +535,8 @@
       "summary": "Mestre de Cerimônias: Capitão Edmar, obrigado por sua presença, aprecia chance de comparecer em nome da Marinha, agradece iniciativa do deputado Saulo, Marinha interessada em participar como instituição permanente.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -502,7 +547,8 @@
       "summary": "Capitão de Mar e Guerra disposto a contribuir com desenvolvimento do setor aeronáutico e marítimo do Brasil.",
       "speaker": {
         "name": "Capitão Edmar",
-        "position": "Capitão de Mar e Guerra"
+        "position": "Capitão de Mar e Guerra",
+        "slug": "capitao-edmar"
       }
     },
     {
@@ -512,7 +558,8 @@
       "transcription": "Considerações finais, senhor Eric Moura. Bem obrigado pela pela palavra, boa tarde a todos, né? Já estamos encerrando",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -523,7 +570,8 @@
       "summary": "Directory of Aquaviaria Infrastructure of the National Department of Transportation Infrastructure - DNIT suggests reviewing the name of the fund, involving Congress in supporting the arrival of boats from the south to the north, needing specialized infrastructure boats in the northern region, proposing using names of politicians for ports instead of boats, emphasizing the importance of continuing efforts on infrastructure, and suggesting a leading role for the Deputy in securing a credit.",
       "speaker": {
         "name": "Erick Moura",
-        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT"
+        "position": "Diretor de Infraestrutura Aquaviária do Departamento Nacional de Infraestrutura de Transportes -  DNIT",
+        "slug": "erick-moura"
       }
     },
     {
@@ -533,7 +581,8 @@
       "transcription": "Considerações finais o senhor Dino Batista. Bom,",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -544,7 +593,8 @@
       "summary": "Representante do Ministério dos Portos e Aeroportos destacou:",
       "speaker": {
         "name": "Dino Bastista",
-        "position": "Represetante do Ministério dos Portos e Aeroportos"
+        "position": "Represetante do Ministério dos Portos e Aeroportos",
+        "slug": "dino-bastista"
       }
     },
     {
@@ -555,7 +605,8 @@
       "summary": "Mestre de Cerimônias passa a palavra para Dodô dar considerações finais.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -566,7 +617,8 @@
       "summary": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior (ABANI) expressa felicidade por apresentar demandas ao Parlamento Brasileiro. Destaca a necessidade de dragagem contínua na Amazonia devido à seca e falta de dragas. Menciona problemas com IP4 no Amazonas, especialmente em Parintins. Pediu ação rápida antes que a legislatura termine em 2024.",
       "speaker": {
         "name": "Claudomiro Carvalho",
-        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI"
+        "position": "Presidente da Associação Brasileira Para o Desenvolvimento da Navegação Interior - ABANI",
+        "slug": "claudomiro-carvalho"
       }
     },
     {
@@ -577,7 +629,8 @@
       "summary": "Mestre de Cerimônias passa palavra a deputado federal Saulo Viana, vice-presidente da Frente Parlamentar Mista, para considerações finais. Obrigado. Mestre de Cerimônias deseja encerrar.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     },
     {
@@ -589,7 +642,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -600,7 +654,8 @@
       "summary": "Mestre de Cerimônias anunciou: reunião encerrada, transmitida no canal da Câmara e redes do deputado. Obrigado e que Deus abençoe a todos.",
       "speaker": {
         "name": "Wesley Elieser",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "wesley-elieser"
       }
     }
   ],

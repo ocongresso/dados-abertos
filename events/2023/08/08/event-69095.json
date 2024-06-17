@@ -16,7 +16,8 @@
       "summary": "Abertura da campanha \"Gosto Lilás\" contra violência a mulheres; promovida por Congresso, Secretaria da Mulher, Procuradoria Especial da Mulher e bancada feminina do Senado; debate temas relacionados e celebração de 17 anos da Lei Maria da Penha. Palavra passada para Deputada Is Arruda. Boa noite.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Palavra à senadora Zenaide Maia, procuradora especial da mulher. É aqui meus comprimento.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -49,7 +52,8 @@
       "summary": "Senadora fala sobre importância de mulheres no poder e homenageia lei Maria da Penha, que fortaleceu proteção às mulheres contra violência doméstica. Destaca a necessidade de informação e educação contra machismo.",
       "speaker": {
         "name": "Zenaide Maia",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "zenaide-maia"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Mestre de Cerimônia convida deputadas e vice-governadora a comparecerem ao evento, dá bem-vindo à senadora Daniela Ribeiro para falar.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -71,7 +76,8 @@
       "summary": "Senadora afirma ter oportunidade histórica como presidente da comissão mista de orçamento no Congresso Nacional; convida a participação de todos para audiência pública sobre orçamento para as mulheres; destaca a importância da união das mulheres e da parceria com homens na luta pela defesa da mulher. Congresso Nacional reconhece 17 anos da Lei Maria da Penha contra violência doméstica.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Mestre de Cerimônia propôs coordenação da bancada feminina, convidou Ministra Janja Lula para reunião, refletiu sobre importância da presença de mulheres no governo, agradeceu atuação da equipe econômica e saiu para votação no Senado.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Mestre de Cerimônia passa a palavra da deputada Elis Santos para a deputada Isa Arruda.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -175,7 +189,8 @@
       "summary": "Ministra das Mulheres reflexiona sobre os 17 anos da Lei Maria da Penha: elogia conhecimento da lei, mas destaca aumento de violência e impunidade no país. Propõe criar mais serviços especializados, garantir que não haja impunidade e investir em reeducação e perspectiva de gênero. Convida a lutar contra misoginia e pedir respeito a direitos das mulheres. Elogia bancada feminina pela aprovação de leis importantes.",
       "speaker": {
         "name": "CIDA GONÇALVES",
-        "position": "Ministra das Mulheres"
+        "position": "Ministra das Mulheres",
+        "slug": "cida-goncalves"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Ministra do Esporte abordou falta de representação no esporte brasileiro, especificamente no futebol feminino, com a intenção de combater essa desigualdade por meio de investimentos desde 2019. Ela também expressou preocupação com o respeito durante debates na Câmara, especialmente quando outras mulheres falavam.",
       "speaker": {
         "name": "ANA MOSER",
-        "position": "Ministra do Esporte"
+        "position": "Ministra do Esporte",
+        "slug": "ana-moser"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "A representante da Ministra dos Povos Indígenas agradece convite, reconhece importância de agosto lilás e lei Maria da Penha, menciona crescente presença de mulheres indígenas no poder, combate à violência e discriminação, e convida todas as mulheres à terceira marcha de mulheres indígenas.",
       "speaker": {
         "name": "JOZILEIA KAINGANG",
-        "position": "Representando a Ministra dos Povos Indígenas"
+        "position": "Representando a Ministra dos Povos Indígenas",
+        "slug": "jozileia-kaingang"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Coordenadora do Grupo de Trabalho de Violência Política de Gênero do Ministério Público Eleitoral destaca importância de combater violência contra mulher, divulgar lei contra violência política de gênero e promover pacto de não agressão no Congresso Nacional para igualdade de gênero.",
       "speaker": {
         "name": "RAQUEL BRANQUINHO",
-        "position": "Coordenadora do Grupo de Trabalho de Violência Política de Gênero do Ministério Público Eleitoral"
+        "position": "Coordenadora do Grupo de Trabalho de Violência Política de Gênero do Ministério Público Eleitoral",
+        "slug": "raquel-branquinho"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     }
   ],

@@ -13,7 +13,8 @@
       "summary": " Senador propõe iniciar reunião deliberativa, declarar lidos expedientes recebidos, dispensar leitura de ata terceira reunião, e consultar plenário sobre votação de proposições antecipadamente.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -24,7 +25,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Senador refere medidas provisórias aprovadas e PLNs com acordo dos líderes, discutidas na comissão. Alguma dúvida a mais, Senador? Presidente, o segundo item já foi objeto de leitura.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "\nOrientação da nossa Ah o dois tinha sido votado porque foi o que foi dito no colégio de líderes.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -67,7 +72,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -78,7 +84,8 @@
       "summary": " Senador concorda com formação da mesa e agradece.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -90,7 +97,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": " Senador propõe voto em bloco sobre projetos de mídia provisórios, discutidos com colégio de direito, em boa reunião comunicacional da comissão.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -112,7 +121,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -124,7 +134,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": " Senador discute sobre CMP e MPs em votação, aprovação pela Câmara dos Deputados e Senado Federal, e PLNs aprovados. Reúne representantes e declara encerramento.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": " Senador confirmou importância de audiências públicas para agendamento de emendas.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -169,7 +183,8 @@
       "summary": " Senador aprovou proposto da sua relatoria, PLN 6. Obrigado.",
       "speaker": {
         "name": "Marcos Rogério",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "marcos-rogerio"
       }
     },
     {
@@ -180,7 +195,8 @@
       "summary": " Senador fala sobre encerramento, peço para falar e agradece.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     },
     {
@@ -192,7 +208,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -202,7 +219,8 @@
       "transcription": "\nEstá encerrada a presente sessão.",
       "speaker": {
         "name": "Jayme Campos",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jayme-campos"
       }
     }
   ],

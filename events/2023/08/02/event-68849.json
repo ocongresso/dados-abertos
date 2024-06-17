@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Não, é que eu estava comendo com ele que aí depois nesse segundo aqui eu eu quero Deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Fernando Máximo -- por Participante -- Any Ortiz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-fernando-maximo-por-participante-any-ortiz"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -98,7 +105,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Any Ortiz -- por Participante -- Dr. Fernando Máximo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-any-ortiz-por-participante-dr-fernando-maximo"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -238,7 +257,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Fernando Máximo -- por Participante -- Florentino Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-fernando-maximo-por-participante-florentino-neto"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -308,7 +333,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Florentino Neto -- por Participante -- Mersinho Lucena",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-florentino-neto-por-participante-mersinho-lucena"
       }
     },
     {
@@ -320,7 +346,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -331,7 +358,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -342,7 +370,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -354,7 +383,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -366,7 +396,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -413,7 +447,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -437,7 +473,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -449,7 +486,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -461,7 +499,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -473,7 +512,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -485,7 +525,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -497,7 +538,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -509,7 +551,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -521,7 +564,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -533,7 +577,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -545,7 +590,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -557,7 +603,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -569,7 +616,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -580,7 +628,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -591,7 +640,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -603,7 +653,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -615,7 +666,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -627,7 +679,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -638,7 +691,8 @@
       "summary": "Agradecimento por oportunidade de presidir comissão importante.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Mersinho Lucena -- por Participante -- Félix Mendonça Júnior",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-mersinho-lucena-por-participante-felix-mendonca-junior"
       }
     },
     {
@@ -650,7 +704,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -662,7 +717,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -674,7 +730,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -686,7 +743,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -698,7 +756,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -710,7 +769,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -722,7 +782,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     }
   ],

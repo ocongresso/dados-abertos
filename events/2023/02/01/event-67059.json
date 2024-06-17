@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Líderes de diversos estados prestam juramento. Múltiplas menções a nomes de indivíduos.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Átila Lins",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-atila-lins"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -178,7 +192,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -188,7 +203,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -198,7 +214,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -208,7 +225,8 @@
       "transcription": "Reaberto os trabalhos.",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -289,7 +313,8 @@
       "transcription": "Passo a palavra à senhora secretária.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Átila Lins -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-atila-lins-por-participante-arthur-lira"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -311,7 +337,8 @@
       "transcription": "E senhoras deputados do Estado do Espírito Santo. Amaro Neto. Da Vitória. Doutor Vitor Linhares. Evair Vieira de Melo. Gilson Daniel. Gilvan da Federal, Elder Salomão, Jaque Rocha, Messias Donato, Paulo Estado do Rio de Janeiro, Altineu Cortez, Áureo Ribeiro, Bandeira de Melo, Bebeto. Benedita da Silva. A Silva Neto. Carlos Jordi. Chico Alencar. Chiquinho Brasão. Cristonieto, Dani Cunha, Daniel Soranz. Daniela do Vaguinho. Mistra. Delegado Ramagem. Dimas Gadelha. Doutor Luizinho, General Pazuello. Glauber Braga. Assim eu prometo. Gutenberg Reis. Hélio Lopes. Hugo Leal, Jandira Fegali, Jorge Braz, Júlio Lopes. Juninho do Pneu. Laura Carneiro. Lindemberg Farias. Luciano Vieira. Luiz Lima Marcelo Crivella Marcelo Queiroz. Marcos Soares. Marcos Tavares. Max Lemos. Murilo Gouveia. O Tony de Paula pastor Henrique Vieira, Pedro Paulo, Raymond. Roberto Monteiro, Rosângela Gomes, Sargento Portugal. Está aqui. Soraya Santos. Sóstanes Cavalcanti, está aqui. Taliria Petroni. Assim eu prometo. Tarcísio Mota. Washington Quaquá. Estado de São Paulo, Adriana Ventura, Aí depois depois. Alberto Mourão. Alencar Santana. Alex Manente. Alexandre Leite. Alexandre Padilha Antônio Carlos Rodrigues. Arlindo Naglia. Arnaldo Jardim. Baleia Rossi. Bruno Ganen, capitão Augusto, Carla Zambelli, Carlos Sampaio. Carlos Zaratini. Celso Russomano. Aí. Cesinha de Madureira Davi Soares Delegado Bruno Lima. Delegado da Cunha. Delegado Palumbo. Delegado Paulo Eduardo Bolsonaro, Érica Hilton, Fábio Teruel. Fausto Pinato. Felipe Becari. Obrigada Daniel. Gilberto Nascimento. Guilherme Boulos. Guilherme de Riti, Jefferson Campos, Gilmar Tato, Jonas Donizete, Juliana Cardoso Juliana Cardoso. Ai. Kiko Seleguim. Kim Kataguiri, Luiz Carlos Mota. Luiz Marinho. Luiz Felipe de Orleans e Bragança. Luiza Erundina. Marcelo Lima. Márcio Albino Marco Bertaiolli Marcos Pereira. Maria Rosas. Marina Silva. Mário Frias. Maurício Neves. Miguel Lombardi. Milton Vieira. Milton Tato. Paulo Alexandre Barbosa Paulo Freire Costa Paulo Teixeira pastor Marco Feliciano, Renata Abreu, Ricardo Sales Ricardo Silva Rodrigo Gambale. Rosana Vale. Rosângela Moro. Falar. Rui Falcão. Sâmia Bonfim. Simone Marquito, Sônia Guajajara. Tábata Amaral. Tiririca. Vinicius Carvalho, Vitor Lipe, Repetindoemos a chamada dos faltantes. Espírito Santo. Iniciando pelo estado do Espírito Santo, doutor Vitor Linhares. Doutor Vitor Linhares. Rio de Janeiro, Altinês, Altineu Cortez, Altineu Cortez, bandeira de Melo, Bandeira de Melo. Tá. Carlos Jordi, Cris Tonietto, Dimas Gadelha, Dimas Gadelha. Já. Dimas Gadelha não está presente. Doutor Luizinho presidente, só justificando que o doutor Luizinho está fazendo atendimento no hospital, portanto, Está impossibilitado de estar conosco nesse momento. Sim, no entanto, tomou posse, confirmado. Gutenberg Reis. Bebeto. Já Jorge Braz. Ah o Dimas foi junto com o doutor Luizinho pro hospital justificado também ambos empossados. Jorge Braz. Júlio Lopes. Marcelo Crivella. Marcelo Crivella. Raymond? Raymond. Estado de São Paulo. Davi Soares. Carlos Sampaio. Eu escutei delegado Bruno Lima. Eu escutei. Marcelo Lima. Alexandre Leite. Marco Betaiolli. Ricardo Silva, Rodrigo Gambale. Passo a palavra",
       "speaker": {
         "name": "Luisa Canziani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -333,7 +361,8 @@
       "transcription": "Abilio Brunini. Abilio Brunini. Amália Barros. Coronel Assis. Coronel Coronel Fernanda. Emanuel Pinheiro Neto. Fábio Garcia. José Medeiros. Ok. Okay. Juarez Costa. Ok. Distrito Federal, Alberto Fraga. Ok. Bia Kisses. OK. Érica Kocai. Ok. Fred Linhares. Gilvan Máximo. Júlio César Ribeiro. Professor Reginaldo Veras. Rafael Prudente. Professor Reginaldo Veras. Goiás. Ainda Distrito Federal Rafael Prudente. Goiás. Goiás, Adriano. Célio Silveira. Daniel Agrobom. Delegada Adriana. Doutor Zacarias Kalil. Flávia Moraes. Flávio aqui. Glauustino da Fox. Gustavo Gaia Gustavo Gaia Ismael Alexandrino. Jefferson Rodrigues. José Nilton. Mato Grosso ainda não chamou. Ele está resolvendo aqui Leda Borges. Magda Mofato. Professor Alcides. Rubens Ottoni. Silvia Alves. Ok também. Mato Grosso do Sul. Beto Pereira. Beto Pereira. Camila Jara. Dagoberto Nogueira. Doutor Luiz Ovando. Geraldo Rezende. Marcos Polo. Rodolfo Nogueira. Ok. Vander Lobert. Paraná, Ariel Machado. Beto Preto. Beto Richard. Carol Darthora. Delegado Mateus Laiola. Deltan Dallagnol. Diego Garcia. Dilceu. Felipe Francischini. Felipe Francischini. Felipe Barros. Geraldo Mendes. Chapéu? Chapéus. Gêako. Gleis Hoffmann. Perfeito. Leandro. Luciane Dulce. Luiza Canziane. Luiz Nishimoi. Paulo Lidro. Pedro Lupion. Pedro Lupion. Ricardo Barros. Sandro Alex. Posso conseguir? Sargento Faul. Sérgio Souza. Chama Lupião. Tadeu Veneri. Tião Medeiros. Esse Toninho que ninguém sobrenome. Toninho Vermelho. Zeca Dirceu. Santa Catarina. Ele já foi anotada. Santa Catarina Ana Paula Lima. Carlos Ciodini. Carmen Zanotto. Caroline Vitorne. Daniel Freitas. Daniela Roney. Ok também tá. Fábio. Xioxetti. Ok também. Gilson Marques. Ok. Ismael. Jorge Guten. Júlia Zanata. Pedro. Está OK também. Presente. Ricardo Guide. Zé Trovão. Rio Grande do Sul. Afonso Ram. Afonso Mota. Alceu Moreira. Ok ou não? Alexandre Lindurmeia. Anne Ortiz. Anne Ortiz. Bebo Nunes. Bom gasto. Carlos Gomes. Covate Filho. Daiana Santos. Ok. Daniel Cesiak. Darsley de Deus. Denise pessoa. Fernanda Melchiona. Franciane Bayer. Chama de novo. Franciane Bayer. Geovani Cherini. Chama novamente. Geovani Cherini. Está o quê? Heitor Chux. Heitor Chux. Heitor. Está ok também. Lucas Redack né. Lucas Redack. Ok também, Luiz Carlos Bossato. Marcelo Marcelo Moraes. Márcio Biostini. Chama ele mais uma vez que você fala. Márcio Biost. Marcon. Maria do Rosário. Maurício Marcon. Maurício Marcon. Osmar Terra. Paulo Pimenta. Pedro Westphalen. Pompeu de Matos. Sanderson. Denente coronel Zuko. Segunda chamada. Silveira. Doutor Zacarias Doutor Zacarias Kalil. Doutor Zacarias Kalil. Leda Borges. Leda Borges Mato Grosso do Sul. Paraná. Tadeu Venelli. Tadeu Venelli. Santa Catarina. Carlos. Carlos. É Pedro, Pedro, jogou o Pedro também, ele está ali Chama. Cobaustini. Chama o Pedro, o Pedro quer que chama ele, Daniel Freitas é Santa Catarina. Pedro Lupion. Pedro Lupion. Rio Grande do Sul. Rio Grande do Sul. Denise Pessoa. Denise Pessoa. Chama novamente o nome dela. Denise. Denise Pessoa. Capitão, Capitão Roberto Neto. Capitão Roberto Neto. Quem sabe? É na outra, já foi chamada, é outra lista. Deputado Bom Gás. A Lcione ela não girou. Aí o Lcione foi chamada duas vezes. Duas vezes, mas ela foi chamada do lado lá Flávia, vai lá na Flávia, Senhoras",
       "speaker": {
         "name": "Benedita da Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -345,7 +374,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -357,7 +387,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -369,7 +400,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     }
   ],

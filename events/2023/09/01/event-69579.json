@@ -15,7 +15,8 @@
       "transcription": "Do estado de",
       "speaker": {
         "name": "Mestre de Cerimônias",
-        "position": "-"
+        "position": "-",
+        "slug": "mestre-de-cerimonias"
       }
     },
     {
@@ -26,7 +27,8 @@
       "summary": "Reunião sobre melhoria de prevenção, diagnóstico e tratamento de câncer por vídeo, promovida por Flávia Moraes, em cumprimento à decisão da Comissão Especial. Presentes: Flávia Moraes, Jorge Moraes, representantes de Secretaria de Estado da Saúde, CONASSENS, secretário municipal de saúde, presidente do hospital de câncer Araújo Jorge, e representante da Braille e Todos Juntos Contra o Câncer C. Participação remota do Ministério da Saúde. Flávia Moraes coordena reunião.",
       "speaker": {
         "name": "Reunião inserida a partir de vídeo enviado pela Comissão.",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-inserida-a-partir-de-video-enviado-pela-comissao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     }
   ],

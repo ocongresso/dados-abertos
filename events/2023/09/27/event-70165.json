@@ -17,7 +17,8 @@
       "summary": "Senadora propõe quebra de interstício de dois dias úteis para a apreciação de alguns PLNs e deseja fazer questionamento. Reunião é semipresencial com parlamentares presentes e participando virtualmente.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Senadora propõe debater relatório em detalhes, em vez de abrir outros assuntos antes de estar preparada.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "Senadora propõe aprovação de PLNs 15, 18, 24 e medida provisória 180, concedendo verbas para desenvolvimento regional, sem emendas. Pede silêncio e atenção dos presentes.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Senador discute análise de projeto, constitucionalidade, adequação orçamentária, e mérito. Destaca importância de relevância, urgência, e imprevisibilidade para abertura de crédito extraordinário. Verifica conformidade com leis financeiras e apoia aprovação da MP em discussão, sem fonte de crédito operacional, respeitando \"regra de ouro\".",
       "speaker": {
         "name": "Laércio Oliveira",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "laercio-oliveira"
       }
     },
     {
@@ -83,7 +89,8 @@
       "transcription": "Para discutir deputada Adriana Ventura.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -105,7 +113,8 @@
       "transcription": "Com a palavra pra discutir o deputado Gilson Daniel. Só parabenizar o Senador.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -127,7 +137,8 @@
       "transcription": "Gilson Gilson Daniel com a palavra ao deputado Bom Gás pra discutir ainda o relatório.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": "Discussão encerrada, relatório em votação na Câmara dos Deputados. Aprovação de medida provisória para crédito especial de R$89.300.000, enviada à Câmara dos Deputados e posteriormente ao Senado Federal. Relatório apresentado pelo senador Laércio Oliveira.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Senadora apoia projeto de lei sem emendas, propõe aprovação na forma do executivo para fortalecimento financeiro da Companhia Docas do Rio de Janeiro com R$ 26.055.043.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -196,7 +212,8 @@
       "summary": "Discussão encerrada, relatório vai a votação em Câmara e Senado, aprovado e vai ao Congresso Nacional. Obrigado.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -207,7 +224,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -218,7 +236,8 @@
       "summary": "Senadora aprovada relatório projeto de lei orçamento fiscal, sem emendas, para crédito especial de oitenta e nove milhões de reais à União.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -229,7 +248,8 @@
       "summary": "Senador propõe aprovação de crédito adicional solicitado pelo Poder Executivo, em conformidade com leis e planos vigentes, com objetivo de incluir novas categorias de programação no orçamento para pagamento de contribuições a organismos internacionais. Aprovado o relatório demonstrativo de desvios. Voto favorável à aprovação do PLN 15/2023.",
       "speaker": {
         "name": "Laércio Oliveira",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "laercio-oliveira"
       }
     },
     {
@@ -239,7 +259,8 @@
       "transcription": "Aécio Oliveira, o relatório está em discussão pra discutir deputado Gaguinho. Senhor presidente eu queria pedir",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -250,7 +271,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -261,7 +283,8 @@
       "summary": "Senadora aprova artigo 130, vota por projeto de lei sem emendas rejeitadas, exceto número 2, 3, 5, 6, 8, 10, 25, 26, 28, indicadas como inadmissíveis pelo relator. Crédito especial às forças armadas e desenvolvimento regional aprovado.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -273,7 +296,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -284,7 +308,8 @@
       "summary": "Senadora submeteram emendas, a maioria inadmissíveis; relatório agora para discussão com deputada Adriana Ventura.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Relatório em votação na Câmara dos Deputados, sem interesse em discussão. Três destaques, dois aprovados, um prejudicado por ausência de deputada. Emenda 14, autorada por deputada Adriana Ventura, em discussão. Senadora vota contra relatório.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -319,7 +346,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -329,7 +357,8 @@
       "transcription": "Presidente, é meritório né?",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -341,7 +370,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -352,7 +382,8 @@
       "summary": "Senadora rejeita destaque em votação, propõe inclusão na pauta de um requerimento de audiência pública para debater a estruturação de atenção a crianças com autismo. Aprovado o requerimento do deputado Danilo Forte.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -364,7 +395,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -375,7 +407,8 @@
       "summary": "Senadora enfatiza o ano atípico e importância do trabalho de comissão com relação à LDO e LOA, destacando a aprovação de audiências públicas em estados e designação de relatórios setoriais para acelerar o processo. Agora passa a palavra para o deputado Danilo.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -386,7 +419,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -396,7 +430,8 @@
       "transcription": "Os dois. Obrigada deputado. Com a palavra deputada Danilo foto. Seguindo",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -408,7 +443,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -418,7 +454,8 @@
       "transcription": "Com a palavra o deputado Gaguinho. Minha Presidente,",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -430,7 +467,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -441,7 +479,8 @@
       "summary": "Senadora afirma que todos estão vigilantes para que orçamento seja cumprido, trabalhando unidos por interesse do país, e estarão satisfeitos com o resultado final.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -453,7 +492,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -464,7 +504,8 @@
       "summary": "Senadora propõe a apreciação do requerimento número 13 de 2023, apresentado pelo deputado Danilo Ford.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -476,7 +517,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -487,7 +529,8 @@
       "summary": "Senadora propõe passar à votação de um requerimento, já em curso no Congresso. Audiências públicas marcadas para outubro. Somente o PLN 19 será adiado para próxima reunião. Reunião encerrada.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     }
   ],

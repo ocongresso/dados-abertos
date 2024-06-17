@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Vice-Presidente do Comitê Olímpico do Brasil agradece convite para apresentar trabalho de excelência em preparação para Jogos Olímpicos, resultando em melhores resultados desde lei das loterias e investimento no esporte. Ele está acompanhado por diretores executivos que apresentarão detalhes do trabalho feito no Comitê Olímpico.",
       "speaker": {
         "name": "Marco La Porta",
-        "position": "Vice-Presidente do Comitê Olímpico do Brasil"
+        "position": "Vice-Presidente do Comitê Olímpico do Brasil",
+        "slug": "marco-la-porta"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Diretor-Executivo do Comitê Olímpico do Brasil apresentou estratégia em quatro partes:",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Diretora Financeira do Comitê Olímpico do Brasil apresentou processo de orçamento: começa em julho com preparação, divulgação em setembro, cadastramento e análise em outubro/novembro, aprovações em novembro/dezembro por áreas, diretores, conselhos e assembleia. Orçamento tem receita prevista de 4 milhões, com diferença proveniente de contingências internas. Apresentação ocorre durante reunião, com interações breves.",
       "speaker": {
         "name": "Isabele Duran",
-        "position": "Diretora Financeira do Comitê Olímpico do Brasil"
+        "position": "Diretora Financeira do Comitê Olímpico do Brasil",
+        "slug": "isabele-duran"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Imagem de Isabelle para melhorar sinal, somente voz oucita. Diretor-Executivo do Comitê Olímpico do Brasil atende interrupção de Isabelle sobre sinal cortando.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Diretora Financeira do Comitê Olímpico do Brasil apresentou orçamento de 2023 com receita prevista de R$428 milhões e despesa de R$504 milhões, coberta por recursos contingenciados. Investimento em legado será de 17% da arrecadação. Orçamento inclui duzentos milhões para modalidades esportivas e duzentos e fünfe milhões propostos para investimento. Saldo pode ser trasferido para o próximo ano. Financiamento vem de loterias, recursos próprios, solidariedade olímpica, e parcerias.",
       "speaker": {
         "name": "Isabele Duran",
-        "position": "Diretora Financeira do Comitê Olímpico do Brasil"
+        "position": "Diretora Financeira do Comitê Olímpico do Brasil",
+        "slug": "isabele-duran"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Gerente de Jogos e Operações Internacionais do Comitê Olímpico do Brasil abordou responsabilidades e escopo do alto rendimento, projetos esportivos em preparação para Panamericanos de Santiago e Jogos Olímpicos de Paris, além de estratégias para classificação e competição, acompanhamento de projeto e equipe multidisciplinar, e uso de recursos.",
       "speaker": {
         "name": "Sebástian Pereira",
-        "position": "Gerente Executivo de Jogos e Operações Internacionais e Alto Rendimento do Comitê Olímpico do Brasil"
+        "position": "Gerente Executivo de Jogos e Operações Internacionais e Alto Rendimento do Comitê Olímpico do Brasil",
+        "slug": "sebastian-pereira"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Ciclo olímpico atual prepara atletas para Jogos Olímpicos de Paris 2024 por meio de dez eventos, incluindo jogos sulamericanos, panamericanos e olímpicos de inverno e verão. Classificações diretas em 21 modalidades em Santiago e indiretas em outras 12, baseadas em rankings altos. Iniciou-se nos jogos sulamericanos em Assunção com 27 classificações diretas aos jogos panamericanos.",
       "speaker": {
         "name": "Ney Wilson",
-        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil"
+        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil",
+        "slug": "ney-wilson"
       }
     },
     {
@@ -129,7 +139,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -139,7 +150,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -149,7 +161,8 @@
       "transcription": "Bem, seguindo, o planejamento para Paris né, as primeiras definições de estratégia começaram em dois mil e dezenove. Dois mil e vinte a gente teve a oportunidade pela primeira vez de fazer uma incursão e entender aonde seria a Vila Olímpica e as oportunidades que nós poderíamos ter junto à à Vila Olímpica que é sempre uma estratégia de suporte aos nossos atletas, Em dois mil e vinte e fizemos várias visitas técnicas e finalmente em vinte e dois nós tivemos o nosso contrato assinado entre o presidente Paulo Vanderlei e o prefeito da cidade de Santuã, que é a cidade que nós elegemos pra ser a cidade que irá dar todo o apoio e o suporte à delegação brasileira, a gente vai falar pouquinho mais à frente sobre a cidade de Sant'Anna. Tivemos ainda em dois mil e vinte e dois evento teste nessas instalações com a equipe olímpica de voleibol, eles estavam de passagem para irem ao campeonato mundial, e tiveram conosco lá pra que pudesse dentro das especificidade da modalidade pudesse dar aquela aquele aquela visão não só do atleta mas da comissão técnica do voleibol e pudesse dar os entendimentos e ajuste que a gente precisasse fazer ou precise fazer até os Jogos Olímpicos, no sentido de construir aquilo que seja de melhor para o entendimento e para os atletas terem a tranquilidade de chegarem lá e se preocuparem em treinar, descansar e competir, né? Ainda Esse ano de dois mil e vinte e três, nós já estivemos lá também num evento teste com a equipe de, que também estava na Europa de passagem, e nesse momento passaram por lá, fizeram treinamento pra que a gente pudesse entender a parte de disca toda a movimentação, testar também que é uma coisa sempre muito importante pros nossos atletas brasileiro que é a alimentação brasileira, então a gente tem chefe que está em contato com a a parte toda de de de elaboração do nosso cardápio com a nossa nutricionista, junto com aqueles que fazem parte da construção desse cardápio e poder oferecer isso e ir ajustando gradativamente né? E agora a gente está trabalhando e caminhando. É importante que a gente possa sim entender toda a nossa operação, né? A gente tem uma equipe, A gente tem uma equipe por trás extremamente importante nesse processo pra que dê tranquilidade aos nossos atletas que cuidem de toda a operação, seja a operação de viagens, seja operação de uniforme, seja na capacitação também dos nossos Chefes de de equipes, é importante a gente destacar, a logística desse material, é ponto que vale a pena nós entendermos porque eu venho de uma modalidade que é o judô a gente Te carrega o quimono bota na mala e leva. E me deparei lá no COB com entender essa logística quando tive com o nosso campeão olímpico Torben Gael e ele falou assim olha a minha modalidade a gente não bota uma raquete pra ir jogar a gente precisa dum barco, então essa logística de transportar barco às vezes o barco está na Europa, às vezes tem que testar uma vela que está saindo da fábrica pras meninas testarem, enfim, isso tudo implica numa logística extremamente complexa, Tador né, pros Jogos Olímpica a gente tem cavalos saindo de todos os continentes pra chegar lá né, isso tudo é é uma logística extremamente complexa, quando a gente fala de de tiro a gente tem que transportar munição, é uma é outra logística extremamente complexa, então a a nossa equipe que trabalha no fundo acaba dando esse suporte pra que Tenha bastante tranquilidade chegue lá o cavalo esteja lá tranquilo, ah o barco esteja lá, as velas, o macho esteja tudo preparado e dê toda a tranquilidade pra que os treinadores, atletas e toda a comissão técnica estejam só se preocupando com o treinar eu competir. Nós temos também ao longo né, do ano de vinte e três e vinte e quatro a preparação e a capacitação dos nossos chefes de equipe que é fundamental nessa nesse relacionamento com o COB porque a demanda também são grandes de credenciamento, lista larga, até definir as equipes, é o 0 processo de de classificação olímpica, entender a a movimentação da sua modalidade dentro dos congressos enfim essa essa capacitação é extremamente importante e acaba alinhando e facilitando o trabalho de todos nós então essa capacitação é extremamente rica e importante. A parte de de infraestrutura é uma área específica que a gente trabalha que, só pra dar exemplo pra gente entender de infraestrutura por exemplo, a gente está montando uma quadra de treinamento de vôlei de de beach vôlei beach vôlei na verdade construindo essa quadra com a mesma direção onde vai ser feita a quadra olímpica a menos de quinze minutos da Vila olímpica em Santuã, e isso permite nossos atletas entenderem até o posicionamento do sol, então é esses pequenos detalhes pra quem lida com alto rendimento pode fazer e deve fazer uma MUITO GRANDE. ENTÃO, O NOSSO NÍVEL DE É MUITO GRANDE, PORQUE QUANDO A GENTE FALA, NO VOLEYBOL POR EXEMPLO, COMO, COMO EXEMPLO Muitas vezes o treinador quer fazer dois treinamentos por dia e durante os Jogos Olímpicos só é permitido horário de uma hora e a nossa equipe merece ter a oportunidade de treinar mais de uma vez por dia como os treinadores desejam como foi o caso do Bernardin, o Zé Roberto e outros treinadores que pedem né, assim como a gente também constrói espaços pra reservado exclusivamente pra seleção pra atender o trabalho de preparação física, onde eles possam fazer trabalho conjugados de quadra e também de trabalho físico, enfim, isso aí toda a nossa parte de infraestrutura onde a gente tem na liderança uma arquiteta que inclusive foi atleta olímpica que é a Daniela Paulzin, que acaba trabalhando e construindo junto com a nossa área esse essa preparação e dar o melhor pros nossos atletas. E também não poderíamos deixar de falar aí A nossa delegação pra que a gente tenha ideia a nossa delegação agora pros jogos de Santiago nós deveriamos ter em torno muito perto ou pouco mais de mil membros na nossa delegação, na nossa missão, então a operação de uniforme é uma coisa muito complexa, a gente não tem todo mundo saindo do de único então a gente tem que fazer esse processo de entrega de de de informes e quando a gente fala de Paris a gente está falando de aproximadamente uma delegação entre seiscentos e seiscentos e cinquenta membros né, aonde a gente tem que transportar esse nosso material, o fornecedor do nosso material é chinês e o material vem da China direto chegando ou em Santiago ou em Paris, então isso requer todo trabalho pra montagem de toda a as malas pro que os atletas possam receber essas malas da melhor forma. Cuidar do transporte aéreo é quase que uma agência de turismo pra cuidar dessa a nossa área interna aí cuidando do transporte aéreo, do transporte terrestre pra que os nossos atletas possam chegar a gente tem muitos atletas de muitas modalidades como por exemplo o handebol onde a maior parte dos atletas vivem na Europa, então no caso agora pra ir pra pra França é mais fácil, mas a gente também tem atletas que jogam na Ásia, a gente tem atletas que estão no Brasil e a gente tem que levar todo mundo ao mesmo tempo num cronograma obedecendo a tudo aquilo que é exigido pelo comitê organizador em termos de entrada na vila, o espaço que tem, a modalidade que é a modalidade que sai a outra que chega então tudo isso é importante. Outro ponto que a gente cuida com muito carinho e sempre muito recebido pelos nossos atletas é a parte de alimentação né, assim foi no Japão onde a gente pôde nossos atletas terem o 0 feijão com arroz todo dia que eles desejam né, e assim será também em Paris né, esse cuidado que a gente tem em ter a comida brasileira, algumas modalidades permanecem por muitos dias durante os Jogos Olímpicos às vezes dez quinze dias dentro dos Jogos Olímpicos, e obviamente eles sentem falta e a gente dar essa tranquilidade que acaba afetando até o lado emocional do atleta, o psicológico então é muito importante. Falando em em atendimento aí a gente fala também da área médica, área de prevenção ao DOPEN, a recuperação de atletas muitas vezes são muitos jogos jogos que vão se afunilando e chegando a jogos decisivos então é extremamente importante a participação de toda a equipe multidisciplinar envolvendo a ciência do esporte, algumas algumas dessas dessas Disciplinas ficam dentro da vila pra poder dar suporte imediato, né, como uma análise de desempenho, como a bioquímica, enfim, poder dar esse suporte imediato ao treinador entender como é que os atletas estão respondendo e se recuperando e a atuação dos nossos fisioterapeuta, atuação dos nossos massoterapeuta pra que dê as melhores condições possíveis né? Como falamos também a área de aonde a gente atua e monta lá, a gente transporta pra lá no no evento teste que fizemos com o voleibol, todo o equipamento foi saiu da Holanda pra pra França pra que a gente pudesse dar o suporte e entender a necessidade e se era adequada aos atletas e aí a gente falando novamente de detalhes a gente está falando de atletas de voleibol são atletas muito muito altos, então é importante que a gente possa entender a necessidade, que equipamento se adequam melhor, pode temos também que não deixa de ser é extremamente importante também pra segurança de todos os atletas que é o que a gente denomina de esporte Seguro, todos os nossos atletas passam por cursos até chegarem lá, é obrigatório pra todos os membros da delegação, e chegando lá eles têm palestras que permitem a eles terem canal de denúncia a qualquer, pra que a gente possa enfrentar da melhor forma é toda a possibilidade em termos de manter a segurança dentro da missão brasileira. E finalmente nós temos aí a parte de cobertura algumas modalidades não têm tanta visibilidade então a gente tem o Canal Olímpico do Brasil que sempre está dando uma uma cobertura a essas modalidades que nem sempre chegam a televisão aberta né, resumidamente aí a gente tem quadro que mostra tudo o que foi falado, todo o suporte de tudo aquilo que a gente implementa dentro da da vila, fora da vila, fora da vila quando a gente Falando, a gente está falando muito próximo da vila que é Santo Uã e a gente vai falar bem rapidamente porque já acabou o nosso tempo aqui. Pode ir. Bem, os critérios pra gente chegar à cidade de Santo Ame, pra que a gente tenha ideia entre a entrada mais próxima da vila e a nossa aonde está a nossa delegação é pouco menos de quinhentos metros, então tudo ocorrendo normal obviamente a gente vai ter transfer nesse percurso mas dá pra fazer tranquilamente a pé, é uma reta é uma reta dá pra fazer também de transporte alternativo, bicicleta enfim, patinete enfim várias formas, Obviamente claro que cada treinador tem que ter o seu cuidado com a segurança dos seus atletas pra ninguém se lesionar. Esse é ícone da cidade, é o Chateau de Santuário, hoje ele é usado como uma uma tenham várias atividades culturais lá dentro mas a principal são música erudita, músicas clássicas e instrumentos que são ensinados a comunidade lá, é aonde a gente vai usar esse espaço pra família olímpica que são aqueles são parentes dos atletas amigos et cetera pra que os atletas possam receber esses familiares e amigos, a gente vai ter a gente está mantendo contato com a embaixada lá em Paris, a embaixada vai dar o consulado vai ter uma sala lá dentro pra qualquer eventualidade, perda de perda de de algum documento, ou a necessidade de utilização de hospital, coisa parecida, temos aí o ginásio que será utilizado pra algumas modalidades entre elas o voleibol que é o ginásio dezdoc, ele é já foi testado com voleibol, foi testado com o Taekwendor, e já temos várias reivindicações daquilo que a gente precisa ajustar, é extremamente importante, esse aí é já outro ponto que é aonde a gente vai fazer o nosso a nosso receptivo, toda a delegação do Brasil quando chegar vai passar por aí porque é aí que eles vão receber o uniforme a mala deles de uniforme então é é momento importante é momento aonde o atleta se sente o pertencimento da delegação porque ele é o momento de receber todo o material esportivo que eles vão utilizar, e finalmente aí falando pouquinho de Santo Anjo a gente vai passar vídeo bem rapidinho. Oi? Não vou só falar só desse aqui. Bem, não conseguimos passar o vídeo então vamos Vamos avançar bem rapidamente aí pra não avançar demais aí o tempo. Nós temos algumas subsedes além da Vila Olímpica, né? Que serão, Bem, falando da subseD, eu acho que o que mais vale destacar aí são do duas O que nós teremos, que são pouco mais distante de Paris, que é o Taiti, que é do outro lado do mundo, é aonde vai ser realizada a modalidade de surf, e tem toda uma peculiaridade pra gente entender essa essa subsede, e a gente tem também Marseille, aonde vai ser realizado a vela né? A vela tem toda uma particularidade, vento, maré, enfim tudo isso influencia, polaridade, vento, maré, enfim tudo isso influencia no resultado da modalidade, a gente foi buscar também assim como a gente encontrou Santuã e Marselha a gente foi buscar condições pra que a nossa equipe de Vela tenha as melhores Oportunidades a gente entender a a geografia da de Marcelle, entender aonde vai ser a competição, a proximidade do da da nossa logística. Podemos avançar mais mais Pula, pula o vídeo. Vai. Finalmente pra encerrar, falando aí do Taiti, Taiti está a muita distância de Paris então tornase uma logística bem bem complexa pra gente também, aonde só teremos uma modalidade lá, as ondas lá são ondas bem diferentes, segundo os entendidos do do surfe é a o lugar mais perigoso pra se surfar no mundo, né é risco bastante grande, é lugar que precisa uma atenção muito especial, e pra isso a gente também está dando tratamento bem especial, Este ano em julho a gente está indo pra evento teste lá, pra gente poder entender a logística se tudo aquilo que a gente está organizando Os atletas aprovam o que que eles acham, qual é o retorno que eles dão pra gente dar o detalhamento que a gente necessita e os atletas esperam do Comitê Olímpico do Brasil. Pode. Pode. Bem, desculpe aí a a correria, mas pra gente finalizar, como a gente falou a gente espera ter aí entre trezentos e são com seiscentos seiscentos e cinquenta membros na comissão mais na na missão, porém essas são as vagas que já foram conquistada nós temos vinte e duas vagas conquistadas sendo que duas delas ainda depende de de confirmação o tempo da maratona já foi alcançada da marcha também no masculino, porém ainda tem que ter a ratificação do da World Atlética pra que possa, e isso vai até o mês de abril do ano que vem, então é essa é as vagas conquistadas. Bem, a gente, em nome aí de todo o Comitê Olímpico a gente agradece essa oportunidade, é sempre bom a gente estar mostrando aquele trabalho que a gente realiza e estamos sempre abertos a as críticas, a construção conjunta, assim como fazemos com as confederações de esportes nacionais. Obrigado aí a todos.",
       "speaker": {
         "name": "Ney Wilson",
-        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil"
+        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil",
+        "slug": "ney-wilson"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -172,7 +186,8 @@
       "summary": "Estudante era judoca; viajou para exterior, sentiu falta de apoio governamental a atletas, deseja saber se haverá plano com \"olheiros\" reconhecendo esforços.",
       "speaker": {
         "name": "Pedro Valverde",
-        "position": "Estudante"
+        "position": "Estudante",
+        "slug": "pedro-valverde"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Atletas treinados rigorosamente desde infância com apoio do Governo Federal e entidades esportivas; Diretor-Executivo do Comitê Olímpico do Brasil destaca lacunas a serem preenchidas em apoio a atletas talentosos.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -205,7 +222,8 @@
       "summary": "Estudante competiu em diversos lugares, agradece apoio brasileiro às competições esportivas.",
       "speaker": {
         "name": "Pedro Valverde",
-        "position": "Estudante"
+        "position": "Estudante",
+        "slug": "pedro-valverde"
       }
     },
     {
@@ -216,7 +234,8 @@
       "summary": "Director-Executivo do Comitê Olímpico do Brasil convidou a se encontrarem no tatame para brincar e treinar, dizendo que é uma honra e obrigado.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -226,7 +245,8 @@
       "transcription": "Obrigado futuro.",
       "speaker": {
         "name": "Pedro Valverde",
-        "position": "Estudante"
+        "position": "Estudante",
+        "slug": "pedro-valverde"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -249,7 +270,8 @@
       "summary": "Estudante se interessou por expectativas de infraestrutura e medalhas Brasileiras na Olimpíada. (Resumo pode ser encurtado ainda mais; objeto da pergunta foi a participação do Brasil nas Olimpíadas.)",
       "speaker": {
         "name": "Felipe Neri",
-        "position": "Estudante"
+        "position": "Estudante",
+        "slug": "felipe-neri"
       }
     },
     {
@@ -261,7 +283,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -272,7 +295,8 @@
       "summary": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil: Em 2021, obteve 21 medalhas, aspira à evolução com foco em campeonatos mundiais antes dos Jogos Olímpicos; espera melhorar resultado de Tóquio, visando maior glória para o Brasil. Esporte não é matemática, mas trabalham para evoluir.",
       "speaker": {
         "name": "Ney Wilson",
-        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil"
+        "position": "Diretor de Alto Rendimento do Comitê Olímpico do Brasil",
+        "slug": "ney-wilson"
       }
     },
     {
@@ -284,7 +308,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -306,7 +332,8 @@
       "transcription": "A luta foi com húngaro.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -318,7 +345,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -329,7 +357,8 @@
       "summary": "Comitê Olímpico do Brasil prioriza ética, transparência e preparação adequada para Jogos Panamericanos por meio do programa GET e programa de preparação Panamericana, distribuindo recursos diretamente a atletas em vez de confederações. Aprovação na assembleia necessária para mudanças nos recursos e sua distribuição.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -341,7 +370,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -353,7 +383,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -365,7 +396,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -376,7 +408,8 @@
       "summary": "Diretor-Executivo do Comitê Olímpico do Brasil se refere à necessidade de confederações administrarem recursos públicos de maneira adequada, limitação de recursos de loterias, potencial de aumento de recursos com debate sobre apostas esportivas online, alta proporção de orçamento das loterias direcionada para atividades esportivas e atletas, e estimula aprimoramento de federações estaduais para acessar mais recursos, incluindo incentivos fiscais.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -399,7 +433,8 @@
       "summary": "Diretor-Executivo Comitê Olímpico do Brasil propõe pequeno imposto em aposta esportiva para financiar movimento olímpico, destaca transparência em uso de recursos e disposto a dar opinião quando solicitado.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -410,7 +445,8 @@
       "summary": "Movimento olímpico crucial; Brasil visa mais medalhas; necessita de recursos adicionais; apostas online podem ajudar a transformar esporte olímpico brasileiro; Brasil tem boa posição no ranking geral de esportes.",
       "speaker": {
         "name": "Marco La Porta",
-        "position": "Vice-Presidente do Comitê Olímpico do Brasil"
+        "position": "Vice-Presidente do Comitê Olímpico do Brasil",
+        "slug": "marco-la-porta"
       }
     },
     {
@@ -422,7 +458,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -433,7 +470,8 @@
       "summary": "Diretor-Executivo do Comitê Olímpico do Brasil afirma que o comitê administra Parque Aquático Maria Lenk, oferecendo instalações modernas para treinamento de alto rendimento em treze modalidades. O parque olímpico, dividido em gestão entre governos federal, municipal e forças armadas, é bem cuidado e recebe eventos internacionais. Authorities work towards bringing more international events to the Olympic Park, including world, pan-American, and South American championships.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -445,7 +483,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -456,7 +495,8 @@
       "summary": "Diretor-Executivo do Comitê Olímpico do Brasil valoriza atletas olímpicos no Ministério do Esporte, busca maior alcance esportivo na infância e juventude, alta performance e aumento de recursos para o esporte no Brasil, em vez de dividir os recursos existentes.",
       "speaker": {
         "name": "Rogério Sampaio",
-        "position": "Diretor-Executivo do Comitê Olímpico do Brasil"
+        "position": "Diretor-Executivo do Comitê Olímpico do Brasil",
+        "slug": "rogerio-sampaio"
       }
     },
     {
@@ -468,7 +508,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -479,7 +520,8 @@
       "summary": "Vice-Presidente do Comitê Olímpico do Brasil se refere ao acompanhamento atencioso da lei geral do esporte, participação ativa em discussões, e satisfação com o projeto atendendo às demandas do movimento olímpico.",
       "speaker": {
         "name": "Marco La Porta",
-        "position": "Vice-Presidente do Comitê Olímpico do Brasil"
+        "position": "Vice-Presidente do Comitê Olímpico do Brasil",
+        "slug": "marco-la-porta"
       }
     },
     {
@@ -491,7 +533,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -503,7 +546,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -514,7 +558,8 @@
       "summary": "Vice-Presidente do Comitê Olímpico do Brasil relata segurança em reunião, se sente honrado com proteção de judocas, e menciona passagem de relatório anual de atividades de 2022 ao deputado Luiz Lima e delegado da Cunha.",
       "speaker": {
         "name": "Marco La Porta",
-        "position": "Vice-Presidente do Comitê Olímpico do Brasil"
+        "position": "Vice-Presidente do Comitê Olímpico do Brasil",
+        "slug": "marco-la-porta"
       }
     },
     {
@@ -526,7 +571,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     }
   ],

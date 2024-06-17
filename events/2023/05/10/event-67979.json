@@ -18,7 +18,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Habitam paraíso; morada desde nascimento; mudanças na vida somente o horto; filha de funcionários; construíram casa com autorização; trabalharam e se aposentaram no local; luta continua; despejos e violência; residente de 66 anos sofreu reintegração de posse.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Assessora da Consultoria Jurídica da Presidência da República discutiu situação complexa da comunidade do Horto; Palácio do Planalto interlocutor com outros órgãos do governo; estudos técnicos em andamento; solução necessita cooperação de TCU, Poder Judiciário e Câmara dos Deputados para harmonizar interesses históricos e patrimoniais da comunidade.",
       "speaker": {
         "name": "Renata  Almeida D Avila",
-        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República"
+        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República",
+        "slug": "renata- almeida-d-avila"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Secretário de Gestão do Património da União: compromisso de cumprir função socioambiental de imóveis públicos, parcerias com outras entidades para regularizar famílias e manter questões ambientais, ação imediata na rua Dona Castorina, espera por definição governamental para ação em outras áreas.",
       "speaker": {
         "name": "Lucio Geraldo de Andrade",
-        "position": "Secretário de Gestão do Património da União - Secretaria do Patrimônio da União"
+        "position": "Secretário de Gestão do Património da União - Secretaria do Patrimônio da União",
+        "slug": "lucio-geraldo-de-andrade"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -95,7 +102,8 @@
       "summary": "Consultor Jurídico do Ministério do Meio Ambiente e Clima abordou solução complexa para assunto do Horto Florestal, envolvendo questões ambientais, patrimoniais e humanitárias. Reconhece obstáculos como limitações impostas pelo TCU e decisões judiciais. Propõe abordagem macro para atingir solução duradoura, alinhada com objetivo de preservar patrimônio do Jardim Botânico. Reafirma compromisso do Ministério com esse desafio.",
       "speaker": {
         "name": "Daniel Otaviano de Melo Ribeiro",
-        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima"
+        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima",
+        "slug": "daniel-otaviano-de-melo-ribeiro"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -118,7 +127,8 @@
       "summary": "Comunidade do Horto tem história com Jardim Botânico; enfrentou ações de reintegração após hundreds of twenty-one famílias; Advogado procura diálogo para solução consensual respeitando direitos da comunidade e do Jardim; desde 2013, contexto político e jurídico dificultou; prioridade é solução negociada sobre bens em disputa.",
       "speaker": {
         "name": "Rafael da Mota",
-        "position": "Advogado - Associação de moradores e amigos do Horto"
+        "position": "Advogado - Associação de moradores e amigos do Horto",
+        "slug": "rafael-da-mota"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -141,7 +152,8 @@
       "summary": "Procurador Federal do Jardim Botânico do Rio de Janeiro agradece oportunidade de participar no debate sobre tema importante, afirmando que jardim botânico está no grupo da secretaria geral para buscar solução adequada aos interesses envolvidos. Eles têm participado de reuniões e debates sobre a questão, sempre presentes quando convidados.",
       "speaker": {
         "name": "Alexandre Coelho",
-        "position": "Procurador Federal - Jardim Botânico do Rio de Janeiro"
+        "position": "Procurador Federal - Jardim Botânico do Rio de Janeiro",
+        "slug": "alexandre-coelho"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal afirmou que a AGU está acompanhando, monitorando procuradorias envolvidas em questão do Horto Florestal, buscando solução complexa que inclui Ministério Público, município do Rio de Janeiro e regularização fundiária. AGU sensível à situação comunitária, deseja boa solução para todos.",
       "speaker": {
         "name": "Ana Paula Passos Severo",
-        "position": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal"
+        "position": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal",
+        "slug": "ana-paula-passos-severo"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Presidente da associação de moradores e amigos do Horto negou conflito ambiental e questionou tomada de decisão do Jardim Botânico. Sua comunidade, com mais de 500 famílias, pede inclusão em debates e não quer favelização ou crescimento excessivo. Reconhece importância de preservar área tombada e defende diálogo respeitoso a todos os interesses envolvidos.",
       "speaker": {
         "name": "Fábio Dutra Costa",
-        "position": "Presidente - Associação de moradores e amigos do Horto"
+        "position": "Presidente - Associação de moradores e amigos do Horto",
+        "slug": "fabio-dutra-costa"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -210,7 +227,8 @@
       "summary": "Secretária de Ambiente e Clima do Rio de Janeiro abordou:",
       "speaker": {
         "name": "Tainá Reis de Paula Kapaz",
-        "position": "Secretária de Ambiente e Clima do Rio de Janeiro"
+        "position": "Secretária de Ambiente e Clima do Rio de Janeiro",
+        "slug": "taina-reis-de-paula-kapaz"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Procuradoria da República participa do caso Jardim Botânico desde 2",
       "speaker": {
         "name": "Júlio José de Araújo",
-        "position": "Procurador da República - Procuradoria Regional do Direito do Cidadão"
+        "position": "Procurador da República - Procuradoria Regional do Direito do Cidadão",
+        "slug": "julio-jose-de-araujo"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -268,7 +290,8 @@
       "summary": "Vice-Presidente da Associação de moradores e amigos do Horto agradece e sauda presentes, inclui autoridades e parlamentares, homenageia moradores históricos do local. Destaca importância da comunidade para o Jardim Botânico, refuta conflito ambiental, e pede respeito e diálogo sério com o Governo Federal para tratar assuntos emblemáticos e históricos do Horto. Invita todos a conhecer a comunidade pessoalmente.",
       "speaker": {
         "name": "Felipe Guimarães Melo",
-        "position": "Vice-Presidente - Associação de moradores e amigos do Horto"
+        "position": "Vice-Presidente - Associação de moradores e amigos do Horto",
+        "slug": "felipe-guimaraes-melo"
       }
     },
     {
@@ -280,7 +303,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -291,7 +315,8 @@
       "summary": "Resumo: A secretária da Associação de moradores e amigos do Horto leu uma carta expressando sentimentos dos moradores do local, um chão de terra em Rio de Janeiro. A terra evoca recordações de infância, jogos e crescimento dos moradores, seguidos por tristeza e medo devido à violência e ameaça de abandono. Moradores prometem lutar por seus direitos e mantê-la como sua casa. Pedem para deixar a terra do Horto em mãos de seus verdadeiros protetores.",
       "speaker": {
         "name": "Lirian Miranda Abrão",
-        "position": "Secretária - Associação de moradores e amigos do Horto"
+        "position": "Secretária - Associação de moradores e amigos do Horto",
+        "slug": "lirian-miranda-abrao"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -362,7 +392,8 @@
       "summary": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República Renata Almeida D Avila discutiu sobre a dificuldade de determinar quem seria o destinatário da proposta de suspensão de ações, pois isso depende do Poder Judiciário.",
       "speaker": {
         "name": "Renata  Almeida D Avila",
-        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República"
+        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República",
+        "slug": "renata- almeida-d-avila"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "Consultor Jurídico - Ministério do Meio Ambiente e Clima: Diálogo necessário sobre possíveis soluções para problemas de integração de posse; pode requerer prazo; secretaria geral da presidência envolvida.",
       "speaker": {
         "name": "Daniel Otaviano de Melo Ribeiro",
-        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima"
+        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima",
+        "slug": "daniel-otaviano-de-melo-ribeiro"
       }
     },
     {
@@ -396,7 +429,8 @@
       "summary": "Assessora da Consultoria Jurídica da Presidência está:",
       "speaker": {
         "name": "Renata  Almeida D Avila",
-        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República"
+        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República",
+        "slug": "renata- almeida-d-avila"
       }
     },
     {
@@ -407,7 +441,8 @@
       "summary": "Advogado da associação de moradores comunicará sobre uma possível mesa de negociação com o Ministério do Meio Ambiente e o Instituto de Pesquisa, propondo uma solução conciliatória e suspensão dos processos.",
       "speaker": {
         "name": "Rafael da Mota",
-        "position": "Advogado - Associação de moradores e amigos do Horto"
+        "position": "Advogado - Associação de moradores e amigos do Horto",
+        "slug": "rafael-da-mota"
       }
     },
     {
@@ -418,7 +453,8 @@
       "summary": "Consultor Jurídico - Ministério do Meio Ambiente e Clima: é necessário cumprir requisito do TCU antes de pedir suspensão de reintegração de posse. Solução seria solicitar aval do TCU antes de prosseguir com o pedido de suspensão.",
       "speaker": {
         "name": "Daniel Otaviano de Melo Ribeiro",
-        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima"
+        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima",
+        "slug": "daniel-otaviano-de-melo-ribeiro"
       }
     },
     {
@@ -429,7 +465,8 @@
       "summary": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal argumentou a favor da abertura na negociação e mencionou a instância criada no final do ano passado. Ela sugeriu que é necessário conversar com o TCU, que tem recomendações a serem consideradas, antes de se tomar quaisquer ações comprometedoras. Ela se referiu a um período de julho como ponto de partida.",
       "speaker": {
         "name": "Ana Paula Passos Severo",
-        "position": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal"
+        "position": "Subprocuradora Federal - Consultoria Jurídica da Procuradoria-Geral Federal",
+        "slug": "ana-paula-passos-severo"
       }
     },
     {
@@ -440,7 +477,8 @@
       "summary": "Procurador da República - Procuradoria Regional do Direito do Cidadão sugeriu importância de reconhecer conciliação em andamento em processos judiciais, demandando confiança e confirmação em ata, mesmo suspensão dependendo da concordância do juízo.",
       "speaker": {
         "name": "Júlio José de Araújo",
-        "position": "Procurador da República - Procuradoria Regional do Direito do Cidadão"
+        "position": "Procurador da República - Procuradoria Regional do Direito do Cidadão",
+        "slug": "julio-jose-de-araujo"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -462,7 +501,8 @@
       "summary": "Presidente da Associação de moradores e amigos do Horto pediu:",
       "speaker": {
         "name": "Fábio Dutra Costa",
-        "position": "Presidente - Associação de moradores e amigos do Horto"
+        "position": "Presidente - Associação de moradores e amigos do Horto",
+        "slug": "fabio-dutra-costa"
       }
     },
     {
@@ -474,7 +514,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -484,7 +525,8 @@
       "transcription": "Deputada, essa essa negociação já existe, a Secretaria Geral já está. É porque até então, até até fazendo a diferença, né? Até então essa",
       "speaker": {
         "name": "Renata  Almeida D Avila",
-        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República"
+        "position": "Assessora - Consultoria Jurídica da Secretaria-Geral da Presidência da República",
+        "slug": "renata- almeida-d-avila"
       }
     },
     {
@@ -496,7 +538,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -507,7 +550,8 @@
       "summary": "Consultor Jurídico - Ministério do Meio Ambiente e Clima propõe nova ideia: comissão encaminhar para TCU para clarificação, visto maior participação do TCU e necessidade de diálogo.",
       "speaker": {
         "name": "Daniel Otaviano de Melo Ribeiro",
-        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima"
+        "position": "Consultor Jurídico - Ministério do Meio Ambiente e Clima",
+        "slug": "daniel-otaviano-de-melo-ribeiro"
       }
     },
     {
@@ -519,7 +563,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -530,7 +575,8 @@
       "summary": "Vice-Presidente da Associação do Horto propõe visitas de órgãos envolvidos à comunidade e maior participação da comunidade no processo de discussão sobre a sua situação.",
       "speaker": {
         "name": "Felipe Guimarães Melo",
-        "position": "Vice-Presidente - Associação de moradores e amigos do Horto"
+        "position": "Vice-Presidente - Associação de moradores e amigos do Horto",
+        "slug": "felipe-guimaraes-melo"
       }
     },
     {
@@ -542,7 +588,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     }
   ],

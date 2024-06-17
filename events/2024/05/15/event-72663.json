@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Nely Aquino -- por Participante -- Amaro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-nely-aquino-por-participante-amaro-neto"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": " Anatel combate fake news usando poder de polícia em telecomunicações, não regula redes sociais. Trabalham com Justiça para executar decisões de retirada de sites ou aplicativos, se necessário através de operadoras. Cooperação com Justiça Eleitoral visa maior fluidez na execução das decisões. Anatel atua de forma reativa, não proativa, e está desenvolvendo sistema para monitorar fake news com inteligência artificial.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": " Presidente da Anatel discutiu melhorias na implementação de bloqueios de sites por ordem judicial, objetivando clarificar mensagens para usuários, automatizar processos e reduzir custos para operadoras. Embora grande parte dos usuários consiga bloqueio rápido, há atrasos em casos específicos, com foco em aprimorar ainda mais a eficácia no prazo de algomas horas para 20 mil operadoras.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": " Anatel discutiu expansão do sistema atual, impedido de remover publicações específicas em redes sociais devido à falta de alterações legais. A agência pode excluir sites inteiros, mas não vídeos específicos em plataformas. Também destacou dificuldades na luta contra a narrativa de censura e a necessidade de reavaliar a soberania digital do Brasil virtualmente.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": " Presidente da Anatel propõe identificação de usuários em redes sociais para combater discurso de ódio e criminalidade digital, ligando falta de responsabilização das plataformas ao anonimato prevalecente na internet.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -197,7 +213,8 @@
       "summary": " Presidente da Anatel discute controle de internet por conglomerados e necessidade de revisão de governança, incluindo reconsideração de representação do Estado. Menciona aumento de fake news e violência online e necessidade de reflexão sobre seu tratamento. Soberania nacional no ambiente digital é discutida, assim como custos de não ingerência do Estado na internet. Comitê gestor da internet atualmente sem maioria de votos do Estado.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": " Presidente da Anatel se oferece para discutir cell broadcast e combate a notícias falsas quando convocado.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -266,7 +288,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 204511,
         "name": "David Soares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "david-soares"
       }
     },
     {
@@ -289,7 +313,8 @@
       "summary": " Presidente da Anatel destacou importância de responsabilização das plataformas e identificação de usuários na Internet, propondo uma estrutura regulamentar para fiscalizar e punir conteúdos nocivos, visto como impraticável analisar todo conteúdo gerado. Não existe marco regulatório para ambiente digital atualmente.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 204511,
         "name": "David Soares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "david-soares"
       }
     },
     {
@@ -312,7 +338,8 @@
       "summary": " Presidente - Agência Nacional de Telecomunicações (Anatel) discutiu controle de desinformação online, apontando volume excessivo e falta de responsabilidade nas plataformas; sugeriu acabar com anonimato e aumentar controle, permitindo aplicação de leis e regulamentos constitucionais.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -335,7 +363,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -346,7 +375,8 @@
       "summary": " Presidente - Agência Nacional de Telecomunicações (Anatel) discutiu proposta de vincular acesso à plataforma social do governo à entrada de serviços de telecomunicações, observando que plataformas sociais são usuários dos serviços de telecomunicações e têm obrigações legais sob a lei de telecomunicações. Irá levar ideia à equipe reguladora para estudar possibilidade de implementação.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -357,7 +387,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -369,7 +400,8 @@
       "speaker": {
         "id": 226179,
         "name": "Gisela Simona",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gisela-simona"
       }
     },
     {
@@ -380,7 +412,8 @@
       "summary": " Identificação em telecomunicações pode ser através do GovBR, facial ou outras formas digitais, considerando diversos cenários possíveis. IP não é solução adequada devido a compartilhamento de endereços. Anatel já implementou solução de identificação no cadastro pré-pago. É necessária regulamentação e fiscalização para reduzir anonimato e fraudes na internet. Anatel tem estrutura, expertise e parcerias para cumprir este papel.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -391,7 +424,8 @@
       "speaker": {
         "id": 226179,
         "name": "Gisela Simona",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gisela-simona"
       }
     },
     {
@@ -402,7 +436,8 @@
       "summary": " Presidente da Anatel propõe mudanças estruturais na lei, incluindo alterações nos primeiros artigos e expandir o Conselho Consultivo para inclui-lo Judiciário, Ministério Público, OAB e jornalistas, aumentando assim sua voz e representatividade em assuntos sensíveis social e politicamente.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -425,7 +461,8 @@
       "summary": " Presidente da Anatel afirmou que a administração de números IP e registro de domínios é realizada por entidade privada sem fins lucrativos, NIC.BR, que arrecadou 183 milhões de reais em 2021 por meio de registros de domínio.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -448,7 +486,8 @@
       "summary": " Presidente da Anatel propõe leis abrangentes para combatê-la fake news e regulamentação infralegal no contexto tecnológico. A Anatel pode assumir novas atribuições sem necessitar de aumento de servidores ou financiamento adicional e está à disposição do Congresso e da sociedade para ajudar a resolver a situação caótica no ambiente digital. Sua opinião favorita é na regulamentação flexível, como na lei geral de telecomunicações.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomunicações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -459,7 +498,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -471,7 +511,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -483,7 +524,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     }
   ],

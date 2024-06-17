@@ -17,7 +17,8 @@
       "summary": "Senador convocou reunião semipresencial via Zoom para votar matéria; reunião suspensa por transcorrer como reunião de líderes.",
       "speaker": {
         "name": "Marcelo Castro",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "marcelo-castro"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -38,7 +40,8 @@
       "summary": "Reabertura de sessão. Pedido de registro de presença a deputados, deputadas, senadores e senadoras. Presença da desembargadora Nise Pedrosa Lins de Souza anunciada.",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -58,7 +62,8 @@
       "transcription": "Bom dia boa tarde a todos e a todas, reaberta a sessão. Gostaria de pedir aos deputados, deputadas, senadores e senadoras que possam registrar presença. Quero registrar a presença da desembargadora Nise Pedrosa Lins de Souza presidente do tribunal regional do trabalho da sexta região em Pernambuco.",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": "Senadora pede presença deputados, senadores e registra presença desembargadora Nise Pedrosa Lins de Souza e presidente ANAMATRA, Luciana Confort.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -80,7 +86,8 @@
       "summary": "Senador solicita registro de presença devido à falha do sistema.",
       "speaker": {
         "name": "Laércio Oliveira",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "laercio-oliveira"
       }
     },
     {
@@ -90,7 +97,8 @@
       "transcription": "Registrada presença deve ser.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -101,7 +109,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -111,7 +120,8 @@
       "transcription": "Registrado, deputado. Senhora Presidente",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -121,7 +131,8 @@
       "transcription": "A minha presença por favor?",
       "speaker": {
         "name": "Professora Dorinha Seabra",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "professora-dorinha-seabra"
       }
     },
     {
@@ -132,7 +143,8 @@
       "summary": "Senadora propõe como lidos expedientes desde 7 de novembro, incluindo avisos do TCU sem autuação recomendada, publicados online. Oferece dispensa da leitura da ata da 17ª reunião deliberativa. Pede manifestação em caso de interesse na relatoria ou retificações. Ato em votação na representação da Câmara dos Deputados.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -143,7 +155,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -154,7 +167,8 @@
       "summary": "Senadora aprovou votação no Senado Federal, abordou relatório de atividades do comitê de admissibilidade de emendas e transmitiu a palavra ao deputado Júnior.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -166,7 +180,8 @@
       "speaker": {
         "id": 204550,
         "name": "Júnior Mano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-mano"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Senadora propôs adiamento e retirada de pauta. Deputada Ventura agora está com a palavra.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -189,7 +205,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -199,7 +216,8 @@
       "transcription": "Com a palavra o 0 relator da LDO, deputado Danilo Fox.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -211,7 +229,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -222,7 +241,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -233,7 +253,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -243,7 +264,8 @@
       "transcription": "Obrigada. Obrigada deputado Danilo Foz, com a palavra o deputado",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -255,7 +277,8 @@
       "speaker": {
         "id": 141411,
         "name": "Dagoberto Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dagoberto-nogueira"
       }
     },
     {
@@ -266,7 +289,8 @@
       "summary": "Senadora afirma: próximo item é relatório, nenhum emendamento apresentado, passa palavra ao deputado.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -278,7 +302,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -289,7 +314,8 @@
       "summary": "Senadora propõe aprovação de relatórios e agradece trabalho de colegas. Agradecimentos ao deputado Bongás e deputado Tulio Gadelha por suas contribuições. Votação em andamento no Senado Federal e na Câmara dos Deputados. Discussão sobre projeto de lei que abre orçamento fiscal da União para Justiça Federal, Eleitoral e do Trabalho.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -301,7 +327,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -312,7 +339,8 @@
       "summary": "Senadora refere discussão e aprovação do relatório em Câmara e Senado, louva trabalho do deputado e envolvidos, agradece presidente do Congresso, relatório vai para votação no Congresso Nacional.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -324,7 +352,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -334,7 +363,8 @@
       "transcription": "Muito bom, deputada Adriana Ventura com a palavra.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -346,7 +376,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -357,7 +388,8 @@
       "summary": "Senadora encerra reunião, agradece presentes e elogia boa campanha.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     }
   ],

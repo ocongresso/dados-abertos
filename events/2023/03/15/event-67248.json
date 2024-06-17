@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Luiza Canziani, notável servidora pública, unanimemente eleita presidenta da comissão de ciência, tecnologia, comunicação e informática, crucial para produção, tecnologia, informática e comunicação. Convidada a assumir e empossada. Fim da votação resultou em empate para presidente.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Raimundo Santos -- por Participante -- Luisa Canziani",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-raimundo-santos-por-participante-luisa-canziani"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     }
   ],

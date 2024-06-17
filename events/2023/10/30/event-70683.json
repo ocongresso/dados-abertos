@@ -18,7 +18,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Anatel discutirá uso de faixa de 6 GHz na WRC, deliberou por não licença em 2020, foco em padrão mundial e interesse do Brasil, beneficiará todo povo brasileiro.",
       "speaker": {
         "name": "Carlos Manuel Baigorri",
-        "position": "Presidente - Agência Nacional de Telecomuncações (Anatel)"
+        "position": "Presidente - Agência Nacional de Telecomuncações (Anatel)",
+        "slug": "carlos-manuel-baigorri"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretário de Telecomunicações afirmou que:",
       "speaker": {
         "name": "Maximiliano Martinhão",
-        "position": "Secretário de Telecomunicações - Ministério das Comunicações"
+        "position": "Secretário de Telecomunicações - Ministério das Comunicações",
+        "slug": "maximiliano-martinhao"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Gerente de Políticas Públicas - GSMA aconselha planejar 6 GHz uso para 5G, suficiente espectro importante para serviços licenciados e não licenciados, discussões sobre alocação adicional espectro na Conferência Mundial de Radiocomunicações impacto na disponibilidade e qualidade serviços. Internet no Brasil máximo via celular, alta taxa penetração banda larga móvel, particularmente entre pessoas baixa renda.",
       "speaker": {
         "name": "Larissa Jales",
-        "position": "Gerente de Políticas Públicas - GSMA"
+        "position": "Gerente de Políticas Públicas - GSMA",
+        "slug": "larissa-jales"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Representante da FGS Consultoria LTDA afirma que há espectro disponível no país, destacando a faixa de 20 MHz não vendida e a de 26 GHz com pouco espectro vendido. Também menciona a disponibilidade de mais 100 MHz para redes privadas e a boa decisão da Anatel em habilitar o ponto 2 GHz para WiFi. Além disso, refere-se à falta de espectro para WiFi no dois e meio e cinco gigahertz e ao benefício da regulamentação do uso do espectro WiFi para sistemas outdoor.",
       "speaker": {
         "name": "Francisco Giacomini Soares",
-        "position": "Representante - FGS Consultoria LTDA"
+        "position": "Representante - FGS Consultoria LTDA",
+        "slug": "francisco-giacomini-soares"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Presidente-Executivo - Associação Brasileira das Prestadoras de Serviços de Telecomunicações Competitivas: destinação do wifi correta, espectro usado adequadamente; promover uso eficiente e transparente de frequência; wifi e 5G se complementam, necessário ter espectro, qualidade e velocidade para ambos; Brasil precisa de combinação de 5G, wifi, fibra, cabo metálico e satélite; wifi tem maior tendência de tráfego e crescimento; é necessário ter espectro para wifi.",
       "speaker": {
         "name": "Luiz Henrique Barbosa da Silva",
-        "position": "Presidente-Executivo - Associação Brasileira das Prestadoras de Serviços de Telecomunicações Competitivas"
+        "position": "Presidente-Executivo - Associação Brasileira das Prestadoras de Serviços de Telecomunicações Competitivas",
+        "slug": "luiz-henrique-barbosa-da-silva"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Larga fixa causa grande interferência, necessitando mais espectro; maior parte do tráfego global inicia/termina em WiFi. Offload de rede relevante para usuários e provedores; reduz custo por bit. WiFi vital para Internet das Coisas e ambientes fechados com mobilidade restrita. Barreira de entrada menor para dispositivos. Parabéns à Anatel por decisão acertada.",
       "speaker": {
         "name": "Giuseppe Marrara",
-        "position": "Diretor - CISCO"
+        "position": "Diretor - CISCO",
+        "slug": "giuseppe-marrara"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Conselheira - Abrint focou eficiência espectral no Brasil, com mais espectro do que outros países e recente adição de 120 MHz. Ela destacou o potencial do Open AFC para a faixa de 6 GHz e necessidade de uso eficiente em ambiente exterior. Ela também mencionou prevenção de fragmentação global e adequada destinação dos 1200 MHz, usando Coreia do Sul como exemplo de uso de banda larga fixa.",
       "speaker": {
         "name": "Cristiane Sanches de Corrêa",
-        "position": "Conselheira - Abrint"
+        "position": "Conselheira - Abrint",
+        "slug": "cristiane-sanches-de-correa"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Diretor de Relações Governamentais da Huawei enfatizou a importância da tecnologia WiFi e 5G para inclusão digital, destacando a banda de 6GHz como estratégica para o 5.5G. Ele mencionou o sucesso do leilão de 5G em 2",
       "speaker": {
         "name": "Carlos Lauria",
-        "position": "Diretor de Relações Governamentais - Huawei"
+        "position": "Diretor de Relações Governamentais - Huawei",
+        "slug": "carlos-lauria"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Representante da CLARO defende necessidade de mais banda para acesso à internet, especialmente na educação e segurança pública. A Oi propõe disponibilização de 1200 MHz na faixa de 6 GHz para uso não licenciado, para suportar o crescimento do tráfego móvel com o 5G e aumentar dispositivos conectados simultaneamente em alta velocidade. O wifi é fundamental para o upload de tráfego móvel para redes fixas e será essencial com o 5G.",
       "speaker": {
         "name": "FÁBIO ANDRADE",
-        "position": "Representante da CLARO"
+        "position": "Representante da CLARO",
+        "slug": "fabio-andrade"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Representante da OI: Wifi contraída via usuário, ofertas de fibra até 2 Gbps, wifi em 5 GHz suporta no máximo 1 Gbps. Espectro 5G deve se adequar à prática internacional, minimizando custos. Réu sobre reserva parcial ou total do espectro 5G, com incerteza sobre sua adoção.",
       "speaker": {
         "name": "HELTON POSSETI",
-        "position": "Representante da OI"
+        "position": "Representante da OI",
+        "slug": "helton-posseti"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -256,7 +277,8 @@
       "summary": "Representante da TIM: Reservar parte do espectro para telefonia móvel permitirá investimentos futuros e maior potencialidade do 5G, trazendo benefícios ao país.",
       "speaker": {
         "name": "CAMILA MONTEIRO",
-        "position": "Representante da TIM"
+        "position": "Representante da TIM",
+        "slug": "camila-monteiro"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Representante da VIVO discutiu uso balanceado de espectro, WiFi como parte essencial de operadoras e Anatel's decision to allocate 6 gigahertz to unlicensed WiFi use for competitive, industrial, and technological reasons.",
       "speaker": {
         "name": "JOSÉ GONÇALVES NETO",
-        "position": "Representante da VIVO"
+        "position": "Representante da VIVO",
+        "slug": "jose-goncalves-neto"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -302,7 +327,8 @@
       "summary": "Associação NEO mencionou participação em melhoria acessibilidade à internet no Brasil, destacando sucesso de expansão banda larga fixa, aumento de velocidade média, redução preço do megabit e mais municípios com banda larga em fibra. Elogiou Anatel por destinar faixa de 6 gigahertz para uso não licenciado, promovendo competitividade e indústria nacional, gerando emprego e divisas. Suporte decisão ANATEL, mas estará aberto a discussão se novos fatos surgirem.",
       "speaker": {
         "name": "Aníbal Diniz",
-        "position": "Associação NEO"
+        "position": "Associação NEO",
+        "slug": "anibal-diniz"
       }
     },
     {
@@ -313,7 +339,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -324,7 +351,8 @@
       "summary": "Regulação é segurança jurídica, decisões consistentes são importantes para investimentos no país, decisões regulatórias impactam reputação e atrair investimentos. A decisão da Anatel é democrática e adequada à realidade brasileira, trazendo benefícios como redução de latência e ganhos econômicos. Discussão em conferência mundial de rádio comunicações, respeito a atribuições da Anatel. Audiência pública é para debater e não usurpar atribuições da Anatel.",
       "speaker": {
         "name": "Igor Luna",
-        "position": "Representante - Câmara Brasileira da Economia Digital (Câmara e-Net)"
+        "position": "Representante - Câmara Brasileira da Economia Digital (Câmara e-Net)",
+        "slug": "igor-luna"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -347,7 +376,8 @@
       "summary": "Diretor-Executivo - ALAI affirmou harmonização e cooperação regional sobre conectividade, destacando Brasil's vibrant ecossistema, 20% of homes without internet, need to utilize local capacities, technologies, and assignment of six gigahertz frequency for wifi. Anatel's decision brings significant economic benefit to Brazil.",
       "speaker": {
         "name": "Raúl Echeberría",
-        "position": "Diretor-Executivo - Associação Latino-Americana de Internet (ALAI)"
+        "position": "Diretor-Executivo - Associação Latino-Americana de Internet (ALAI)",
+        "slug": "raul-echeberria"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -370,7 +401,8 @@
       "summary": "Presidente - Dynamic Spectrum Alliance (DSA) discutiu benefícios econômicos do espectro: contribuição de acesso público, empresas brasileiras e consumidores; estudos sobre necessidade de mais espectro; posição das Américas de manter faixa como está; importância do uso de frequência por pequenos provedores, especialmente no nordeste e norte do Brasil.",
       "speaker": {
         "name": "Martha Suárez",
-        "position": "Presidente - Dynamic Spectrum Alliance (DSA)"
+        "position": "Presidente - Dynamic Spectrum Alliance (DSA)",
+        "slug": "martha-suarez"
       }
     },
     {
@@ -381,7 +413,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -392,7 +425,8 @@
       "summary": "ABRANET defende libertação de espectro, priorizando conectividade no norte e nordeste, com foco em fibra ótica e uso de frequência por pequenos/médios provedores, beneficiando baixa renda e áreas remotas. Anatel's 6 GHz sem licença banda larga desenvolvimento centro elogiado. Até 2026: Norte Conectado.",
       "speaker": {
         "name": "Jesaías Arruda",
-        "position": "Vice-Presidente - Associação Brasileira de Internet (ABRANET)"
+        "position": "Vice-Presidente - Associação Brasileira de Internet (ABRANET)",
+        "slug": "jesaias-arruda"
       }
     },
     {
@@ -404,7 +438,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -415,7 +450,8 @@
       "summary": "Líder de Políticas Públicas para as Américas - ITI afirma importância de amplo acesso à faixa de seis gigahertz para tecnologias wifi, suportando várias aplicações essenciais e promovendo conectividade de baixo custo. A faixa é crucial para equipamentos wifi atuais e futuros, além de coexistir com operadores históricos. Manter designação tecnologicamente neutra e não licenciada atinge harmonização global, economia de escala e benefícios econômicos para o Brasil.",
       "speaker": {
         "name": "Husani Durans",
-        "position": "Líder de Políticas Públicas para as Américas - Information Technology Industry Council (ITI)"
+        "position": "Líder de Políticas Públicas para as Américas - Information Technology Industry Council (ITI)",
+        "slug": "husani-durans"
       }
     },
     {
@@ -427,7 +463,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -438,7 +475,8 @@
       "summary": "Representante da CLARO destaca necessidade do espectro de 2,5 a 6 GHz para crescimento de sistemas móveis e interesse no espectro de 60 GHz para conectividade próxima. Menciona discussão sobre esse assunto na conferência, referindo-se especificamente à região Europa e não às Américas, e propõe mudar o item da agenda.",
       "speaker": {
         "name": "FÁBIO ANDRADE",
-        "position": "Representante da CLARO"
+        "position": "Representante da CLARO",
+        "slug": "fabio-andrade"
       }
     },
     {
@@ -449,7 +487,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -460,7 +499,8 @@
       "summary": "Conferência geralmente segue plano predeterminado, região ainda não prepareda para discussão na Anatel; ágil discussão confirmou necessidade de abordar tema, espectro deve ser bom, acessível e inserido no ecossistema global, reutilização frequências deve ser considerada, quando revisitado, adequação, custo e integração global do espectro devem ser considerados.",
       "speaker": {
         "name": "Francisco Giacomini Soares",
-        "position": "Representante - FGS Consultoria LTDA"
+        "position": "Representante - FGS Consultoria LTDA",
+        "slug": "francisco-giacomini-soares"
       }
     },
     {
@@ -471,7 +511,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -482,7 +523,8 @@
       "summary": "Diretor de Relações Governamentais - Huawei: ANATEL's bandwidth adjustments are natural, based on study and capabilities. Disagree that 6 GHz theme needs to be revisited. 6 GHz important for new cases, inovation, and policy connectivity. Initial costs for 6 GHz WiFi higher, but will decrease over time.",
       "speaker": {
         "name": "Carlos Lauria",
-        "position": "Diretor de Relações Governamentais - Huawei"
+        "position": "Diretor de Relações Governamentais - Huawei",
+        "slug": "carlos-lauria"
       }
     },
     {
@@ -494,7 +536,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -505,7 +548,8 @@
       "summary": "Presidente - Dynamic Spectrum Alliance (DSA) destacou importância de conectividade Wi-fi, segura e barata. Anatel considera evento decisões para Brasil. Aumento de 10% de banda larga fixa pode crescer 3,5% PIB nacional. Maioria população prefere Wi-fi. 1200 MHz atual é suficiente com equips e tecnologia disponíveis. Muito espectro licenciado subutilizado em contexto MT.",
       "speaker": {
         "name": "Martha Suárez",
-        "position": "Presidente - Dynamic Spectrum Alliance (DSA)"
+        "position": "Presidente - Dynamic Spectrum Alliance (DSA)",
+        "slug": "martha-suarez"
       }
     },
     {
@@ -516,7 +560,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -527,7 +572,8 @@
       "summary": "Conselheira - Abrint elogia discussões respeitosas e ofertas. Seu primeiro comentário é sobre o custo social do uso social de espectro MTA para internet, afirmando que wifi é mais barato e adequado para grande quantidade de dados estacionários. Seu segundo comentário é sobre a importância de não se vergonhar em rever decisões, destacando investimentos em homologação de equipamentos e fabricantes no Brasil.",
       "speaker": {
         "name": "Cristiane Sanches de Corrêa",
-        "position": "Conselheira - Abrint"
+        "position": "Conselheira - Abrint",
+        "slug": "cristiane-sanches-de-correa"
       }
     },
     {
@@ -538,7 +584,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -549,7 +596,8 @@
       "summary": "Diretor - CISCO enfatizou:",
       "speaker": {
         "name": "Giuseppe Marrara",
-        "position": "Diretor - CISCO"
+        "position": "Diretor - CISCO",
+        "slug": "giuseppe-marrara"
       }
     },
     {
@@ -560,7 +608,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -571,7 +620,8 @@
       "summary": "Gerente de Políticas Públicas - GSMA apoia decisão da Anatel sobre uso da faixa de 6 gigahertz, considerando aspectos de competitividade, estimulo à indústria nacional, criação de emprego, arrecadação de impostos, captação de divisas e posicionamento internacional. Suporte baseia-se em segurança jurídica.",
       "speaker": {
         "name": "Larissa Jales",
-        "position": "Gerente de Políticas Públicas - GSMA"
+        "position": "Gerente de Políticas Públicas - GSMA",
+        "slug": "larissa-jales"
       }
     },
     {
@@ -582,7 +632,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -593,7 +644,8 @@
       "summary": "Associação NEO elogia ANatel por decisão e destaca importância de análise de impacto regulatório, considerando dimensões econômicas e ambiente de previsibilidade. Reforça-se necessidade de esclarecimento jurídico-político em eventual revisão da decisão. Palavras finais elogiam ministro André por iniciativa e condução da audiência pública, destacando sua capacidade de garantir abordagem ampla e equilibrada.",
       "speaker": {
         "name": "Aníbal Diniz",
-        "position": "Associação NEO"
+        "position": "Associação NEO",
+        "slug": "anibal-diniz"
       }
     },
     {
@@ -604,7 +656,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -615,7 +668,8 @@
       "summary": "Representante da Câmara Brasileira da Economia Digital (Câmara e-Net) agradece convite à audiência pública, destacando a importância de registro e transmissão em tempo real de consultas públicas para contribuições na tomada de decisões sobre faixa de frequência por Anatel e governo.",
       "speaker": {
         "name": "Igor Luna",
-        "position": "Representante - Câmara Brasileira da Economia Digital (Câmara e-Net)"
+        "position": "Representante - Câmara Brasileira da Economia Digital (Câmara e-Net)",
+        "slug": "igor-luna"
       }
     },
     {
@@ -627,7 +681,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     },
     {
@@ -638,7 +693,8 @@
       "summary": "Secretário de Telecomunicações discute importância da universalização do acesso à internet no Brasil; menciona a necessidade de debates fundamentados e agradece a contribuições; anuncia sua participação no próximo evento em Dubai.",
       "speaker": {
         "name": "Maximiliano Martinhão",
-        "position": "Secretário de Telecomunicações - Ministério das Comunicações"
+        "position": "Secretário de Telecomunicações - Ministério das Comunicações",
+        "slug": "maximiliano-martinhao"
       }
     },
     {
@@ -650,7 +706,8 @@
       "speaker": {
         "id": 133439,
         "name": "André Figueiredo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-figueiredo"
       }
     }
   ],

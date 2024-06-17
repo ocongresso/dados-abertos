@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Procurador-Chefe da Universidade do Estado do Amazonas discutiu acúmulo de cargos para professores, seguindo jurisprudência e legislação. Ele mencionou dificuldades na universidade com cumprimento de carga horária e sugeriu limite por lei. Anteriormente, tribunais excluíam cargos técnicos ou científicos de nível fundamental a médio, mas em 2018/2019, STF considerou permitido o acúmulo. Atualmente, Procurador-Chefe tem opiniões restritivas, mas permite acúmulo.",
       "speaker": {
         "name": "ALY NASSER BALLUT FILHO",
-        "position": "Procurador-Chefe da Universidade do Estado do Amazonas"
+        "position": "Procurador-Chefe da Universidade do Estado do Amazonas",
+        "slug": "aly-nasser-ballut-filho"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Pró-reitor de Gestão de Pessoas UFMT valoriza professores e suas contribuições. Propõe revisão do artigo 37 para permitir que professores ocupem dois cargos públicos, visando manter capital intelectual, expandir oportunidades de trabalho, melhorar ensino em áreas remotas e facilitar compartilhamento de conhecimento no setor público, com diretrizes claras para compatibilidade de horários e prevenção de abusos.",
       "speaker": {
         "name": "ANDRÉ BAPTISTA LEITE",
-        "position": "Pró-reitor de Gestão de Pessoas UFMT - Gestão de Pessoas UFMT"
+        "position": "Pró-reitor de Gestão de Pessoas UFMT - Gestão de Pessoas UFMT",
+        "slug": "andre-baptista-leite"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220533,
         "name": "Prof. Reginaldo Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-reginaldo-veras"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -146,7 +157,8 @@
       "summary": "Pró-reitor de Gestão de Pessoas UFMT - Gestão de Pessoas UFMT agradeceu o debate sobre a carreira docente, parabenizou os presentes e ofereceu sua disponibilidade.",
       "speaker": {
         "name": "ANDRÉ BAPTISTA LEITE",
-        "position": "Pró-reitor de Gestão de Pessoas UFMT - Gestão de Pessoas UFMT"
+        "position": "Pró-reitor de Gestão de Pessoas UFMT - Gestão de Pessoas UFMT",
+        "slug": "andre-baptista-leite"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Procurador-Chefe da Universidade do Estado do Amazonas agradece convite e referência à ideia de limitar a carga horária de professores, esperando sua adoção e acreditando que resolveria problemas da universidade.",
       "speaker": {
         "name": "ALY NASSER BALLUT FILHO",
-        "position": "Procurador-Chefe da Universidade do Estado do Amazonas"
+        "position": "Procurador-Chefe da Universidade do Estado do Amazonas",
+        "slug": "aly-nasser-ballut-filho"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -190,7 +205,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -200,7 +216,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -210,7 +227,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -220,7 +238,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     }
   ],

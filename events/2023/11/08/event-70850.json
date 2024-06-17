@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Peço pra que a gente encaminhe ao aos deputados",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -73,7 +78,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -299,7 +323,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -310,7 +335,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -322,7 +348,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     }
   ],

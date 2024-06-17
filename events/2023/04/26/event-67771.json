@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204476,
         "name": "Chiquinho Brazão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chiquinho-brazao"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     }
   ],

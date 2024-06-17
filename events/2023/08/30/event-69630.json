@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": " Representante da Confederação Brasileira presente; Open de Pibolin para iniciantes e experientes em Brasília de sexta a domingo; início da votação, encerrada a votação, agora apuração dos votos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": " Quatro votos a favor, proclamação de presidente eleito e posse do mesmo como presidente da subcomissão de desporto.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Gostaria aqui antes da gente começar a votação de registrar a presença do Roland Klein, representante aqui da Confederação Brasileira. Você quer que eu comece de novo Roland pra você filmar? Então vamos lá. Gostaria aqui de deixar registrado a presença do Roland Klein, que é vicepresidente de comunicação e marketing da federação internacional de Pibolin, representando a Confederação Brasileira também de Pibolin, que amanhã, amanhã não, sextafeira, de sexta a domingo será disputado o Open de Pibolin pra iniciantes experientes no clube de subtenentes e sargentos aqui de Brasília. Roland, prazer receber vocês aqui, a gente vai, a gente discute sobre esporte no país e vocês são super bemvindos. Muito obrigado pela sua presença. Aberta votação. Está encerrada a votação, passase a apuração dos votos no painel eletrônico.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Lima -- por Participante -- Augusto Puppio",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-lima-por-participante-augusto-puppio"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": " Diretora Secretaria Nacional do Paradesporto fala sobre inclusão em evento, representando Estado e Secretaria Nacional. Destaca importância do para-deporto como pertencimento e formação social. Menciona parceria com CBDS e comunidade surda. Promove consciência para comunicação em LIBRAS. Falta mais recursos financeiros, mas usam muito recurso humano. Quer assumir compromisso social para inclusão com diversidade.",
       "speaker": {
         "name": "Nayara Falcão",
-        "position": "Diretora Secretaria Nacional do Paradesporto"
+        "position": "Diretora Secretaria Nacional do Paradesporto",
+        "slug": "nayara-falcao"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     }
   ],

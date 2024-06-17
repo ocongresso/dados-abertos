@@ -17,7 +17,8 @@
       "summary": "Senador convoca audiência pública sobre importância da Embrapa para agropecuária, com parlamentares e convidados presenciais e virtuais; propõe debate aberto e sensibilizar parlamentares a investir em pesquisa; destaca metade do orçamento da Embrapa vem de emendas parlamentares; emenda pedindo proibição de contingenciamento será apresentada.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Ciência vital para produção rural brasileira; Embrapa crucial para desafios futuros; garantir no mínimo 500 milhões de reais de financiamento para pesquisa agropecuária em 2023.",
       "speaker": {
         "name": "Pedro Neto",
-        "position": "Secretário Adjunto - Secretaria  de Inovação, Desenvolvimento Sustentável, Irrigação e Cooperativismo /MAPA"
+        "position": "Secretário Adjunto - Secretaria  de Inovação, Desenvolvimento Sustentável, Irrigação e Cooperativismo /MAPA",
+        "slug": "pedro-neto"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Senador passa a palavra ao presidente do Sindicato Nacional de Trabalhistas de Pesquisa e Desenvolvimento da Agropecuária.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Sindicato Nacional dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - Sinpaf defende empresa pública Embrapa, que necessita de orçamento adequado e reposição de funcionários para continuar missão de combater fome e promover agricultura sustentável, além de ser inclusiva, democrática e atenta à agricultura familiar. Articulação no Congresso Nacional para fortalecê-la.",
       "speaker": {
         "name": "Marcus Vinicius Vidal",
-        "position": "Presidente - Sindicato Nacional dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - Sinpaf"
+        "position": "Presidente - Sindicato Nacional dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - Sinpaf",
+        "slug": "marcus-vinicius-vidal"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Senador apoia Embrapa presidenta, boa tarde a todos.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Presidente da Embrapa apresentou organismo como referência em ciência tropical, responsável por avanços na agricultura e sustentabilidade brasileira nos últimos 50 anos. Destacou importância de recursos e investimentos para continuar pesquisas e inovações na agropecuária. Solicitou apoio parlamentar para manter financiamento custeio e investimento em infraestrutura.",
       "speaker": {
         "name": "Silvia Maria Fonseca Silveira Massruha",
-        "position": "Presidente - EMBRAPA"
+        "position": "Presidente - EMBRAPA",
+        "slug": "silvia-maria-fonseca-silveira-massruha"
       }
     },
     {
@@ -82,7 +88,8 @@
       "transcription": "Convidar o Deriv pra falar pouco também.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Diretor de Gestão e Governança da Embrapa elogiou impacto de emendas parlamentares em geração de emprego e combate à fome, citando exemplo de emenda de 450 mil reais que gerou 2.300 empregos em Paraíba e Rio Grande do Norte. Destacou importância de contas e documentação para emendas, e agradeceu senador e parlamentares por apoio à Embrapa e à ciência.",
       "speaker": {
         "name": "ALDERI EMÍDIO DE ARAÚJO",
-        "position": "Diretor Executivo de Gestão e Governança"
+        "position": "Diretor Executivo de Gestão e Governança",
+        "slug": "alderi-emidio-de-araujo"
       }
     },
     {
@@ -104,7 +112,8 @@
       "summary": "Senador delega Selma a falar sobre complemento de página solicitado pela presidente Silva.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Analista da Embrapa agradece apoio parlamentares em garantia de recursos para pesquisa agropecuária, destacando importância de emendas e do PPA para retorno e geração de empregos em próximas décadas. Requer ajuda para elevação de investimentos em 2024 para continuar execução de recursos de investimento e custeio no sistema nacional de pesquisa.",
       "speaker": {
         "name": "SELMA BELTRÃO",
-        "position": "Analista da Embrapa"
+        "position": "Analista da Embrapa",
+        "slug": "selma-beltrao"
       }
     },
     {
@@ -125,7 +135,8 @@
       "transcription": "Senador, queria só pedir licença",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -136,7 +147,8 @@
       "summary": "Diretor Executivo de Gestão e Governança se refere ao relatório anual de emendas e à importância da assessoria de relações institucionais e governamentais em fornecer suporte a parlamentares.",
       "speaker": {
         "name": "ALDERI EMÍDIO DE ARAÚJO",
-        "position": "Diretor Executivo de Gestão e Governança"
+        "position": "Diretor Executivo de Gestão e Governança",
+        "slug": "alderi-emidio-de-araujo"
       }
     },
     {
@@ -147,7 +159,8 @@
       "summary": "Senador sugeriu levar parlamentares à Embrapa, conhecê-la melhor e aprovar concursos para pesquisadores. Excesso de burocracia na execução de projetos deve ser evitado. Investimento em Embrapa é valioso para o governo e políticas públicas.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": "Embrapa monitora economic and social impact of its 1,200 technologies, with over 4,000 available today. President-Embrapa highlights annual monitoring results in accountability report.",
       "speaker": {
         "name": "Silvia Maria Fonseca Silveira Massruha",
-        "position": "Presidente - EMBRAPA"
+        "position": "Presidente - EMBRAPA",
+        "slug": "silvia-maria-fonseca-silveira-massruha"
       }
     },
     {
@@ -169,7 +183,8 @@
       "summary": "Senador discute dificuldades na aprovação de regulação de ciência e tecnologia e a necessidade de modernizar a Embrapa, incluindo atualização administrativa e gerencial, além de investimentos em tecnologias como drones e marketing.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -180,7 +195,8 @@
       "summary": "Presidente da Embrapa discutiu sustentabilidade, transição nutricional, inclusão produtiva rural e digital, tecnologia e recursos. Drone e dados climáticos podem ajudar na produção, reduzindo custos e aumentando sustentabilidade. Modernização e transparência no processo de produção são necessárias, exigidas por mercado e consumidores. Parceria pública é importante, mas uma base de recursos é necessária para o avanço e mantenimento de compromissos da Embrapa com produtores.",
       "speaker": {
         "name": "Silvia Maria Fonseca Silveira Massruha",
-        "position": "Presidente - EMBRAPA"
+        "position": "Presidente - EMBRAPA",
+        "slug": "silvia-maria-fonseca-silveira-massruha"
       }
     },
     {
@@ -191,7 +207,8 @@
       "summary": "Senador fala sobre importância de estudos técnicos em assentamentos agrícolas, evitar parcelamento e venda de terras, fomentar empreendedorismo e formação de pequenos agricultores, destacando também relevância de investimento em áreas como apicultura. Menciona também benefício de frentes parlamentares sobrepartidárias e necessidade de modernizar e investir em tecnologia na Embrapa.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -202,7 +219,8 @@
       "summary": "Secretário Adjunto da Secretaria de Inovação agradeceu participantes por promover ciência no Brasil, elogiou Congresso Brasileiro, Senado, Câmara, Embrapa e Corpo Diretivo por garantir condições para avanço científico. Ministério da Agricultura apoiará discussão e procurará fortalecer produção científica em excelência, com objetivo de transição para ter garantias orçamentárias ordinárias, contando com apoio do Congresso Nacional como recebe a Embrapa.",
       "speaker": {
         "name": "Pedro Neto",
-        "position": "Secretário Adjunto - Secretaria  de Inovação, Desenvolvimento Sustentável, Irrigação e Cooperativismo /MAPA"
+        "position": "Secretário Adjunto - Secretaria  de Inovação, Desenvolvimento Sustentável, Irrigação e Cooperativismo /MAPA",
+        "slug": "pedro-neto"
       }
     },
     {
@@ -213,7 +231,8 @@
       "summary": "Senador fala sobre importância de investimentos na LDO, LOA e áreas de ciência, tecnologia e inovação, especificamente em Embrapa. Propõe ação conjunta com parlamentares e ministério para discutir isso. Menciona gabinete sempre disponível para Embrapa.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -224,7 +243,8 @@
       "summary": "Presidente do Sinpaf agradeceu oportunidade de debate, expressou disposição em fortalecer Embrapa, convidou senador para frente parlamentar, sugeriu visita a unidades Embrapa, e solicitou recursos públicos necessários ao seu funcionamento. Também agradeceu participação de senador, ministério e Embrapa.",
       "speaker": {
         "name": "Marcus Vinicius Vidal",
-        "position": "Presidente - Sindicato Nacional dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - Sinpaf"
+        "position": "Presidente - Sindicato Nacional dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - Sinpaf",
+        "slug": "marcus-vinicius-vidal"
       }
     },
     {
@@ -235,7 +255,8 @@
       "summary": "Senador propôs ampliar visitas, incluindo outros parlamentares e secretários de governo, para ter uma visão geral do contexto e ofereceu ajuda, comentando sobre disponibilidade de verbas na área de inovação.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -246,7 +267,8 @@
       "summary": "Diretor de Gestão e Governança agradece esforço por ciência e tecnologia no Brasil, homenageia líderes e parceiros e destaca importância de apoio à Embrapa por membros da comissão de orçamento para continuar melhorando a agricultura e vidas das pessoas.",
       "speaker": {
         "name": "ALDERI EMÍDIO DE ARAÚJO",
-        "position": "Diretor Executivo de Gestão e Governança"
+        "position": "Diretor Executivo de Gestão e Governança",
+        "slug": "alderi-emidio-de-araujo"
       }
     },
     {
@@ -257,7 +279,8 @@
       "summary": "Senador discute importância de Embrapa em desenvolvimento regional e regionalização; destaca papel da Embrapa em fornecer fundamentação e subsídios para tomada de decisões por parlamentares; sugere maior colaboração da Embrapa com Congresso Nacional para subsidiar decisões relacionadas a ciência e tecnologia.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     }
   ],

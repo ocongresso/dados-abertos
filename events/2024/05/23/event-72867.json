@@ -6,6 +6,19 @@
   "description": "23/05/2024 - Concessão de crédito rural",
   "speeches": [
     {
+      "id": 4572622,
+      "start_time": 1716459855,
+      "duration": 305,
+      "transcription": "\nDesejo bom dia a todos senhores, todas senhoras que estão nesta comissão de agricultura, agradeço também aos aos membros da comissão, pela aprovação da realização dessa audiência. Declaro aberta a décima quarta reunião extraordinária, de audiência pública da comissão de agricultura, pecuária, abastecimento e desenvolvimento rural da Câmara dos Deputados, convocada para debater o tema concessão de crédito rural e também regularização fundiária por conta por força do decreto onze mil seiscentos e oitenta e oito, e a resolução do conselho monetário nacional cinco cinco mil e oitenta e Comunico que atendendo o ato da mesa, de número cento e vinte e três de dois mil e vinte e a participação dos parlamentares e dos convidados nesta audiência poderá ocorrer de modo presencial remoto, via plataforma ou videoconferência. Esta audiência pública foi proposta pelo requerimento número trinta e quatro, de minha autoria a deputado Anderson Pinto do Pará, a finalidade discutir o tema que eu já mencionei. Confirmar o presente nas seguintes convidadas que eu já aproveito pra agradecer. Claudio Figueiras Pacheco Moreira, chefe de unidade de departamento de regulação, supervisão e controle das operação de crédito rural e do PROAGRO, do Banco Central do Brasil, Marcelo Benedito Lara da Silva, vicepresidente do Sindicato Rural de Santarém, José Henrique Bernardes Pereira, assessor técnico da Confederação da Agricultura e Pecuária do Brasil, CNA, Francisco Elismar Oliveira Albuquerque, coordenador geral de crédito rural e normas do Ministério da Fazenda, Moisés Savian, secretário de governança fundiária, desenvolvimento territorial e sócioambiental do Ministério do Desenvolvimento Agrário e Agricultura Familiar.\n\nWilson Araújo, diretor do Departamento de Política de Financiamento ao setor agropecuário do Ministério da Agricultura e Pecuária. André Rodolfo de Lima, secretária extraordinária de controle do desmatamento e ordenamento ambiental territorial do Ministério do Meio Ambiente e mudança do clima, MMA. Tiago Brás Rocha consultor de política agrícola da Aprosoja Brasil. E além também de Richard Torciano consultor e diretor nacional de estrutura fundiária que foi diretor nacional de estrutura fundiária do INCRA. Informo aos parlamentares que os expositores terão prazo de dez minutos prorrogáveis, às vezes da comissão, não podendo serem aparteadas.\n\nOs parlamentares inscritos, para interpelar os expositores, poderão fazêlo estritamente sobre o assunto da exposição, pelo prazo de três minutos, tendo os os interpelados igual tempo para responder, facultadas a réplicas e a tréplica, pelo mesmo prazo. Verdade ao expositor interpelar com as com as quedas presentes. Comunico ainda que para a melhor organização dos trabalhos a inscrição do debate ocorrerá pelo sistema Infolegue, no caso dos parlamentares. Bom pra gente ir direto ao assunto também queria agradecer a presença lideranças políticas que estão conosco nessa manhã, além dos colegas deputados federais, também deputado estadual Avelt, muito obrigado pela pela presença representando a Assembleia Legislativa do Estado do Pará, prefeito Gelson DIU, de novo Progresso, tanto com o presidente da câmara, Kiko como também o Ulisses, que é prefeito do município de Beltera, acompanhado também da sua equipe, vereadores que estão presentes, veja aqui o nascimento, né, lá de Beltera também, sejam todos bemvindos, o Anderson que eu vejo ali atrás também, sejam todos. E desejo a todos uma audiência muito produtiva, e objetivo dela principal pra gente ir buscar uma alternativa porque esses dois atos eles interferiram diretamente na vida dos produtores, principalmente na nossa região amazônica.\n\nPra dar logo início aos trabalhos, eu gostaria de já chamar pra primeira fala, eu passo a palavra ao senhor Cláudio Figueiras Pacheco Moreira, chefe de unidade departamento de regulação, supervisão e controle das operação de crédito rural e próagro do Banco Central do Brasil. Pode vir pra mesa ficar melhor de frente pra todos. Existe também a presença de minha esposa Darleia, já me acompanha há há vinte e nove anos, e me faz feliz. Bom",
+      "summary": " Bom dia a todos. Abriu-se audiência pública sobre concessão de crédito rural e regularização fundiária, regulamentada por decreto 11.688 e resolução CMN 5.580. Expositores terão 10 minutos para falar; parlamentares, 3 minutos para interpelar e 1 para responder, com réplicas e tréplica. Audiência proposta pelo deputado Anderson Pinto para debater tema que afeta produtores, especialmente na região amazônica. Cláudio Figueiras Pacheco Moreira foi o primeiro a falar.",
+      "speaker": {
+        "id": 220672,
+        "name": "Henderson Pinto",
+        "position": "Deputado",
+        "slug": "henderson-pinto"
+      }
+    },
+    {
       "id": 4559690,
       "start_time": 1716459858,
       "duration": 302,
@@ -14,7 +27,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -26,7 +40,8 @@
       "speaker": {
         "id": 0,
         "name": "CLAUDIO FILGUEIRAS PACHECO MOREIRA",
-        "position": "Chefe de Unidade do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro - Derop - Banco Central do Brasil - BCB"
+        "position": "Chefe de Unidade do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro - Derop - Banco Central do Brasil - BCB",
+        "slug": "claudio-filgueiras-pacheco-moreira"
       }
     },
     {
@@ -38,7 +53,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -50,7 +66,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSÉ HENRIQUE BERNARDES PEREIRA",
-        "position": "Assessor Técnico - Confederação da Agricultura e Pecuária do Brasil - CNA"
+        "position": "Assessor Técnico - Confederação da Agricultura e Pecuária do Brasil - CNA",
+        "slug": "jose-henrique-bernardes-pereira"
       }
     },
     {
@@ -62,7 +79,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -74,7 +92,8 @@
       "speaker": {
         "id": 0,
         "name": "FRANCISCO ERISMÁ OLIVEIRA ALBUQUERQUE",
-        "position": "Coordenador-Geral de Crédito Rural e Normas - Ministério da Fazenda - MF"
+        "position": "Coordenador-Geral de Crédito Rural e Normas - Ministério da Fazenda - MF",
+        "slug": "francisco-erisma-oliveira-albuquerque"
       }
     },
     {
@@ -86,7 +105,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -98,7 +118,8 @@
       "speaker": {
         "id": 0,
         "name": "MOISÉS SAVIAN",
-        "position": "Secretário de Governança Fundiária, Desenvolvimento Territorial e Socioambiental - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA"
+        "position": "Secretário de Governança Fundiária, Desenvolvimento Territorial e Socioambiental - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA",
+        "slug": "moises-savian"
       }
     },
     {
@@ -109,7 +130,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -121,7 +143,8 @@
       "speaker": {
         "id": 220597,
         "name": "Thiago Flores",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-flores"
       }
     },
     {
@@ -133,7 +156,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -145,7 +169,8 @@
       "speaker": {
         "id": 0,
         "name": "WILSON VAZ DE ARAÚJO",
-        "position": "Diretor do Departamento de Política de Financiamento ao Setor Agropecuário - Ministério da Agricultura e Pecuária - MAPA"
+        "position": "Diretor do Departamento de Política de Financiamento ao Setor Agropecuário - Ministério da Agricultura e Pecuária - MAPA",
+        "slug": "wilson-vaz-de-araujo"
       }
     },
     {
@@ -157,7 +182,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -169,7 +195,8 @@
       "speaker": {
         "id": 0,
         "name": "ANDRÉ RODOLFO DE LIMA",
-        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA"
+        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA",
+        "slug": "andre-rodolfo-de-lima"
       }
     },
     {
@@ -181,7 +208,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -193,7 +221,8 @@
       "speaker": {
         "id": 0,
         "name": "MARCELO BENEDITO LARA DA SILVA",
-        "position": "Vice-Presidente - Sindicato Rural de Santarém"
+        "position": "Vice-Presidente - Sindicato Rural de Santarém",
+        "slug": "marcelo-benedito-lara-da-silva"
       }
     },
     {
@@ -205,7 +234,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -216,7 +246,8 @@
       "speaker": {
         "id": 0,
         "name": "THIAGO BRAS ROCHA",
-        "position": "Consultor de Política Agrícola - Associação Brasileira dos Produtores de Soja - Aprosoja Brasil"
+        "position": "Consultor de Política Agrícola - Associação Brasileira dos Produtores de Soja - Aprosoja Brasil",
+        "slug": "thiago-bras-rocha"
       }
     },
     {
@@ -228,7 +259,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -240,7 +272,8 @@
       "speaker": {
         "id": 0,
         "name": "RICHARD TORSIANO",
-        "position": "Especialista - Escola Nacional de Magistratura"
+        "position": "Especialista - Escola Nacional de Magistratura",
+        "slug": "richard-torsiano"
       }
     },
     {
@@ -252,7 +285,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -264,7 +298,8 @@
       "speaker": {
         "id": 0,
         "name": "Samanta Pineda",
-        "position": "Vice-presidente - Inst. Bras. Desenv. Sustentável"
+        "position": "Vice-presidente - Inst. Bras. Desenv. Sustentável",
+        "slug": "samanta-pineda"
       }
     },
     {
@@ -276,7 +311,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -288,7 +324,8 @@
       "speaker": {
         "id": 220597,
         "name": "Thiago Flores",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-flores"
       }
     },
     {
@@ -300,7 +337,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -312,7 +350,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -324,7 +363,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -336,7 +376,8 @@
       "speaker": {
         "id": 0,
         "name": "ANDRÉ RODOLFO DE LIMA",
-        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA"
+        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA",
+        "slug": "andre-rodolfo-de-lima"
       }
     },
     {
@@ -347,7 +388,8 @@
       "speaker": {
         "id": 220597,
         "name": "Thiago Flores",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-flores"
       }
     },
     {
@@ -358,7 +400,8 @@
       "speaker": {
         "id": 0,
         "name": "ANDRÉ RODOLFO DE LIMA",
-        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA"
+        "position": "Secretário Extraordinário de Controle do Desmatamento e Ordenamento Ambiental Territorial - Ministério do Meio Ambiente e Mudança do Clima - MMA",
+        "slug": "andre-rodolfo-de-lima"
       }
     },
     {
@@ -370,7 +413,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -382,7 +426,8 @@
       "speaker": {
         "id": 0,
         "name": "AVEILTON SOUZA",
-        "position": "Deputado Estadual - Assembleia Legislativa do Estado do PA"
+        "position": "Deputado Estadual - Assembleia Legislativa do Estado do PA",
+        "slug": "aveilton-souza"
       }
     },
     {
@@ -394,7 +439,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -406,7 +452,8 @@
       "speaker": {
         "id": 0,
         "name": "GILSON DILL",
-        "position": "Prefeito - Município de Novo Progresso - PA"
+        "position": "Prefeito - Município de Novo Progresso - PA",
+        "slug": "gilson-dill"
       }
     },
     {
@@ -418,7 +465,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -430,7 +478,8 @@
       "speaker": {
         "id": 0,
         "name": "LUCIANE MOESSA",
-        "position": "Diretora-Executiva - Associação Soluções Inclusivas Sustentáveis - SIS"
+        "position": "Diretora-Executiva - Associação Soluções Inclusivas Sustentáveis - SIS",
+        "slug": "luciane-moessa"
       }
     },
     {
@@ -442,7 +491,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -454,7 +504,8 @@
       "speaker": {
         "id": 0,
         "name": "MOISÉS SAVIAN",
-        "position": "Secretário de Governança Fundiária, Desenvolvimento Territorial e Socioambiental - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA"
+        "position": "Secretário de Governança Fundiária, Desenvolvimento Territorial e Socioambiental - Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA",
+        "slug": "moises-savian"
       }
     },
     {
@@ -465,7 +516,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -477,7 +529,8 @@
       "speaker": {
         "id": 0,
         "name": "CLAUDIO FILGUEIRAS PACHECO MOREIRA",
-        "position": "Chefe de Unidade do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro - Derop - Banco Central do Brasil - BCB"
+        "position": "Chefe de Unidade do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro - Derop - Banco Central do Brasil - BCB",
+        "slug": "claudio-filgueiras-pacheco-moreira"
       }
     },
     {
@@ -488,9 +541,36 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
+      }
+    },
+    {
+      "id": 4572624,
+      "start_time": 1716470712,
+      "duration": 143,
+      "transcription": "\nClaudio, mais uma vez referente a questão do banco central, os produtores eles sempre trabalham com o custeio agrícola, e isso que você falou assim em questão da do do recurso, ele pega ele tem recurso liberado pra pra soja né, e nessa mesma área ele também pode pegar pra milho que seria a safrinha, safrinha e safrinha, agora vai vencer no mês de junho vence o custeio da soja, que que ele faz com esse dinheiro do custeio da soja? Ele paga ali os químicos, os defensivos agrícolas, os biológico, a semente e o adubo. Agora no mês de junho vence, se esse produtor não tiver acesso a esse custeio agrícola agora, ele vai ficar inadimplente. Você entendeu? Ele vai ficar inadimplente.\n\nEntão assim, a urgência de tratar essa resolução, eu não sei qual mecanismo você poderia usar pelo menos temporariamente pra pra produtor poder acessar esse crédito. Quando digo assim o produtor não falo nem só assim o produtor de grãos, mas os demais também, porque o nosso período de colheita e de pagamento é diferente do Mato Grosso Mato Grosso se eu não me engano acho que é abril e nossa aqui é nosso é junho você entendeu? Então a gente é póspago, a gente pega fiado, você entendeu? Pra pagar após a colheita. Já observando essa questão do do custo agrícola, usando o custo agrícola que é pra isso, o custo agrícola é pra financiamento da da da sua safra, então assim, eu queria que você tomasse esse certo cuidado principalmente nesse período agora que nós já estamos aproximando pra pagar as conta, de qual medida vocês lá o banco central poderiam ter pra poder resolver essa situação a meio que a toque de caixa mesmo pra pra esses produtores acessar esse crédito pra não entrar na lista de inadimplente se ele entrar na lista de inadimplente por exemplo numa multinacional de uma cingenta, você entendeu ele esquece meu amigo aí o banco não vai fazer outro custeio pra ele porque ele está inadimplente, ele não vai ter o dinheiro pra pagar os defensivos agrícolas e não vai conseguir tirar o crédito rural quando vocês resolverem, entendeu?\n\nCom relação a a minuta que vocês estão trabalhando o Moisés, eu queria sugerir pra você chamar o deputado Ayrton Faleiro, o deputado Anderson Pinto e o deputado Tiago pra estar discutindo esse novo decreto você entendeu? Bem restrito que ele vai passar para todos os pares deles aqui na câmara e pra gente lá da base pega todo mundo. Era isso deputado. Perfeito.",
+      "summary": " O Vice-Presidente do Sindicato Rural de Santarém destacou a necessidade urgente de produtores acessarem crédito agrícola, particularmente para o custeio da soja, e a possibilidade de inadimplência sem esses recursos. Ele propôs medidas temporárias do Banco Central e discussão de um novo decreto com deputados.",
+      "speaker": {
+        "id": 0,
+        "name": "MARCELO BENEDITO LARA DA SILVA",
+        "position": "Vice-Presidente - Sindicato Rural de Santarém",
+        "slug": "marcelo-benedito-lara-da-silva"
+      }
+    },
+    {
+      "id": 4572623,
+      "start_time": 1716470855,
+      "duration": 680,
+      "transcription": "\nMais mais alguém da, dos convidados? Posso conduzir? Eu eu fico muito feliz com o resultado da audiência e partir pro encaminhamento, né? Eu tinha preparado aí uma, uma lauda pra uma fala, mas resolvi ouvir a todos e acabei sendo aí surpreendido de forma positiva, porque as falas elas acabaram também vim dar encontro daquilo que eu tinha pra pra questionar, né? Que que eu queria tirar de encaminhamento primeiro que eu não não vou me tornar redundante até porque tanta fala dos que vieram do do meu estado do Pará, como dos deputados, como dos órgãos daqui do governo, como a CNA, como a Aprosoja, como o 0 Richard que veio também contribuir de forma muito significante, significativa, melhor dizendo pra pra essa audiência.\n\nEu me dou por satisfeito com a fala da da maioria, mas apenas chamar a atenção pra alguns pontos do do ponto de vista, de ver a questão da resolução dos pontos que foram identificados aqui como dentro da Amazônia que é a área mais prejudicada, de que forma a gente poderia estar traçando uma mudança nessa resolução, ou de repente a sugestão do Marcelo pra que a gente possa vir ao encontro esses anseios, porque hoje por exemplo, você pode pegar todos os agente financeiro lá, o próprio Baza que hoje não não vão bater meta ou vão chegar até longe disso, né? Porque não tem como bater meta se não abre o crédito pra quem está está precisando. E aí quando eu falo da eu falei lá no início da separação do joio e do trigo, é sobre isso que a gente fala, que quando você faz a análise aqui muito bem aplicado por apresentado por todos, você percebe que é uma minoria que causa o 0 prejuízo pra maioria. E como a gente não tem ou como eu digo a gente o governo, o estado brasileiro ele não tem perna pra fazer uma fiscalização mais eficiente, a gente acaba fazendo uma legislação ou uma resolução ou decreto que acaba atingido a todo mundo e não somente os que deveriam ser atingidos, né?\n\nO que isso hoje está muito claro na fala de todo mundo aqui em relação principalmente ao que ocorre na Amazônia que tem peculiaridade gritante, né? Por exemplo, quando a gente olha o cenário meramente geográfico, nós podemos dizer que sessenta por cento de território brasileiro é da é na Amazônia Legal, só que só tem quase trinta milhões de brasileiros e os outros quarenta por cento, cento e oitenta e cinco milhões de brasileiros estão nos outros quarenta por cento do território. E quando você vê essa divisão, a gente sempre fica pra trás porque os números se coloca no geral acabam não representando a dimensão do problema lá na ponta, principalmente na Amazônia. Então eu gostaria de fazer esse pedido a ao Cláudio quem é responsável no Conselho Monetário Nacional e você como está não representando o conselho, mas representando o Banco Central, aqui que pudesse levar essa demanda que na Amazônia está diferente. Se não atingiu no resto do país os produtores ou ou conseguiam alcançar aquilo que se desejava com essa resolução na Amazônia deu o contrário como foi relatado aqui pelo pela Prosodia, pelo deputado Airton, pelo deputado Tiago, por todos que nos atesteceram, pela CNA, pela pela Samanta, ou seja, por pelo Marcelo que trouxe aqui na minha avaliação exatamente o sentimento da ponta do produtor, seja do do produtor da agricultura familiar, do pequeno produtor até o grande produtor de grãos que é todos ajudam na economia do país, essa que é a que é a grande realidade e aí Moisés também da mesma forma para o decreto.\n\nEu sei que o que vocês construíram até ontem foi baseado na primeira reunião que nós tivemos logo após AAA conversa que nós tivemos lá no INCRA, era aquela reunião que estiveram pra esse vários deputados depois uma série de tratativas, mas ainda é importante a gente saber se esta alteração ela também atende nesse nesse geral e a gente vai pegar aqui algumas demandas sugestões que chegaram aqui pra ver se está contempladas dentro, estão contempladas dentro do do do, do decreto? Porque eu finalizo dizendo e faço fazendo uma reflexão com todos, eu acho que teve falas aqui que foram fundamentais pra entender que aqui não se trata de uma pauta de da da de ideológica de direito ou de esquerda das extremas ou do centro, mas uma pauta de resolver o Brasil. E a Amazônia, ela há muito tempo se discute, mas agora de vez nós estamos discutindo a Amazônia com os Amazonas, né? Quando a gente vê o governador do Pará se tornando protagonista dessa história indo pra solicitando que a COP fosse realizada na Amazônia dentro de uma cidade que precisa ser por quê? Porque não adianta fazer a sua cópia no em Dubai que é 000 céu que nós talvez queremos pros nossos habitantes do planeta que não é a realidade nossa da Amazônia.\n\nEntão levar a COP pra dentro da Amazônia é a gente reconhecer que nós vamos discutir a COP dentro da área totalmente vivencia no dia a dia que precisa ser reconhecida como algo de modelo que nós temos aqui pra apresentar pro que o mundo não fez, esse dever de caso nós podemos fazer aqui a partir da preservação ambiental, mas também reconhecer que temos que dar condições nas áreas consolidadas, nas áreas que é possível se se produzir, né? Nas áreas produtiva desses do da da Amazônia. Por exemplo, o estado do Pará tem cento e vinte e quatro milhões de hectares, de terra. Dessas, trinta milhões são áreas indígenas. Dezessete milhões são unidade de conservação, treze milhões são projeto de assentamentos, dois milhões e meio e vírgula são áreas militares e aí a gente precisa agora inserir aqueles que produzem, né?\n\nQue estão todos inseridos, o pequeno, o médio, o grande, com o único intuito. E a nossa posição nesta casa é de fato separar joio do trigo. Quem está ali pra fazer o quanto pra desejar o quanto pior melhor, que seja punido. Mas vamos tirar a grande maioria que são trabalhadores, que foram incentivado lá atrás a ir pra Amazônia, está no processo de transição de quase cinquenta anos que a gente precisa resolver agora. E este é o momento porque nós vamos discutir uma COP que temos que que que reconhecer que as mudanças climáticas elas estão aí acontecendo no dia a dia, mas reconhecer que a gente tem o exemplo pra dar no Brasil diferente do que o mundo todo fez.\n\nPorque quando você começa a discutir nos outros países, destruir o que tinha pra destruir, o que não deveriam destruir, não usaram o sol que deveria se usar pra produzir e o Brasil hoje tem o 0 de forma extraordinária condições de mostrar pra o mundo opa, aqui não, aqui é diferente, a gente tem condições de preservar a floresta, manter a área produtiva, aumentar a produtividade, aumentar a nossa produção, aumentando a nossa produtividade, sem aumentar a área produtiva. Essa é que a realidade. O estado do Pará hoje, os números apontam isso, que nós temos capacidade de chegar duas, três vezes mais a nossa produtividade sem derrubar uma árvore da floresta primária. E essa é uma realidade. Quando a gente fala isso, muita gente questiona, mas quando você vai pra realidade da Amazônia a gente percebe claramente que isso é possível.\n\nO que que falta hoje? Só esse diálogo que o governo abre e isso é se reconhecer que é esse diálogo que o governo abre hoje pra nós é fundamental pra gente discutir o que é melhor pro Brasil mas especial pra Amazônia. Então eu fico, eu fico muito satisfeito com essa audiência pública, com todas as contribuições, percebendo claramente que o Governo também, as divergências que existem, elas têm o único objetivo de convergir, como também no parlamento, que eu acho que isso que é o fundamental, agradecer a presença de todos, vocês que estão aqui, esperar agora o resultado prático dessa audiência pública, como disse o Airton, é apenas mais uma etapa daquilo que a gente está está construindo. Que eu tenho muita fé, muita crença e em Deus e nos homens que são responsáveis em nos ajudar, que nós vamos chegar naquilo que é o melhor, de poder fazer as correções históricas e fazer o pagamento pra Amazônia e pra nossa região que historicamente a gente foi deixado sempre pra depois. Essa é a realidade.\n\nE aí eu finalizo só dando dado em relação à malha, o malha, a malha rodoviária desse país. Quando você olha o país e vê a malha rodoviária federal, os maiores problemas estão antes? Lá no Pará, e no Amazonas. Só no Pará, a Transamazônica, que é a maior rodovia federal do país, ela tem oitocentos e oitocentos quilômetros e quinhentos metros sem pavimento. Ou seja, como fazer fiscalização, como fazer desenvolvimento, se a gente não dá conta de cuidar daquilo que é responsável pra nós, escoar a nossa produção.\n\nAlém do que Amazônia e a nossa região lá em Santarém está localizada geograficamente numa condição extremamente favorável pra ajudar no modal logístico do país, fazendo com que a a partir do porto em Santarém e em Miritituba a gente consiga reduzir esse custo com transporte, com logística e e levando o nosso produto de forma mais competitiva pra fora do país. E a gente tem que correr na mesma direção desse desenvolvimento, regularização fundiária, regularização ambiental, reconhecendo que todos são importantes, o produtor rural pequeno, médio grande, o indígena, o quilombola, as populações tradicionais, porque nós somos responsáveis em promover essa mudança e esse desenvolvimento lá. Então eu agradeço mais uma vez a presença de todos, vamos continuar construindo essa história, porque se a a tudo que a gente construir agora vai beneficiar sobretudo as futuras gerações, que é o que nós queremos, preservar, produzindo, produzir, preservando, essa é a tese que eu acho que é a mais vai dar certo no Brasil, especial na Amazônia. Muito obrigado a todos e bora trabalhar, como diz o nosso governador, que inclusive tem sido grande governador, e tem o Pará se tornou uma grande referência de regulação fundiária, só que lá a maioria das área depende da união.\n\nEsse é problema e eu sei quando a gente junta força, estados, federal, governo federal e município não alcançar aquilo que nós queremos. Então muito obrigado a todos, declaro encerrada essa audiência pública. Se se não for pedir muito eu queria convidar a todos vir aqui pra cima pra gente fazer uma foto oficial de encerramento aqui tá?",
+      "summary": " Deputado expressa satisfação com audiência, destacando propostas que beneficiariam produção na Amazônia, com mais crédito e fiscalização eficiente, considerando realidade e peculiaridades da região, aumentando produtividade sem aumentar área produtiva, solicitando reconhecimento da COP na Amazônia e atenção à malha rodoviária federal no Pará e Amazonas.",
+      "speaker": {
+        "id": 220672,
+        "name": "Henderson Pinto",
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     }
   ],
-  "updated_at": -62135596800
+  "updated_at": 1716625428
 }

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Secretária de Informação e Saúde Digital abordou avanços na telemedicina no país durante pandemia, destacando debate, audiências públicas e criação da Frente Parlamentar de Saúde Digital. Ela parabenizou iniciativa de projeto de lei para instituir Rede Nacional de Dados em Saúde, mencionando etapas do programa de transformação digital com foco em qualidade e fortalecimento da rede de atenção. Ela agradeceu e parabenizou trabalho em relatório e projeto sobre o tema.",
       "speaker": {
         "name": "Ana Estela Haddad",
-        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde"
+        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde",
+        "slug": "ana-estela-haddad"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": " Coordenadora-Geral de Inovação e Informática em Saúde instituiu RNDS, uma rede nacional de dados de saúde com interoperabilidade, integrando diferentes níveis e atores do sistema. RNDS permite acesso a informações para políticas de saúde e continuidade do cuidado, seguindo padrões de interoperabilidade e LGPD, atualmente em piloto em sete estados e acessível por plataformas SUS digitais.",
       "speaker": {
         "name": "Paula Xavier dos Santos",
-        "position": "Coordenadora-Geral de Inovação e Informática em Saúde"
+        "position": "Coordenadora-Geral de Inovação e Informática em Saúde",
+        "slug": "paula-xavier-dos-santos"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Ana Estela Haddad",
-        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde"
+        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde",
+        "slug": "ana-estela-haddad"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": " Presidente da Associação Brasileira de Telessaúde e Telemedicina enfatizou importância de cartão único do cidadão no SUS, valor da telemática em saúde, e propostas em informações em saúde com foco em análise preditiva e conformidade de dados. Além disso, destacou a necessidade de medicina e saúde conectadas com base em informações digitais de qualidade.",
       "speaker": {
         "name": "Chao Lung Wen",
-        "position": "Presidente - Associação Brasileira de Telessaúde e Telemedicina"
+        "position": "Presidente - Associação Brasileira de Telessaúde e Telemedicina",
+        "slug": "chao-lung-wen"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -139,7 +150,8 @@
       "transcription": "Desço em nome do nosso Presidente Fábio Baccarete Vitor o convite novamente estar aqui nesta casa, em nome da excelentíssima deputada Reitero também, as luminatas também e todos os presentes aqui, né, Adriana Ventura. Também doutora Nistela, doutora Paula Xavier, doutor Marco Diana, os nossos remotos aí, doutor Xiao, doutor Leonardo e vou partir já sem delongas para a minha fala. Antes de mais nada me apresentando, eu sou Felipe Ferresso, assessor técnico do CONASSM, Conselho Nacional de Secretários de Estado de Saúde. Eu sou, eu trabalho com informática em saúde há vinte e quatro anos, trabalho no SUS desde dois mil e nove e não tenho conflitos de interesse a declarar. Bom, aqui a nossa estrutura do SUS e a gente tem uma uma questão recorrente, desde que foi criado, na verdade desde a constituinte, que é como que nós vamos informar e comunicar no SUS. Esse é o grande problema. Nós temos diversos atores e na democracia temos mais atores, sempre dialogando, conversando, interagindo e tomando decisões muitas vezes compartilhadas, como acontece na comissão de gestão e tripartite. Então nós não temos mais, né, sistema hierárquico e vertical como era antes do SUS, agora nós temos sistema horizontal e com várias premissas, né. Apresentando então uma parte dessa comissão, aqui é o CONASS, e o CONASS ele tem, ele é formado pelos vinte e sete secretários de saúde que vêm todos os meses para Brasília, na véspera da comissão intergestores e tripatia pra fazer as pactuações. E nós somos, os os secretários são apoiados pelo CONASS, que faz a a representação em várias instâncias, e por catorze câmaras técnicas onde tem vinte e sete titulares e vinte e sete suplentes que apoiam tecnicamente, dão subsídios para as pactuações. E eu faço parte da comissão da da Câmara Técnica de Informação e Informática. Então estou ligado às vinte e sete referências, vinte e sete chefias de TI de todos os estados, essa é a nossa capilaridade. Então, a gente consegue fazer consenso na tripartite sempre articulando com a as vinte e sete áreas de referência nos estados. E qual que é o desafio do SUS? A gente vai, eu vou falar muito das questões normativas, já que estamos aqui nesta casa e estamos apresentando uma nova normativa que reforma oitenta oitenta né, que atualiza oitenta oitenta, isso é muito positivo. Nós estamos falando aqui de operacionalizar dezenas de políticas nacionais. E todas essas políticas nacionais que eu estou elencando aqui, elas na verdade passam pela informação informática, elas passam pela saúde digital. Esse é o nosso grande desafio. E o pilar do SUS desde que foi criado, é a epidemiologia no estabelecimento de bioidades. Então a gente tem a nossa nossa forma né nosso modo de operar, monitoramento e avaliação, do dado à decisão e da retroalimentação deste dado conforme as decisões tomadas. E isso é importante, porque agora a gente trabalha em duas perspectivas. Com a política nacional de informação e informática, nós temos antes, uma ação sem esta política de dois mil e quinze e hoje né, de dois mil e vinte do Conselho Nacional de Saúde, que ela foi evoluindo também, e uma após essa política EAA esse projeto de lei conversa com as medidas que vêm após essa política. Então eu eu coloco o projeto de lei no hoje, eu vou falar pouco do ontem, exatamente para justificar o hoje, né. Então aqui tem a sequência de eventos, que nós pactuamos de forma tripartite, né, que então não, eles não foram feitos apenas no âmbito do Poder Executivo, foi feito nos três, nas três esferas do Poder Executivo, muito dialogado, muito com muito, com com a participação e a gente chegou então na nossa estratégia saúde digital para o Brasil. E qual é o como como que funciona, né? Nós temos as nossas instâncias de governança gestoras, nós temos duas, né, assim, que dão subsídio para a CITI, uma delas é o Comitê Gestor da Saúde Digital, formado pelas secretarias do Ministério, pela pela ANS, Agência Nacional de Saúde Suplementar, pela Agência Nacional de Vigilância Sanitária, pelo CONASS, pelo CONASEMS e agora pela Fundação Oswaldo Cruz, então uma importante contribuição. E do outro lado nós temos a o GT da Comissão Intergestores e Hipertite, que é de de informação e saúde digital. Essas são as duas instâncias de governança da NDS, né, que estão hoje postas, né. E aí eu vou falar agora do antes do SUS, antes do da da PNIS, da Política Nacional de Informação Informática em Saúde, e cuja versão né, é a da resolução meia cinco nove de dois mil e vinte e do Conselho Nacional de Saúde. Então a gente tem, AAA figura do sistema nacional de saúde, né, o que que é essa figura, né? Ela ela é algo que não foi necessariamente entregue e é isso que a gente precisa ter em mente. Então quando a gente olha o escopo dos projetos de lei que foram muito sabiamente juntados aqui neste único projeto de lei, totalmente contemplados inclusive, nós vemos aqui vários destaques. Eu coloquei essa nuvem de palavras aí, mas por quê? Porque todos eles pedem o que já está na sociedade. Poxa vida, por que que eu preciso, porque eu não posso ter minha carteira de vacinação digital? Por que que eu não posso ter o meu prontuário etcetera? Isso é pedido que está ali, já assim e tem projetos de lei que estão há há quinze anos até até mais né? Então aqui alguns destaques que eu faço, sistema nacional de cadastro de saúde, cartão eletrônico da vacinação, identificação biométrica, controle de consultas realizadas, pontuar eletrônico, etcétera. E isso tudo já está conjugado neste projeto de lei, por isso que ele é projeto de lei muito feliz. E, quando a gente olha mesmo, né, por exemplo, nos últimos três relatórios das conferências de saúde, talvez mais, a gente olha as demandas populares, as demandas sobre telessaúde, regulação transparente, interoperabilidade, essas palavras já aparecem nos relatórios, isso é muito importante, né. E está em discussão, a pedido inclusive da décima sétima conferência nacional de saúde, a criação da câmara técnica de informação e comunicação no Conselho Nacional de Saúde, porque hoje está na de ciência e tecnologia. Então é é movimento que o próprio Conselho faz. E, como estamos falando aqui de dois poderes, vou falar aqui de terceiro né, existe o tema dois três quatro, de de medicamentos que também está provocando, né, colocando assim a necessidade de uma plataforma nacional de de medicação né, no caso o foco é medicamentos né, mas então essa plataforma pra poder a gente entender melhor o fenômeno então, isso está acontecendo também. E aí o que a gente vive antes da Penis, né e e aí o que que a gente está propondo pra vencer isso né? A gente vive essa torre de babel, onde cada instituição, cada ação em serviço em saúde tem uma linguagem própria e não se comunica. Então isso que é a fonte da fragmentação. E aí quando a gente vai trabalhar com os dados, nós temos bilhões de registros, a gente trabalha naquela linha de deciframe ou devorote, porque a gente não tem exatamente o dado desfecho clínico, a gente tem indicadores, né, que mostram, que são muito, nós nós somos muitos muito avançados no Brasil em saúde digital, somos muito avançados, mas temos muito avançar também. E aí, tem destaque que é importante, que é esse tal sistema nacional de informações. Mas espera lá, nós não temos o sistema nacional de informações? Como assim? Não, nós temos, teríamos que ter entregue em noventa e dois, porque, na oitenta oitenta, já tinha sido que é de mil novecentos e noventa tinha sido colocado prazo de dois anos. E, o que nós entregamos? Nós entregamos dezenas de sistemas nacionais de saúde. Cada linha aqui, cada sigla que está aqui é sistema, é centralizador, e muitas vezes fragmentados, nós não conseguimos saber exatamente se aquele cartão nacional de saúde que está em é da mesma pessoa do cartão nacional de saúde que está em outro, ou ainda, às vezes nem o cartão nacional de saúde era obrigatório, e muitos registros. Então a gente realmente tem que vencer este legado. E, só para ilustrar, aqui a volumetria que eu sempre coloco nas minhas apresentações, né. Então só de dados abertos, de cerca de noventa e dois sistemas de subsistemas de informação, né, se a gente colocar assim, nós temos aí treze bilhões de registos nessa data, né, hoje já ultrapassou quatorze bilhões. Bom, e aí o SUS, ele fez o quê? Uma rede que deixaria de ser uma rede hierarquizada, para uma rede poliárquica, com a APS no centro, com atenção primária à saúde no centro. Mas nós fomos avançando, né, e hoje realmente somos referência no mundo, mas nós continuamos fragmentados ao serviço, ao invés de ser orientado ao usuário. E a estratégia saúde digital coloca o usuário no centro. Então o nós do serviço que vamos utilizar os dados depois coletados. Não é mais agora o serviço que vai dizer como o dado será coletado, mas o próprio a própria necessidade de saúde, a condição de saúde que está sendo colocada ali, e o usuário né? Então aqui, até o doutor Xiao colocou isso muito bem, a questão do da das diferenças né, do prontuário eletrônico, de registro de registro eletrônico de saúde, do conjunto mínimo de dados, isso é é é importante por quê? Porque na ANDS não vai tudo, não pode tudo né, aquela dipirona lá de de quatro em quatro horas que foi no atendimento do da internação hospitalar não precisa ir para o conjunto mínimo de dados ou pro registro eletrônico de saúde. O que a gente precisa saber é se houve dipirona, se houve alergia. Então essa informação porque de repente se ele for internado ou se ele for para SAMU né, uma uma urgência, vai saber que ele não tem alergia a dipirona. Então é nesse sentido que a gente pensa na continuidade do cuidado. Então nós não temos ainda esse essa questão né. Agora o dado completo, ele é acessado por municípios e por estados quando eles têm o prontuário eletrônico. Então é é é importante dizer, os estados e municípios já têm os dados nominais identificados, et cétera, muitas vezes organizados, já já convergentes tal, mas tem dado que vem para o Ministério da Saúde, que ele é higienizado, que ele faz parte das políticas públicas comuns, e aí a gente não consegue chegar lá, né. E aí por quê? Porque os dados não voltam, e aí que vem a federalização que eu vou falar a seguir. Então o 0 outra questão que é importantíssimo que a RNDS também se debruça e o projeto de lei também coloca, é a questão com o privado. Nós temos dois sistemas de saúde no Brasil, digamos assim, dentro do outro talvez, né, que é duzentos e três milhões de usuários do SUS e cinquenta e milhões de de usuários com dupla cobertura. E esses dados têm que também entrar, porque nós temos que atender a todos, o SUS é para todos. E importantíssimo, a RNDS, ela ela resolve uma questão que nós não podemos ter conflitos com a iniciativa privada, né, e suas questões. Então é bem importante destacar que Open Health não é RNDS, não tem a menor ligação de uma coisa com a outra, né, como a iniciativa privada vai se organizar com estes dados etcetera, é outra forma, não tem possibilidade da gente misturar uma coisa com a outra, são conceitos diferentes. Então, eu convido até a pesquisar mais sobre esse assunto, talvez até eu tenha espaço de debate mais amplo. E aí agora com a PNIS e com 0A0 projeto de lei virando lei, né? Somos né, torcer aí né. Então aqui tem eu fiz até antes e depois. Nós temos ali, sistema nacional de saúde, que não vigorou, e agora a gente tem RNDS, nós temos centralizadores de dados, agora a gente tem interoperabilidade. Nós tínhamos uma governança fragmentada, agora a gente tem instância de governança. Nós tínhamos dados não federados, agora a gente vai partir pro federado. E nós temos tínhamos uma estratégia desconexa de acesso à informação, agora a gente tem a plataforma Conecte SUS, ou SUS digital. Nós temos usuários com múltiplos identificadores, às vezes com cinco cartões, seis cartões, agora a gente tem a convergência pro CPF e o cartão nacional de saúde abraçando as necessidades do SUS. Então a gente sai de registro que era orientado ao dado administrativo, ao pagamento, e vai para o clínico epidemiológico que é o que a gente tem de vocação. E aqui nós temos aqui né várias siglas aqui da anteriores e agora as atuais, né? Então as de cima é o que a gente está tentando vencer, né, o legado, e as de baixo são as siglas que a informática em saúde traz como ciência, que agora a gente começa a se apropriar. Importantíssimo então, agora eu vou pros destaques da da RNDS, da lei, pelo projeto de lei, né. Primeiro lugar, via única de interoperabilidade, porque nós não podemos ter várias vias, né, então eu, por exemplo, tenho aplicativo onde tenho os meus dados, deixar de usar esse aplicativo dessa plataforma, os dados vão ficar lá. Como que eu faço, como que eu garanto que eu posso trocar de plataforma privada, né, se não for haver a única RNDES? Então, a gente precisa enfatizar isso. AA0 setor privado está incluído na RNDES, até eu faço uma brincadeira aqui com o farmácia popular, né? Gostaria de ver os estabelecimentos privados colocaram aqui tem RNDS porque eu mesmo gostaria de estar sendo atendido por eles ou comprar medicamento alguma coisa do tipo e ter esse registro na minha plataforma, no meu Conecte SUS. Todos os meus registros clínicos, meus contatos assistenciais registrados, independente se foi num setor público ou privado. Aqui nós temos a a ênfase às redes estaduais de dados em saúde, isso é fundamental, porque muitas vezes os Estados vão precisar de dado mais enriquecido, dado com mais informações do que está na ANDS, e muitas vezes também vai ser essa forma de operacionalizar na bipartite, na comissão de gestões de hepatite com os municípios, a entrada dos dados da NDS, a depender do dado. Então é uma arquitetura que ela já ela já entra, né, de acordo com o que a gente já pensa na operacionalização. Eu vou precisar de mais uns dois minutinhos talvez. Bom, aqui também tem uma questão importante que coloca, força de trabalho, né, então coloca lá profissionais e usuários. Isso é muito importante porque hoje, nossa gestão feita pelo CINEES, muitas vezes não corresponde, não bate com a folha de pagamento, e por exemplo, nós tivemos dificuldade de saber quantos enfermeiros tínhamos, por conta da da da questão do piso da enfermagem, por exemplo. Então, nossa força de trabalho, a gente precisa também, na ANDS, né, digamos assim, nessa federalização, monitorar não apenas usuários, mas todos os atores envolvidos pelo CPF, né então já temos aí uma uma fonte de integração. Bom a questão de modelos aqui já foi precedido, já foi colocado aqui, uma arquitetura com governança compartilhada não preciso colocar né? Mas, tem destaque que está no texto anterior, que eu acho que a gente pode conversar, que é a autonomia dos estados e municípios de terem os próprios padrões. Então, que está aqui nesse slide né? Então assim, temos que ter sempre coordenação com autonomia, né? Então são dois equilíbrios né, uma são duas balanças aí muito importantes. E e aí quando a gente coloca né a a questão da da da federalização, ela nos é cara pelo seguinte, ela é algo do setor público, porque os dados que vêm para o governo federal muitas vezes não voltam por falta de mecanismos, né, não é o desejo também, porque tem governança, tem uma série de questões, né, e agora a gente está avançando bastante com a nossa oficina como a a doutora Paula colocou e estamos aqui assim, AAA amplos passos né. Então, isso é importante colocar no projeto de na lei, porque talvez demore anos, a gente não sabe. Então isso é, para nós é importante manter como federalização porque ela é princípio, e princípio de é princípio federado, é de federalismo mesmo, né, quando a gente fala do Brasil, foi federalismo centrífugo, né, porque ele era uma união e se tornou estados que têm certa autonomia, municípios, entes federados, né. Então isso pra nós é muito caro, e quando a gente fala de federalização é só de fato nos três entes, não envolve a iniciativa privada, então é de fato porque a iniciativa privada ela entra em outros motes, então todas essas referências lá da iniciativa privada no projeto de lei estão corretas, mas o federalismo era até por conta de uma, até vou colocar slide aqui, porque a gente no início de ser pensado, numa arquitetura federada, isso é uma questão até técnica, né, que a gente pode também apresentar isso com mais calma em outro momento, né? Mas a arquitetura federada ela tem os permissionadores, entende? Então é algo diferente, tá, eu não vou entrar em detalhes aqui porque se não esgotar meus outros dois minutos que eu já te bebo, né, mas é é Então, a Então, a gente tem aqui né, eu eu resolvi ser extenso mesmo, ser detalhado aqui, mas nem nem tanto né? Bom, na plataforma Conecte SUS, nós temos aqui uma coisa fantástica que é o seguinte, estamos com uma referência para o usuário, né, a gente fala, por exemplo, de aplicativos Super App né, porque a gente não quer baixar dez aplicativos, a gente quer baixar aplicativo só e utilizar para tudo, independente se dentro dele tiver vários aplicativos a gente nem está sabendo. E o que acontece? Nós também, no na hora da interação com o usuário, da experiência do usuário, que na TI chama 0XA gente pode a gente tem que fomentar sempre o ambiente de inovação. Então é muito difícil ter uma solução que vai resolver todos os casos de uso. Por isso que a gente precisa de startups, de gente oferecer o tal, mas quando a gente fala de plataforma, a gente não cria dez acessos diferentes para a mesma coisa. Por isso que a plataforma também é interessante de entrar no projeto de lei, a lei, né, ela ela a defesa da plataforma é importante, mas também sempre colocando como ambiente de inovação de letramento digital, né e que a gente também consegue fazer com as plataformas do SUS. Nós temos, aí a identificação de pessoas assim é capítulo que tem anuência, realmente está está muito bem colocado ali, então eu nem vou me estender, mas nós precisamos conciliar. O dado que está no CAD único de raça coro, tem que ser o mesmo que está no CAD SUS. O dado que é de de profissão, de ocupação, também. A gente precisa que unificar as bases nacionais, os cadastros federais digamos assim, para que não tenhamos divergências e para que possamos ter decisões assertivas, né, com base num dado que sempre estão consistidos com o outro, né? Finalizando então, esse slide eu apresentei da outra vez, slide que ele é importante, né. Nós não mudamos o SUS e os processos do SUS, né, e o legado, né, porque a gente não informatiza, a gente não informatiza porque não muda os processos do SUS? É é uma circularidade que a gente precisa vencer. E a informatização sim, vai ajudar a todas aquelas dezenas de políticas nacionais. Mas, também a gente precisa mudar as políticas nacionais, integrar os dados, integrar as equipes, mudar as mentes digamos assim, e a saúde digital ela favorece isso. Então nós aqui na no Poder Executivo estamos num passo muito bom e é é é louvável mesmo o esforço do Poder Legislativo, de tornar lei e dar força no oitenta oitenta pra saúde digital, porque nós tínhamos uma penis, né, uma política nacional, nós temos, né, mas a oitenta oitenta ainda estava assim, né, lá nos anos noventa. Então de fato a gente atualiza a oitenta oitenta colocando a saúde, não só com a saúde digital, não como meio, mas como fim. Ela ela se ela falhar, falha a saúde da população. Então é esse o recado que a gente dá pra população quando as duas casas pelo menos né, dialogam nesses termos. Obrigado. Muito obrigada senhora Filipe Ferré. Eu vou anunciar aqui a presença",
       "speaker": {
         "name": "Felipe Ferré",
-        "position": "Assessor Técnico - Conselho Nacional de Secretários de Saúde"
+        "position": "Assessor Técnico - Conselho Nacional de Secretários de Saúde",
+        "slug": "felipe-ferre"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": " Discurso da Secretária de Informação e Saúde Digital do Ministério da Saúde: agradeceu a apresentação de Filipe Ferré e passou a palavra para Michael Luiz, assessor técnico do CONASEM.",
       "speaker": {
         "name": "Ana Estela Haddad",
-        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde"
+        "position": "Secretária - Secretaria de Informação e Saúde Digital do Ministério da Saúde",
+        "slug": "ana-estela-haddad"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": " Assessor Técnico do Conselho Nacional de Secretarias Municipais de Saúde fala sobre importância de prontuário único e dados na saúde, destacando a necessidade de um cadastro de saúde que vá além do CPF e considere fatores sociodemográficos, territoriais e econômicos. Além disso, ele menciona a necessidade de reconhecer particularidades do cadastro de saúde e destaca a importância da lei proposta na criação de uma rede nacional de dados em saúde.",
       "speaker": {
         "name": "Michael Luiz",
-        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde"
+        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde",
+        "slug": "michael-luiz"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": " Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde destacou:",
       "speaker": {
         "name": "Michael Luiz",
-        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde"
+        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde",
+        "slug": "michael-luiz"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -325,7 +352,8 @@
       "transcription": "Boa noite a todos, né queria inicialmente agradecer a ser excelentíssima deputada Ângela Ventura pelo convite. Quero dizer que é uma honra estar aqui né? E aqui virtualmente queria saudar também a secretária de Stella a coordenadora geral de inovação e informática do data SUS da CD de Paulo Xavier e também a minha colega de Chio Cruz, é sempre uma satisfação encontrála. Os demais presentes, os colegas, professor, Felipe, Michael, deputados, deputados por ventura estejam presentes aqui do do lado virtual a gente não sabe quem está e quem está. Queria saudar especialmente a deputada Jadir O Segale que é que eu sou do Rio de Janeiro acompanho a trajetória da deputada de de longa data sou admirador do trabalho belo se estou muito honrada aqui na verdade está comentando ambos os pareceres e ambos substitutivos das importantíssimas deputadas tá? Bom, a primeira coisa que que eu comentaria né diz respeito a a data né do do projeto de senador Renan Calheiros né dois mil e treze. Quer dizer portanto há mais de dez anos né e ele tem né acho que já foi apontado aqui como objeto a criação de cartão único de identificação e como foi apontado aqui, na verdade, esse projeto, né, de de cartão sujo, o cartão nacional de saúde, existe desde meados da década de noventa, né? Portanto, há há quase trinta anos atrás, é sendo que os primeiros pilotos acho que ainda foram feitos no século passado, então de fato, enfim, em oitenta oitenta tenho AAA percepção de que visava exatamente dar ali na, no suporte legal na forma da lei a esse projeto. Mas também chama bastante atenção o rol de projetos de lei apensados, que tratam de matérias aos mais heterogêneas né, tem aqui, enfim se proposta de criação de sistema de controles e convênios e contratos, implantação de identificação biométrica, uma plataforma digital única, né, unificação do de prontuários do setor público e privado, acesso do do dos pacientes sobre prontuário, tem até que que propõe uma mudança né no GPD, pra permitir acesso a informações de prontuário, informações clínicas, a parentes e cônjuges né então é rol de de uns projetos bastante heterogêntogênitos. E nesse sentido eu acho que é extremamente meritório o trabalho, né, das das comissões, das relatoria respectivas, no sentido de propor substitutivo. E o algum outro ponto que eu chamaria atenção, né, é é o quanto que na verdade olhando conjunto de de propostas, de proposições que começa em dois mil e sete, termina em dois mil e vinte e três, como na verdade a a transformação tecnológica ela já deixa algumas dessas proposições por si mesmas ali pouco ultrapassadas pra não dizer obsoletas, né ela tem As mudanças que ocorreram nesse último decênio, elas são muito impactantes né com, acho que o impacto na saúde é apenas deles né? Em termos, portanto, desafios novos né e e esse esforço que está expresso nos substantivos ele já, de certa maneira coloca esses desafios novos, né. Por exemplo o RDS ele já trabalha com o conceito de lago de dados né coisa que não existia há tempo atrás né, tem tem modelos aqui né que ainda são num período em que a arquitetura existente era famoso cliente servidor, Depois, expressou AAA falar em armazém de dados, em em, enfim. E agora esse conceito de data lei, que é o conceito relativamente recente que a MDS tenta puxar, tá. Como foi dito aqui, né, o 0 no texto da das duas relatoras está posto lá e o objetivo de trazer isso pra pra forma da lei é oferecer segurança jurídica e espaço especial pra questão de proteção de dados sensíveis e funcionamento eficiente do sistema, tá. Dos pontos que eu vou me pegar aqui, né, eu tenho tem muito a ver com o que foi colocado pelo Michael, e que diz respeito com o 0 que caberia na verdade pela forma da lei e o que que poderia estar ali posto pra, enfim, regulação sublegal, né, na forma de portaria, regulamentos ou outros, né? E o Felipe Felipe Terré, ele trouxe ponto que eu também destaquei aqui, que é exatamente o famoso artigo quarenta e sete da lei oitenta oitenta de noventa, aquele que estabelece que o Ministério da Saúde, em articulação com os outros, as outras esferas de gestão, organizará no prazo de dois anos e noventa sistema nacional de informações em saúde integrada pro território etcétera etcétera. E como bem destacou o Felipe, né, e eu ia comentar isso também, né, coincidiu aqui, esse quer dizer, já passou obviamente há bastante tempo, na verdade há mais de de de trinta anos, esse sistema não foi até certo ponto, organizado, apresentado, constituído, regulamentado, mas houveram em momentos diferentes, políticas nacionais de formação informática de saúde. E eu queria lembrar que teve uma em dois mil e quatro, tá, que foi publicada e foi publicada pelo Data SUS na na ocasião e ela parte de processo de discussão que foi iniciado na décima segunda conferência nacional de saúde. Mas ela é frequentemente esquecida, né, mas ela é importante, e ali está citado também, né, o favor sistema nacional de formação em saúde né como álbum em construção. E nas PNIS subsequentes a mesma coisa né, você tem ali menções a esse sistema nacional de informações e sempre na perspectiva da tarefa contínua e permanente da construção desse sistema. O não estão errados os textos das sucessivas PNIS, né? Eles só estão ali pra nos lembrar que, na verdade, o 0 que talvez tenha sido pouco excessivo, seja 00A vontade expressa pelo legislador em noventa né quando Deus se prazo de dois anos pra constituição desse sistema, tá? Eu tenho aqui como ele trata o não apenas o 0 projeto em cima na verdade vários projetos apensados toca na questão do prontuário, Eu queria recomendar aqui documento que é não é relatório oficial mas é é né, é documento de trabalho. Da OCDE, que foi publicado ano passado, que relata os resultados de sobre adoção de prontuário eletrônico de saúde nos países membros da CNEC foram respondido por vinte e sete países. Eu não vou detalhar aqui alguns desses resultados, mas eles mostram, na verdade, o 0 quanto que essa tarefa de constituição de de prontuários únicos ou prontuários nacionais de plataformas de integração, e de disponibilização de dados pra uso secundário, ela é difícil né quer dizer então como eu disse vinte e sete países responder. Tem aspecto importante, né, vinte e quatro dos vinte e sete países relatam ter uma norma definindo conjunto mínimo de dados, tá isso é ponto importante. Vinte e cinco dos vinte e sete países que responderam adotam identificadores únicos pra pacientes, cartões inteligentes, tokens e dispositivos semelhantes. No entanto não há muita convergência com relação aos padrões terminológicos. E isso é muito importante a meu ver né? 00A limitação mais citada por relação ao aproveitamento de dados clínicos para a constituição e desenvolvimento de bases de dados robustas e confiáveis, é a qualidade dos registros eletrônicos, tá? Então quinze dos vinte e sete países declarantes reportam essa preocupação, e treze dos vinte e sete, aqui temos países importantes como a Austrália, a Bélgica, Canadá, México, Holanda, Suécia, eles relatam falta de recursos ou capacidade técnica para extrair dados para criar datasets, tá? Há relatos também sobre dificuldade com a desidentificação de dados dos registros para utilização secundária em data em data certa. Então, é desafio muito grande, e eu recordo aqui também artigo que ficou bastante famoso, é artigo publicado nos cadernos de saúde pública, a revista da né? Da Escola da Saúde Pública, onde eu trabalho, que faz uma pergunta interessante né? Afinal de contas, quanto sistema de formação de saúde base nacional existe no Brasil? Eles fazem grande esforço ali de levantamento, chegam à conclusão de que existem cinquenta e quatro sistemas de base nacional em funcionamento, mas eles admitem que esse número é controverso. Tem dado curioso, aspecto, né, que esse nesse artigo, é pra obter algumas informações sobre sistemas e aplicativos utilizados em áreas específicas do Ministério da Saúde, eles foram obrigados a recorrer à lei de acesso à informação. E000 outro dado aí, o curioso, os autores do do artigo são, exdiretor da Data SUS e exministro da saúde, tá? Ponto, né? Quer dizer, isso mostra na verdade assim que, quer dizer, há há grande desafio, realmente ali no no campo da da tarefa que está posta eu queria, na verdade também, não posso deixar de parabenizar aqui os colegas da Cendig pelo extraordinário trabalho que vem desenvolvendo, né, no Data SUS, no Departamento de São digital, do Demas também. Acho que no período muito curto, né, conseguiram colocar muita coisa importante de pé, mas reconhecendo que o desafio realmente é grande, é imenso, né? E aí voltando ao artigo quarenta e sete da lei oitenta oitenta, né? A minha preocupação é é pouco no sentido da o desenvolvimento da o desenvolvimento da tecnologia e as mudanças também, e são mudanças políticas né que que que podem ocorrer, né? Sobre o substantivo específico, né? Bom, acho que a questão do conjunto mínimo de dados, acho que é uma é acerto importante do do do texto. Talvez seja interessante, da mesma maneira como está definido interoperabilidade semântica, e sintática, ter ali textinho definido o que seria tecnicamente esse conjunto meio de dados, pra que fique pouco mais claro né pra no no momento ali da operacionalização, tá? Eu vou eu vou comentar aqui artigo por artigo e já estou encerrando, tá? No artigo quarto, tem aqui a proposta de que a definição de padrões de informação em saúde, de interoperaidade formado será instituída pela instância de governança da RNDS, tá? Eu vou me pegar aqui certo preciosismo, né? Eu acho que instituída é termo talvez pouco vago demais, tá? Quer dizer, é preciso talvez definir pouco melhor as atribuições aqui nesse caso. E aí eu volto eu vou à própria questão da instância de governança. Ela é uma ela conduzida né por uma comissão nacional de integração da RDS coordenada pelo Ministério da Saúde, e tem uma composição né, Essa composição ela terá regimento deferido em em regulamento, que será composto por por representantes, aí tem uma sugestão aqui. Eu entendo que talvez fosse importante entender ou ou definir aqui quem é o responsável pela elaboração do regulamento, eu entendo que é o próprio Ministério da Saúde, né? E uma vez que o regulamento inclui a definição da própria composição da comissão, eu entendo que não pode caber a comissão definir o regulamento, tem que ser alguma outra instância, então pra não ter esse curtocircuito aqui, eu acho que é importante que isso esteja pouco mais caro no texto. Bom, aí tem uma questão, né? A secretaria de saúde digital logo no no no inciso né, da composição. Não sei, né? Vamos supor que mude o governo né, e resolva fazer uma nova lei mudando do ministério né então Na terceira. Claro que isso sempre pode ser depois ajustado no no problema, mas acho que bastaria dizer que o Ministério da Saúde indicará coordenador, a coordenação. Já já resolveria né, no inciso sexto, falase de entidades representativas setoriais, quer dizer isso aqui também é termo que que a meu ver não está muito claro né, elas são representativa né, são entidades que nós entendemos Dá licença. Leonardo, esse qual você pode repetir que artigo que você está falando inciso por favor? Eu estou estou falando do sétimo. Do artigo sétimo. Artigo sétimo. Artigo sétimo. Quem fala da da da composição, da comissão nacional de integração da RNDS. A gente a gente só tá aqui checando você você tá na você tá no relatório na proposta relatório da deputada Jandira da comissão de tecnologia ou você está na já na relatório da comissão de saúde que é o meu? Da comissão de saúde. Ah tá bom. É porque na verdade essa substância de governança, pelo que eu pude constatar, ela nem nem está presente do relatório anterior, ela é uma Não, então o que você está falando na verdade é que o que existia no relatório da deputada Jandira do artigo sete uma comissão nacional de integração de dados, é isso que você está falando aqui, não é? É a comissão nacional de integração da RDS, o investimento da definir regulamento, esse é o texto Não beleza, está certinho. É que eu fiz é o que tem aqui no meu que não tinha no da deputada jantei Isso exatamente. Está certo, agora eu já me achei, pode continuar. Então, o outro ponto é o inciso sexto das entidades representativas setoriadas, acho que é preciso também clarificar pouco essa nomenclatura né, Quer dizer, o que que significa isso exatamente? Que as representa? São são as ações empresariais, elas são, porque a sociedades científica nós sabemos bem o que é, né? Os representantes das categorias profissionais, nós também, né? Compreendemos, né? Sendo que existem muitos, né? Não existe somente os conselhos, né? Eu acho que existem outras que que podem, enfim. E o, por fim, do do terceiro, né? O 0 termo também da composição equilibrada. Hã? Esse regulamento daí eu considerava composição equilibrada. Eu acho que não é talvez seja preciso ser pouco mais específico com relação ao que é esse equilíbrio, tá? Entre setor governamental, empresarial, terceiro setor, da comunidade científica e tecnológica. E perceba aqui, por exemplo, que eu tenho uma certa dificuldade de encaixar aqui, nesse equilíbrio, o que seriam as entidades representativas setoriais, né, que estão no inciso sexto logo acima, tá? Então eu acho que que artigo aí que mereceria Exploramento. Uma certa atenção, né? E é claro que também certo cuidado porque o terceiro setor também é uma coisa bastante ampla, e que tem tem uma certa nebulosa aí em que não há fronteiras às vezes muito nítidas sobre o que que são entidades empresariais, entidades do terceiro setor, que às vezes entidades do gás tem fundações que podem ser classificados como terceiro setor, acho que são são pontos né pra ser, e como como na verdade não há coincidência aí entre os relatórios, eu supor que são textos, são são pontos que que merecerão ali uma discussão pouco maior, tá? Bom, aí já indo pra questão, eu vou saltar aqui o Conecte SUS tá, só observando que, pra você ver como é que são as coisas né, na verdade o Conecte SUS já não tem mais esse nome né, e e às vezes a gente bota na na lei de jeito né, e aí vem 00E eu acho que é justamente legítimo, né, que enfim, que se mudem aos conceitos, que se se se ampliem e que se mude o escopo do do do projeto. Então, né, é o problema às vezes de você colocar na lei né coisas que que podem e que estão ali enfim, são discricionários na verdade, do do governo né, ou do do gestor né, Mas, enfim, são, não não não sou especialista em processo legislativo, mas eu sou leitor de portaria, né? Como todo, como todo seritarista, né, eu já percebi que o Felipe também é, que né, o Felipe e o Mike também, né? Desde de muito tempo acostumado a ler portaria, tentar decifrálas. Bom, com relação a federalização, eu perguntaria até aos colegas que estão aqui do CONAIS e do CONASEMA, né, o ao Maicon, o Felipe, se há consenso ali ou se há acordo né com relação a por exemplo os eixos que estão postos aí para a condução desse processo, são três eixos né, O jurídico institucional, gestão e governança, informática e informação. Tipo, isso é processo, né, que pode ser conduzido aí ao nível da CI, pode ser conduzido em outros esferas. Eu eu entendo que cabe no debate, né, até que ponto é preciso que seja contemplado numa lei, numa lei ordinária, tá? A questão do índice nacional de maturidade, em saúde digital, do artigo dezesseis, é uma iniciativa bastante importante da da gestão da da Ana Stella. Claro que sempre há o risco de de descontinuidade, né, porque, enfim, é uma é uma iniciativa de uma gestão de governo. Mas de qualquer maneira eu eu entendo que que e vale a discussão aí da da inclusão, desse índice como mecanismo ali de de acompanhamento e de aferição do processo de digitalização do SUS do nível subnacional, mas aí sem querer ser muito preciosista né, eu eu seria eu acho que no no parágrafo terceiro, eu incluiria também como atribuição no Ministério da Saúde o aperfeiçoamento desse índice, tá? Pra que ele não se torne também uma uma coisa engessada, né como se torna, ela está na lei, então não pode mudar, não sei tá? Bom a questão do CPF né tem no artigo vinte e sete tem a preposição, tá? Preferencialmente, tá? Enfim, eu eu entendo que que há uma certa insegurança, né, com relação à questão do o CPF, né, como chave de de identificação, mas, não sei se preferencialmente é o melhor é o melhor termo aqui né no no caso, mas eu não tenho também uma uma sugestão pra fazer mas é uma questão mesmo pra se pensar. Eu entendo que há hoje uma convergência muito grande em torno do do CPF ser o melhor chaveamento, tá? Mas sempre cabe uma discussão mais técnica, tá que que aí, eu lembro que desde o início lá no CADSUS, ou seja, há mais de vinte anos, ainda no tempo lá que estava se discutindo a política, quase trinta anos né pra ser exato, Esse esse debate sobre qual a melhor chaveamento, se era o PIS, PASEP, CPF, era algo que não não havia muita, muito acordo né acabou sendo opcionais que não foram muito felizes. E na verdade o processo de implementação do CADS tem sido muito atribulado ao ao longo dessas três décadas lá vai alguma coisa, faz três, né? É em função exatamente dessas dificuldades dessas questões, então, bom, né? E por fim né, no artigo vinte e oito, fala do CADE SUS, voltamos aqui ao ao sistema nacional de informações de saúde de que trata o artigo quarenta e sete da lei oitenta oitenta. E diz que o Cadesude integra esse sistema nacional, mas ele integra também a rede nacional de dados de saúde. Essa redação aqui me leva ao entendimento de que a gente está falando de duas coisas distintas, existe sistema nacional da informação de saúde, e existe a rede nacional de dados de saúde. Quando eu tinha entendido inicialmente, que a rede nacional de dados de saúde integra também o sistema nacional de informações de saúde. Mas eu acho que é o ponto também aí de de debate, e evidentemente eu também tenho nenhuma resposta aqui, eu acho que o meu objetivo aqui é levantar questões para contribuir, né, pro debate, né, e é preciso por fim deixar bastante claro que o ponto de vista que eu estou apresentando aqui não é o ponto de vista da Fiocruz, eu sou aqui indicado pela presidência da Fiocruz pra contribuir com esse debate, mas não se discutiu, não se travou essa essa discussão eternamente na na Fiocruz, então não há posicionamento Fiocruz, tá? E, enfim. Era basicamente isso, né? Nas posições finais, falase da questão dos gestores públicos e privados do artigo quarenta né, que tem o dever de planejar a abordagem de segurança da informação, proteção de dados, etcétera etcétera. Eu perguntaria se se não caberia pensar também ali responsabilidades no plano da auditoria, né? Lembrando que há sistema nacional de de auditoria do SUS, que historicamente está muito voltado pra questões contábeis e de faturamento, mas que há ali a a perspectiva de de uma ampliação também das suas atribuições, mas enfim, é outro ponto ali de discussão né porque, quer dizer, que é uma responsabilidade de compartilhar entre gestores públicos e privados, mas eu tenho AAA impressão né de que o gestor do SUS né, o gestor público no caso, ele tem uma responsabilidade pouco maior, ali né, como coordenador do do do sistema né? Então seria isso na verdade as minhas as minhas considerações acho que eu passei, não muito, espero eu do tempo, e espero ter contribuído com a discussão. Muito obrigado senhor Leonardo de Castro pelas contribuições",
       "speaker": {
         "name": "Leonardo Costa de Castro",
-        "position": "Pesquisador - Fundação Oswaldo Cruz (FIOCRUZ)"
+        "position": "Pesquisador - Fundação Oswaldo Cruz (FIOCRUZ)",
+        "slug": "leonardo-costa-de-castro"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -348,7 +377,8 @@
       "summary": " Coordenadora-Geral de Inovação e Informática em Saúde se refere à inclusão de registros de saúde suplementar no SUS, incluindo exames laboratoriais de privados durante a pandemia. Ela discute a troca de informação entre saúde pública e suplementar, destacando a polêmica em fornecer dados sensíveis a entes privados que pode gerar conflitos de interesse.",
       "speaker": {
         "name": "Paula Xavier dos Santos",
-        "position": "Coordenadora-Geral de Inovação e Informática em Saúde"
+        "position": "Coordenadora-Geral de Inovação e Informática em Saúde",
+        "slug": "paula-xavier-dos-santos"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -371,7 +402,8 @@
       "summary": " Presidente da Associação Brasileira de Telessaúde e Telemedicina enfatizou a criação de perfis de dados distintos por contexto de saúde, comitês técnicos para definir dados relevantes, e processo de gerenciamento de cuidados em telemedicina. O objetivo é ter informações relevantes em decisões, em oposição a grande quantidade de dados.",
       "speaker": {
         "name": "Chao Lung Wen",
-        "position": "Presidente - Associação Brasileira de Telessaúde e Telemedicina"
+        "position": "Presidente - Associação Brasileira de Telessaúde e Telemedicina",
+        "slug": "chao-lung-wen"
       }
     },
     {
@@ -382,7 +414,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -393,7 +426,8 @@
       "summary": " Assessor Técnico - Conselho Nacional de Secretários de Saúde enfatizou a importância de ambiente de inovação para produção de diversos prontuários. Mencionou a GHU e gestão estadual como exemplos de software hospitalar. Discuteu a possibilidade de redes como solução para ampliar dados. Sua proposta é federalizar dados para integrar e fortalecer o SUS, similarmente à federalização do atendimento às redes de saúde.",
       "speaker": {
         "name": "Felipe Ferré",
-        "position": "Assessor Técnico - Conselho Nacional de Secretários de Saúde"
+        "position": "Assessor Técnico - Conselho Nacional de Secretários de Saúde",
+        "slug": "felipe-ferre"
       }
     },
     {
@@ -404,7 +438,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -415,7 +450,8 @@
       "summary": " Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde destacou importância da informatização em atendimento primário, com o uso do prontuário eletrônico ESSUS, ampliado à atenção especializada e recentemente ao CAIS. Disponibilização do AGHU para hospitais é uma iniciativa em andamento. No Brasil, 80% dos serviços são de atenção primária e há interesse em interoperabilidade com iniciativa privada, garantindo acesso seguro a dados populacionais.",
       "speaker": {
         "name": "Michael Luiz",
-        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde"
+        "position": "Assessor Técnico - Conselho Nacional de Secretarias Municipais de Saúde",
+        "slug": "michael-luiz"
       }
     },
     {
@@ -426,7 +462,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -437,7 +474,8 @@
       "summary": " Pesquisador da FIOCRUZ apoiou discussão sobre descentralização na lei e importância do conjunto mínimo de dados para o prontuário eletrônico. Ela citou o documento CDE como contribuição importante e estudos sobre registros de saúde. Sugeriu seminários para discutir pontos do debate e agradeceu a convidada e participantes.",
       "speaker": {
         "name": "Leonardo Costa de Castro",
-        "position": "Pesquisador - Fundação Oswaldo Cruz (FIOCRUZ)"
+        "position": "Pesquisador - Fundação Oswaldo Cruz (FIOCRUZ)",
+        "slug": "leonardo-costa-de-castro"
       }
     },
     {
@@ -449,7 +487,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     }
   ],

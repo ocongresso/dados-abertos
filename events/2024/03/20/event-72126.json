@@ -14,7 +14,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "Nessa nesse momento.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cleber Verde -- por Participante -- Amaro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cleber-verde-por-participante-amaro-neto"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "Colega kleber verde",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amaro Neto -- por Participante -- Cleber Verde",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amaro-neto-por-participante-cleber-verde"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Meus companheiros e minhas companheiras, colegas de",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Em 1983, surgiu CUT em luta por redemocratização e direitos trabalhadores. Conquistou salário mínimo, previdência, redução jornada de trabalho e paridade homens-mulheres na direção. Desde então, é central sindical maior e atuante no Brasil, defendendo interesses classe trabalhadora e democracia.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "Em tudo nós",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "CUT-DF presidente emocionado por 40 anos de CUT: agradece convite, sauda central e militantes presentes, inclui estudantes. Destaca CUT como organização trabalhadores que defende direitos, democracia e solidariedade. Menciona lutas e atos em defesa de Dilma, direitos trabalhadores, Lula e democracia. Anuncia CUT nas ruas defendendo classe trabalhadora, democracia e solidariedade internacional. Homena CUT ex-presidentes com placa. Viva CUT!",
       "speaker": {
         "name": "RODRIGO RODRIGUES",
-        "position": "Presidente da CUT – DF"
+        "position": "Presidente da CUT – DF",
+        "slug": "rodrigo-rodrigues"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Representante da Confederação Nacional dos Trabalhadores no Comércio e Serviços cumprimenta participantes e expoe orgulho por sua central, que sempre defendeu democracia e lutou contra reformas trabalhista e previdenciária. Destaca importância de discutir reformas que afetam trabalhadores, especialmente do comércio, e promove justiça social com distribuição de riqueza. Anuncia expectativa de mudanças positivas com novo governo.",
       "speaker": {
         "name": "GERALDA GODINHO DE SALES",
-        "position": "Representante da Confederação Nacional dos Trabalhadores no Comércio e Serviços"
+        "position": "Representante da Confederação Nacional dos Trabalhadores no Comércio e Serviços",
+        "slug": "geralda-godinho-de-sales"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Ex-Deputado Federal reflete sobre o \"vendaval\" que atacou direitos, liberdades e salário, impactando movimento sindical, instando a revisão da legislação sindical e negociação coletiva. Celebra reajuste acima da inflação do salário mínimo, renovando compromisso com lutas futuras, em homenagem aos 40 anos da CUT.",
       "speaker": {
         "name": "LUIZINHO",
-        "position": "Ex-Deputado Federal"
+        "position": "Ex-Deputado Federal",
+        "slug": "luizinho"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "Superintendente da CUT se sente honrado em saudar todos presentes, homenageando lideranças e movimento sindical. Ele próprio ex-bancário e ex-dirigente sindical, teve apoio da CUT em seus cargos. Valora muito relação com movimento e considera fundamental para sua carreira e vitórias passadas. Reconhece contribuição da CUT em reconstrução da democracia e recuperação de direitos trabalhistas no Brasil. Deseja longa vida à Central Única dos Trabalhadores.",
       "speaker": {
         "name": "VAGNER PINHEIRO",
-        "position": "Superintendente da CUT"
+        "position": "Superintendente da CUT",
+        "slug": "vagner-pinheiro"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Período 2006-2012: Presidente da CUT enfatizou resistência e conquistas da classe trabalhadora, valorização do salário mínimo, importância da mobilização e organização sindical, e defesa da democracia e dos direitos. Reiterou a necessidade de continuar se fortalecendo diante da nova realidade do trabalho.",
       "speaker": {
         "name": "ARTUR HENRIQUE",
-        "position": "Presidente da Central Única dos Trabalhadores no período de 2006 a 2012"
+        "position": "Presidente da Central Única dos Trabalhadores no período de 2006 a 2012",
+        "slug": "artur-henrique"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Presidente CUT 2019-atual: saudações a todos, gratidão a expresidentes, homenagem aos falecidos, menciona desafios e vitórias passadas, crítica ao governo Bolsonaro, celebra reeleição de Lula.",
       "speaker": {
         "name": "SÉRGIO NOBRE",
-        "position": "Presidente da Central Única dos Trabalhadores no período de 2019 até os dias atuais"
+        "position": "Presidente da Central Única dos Trabalhadores no período de 2019 até os dias atuais",
+        "slug": "sergio-nobre"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": "Presidente da Central Única dos Trabalhadores no período de 1983 a 1994 conversa sobre anedota com figo em cauda, homenageia pessoas presentes, destaca união da classe trabalhadora em congresso, menciona luta sindical e política, questões atuais como número de partidos e centrais sindicais, redução da jornada de trabalho e previdência para esposas de falecidos.",
       "speaker": {
         "name": "JAIR MENEGUELLI",
-        "position": "Presidente da Central Única dos Trabalhadores no período de 1983 a 1994"
+        "position": "Presidente da Central Única dos Trabalhadores no período de 1983 a 1994",
+        "slug": "jair-meneguelli"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -280,7 +303,8 @@
       "speaker": {
         "id": 160592,
         "name": "Zeca Dirceu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zeca-dirceu"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -304,7 +329,8 @@
       "speaker": {
         "id": 160592,
         "name": "Zeca Dirceu",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zeca-dirceu"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Participante expressa alegria por estar na sessão, iniciada por Vicentinho, ex-presidente da central única de trabalhadores, passando agora a palavra para outro deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vicentinho -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vicentinho-por-participante-erika-kokay"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -399,7 +432,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -411,7 +445,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -423,7 +458,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -435,7 +471,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -447,7 +484,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -458,7 +496,8 @@
       "summary": "Lutar contra criminalização do movimento sindical, homenagear CUT por seus 40 anos e defender democracia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Erika Kokay -- por Participante -- Jack Rocha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-erika-kokay-por-participante-jack-rocha"
       }
     },
     {
@@ -470,7 +509,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -482,7 +522,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -494,7 +535,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -518,7 +561,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     }
   ],

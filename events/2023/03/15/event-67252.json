@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Aqueles que",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "O participante agradeceu e convidou a deputada Silvia Cristina para ser a primeira vice-presidente da comissão de saúde.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pinheirinho -- por Participante -- Zé Vitor",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pinheirinho-por-participante-ze-vitor"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Deputado agradece a Deus e dedica participação na comissão de saúde à memória de seu filho, lutador por causas na área. Promete continuar seu legado e trabalhar em prol do povo e da nação.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220573,
         "name": "Dorinaldo Malafaia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dorinaldo-malafaia"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -294,7 +318,8 @@
       "summary": "Deputado fala sobre avançar rapidamente na discussão de saúde priorizando SUS, combate à corrupção, e valorização da saúde suplementar, beneficiando população pobre e vulnerável.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -328,7 +355,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -376,7 +407,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     }
   ],

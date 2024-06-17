@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -78,7 +83,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -88,7 +94,8 @@
       "transcription": "Bom dia a todos e todas. Daremos início então à ordem",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Acácio Favacho -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-acacio-favacho-por-participante-marangoni"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -124,7 +133,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -195,7 +210,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -207,7 +223,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -219,7 +236,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -229,7 +247,8 @@
       "transcription": "Dando continuidade portanto aqui a nossa",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Cleber Verde",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-cleber-verde"
       }
     },
     {
@@ -241,7 +260,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Filme isso não, que está aí o 0 papel. Está bem na hora. Mas eles vão chegando ali a gente já avisou aqui no grupo.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Deputado Carlos Henrique Gaguin, do Partido União Brasil do Tocantins, é o novo vice-presidente da Comissão de Integração Nacional e Desenvolvimento, com 11 votos a favor. Oficialmente empossado. Boa tarde.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     }
   ],

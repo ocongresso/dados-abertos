@@ -14,7 +14,8 @@
       "speaker": {
         "id": 0,
         "name": "IARA",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 0,
         "name": "ADRIANA RAMOS",
-        "position": "Desembargadora do TJ/RJ"
+        "position": "Desembargadora do TJ/RJ",
+        "slug": "adriana-ramos"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 0,
         "name": "ADRIANA RAMOS",
-        "position": "Desembargadora do TJ/RJ"
+        "position": "Desembargadora do TJ/RJ",
+        "slug": "adriana-ramos"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 0,
         "name": "RAQUEL ANDRADE",
-        "position": "Secretária-Executiva Estadual de Enfrentamento à Violência Contra a Mulher"
+        "position": "Secretária-Executiva Estadual de Enfrentamento à Violência Contra a Mulher",
+        "slug": "raquel-andrade"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 0,
         "name": "CRISTIANE BRUM BERNARDES",
-        "position": "Articuladora Institucional do Observatório Nacional da Mulher na Política"
+        "position": "Articuladora Institucional do Observatório Nacional da Mulher na Política",
+        "slug": "cristiane-brum-bernardes"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 0,
         "name": "DANIELLE GRUNEICH",
-        "position": "Assessora de Orçamento da Secretaria da Mulher"
+        "position": "Assessora de Orçamento da Secretaria da Mulher",
+        "slug": "danielle-gruneich"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Yandra Moura -- por Participante -- Soraya Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-yandra-moura-por-participante-soraya-santos"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 0,
         "name": "DANIELLE GRUNEICH",
-        "position": "Assessora de Orçamento da Secretaria da Mulher"
+        "position": "Assessora de Orçamento da Secretaria da Mulher",
+        "slug": "danielle-gruneich"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 0,
         "name": "DANIELLE GRUNEICH",
-        "position": "Assessora de Orçamento da Secretaria da Mulher"
+        "position": "Assessora de Orçamento da Secretaria da Mulher",
+        "slug": "danielle-gruneich"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Yandra Moura -- por Participante -- Soraya Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-yandra-moura-por-participante-soraya-santos"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 0,
         "name": "ALINE HACK",
-        "position": "Pesquisadora do Projeto de Olho nas Urnas da UFG"
+        "position": "Pesquisadora do Projeto de Olho nas Urnas da UFG",
+        "slug": "aline-hack"
       }
     },
     {
@@ -223,9 +241,10 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     }
   ],
-  "updated_at": 1716547603
+  "updated_at": 1716625226
 }

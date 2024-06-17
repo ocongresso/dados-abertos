@@ -14,7 +14,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Agora que já ouvimos e cantamos o nosso hino nacional composta esta mesa que é uma honra para a câmara dos deputados, com as pessoas com o espectro autista, e também com os parlamentares requerentes já está conosco Maria Rosas aqui também, o deputado Alexandre Lindemeyer que aqui se encontra. Deputada Fernanda. Deputada Fernanda está conosco também já aqui no plenário, na medida que venham chegando por favor, Fernanda Pessoa já está inscrita inclusive, registrem sempre aqui a mesa, mas na medida que estamos juntos e juntas aqui, com essa alegria de podermos tratar do dia de conscientização ao autismo, vamos, juntos e juntas assistir o vídeo institucional. Bemvindos ao",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " Unidade de atendimento infantil especializado, oferecendo suporte integral a crianças e adolescentes com transtornos do neurodesenvolvimento. Equipe multidisciplinar de mais de 30 profissionais. Serviços diagnosticadores e terapeuticistas. Apoio em valores como cidadania e inclusão. Missão: construir futuro melhor para eles. Mais que um centro de atendimento, é um local de esperança e cuidado.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -67,7 +72,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -114,7 +123,8 @@
       "summary": " Representante da Associação Brasileira para Ação por Direitos das Pessoas Autistas – Abraça-DF defende neurodiversidade interseccional, visibilidade de opressões sofridas por pessoas autistas e aliança com ativistas antimanicomial e antirracista. Reconhecimento das Convenções sobre os Direitos das Pessoas com Deficiência é fundamental, incluindo o respeito pela diferença e acceptance como parte da diversidade humana.",
       "speaker": {
         "name": "JÉSSICA BORGES",
-        "position": "Representante da Associação Brasileira para Ação por Direitos das Pessoas Autistas – Abraça-DF"
+        "position": "Representante da Associação Brasileira para Ação por Direitos das Pessoas Autistas – Abraça-DF",
+        "slug": "jessica-borges"
       }
     },
     {
@@ -125,7 +135,8 @@
       "summary": " A participante Erika Kokay argumenta por respeito e igualdade para pessoas com deficiências, especificamente aquelas no Espectro do Autismo, destacando a importância de políticas públicas que considerem suas diversas demandas e contextos, rejeitando termos separatistas e exigindo inclusão plena e respeito às diferenças.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-erika-kokay"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -172,7 +186,8 @@
       "summary": " Participante defende a valorização das nossas capacidades e respeito aos limites, pede menos capacitismo e cede a presidência para Maria Rosas.",
       "speaker": {
         "name": "CARLOS MAGNO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carlos-magno"
       }
     },
     {
@@ -182,7 +197,8 @@
       "transcription": "Bom dia a todos eu gostaria de chamar a deputada Franciane Bayer pra fazer parte",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Erika Kokay -- por Participante -- Maria Rosas",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-erika-kokay-por-participante-maria-rosas"
       }
     },
     {
@@ -193,7 +209,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -205,7 +222,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -216,7 +234,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -228,7 +247,8 @@
       "speaker": {
         "id": 73778,
         "name": "Luiz Carlos Hauly",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -240,7 +260,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -251,7 +272,8 @@
       "summary": " Mulher de 23 anos, aparência de 15, deficiência auditiva e autismo, atriz e embaixadora de acessibilidade no Paraná. Agradecida por apoio, quer cidadania, oportunidades e equidade. Encouraja voto e participação na sociedade. Frase final: \"Inclusão é arte, tudo é amor\".",
       "speaker": {
         "name": "PIETRA SILVESTRE",
-        "position": "Representante da Federação Brasileira das Associações da Síndrome de Down"
+        "position": "Representante da Federação Brasileira das Associações da Síndrome de Down",
+        "slug": "pietra-silvestre"
       }
     },
     {
@@ -263,7 +285,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -273,7 +296,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria Rosas -- por Participante -- Iza Arruda",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-rosas-por-participante-iza-arruda"
       }
     },
     {
@@ -284,7 +308,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -308,7 +334,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -319,7 +346,8 @@
       "summary": " Actor from \"Meu Amigo Lorenzo\" expresses gratitude and praises George Harrison's \"My Sweet Lord.\"",
       "speaker": {
         "name": "LORENZO BARRETO",
-        "position": "Ator do filme “Meu Amigo Lorenzo”"
+        "position": "Ator do filme “Meu Amigo Lorenzo”",
+        "slug": "lorenzo-barreto"
       }
     },
     {
@@ -331,7 +359,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -343,7 +372,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -355,7 +385,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -366,7 +397,8 @@
       "summary": " Deputado destaca importância de diagnóstico precoce de autismo, valorização de capacidades e respeito a limites, papel da família e conscientização social. Menciona podcasts e campanha futura. Referencia inclusão internacional e cita frase sobre direitos iguais.",
       "speaker": {
         "name": "Raniery Paulino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raniery-paulino"
       }
     },
     {
@@ -378,7 +410,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -390,7 +423,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -402,7 +436,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -426,7 +462,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -437,7 +474,8 @@
       "summary": " Pesquisador na área de Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas relata sua experiência com preconceito em ambiente hospitalar; enfatiza a necessidade de se considerar o modelo social em vez do médico para a deficiência e a importância de incluir experiências de pessoas autistas na tomada de decisões. Altos índices de suicídio entre crianças e adolescentes autistas são mencionados.",
       "speaker": {
         "name": "GUILHERME DE ALMEIDA",
-        "position": "Pesquisador na área de Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas"
+        "position": "Pesquisador na área de Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas",
+        "slug": "guilherme-de-almeida"
       }
     },
     {
@@ -448,7 +486,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -459,7 +498,8 @@
       "summary": " Pesquisador em Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas argumenta contra a culpa atribuída às pessoas com deficiência e a terceirização da responsabilidade do estado às famílias, afetando desproporcionalmente a pessoas negras e pardas.",
       "speaker": {
         "name": "GUILHERME DE ALMEIDA",
-        "position": "Pesquisador na área de Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas"
+        "position": "Pesquisador na área de Educação Inclusiva e Presidente da Associação Nacional para Inclusão das Pessoas Autistas",
+        "slug": "guilherme-de-almeida"
       }
     },
     {
@@ -471,7 +511,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -482,7 +523,8 @@
       "summary": " Diretor de Políticas de Educação Especial: defensor de direitos humanos e educação inclusiva, promove acessibilidade para estudantes autistas no ensino. Governo Federal reconhece lutas por direitos de pessoas autistas e deficientes, combate capacitismo e elimina barreiras através de ações e regulamentação. Escola é inclusiva, para todos, incluindo pessoas autistas.",
       "speaker": {
         "name": "ALEXANDRE MAPURUNGA",
-        "position": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva do Ministério da Educação"
+        "position": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva do Ministério da Educação",
+        "slug": "alexandre-mapurunga"
       }
     },
     {
@@ -494,7 +536,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     }
   ],

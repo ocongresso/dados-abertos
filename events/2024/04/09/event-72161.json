@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Obrigado deputado, bom dia a todos excelentíssimas senhoras e senhores, demais colegas palestrantes e a todos que nos acompanham. Como bem comentado o meu nome é Marcelo, sou gerente aqui da unidade de inteligência de mercado do SENAI, uma área que se dedica à análise de dados socioeconômicos, dados tecnológicos e educacionais pra subsidiar a tomada de decisão aqui do departamento regional do SENAI de São Paulo nas suas ofertas aí pra indústria e pra sociedade, e dado essa atuação não preciso nem dizer que é uma honra estar aqui participando desse debate né com com vocês, e vou agora rapidamente subir a apresentação pra que a gente possa falar nesses próximos quinze minutos, em relação a essa temática da inteligência artificial que tem aí despertado grandes ansiedades na sociedade, né? Na figura dos empregadores, dos empresários, dos trabalhadores, dos formuladores de política pública, justamente por ser uma tecnologia né que abre a possibilidade de interagir com grande volume de dados não estruturados, textos, imagens né, e o resultado dessas análises a partir de uma experiência de conversação natural né o que melhora em bastante melhora em muito essa interação do usuário com essa tecnologia. Todos vêm a minha tela só pra confirmar? Sim. Ótimo. Então antes da gente começar a falar sobre inteligência artificial, acho que seria interessante a gente dar passo atrás e comentar pouco sobre como que a adoção de novas tecnologias no processo produtivo e nas rotinas laborais elas têm impactado a sociedade ao longo da da das da história né ao longo dos séculos. A gente tem a gente enxerga né no âmbito da educação profissional e no mercado de trabalho, que uma pessoa quando ela oferta as suas horas de trabalho, ela não oferta somente o seu esforço a sua dedicação, mas também conjunto de conhecimentos habilidades e e nesse cenário quando a gente tem uma tecnologia conjunto de tecnologias onde a aplicação dela ela tem muita interface tangencia em grande volume as competências do trabalhador, a gente tem uma situação onde potencialmente de fato haverá aí uma obsolescência desse perfil profissional né? Aqui no caso a gente sempre lembra a figura das telefonistas em décadas passadas e como que o avanço da tecnologia fez com que esses cargos se extinguissem né? Num segundo momento aqui no meio da tela nós temos uma situação aonde o conjunto das tecnologias ele de fato atende uma parcela das competências desse trabalhador, e nesse sentido o que a gente observa na média, é o redesenho desse perfil profissional, aonde ao longo da rotina laboral dele, ele se dedicará mais horas àquelas competências àquelas atividades em que a tecnologia não pode fazer frente né então, aí você tem uma potencialização desse trabalho, acho que uma figura também bastante emblemática aqui, é a é a figura dos caixas de bancos né e o advento da das máquinas eletrônicas né de caixas eletrônicos. E no final do terceiro ponto a gente tem uma questão aí que envolve em diversos casos que aí é uma decisão social acho que o processo de difusão de tecnologia, a velocidade como a tecnologia penetra aí nas empresas na sociedade, ela depende muito também da percepção da sociedade em relação a essa tecnologia então, haverão situações em que por mais que a aplicação da tecnologia de fato consiga replicar algumas ações, algumas competências humanas, nós como sociedade teremos muita dificuldade em aceitar que isso seja feito né, a gente não abrirá mão do papel da do da intervenção humana nesse processo então, pouco do do conjunto de como isso se dá, se deu ao longo do tempo né? E antes ainda de falar de inteligência artificial, o que foi observado numa série de evidências, uma série de estudos em relação ao impacto das tecnologias da transformação digital nos empregos e aqui eu trago pros senhores uma experiência do mercado de trabalho norteamericano uma publicação bastante emblemática de dois mil e treze, aonde se mostra ali que, até então, essas tecnologias esses desenvolvimentos, eles tinham impacto principalmente nos profissionais de baixa média complexidade. Aqui nesse gráfico à esquerda, basicamente a gente tem no eixo x, o grau de complexidade de habilidades dessa profissão, aonde 0 são atividades de baixa complexidade à medida em que você caminha à direita né ao longo do eixo pra cem, você tem atividades de mais alta complexidade, e no eixo y na vertical, a gente tem a variação dos empregos ao longo desse período né, e evidentemente abaixo do 0, quando está nessa zona sombreada em vermelho você tem situações onde tem a redução dos empregos então, até então a tecnologia ela estava muito focado o efeito negativo dela estava muito focado nos empregos de baixa média complexidade. Aí existe uma série de hipóteses relacionadas ao porquê não, o da baixa tecnologia, o da baixa complexidade né então, percebam que, mais ao canto esquerdo aqui próximo de 0, você tem aumento da demanda de trabalho em relação esses trabalhadores de baixa complexidade, das habilidades, então pode estar relacionado ao à razão de custo benefício de trocar capital por trabalho né, pode também estar relacionado à dificuldade talvez de automação de tarefas manuais não rotineiras né, e à medida em que você caminha pra direita ali no aumento das demandas de habilidades de alta complexidade né, os trabalhos aí que envolvam trabalhos administrativos a tomada de decisões mais complexas né, E agora falando pouco sobre a inteligência artificial propriamente dita, ela traz uma série de novos paradigmas pra essa nossa discussão né, em relação ao efeito concentrado em determinado perfil profissional e agora ele mais espraiado em todas as as profissões todos os perfis né, então aqui só rápido apanhado, você tem aí inteligência artificial sendo debatida há muitos anos, esse constructo teórico já existe na academia desde o século passado, o que houve aí foi grande avanço em relação à capacidade computacional e também à existência de grande volume de dados pra que a gente possa treinar esses modelos né, então aqui no âmbito da indústria principalmente que é a onde nós temos maior conhecimento, inteligência artificial pra visão computacional já vinha sendo adotada nas fábricas há há bom tempo né, agora com essa inteligência artificial generativa a gente tem a condição de treinando modelos né de grande escala de grande volume, a possibilidade de criar novos conteúdos né a partir desse prétreinamento e dessa calibração desse desse refinamento humano e a interação via comando de com esses modelos então, vai podendo criar áudios imagens textos vídeos e códigos né? Acho que os senhores têm percebido aí, as múltiplas potencialidades de todas as ferramentas que existem no mercado. E o porquê que a ansiedade está sendo grande né seja na educação seja na na indústria no no comércio serviços nas atividades econômicas como todo. Aqui a gente traz uma visualização do de uma tecnologia né uma. Bastante famosa e e busca mostrar o ciclo de vida da tecnologia em que momento que ele está, né? Desde momento mais atrelado a uma inovação tecnológica, ao pico das expectativas infladas, aonde está todo mundo falando sobre isso tem hype né do assunto, e aí a partir do momento que essa tecnologia começa a encontrar alguns obstáculos, uma desilusão inicial, resolvendo esses obstáculos caminho da iluminação e por fim atingindo o plato da produtividade onde a sociedade como todo utiliza isso né? E o que aconteceu com a inteligência artificial generativa, é que desde novembro de vinte e dois no seu advento, você teve uma rápida evolução e adoção dessa tecnologia então a ferramenta que mais tinha tido o recorde nesse resultado, tinha então a ferramenta que mais tinha tido o recorde nesse resultado, tinha sido o Instagram, que demorou mês e meio pra atingir milhão de usuários no nível global né então, isso mostra pouco da velocidade que uma tecnologia tem evoluído e como ela tem sido adotada pelas pessoas né? E o que que ela traz de novo daquela daquele gráfico que a gente mostrou de polarização no mercado de trabalho? Ela não ela não traz apenas o componente da exposição, da automação, mas ela também traz o componente da complementariedade né, no sentido de você ter algumas das competências e e funções ali humanas sendo potencializadas pelo uso dessa tecnologia, e o desafio que se está, debatendo e aí eu vou colocar pouco de algumas iniciativas alguns estudos internacionais que trazem esse assunto, a questão relacionada como que no caso da exposição aonde haverá sim uma automação, como que nós agimos para mitigar esse efeito, como que nós mapeamos uma uma eventual migração ocupacional caminhos mais rápidos né, pra empregabilidade, e e no âmbito da complementariedade é como que nós como sociedade nos preparamos pra garantir que esses perfis profissionais essas pessoas consigam fazer valer os benefícios que a inteligência artificial propõe em termos de produtividade, porque isso envolve não apenas a à vontade mas isso envolve estrutura, infraestrutura digital no âmbito do do do nosso país, isso envolve a maturidade e a organização das empresas em adotar essas tecnologias, em ter grande volume de dados à disposição, à arquitetura de dados pra você poder fazer esse tipo de atuação né, e no caso da força de trabalho, como que ela está preparada em termos de competência pra poder interagir com essas novas ferramentas né? Então, aqui a gente teve dois grandes marcos né que a gente tem trabalhado adaptações dessas metodologias para a indústria de São Paulo, né aqui no âmbito do Senai, aonde em agosto de vinte e três temos relatório da OIT mostrando essa esse componente de exposição e complementariedade, depois mais recentemente agora em janeiro de vinte e quatro, estudo relacionado ao fundo monetário internacional aonde, em decorrência de existência de microdados bastante importantes aqui no país o Brasil foi contemplado como dos países em que está sendo discutido nesse estudo da direita no FMI, e o que que a gente traz aqui então, pra deixar bem claro, é a questão de que, antigamente debatiase apenas a exposição, agora com com com a complementariedade nós conseguimos formar três grandes grupos de ocupações existentes aí no mercado de trabalho. Você vai ter a situação onde uma ocupação, ela tem uma alta exposição AEA generativa e uma baixa complementariedade, aí no caso aqui a gente está falando dos maiores riscos de deslocamento de mão de obra, né? Né? A gente tem a situação aonde você tem a alta exposição e a alta complementariedade, e aqui de fato temos que agir pra que essa alta complementariedade seja observada seja conquistada né e no caso da baixa exposição aquelas profissões que em termos de inteligência artificial generativa tá não estou falando das outras tecnologias, elas teriam uma baixa exposição. E aí aqui, a partir da estrutura ocupacional existente né a internacional que chama ISCO, e depois rebatendo aqui para as nossas estruturas nacionais que seriam a a classificação brasileira de ocupações, foise colocado ali percentual né pra economias desenvolvidas, pra economias emergentes e no caso aqui também da economia brasileira, quais seriam as distribuições em termos de empregos que estão em cada uma dessas categorias né? Então, no âmbito das economias desenvolvidas, em torno de sessenta por cento né, aproximações de sessenta por cento do mercado de trabalho estariam em em profissões com alta exposição à inteligência artificial, e de fato algo deveria ser feito pra que a gente garantisse essa complementariedade e também esse real essa realocação né, no caso do brasileiro a gente está colocando aí uma situação de quarenta e por cento né, de exposição da inteligência artificial generativa nos empregos, e como que a gente atua pra que esses vinte e dois por cento que estão com alta exposição e baixa complementariedade, sejam de fato analisados e políticas de educação e de requalificação sejam direcionadas pra que a gente garanta o emprego dessas pessoas no longo prazo, e também no caso dos dezenove por cento como que a gente atua pra que eles de fato explorem os benefícios e a produtividade da inteligência artificial que é tão prometido, E aqui no caso a gente traz a partir do agrupamento ocupacional da CBO né, a classificação brasileira de ocupações ela tem aí, dígitos que vão grupos que vão desde o do 0 até o nove, a gente traz aqui a figura do gestor, profissões relacionadas à atividade de gestão, de nível superior, de habilitações técnicas de nível médio, de profissões qualificadas e semiqualificadas e também outras ocupações né? Aí o agregado das atividades mais administrativas. E a gente verifica que, de fato, alta exposição e baixa complementaridade nós temos nas atividades administrativas no âmbito das outras ocupações, e também nas nos técnicos de nível médio né então, como que a gente enxerga com mais carinho essas ocupações ali pra eventualmente uma futura tomada de decisão. E, dentro da da experiência aqui do Senai São Paulo, temos aí uma série de estratégias que a gente utiliza pra identificação de ocupações emergentes, tendo em vista que essas ocupações vão ser demandadas pela indústria, e haverá de ser necessário ali informações profissionais pra que esses trabalhadores sejam qualificados e disponíveis ao mercado, nós vamos chamar atenção aqui pra esse terceiro pilar, que é o que está em destaque que é os as tecnologias emergentes moldando novas ocupações, né? No âmbito internacional, se chama de né? Como que uma nova uma nova técnica uma nova ferramenta, ela molda uma nova ocupação a ponto de talvez tornarse uma uma ocupação emergente né? E o exemplo mais recente que nós trazemos aqui, é a figura do cientista de dados que foi recentemente reconhecido como uma ocupação oficial no nosso país em dois mil e vinte e três né? Mas qual que foi o processo de geração disso? A partir do momento em que você tem perfis profissionais já existentes no mercado aqui a gente traz o estatístico mas existem outras saídas pro cientista de dados, a partir do momento que você tem esses perfis profissionais existentes, e você o coloca em contato com as novas tecnologias e habilidades que o mercado está demandando, você abre margem pra se discutir novas ocupações e no caso dos cientistas foi o que aconteceu. E o que estamos trabalhando nesse momento, é tentando enxergar a partir de uma análise qualitativa, de anúncios de vagas de emprego online né principalmente de empregos da indústria, é trabalhar aí usando a inteligência artificial a nosso favor, nos requisitos dessas novas vagas né, pra que a gente possa identificar eventualmente algum perfil profissional que a indústria hoje utiliza, ele vai ter alguma das funções que vai ser necessariamente alterada né substancialmente alterada ou adicionada no âmbito do seu perfil de atuação né, aqui eu trago pro ser só extrato a gente fez essa consulta ontem à tarde pra poder montar aqui esse gráfico pra vocês, pegamos algumas vagas aqui aqui na capital de São Paulo, e outras capitais aqui no sul e sudeste, chegamos aí total de duzentas e vinte e nove vagas disponíveis na data de ontem, que tinham como termos e palavraschaves inteligência artificial e, o exemplo que a gente chegou nesse nessa nesse recorte né das duzentas e vinte e nove vagas, seria o caso de designer por exemplo aqui né, de fato é uma situação real de emprego, uma empresa está de demandando esse profissional esse designer, ele tem uma série de responsabilidades e atribuições que estão descritas né, nas nesse anúncio dessa oportunidade de trabalho, e a gente verifica que de fato além daqueles que já são conhecidos e já são aí, do dia a dia desse trabalhador, ele agora passa a ser demandado pelo seu empregador, a usar ali a inteligência artificial aí é que a empresa faz até a nominação de qual que é a ferramenta que ele tem que saber, para gerar textos alinhados ali as marcas né, então acho que esse é exercício que a gente precisa continuamente fazer né, até porque a inteligência artificial ela tem evoluído numa maneira bastante expressiva nesses últimos meses né, Então fotografias elas podem se tornar obsoletas, fotografias desse mercado podem se tornar obsoletas muito rapidamente então, só pra caminhar as considerações finais como o meu tempo está se esgotando aqui, a gente tem que o resultado líquido né da inteligência artificial no nos empregos ele ele é incerto ainda, tudo vai depender dessa nossa capacidade de poder extrair esses benefícios da produtividade que a inteligência artificial nos promete né, o que a gente já sabe é que a inteligência artificial ela vai mudar o mercado de trabalho, de maneiras diferentes, percepções diferentes, a depender da profissão né que essa pessoa atua, e não somente da profissão mas também aspectos qualitativos desse trabalhador né, No que diz respeito à escolaridade, ao gênero também e à idade né então são fatores que a gente tem que levar em consideração numa eventual planejamento plano de ação. E por fim, precisamos aí como sociedade como empresas né, como trabalhadores como poder público, identificar como que a gente vai lidar e se preparar pra esse conjunto de tecnologias no futuro né, no futuro próximo que que já está por aí, Então, acho que com isso eu encerro aqui a a minha apresentação e e devolvo a palavra ao deputado Hélio. Muito obrigado.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil alerta sobre nova geração de \"impregáveis\" até 2",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": " especialista associado e pesquisador - Cappra Institute for Data Science discute crescente uso de dados e IA; IA como reprodução de competências humanas, exemplificado por ChatGPT; benefícios de IA em atividades profissionais; estudos prevêem pensamento analítico e criativo como habilidades prioritárias nos próximos anos; impactos na empregabilidade exigem requalificação profissional.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": " Setor produtivo, público e trabalhadores precisam se preparar para nova tecnologia. A instituição de ensino como SENAI-SP deve ajudar empresas a entender impacto de tecnologias, como IA, em seus negócios.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -114,7 +123,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil abordou três pontos: inclusão e conexão, empreendedorismo inovador para criar oportunidades locais, e aceleração da discussão sobre renda básica universal com envolvimento do setor privado.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -136,7 +147,8 @@
       "summary": " Especialista associado e pesquisador do Cappra Institute for Data Science destaca importância de democratizar a tecnologia e IA, mostrando suas vantagens e acessibilidade a todos, mesmo aqueles que estão mais distantes do mundo tecnológico. Ele sharing examples of how even small business owners, such as a hot dog stand operator, can benefit from using AI. The goal is to break the fear and misunderstanding surrounding technology, making it more approachable and usable for everyone.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -147,7 +159,8 @@
       "summary": " Aplicativo conecta vendedores ambulantes com clientes, exemplo ilustra desmistificação da inovação como acessível a todos; CEO - Fab Lab Recife e Head Startupbootcamp no Brasil elogia essa abordagem.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -159,7 +172,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -170,7 +184,8 @@
       "summary": " Consultor Legislativo - Câmara dos Deputados observa positivamente discussão sobre profissões do futuro; reflexiona sobre histórico de industrialização no Brasil e sua relação com o Estado; menciona Brasil como nação mais inovadora da América Latina e Caribe; Questiona sobre relação entre renda e inovação no país; pondera sobre papel de universidades na formação de profissionais para economia digital.",
       "speaker": {
         "name": "Angelo Azevedo Queiroz",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "angelo-azevedo-queiroz"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": " CEO- Fab Lab Recife e Head Startupbootcamp no Brasil:",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -192,7 +208,8 @@
       "summary": " Consultor Legislativo - Câmara dos Deputados: Brasil lidera América Latina em inovação, mas com renda média baixa e atrás de países avançados.",
       "speaker": {
         "name": "Angelo Azevedo Queiroz",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "angelo-azevedo-queiroz"
       }
     },
     {
@@ -202,7 +219,8 @@
       "transcription": "",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -213,7 +231,8 @@
       "summary": " Gerente de Unidade de Inteligência de Mercado - SENAI-SP discute necessidade de:",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -224,7 +243,8 @@
       "summary": " Consultor Legislativo - Câmara dos Deputados: regulamentação de profissões precisa cuidado, tecnologia transforma mercado rapidamente; leis podem impedir mercado de se desenvolver e novos empregos.",
       "speaker": {
         "name": "Angelo Azevedo Queiroz",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "angelo-azevedo-queiroz"
       }
     },
     {
@@ -235,7 +255,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil discutiu importância de regulação de design no Brasil, notando falta de regulamentação desde 1980, com múltiplos projetos arquivados.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -247,7 +268,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -258,7 +280,8 @@
       "summary": " Consultor Legislativo - CÂMARA DOS DEPUTADOS: discussing complex topic of technological developments, how they can threaten employment. Raises question of potential differences between AI revolution and past disruptions, and need for effective institutional response from both public and private sectors to ensure continued employment.",
       "speaker": {
         "name": "Guilherme Pereira Pinheiro",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "guilherme-pereira-pinheiro"
       }
     },
     {
@@ -269,7 +292,8 @@
       "summary": " Especialista associado e pesquisador - Cappra Institute for Data Science: A revolução impulsionada pela IA exige aprendizado constante e enfase em conhecimentos baseados em raciocínio lógico, em oposição à simples aquisição de habilidades na utilização de ferramentas específicas, devido à sua rápida obsolescência. O desafio reside no ritmo acelerado das mudanças.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -280,7 +304,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil observa crescente importância de educação profissional e tecnologia, destacando a necessidade de redesenhar a escola e preparar-se para impactos futuros da inteligência artificial. Experiências positivas encontradas no Instituto Federal em diferentes regiões do Brasil. No longo prazo, preocupações sobre respeito às pessoas com avanços na capacidade de criação de máquinas.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -291,7 +316,8 @@
       "summary": " Inteligência Artificial (IA) está se expandindo rapidamente devido ao baixo custo e à democratização da tecnologia, afetando diferentes rendas e áreas do conhecimento. Em breve, codificar/programar pode deixar de ser essencial, com ferramentas que facilitam a interação com modelos de IA, destacando-se competências gerais. A educação deve se adaptar, mudando a relação entre o conhecimento, o mestre e o aluno, priorizando uma abordagem integrada do conhecimento.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -302,7 +328,8 @@
       "summary": " \"Movimento no Code\" em progresso, com ferramentas em constante evolução; programadores precisam adquirir aprendizado básico devido à obsolescência rápida das ferramentas atuais; ensino fundamental deve incentivar análise crítica e associação de ideias em vez de simples memorização. (Resumido pelo especialista associado e pesquisador do Cappra Institute for Data Science)",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -313,7 +340,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil descreve o desafio de formação em programação no Brasil, com muitas iniciativas emergentes e a incerteza sobre a demanda futura. Afirma que a direção das políticas públicas do MEC deve levar em consideração esta incerteza.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -325,7 +353,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -336,7 +365,8 @@
       "summary": " Consultor Legislativo - CÂMARA DOS DEPUTADOS: expressa admiração pela claridade das palestras, questiona impacto de IA em profissões intelectuais, sugere priorizar impacto em profissões repetitivas, cita proteção assistencial como necessária caso requalificação seja inefetiva, questiona custo comparativo de investimento em requalificação versus proteção social e sua relação com recolocação de profissionais.",
       "speaker": {
         "name": "Igor Manuel Moreira Lima",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "igor-manuel-moreira-lima"
       }
     },
     {
@@ -347,7 +377,8 @@
       "summary": " Inteligência artificial analisa competências trabalhadores, impactando atividades média/alta complexidade. Falta de direcionamento em segurança social. Qualificação profissional importante. Parceria com Ministério do Trabalho para migração ocupacional e trajetórios curtos. Mapeamento dinâmico necessário por alta velocidade de disrupção.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -358,7 +389,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil afirmou que:",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -369,7 +401,8 @@
       "summary": " IA impacta profissões, não é oráculo, cometa erros e expõe dados duvidosos. É uma ferramenta, não substituirá completamente funções humanas, requer supervisão humana para resultados precisos. Ainda longe de confiar cegamente na IA.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -380,7 +413,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil comparou atual inteligência artificial a \"Atari,\" representando uma etapa inicial, para aqueles que estão familiarizados com o Atari.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -391,7 +425,8 @@
       "summary": " Inteligência artificial pode aumentar produtividade, possibilitando produzir mesma quantidade com menos trabalhadores ou manter equipe e expandir produção. Futuro produtivo depende de variáveis como educação e qualificação, mas também oferece ganhos beneficiosos para todos.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -403,7 +438,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -414,7 +450,8 @@
       "summary": " Participante mencionou riscos de IA em ciências humanas, particularmente em profissões que requerem julgamento individual. Também referiu-se ao risco de algoritmos, treinados por humanos, propagarem preconceitos e aumentarem desigualdades.",
       "speaker": {
         "name": "Fabiana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fabiana"
       }
     },
     {
@@ -425,7 +462,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -436,7 +474,8 @@
       "summary": " Especialista associado e pesquisador - Cappra Institute for Data Science afirma que algoritmos e IA replicam vieses presentes na internet, gerando resultados estereotipados e limitados. A consciência e cuidado com os pré-conceitos são fundamentais na programação e uso da IA, que ainda está em processo de desenvolvimento para tomar decisões complexas sem influência de vieses.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -447,7 +486,8 @@
       "summary": " Gerente de Unidade de Inteligência de Mercado - SENAI-SP destacou a importância da ética no uso de IA, pois ela aprende com conteúdo online e pode reproduzir preconceitos. Discutiu a necessidade de definir repositórios de conhecimento para IA e sua utilização como ferramenta para automatizar tarefas burocráticas, permitindo às pessoas se dedicarem a atividades que exijam contato humano e criatividade, como no papel de professores.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -458,7 +498,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil: agenda digital profitando de tecnologia antiga; IA influenciando mercado de trabalho, profissionais estratégicos pouco afetados por automação; preocupação com algoritmos controlados por interesses comerciais e apoio à regulação de redes para proteger o futuro.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -469,7 +510,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -480,7 +522,8 @@
       "summary": " Participante questiona recomendação da UNESCO contra tablets em sala de aula, preferindo celulares como ferramenta de aprendizado, e destaca importância de melhorar laboratórios e capacitação em inteligência artificial em escolas, citando exemplo da Finlândia e Suécia.",
       "speaker": {
         "name": "Carlos Alberto",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "carlos-alberto"
       }
     },
     {
@@ -491,7 +534,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -502,7 +546,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil destacou:",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -513,7 +558,8 @@
       "summary": " Enfatiza importância de desenvolvimento cognitivo sobre ferramentas. Pessoas precisam tomar decisões, não máquinas. Promover pensamento crítico desde ensino básico é fundamental, mais influente do que usar tablets ou computadores em sala de aula.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -524,7 +570,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil sobre automação: \"Atores sociais devem participar de decisões futuras, para evitar delegar completamente o poder de decisão aos robôs.\"",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -535,7 +582,8 @@
       "summary": " Gerente de Unidade de Inteligência de Mercado - SENAI-SP enfatizou: abordar impacto de dispositivos móveis no ambiente escolar, garantir infraestrutura educacional tecnológica, debater uso excessivo de dispositivos móveis, e ajudar alunos com falta de acesso à internet durante pandemia.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -546,7 +594,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -557,7 +606,8 @@
       "summary": " Consultor Legislativo - Câmara dos Deputados: uso intensivo de tablets em sala de aula pode afetar desempenho em concentração linguagem, alguns países retornaram ao uso de livros por considerarem tecnologia menos eficaz no aprendizado.",
       "speaker": {
         "name": "Angelo Azevedo Queiroz",
-        "position": "Consultor Legislativo - Câmara dos Deputados"
+        "position": "Consultor Legislativo - Câmara dos Deputados",
+        "slug": "angelo-azevedo-queiroz"
       }
     },
     {
@@ -569,7 +619,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -580,7 +631,8 @@
       "summary": " Gerente de Unidade de Inteligência de Mercado - SENAI-SP agradeceu convite, reconheceu importância do debate sobre impactos de tecnologia no mercado de trabalho e educação, espera bons frutos para políticas públicas relevantes.",
       "speaker": {
         "name": "Marcello Luiz de Souza Junior",
-        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP"
+        "position": "Gerente de Unidade de Inteligência de Mercado - Serviço Nacional de Aprendizagem Industrial de São Paulo- SENAI-SP",
+        "slug": "marcello-luiz-de-souza-junior"
       }
     },
     {
@@ -591,7 +643,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -602,7 +655,8 @@
       "summary": " Especialista associado e pesquisador - Cappra Institute for Data Science abordou importância de priorizar individuals' critical and analytical thinking abilities over complete reliance on AI for decision-making. He also warned against excessive outsourcing of activities to AI and emphasized maintaining human involvement in complex decisions.",
       "speaker": {
         "name": "Tiago Manke",
-        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science"
+        "position": "Especialista associado e pesquisador - Cappra Institute for Data Science",
+        "slug": "tiago-manke"
       }
     },
     {
@@ -613,7 +667,8 @@
       "summary": " CEO - Fab Lab Recife e Head Startupbootcamp no Brasil falou sobre sua experiência trabalhando com o ex-governador Eduardo Campos, a inspiração que lhe trouxeram suas histórias e a importância de se concentrar no Brasil real, que representa as pessoas e suas necessidades. Ofereceu conversa sobre esses assuntos em seu Instagram e está disposto a contribuir com políticas públicas.",
       "speaker": {
         "name": "Edgar Andrade",
-        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil"
+        "position": "CEO - Fab Lab Recife e Head Startupbootcamp no Brasil",
+        "slug": "edgar-andrade"
       }
     },
     {
@@ -625,7 +680,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     }
   ],

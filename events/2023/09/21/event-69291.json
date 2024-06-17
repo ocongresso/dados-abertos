@@ -18,7 +18,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Coordenadora da Coalizão Vozes do Advocacy em Diabetes e Obesidade agradece participação no fórum, deseja recuperação ao deputado Zacarias Kalil, expressa gratidão à equipe de Farias Kalil e parceiros por ajudar a realizar o evento, se apresenta como diagnosticada com diabetes há 22 anos, quer sensibilizar pessoas sobre a doença e controlá-la, menciona o lançamento de campanha sobre adesão ao tratamento.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Diabetes diagnosis at adolescence can lead to complications like blindness and chronic kidney disease if not well-controlled. Adherence to treatment, including medication, education, exercise, nutrition, and psychological support, can improve management and quality of life for diabetes patients. Seek professional help, find support from peers, and stay committed to treatment for a healthier life and better longevity. Treatment is vital for diabetes management.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Diabetes grave no Brasil; 60% pacientes não seguem prescrições médicas, 46 amputações diárias, falta equipes, acesso a medicamentos e motivação. Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade reuniu especialistas e questionou Ministério da Saúde sobre insulina análoga e atrasos em acesso a medicações e exames.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -84,7 +90,8 @@
       "summary": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde falou sobre problemas de abastecimento de insulina análoga de ação rápida, estratégias para manter fornecimento, questões relacionadas à insulina análoga de ação prolongada e abordagem do complexo industrial da saúde. Também mencionou a Lifocina, financiada e adquirida pelos estados para diabetes moderado.",
       "speaker": {
         "name": "Rafael Poloni",
-        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde"
+        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde",
+        "slug": "rafael-poloni"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "Coordenadora da Coalizão Vozes do Advocacy em Diabetes e Obesidade destacou a demora na compra de insulina análoga de ação prolongada no SUS e a necessidade de pregão para disponibilização. Ela também mencionou espera por respostas sobre pactuação para expandir apagrifozina para pacientes diabetes tipo 2 acima de 40 anos. Ofereceu discussão futura sobre assunto e solicitou participação de organizações diabetes presentes no plenário para obter respostas.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -118,7 +127,8 @@
       "summary": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde concorda com novo momento para discussão sobre DAPA, libertação prolongada processo pode levar 10-12 meses, novas estratégias para reduzir tempo de sinalização.",
       "speaker": {
         "name": "Rafael Poloni",
-        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde"
+        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde",
+        "slug": "rafael-poloni"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Coordenadora da Coalizão Vozes do Advocacy em Diabetes e Obesidade transmite pergunta do Dr. Paulo Henrique Morales à direção da reunião, para resolver assuntos pendentes.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Médica da Secretaria de Saúde do Distrito Federal abordou tema da dapa glifosina, sua distribuição para pacientes com diabetes e doença cardiovascular estabelecida, e outras indicações incorporadas pelo ministério. Ela destaca a importância da compra e distribuição efetivas, bem como a necessidade de pressionar as secretarias de saúde dos estados e municípios a se organizarem para receberem o medicamento.",
       "speaker": {
         "name": "Alexandra Rubim",
-        "position": "Médica - Secretaria de Saúde do Distrito Federal"
+        "position": "Médica - Secretaria de Saúde do Distrito Federal",
+        "slug": "alexandra-rubim"
       }
     },
     {
@@ -150,7 +162,8 @@
       "transcription": "Paulo Henrique Morales quer quer vim pra cá pra fazer a pergunta por favor senão as pessoas não vão conseguir ouvir das suas casas. Doutor Paulo.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -172,7 +186,8 @@
       "summary": "Participante questionou como atualizar preço de medicamentos antihipertensivos, permitindo compra de doses suficientes even when shared entre pacientes, evitando subdoses.",
       "speaker": {
         "name": "Paulo Henrique Moraes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "paulo-henrique-moraes"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde reafirma que TAPA pertence ao grupo 2 do CEAF, responsável pelo estado em relação à aquisição e financiamento. Ele incentiva a enviar solicitações para serem fortalecidas junto aos estados. Sobre o assunto de Angiogênicos, ele refere à competência da SAE, mas sugere a formalização da solicitação no Ministério da Saúde.",
       "speaker": {
         "name": "Rafael Poloni",
-        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde"
+        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde",
+        "slug": "rafael-poloni"
       }
     },
     {
@@ -204,7 +221,8 @@
       "transcription": "A Taís está representada aqui se eu não me engano e aí ela pode responder essa pergunta, ela acho que a pessoa está online né? Depois quando eu passar a palavra",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -216,7 +234,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -226,7 +245,8 @@
       "transcription": "Bom dia. Está funcionando está né? Então bom dia, meu nome é Marlice, não sou médica também, sou nutricionista, não sou filha de médico, mas sou filha de E trabalho com diabetes há mais de trinta anos. É está bem baixo né? Boa noite. E trabalho com diabetes há mais de trinta anos. Eu acho que não está funcionando. Deu agora? Deu. É, eu acho que era o microfone que não estava funcionando. É prazer enorme estar aqui né enquanto representante da secretaria é peso muito grande estar representando a secretaria estadual de saúde, agradecer mas a Vanessa pelo convite e pela confiança. E ela pediu que a que mostrasse aqui para vocês como que a secretaria estadual de saúde de Goiás, como é que a gente está se organizando para trabalhar as redes de atenção? E especificamente é né, a linha de cuidado da pessoa com diabetes, ela já falou, como é que é? Pressionem as secretarias, eu já me senti até pressionada aqui na hora que ela falou aqui do lado, né? Então pode colocar por favor, daí eu passando aqui, né? Vou ficar de banda né? Pode ficar lá? Mas sou filha de Mas aí a câmera. É a câmera, vamos lá, a gente vai, a gente vai adaptando aqui. Então vamos lá. Você passa ou eu? Está passando, está ligado? Mas sou filha de. Então você vai passando pra mim que aí a gente não, ele vai me cobrar meus minutinhos que eu estou perdendo. Mas a câmera vai? Se você quiser tem o microfone lá. Vamos lá. Não. Está tudo na ponta da língua aqui, mas é mais fácil, né? Tem como colocar pra gente? Da estrutura organizacional dela agora em janeiro, tá. Estou com a sorte de que o nosso secretário estadual é uma endocrinologista da área de diabetes. Mas sou filha de advocacia. Então, né, então já dá uma facilitadinha pra gente. Aí aí, então vamos lá. O estado de Goiás é estado grande, né, a gente tentou trabalhar DF que é o 0 nosso quadradinho. É estado grande territorialmente falando, Nós temos mais de sete milhões de habitantes, somos duzentos e quarenta e seis municípios, mais de setenta por desses municípios têm menos de que vinte mil habitantes, é, e nós temos somos divididos em dezoito regiões de saúde e cinco macro regiões de saúde, então é estado grande pra gente visualizar ele em todos os aspectos saúde. Que que nós optamos? Por não trabalhar com estimativa, então estimase que temos tantos por cento de pessoas com diabetes no país. EEA gente tentou trabalho, está tentando trabalhar com o número mais real possível, de quantas pessoas realmente hoje no estado de Goiás estão identificadas com diabetes, tá. Então hoje nós temos no dia onze de setembro está sendo atualizado semanalmente essa base de dados. No dia onze de setembro nós tínhamos quatrocentos e noventa e quatro mil e quinhentos e noventa pessoas identificadas com diabetes no estado de Goiás. Desta já que estamos falando aqui da comissão do idoso, mais de cinquenta por cento é acima de sessenta anos de idade, isso nós já temos de base real. Não está indo, ai. Então como é que está organizado a estrutura da secretaria estadual de saúde? Nós estamos na gerência de rede, Ô, aqui, então nós não estamos ligado a nenhuma superintendência, nós estamos ligado direto ao secretário à secretaria adjunta, ao gabinete da secretaria de junta. Então a gente está com uma uma condição transversal dentro da secretaria de estado. Isso já me deu sem facilitado pouco. Como é que a gente deve estar definindo a governança das redes prioritárias, nós temos uma resolução CIB em que a gente compôs grupos operacionais de cada área temática, então nós temos grupo operacional que está trabalhando diabetes no estado de Goiás. Este grupo, é composto pela área técnica da secretaria, são todas as gerências e coordenações possíveis, que trabalhem de alguma forma com a pessoa com diabetes. Depois que toda essa discussão nós estamos nessa fase ainda tá, o Jabé não me cobrem muita coisa pra frente, a gente está nessa fase aí. Então depois disso a gente tem grupo condutor estadual da rede, o que diferencia aí esse grupo do grupo operacional? O grupo condutor já tem a participação do COSEMS, e já são dos municípios. Então quando está tudo o mais alinhado possível dentro do grupo operacional, a gente leva a discussão para o grupo condutor estadual, que ainda está ligado a comitê gestor macro regional. Depois que a gente discute área técnica, mas sou filha de advém. Institucionalizada em resoluções CIB. Como é que está composto o grupo operacional? Então gerência de redes que eu da qual eu faço parte, Eu estou na equipe técnica das das redes de doenças crônicas não transmissíveis, poucas, seis, mas está tudo certo. Mas sou filha de E aí a gente tem pessoas da gerência das regionais, né, nós somos dezoito regionais do estado, então nós temos uma gerência específica pra isso. Não sou filha de, gerência de dados e informações estratégicas em saúde, a superintendência de políticas até então quando ele perguntou de uma outra secretaria, falou qual? É tudo muito fragmentadinho. Então a gente está tentando juntar essas caixinhas todas. Onde tem alguma caixinha que trabalha com diabetes é o que a gente está trazendo pra discussão, tá? Então a gente tem as pessoas mas sou filha de advém especializada, da farmacêutica, da saúde brutal, da imunização, populações específicas, círculos de vida, a gente tem o pessoal da promoção da saúde junto com a gente, a vigilância epidemiológica, gestão integrada, contratos, nós temos OS, nós temos as OS dentro do estado. Então o pessoal de contratos de gestão de convênios, as meninas da regulação do contrato de contratos, de controle avaliação, do planejamento, a gente está chegando na PPI agora, Tecnologia inovação e a escola, que a gente tem que pensar na, PPI? PPI. É, todos, pessoal do planejamento, isso. E a tecnologia e inovação que está trabalhando com a gente árdua, eu falo muito que sou eu, antes e depois de conhecer o pessoal da tecnologia. Mas E a escola quando a gente pensa nas capacitações que a Vanessa disse que que são importantes e também nas residências. Mas sou filha de advém, nós temos falta de especialistas, várias especialidades, até que o gestor pode pensar em contratar, mas não tem ou especialista eu falo isso direto pra ela, não tenho o que pode contratar, onde eu penso lá no norte na pontinha do meu estado, não tenho. Então primeira coisa que a gente fez. Novembro de dois mil e vinte e nós pactuamos em sírio uma técnica que era pra direcionar, na época, a equipe da planificação. Então direcionar em termos de rastreamento, de diagnóstico, Qual era o caminho dele, é, o que que ficava na atenção primária, o que que precisava de especializada, como é que era esse cuidado compartilhado, quantas consultas tinha que ser, né especializada e voltar pra primária, sempre mas sou filha de advém, não sou filha de advém, não sou filha de advém especializada e voltar pra primária, sempre dando aquela base aquela força para atenção primária. Era o que a gente tinha de documento até então. Janeiro instituiu gerência de redes. Junto com essa nota técnica como a gente tem os índices de estratificação, mas não é estratificação que eu falei foi vou mudar o nome dela ela foi batizada errada, estratificação de risco, seria uma estratificação pra eu saber se aquela pessoa vai dar continuidade ao tratamento na atenção primária, ou se ela precisa ir pra especializada. Quais são os especialistas? Então de acordo com as notas técnicas, a gente criou essa ferramenta online, e que você vai nos dados dos pacientes, resultados de exames e fala pra pra você te direciona se você vai ficar com aquele paciente na atenção primária, você vai passar pra especializada. Mas sou filha de. Esse é o nosso instrumento, meu filho. Marido? Então vamos lá, quando eu falei pra vocês que a gente tenta trabalhar com os números mais reais possíveis, não sou filha de. No dia que eu printei essa tela, não vou saber dizer mais que dia que foi, eu tinha quatrocentos e noventa e dois mil oitocentos e trinta pessoas identificadas, como não chegamos a esse número? Mas sou filha de. O pessoal da na gerência de inovação, que é o criador dessa ferramenta, essa ferramenta ela é interativa, ela não vai, eu não vou conseguir abelha aqui porque ela está restrita na internet, tá. Então, ele juntou, ele rastreou todos os sistemas públicos, mas sou filha de. ESUS ficha de cadastro, MV que nas suas unidades próprias, CSH tudo, rastreou por CPF por CNS. E aí a gente filtra os moradores em Goiás, né, porque eu tenho algumas pessoas que moram em outro estado que poderiam ser atendidas em Goiás, filtro aqueles CNS de Goiás, e filtro CNS CPF distinto, então não tenho duplicidade aqui. Então se você foi atendido na primária ou na especializada ou foi internada, vai sair só Então a gente é o é número certo, é o número mais próximo do real que a gente tem. Então hoje essa base de dados ela é atualizada toda segundafeira às quatro da manhã. Então toda segundafeira quando eu chego eu atualizo o número. Vou falar pra vocês que não é o muito ideal ainda quais são as nossas entraves. Então eu tenho toda a minha rede ali, o que O que a gente fez? Eu não tinha absolutamente nada relacionado à diabetes, então o que que a gente fez? A gente rastreou todos os pontos de atenção mas sou filha de. Na primária, na especializada e na terciária hospitalar. Rastreamos todos os pontos de atenção onde existiam algum atendimento com CID diabetes? Então quando eu clico ali na unidade básica de saúde, está georreferenciado todas as minhas unidades básicas de saúde que em algum momento, atenderam alguma pessoa com aquele sítio. Que eu tenho, oi? Não, SUS, SUS, só vejo SUS. E olha que SUS eu entrar, vou te falar agorinha qual que é a dificuldade? Por isso que eu te falei, isso não é número real. Ele hoje se aproxima em torno de sete por cento, que é a média nacional, seis ponto nove, sete por cento, mas não é o número real ainda, é o que mais próximo que a gente consiga do que trabalhar, quando a gente trabalha por por por município, por exemplo se eu pensar em seis ponto nove por cento, tem alguns municípios que chega a quase onze. Anápolis é assim, Lindo de trabalhar, a coordenadora de diabetes lá olha, não é porque nutricionista não, mas está dando show, está dando show. Mas então a gente tem mapeado todos esses pontos de de atenção. Então dentro lá do, quando eu voltar lá, lá em cima nos meus, lá em apareceu lá, tem sobre os dados, é de onde a gente tirou, tá, então eu fui mapeado e georreferenciado todos os locais de atendimento, rede SUS e rede conveniada, que atende SUS, está tudo ali. Qual são as nossas dificuldades nossas aqui olha, eu acho que nem sei se eu falei antes, quando eu chego no no serviço de apoio diagnóstico, A gente consegue mapear, naqueles exames, é preconizados de rotina do paciente com diabetes, a gente consegue maquiar onde foi feito aquele exame, pelo SUS, mas eu não consigo mapear produção quantos, Porque alguns exames não são específico para pessoas que têm diabetes, vamos chutar bem básico, uma glicada por exemplo não é só só as pessoas que têm diabetes que que está lá. Então esses exames não estão ligados ao CID, então eu só consigo georreferenciar. Com esse georreferenciamento eu consigo visualizar alguns municípios que nem laboratório simples pra fazer uma glicemia de jejum tem. E aí qual é a próxima etapa agora? Reunião com o pessoal do planejamento pra ver com quem esses municípios estão pactuados, pra saber se estão fazendo se nós estamos fazendo pelo menos os básicos, tá. É serviço de formiga. Então assim a gente está todo tem tem essa essa visão quando a gente clica, tá, então então quando eu clico em cada desse então policlínicas e centros especializado, eu tenho essa distribuição no estado de Goiás, onde eu tenho especialistas. Mas sou filha de. A parte hospitalar de cá, que é a parte de internação. Então hoje eu consigo visualizar e no estado de Goiás de serviço próprio nós temos seis policlínicas estaduais que é a parte né ambulatorial secundária especialista com previsão de mais duas. Mas sou filha de. Aí entremos, então deu uma contextualizada e entramos especificamente em complicações, retinopatia ficou tampado ali retinopatia. Temos hoje a visão, a Vanessa me perguntou como está a fila? Hoje eu não tenho fila, a fila que eu vejo, mas sou filha de. A filha que é visível para a gestão estadual, essa filha está zerada. Ela é real? Óbvio que não, não sou filha de Óbvio que não. Então, o que chega no centro de distribuição, não para, mas eu falei e o que que não chegou ainda, o que não pegou a senha, Essa filha existe? Claro que ela existe, só que nós não temos noção ainda da dimensão dela, é o que a gente está procurando. E E aí vou mostrar pra vocês onde é que a gente se esbarra, porque que a gente não conseguiu ainda. Então o que chega hoje, o nosso centro de distribuição de mas sou filha de advocacia. Da retinopatia é feito todo online o processo, pessoa chega, a clica aperta vê se a medicação está disponível abre o processo online. Após a abertura do processo no prazo médio de uma semana, mas ele já tem a resposta daquele processo ali, então, os que chegam, os chegam no funilzinho, rapidamente são atendidos, mas eu sei que tem muita gente que não pegou ainda, só não consegui e dimensionar ele ainda, mas eu vou conseguir. Eu não, vamos conseguir a equipe toda. Então qual que é a orientação? Caso pacientes não esteja fazendo acompanhamento médico em algum centro de referência, ele vai solicitar para o município dele, ser encaminhado e regulado pro Serófica do Oscar das Clínicas, o Serófica faz a nova avaliação, agenda, manda essa lista por CMAG que é o centro de distribuição, e o centro de distribuição dispensa as dose pra aquele centro de referência. Então Concluí. Vamos vamos correr, vamos correr, esse fluxo é rápido, falei que eu ia tentar? Vou deixar ninguém falar comigo mais. Nefropatia, o que temos hoje? Em Goiás nós temos trinta e três unidades de hemodiálise e trinta unidades de diálise, e na rede estadual que é nossa rede própria, não temos fila na rede estadual própria nossa. Vamos correr, ele falou pra mim correr, quais são os nossos filhos? Pronto, não é inscrito, nós temos uma dificuldade de sistemas de alimentação de serem alimentado os sistemas, então quando eu chego lá no ESUS, Na ficha de cadastro só pergunta, tem diabetes ou não tem diabetes? Fala mais nada, na ficha de atendimento eu tenho Sim, sim. Insulina independente ou não insulina intermitente, não fala se é tipo ou se tipo dois que já está usando insulina. Atualização no cadastro não é feita regularmente, não não é lançado a gente não visualiza o encaminhamento da atenção primária pra especializada, não existe mas sou filha de advém, escrito mas eu não sei se ele foi dispensado, tá. No quinES as atualizações também não estão atuais, No CIA, aí a gente entra agora na parte do pé, os procedimentos nesse nível de atenção são lançados em BPA consolidado, o que é isso número de procedimentos, não o número de indivíduos. Então a gente está caminhando e as ações articuladas, o cara falou falta capacitação, não falta. Tem trocentos projetos PROADS, é é o terceiro setor, o próprio as próprias secretarias têm muita coisa chegando, tudo doença crônica na atenção primária, mas está chegando de uma forma desarticulada. É o que a gente está tentando organizar. Se eu tenho duzentos e quarenta e seis município eu tenho que dar condições de que duzentos e quarenta e seis sejam atendidos. Pronto, doutor.",
       "speaker": {
         "name": "Marlice Marques",
-        "position": "Gerente de Redes de Atenção da Secretaria de Estado da Saúde de Goiás - Secretaria de Estado de Saúde do Estado de Goiás"
+        "position": "Gerente de Redes de Atenção da Secretaria de Estado da Saúde de Goiás - Secretaria de Estado de Saúde do Estado de Goiás",
+        "slug": "marlice-marques"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -249,7 +270,8 @@
       "summary": "Atenção especializada no diabetes se concentra em consequências como complicações e falta de adesão a tratamentos. Em 2023, busca-se aproximar essa atenção da primária, otimizando linhas de cuidado em diabetes e hipertensão. Agem com dados secundários e visam disponibilizar especialistas. Desafio: atender demandas da sociedade para reduzir complicações diabéticas.",
       "speaker": {
         "name": "DIEGO FERREIRA LIMA SILVA",
-        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS"
+        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS",
+        "slug": "diego-ferreira-lima-silva"
       }
     },
     {
@@ -260,7 +282,8 @@
       "summary": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade solicita:",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -271,7 +294,8 @@
       "summary": "Assessor Técnico abordou discussão sobre:",
       "speaker": {
         "name": "DIEGO FERREIRA LIMA SILVA",
-        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS"
+        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS",
+        "slug": "diego-ferreira-lima-silva"
       }
     },
     {
@@ -282,7 +306,8 @@
       "summary": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade observou: capacitação profissionais sobre diabetes desorganizada; alta demanda por treinamento especializado em Goiás; oferta atual de capacitação insuficiente.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -293,7 +318,8 @@
       "summary": "Assessor Técnico - Departamento de Atenção Especializada e Temática do MS propõe coordenação entre projetos do Ministério da Saúde e secretarias afins, para uniformizar processos e oferecer melhor suporte a gestão, decisões, monitoramento, educação permanente e ofertas educacionais, com foco em melhorar apoio a diabetes e outras condições comuns, atendendo usuários, secretarias estaduais e municipais, com compromisso de continuar o diálogo e trazer respostas ao longo do tempo.",
       "speaker": {
         "name": "DIEGO FERREIRA LIMA SILVA",
-        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS"
+        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS",
+        "slug": "diego-ferreira-lima-silva"
       }
     },
     {
@@ -304,7 +330,8 @@
       "summary": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade destacou a importância de exames como creatinina e albuminúria para detectar disfunções renais a tempo, problemas com a prescrição desses exames no atendimento básico, e discutiu a possibilidade de hemodiálise peritoneal como opção mais acessível e abordou a necessidade de discussão sobre isso em reunião da tarde.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -315,7 +342,8 @@
       "summary": "Assessor Técnico - Departamento de Atenção Especializada e Temática do MS está estudando novas ferramentas de financiamento para máquinas de hemodiálise e aumento de disponibilidade de áreas cirúrgicas, parceria com atenção domiciliar, para implementar em alguns meses.",
       "speaker": {
         "name": "DIEGO FERREIRA LIMA SILVA",
-        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS"
+        "position": "Assessor Técnico - Departamento de Atenção Especiallizada e Temática do MS",
+        "slug": "diego-ferreira-lima-silva"
       }
     },
     {
@@ -327,7 +355,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -337,7 +366,8 @@
       "transcription": "Então bom dia, agradeço imensamente, né, a Vanessa Pirolo que me fez o convite e o deputado professor Paulo pela oportunidade, né. Então eu trouxe pouquinho aqui da nossa experiência aqui no DF, que eu gostaria de compartilhar com vocês. Bom então nós vimos né nos últimos anos uma transição epidemiológica muito importante em relação às doenças que vieram acometendo os os indivíduos. Então, em mil novecentos eram causadas por doenças infecciosas, e apenas doze por cento por doenças cardiovasculares. Como que isso foi evoluindo? Em dois mil e dezenove no Brasil setenta e cinco por cento das mortes já eram por doenças crônicas não transmissíveis, ou seja começou a se tornar grande desafio. Em dois mil e dezesseis no Distrito Federal, cinquenta e quatro vírgula cinco por O Bom, então aqui eu trouxe a definição de diabetes que pra gente aqui é o nosso dia a dia né, é uma doença crônica caracterizada por distúrbio metabólico que causa alteração no controle glicêmico, resultado de defeito na secreção e ou ação da insulina. A falta de controle do diabetes pode levar a várias complicações prevalência, Então quando a gente pensa no mundo dados da Federação Internacional de Diabetes trazem que em cada dez adultos têm diabetes. Isso representa quinhentos e trinta e sete milhões de indivíduos no mundo. Vírgula dois milhões de crianças e adolescentes abaixo de vinte anos têm diabetes tipo nós vimos aumento muito grande na incidência de diabetes tipo em crianças abaixo de cinco anos durante a pandemia e logo após à pandemia. No Brasil dados do Vigitel mostram que em dois mil e onze a nossa prevalência era de cinco vírgula seis por cento, dois mil e vinte e já pra nove vírgula por cento. E segundo dados do IDF, adultos brasileiros entre vinte Tinha setenta e nove anos hoje nós temos dezesseis milhões desses indivíduos com diabetes. E o diabetes ele traz impacto Socioeconômico muito grande traduzido na perda de qualidade de vida, mortalidade prematura, né. Perda de capacidade funcional, né, e aqui nós temos dados também do último Atlas da trinta e cinco. A prevalência vai aumentar de forma assustadora principalmente nos países em desenvolvimento, né então a gente pode ver ali onde envolve A América do Sul, o Brasil ali né, vai ter aumento de mais de cinquenta por cento na prevalência de novos casos de diabetes. Bom esse foi uma uma metaanálise realizada em dois mil e dezessete a dois mil e dezassete cede que avaliou a prevalência de doença cardiovascular estabelecida em pessoas com diabetes tipo dois. Então das quatro milhões e praticamente praticamente Lar estabelecida. Vinte e sete e meio por cento desses indivíduos no Brasil e cinquenta por cento de todas as mortes ocorridas globalmente durante esse período foram doença cardiovascular. O estudo capture que foi estudo muito importante que avaliou a doença cardiovascular de uma forma contemporânea ele foi estudo que envolveu treze países de cinco continentes Inclusive o Brasil, ele avaliou então novecentos e doze indivíduos com diabetes no Brasil com doença cardiovascular e a cada dois cientes tinham doença cardiovascular estabelecida. E qual é o perfil dos nossos pacientes com diabetes tipo dois no Brasil? Então oitenta e cinco por cento dessa dessas pessoas têm sobrepeso associado, setenta e por cento têm hipertensão E sessenta e cinco por cento tem NICS elevado de LDL e colesterol. E apesar do aumento do número de novos medicamentos e das tecnologias, nós estamos tendo melhor controle? Então esse estudo mostrou que durante o ano de mil novecentos a década né esse período de mil novecentos e noventa e nove até dois mil e dois, Houve uma certa melhoria no controle olha com aumento aqui dos pacientes que atingiram meta de de hemoglobina glicada. Depois a gente teve platô e agora aqui já no final mostra uma redução no controle da hemoglobina glicada. Então o alcance das metas caiu de sessenta e nove vírgula oito por cento pra sessenta e três vírgula oito por cento. Pois não? É, mas eu aqui eu não estou falando de insulina, eu estou falando de meta de controle, de hemoglobina glicada. Aqui né. Não, com certeza. Não, com certeza. Por isso que a gente vai continuar aqui na apresentação e a gente vai trazer todas essas questões. Então apenas trinta por cento dos pacientes com DM dois e insulina basal atingem uma hemoglobina menor do que sete por cento, porque de fato É muito mais complexo do que isso né? Vamos continuar aqui. E aí a gente fala qual o seu nome Patrícia, aí a gente entra justamente na na adesão, né. Então quando a gente pensa em adesão, a gente tem que ter em mente Não basta o paciente querer ter uma boa adesão, isso vai muito além do paciente desejar, que é exatamente isso que você trouxe. Então existem várias questões que impactam na adesão, por isso que a saúde e os sistemas provedores precisam ter maneiras de avaliar se esses fatores estão sendo cumpridos. É exatamente isso que você trouxe, né. Então não cabe a nós servidores da saúde eu como médico endocrinologista diante de paciente que não atingiu meta só culpabilizálo. Por que que você não está fazendo? Por que que você não está aplicando? Por que que você não está medindo? O que mais está ali envolvido na questão de rede de apoio, entrega de insumos, acesso à tecnologia, Acesso à insulinas. Por que que as insulinas análogas estão nos componentes especializados e não nas unidades básicas de saúde? É uma pergunta que eu tenho pro Ministério, né. Insulina é uma tecnologia que tem que estar na tem que estar na atenção primária. Por que que as UBSs não têm rede de frios pra receber essa insulina? Fica a pergunta aqui pro Ministério. Isso vai impactar num controle a e inadequado aí é óbvio que esse paciente não vai ter uma glicada menor do que sete por cento porque tem muitas outras questões envolvidas e aí aqui eu falo gente, só pouquinho que são vão vão cortar meu tempo. Aí aqui eu falo sobre o sistema Saúde, que é pouco disso que a gente está trazendo. Fatores relacionados à própria doença, à terapia, né, relacionadas ao indivíduo e fatores socioeconômicos. Bom e aí nós precisamos estar atentos a além da glicemia. Quando eu falo de complicação, eu tenho que estar atento não só à glicemia, né. Eu preciso fazer o rastreio, o rastreio das doenças cardiovasculares, o rastreio da da doença renal crônica, o rastreio da retinopatia diabética, o rastreio da neuropatia. Doutora Ermelinda Pedrosa sempre diz isso, Para nós profissionais olhem os pés dos seus pacientes, vocês precisam olhar os pés examinar os pés isso é o básico é o mínimo, né. Então dando continuidade aqui eu trouxe alguns dados sobre as complicações. Isso isso mesmo. Então em relação à retinopatia diabética a gente sabe que é a maior causa de cegueira em adultos. A nefropatia é a maior causa de doença renal terminal. Neuropatia diabética é a maior causa de amputação não dramática de membros inferiores. O acidente vascular cerebral, né, ele aumenta de duas a quatro vezes a mortalidade por doença cardiovascular e por AVC. A doença cardiovascular sessenta e cinco por cento dos indivíduos com diabetes morrem de eventos cardiovasculares e em relação à doença arterial periférica há uma prevalência de vinte e nove por cento em pessoas com diabetes acima de cinquenta anos. Acho que ele trava né você passa pra mim? Em relação às complicações escolares e renais né. Trinta e por cento da doença renal crônica é causada pelo diabetes. A prevalência é três vezes maior em pessoas com diabetes e aí a gente vê Vanessa a necessidade de se treinar e enfatizar a importância para os nefrologistas da da diálise peritoneal. Então no DF nós temos uma médica no CED que é a maior defensora da diálise peritoneal, que faz com que os indivíduos tenham acesso mais fácil e uma mortalidade menor comparado com a hemodiálise. Depois, com certeza, a Doutor Maria Ernesto hoje à tarde vai poder discorrer melhor sobre isso. Próximo por favor. Travou né. Em relação à neuropatia periférica, quarenta e nove por cento da população é acometida pela neuropatia periférica diabética. Até vinte e cinco por cento das pessoas com diabetes apresentam neuropatia periférica dolorosa E ela é muito subdiagnosticada. Então às vezes a gente a gente tem acesso a paciente que infelizmente ele já chega pra e ele nem sabia que ele tinha diabetes. Em relação à retinopatia, a prevalência é de trinta e quatro vírgula seis por cento de retinopatia diabética, seis vírgula oito por cento de edema macular e de dez por cento de retinopatia diabética com risco de perda da visão. Próximo. Aqui eu trouxe pouquinho então, você pode clicar mais uma vez, vai aparecer, Não sei se ele vai marcar ali. É, marcou. Aqui eu trouxe pouquinho pra vocês do retrato aqui do DF, né, então O Distrito Federal ele é dividido em sete regiões de saúde. Eu estou como gerente de dos centros especializados que é o CEDÓ que é o Centro Especializado em Diabetes, Obesidade e Hipertensão que está localizado na região central de saúde. O primeiro centro especializado que foi criado no DF foi o CAD, que é na região Leste e que é serviço que está totalmente planificado, Tá. Depois em seguida viemos nós o CEDC que foi criado em dois mil e dezessete, em seguida o CEDC na região Centro sul e tem novo centro sendo organizado na região sudoeste do hospital de Taguatinga. Próximo. Alisada na quatrocentos e oito norte, tá. Próximo por favor. Todos os pacientes que chegam para a endocrinologia, só voltando pouquinho, nas sete regiões de saúde, você tem serviços ambulatoriais de endocrinologia. Em três regiões você tem uns centros especializados, mas Todas as regiões de saúde ofertam ambulatórios de endocrinologia, alguns com equipes mais robustas, outros com equipe minimamente compostas, tá. Então todos os pacientes eles percorrem o caminho de chegar pela unidade básica Saúde que é a porta de entrada do indivíduo preferencialmente no SUS, ele é estratificado e aquele paciente que ficado como sendo de alto e muito alto risco, ele vai então ser encaminhado para para a atenção secundária no nosso caso na nossa região é o Cedoll, né. Dez dias. Tá, no nosso centro o paciente não espera mês pra chegar. O senhor como ele tem uma equipe robusta nós somos dez endocrinologistas adultos, duas endocrinopdiatras eu vou passar pouquinho mais adiante, A região de saúde central pactua vaga com as outras regiões. Então nós temos regiões de saúde no DF que tem dois endocrinologistas. Então o paciente não fica esperando porque as vagas são pactuadas. A questão é que ele sai de próximo da casa dele pra vir pra gente, mas ele dá demora pra ter atendido. Todos os pacientes com diabetes tipo eles são classificados como vermelho, então eles têm que Obrigatoriamente também em acompanhamento na endocrinologia e esse tempo de espera ele não pode ser nunca acima de mês. Bom, então esse paciente chega no CED, ele é atendido então por uma equipe multidisciplinar que atua de fato de maneira interdisciplinar. Ele é então, ele é então estabilizado clinicamente e o cuidado é compartilhado de novo com a atenção primária quando se percebe que há essa possibilidade ou então as consultas são espaçadas, né por período de tempo maior uma vez que ele já está bem controlado. E quando necessário, o que é raro, ele é encaminhado para a atenção desse área que é a atenção hospitalar. Exatamente, então, aí é o compartilhamento do cuidado, é feito plano terapêutico, aquela setinha de cima e ele sempre é orientado que ele precisa manter o vínculo com a unidade básica de saúde até porque é lá que ele vai receber os medicamentos, os insumos, nós não dispensamos nada no CDO com exceção do sensor de glicose que que a Secretaria de Saúde do DF dispensa desde dezembro de dois mil e vinte. Então há o protocolo na secretaria E00 livre né O sensor de glicose é dispensado mediante protocolo clínico para pacientes com diabetes tipo Próximo. A partir de quatro aninhos e com dois anos de diagnóstico. Não, então, a cada seis meses ele ele é reavaliado, né. Os pacientes quando entram entram no programa, eles obrigatoriamente, eles precisam compartilhar os dados da plataforma com a equipe técnica E existem critérios de continuidade. Então, se ele não consegue atingir esses critérios de continuidade, ele perde e depois de três meses ele pode ser reinserido no programa. Bom então a nossa equipe né, do CED, ela é composta Por endocrinologista adulto pediátricos nós temos uma nefrologista, uma cardiologista, uma médica homeopata e acupunturista, Temos a equipe de enfermeiros e técnicos de enfermagem, nutricionistas, psicólogos, fisioterapeutas, técnicos administrativos e assistente social. Próximo. Lá no CDO são realizadas atividades ambulatoriais, reuniões educativas para os usuários, programas assistenciais em diabetes e obesidade. O CEDO ele é cenário pra formação de profissionais de saúde e também realizamos atividades educativas para servidores atenção primária Na forma de matriciamento, de vivências, né, próximo. Em relação às pessoas Com diabetes, elas recebem atendimentos individuais com o endocrinologista, nutrição, psicologia, equipe pediu enfermagem, fisioterapeuta e assistente social. Nós também temos o ambulatório de feridas complexas, então no DF há protocolo de encaminhamento Para os pacientes com pé diabético, em toda a região de saúde ao ambulatório de feridas complexas E esses pacientes são regulados via sistema de regulação de vagas. Então no CED nós também temos esse ambulatório que é feito por duas enfermeiras, E temos o ambulatório de tecnologias em diabetes. No DF nós temos também o protocolo de sistema de infusão contínuo de insulina. Esse ambulatório ele é ele é realizado no CDO e no HRT, né. E o ambulatório de tecnologia, Nós, identificamos a necessidade de termos esse ambulatório mais voltado para o sensor contínuo de glicose, porque nós percebemos que esses que esses indivíduos ainda tinham muitas dúvidas, como baixar os dados. Eles Muitas vezes eles não verificavam minimamente sete vezes ao dia isso é critério de exclusão. Então a gente identificou que não bastava o aceitaria ofertar tecnologia, era necessário ter apoio pra isso. E a nossa enfermeira que ambulatório está aqui presente, a Renata, e a gente tem conseguido no programa. Próximo. Existe protocolo disponível no site da Secretaria de Saúde do DF, né. Então quando você abre a página do site, quando você rola a página, pouquinho mais embaixo tem assim assuntos mais procurados. Aí tem diabetes em azul, você clica, é a primeira coisa que aparece. O protocolo de dispensação. Em relação aos atendimentos em grupo, nós temos o grupo de alimentação saudável, online e presencial, contagem de carboidratos, orientações sobre o cuidado com os pés, O grupo de de SISSI né que é o sistema de infusão contínua, reunião de pacientes em predialise aquilo que eu falei, e a Internação Dia que é projeto que a gente começou a fazer porque que a gente percebia que mesmo com toda essa equipe às vezes a gente viu o paciente ainda não controlado, uma criança, a família da criança com dificuldade, então a gente organiza pra que esse indivíduo fique conosco o dia todo. Então ele leva os alimentos, nós temos geladeira, microondas, fica a endócrino adulto, o pediatra, a enfermeira, nutricionista, psicólogo envolvido o dia todo com essa família pra tentar entender o que que está havendo e ali a gente detecta questões básicas, né Renata às vezes é erro de aplicação, né, erro de contagem, erro na correção e aí a gente consegue às vezes, Os dois tipos de diabetes. Sempre o tipo dois e estratificado como de alto e muito alto risco. Então não é qualquer paciente com DM tipo dois que vai pra gente. É o paciente que é estratificado como de alta e muito alto risco. Próximo. Bom mas também temos vários desafios né e aí eu trouxe aqui que eu acho que é a casa pra gente trazer essas questões né e pedir ajuda. Em relação aos sistemas de informação nós sabemos que há diferentes Sistemas de informação em relação aos diferentes níveis de atenção. A atenção primária é SUS, a atenção especializada nós usamos o Trek Care, Esses sistemas não se comunicam. Então quando a gente faz plano de cuidado e dá alta para uma pessoa, ela vai com papel na mão. Quem me garante que ela vai chegar na estratégia de saúde da família com papel? Então a equipe da estratégia muitas vezes não sabe aquilo que foi feito lá conosco, né, então isso é grande desafio. A limitação dos próprios sistemas já existentes em relação a recursos humanos nós temos aqui no DF déficit importante de agentes comunitários Os agentes comunitários são as pessoas que vão conhecer o território. Se eu não tenho agente comunitário como é que eu vou estratificar a minha população como é que eu vou conhecer a minha população? Quantas pessoas com diabetes tipo eu tenho? Quantas com tipo dois? Né. Então isso é o básico, né, e a gente tem número que não é suficiente. Também precisamos de recursos humanos muitas vezes Fazer ações de matriciamento. A gente entende que é dever da atenção especializada matricial estar junto com atenção primária, né. Equipes multidisciplinares então nós do CDO nós reconhecemos que estamos diante de serviço privilegiado, Então a gente sabe que essa não é a realidade do nosso Brasil, não é a realidade de diversas regiões inclusive do DF. Nós temos ambulatórios de endocrinologia no Distrito Federal que não tem uma nutricionista. Então como que esse paciente, como que esse endocrinologista vai conseguir atuar? Então isso precisa ser melhor visto né. Condições adequadas de trabalho, Por incrível que pareça faltam por exemplo aparelhos de pressão arterial, né. Então muitas vezes nós compramos os aparelhos, nós funcionários pra poder medir verificar a pressão dos pacientes a gente sabe que os nossos gestores estão na luta de tentar conseguir, Existem processos andando mas é tudo muito moroso, né? Então enfim, mobiliária adequado para pessoas com obesidade a gente que o diabetes tipo doze ele está intimamente relacionado com sobrepeso e obesidade, né. Acesso a medicamentos e insumos, Então a pessoa com diabetes ela precisa caminhar em vários locais pra conseguir receber tudo o que ela precisa. Então ela vai na consulta, Num lugar, ela vai na unidade básica de saúde pegar insumo, né. Ela vai no componente especializado pegar insulina análoga, Ela vai em outro lugar receber o insumo da da bomba de infusão. Ela vai em outro lugar pegar o livre. Sim e a vida dela? E o trabalho dela e o estudo como é que fica, né então a gente precisava de uma forma de tentar unificar isso. A demora na aquisição de tecnologias já incorporadas falamos aqui sobre a dapaglifosina, né, exemplo. Falta de medicamentos no SUS para tratar obesidade não existe hoje medicamento no SUS para tratar obesidade. Lembrando que a obesidade, diabetes e hipertensão eles estão intimamente relacionados né, e que levam às complicações. Tecnologia em diabetes. Existe uma uma carência muito grande de protocolos em outros estados e municípios, né então, se não tem protocolo fica muito difícil que as secretarias incorporem novas tecnologias, né. Aquisição e manutenção na entrega por exemplo do sistema de infusão de insulina, a gente passa por isso aqui no DF, uma dificuldade muito grande, Assim como os sensores de monitorização contínua de glicose, eu acho que no Brasil tem talvez três locais que disponibilizem sensor. Ai que coisa boa. Então, mas precisa ter mais, né, Vanessa. Centros especializados, como tratar Uma condição de saúde tão complexa como é o diabetes, como é a obesidade se você não tem centro especializado com uma equipe multidisciplinar. Então o deputado Doutor Zacarias Kalil ele tem projeto de lei pra criação de centros especializados no Brasil todo em relação ao tratamento da obesidade. Então isso é uma iniciativa maravilhosa, a gente precisa ter por diabetes. Em relação aos usuários, Nós estamos vendo cada vez mais a nossa população vulnerável né a gente percebeu muito isso póspandemia, dificuldade dessas pessoas no acesso às políticas sociais, ainda há uma cultura hospitalocêntrica, Então a população muitas vezes entende que o melhor lugar que o melhor médico é o especialista é o hospital, né e deixa a gente procurar as unidades básicas de saúde tem uma equipe também maravilhosa que pode prestar atendimento. E uma grande luta também nossa é o atendimento fora do estado de origem. Então nós recebemos pacientes da rede, né, que são pacientes que não são por exemplo do DF mas que Residem em outros estados, que chegam até nós, mas têm muita dificuldade de receber os insumos. Então nós temos que fazer processos pra que a prefeitura compre insumo pra aquela criança e isso é uma é uma é grande desafio. Próximo. Acho que era isso e muito obrigada pela oportunidade.",
       "speaker": {
         "name": "Alexandra Rubim",
-        "position": "Médica - Secretaria de Saúde do Distrito Federal"
+        "position": "Médica - Secretaria de Saúde do Distrito Federal",
+        "slug": "alexandra-rubim"
       }
     },
     {
@@ -349,7 +379,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -360,7 +391,8 @@
       "summary": "Coordenadora da Secretaria de Saúde de São Paulo propõe rede integrada e hierarquizada contra retinopatia diabética, utilizando teleoftalmologia em rede estadual, com 20 polos atendendo 37 municípios da Grande São Paulo. Desafios com adesão de usuários a exames e tratamentos, necessidade de conscientização do paciente e discussões sobre uso de telemedicina e tecnologias avançadas para expandir rede de atendimento.",
       "speaker": {
         "name": "Carmela Grindler",
-        "position": "Coordenadora - Secretaria de Saúde de São Paulo"
+        "position": "Coordenadora - Secretaria de Saúde de São Paulo",
+        "slug": "carmela-grindler"
       }
     },
     {
@@ -371,7 +403,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -382,7 +415,8 @@
       "summary": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade relatou parceria com doutora Carmela, mejorando acesso a oftalmologista em audiência pública. Pediu presença dela para discutir avanços em diabetes no Distrito Federal e Estado de Goiás, expandindo modelo de tratamento para Sérgio Okani, secretário executivo do Estado.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -393,7 +427,8 @@
       "summary": "São Paulo, grande cidade com 45 milhões de habitantes, tem estrutura de SUS complexa e hierarquizada. A Coordenadora é assessora técnica, seletiva e responsável por triagem. Recursos próprios usados para monitorar doenças crônicas e dependem de apoio federal. Modelo de resposta à pandemia adaptável, mas limitado pela realidade. Compromisso é melhorar dentro da capacidade operacional e governabilidade.",
       "speaker": {
         "name": "Carmela Grindler",
-        "position": "Coordenadora - Secretaria de Saúde de São Paulo"
+        "position": "Coordenadora - Secretaria de Saúde de São Paulo",
+        "slug": "carmela-grindler"
       }
     },
     {
@@ -403,7 +438,8 @@
       "transcription": "Muito obrigada doutora Carmela. Eu agradeço.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -415,7 +451,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -425,7 +462,8 @@
       "transcription": "Bom dia a todos obrigada. Vocês podem fazer a apresentação pra mim passar? Ou eu passo por aqui? Como ela preferir. Como a como a senhora preferia Kátia? Pode passar então por favor. Então pode passar por favor. Eu vou falar da Agência Nacional de Saúde Suplementar, pode passar, que é a agência que regulamenta os planos de saúde E a ANS ela tem como missão promover a a defesa do interesse público na assistência suplementar a saúde, ela regula as operadoras setoriais inclusive quanto às suas relações com os prestadores beneficiários E contribuir para o desenvolvimento das ações de saúde do país pode passar por favor. E aqui eu vou trazer alguns dados rapidamente pra mostrar o número de beneficiários pode passar por favor, Que a saúde suplementar né ela ela tem. Então hoje nós temos aproximadamente É cinquenta vírgula oito, né, cinquenta milhões de beneficiários em planos médicos hospitalares e trinta e vírgula três em específicos odontológicos pode passar. Isso significa que quarto da população brasileira Aí né, ela tem planos de saúde médicos hospitalares. Só que há uma concentração, né, de planos Os coletivos empresariais, sendo que a maioria desses beneficiários então setenta vírgula é dezesseis por cento dessas contratações são em planos coletivos empresariais, depois doze vírgula quinze por cento coletivos por adesão E a parte aí dos planos individuais perto de dezessete dezoito por cento da população. Pode passar por favor. É importante então aqui a gente também apresentar, tem maior concentração na região sudeste depois a gente tem a Sul tem o centrooeste, como o Brasil inteiro também em alguns lugares se apresenta né, vazios assistenciais seja no setor público ou no setor privado, Né pouca concentração também né lá no Amapá, Roraima de planos de saúde. Pode passar por favor. Pode passar. Como já foi colocado hoje aqui então, né a gente está passando aí por uma transição epidemiológica, demográfica, nutricional na população né, e isso é importante que a gente ao decorrer aqui da nossa conversa isso seja observado. Quando nós olhamos para a população hoje né de planos de saúde, Então a gente vê que tem maior concentração de beneficiários como são planos coletivos empresariais né, na faixa etária de trinta a trinta e nove anos E de quarenta a quarenta e nove anos em relação então às faixas né, de 0 a nove e aqui de dez a dezenove. Só que a gente sabe e tem aumentado também a concentração de idosos na saúde suplementar, né então a gente vê aqui que nos planos coletivos, nos planos individuais, né, têm maior concentração de pessoas mais velhas e já No plano coletivo empresarial fica mais exatamente essa concentração nessas faixas etárias, Entre cinquenta né entre vinte e cinquenta anos distribuído entre eles pode passar por favor. E aí como eu estava falando da própria transição demográfica né, é realidade que a gente está tendo uma diminuição da fecundidade no Brasil, então menos pessoas nascem né e a gente tem Envelhecido também, pode passar por favor. E aí são questões, né, que que vão de certa forma, né, apontar que o sistema de saúde ele tem que se preparar né já deveria estar vivendo essas mudanças pra acolher esse envelhecimento da população né e o envelhecimento como todo nós sabemos, O envelhecimento ele é processo, né, ninguém fica envelhecido velho de dia pra noite. Então há acúmulo né durante a idade, durante AA0 seu desenvolvimento que ele vai envelhecendo. Por que que eu estou trazendo isso? Que é importante que sejam implementadas medidas, né, que promovam ações preventivas, né, de coordenação do cuidado, pra viabilizar melhores resultados a médio e a médio e longo prazo pra que haja sustentabilidade do setor saúde. Pode passar por favor? Hoje a gente sabe Que o modelo assistencial ainda aí eu vou falar da saúde suplementar mas de certa forma A gente ainda tem no Brasil, né, de modo geral, se a gente for pegar todas as regiões, uma atenção do cuidado ainda muito fragmentado, Com pouca continuidade desse cuidado, né, com é muito reativo, tem que ter uma demanda, O sistema e o setor ele acaba não fazendo a captação desses beneficiários olhando lá O perfil dessas pessoas, né, olhando o risco assistencial, né, olhando então avaliando essas necessidades pra que se possa fazer a prevenção, pra que se possa reconhecer as necessidades e colocar essas pessoas numa linha de cuidado necessária. Então nós já ao longo dos anos né, vemos, Estamos discutindo como é preciso mudar esse modelo assistencial, trazer Né a atenção primária aí como modelo com os seus pilares né para que possa ter uma porta de entrada preferencial que organize Cuidado que defina né é o melhor tratamento pra esses beneficiários, que eles tenham uma equipe de referência E uma coisa muito importante né, é que possa se coletar dados e informações de saúde que você possa fazer a gestão desse beneficiário. Então falar de coordenação de cuidado, a gente também está falando da transferência de dados de informações de saúde e antes disso estamos falando de conhecer a necessidade, conhecer o risco da população, né pode passar. O Vigitel, né, que é inquérito populacional feito pelo Ministério da saúde, ele aponta né que mais de cinquenta e quatro por cento, cinquenta e sete por cento da Brasileira acima de dezoito anos ela está acima do peso, ela está com sobrepeso, né, e a gente sabe o quanto a obesidade Ela é fator de risco pra diversas doenças e condições crônicas. Então nós somos sabedores né dentro do sistema de saúde Que é preciso enfrentar os fatores de risco principalmente os fatores de riscos comportamentais, como alimentação inadequada, como a prática de atividade física, né, como evitar o fumo, evitar o abuso de álcool. Então tudo isso são ações de prevenção que elas devem estar inseridas né no dia a dia da população brasileira, Seja criança, seja adulto, né, seja idoso. Então esses fatores de risco são fatores de riscos comportamentais, né, que eles afetam aí a a funcionalidade da pessoa, do indivíduo, né, e pode diminuir a longevidade e a qualidade de vida dessas pessoas. Pode passar por favor. E aí nós sabemos, né, que esse envelhecimento a gente precisa estimular que as pessoas que a população a gente Está envelhecendo, a gente tem menos fecundidade, porém a gente pode trazer oportunidades que facilitem esse envelhecimento, trazendo indo ao encontro o que a OMS traz Né de envelhecimento ativo, né quando a pessoa ela tem mais qualidade de vida, ela tem mais Potência na gestão da sua vida, das suas atitudes, né, ao longo dessa do do decorrer da sua vida. Então ela pode optar né, e fazer melhores escolhas ao longo dessa vida dela e não tendo que envelhecer e perder essa funcionalidade, essa potência dela. Pode passar E pra isso é preciso que se insira no modelo de atenção, pode passar, pode passar, ações de promoção e, não não, volta uma, desculpa, ações de promoção São não não volta a uma desculpa, ações de promoção e prevenção né na coordenação do cuidado. Então a gente está falando, eu preciso conhecer a minha população, eu preciso conhecer o risco dessa população, a partir desse conhecimento Ter ações, muitas ações a gente sabe é que aqui eu estou trazendo alguns fatores de risco que são aqueles comportamentais, né, mas hoje até foi colocado que não vale só isso né, por exemplo o próprio acesso à medicação né, ajuda né, o próprio acesso à educação em saúde, ao letramento em saúde, né, como é que eu faço a melhor escolha, É por que que eu tenho que não tomar suco de caixinha, né, que é rico ou refrigerante é rico em açúcar. Por que que isso me faz mal? Então as pessoas têm que entender, né, esse tipo de informação. Ela tem que ser passada pra população de uma forma inteligível, né, de uma forma que ela possa compreender os efeitos, né de alguns comportamentos que se tem. E aqui falando das doenças crônicas, as doenças crônicas como nós sabemos elas são multifatoriais ela não tem uma único fator e elas têm período de de desenvolvimento longo, então ela durante muito tempo ela vem se desenvolvendo, né, e ela não Quitada, né, então por quê? Essa pessoa, esse indivíduo, esse beneficiário ele está fora do radar dos profissionais de saúde que não acompanham essa exposição por exemplo aos fatores de risco, né. E aí eu trago aqui que por exemplo, O sedentarismo atividade física insuficiente, o estresse né, hoje sabese que a parte da saúde mental Está intimamente ligada também com as doenças e as condições crônicas, alimentação inadequada, o tabagismo e todos esses Fatores de risco como o próprio sono, né, sono adequado, tempo de dormir e ter sono reparador, São fatores de risco pra hipertensão, pra diabetes, pra obesidade, com uma própria dislipidemia, Né, que é a alteração lá do colesterol ruim. Então como é importante que a gente olha aqui, eu estou trazendo já a hipertensão do diabetes como, colocando como se fossem doenças primárias, né, mas que na evolução delas você vai evoluir pra acidente vascular cerebral, do infarto agudo do miocárdio, doença renal crônica, o diabetes né que já está aqui e o agravamento como todos os As pessoas que me antecederam falaram né, todas as comorbidades que podem ser desenvolvidas. Então como é importante né, que se possa olhar pro início desse ciclo, né, não é a gente só olhar é claro que é Preciso olhar pra quem tem a doença renal crônica ele precisa ser cuidado, mas é preciso que nós tenhamos uma atenção, cuidado assistencial antes de entrar na doença, a gente precisa trabalhar A prevenção também e a organização desse cuidado. Pode passar, por favor. E aqui trazendo dados de mortalidade, né, segundo dados do Ministério da Saúde as doenças crônicas não transmissíveis em dois mil e dezenove, Elas foram responsáveis por cinquenta e quatro vírgula sete por cento das mortes no Brasil, né. E aí vou Destacar aqui alguns pontos que demonstram que a intervenção do setor saúde ele pode ter impacto bem interessante né, nessa parte do desenvolvimento das doenças crônicas né, porque elas são dos principais problemas da saúde pública a gente está incluindo aí claro que o diabetes, as doenças crônicas foram responsáveis por cerca de setenta por cento das mortes, perdão, O corridas globalmente em dois mil e dezenove, mortes prematuras, né, morte que as pessoas muitas pessoas vão a óbito por complicação por exemplo num diabetes com infarto agudo do miocárdio e nem e quando vai a óbito nem sabia que era diabético. Então é fora né as discussões que a gente diz, que a gente traz das despesas com os cuidados relativo a essas doenças né, Vem tendo impacto muito grande seja no sistema né no orçamento público ou privado, pode passar por favor. E diante essa é a, pode passar. Aqui eu vou passar rápido porque vocês já falaram bastante antes de mim, Mas a doença crônica né a o diabetes é essa doença crônica que ela tem uma duração aí, né, trazendo pro diabetes tipo dois, né, cerca de noventa por cento das pessoas com diabetes têm o tipo dois, Entre cinco e dez por cento, né, tem o tipo a gente pode ter também a diabetes gestacional, que pode ocorrer com qualquer mulher, né, e nem sempre esses sintomas são identificados E as pessoas classificadas como prédiabéticos são aqueles grupo de pessoas que já têm uma resistência insulínica, Os obesos, por exemplo, os hipertensos também. Pode passar por favor. E aqui são os dados né que nós coletamos, mas já foram colocados mas é aqui o impacto né quando a gente olha pro Brasil, Catorze milhões de pessoas com diabetes, e aqui o mais interessante, desses quarenta, quando a gente fala da população brasileira, Muitos, né, pessoas, muitos indivíduos desconhecem que têm diabetes, que são portadores de diabetes, né, então elas não têm noção e quando vão, é, ver, né, que já estão com diabetes, ela já tem outras doenças, outras comorbidades e esse tempo do diagnóstico da prevenção Já foi, já passou, então a doença já está instalada, tá. Então sessenta e dois por cento da população brasileira Né tem pelo menos aí dois fatores de risco pro surgimento do diabetes como eu já falei algum desses fatores anteriormente pode passar. Então o diabetes tipo dois aqui né do nosso lado direito, ele, A gente hoje falas duma epidemia de diabetes, né, tem uma crescimento aí da prevalência do sobrepeso da obesidade, da do sedentarismo, o consumo de alimentos não saudáveis, né, e esses nutrientes E consumo de bebidas alcoólicas, de bebidas açucaradas. Então, a obesidade e Sobrepeso inatividade física, histórico familiar, tudo isso são fatores de riscos para o desenvolvimento do diabetes. Pode passar. E aqui né como nós temos a falência renal, as doenças cardiovasculares, a cegueira, amputações, as neuropatia, na região das Américas casos de diabetes também não estão controlados então a gente está falando, Lá no início do ciclo né de fatores de risco pra desenvolvimento do diabetes, aí agora pode passar a gente está falando, Eu reconheço e conheço aqui, esses fatores de risco, eu reconheço que essa pessoa Ela tem o diabetes, né, então você faz a confirmação do diagnóstico, define plano terapêutico que deve ser acompanhado para que possa haver adesão ao tratamento. E como já foi colocado são vários os fatores necessários pra que se olhe para que haja essa adesão ao tratamento, Né, muitas vezes, vou trazer exemplo rápido, pode passar por favor, tem pacientes que porque tomam uma medicação fala não não sou É diabético, né, eu tomo clifage e está controlado. Então é, não tem o próprio conhecimento, né do que que é a doença, qual é o papel da medicação e o mais importante, a mudança de hábitos de vida é de suma importância, né, para que a gente possa fazer freio no desenvolvimento dessas doenças, né. Então é preciso então realizar esse ponto né, é para o diagnóstico, a partir desse diagnóstico, Essa pessoa possa estar dentro de modelo, dentro de cuidado, né, aonde preveja Todo o seu encaminhamento pode passar com referência, contrareferência, mas que haja a estão do cuidado dessa pessoa, desse indivíduo. Pode passar, por favor. E lá na agência existencial, diversos projetos são desenvolvidos e lá o desenvolvimento setorial, então é por meio de né, de ações regulatórias que facilitem o ingresso né desse beneficiário na nossa saúde suplementar, Incentivando a qualidade dos serviços e a sustentabilidade do setor saúde. Muitos desses projetos, pode passar por favor, são projetos Indutores, eles são indutores da qualidade, eles não são obrigatórios. Então a gente tem, vou trazer aqui O programa de promoção e prevenção, que desde dois mil e quatro a agência desenvolve esses programas, não a agência ela. Estimula que as operadoras desenvolvam programas de promoção e prevenção em diversas áreas de atenção e linhas de cuidado. Tem o projeto da certificação também, hoje nós eu vou falar agora sobre a certificação, E tem também a parte da qualidade das operadoras de todos esses programas, O único que todas as operadoras são obrigadas né, que elas passam de certa forma são avaliadas né, é sobre o índice de desempenho da saúde suplementar, esse todas a agência faz uma avaliação de vários indicadores que a agência tem sobre essas operadoras, sobre a qualidade da assistência prestada, pode passar. Então como eu falei né, o objetivo dos programas de promoção e prevenção quer dizer já vai se fazer vinte anos, E o objetivo é estimular que as operadoras revissem né, não ficassem só como intermediárias econômicofinanceira, entre a operadora e o prestador de serviço, entre o beneficiário e o prestador. Que elas sejam gestoras de cuidado, Que elas possam incorporar essas ações de promoção e prevenção na coordenação do cuidado, pode passar. Mas ainda hoje, né, nós temos modelo assistencial ainda muito fragmentado, né. Aqui só pra vocês terem uma noção, atualmente nós temos setecentos e nove operadoras médicohospitalares com registro vivo na agência né, dessas operadoras então de acordo com os dados do sistema de Promoprev, Nós temos ao todo na agência conhecimento de milhão duzentos e sessenta e seis programas desenvolvidos pela agência, Seiscentos e quarenta e sete deles aprovados. Aqui a grande maioria desses programas eles são na saúde do adulto idoso E eles ainda são muito em gestão de doença crônica, né. Aí falhando ainda bastante nessa parte realmente da prevenção olhando os fatores de risco e ficando com esse olhar mais na gestão de doença crônica. E eu falei que a gente tem cinquenta milhões né cinquenta vírgula oito milhões de beneficiários na saúde suplementar e a gente Tem milhão e duzentos mais ou menos, menos de dois milhões de beneficiários em programas de promoção e prevenção. Pode passar por favor. E aqui como eu falei então a agência desde dois mil e dezoito desenvolveu as certificações em boas práticas em atenção à saúde, a primeira certificação foi no sentido de trazer em atenção primária, com o objetivo de incentivar que as operadoras implemente esse modelo, né baseado na atenção primária à saúde, em cima daqueles pilares né que foram definidos lá pela Starfield né, organizando o cuidado desses beneficiários, fazendo essa gestão, né, e que o beneficiário Então ele tenha uma equipe de referência que possa fazer ser responsável pelo seu cuidado, que quando ele saia da tensão primária vá pra secundária ou terciária que haja referência e contra referência pra que aquela equipe possa acompanhar o fluxo desse paciente e a qualquer tempo poder rever se o plano terapêutico dele está coerente ou não ou se precisa agregar uma outra ação dentro desse plano. A certificação em APS então hoje nós temos cinco operadoras certificadas, temos dezesseis operadoras que estão se preparando por meio do cuidado integral à saúde, que é projeto de trinta e seis meses que termina agora em dezembro, Preparatório pra que essas operadoras possam estar aptas a serem certificadas. A certificação é quem certifica as operadoras, são entidades acreditadoras que são reconhecidas pela ANS, Então a ANS reconhece e tem e esses todos todas as certificações são processos de voluntários, tá. Temos uma segunda certificação que já está funcionando a partir de fevereiro deste ano que é a certificação do parto adequado, que tem o objetivo de olhar também essa, né, essa vamos dizer assim epidemia que a gente tem na saúde suplementar de parto cesário, então isso já vem projeto ao longo dos anos trazendo essa conscientização pro setor, né pra que haja adequação desse parto que ele seja desenvolvido, que a criança não entra em sofrimento e estamos elaborando A certificação em atenção oncológica que vai trabalhar pode passar principais os principais tipos de câncer tá. Rapidamente então a tensão primária, ela tem como propósito ser esse primeiro contato oferecendo atendimento abrangente, acessível e que a gente sabe que a literatura demonstra que uma boa atenção primária ela pode atender até oitenta por cento das necessidades de saúde de uma determinada população né da conta e quando necessário faz o encaminhamento pode passar. Então aqui, a certificação e atenção primária ela propõe esse modelo pra reorganizar essa de entrada aqui na Saúde Suplementar e trazendo esses principais pilares. O primeiro contato, o acolhimento, a coordenação do cuidado, a integralidade, essa longitudinalidade, centralidade na pessoa e na família, né, queria trazer aqui exemplo, se a gente não tivesse a centralidade, A gente passou aí pelo Covid, né, então se você não conhece a realidade da onde essas pessoas moram, como é que você orienta, Né, uma mudança de hábito ou autocuidado. Então é importante conhecer essa realidade, orientar Esses pacientes e ali aonde ele mora e o autocuidado apoiado pode passar por favor. E a ideia então né, que a gente tenha uma rede de atenção aqui na esquerda, a gente traz retrato de hoje, ainda temos né, uma rede muito fragmentada, aonde o Diário ele não sai né, cuidado, né, então a gente precisa Ter melhores desfechos em saúde, cuidado mais efetivo com indicadores clínicos, indicadores de saúde né, que demonstrem esse resultado, né, e nós acreditamos que a rede de atenção Baseada na atenção primária, ela é possível por ser coordenada, articulada, ela é possível dela melhorar esse cuidado aqui e até ao longo da vida né preservar a funcionalidade de vida dessas pessoas, dando maior autonomia né e claro melhores resultados em saúde e a sustentabilidade do setor porque a gente sabe que quanto mais fragmentado, com menos coordenação de cuidado, mais custos existem, né, você tem desperdício muito grande, Não só econômico, financeiro, de exames de medicação, de tempo e desperdício de saúde dessas pessoas. Pode passar por favor? Pra mim sim. Era isso que eu tinha pra trazer. Obrigado.",
       "speaker": {
         "name": "Kátia Audi Cursi",
-        "position": "Coordenadora de Indução da Qualidade Setorial , da Diretoria de Desenvolvimento Setoria da ANS. - ANS"
+        "position": "Coordenadora de Indução da Qualidade Setorial , da Diretoria de Desenvolvimento Setoria da ANS. - ANS",
+        "slug": "katia-audi-cursi"
       }
     },
     {
@@ -437,7 +475,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -447,7 +486,8 @@
       "transcription": "Bom dia a todos, primeiro eu peço desculpa bom dia a a toda a mesa, a gente teve problema aqui de ordem médico com os nossos pacientes, eu só estou entrando agora. Eu preciso de compartilhar na tela, se vocês, vamos ver se a gente já consegue aqui. Com os nossos, é uma honra muito grande estar aqui com vocês, se a gente poder falar aí no nome da sociedade brasileira de diabetes que teve sempre preocupação com idoso, e eu escolhi aqui pra gente uma tema de monitorização de diabetes e seta de tendência no idoso que eu acho que é assunto extremamente importante, inicialmente parabenizar os colegas que me antecederam que a gente teve aqui uma uma grande aula sobre diabetes, mas eu queria ressaltar né, que hoje a gente tem em cada onze adultos de vinte a setenta e nove anos tem diabetes, e são dados do IBE, RF dados recentes, e o que chama mais atenção aqui hoje, que uns em cada cinco pacientes os que precisa de ter uma atenção especial, e muitas vezes esse diagnóstico passa batido, o paciente além de diabetes ele pode apresentar quase quadro de hipotiroidismo subclínico, que são doenças interligadas. Esse aqui foi prêmio que nós recebemos justamente no no congresso antigo da Sociedade Brasileira de Indocrinologia, como locais alternativos de teste, a ponta de dedo é uma região muito sensível, com os nossos, então, o lóbulo da orelha passa de ser uma alternativa, mas na verdade quando a gente recebe no SUS as fitas de glicemia, essas fitas e o relatório do paciente nem sempre considerado, isso gera uma desmotivação no tratamento do paciente eventos. Eu falo que quanto mais, dados a gente tiver e mais sujo de sangue essa folhinha tiver, melhor e nós profissionais de saúde devemos valorizar, com idoso não não é diferente, mas a sensibilidade ela é aumentada. Hoje nós caminhamos para bombas, que que a gente ainda não tem uma diretriz, estadual ou uma diretriz federal, para termos os o acesso a bombas de infusão, o 0 nosso país tem são dados muito baixo quando comparado a qualquer outro do país, tanto na América Latina quanto na Europa e nos Estados Unidos, a gente precisa de colocar o tratamento que a gente chama de gold standard, ou padrão ouro para os nossos pacientes, então a conitorização contínua ela não mostra só o número de glicose, e isso é debate que estamos tendo cada dia mais, a manterização contínua ela me informa além do valor da glicemia, ela me informa a seta de tendência, e a seta de tendência é uma probabilidade de como que a nossa glicose está direcionando. Nossos, o nobre deputado comentou aí há pouco que estava tomando café sem açúcar, mas se a glicose dele estiver setenta, todos aqui na na plateia irão iriam dizer, dê alguma coisa com açúcar pra ele que a glicose está caindo, enquanto quando a gente tem a seta de tendência se essa seta está pra cima, ele não vai precisar de tomar com açúcar, mas se ela tiver, na horizontal, também não vai precisar de comer com açúcar, mas se ela estiver pra baixo, eu preciso de imediatamente dar café com nossos, aqui pouquinho de história eram como as monitorizações eram feitas, a gente tinha o primeiro os nossos, medidor de glicose em mil novecentos e sessenta e quatro, você tinha que lavar a pintinha, demorava mais de cinco minutos, era verdadeiro caos. Hoje nós temos, essa glicemia em tempo real, o que nos ajuda bastante nesse controle. Aqui foi uma artigo mostrando o uso de setas de tendência em sistemas de monitoramento contínuo de glicose, pra ajustes de insulina na nossa prática diária, na nossa prática clínica, isso é posicionamento da nossa sociedade brasileira. Eu sou dos autores desse artigo, e ele nos ajuda a evitar o principal problema no diabetes, que eu considero hoje tanto para a família, quanto para o próprio paciente, que são as hipoglicemias, as baixas de de glicose. Então essa seta que eu estou colocando ao lado, quando ela está pra cima, e a glicose está de cento e doze, significa que ela está aumentando em cada minuto, Dois miligramas por minuto, dois miligramas por decilitro por minuto, ou seja, em quinze minutos ela vai estar trinta pontos a mais, Em em meia hora, ela vai estar sessenta pontos a mais, então vamos imaginar a seta pra baixo, já que nós estávamos falando de hipoglicemia, a glicose de cem todo mundo vai falar que está tranquila, e esse idoso vai pegar carro e ela está com a seta com a seta pra baixo, Em quinze minutos, ela vai ter caído trinta já vai chegar a setenta, mas em meia hora, ela vai chegar a quarenta, levando a acidente Opelístico, há uma perda de consciência. Então hoje, as setas de tendência dentro dessa contínua, eu julgo muito mais importante que apenas numeral, então isso tem mudado muito a nossa visão, tanto para as crianças, quanto para os adolescentes, mas principalmente para aquele idoso, aquela pessoa da terceira idade, que não tem a noção dessa manifestação. Dito isso, esse sensor ele fica no interstore, dito isso, esse sensor ele fica no intertício, ele tem valor diferente da glicemia capilar, Então eu tenho cinco mensurações a cada minuto, dando total de duzentos e oitenta e oito mensurações ao longo do dia, sensor que dura catorze dias, nossos, os novos sensores vão durar quinze dias, e vão, não vão ser necessários o escaneamento, o que vai tornar uma prática cada vez mais fácil e tranquila para os nossos pacientes. Então a gente tem que pensar grande, pensar que a tecnologia pode nos ajudar tanto cuidador, quanto profissional de saúde, mas principalmente melhorar a qualidade de vida e a saúde do nosso paciente. Os, enfim, a acurácia, ela é extremamente interessante, hoje a gente usa essa palavrinha Marte, Que é uma média né, relativa, diferencial interessante, a Maggi sempre a Anvisa coloca que esses valores têm que estar abaixo de quinze, então tanto no aparelhinho, quanto no no smartphone, nossos a gente tem uma margem extremamente interessante, e uma boa acurácia nos últimos quinze dias, os nossos, a gente vê esse gráfico aqui com quatro pacientes, com a mesma glicoemo hemoglobina que é a média da glicose nos últimos três a quatro meses, variando entre sete ponto seis e sete ponto sete, lembrando que o valor interessante para o nosso paciente com diabetes é abaixo de sete, mas na hora que a gente observa gráfico desses quatro pacientes, a gente percebe Que a variabilidade em cada deles está diferente, e isso pode nos informar que paciente mesmo com a hemoclombina glicada Dentro da faixa de referência, pode ter complicações, mas por que que essa glicada está boa? Porque muitas vezes ele está tendo baixas de glicose, E apresenta uma glicada boa, então esse padrão é padrão extremamente interessante quando somado à hemoglobina de vinagre. Então a variabilidade glicêmica, ela tornase fator importante, porque a hemoglobina glicada, que anteriormente era o padrão ouro, ela é uma média da glicemia, que oscilou durante esses três ou quatro meses, Então nós precisamos considerar essa variabilidade glicêmica como ponto extremamente importante, Na no início das complicações com microvasculares, o fundo do ouro, as doenças renais, os nossos, mas também na doença renal crônica igual a colega que me antecedeu, mensurou, na cardiopatia, dia, né então o número mais aumentado de doenças coronarianas, o paciente com diabetes tem, e oitenta, que é o que a gente estipula pro diabetes tipo dois do idoso, setenta por cento no álcool, vejam que esse paciente, está 0 por cento no álcool, Esse tem metade no alvo e metade fora do alvo, o ideal que a gente quer, o sinalzinho verde aqui né, Ele tenha, aqui ele tem que estar com cem por cento anual, então tempo no alvo é a porcentagem de tempo que a pessoa passa com seus níveis de glicose, dentro desse intervalo da meta glicêmica, que a gente estipulou, nós quando eu falo nós estipulamos, foi o foi Congresso Internacional de Tecnologia Europeu, mas respaldado pela sociedade brasileira de diabetes e todas as suas diretrizes, então quando eu consigo colocar dez por cento a mais dessa glicose dentro do álcool, eu reduz a glicada em torno de 0 vírgula oito por cento, de 0 vírgula oito até por cento para facilitar nossos cálculos, a pessoa olhando o seu gráfico e vendo que os nossos, a setista pra cima ela pode tomar uma decisão de aplicar uma medicação aplicar insulina por exemplo, uma insulina de ação rápida, ou tomar a medicação, ou até mesmo reduzir a sua alimentação, então esses são os gráficos que a gente diferencia, o tipo com o tipo dois, durante a gravidez, que a gente extremamente mais, pouquinho mais rigoroso paciente que é diabético e está grávida, ou até mesmo aquela que possui apenas o diabetes gestacional, então esse é o gráfico que sai pra gente, aqui mostrando as estatísticas, aqui mostra a variabilidade que eu acabei de falar, ela tem que estar abaixo de trinta e seis por cento, e aqui eu tenho a média dos últimos oito dias, o paciente tem acesso a essa visualização, mas ele pode também ver o perfil diário, e aqui o tempo que ele ficou no álcool nesse caso que é sessenta e sete por cento, então pouquinho abaixo do daquele que nós circulamos, as glicemia elevadas e as glicemia baixas, então isso é de auxílio muito grande, tanto pro paciente, pro cuidador, mas principalmente para o profissional de saúde que acompanha e que vai direcionar esse tratamento pro nosso paciente. Então quais são os principais desafios nossos no manejo do diabetes médicos do tipo dois no idoso que nós estamos falando aqui hoje? Reduzir, os nossos, aumentando o tempo anual, colocando setenta por cento no mínimo, o tempo anual desse nosso paciente, então nós temos essa estatística brasileira, e como eu disse, se eu tenho setenta por cento da tempo no álcool eu vou ter uma glicada em torno de seis ponto sete, vale lembrar que dez por cento apenas do os diabéticos do tipo tem essa glicada abaixo de setenta por cento, e vinte e oito por cento apenas do diabetes tipo dois, tem a glicada abaixo de sete por cento, é por isso que nós estamos nesse caos em em relação ao diabetes, se preocupando sempre com a retinopatia, com a doença renal, eu escutei a colega mencionando há pouco, falando da dieta peritoneal, Vocês sabiam que no nordeste nós não temos, diário espiritual? É muito feito diário espiritual na região do sudeste, Minas Gerais, Rio, e principalmente em São Paulo, então nós precisamos levar isso para todo o nosso país, a cada por cento que eu diminuo da glicada, eu tenho uma redução de trinta e sete por cento das complicações microvasculares, cento da doença vascular periférica, catorze por cento do infarto agudo, e doze por cento do acidente vascular cerebral, o famoso né, é ABC, então aqui a gente tem que ter muito cuidado pra redução da glicada, redução de vinte e por cento na morte relacionada ao tipo dois. Aqui falamos das publicações crônicas, Mas uma outra aplicação aguda que eu estou mencionando é justamente a hipoc glicemia, a queda Da nossa glicose então é extremamente importante que o médico fique nessa gangorra, se ele intensifica o controle glicêmico, Ele aumenta a chance de hipoglicemia, então como que é que a gente tem que fazer? Então quanto mais se rende no controle, maior o risco de hipoglicemia? Sim, então a gente tem que estabelecer padrões para os nossos pacientes com toda essa equipe de saúde e com e basear tratamento, específico para cada paciente, esse monitorização contínua, ele revela que que a hipoglicemia muitas vezes não é percebida, então em oitenta e três por cento do diabetes tipo setenta e quatro por cento dessas hipoglicemias correram à noite, então é número extremamente elevado, se a gente tem dispositivo que possui alarme Chama atenção dessa baixa de glicose tornase extremamente interessante pra gente, já no prontifico dois que é o nosso assunto hoje, sessenta e três por cento tem hipoglicemia, e cinquenta e quatro por cento acontece no período da noite, e o que nos preocupa bastante, E acho que esse slide é extremamente importante pra todos nós que estamos aqui. A hipoglicemia ela reduz o fluxo sanguíneo em algumas áreas nobres, que envolvem tarefas, por exemplo, reduz a glicose no córtex temporal esquerda, que, perdão, que é área da fala, no cerebelo, que é área do no Ibocampo bilateral que é área da memória, no com os nossos. Cortex temporal inferior esquerda, que é a área visual, e no pulvinário esquerda ele que é a área da tensão, então quando a gente compara o idoso, e o jovem, de vinte e três, vamos colocar aqui mais ou menos dois anos, aqui primeiro eu tenho a percepção dos sintomas, aqui a glicemia dada em milimol, é é só multiplicar por dezoito que a gente tem o valor da glicemia em miligramas, então ele tem tempo pra ação, a primeira O primeiro sintoma da hipoglicemia é liberação de adrenalina, então o coração dispara, fica taquigático, a gente pode ter uma sudorese, e até ele perder a consciência leva tempinho, então aquele tem tempo de ter uma ação, os nossos. Olha o que acontece no idoso, a percepção de sintomas é muito próxima da neuroglicopenia os nossos da baixa de glicose no sistema nervoso central, então a segunda fase, é essa fase de neuroblicopenia, a pessoa perde a consciência, ela não sabe falando, então isso acontece sempre no idoso, e muitas vezes idoso ficou bichembia é taxado né, porque ele está delirando, porque ele está caducando, como a gente fala no interior, então, a hipoglicemia me preocupa, melhor dizendo, nos preocupa enquanto médicos, enquanto sociedade brasileira de diabetes, então a redução da da hipoglicemia, com esse sensores, ela foi extremamente estudada, aqui tem dois estudos extremamente interessantes, que eu não posso delongar pelo os a exiguidade do nosso tempo, o estudo impacto do tipo mostrando a redução de hipoglicemia, e o replace no tipo dois, mostrando uma redução significativa principalmente dessas hipoclissemias que naqueles estudos anteriores a gente mostrou que tem valor extremamente expressivo, então esse manejo do tipo dois, a nossa população aqui a gente colocando de dois mil e dezoito fazendo uma projeção só dois mil e são dois mil e sessenta, ela está mudando por faixa etária, a nossa população envelhece aqui dois mil e trinta E aqui dois mil e sessenta, nós vamos ter número muito maiores de idosos, então é a nossa preocupação enquanto sociedade, lembrando que nós colocamos que em cada cinco idosos tem a partir dos sessenta e cinco anos de idade, tem problema com a glicose. Então é esse idoso que nós temos que ter cuidado, e aqui lembrando do nosso querido Jô Soares, preocupação. Então antigamente a gente tinha cidades doze milhões, hoje nós já consideramos dezesseis milhões de diabéticos do tipo dois, que que convive com essa doença. Então, quando a gente usa a monitorização contínua são dados do ATD, no international nossos, também né, pacientes que conseguiram reduzir a sua glicada, Apenas usando a monitorização contínua, e aqui estudo no Ada que o American da IABissa Association, mostrando essa redução né, de complicações em pacientes que poderiam estar usando insulina ou hipoglicemia orais. No Brasil, aqui são dados da indústria né, quando a gente quantos leitores que foram utilizados dois mil e catorze até dezembro de dois mil e dezoito, dezessete mil seiscentos e noventa e sensores cento e quarenta e sete mil, O scante tem que ser feito a cada a cada oito horas, nós sabemos que os nossos pacientes fazem muito mais né, e as leituras de glicose, cento e setenta e três milhões de leituras, ponto é oito vírgula cinquenta e cinco bilhões, que são os dados mundiais, ou seja, o nosso Brasil tem uma potência de crescer e melhorar o nosso controle de glicêmico, baseado na monotização contínua, e aqui são dados do Brasil também que a gente viu uma redução da em usuários brasileiros, pra minha surpresa, esses pacientes tiveram uma decisão muito grande, e quando a gente pedia pra usar só o aparelhinho quatorze dias antes da consulta, que é quanto dura o tempo de uma, de sensor, os pacientes não queriam parar mais de usar, então por que não ofertar monitorização pra esses nossos pacientes? Fica aí esse nosso pensamento e a sensibilidade de todas as pessoas que estão nos assistindo. Então, eu finalizo para a gente ter tempo para perguntas, os, com essa com essa frase do filme Matrix, Matrix aqui fica meu, minhas redes sociais, meu Twitter é meu o nosso Instagram, né, Levemar cedo ou tarde você vai aprender assim como eu aprendi, que existe uma grande diferença entre conhecer ter o caminho e trilhar o caminho. Muito obrigado era isso que eu tinha para apresentar para os senhores.",
       "speaker": {
         "name": "Levimar Araújo",
-        "position": "Presidente - Sociedade Brasileira de Diabetes"
+        "position": "Presidente - Sociedade Brasileira de Diabetes",
+        "slug": "levimar-araujo"
       }
     },
     {
@@ -459,7 +499,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -470,7 +511,8 @@
       "summary": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade: Agradecimentos e perguntas pendentes sobre insulina de ação prolongada, pagrifozina, oftalmologia, implante deexametasona no SUS, ANS e programas específicos para prevenção de diabetes. Também espera respostas sobre nefrologia e cardiologia. Deseja discussão sobre educação física e redução de internações e complicações.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -481,7 +523,8 @@
       "summary": "Participante sugeriu colaboração entre operadoras e associações de diabetes, enviando pacientes a equipe especializada nelas.",
       "speaker": {
         "name": "Julio Cesar",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "julio-cesar"
       }
     },
     {
@@ -492,7 +535,8 @@
       "summary": "Revisão de programas de promoção e prevenção da ANS, estudo de linhas de cuidado existentes, próxima consideração sobre indicadores e possível obrigatoriedade de uma linha de cuidado.",
       "speaker": {
         "name": "Kátia Audi Cursi",
-        "position": "Coordenadora de Indução da Qualidade Setorial , da Diretoria de Desenvolvimento Setoria da ANS. - ANS"
+        "position": "Coordenadora de Indução da Qualidade Setorial , da Diretoria de Desenvolvimento Setoria da ANS. - ANS",
+        "slug": "katia-audi-cursi"
       }
     },
     {
@@ -503,7 +547,8 @@
       "summary": "Coordenadora da Coalizão Vozes do Advocacy em Diabetes e Obesidade propôs agenda de reunião futura e cedeu o palavrão aos participantes do evento, dando prioridade ao Edvaldo.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -514,7 +559,8 @@
       "summary": "Participante propõe classificação de risco para diabéticos como norma nacional, considerando-a essencial para tratamento adequado. É diabético há 35 anos e sofre de retinopatia e neuropatia, e critica a falta de atenção a diabetes em municípios, elogiando iniciativa em Goiás e desejando sua adoção geral no Brasil.",
       "speaker": {
         "name": "Edivaldo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "edivaldo"
       }
     },
     {
@@ -525,7 +571,8 @@
       "summary": "Gerência de Redes de Atenção da Secretaria de Saúde de Goiás priorizou:",
       "speaker": {
         "name": "Marlice Marques",
-        "position": "Gerente de Redes de Atenção da Secretaria de Estado da Saúde de Goiás - Secretaria de Estado de Saúde do Estado de Goiás"
+        "position": "Gerente de Redes de Atenção da Secretaria de Estado da Saúde de Goiás - Secretaria de Estado de Saúde do Estado de Goiás",
+        "slug": "marlice-marques"
       }
     },
     {
@@ -535,7 +582,8 @@
       "transcription": "Né? Olá rapidinho. Só complementando",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -546,7 +594,8 @@
       "summary": "Participantequestiona falta de filas para exame de fundo de olho no diabético, apontando barrada na assistência básica por necessitar consulta oftalmologista anteriormente, pedindo explicação do Ministério sobre o reconhecimento anual desses exames, mas não por rede básica.",
       "speaker": {
         "name": "Paulo Henrique Moraes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "paulo-henrique-moraes"
       }
     },
     {
@@ -557,7 +606,8 @@
       "summary": "Médica da Secretaria de Saúde do DF afirma que no Distrito Federal, médicos de atenção primária podem referenciar pacientes ao sistema de regulação de vagas para consultas de oftalmologia.",
       "speaker": {
         "name": "Alexandra Rubim",
-        "position": "Médica - Secretaria de Saúde do Distrito Federal"
+        "position": "Médica - Secretaria de Saúde do Distrito Federal",
+        "slug": "alexandra-rubim"
       }
     },
     {
@@ -567,7 +617,8 @@
       "transcription": "Está aqui com a gente? Rafael está aí, Rafael você pode responder? Posso sim.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade"
+        "position": "Coordenadora - Coalizão Vozes do Advocacy em Diabetes e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -578,7 +629,8 @@
       "summary": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde se refere à coleta de informações sobre o público-alvo, prolongamento do processo acadêmico, questão de insulina em unidades básicas, grupo de trabalho para migração de insulinas análogas e fortalecimento da rede de frio com repasses a partir de 2024.",
       "speaker": {
         "name": "Rafael Poloni",
-        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde"
+        "position": "Coordenador-Geral de Assistência Farmacêutica Básica - Ministério da Saúde",
+        "slug": "rafael-poloni"
       }
     },
     {
@@ -590,7 +642,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     }
   ],

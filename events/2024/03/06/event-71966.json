@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Só minutinho. Quero informar que a as votações já se iniciaram. Não não pode, não autorizou exportação. Não a pessoa já está votando já. Já? Isso. Fique à vontade pra se dirigir a a cabine, está aberta a nossa votação. Esse aqui complicou. Boa noite. Há algum parlamentar aqui no recinto que ainda não votou? Todos votaram. Não havendo mais quem queira votar declaro encerrada a votação. Tem ninguém votando não né gente só pra ter sido ter não. Volta só apertada. Ok. Passe a apuração dos votos no painel eletrônico. Vou proclamar o resultado. Doutor Francisco.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Novo presidente da comissão de saúde eleito: Francisco. Notáveis resultados alcançados em 2023, como 255 projetos aprovados, 6 emendas aprovadas, 608 emendas apresentadas e quase 400 horas de atividades. Parceria e comprometimento com o país destacados.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Vitor -- por Participante -- Dr. Francisco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-vitor-por-participante-dr-francisco"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 220570,
         "name": "Ismael Alexandrino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael-alexandrino"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     }
   ],

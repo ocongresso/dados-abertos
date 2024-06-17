@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178860,
         "name": "Paulo Azi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-azi"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 178860,
         "name": "Paulo Azi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-azi"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 154178,
         "name": "Milton Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "milton-vieira"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 178860,
         "name": "Paulo Azi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-azi"
       }
     },
     {
@@ -75,7 +80,8 @@
       "transcription": "Olá querido, tudo bem? Seja bemvindo. Isso.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 178860,
         "name": "Paulo Azi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-azi"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Deputado elege Presidente do Conselho de Ética com unanimidade; agradece suporte de colegas e funcionários; conselho responsável por preservar imagem do parlamento; menciona 37 processos encerrados e debates sobre polarização no país; convida novo Presidente, desejando-lhe equilíbrio no cargo.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -107,7 +115,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Paulo Azi -- por Participante -- Leur Lomanto Júnior",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-paulo-azi-por-participante-leur-lomanto-junior"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220601,
         "name": "Washington Quaquá",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "washington-quaqua"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     }
   ],

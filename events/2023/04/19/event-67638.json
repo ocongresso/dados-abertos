@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Governo aloca três bilhões de reais para segurança nas escolas via PDIDE, com participação da comunidade escolar. Lançamento de diretrizes inéditas sobre convivência escolar e ações contra comportamento violento. Grupo de pesquisadores fornece recomendações para proteção e segurança em escolas.",
       "speaker": {
         "name": "Yann Evanovick",
-        "position": "Coordenador do Grupo de Trabalho Interministerial de Enfrentamento à Violência nas Escolas da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - SECADI."
+        "position": "Coordenador do Grupo de Trabalho Interministerial de Enfrentamento à Violência nas Escolas da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - SECADI.",
+        "slug": "yann-evanovick"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Professora e Diretora de Formação Docente prioriza proteção e cuidado para a escola diante de gritos sociais, iniciando séries de ações formativas para dia 24 de abril, com diálogos, lives, trilhas formativas e seminarios, abordando temas como família, bullying, questões étnicoraciais e discurso de ódio, impactando professores, estudantes e comunidade, relacionados a pandemia e redes sociais.",
       "speaker": {
         "name": "Cybele Amado de Oliveira",
-        "position": "Diretora de Formação Docente e Valorizção dos Profissionais da Educação - DIFOR/SEB."
+        "position": "Diretora de Formação Docente e Valorizção dos Profissionais da Educação - DIFOR/SEB.",
+        "slug": "cybele-amado-de-oliveira"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Presidente da UNDIME-SE enfatiza abordagem pedagógica e colaborativa para combater violência escolar, rejeita medidas como cercas elétricas e armas em escolas, e defende política pública eficaz, adaptada às realidades locais. Alerta para impacto da pandemia e extremismo na educação.",
       "speaker": {
         "name": "Josevanda Franco",
-        "position": "Presidente da UNDIME-SE - União Nacional dos Dirigentes Municipais de Educação."
+        "position": "Presidente da UNDIME-SE - União Nacional dos Dirigentes Municipais de Educação.",
+        "slug": "josevanda-franco"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -86,7 +92,8 @@
       "summary": "Ministério da Justiça desempenha papel importante na combate à violência escolar. Diretora do Sistema Único de Segurança Pública mobilizou secretaria para abordar problema. Edital de seleção de projetos para fortalecer forças de segurança pública com foco em prevenção e mediação. Polícia militar de Santa Catarina destacou importância de segurança física nas escolas, evitando medidas prejudiciais à prevenção de violência.",
       "speaker": {
         "name": "Izabel Seixas",
-        "position": "Diretora do Sistema Único de Segurança Pública da Secretaria Nacional de Segurança Pública do Ministério da Justiça e Segurança Pública."
+        "position": "Diretora do Sistema Único de Segurança Pública da Secretaria Nacional de Segurança Pública do Ministério da Justiça e Segurança Pública.",
+        "slug": "izabel-seixas"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Secretaria Nacional de Segurança Pública destaca radicação online como problema complexo, realizou ações preventivas e de monitoramento, resultando em prisões e suspensões, mas busca maior participação social para promover paz duradoura.",
       "speaker": {
         "name": "Romano Costa",
-        "position": "Secretaria Nacional de Segurança Pública do Ministério da Justiça e Segurança Pública."
+        "position": "Secretaria Nacional de Segurança Pública do Ministério da Justiça e Segurança Pública.",
+        "slug": "romano-costa"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Professor da Faculdade de Educação - USP propôs relatório sobre violência contra escolas, identificando 18 ataques desde 2021, resultando em 40 mortes e 82 feridos. O Ministério da Educação convocou um grupo de trabalho, incluindo especialistas, para abordar o problema e propor cinco ações, que incluem abordar a questão do bullying.",
       "speaker": {
         "name": "Daniel Cara",
-        "position": "Professor da Faculdade de Educação - Universidade de São Paulo."
+        "position": "Professor da Faculdade de Educação - Universidade de São Paulo.",
+        "slug": "daniel-cara"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Professor da Faculdade de Educação - Universidade de São Paulo discute relatório sobre violência em escolas, destacando marcação da violência como fenômeno, identificação de violência mobilizada por extremismo neonazista e fascista, e análise de políticas mundiais para soluções. Recomendações propostas para diferentes estabelecimentos e planos para formação, seminário internacional, e campanhas de conscientização.",
       "speaker": {
         "name": "Daniel Cara",
-        "position": "Professor da Faculdade de Educação - Universidade de São Paulo."
+        "position": "Professor da Faculdade de Educação - Universidade de São Paulo.",
+        "slug": "daniel-cara"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Ouvidor Nacional de Direitos Humanos abordou integrar Ministério no combate à violência em escolas, com foco em políticas de direitos humanos e formação. Destacou resposta imediata e de longo prazo, fortalecimento do canal de utilidade pública de emergência e responsabilização das redes sociais no combate a discursos de ódio e pânico.",
       "speaker": {
         "name": "Bruno Renato Nascimento Teixeira",
-        "position": "Ouvidor Nacional de Direitos Humanos."
+        "position": "Ouvidor Nacional de Direitos Humanos.",
+        "slug": "bruno-renato-nascimento-teixeira"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "Oferecer à população, 24/7, um local seguro para denunciar abusos, com filtro qualificado de informações e ênfase na proteção, através de ação proativa dos Conselhos Tutelares e da polícia. Fluxo emergencial estabelecido com Ministério da Justiça e Polícia Militar para rastreamento e ação imediata em casos de crimes cibernéticos e ameaças às escolas. Disque 100 também atende via WhatsApp.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Lima -- por Participante -- Pastor Henrique Vieira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-lima-por-participante-pastor-henrique-vieira"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente propõe:",
       "speaker": {
         "name": "Ariel de Castro Alves",
-        "position": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente."
+        "position": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente.",
+        "slug": "ariel-de-castro-alves"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -245,7 +265,8 @@
       "summary": "Professora associada da Faculdade de Educação - UNB debate importância de escolas criativas e livres; incentiva envolvimento da família, monitoramento de plataformas virtuais, educação crítica à mídia, e combate à desinformação. Promove disciplinas em ciências humanas e trabalho intersetorial para prevenir ataques à escola; compara aumento de armamento civil e ataques escolares a situação nos EUA.",
       "speaker": {
         "name": "Catarina de Almeida",
-        "position": "Professora Associada da Faculdade de Educação - UNB."
+        "position": "Professora Associada da Faculdade de Educação - UNB.",
+        "slug": "catarina-de-almeida"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -267,7 +289,8 @@
       "transcription": "Deputada Ana Paula Lima primeiramente eu gostaria de saudar essa audiência e a todos os os parlamentares que estão aqui presentes, também agradecer o convite em ao o deputado pastor Henrique, e a você, e também gostaria de saudar os meus colegas de de produção de elaboração de do relatório que foi enviado ao governo de transição, no dia onze de dezembro de dois mil e vinte e dois, onde nós fizemos a a análise do que desse fenômeno dos ataques contra as escolas dos ataques promovidos por pelo extremismo de direita contra as escolas. Então quero agradecer a professora Catarina de Almeida, o professor Daniel Cara que nos mais presente aqui, e a todas as pesquisadoras que participaram da elaboração desse relatório com a gente, e eu venho aqui pra trazer os dados de monitoramento que do que foi esse trabalho que a Catarina também falou que a gente continuou fazendo mesmo após a produção do relatório. Relatório esse que foi pioneiro em analisar e mostrar quais seriam quais poderiam ser os caminhos seguidos para combater esse tipo de violência contra as escolas. Em primeiro lugar, eu vou apresentar relatório, que foi feita o nosso pedido ao grupo que elaborou o relatório ao governo de transição, pela jornalista Sofia Schurig, do Núcleo Jornalismo, que foi nos foi entregue no dia onze de abril, tá? O relatório se refere a uma comunidade online presente nas redes sociais TikTok e Twitter, uma comunidade de glorificação a assassinos atiradores escolares e e supremacistas brancos, AAS na sigla do termo cunhado pela autora Sofia. Então eu vou trazer algumas aspas do do relatório de monitoramento da Sofia agora porque eu acho muito importante a gente entender esses dados do que a gente está monitorando. Foram analisados mais de cento e sessenta perfis do Twitter, quatro sub comunidades específicas, mais de cento e cinquenta vídeos de do TikTok, cento e doze perfis do TikTok e trinta e seis hashtags no TikTok que somavam, até janeiro de dois mil e vinte e três, trezentos e quarenta e quatro milhões de visualizações. Durante dois meses, dezembro de dois mil e vinte e dois a janeiro de dois mil e vinte e três, no TikTok, e quatro meses de dezembro de dois mil e vinte e dois a abril de dois mil e vinte e três no Twitter, diversos tipos de conteúdo foram arquivados como imagens, vídeos, tweets, comentários visando identificar conteúdo que violasse a legislação brasileira, fizesse apologia ao extremismo e ameaças de terrorismo doméstico, violasse a as políticas de moderação das plataformas ou pudesse ser considerado considerado nocivo à saúde mental e física dos usuários. Esta comunidade de glorificação de assassinos atiradores escolares e supremacistas brancos possui atuação internacional. Durante o monitoramento do grupo nas redes TikTok e Twitter, foram encontradas publicações em inglês, espanhol e russo, além do português brasileiro. A atuação da comunidade online é relevante no no contexto do aumento dos massacres em escolas no Brasil, uma vez que o monitoramento notou uma escalada de na violência das publicações dos dos usuários do grupo. O autor do ataque em barreiras no Dia vinte e nove de setembro de dois mil e vinte e dois, também era membro da comunidade no Twitter, além de ser o suposto parceiro, que foi o autor de de uma tentativa de ataque em Vitória, Vitória no Espírito Santo no dia dezenove de agosto de dois mil e vinte e dois. Após o caso em Vila Sônia, e a respectiva cobertura midiática, foram encontradas múltiplas postagens incentivando outros ataques, além de publicações violentas contendo discurso de ódio contra mulheres, apoio à necrofilia, ao abuso sexual físico e à violência contra animais, além do de incentivo aos próprios massacres escolares. As publicações também se tornaram mais intensa na busca por duplas, para acoberter ataques em escolas. Esse documento usou informações análise o análise e o monitoramento feito pela autora durante o monitoramento da comunidade no TikTok e no Twitter para reportagem no site do núcleo jornalismo, essa reportagem eu vou eu vou enviar pra já vou enviar para a assessoria da desta comissão, assim como os como os relatórios e a outra reportagem que eu vou, que eu vou que eu vou, que acabou de sair da lupa, uma reportagem do Vitor Terra com dados de de uma pesquisa da Fundação Getúlio Vargas também, sobre os ataques e as ameaças, de ataque que ocorreram na semana passada. Continuando os dados que a Sofia Churri nos traz, eu abro outras aspas. Foi constatada na comunidade uma intrínseca relação com o neonazismo, cismo, e o extremismo de direita na na totalidade. Entre outubro e novembro de dois mil e vinte e dois, a autora monitorou quarenta e seis canais neonazistas na plataforma Telegram para uma reportagem publicada no site Núcleo Jornalismo. Além de conteúdo extremista, de apologia ao neonazismo e e discurso de ódio, também foram identificadas mensagens de apologia e incentivo aos tiroteios escolares. Sobretudo isso eu eu quero eu quero botar aqui frisar isso porque isso é uma coisa que a gente vem falando há há muito tempo. Eles Essa essas postagens de apologia ao incentivo, sobretudo quando as vítimas são mulheres, pessoas não brancas ou com deficiência. Em caso, usuário que se auto identificava como adolescente brasileiro da da região sul do país, enviou áudio falando seria uma boa fazer ataque em em sua escola. Em seguida, ele reclamou por não ter nenhum branco em seu colégio. Tá? E esse e essa eu acho que é interessante a gente entender que todo tudo que a gente analisou no nosso documento de onze de dezembro, nesses documentos eu estou trazendo aqui, a gente tem uma análise mais mais aprofundada com mais dados, e que eles vão só aumentar os dados que a gente já trouxe no nosso relatório ao governo de transição. O segundo relatório de monitoramento também foi produzido a pedido do grupo, e foi produzido por mim né, por grupo, por mim e pela Paula Costa que também fez parte do do grupo que produziu o relatório ao ao governo de transição e pela e pela Tatiana Azevedo, que é uma pesquisadora que trabalha comigo no desse grupo de de monitoramento que eu coordeno, tá? Esse esse segundo monitoramento ele se refere especificamente sobre os as ameaças que começaram no dia nove de abril na noite do dia nove de abril, e depois e e começaram com como né ameaças à escolas primeiro e depois ameaças à universidades, né de em todo o Brasil. Essas essas mensagens essas ameaças foram compartilhadas pelo WhatsApp principalmente pelo WhatsApp e pelo Instagram, né mas chegaram até o Twitter então assim, foi foram ameaças que que se espalharam pelo Brasil inteiro, E então a gente tem alguns dados a respeito dessas ameaças, e se existe alguma conexão com essa comunidade que a gente já monitora, de que glorifica assassinos, atiradores escolares e supremacistas brancos. Aqui então eu vou ler os dados desse desse segundo monitoramento. Foi selecionada uma amostra de duzentos e vinte e cinco contas na rede social Twitter, que faziam parte da bolha de seguidores que propagavam imagens vídeos e frases de apologia, e glorificação assassinos atiradores escolares e supremacistas brancos. Das duzentos e vinte e cinco contas monitoradas entre vinte e cinco de, de novembro de dois mil e vinte e dois, a treze de abril de dois mil e vinte e três, cinquenta e seis contas foram suspensas pela plataforma, Quarenta contas encontravamse ativas e privadas no dia do que a gente finalizou esse relatório que foi no dia treze de abril. E outras cento e trinta e dois cento e trinta e duas contas encontravamse ativas e abertas. Também localizamos seis contas cinco contas de Twitter, desculpa, pertencentes a membros dessa comunidade que foram responsáveis por quatro ataques, e uma tentativa de ataque frustrada pela polícia a partir de agosto de dois mil e vinte e e vinte e dois. São eles, o autor da tentativa de ataque à escola Heber Lusadas Hipnotti em Vitória Espírito Santo, no dia dezenove de agosto de dois mil e vinte e dois. Autor o autor do ataque à contra a escola municipal Eurídes Eurídes Santana, em Barreiras Bahia, no dia vinte e seis de setembro de dois mil e vinte e dois. Autor da o autor da escola Tomazia Montoro em São Paulo no dia vinte e sete de março de dois mil e vinte e três. O autor do ataque à escola adventista de Manaus, no Amazonas, no dia dez de abril de dois mil e vinte e três. Autor o autor do ataque ao colégio estadual doutor Marco Aurélio Marco Aurélio em Santa Teresa de de Goiás Goiás no dia onze de abril de dois mil e vinte e três. Nesse relatório também analisamos as ameaças às escolas e universidades ocorridas na semana passada, e que produziram pânico generalizado, e identificamos que essas ameaças não partiram do ecossistema que glorifica assassinos atiradores escolares e supremacistas brancos. A primeira ameaça, raceada por nós, foi direcionada às escolas Rio Grande, e Antônio Hawai no Rio de Janeiro. Essas primeiras ameaças continham duas imagens retiradas da rede social de imagens de imagens Pinterest. Essas duas imagens são, uma imagem de homem vestido abrigo esportivo preto, e com uma arma na cintura, e uma outra imagem com várias armas com arma de fogo e armas brancas em cima de uma cama. Essas duas imagens, elas se repetiram em em na maioria das ameaças que a gente conseguiu rastrear em escolas por todo o Brasil. A gente pegou isso essas mesmas imagens e escolas do Rio de Janeiro do Espírito Santo, São Paulo, e e em outros lugares mas assim as as primeiras foram realmente no no Rio de Janeiro, Rio Grande do Sul Espírito Santo. E as ameaças às universidades, a gente o que que o que que a gente mostra no nosso monitoramento? Elas começaram no dia onze de abril, e as imagens que usadas nas ameaças a Todas as universidades foram as mesmas, que foram imagens de duas pichações que diziam que ia acontecer Sacre no dia doze de abril, e que foram feitas num banheiro masculino da UNIP, na unidade Tatuabé da UNIP em São Paulo. Essa essa essas pichações foram denunciadas no dia cinco de abril, e a partir No dia onze de abril, elas começaram a ser enviadas como ameaças às universidades como PUC de São Paulo, PUC de Campinas, Universidade Federal do Ceará, FAAP, PUC do Rio de Janeiro, Universidade Estadual do Ceará, Universidade Federal do Rio de Janeiro, Universidade Federal de Pelotas, USP, Universidade Federal da Paraíba, UNIFI e UNIFI. Então a a nossa conclusão nesses dois relatórios de monitoramento antes de partir pro pro relatório da FGV, nós foi que nós identificamos dois fenômenos diferentes, ocorrendo concomitantemente e que convergem entre si. Ao analisar o 0 conteúdo descrito no relatório, Notase que as ameaças iniciadas no dia nove parecem ser coordenadas. Verificamos também o surgimento de vários perfis que adentraram a a subcomunidade que faz parte do ecossistema de de glorificação de atiradores de assassinos atiradores escolares e supremacistas brancos a partir do atentado do dia vinte e sete de março na escola da Vila Sônia, e que que comportamse de maneira atípica em relação em relação aos demais perfis da comunidade, o que foi notado pelos próprios membros dessa comunidade. As ameaças iniciadas no dia nove podem ter funcionado como chamado à ação e incentivo para adolescentes que já tinham intenção de agir. Nós notase também que o aumento de ataques reais podes pode estar relacionado a esse chamado ação, através da onda de boatos a partir do dia nove de abril, com registros de ao menos três ataques em período de dois dias, seriam os os ataques de de Goiás do Amazonas e do Ceará, onde dois desses perfis e a gente encontrou foram responsáveis por dois desses atalhos. E prosseguindo, eu gostaria de aqui ler que foi publicada agora pela agência lupa, em matéria do Vitor Terra, falando sobre levantamento exclusivo que ocorreu sobre os ataques ocorridos da Escola Estadual Tomasi Mutoro do bairro da Vila Sônia em São Paulo, e em vinte e sete de março, de março, e na creche cantinho Bom Pastor em Blumenau, em cinco de abril. O relatório, que foi a pesquisa que foi feita pela Lupa em parceria com a de comunicação, mídia e informação da Fundação Getúlio Vargas e FGV direito como parte do projeto mídia e democracia, baseado em mapeamento de palavraschaves em grupo relacionadas a a esses atentados em grupos do WhatsApp e do Telegram, ah então o que que eles encontraram? Eles disseram que aqui as a análise mostra que o que os dois primeiros picos de mensagem sobre os ataques das escolas foram orgânicos, acontecendo nos dias dos crimes da Vila Sony e Blumenau. Já o terceiro pico registrado no levantamento que eles tem gráfico em anexo, apresenta comportamento diferente. Além de não ter ocorrido nenhum ataque naquelas datas, houve uma mudança de tom formato e modo de circulação dos conteúdos, com o aparecimento de novos perfis, replicação de mesmo conjunto de imagens de forma enganosa, e a alteração do vocabulário usado. Segundo especialistas fatores como esses indicam a a existência de estratégias coordenadas de desinformação. Então o que que eu o que que eu quero dizer com todos esses dados que a que eu trouxe aqui. A gente tem duas ações diferentes, a gente tem esses ataques às escolas, que vem acontecendo desde de do de desde agosto de dois mil e vinte e dois, e que tem relação com essa subcomunidade E essa onda de de ataques foi confirmada não que falsos, foi confirmada não só pela pelo nosso monitoramento mas também como monitoramento da lupa com a FGV, que foi uma coisa que não não Não foi orgânico, a gente teve pico dessas ameaças, não que não foi orgânico que começou como algo coordenado, movimento coordenado para causar pânico, na sociedade brasileira, pra que em relação a esses atentados e em relação a provável novo atentado no dia vinte, tá? Eu também gostaria de dizer que é importante que a gente entenda que esses que algumas coisas que a gente não pode compartilhar sobre esses essas ameaças em relação ao dia vinte, por quê? O que que acontece? No no nosso monitoramento a gente não pegou nenhuma referência ao aniversário de Hitler. Esses adolescentes que a gente monitora, eles glorificam esses atiradores escolares, e assassinos e supremacistas brancos, mas a gente não viu nenhuma referência ao dia vinte de de abril como uma referência ao aniversário de Hitler, talvez como como uma a uma referência ao massacre de columbine, aqui é dia, é uma data comemorativa pra eles. Então ao meu ver e ao e o que as pesquisadoras que trabalham comigo, o que a gente entende disso é, que foi fabricada, essa esse pânico a partir de uma data de aniversário, de de Hitler, que não a gente não encontra, não encontra em outros lugares, além dessas ameaças. E eu gostaria de agradecer muito, eu espero que as nossas análises e os nossos dados tenham ajudado a esclarecer algumas coisas, eu enviei todos os relatórios EEA as matérias que eu cito aqui para a assessoria dessa comissão. E caso a os deputados e deputadas queiram ter acesso. Muito obrigada.",
       "speaker": {
         "name": "Letícia Oliveira",
-        "position": "Especialista em Monitoramento Online de Agrupamentos de Extrema-Direita."
+        "position": "Especialista em Monitoramento Online de Agrupamentos de Extrema-Direita.",
+        "slug": "leticia-oliveira"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -314,7 +340,8 @@
       "summary": "Coordenação oferece apoio à comissão e sociedade; em 90 dias, relatório de ações para combater violência escolar; pedido à sociedade para não compartilhar falsos panicos e denunciar através de meios indicados; apelo para mais amor em escolas e sociedade.",
       "speaker": {
         "name": "Yann Evanovick",
-        "position": "Coordenador do Grupo de Trabalho Interministerial de Enfrentamento à Violência nas Escolas da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - SECADI."
+        "position": "Coordenador do Grupo de Trabalho Interministerial de Enfrentamento à Violência nas Escolas da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão - SECADI.",
+        "slug": "yann-evanovick"
       }
     },
     {
@@ -325,7 +352,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -336,7 +364,8 @@
       "summary": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente reconheceu aniversário e atuação importante, refere tragédia em estado com alta taxe de mortalidade infantil, mencionou programa de proteção a crianças ameaçadas de morte com aumento de recursos, priorizou enfrentamento à violência nas escolas, e encorajou cuidados à infância com esperança em paz.",
       "speaker": {
         "name": "Ariel de Castro Alves",
-        "position": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente."
+        "position": "Presidente do Conselho Nacional dos Direitos da Criança e do Adolescente.",
+        "slug": "ariel-de-castro-alves"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -359,7 +389,8 @@
       "summary": "Professora da Faculdade de Educação - UNB discute importância do debate sobre educação, mencionando Paulo Freire e Anísio Teixeira. Ela alerta sobre a tendência de transformar escolas em prisões, com excessivas restrições à liberdade dos alunos, e defende uma educação democrática e transformadora, que vai além da simples transmissão de informações. É necessário criar condições reais para experiências formativas, onde a democracia é mais que um conceito teórico.",
       "speaker": {
         "name": "Catarina de Almeida",
-        "position": "Professora Associada da Faculdade de Educação - UNB."
+        "position": "Professora Associada da Faculdade de Educação - UNB.",
+        "slug": "catarina-de-almeida"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     }
   ],

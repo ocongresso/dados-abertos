@@ -16,7 +16,8 @@
       "summary": "Senador propõe governo urgência em regularizar auxílio moradia para policiais e bombeiros no Distrito Federal, vetado por executivo e causando apreensão a esses profissionais. Pedido de aprovação de medida provisória no início de janeiro, pois recurso está garantido no fundo constitucional.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -28,7 +29,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Senador destaca importância da LDO para política econômica e orçamentária do governo, mas critica a aprovação de cronograma de pagamento de emendas e recurso direcionado pelo parlamento, considerando-o inadequado para o papel do Congresso e da sua função executiva.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "Senador propõe votação em único turno do projeto de lei orçamentária de 2024.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Diretrizes lei orçamentária 2024: duas mil e setenta e duas emendas, aprovação na forma de substitutivo. Deputados e senadora em discussing: Sâmia Bonfim, Tereza Leitão, Tarcísio Mota, Carlos Zaratini.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -95,7 +102,8 @@
       "transcription": "Sâmia Bonfim. Como é que está aí o Sandro?",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -117,7 +126,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": "Governo anterior reduziu dívida/PIB a despeito desafios; investimento privado cresceu quatro pontos percentuais no governo atual, totalizando quase 400 bilhões de reais; novo marco fiscal já desrespeitado pelo governo; LDO propõe permitir contingenciamento orçamentário em caso de frustração de receitas.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -138,7 +149,8 @@
       "transcription": "Deputada Adriana Ventura. Para discutir senadores Alcir Lucas.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -149,7 +161,8 @@
       "summary": "Senador propõe governo solucionar em janeiro questão do auxílio moradia de policiais militares e bombeiros, aguardando medida provisória ou projeto de lei em regime de urgência, após veto ser derrubado e aprovação da LDO que inclui emenda de reajuste.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -159,7 +172,8 @@
       "transcription": "Discutir deputada Adriana Ventura.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -171,7 +185,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -181,7 +196,8 @@
       "transcription": "Depois do deputado Bongaste, o deputado Kimka Taguiri.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -193,7 +209,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -203,7 +220,8 @@
       "transcription": "Para discutir deputado Kim Kataguiri.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -215,7 +233,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -226,7 +245,8 @@
       "summary": "Senador fala em agradecimento, seguindo discursos de deputados Ivan Valente e Lindberg Farias.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -248,7 +269,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -260,7 +282,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -270,7 +293,8 @@
       "transcription": "Senador Randolfe Rodrigues.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -281,7 +305,8 @@
       "summary": "No final do ano, o Brasil sob o governo do presidente Lula tem inflação controlada, taxa de desemprego baixa, economia em recuperação, e programas sociais em pleno funcionamento. Votos a favor da LDO para continuar a reconstrução do país.",
       "speaker": {
         "name": "Randolfe Rodrigues",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "randolfe-rodrigues"
       }
     },
     {
@@ -292,7 +317,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -304,7 +330,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -315,7 +342,8 @@
       "summary": "Senador discute aprovação da Lei de Diretrizes Orçamentárias (LDO) para 2024, destacando melhorias econômicas no governo anterior, como redução da dívida e aumento de investimentos. Ele critica o governo atual por supostamente violar o novo marco fiscal e alegar déficit 0, enquanto adota medidas fiscais que impactarão a sociedade.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -326,7 +354,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -337,7 +366,8 @@
       "summary": "Senador agradece convidados e menciona diversos deputados.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -349,7 +379,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -359,7 +390,8 @@
       "transcription": "A palavra ao deputado Glauber Braga.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -371,7 +403,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -382,7 +415,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -393,7 +427,8 @@
       "summary": "Senador se sente ofendido pelo tratamento recebido, menciona defesa de melhor remuneração para praças e questiona tempo de fala concedido.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -405,7 +440,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -415,7 +451,8 @@
       "transcription": "Palavra.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -427,7 +464,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -437,7 +475,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -449,7 +488,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -459,7 +499,8 @@
       "transcription": "Senhor presidente.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -470,7 +511,8 @@
       "summary": "Senador propõe encerramento de discussão e votação de requerimentos, depois de discursos de seis deputados e quatro senadores.",
       "speaker": {
         "name": "Marcos Rogério",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "marcos-rogerio"
       }
     },
     {
@@ -481,7 +523,8 @@
       "summary": "Senador propõe votação sobre requerimento de encerramento de discussão e destaques de emendas, com exceção de uma emenda retirada por seu autor. Destaques incluem alterações propostas por líderes do PT e PL, além de outros membros do Congresso. Após votação, será submetido à votação o substitutivo do PLN número quatro de 2023, com preferência regimental e observando as exceções dos destaques.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -492,7 +535,8 @@
       "summary": "Senador concorda com votação de LDO seguida de votação em bloco de 12 emendas, destacando última emenda como importante. Não há menção de comunicação prévia sobre acordo.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -502,7 +546,8 @@
       "transcription": "Adriana",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -514,7 +559,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -525,7 +571,8 @@
       "summary": "Senador sugere votar texto base da Lei de Direitos Orçamentários em três grupos, com votação nominal no primeiro grupo e em globo nos demais, exceto pedido específico da deputada Adriana.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -536,7 +583,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -547,7 +595,8 @@
       "summary": "Senador propõe encaminhar quatro itens para votação, incluindo LDO, com verificação nominal se solicitada.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -559,7 +608,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -569,7 +619,8 @@
       "transcription": "Aventura. Obrigada presidente.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -581,7 +632,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -591,7 +643,8 @@
       "transcription": "Para encaminhar, não, falta Deputado Deputado Tarcísio Mota. Muito obrigado.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -603,7 +656,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -613,7 +667,8 @@
       "transcription": "Dos deputados. Peço atenção dos seus deputados e senhores deputados. Senhor presidente. Pois não, deputado. Nós estamos caminhando aqui uma.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -625,7 +680,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -635,7 +691,8 @@
       "transcription": "Ficam retirados",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -647,7 +704,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -658,7 +716,8 @@
       "summary": "Senador aprovou substitutivo, mas se reserva ao voto contrário sobre três aspectos destacados.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -670,7 +729,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -681,7 +741,8 @@
       "summary": "Senador propõe votação via aplicativo no Senado Federal sobre texto base de Lei de Diretrizes Orçamentárias, com partido Novo votando contra. Partidos MDB, PT, Podemos, União, PP, PSB, Republicanos, PDT, PSDB, e bancada feminina votando sim, com destaques salvos. Governo também orienta voto sim. Em votação nominal no Senado Federal.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -693,7 +754,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -703,7 +765,8 @@
       "transcription": "A presidente da comissão mista de orçamento, a senadora Daniela Ribeiro.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -714,7 +777,8 @@
       "summary": "Senadora agradece apoio na criação de programa para prevenir violência doméstica contra mulheres, alocando 315 milhões de reais. Reconhece contribuição de quatro mulheres e apoio de ministros e legisladores.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -725,7 +789,8 @@
       "summary": "Senador elogia trabalho da comissão, refere votação em andamento e cede a palavra ao Senador Rogério Marinho.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -736,7 +801,8 @@
       "summary": "Senador concorda em votar nominalmente as emendas 7 e 4, mantidas pelo autor, de forma simbólica e retirar a emenda 5, sem necessidade de intervalo.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -747,7 +813,8 @@
       "summary": "Senador propôs remoção de destaque 5, mantendo destaque 4 do projeto, sem necessidade de votação adicional; Mauro Benevides Filho recebeu a palavra.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -759,7 +826,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -769,7 +837,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -781,7 +850,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -791,7 +861,8 @@
       "transcription": "Primeiro eu queria cumprimentar e parabenizar o relatório do deputado Danilo Fortes. O deputado Danilo Fortes, senhor presidente, ele acolheu três ações inovadoras no seu resultado. O primeiro, ele trata de tema muito significativo que são as altas habilidades de superdotação. Ele tratou com muita maestria de acolher esse pacote antes que aconteça, senhor presidente. Mas eu queria registrar e dizer da importância da deputada Daniela Ribeiro como mulher, onde ela tem em casa, caso específico de filha de feminicídio, a nora dela que aos dez anos perdeu sua sua mãe por feminicídio, ter tido a coragem, o desprendimento e a oportunidade acima de tudo além da competência, de lançar pacote como esse. Deputado Cherini, quando a gente olha o orçamento para as. Quando a gente olha, senhor presidente, o orçamento parecia que a gente tinha trezentos e tantos milhões, mas foi preciso que a ministra do planejamento tirasse Bolsa Família, BPC que não tem a ver com política das mulheres. E, pasmem, nós tínhamos cento e poucos milhões e só esse projeto antes que aconteça, ele aloca mais de trezentos milhões. Não adianta de falar de prevenção ao feminicídio se o percurso não funcionar. É por isso presidente, Rodrigo Pacheco, quero agradecer a vossa excelência, pelo apoio à senadora Daniela como presidente mulher dessa comissão tão importante, mas acima de tudo, que também gastou energia pra apoiar esse movimento que precisa acabar no Brasil, não só a violência, mas acima de tudo, evitar o feminicídio, o feminicídio é o único crime evitável se o sistema funcionar, e esse pacote, vossa excelência que entende tanto da área criminal, sabe que é na prevenção que a gente evita. Então queria, gratidão em nome das mulheres desse país. Daniela Ribeiro, Danilo Fortes, a vossa excelência ao deputado Arthur Lira. Obrigado",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -802,7 +873,8 @@
       "summary": "Votação encerrada: 65 sim, 2 não, nenhuma abstenção; projeto aprovado; início da votação de destaques. Senador Eduardo Girão contra projeto; Senador Sid Gomes quer chamada; votação de destaque na emenda 14/PLN 4/2023, resolução de 2006; palavra concedida ao relator, Deputado Danilo Forte.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -814,7 +886,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -824,7 +897,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -835,7 +909,8 @@
       "summary": "Senador alerta sobre riscos de alto déficit fiscal proposto, questiona credibilidade do Governo e discute impactos negativos em gastos públicos e população vulnerable. Recomenda voto contra emenda por responsabilidade fiscal e interesse nacional. Dúvidas sobre divisão do país mencionadas.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -845,7 +920,8 @@
       "transcription": "Deputada Jandira Fegali, para encaminhar.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -857,7 +933,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -867,7 +944,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -879,7 +957,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -889,7 +968,8 @@
       "transcription": "Obrigado presidente",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -901,7 +981,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -912,7 +993,8 @@
       "summary": "Senador propõe votação sobre emenda, alguns deputados se manifestam a favor ou contra. Votação será nominal, acordo entre governo e oposição.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -924,7 +1006,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -935,7 +1018,8 @@
       "summary": "Senador anunciará encaminhamento a quatro deputados, seguido de voto nominal e opiniões no painel.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -947,7 +1031,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -958,7 +1043,8 @@
       "summary": "Senador anuncia votação nominal sobre emenda PL, votar sim é aprová-la, votar não rejeita-a e segue relator.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -970,7 +1056,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -981,7 +1068,8 @@
       "summary": "Senador propõe votação sobre Infoleg no Plenário e na plataforma do Infoleg para facilitar a orientação de parlamentares sobre o texto legislativo.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -991,7 +1079,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1003,7 +1092,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -1013,7 +1103,8 @@
       "transcription": "Essa é a emenda da essa é a emenda",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1025,7 +1116,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -1035,7 +1127,8 @@
       "transcription": "Pode, essa é a emenda que quer continuar fazendo a disputa duma suposta disputa ideológica na sociedade brasileira. Utilizar uma emenda dessa, na lei de diretrizes orçamentárias é uma vergonha. Na minha opinião senhor presidente, isso nem deveria ser admitida uma emenda totalmente fora do assunto que nós estamos discutindo. Então a posição da federação é não. Senhor presidente. Como orienta a União Brasil?",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1047,7 +1140,8 @@
       "speaker": {
         "id": 204450,
         "name": "Doutor Luizinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "doutor-luizinho"
       }
     },
     {
@@ -1057,7 +1151,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1068,7 +1163,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -1080,7 +1176,8 @@
       "speaker": {
         "id": 163321,
         "name": "Ronaldo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ronaldo-nogueira"
       }
     },
     {
@@ -1091,7 +1188,8 @@
       "summary": "Senador se refere a orientações de partidos políticos: Podemos, PSB, Avante, Solidariedade, PSOL-REDE e Federação pessoal REDE.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1103,7 +1201,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1113,7 +1212,8 @@
       "transcription": "Presidente, vai dar problema em casa, só pra clarear o painel. AA0 bloco",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1125,7 +1225,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1136,7 +1237,8 @@
       "summary": "Senador sugere como orientar maioria e minorias, destacando importância de diálogo e consenso.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1148,7 +1250,8 @@
       "speaker": {
         "id": 204450,
         "name": "Doutor Luizinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "doutor-luizinho"
       }
     },
     {
@@ -1160,7 +1263,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -1171,7 +1275,8 @@
       "summary": "Senador diz: Faltou milhão na liberação do bloco, aguardar líder ou vices, duas vices incluindo Pedro Lupião, sua orientação é voto sim.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1183,7 +1288,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1193,7 +1299,8 @@
       "transcription": "Como orienta o governo, deputado Bom Gás?",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1205,7 +1312,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -1215,7 +1323,8 @@
       "transcription": "Como orienta a maioria? Mas mas eu por último. Como orientar a minoria? Agora sim,",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1227,7 +1336,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -1237,7 +1347,8 @@
       "transcription": "Deputada Jandira. Doutor presidente.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1249,7 +1360,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -1259,7 +1371,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1271,7 +1384,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -1281,7 +1395,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1293,7 +1408,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -1304,7 +1420,8 @@
       "summary": "Senador propôs encerrar votação e pedir apuração no painel.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1315,7 +1432,8 @@
       "summary": "Trezentos e cinco votos sim, cento e quarenta e dois votos não, duas abstenções: emenda aprovada, votação agora no Senado Federal via aplicativo.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -1325,7 +1443,8 @@
       "transcription": "Para orientar as bancadas. Como orienta o",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1336,7 +1455,8 @@
       "summary": "Votação começou. \"Sim\" aprova emenda, como propôs PL. \"Não\" rejeita, seguindo relator. PSD, PL, MDB, PT e Podemos também seguem governo.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1347,7 +1467,8 @@
       "summary": "Emenda presidencial em debate é irreal, proibida por lei, deve ser rejeitada como tema na LDO; já proibida no ordenamento jurídico brasileiro.",
       "speaker": {
         "name": "Randolfe Rodrigues",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "randolfe-rodrigues"
       }
     },
     {
@@ -1358,7 +1479,8 @@
       "summary": "Senador sugere União Brasil segue orientação do PP, PSB e republicanos no Senado.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1369,7 +1491,8 @@
       "summary": "Senadora defende partido que ama crianças, propriedade privada e família, seguindo valores republicanos.",
       "speaker": {
         "name": "Damares Alves",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "damares-alves"
       }
     },
     {
@@ -1380,7 +1503,8 @@
       "summary": "Senador afirma que no Senado, PSDB orienta o voto sim e PSD orienta o voto não. Minoria orientada por líder oposicionista Rogério Marinho.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1391,7 +1515,8 @@
       "summary": "Senador concorda com posição da Câmara dos Deputados contra uso de recursos públicos para ações que atentam contra a propriedade e doutrinação em escolas, encoraja ratificação pela maioria popular.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -1402,7 +1527,8 @@
       "summary": "Senador propõe voto pela liderança do deputado Cabo Gilberto Silva, orientação de voto sim por parte do Senado Federal e PL, liderança Rogério Marinho também pela aprovação, deputado Cabo Gilberto Silva tem a palavra.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1414,7 +1540,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1424,7 +1551,8 @@
       "transcription": "Melhorei a sua Como orienta o MDB líder Eduardo Braga? Senhor Presidente, o MDB encaminha o voto não.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1435,7 +1563,8 @@
       "summary": "Senador propõe manter coerência com constitucionalidade da LDO, seguindo orientação do PP, conforme senadora Tereza Cristina.",
       "speaker": {
         "name": "Eduardo Braga",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "eduardo-braga"
       }
     },
     {
@@ -1446,7 +1575,8 @@
       "summary": "Senador afirma seguir orientações de partidos e destaca votação como educativa para a função de senador.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1457,7 +1587,8 @@
       "summary": "Senador propõe emenda para impedir financiamento de ações contra valores sociedades com dinheiro público, incentivando voto sim por direito à propriedade, vida e educação.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -1468,7 +1599,8 @@
       "summary": "Hoje é um grande dia para nossa nação. Não podemos permitir que dinheiro de impostos financie atos criminosos ou \"ideologia de gênero\". É inaceitável ceifar vidas de crianças e invadir propriedades rurais. Rejeitamos \"maluquices\" que ultrapassem o natural. Pedimos a aprovação do destaque 7 do Senador Altineu Cortez para trazer tranquilidade ao povo. Que Deus abençoe nosso país e livre-o dos comunistas.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1480,7 +1612,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1490,7 +1623,8 @@
       "transcription": "Deputado Gilson Daniel. Maurício do Couto. Senhor presidente.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1501,7 +1635,8 @@
       "summary": "Senador pede voto sim, é mineiro e referencia dificuldade de voto de outro senador.",
       "speaker": {
         "name": "Rogerio Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rogerio-marinho"
       }
     },
     {
@@ -1513,7 +1648,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -1524,7 +1660,8 @@
       "summary": "Senador pede votação se encerrar, dois senadores favoráveis a emenda, alguns ainda não votaram ou tiveram problemas no sistema. Novo senador aguarda votação concluída.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1536,7 +1673,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1547,7 +1685,8 @@
       "summary": "Senador apoia relator e recomenda voto contra projeto LDO.",
       "speaker": {
         "name": "Chico Rodrigues",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "chico-rodrigues"
       }
     },
     {
@@ -1558,7 +1697,8 @@
       "summary": "Senador mencionou reconhecimento a equipe de LDO, votação de PLNs e lei orçamentária na próxima quinta-feira, e promulgação da reforma tributária amanhã às 15h, pedindo presença de parlamentares.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1569,7 +1709,8 @@
       "summary": "Senadora aguarda voto de colegas, deputado Danilo Forte fala.",
       "speaker": {
         "name": "Zenaide Maia",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "zenaide-maia"
       }
     },
     {
@@ -1579,7 +1720,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1591,7 +1733,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -1602,7 +1745,8 @@
       "summary": "Senador está confirmando votação em andamento e que outro senador está participando dela.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -1613,7 +1757,8 @@
       "summary": "Votação aprovada na Câmara dos Deputados e no Senado para redação final do PLN 4/2023, agora passa à sanção. Sessão encerrada.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

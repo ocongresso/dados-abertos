@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     }
   ],

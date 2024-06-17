@@ -13,7 +13,8 @@
       "summary": "Bom dia. Lançamento da Frente Parlamentar em Defesa de Motoristas de Aplicativos (FPMA). Cerimônia transmitida ao vivo online. Deputado federal Eurico do PL abençoará evento. Espaço de fala para líderes inscritos; pré-inscrição necessária para falar.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": "Mestre de Cerimônias convidou deputados da Frente Parlamentar em Defesa de Motoristas de Aplicativos (FPMA) para compor mesa: Daniel Agrobom (autor/presidente), Gilvan Máximo (2º vice-presidente), Sonize Barbosa (coordenadora), Rafael (coordenador sul), Eurico (conselheiro), e Silvia Aipim. Pediu que todos os presentes se coloquem em posição de respeito para hino nacional, tocado pelo coral dos servidores da Câmara dos Deputados.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": "Criação de frente parlamentar para defender direitos de motoristas de aplicativos, promovendo políticas públicas justas e garantindo respeito e reconhecimento de suas contribuições econômicas. FPMA sediada em Brasília, liderada por Daniel Agrobon (PL-GO), auxiliada por conselho executivo e coordenações regionais, facilitando diálogo entre profissionais e empresas de mobilidade.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -78,7 +84,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -90,7 +97,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -114,7 +123,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -185,7 +200,8 @@
       "summary": "Motorista e presidente de associação agradecem e expressam gratidão a deputado e Frente Parlamentar por defender interesses dos motoristas, pedindo por melhor remuneração, autonomia e servir como voz no Congresso para evitar medidas prejudiciais.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -195,7 +211,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -216,7 +234,8 @@
       "transcription": "",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -227,7 +246,8 @@
       "summary": "Presidente da ASPATRANS sauda diretoria e associados, menciona líderes políticos e apoio deles, destaca importância de frente parlamentar para categoria, agradece deputado comprometido e sua equipe.",
       "speaker": {
         "name": "Beto Neves",
-        "position": "Presidente da ASPATRANS."
+        "position": "Presidente da ASPATRANS.",
+        "slug": "beto-neves"
       }
     },
     {
@@ -238,7 +258,8 @@
       "summary": "Mestre de Cerimônias: Membros do parlamento limitados a doze minutos de fala; convidado Eduardo Lima, presidente da AMASP.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -249,7 +270,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -260,7 +282,8 @@
       "summary": "Presidente da AMASP expressa identificação com trabalhadores por aplicativos, apoia frente parlamentar como meio de mudar opinião dos motoristas e oferecer soluções a seus problemas, elogia líder da frente.",
       "speaker": {
         "name": "Eduardo Lima",
-        "position": "Presidente da AMASP"
+        "position": "Presidente da AMASP",
+        "slug": "eduardo-lima"
       }
     },
     {
@@ -270,7 +293,8 @@
       "transcription": "",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -281,7 +305,8 @@
       "summary": "Presidente da COOPGO propõe justa remuneração para motoristas de aplicativo, considerando custo de quilômetro rodado e benefícios associados. Suporta frente parlamentar para ajudar motoristas e economia do país, incentivando cooperativismo como solução.",
       "speaker": {
         "name": "Marcelo Conrado",
-        "position": "Presidente da COOPGO"
+        "position": "Presidente da COOPGO",
+        "slug": "marcelo-conrado"
       }
     },
     {
@@ -291,7 +316,8 @@
       "transcription": "Convidamos agora o senhor Evandro Henrique, que é vicepresidente da Fembrap.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -302,7 +328,8 @@
       "summary": "Vice-Presidente da FEMBRAPP destacou importância de motoristas por aplicativos em regulamentação em discussão, cumprimentou deputado Daniel Grobon, mencionou lutas anteriores e emphasou a necessidade de discutir remuneração, segurança e previdência para motoristas. Ela parabenizou motoristas presentes, reconhecendo dificuldade de mobilizá-los, e encorajou valorização da frente como meio de discutir necessidades no Congresso Nacional.",
       "speaker": {
         "name": "Evandro Henrique",
-        "position": "Vice-Presidente da FEMBRAPP"
+        "position": "Vice-Presidente da FEMBRAPP",
+        "slug": "evandro-henrique"
       }
     },
     {
@@ -312,7 +339,8 @@
       "transcription": "E agora convidamos o ilustríssimo vereador Puranápolis, de Goiás, senhor João da Luz. Bom dia.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -323,7 +351,8 @@
       "summary": "Veriador por Anápolis - Goiás cumprimenta deputado e mesa diretora, elogia motoristas por aplicativo por ajudar na mobilidade urbana, destaca importância de regulamentação municipal por segurança, propõe parceria com frente parlamentar no município, incentiva motoristas a se unir e participar da frente parlamentar, e se inscreverão se permitido. Falou sobre importância de apoio do estado a trabalhadores em regulamentação e exploração, e deseja sorte a motoristas.",
       "speaker": {
         "name": "João Da Luz",
-        "position": "Veriador Por Anápolis – Goiás"
+        "position": "Veriador Por Anápolis – Goiás",
+        "slug": "joao-da-luz"
       }
     },
     {
@@ -333,7 +362,8 @@
       "transcription": "",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -344,7 +374,8 @@
       "summary": "Veriador por São Paulo elogia deputado Daniel Agrobon e frentista parlamentar por promoverem melhores condições e segurança para motoristas de aplicativos. Ele, como motorista e vereador, deseja melhores relações com plataformas e utilizar frente parlamentar para resolver problemas e beneficiar motoristas. Em São Paulo, existem apoio e leis municipais para motoristas. Veriador encoraja utilize frente parlamentar para aprimorar segurança e ganhos para motoristas.",
       "speaker": {
         "name": "Marlon Luz",
-        "position": "Veriador Por São Paulo"
+        "position": "Veriador Por São Paulo",
+        "slug": "marlon-luz"
       }
     },
     {
@@ -355,7 +386,8 @@
       "summary": "Mestre de Cerimônias convida líder da categoria, Manuel Scooby, do Distrito Federal.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -366,7 +398,8 @@
       "summary": "Líder categoria Distrito Federal: conduziu desde 2016, envolvido em lutas por segurança desde 2019, apoia frente parlamentar. Valoriza WhatsApp como única segurança. Agradecido por apoio deputados e líderes, incluindo Agrobão e veras. Quer salário justo, liberdade e respeito como motorista.",
       "speaker": {
         "name": "Manoel Scooby",
-        "position": "Importante Liderança da Categoria no Distrito Federal."
+        "position": "Importante Liderança da Categoria no Distrito Federal.",
+        "slug": "manoel-scooby"
       }
     },
     {
@@ -376,7 +409,8 @@
       "transcription": "Convidamos agora o senhor Denis Moura, diretor de comunicação da Fembrap.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     },
     {
@@ -387,7 +421,8 @@
       "summary": "Dircom FEMBRAPP foi motorista desde 2014, sofreu três banimentos e lutou por justiça. Ajudou a fundar primeira associação motoristas e FEMBRAPP. Em 2020, no encontro mundial de lideranças, Brasil se recusou a assimilar motorista a CLT. Motoristas desejam liberdade de escolha e independência. Exige-se atenção aos ganhos dos motoristas, que estão enfrentando dificuldades financeiras. Plataformas devem investir em segurança para motoristas.",
       "speaker": {
         "name": "Denis Moura",
-        "position": "Diretor de Comunicação da FEMBRAPP"
+        "position": "Diretor de Comunicação da FEMBRAPP",
+        "slug": "denis-moura"
       }
     },
     {
@@ -399,7 +434,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -410,7 +446,8 @@
       "summary": "Motorista por aplicativo alerta sobre pressão de exclusão e redução de ganhos. Compartilha histórias de pais de família que se suicidaram devido à pressão financeira e questiona como o governo pretende alicerçar o INSS a custa de prestadores de serviços por aplicativos. Hoje, trabalha mais horas por menos ganho.",
       "speaker": {
         "name": "Anderson Vieira da Silava",
-        "position": "Motorista por aplicativo"
+        "position": "Motorista por aplicativo",
+        "slug": "anderson-vieira-da-silava"
       }
     },
     {
@@ -421,7 +458,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -432,7 +470,8 @@
       "summary": "Motorista por aplicativo do Distrito Federal homenageia colegas que trabalharam durante pandemia, destaca carga tributária e falta de ajuda financeira. Sua situação é difícil.",
       "speaker": {
         "name": "Odilson Souza Braga",
-        "position": "Motorista por Aplicativo do Distrito Federal"
+        "position": "Motorista por Aplicativo do Distrito Federal",
+        "slug": "odilson-souza-braga"
       }
     },
     {
@@ -444,7 +483,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -455,7 +495,8 @@
       "summary": "Motorista por Aplicativo propõe: contrato direto com Uber e outras plataformas como MEI, evitando empresas terceirizadas.",
       "speaker": {
         "name": "Gleydson Veras",
-        "position": "Motorista por Aplicativo"
+        "position": "Motorista por Aplicativo",
+        "slug": "gleydson-veras"
       }
     },
     {
@@ -467,7 +508,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -478,7 +520,8 @@
       "summary": "Mestre de Cerimônias encerra solenidade e convida para foto comemorativa; pede aos presentes seguirem conta do Instagram da frente parlamentar: @fpmacamara.",
       "speaker": {
         "name": "Walter Sobrinho",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "walter-sobrinho"
       }
     }
   ],

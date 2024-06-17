@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Médica pesquisadora e professora da UFMG agradece oportunidade para falar, desejando saber sobre compartilhamento de tela ou slides.",
       "speaker": {
         "name": "Angélica Nogueira Rodrigues",
-        "position": "Médica pesquisadora e Professora da UFMG"
+        "position": "Médica pesquisadora e Professora da UFMG",
+        "slug": "angelica-nogueira-rodrigues"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Médica pesquisadora e Professora da UFMG falou sobre câncer de mama e importância de incorporar medicamentos que prolongam sobrevida de pacientes, alertando para possíveis conflitos de interesse.",
       "speaker": {
         "name": "Angélica Nogueira Rodrigues",
-        "position": "Médica pesquisadora e Professora da UFMG"
+        "position": "Médica pesquisadora e Professora da UFMG",
+        "slug": "angelica-nogueira-rodrigues"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Câncer de mama é o mais incidente em mulheres globalmente e no Brasil, com alta mortalidade e recidiva. A maioria das pacientes é diagnosticada com doença local ou avançada, requerendo tratamento ao longo da vida. Mulheres metastáticas têm baixo tempo de sobrevida, impactando sua qualidade de vida. Novos tratamentos hormonais aumentam sobrevida, mas ainda não estão amplamente disponíveis no SUS.",
       "speaker": {
         "name": "Angélica Nogueira Rodrigues",
-        "position": "Médica pesquisadora e Professora da UFMG"
+        "position": "Médica pesquisadora e Professora da UFMG",
+        "slug": "angelica-nogueira-rodrigues"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Membro do Comitê Especialista em Tumores Mamários - Sociedade Brasileira de Oncologia Clínica destaca desigualdades no acesso a medicamentos contra câncer de mama no SUS, apoia incorporação de tecnologias baseadas em evidências, propõe melhorias no acesso à saúde, e alerta por atrasos na oferta de medicamentos aprovados e aumento de casos avançados durante pandemia.",
       "speaker": {
         "name": "Laura Testa",
-        "position": "Membro do Comitê Especialista em Tumores Mamários - Sociedade Brasileira de Oncologia Clínica"
+        "position": "Membro do Comitê Especialista em Tumores Mamários - Sociedade Brasileira de Oncologia Clínica",
+        "slug": "laura-testa"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Fundadora e Presidente da Associação de Mulheres Mastectomizadas de Brasília - RECOMEÇAR agradece a presença dos parlamentares e representantes em audiência pública sobre o importante tema do câncer de mama, destacando a importância do diagnóstico precoce e celebra a deputada Silva Cristina como modelo da exposição Outubro Rosa, que completa 10 anos.",
       "speaker": {
         "name": "Joana Jeker dos Anjos",
-        "position": "Fundadora e Presidente - Associação de Mulheres Mastectomizadas de Brasília  - RECOMEÇAR"
+        "position": "Fundadora e Presidente - Associação de Mulheres Mastectomizadas de Brasília  - RECOMEÇAR",
+        "slug": "joana-jeker-dos-anjos"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Fundadora e Presidente da Associação de Mulheres Mastectomizadas de Brasília - RECOMEÇAR enfatiza importância de lei de 30 dias para início de tratamento contra câncer de mama, registro obrigatório do câncer, lei de reconstrução mamária e acesso oportuno a novos medicamentos contra câncer de mama no SUS.",
       "speaker": {
         "name": "Joana Jeker dos Anjos",
-        "position": "Fundadora e Presidente - Associação de Mulheres Mastectomizadas de Brasília  - RECOMEÇAR"
+        "position": "Fundadora e Presidente - Associação de Mulheres Mastectomizadas de Brasília  - RECOMEÇAR",
+        "slug": "joana-jeker-dos-anjos"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Presidente Silvia Cristina destacou a importância do acesso rápido e eficaz ao medicamento para mulheres com câncer de mama, usando o exemplo da paciente Cíntia. Ela propôs a criação de um grupo de trabalho entre ONGs e o Ministério da Saúde, para discutir avanços e desafios na melhoria do acesso ao tratamento inovador, comprometendo-se a contribuir para um SUS melhor.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Silvia Cristina -- por Participante -- Dr. Frederico",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-silvia-cristina-por-participante-dr-frederico"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Eu, Cinja Cerqueira, câncer metastático em mama, sistema nervoso central e ossos, uso medicamento que estabilizou lesões. Sem medicamento, morro. Lutei, quero viver, preciso do medicamento rapidamente para continuar vivendo. Tratamento é essencial, traz esperança. Peço às autoridades, especialmente à ministra de saúde, atenção e ação para nós, afetadas por câncer. Quero boa qualidade de vida enquanto vivo.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -175,7 +189,8 @@
       "transcription": "Eu me chamo Cinja Cerqueira, as meninas aqui me conhece. Eu tenho câncer metastártico, né? Mama, sistema nervoso central e ossos. A gente está falando aqui da minha vida, né? Eu estava com algumas lesões ósseas, eu tava com lesão na coluna, no fêmur, na medula óssea do fêmur, tava com lesão na lombar e eu fui apresentada pra esse medicamento e eu comecei a fazer uso dele. Em pouco tempo essas lesões elas estabilizaram, pararam crescer e não aparece mais na xilografia. Por conta do medicamento. Eu consegui esse medicamento judicialmente, só que mesmo com a decisão a gente já vê a morte. Quem o paciente que tem câncer metastático? Eu acordo de madrugada e venho aquilo, você vai morrer. Se eu não tiver esse medicamento, eu vou morrer, eu vou entrar que nem pra essas pra essas mulheres que vão morrer. Eu tô com uma amiga minha que faleceu essa semana porque não tinha medicamento. Então assim, não, a gente não tá aqui lutando só só pra pra que tenham medicamento, nós nós estamos lutando pela nossa vida. Eu sei o que que é fazer craniatomia, eu já fiz três, eu já fiz quatorze radiocirurgia, eu já fiz cirurgia de mama, já corri pra tudo como é campo, porque eu quero viver. Eu já estive na cadeira de roda, já não dei de cadeira de roda, as meninas a quem sabe, elas me empurrando atrás de medicamento pra mim. Então assim, eu preciso que esse medicamento venha o mais rápido possível pra mim continuar vivendo. Então assim, é difícil, não é fácil, não é fácil ter a doença e também não é fácil não ter o tratamento. Acho que é mais difícil você não ter o tratamento do que ter a doença. Porque quando você tem a doença e você sabe que tem tratamento você confia que que vai tudo vai resolver. A partir do momento que você tem a doença e que você sabe que tem tratamento e sabe que você não tem acesso a esse tratamento, não é como se tivesse cortando a sua esperança. Então assim, não tem como você ter uma esperança se você não se aquilo não vai chegar nas suas mãos. Então assim, eu eu peço pra que as autoridades, que a ministra e da saúde que ela olhe pra gente, mas ela olhe com olhar de amor porque não é fácil. A gente está falando aqui da minha vida, da vida de outras mulheres. Sou eu que levanto todos os dias e falo senhor me dá força, porque eu com remédio está aqui as meninas sabe, eu com remédio eu tenho andado, eu saio, eu consigo trabalhar dentro de casa, tinha quanto tempo que eu não conseguia varrer uma casa? Eu quando comecei a tomar remédio eu consegui fazer coisas que qualquer mulher faz. E agora eu estou de novo, eu tenho uma semana que eu já fui pro hospital, essa semana eu fui pro hospital segunda, eu fui pro prontosocorro na terça, eu fui pro prontosocorro na quarta, então isso não é fácil. Então eu preciso que que que chegue esse medicamento eu preciso que as pessoas que que que têm acesso, que pode fazer alguma coisa por mim, pelas outras mulheres passam. Tá? Porque se eu viver mês, se eu viver ano, mas eu quero viver bem. Se eu conseguir viver o que eu falo assim não importa o tempo que eu vivo e ver. Mas eu quero se for dia, mas eu quero esse dia bem. Eu quero uma qualidade de vida, eu quero poder levantar da minha cama e fazer uma coisa simples, eu quero poder sair, eu quero poder ir num parque às vezes não faz uns passeios, muitas vezes eu não vou porque eu não dou conta. Então assim, e com medicamento eu dou conta. Então eu preciso, ministra da saúde, eu vou vou falar aqui diretamente pra você, eu preciso desse medicamento, eu preciso continuar vivendo, eu estou falando da minha vida e da vida de outras mulheres.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -246,7 +266,8 @@
       "summary": "Presidente da ONCOGUIA destacou importância da voz da paciente com câncer de mama e compromisso da instituição em guiar, fortalecer, e encorajar pessoas impactadas por câncer, além de buscar políticas públicas efetivas, sustentáveis e justas no cenário oncológico. Hoje, convivimos com a dor relacionada ao câncer.",
       "speaker": {
         "name": "Luciana Holtz",
-        "position": "Presidente - ONCOGUIA"
+        "position": "Presidente - ONCOGUIA",
+        "slug": "luciana-holtz"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Esperança oncologia tratamentos eficazes; paciente Cíntia espera acesso tratamento; demora na compra tecnologias Conitec; enviaram ofício à ministra saúde por resposta urgente; garantir tratamentos eficazes pacientes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dr. Frederico -- por Participante -- Eduardo Velloso",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dr-frederico-por-participante-eduardo-velloso"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -280,7 +303,8 @@
       "summary": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde fala sobre importância do acesso a tecnologia e medicamentos contra câncer no SUS, clarificando que sua área é técnica, não responsável por alocação orçamentária ou compra de medicamentos.",
       "speaker": {
         "name": "Fernando Henrique de Albuquerque Maia",
-        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde"
+        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde",
+        "slug": "fernando-henrique-de-albuquerque-maia"
       }
     },
     {
@@ -291,7 +315,8 @@
       "summary": "Secretaria Educação Especializada: fragilidades na aplicação da Contex, necessita claridade em processos, orçamento para incorporações, normatizar oferta de medicamentos contra câncer de mama. Coordenação técnica definindo procedimentos, espera definição orçamentária para inibidores de ciclina e PCDT de mama. Priorizando tratamento garantido para paciente, independentemente de compra ou distribuição.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Eduardo Velloso -- por Participante -- Silvia Cristina",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-eduardo-velloso-por-participante-silvia-cristina"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -314,7 +340,8 @@
       "summary": "Compra de medicamentos centralizada é do Departamento de Assistência Farmacêutica no Ministério da Saúde. Distribuição regularizada, mas informação mais precisa só pode ser fornecida pela equipe do DARF e DELOG. Possível contato futuro para resposta mais formalizada.",
       "speaker": {
         "name": "Fernando Henrique de Albuquerque Maia",
-        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde"
+        "position": "Coordenador-Geral da Política Nacional de Prevenção e Controle do Câncer - Ministério da Saúde",
+        "slug": "fernando-henrique-de-albuquerque-maia"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     }
   ],

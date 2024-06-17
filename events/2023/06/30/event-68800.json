@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Deputado promete defender Constituição, obedecer leis e servir interesses do povo brasileiro. Toma posse como senadora Priscila Costa.",
       "speaker": {
         "name": "Priscila Bezerra Da Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "priscila-bezerra-da-costa"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Deputada amplamente cumprimentada, agradece a Deus e eleitorado cearense que a confiou para defender vida, liberdade, infância e família. Inspirada por seu esposo e pais, visa desafiar angústias nacionais com esperança em Jesus Cristo, seu rei e senhor.",
       "speaker": {
         "name": "Priscila Bezerra Da Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "priscila-bezerra-da-costa"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -84,7 +90,8 @@
       "transcription": "Nós vamos então.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sóstenes Cavalcante -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sostenes-cavalcante-por-participante-erika-kokay"
       }
     },
     {
@@ -94,7 +101,8 @@
       "transcription": "Início.",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -116,7 +125,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -126,7 +136,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -148,7 +160,8 @@
       "summary": "Cheguei a Vila Planalto aos 20, construí minha vida aqui. Sou Méier Lê Araújo, nasci em Penedo, Alagoas. Moro aqui 62 anos, cheguei em 57, difícil encontrar lugar para morar. Inicié trabalhando na Nova CAP, hoje quero mais atenção do poder público para preservar Vila Planalto, lamentando deterioração e perda de históricas casas.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -158,7 +171,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": "Discurso do Presidente do Instituto Espinhaço sobre Brasília e Vila Planalto:",
       "speaker": {
         "name": "LUIZ CLÁUDIO OLIVEIRA",
-        "position": "Presidente do Instituto Espinhaço"
+        "position": "Presidente do Instituto Espinhaço",
+        "slug": "luiz-claudio-oliveira"
       }
     },
     {
@@ -193,7 +209,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -204,7 +221,8 @@
       "summary": "Professor Emérito da Universidade de Brasília lembrou a construção do Palácio da Alvorada, Hotel Brasília Palace e Palácio do Planalto antes do Plano Piloto, homenageou Gladiu e outros envolvidos na criação de Brasília, destacou importância de preservar patrimônio histórico, incluindo Vila Planalto, Vila Metropolitana e outros exemplos, e defendeu políticas de preservação em vez de atitudes isoladas.",
       "speaker": {
         "name": "JOSÉ CARLOS COUTINHO",
-        "position": "Professor Emérito da Universidade de Brasília"
+        "position": "Professor Emérito da Universidade de Brasília",
+        "slug": "jose-carlos-coutinho"
       }
     },
     {
@@ -216,7 +234,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -227,7 +246,8 @@
       "summary": "Cineasta e documentarista homenageia pioneiros de Brasília, especialmente aqueles que sofreram durante sua construção. Lamenta crescente desigualdade e favelização na cidade, e reflete sobre seu filme de 19 anos sobre o assunto, realizado durante a ditadura militar. Expressa emoção por estar diante de um público infantil, vendo nele o futuro do Brasil.",
       "speaker": {
         "name": "VLADIMIR CARVALHO",
-        "position": "Cineasta e documentarista"
+        "position": "Cineasta e documentarista",
+        "slug": "vladimir-carvalho"
       }
     },
     {
@@ -239,7 +259,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -250,7 +271,8 @@
       "summary": "Professora adjunta de Sociologia do Instituto de Ciências Sociais-CS da Universidade de Brasília homenageia lutas e resistência na construção de Brasília, destacando importância da Vila Planalto, história viva e memória. Menciona massacre de trabalhadores da construção civil e contribuições de personalidades como Aldo Paviani, Vladimir Carvalho e Léliane Rebouças. Elogia inclusão de mulheres e novas gerações na história oficial da cidade.",
       "speaker": {
         "name": "CHRISTIANE MACHADO COÊLHO",
-        "position": "Professora Adjunta do Departamento de Sociologia do Instituto de Ciências Sociais - CS da Universidade de Brasília-UnB"
+        "position": "Professora Adjunta do Departamento de Sociologia do Instituto de Ciências Sociais - CS da Universidade de Brasília-UnB",
+        "slug": "christiane-machado-coelho"
       }
     },
     {
@@ -262,7 +284,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -273,7 +296,8 @@
       "summary": "Presidente do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN agradece oportunidade de se dirigir a estudantes, explica a importância de conhecer quem construiu Brasília, patrimônio mundial, e o dever de preservar o patrimônio, começando pelo reconhecimento de sua importância.",
       "speaker": {
         "name": "LEANDRO GRASS",
-        "position": "Presidente do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN"
+        "position": "Presidente do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN",
+        "slug": "leandro-grass"
       }
     },
     {
@@ -285,7 +309,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -297,7 +322,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -309,7 +335,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -320,7 +347,8 @@
       "summary": "Escritora homenageia Vila Planalto e pioneiros de Brasília, lamentando falta de reconhecimento pela maioria dos brasileiros. Ela criticou atos de vandalismo e destruição do patrimônio, incentivando a preservação e conhecimento do passado para construir futuro. Ela destacou a diversidade cultural da vila, importante para o Brasil, e expressou sua gratidão pela visibilidade dada à história dos candangos.",
       "speaker": {
         "name": "LEILIANE REBOUÇAS",
-        "position": "Escritora"
+        "position": "Escritora",
+        "slug": "leiliane-reboucas"
       }
     },
     {
@@ -332,7 +360,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     }
   ],

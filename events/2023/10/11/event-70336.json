@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônia anuncia lançamento da Frente Parlamentar Mista da Mulher Catadora, com objetivo de dar voz e representatividade às mulheres recicladoras no Congresso Nacional. Presentes autoridades e deputados Flávia Moraes e Marangoni, que farão discursos de abertura. Transmissão disponível posteriormente.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": "Mestre de Cerimônia apresenta deputado Marangoni, presidente de três frentes parlamentares relacionadas a regularização fundiária, habitação, meio ambiente e saneamento básico.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -58,7 +62,8 @@
       "transcription": "",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -81,7 +87,8 @@
       "summary": "Mestre de Cerimônia registra alterações na cerimonial, corrige nome da presidência da cooperativa, salva presença de Bruno Calado do INESFA e Marta do instituto giro EAA, convida mulheres catadoras a sentarem em primeiro lugares, e cede o microfone a Adalberto Maluf, secretário nacional de meio ambiente do Ministério do Meio Ambiente e Mudança do Clima.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": "Secretário Nacional de Meio Ambiente e Qualidade Ambiental fala sobre reciclagem e catadores; aprovação de decreto de pagamento por serviço ambiental iminente; cooperativas de catadores devem receber maior parte do valor do reciclado; necessidade de melhorias tributárias e na regulamentação de plástico.",
       "speaker": {
         "name": "ADALBERTO FELÍCIO MALUF",
-        "position": "Secretário Nacional de Meio Ambiente Urbano e Qualidade Ambiental"
+        "position": "Secretário Nacional de Meio Ambiente Urbano e Qualidade Ambiental",
+        "slug": "adalberto-felicio-maluf"
       }
     },
     {
@@ -103,7 +111,8 @@
       "summary": "Mestra de Cerimônia agradeceu Cris, mencionou os esforços dela e de Kit, pediu aos donos de bolsas nas cadeiras que as retirassem, mencionou convidados presentes e anunciou que Cris falará sobre o trabalho da frente parlamentar em grupos de trabalho com parceria da indústria, Executivo e Legislativo.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -113,7 +122,8 @@
       "transcription": "",
       "speaker": {
         "name": "LUCAS RAMALHO MACIEL",
-        "position": "Diretor de Novas Economias da Secretaria de Economia Verde, Descarbonização e Bioindústria"
+        "position": "Diretor de Novas Economias da Secretaria de Economia Verde, Descarbonização e Bioindústria",
+        "slug": "lucas-ramalho-maciel"
       }
     },
     {
@@ -124,7 +134,8 @@
       "summary": "Mestre de Cerimônia destacou equipe que a ajudou a se tornar deputada mais atuante do Brasil, com mais de 1.096 propostas legislativas em 9 meses. Ela enfatizou a importância de reuniões regulares com agenda legislativa concreta e traduzir ideias em processos legislativos. Ela homenageou o ex-presidente da Câmara, Ulisses Guimarães, por sua contribuição para a Constituição de 1988 e garantiu que seu gabinete está à disposição dos participantes para trabalhar juntos.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": "Catadora Solo, em discurso: honra estar aqui, representa catadoras Cudeúva, mãe catadora, trabalham em lixões e rua, lutam por valorização, reciclagem difícil, falta de aterro, mulheres vulneráveis, mães, constante luta, histórico marco.",
       "speaker": {
         "name": "RENILDA AGUIAR",
-        "position": "Catadora Solo"
+        "position": "Catadora Solo",
+        "slug": "renilda-aguiar"
       }
     },
     {
@@ -146,7 +158,8 @@
       "summary": "Mestra de Cerimônia ressaltou equipe atuante, importância de reuniões efetivas com planos de trabalho concretos, homenageou Ulisses Guimarães e constituição de 1988, ofereceu gabinete como oficina para trabalho conjunto.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -156,7 +169,8 @@
       "transcription": "Bom dia a todas, a todos. É prazer enorme também estar aqui, trazendo fazendo espaço de fala tão importante como esse dia de hoje que vai ser lembrado muito por nós. Quero aqui me apresentar primeiramente a gente cumprimentar a mesa, meu nome é Aline Souza, eu sou catadora de matriz recicláveis, sou a terceira geração de catadora na minha família. A minha mãe, a minha avó e o meu falecido pai, todos nós somos catadores. A minha história na catação ela vem através da coragem, resiliência e resistência de uma garotinha que é a minha irmã Jaqueline Souza, que através da sua coragem, ela estimulou a os catadores autônomos da nossa ocupação, em dois mil e oito, a se organizarem como cooperativa. E daí saiu a nossa cooperativa, a Reciclo. Pra quem disse que eu não sou catadora está aqui olha, a minha cooperativa já tem dezessete anos. Então, a minha história ela vem disso, ela vem da raiz, a minha mãe e a minha voz são catadoras E é pensando justamente em quebrar paradigmas, em buscar melhorias pra realidade de vida delas, e que representam a maioria nesse país da nossa categoria, é que eu tenho coragem de estar aqui agora utilizando o microfone pra falar. E todas nós precisamos falar. Então eu tenho sete filhos, como os muitas sabem, são uma escadinha. E eu sei que não vão perguntar, mas antes que perguntem são todas todos do mesmo pai. A gente que a gente quer periférica, mulher negra, as pessoas logo pergunta quando você fala a quantidade de filhos se são todos o mesmo pai. Eu sei que vocês não iam me perguntar isso, mas eu falei. Eu sou casada, meu esposo é catador autônomo, ele estimulei ele a criar a primeira cooperativa de catadores de rua, que chama se chama Cooper livre. É a segunda cooperativa criada na ocupação onde eu morei por dez anos. Catadores autônomos também podem criar cooperativas e continuar Rosimeire, da Cooperativa Recicla Mais. Alessandra, a Riva que está aqui junto, as catadoras da Planalto Cooperativa de Verdinho Raimunda e as meninas, cooperativa de Sobradinho, as catadoras da Cortrap aqui de azulzinho, está aí a parte as meninas, as catadoras aqui também do, está aqui, a Luciana perdeu perdeu entrou no trânsito no engarrafamento conseguiu chegar mas está aqui, A Recicilia Vida está aqui Claudinha, com Mônica e as as garotas estão aqui também. Que é a Cris. A Cris, na minha fala, antes de cumprimentar a mesa porque eu queria, se não vou esquecer, queria que vocês dessem uma salva de palma pra Cris e pedia pra Cris levantar, por favor. Vocês não sabem, mas a Cris foi ela que pegou o processo, da frente, e foi de porta em porta nos gabinetes pedir a assinatura para lançamento da frente para a criação da frente. Obrigado Cris. E o que é que eu quero dizer com isso e vou dizer depois que eu tenho que cumprimentar mesmo pra seguir os protocolo, quero também aqui cumprimentar minhas companheiras, a Rê, a Mara minha companheira de muitos anos, deputados, secretário, Mdique, Lucas, Sissi que está aqui também, as nossas parceiros, os parceiros aqui de logística reversa, cumprimentar também aqui a doutora Luciana, né, também teve papel fundamental, mas eu quero dizer pra vocês, que, se a reciclagem tem cor e gênero, porque nós somos a maioria as pretas e somos mulheres numa categoria tão importante pro nosso país, por que que a gente não é protagonista do nosso da nossa própria história? Nós precisamos fazer reflexão internas pra nós mesmas. Preto fala pra preto, preto sabe qual são suas dores, eu não estou fazendo aqui deste chão deste chão de cor, mas eu estou dizendo que se somos a maioria, nós temos que ser protagonista da nossa história, é nós que temos que falar, é nós que temos que estar aqui. Então eu quero frisar, na criação dessa frente agora no lançamento, que é uma vitória, o protagonismo nosso, das catadoras, né Mônica? Precisamos ser protagonista de toda e qualquer iniciativa que partir em qualquer esferas, o protagonismo nosso, descartadoras, Cris, por isso que eu fiquei feliz, você ficou tempão atrás de mim, você vai você precisa ir e é isso, sim, eu estou aqui, em nome das catadoras lideranças que são mais de cinquenta no país, do movimento nacional de catadores e catadoras. Em especial específico, da mulher e juventude da Unicatadores, que é a qual eu coordeno junto com outras mulheres. Nós estamos aqui pra somar, nós não estamos aqui pra dividir e foram essas mulheres que me permitiram hoje estar aqui, Era uma decisão é coletiva, quando a gente fala de protagonismo é isso, é a gente que decide, é a gente que discute, tudo é participativo, tudo é coletivo. Então, queria frisar essa parte do protagonismo, não deixaremos o protagonismo de lado, porque é por isso que a gente tem medo e a gente recua de não falar as nossas dores A dor está na gente, a dor não está nas nas outras pessoas, a realidade está com a gente, a gente tem que passar esse recado por nossa própria voz, os espaços de fala e de de decisão, os espaços de decisão e poder, eles são importante porque faz parte do nosso crescimento. Nada se constrói com segundo interlocutor de forma protagonista, então é isso que eu queria colocar essa fala. E quero parabenizar todas catadoras que saíram dos seus estados, né, dessas cooperativas e vieram aqui nessa manhã participar desse momento histórico que é o lançamento da Frente. Eu também quero começar a falar sobre o papel da Frente. A gente queria estar muito junto batendo também de porta em porta, né? Eu sei que as pessoas passaram a me conhecer muito mais depois do dia primeiro, depois que a gente de impulsou o presidente, mas eu já existo desde quatorze ano, já estou lutando já há onze anos só na SenteCop, que é a nossa central de cooperativas aqui em Brasília. E eu sempre estive nessa aqui na casa. A Leila também faz parte da frente, é o grande parceira, está lá fazendo muito investimentos lá na Recicria Vida, nas cooperativas também já fez. Então é é importante a gente agora estar em sintonia em sinergia, não existe divergência, existe mais convergência, os nossos problemas eles são os mesmos, só muda de endereço. A demanda que eu tenho de de que eu do meus filhos está em creche, eu acredito que seja da grande maioria das catadoras também que seus filhos estejam em creches. A demanda que eu tenho é do meus filhos jovens, o mais velho que completou dezesseis anos, está no primeiro emprego como já vai aprendiz, acredito que também tem muitas mulheres catadoras que têm jovens enquanto está trabalhando quer que seu filho esteja no primeiro emprego ou num curso se qualificando. Porque nem todas infelizmente eu tenho orgulho de sei de falar que sou catadora, tenho orgulho, mas a realidade das catadoras e dos catadores nesse país não nos dá orgulho pra gente querer que nossos filhos sejam como a gente, tinha que ser outra realidade. Eu quero que o meu filho ele volte pro segmento da ele entra no segmento da catação como doutor, como engenheiro, como advogado, administrador e eu sei que é isso que vocês querem também pro filho de vocês. Eu sei que a a demanda que eu tenho hoje, porque a gente trabalha com quarto turno, né? Só quem é liderança catadora, é mãe, é esposa, sabe que de vinte e quatro horas é pouco pra nós, então eu sei que a nossa demanda da saúde também é é é muito grande. Então a demanda que eu tenho de hoje não conseguir a cada seis meses procurar uma atendimento ginecológico, eu sei que muitas catadoras no país também não tem. Então eu sei que a pauta da saúde também ela é o que nos une. Eu queria também trazer que o papel da frente é papel, tem papel fundamental importantíssimo principalmente se tratando do da conjuntura atual. A gente precisa ser instrumento de ajudar o executivo a implementar políticas públicas de verdade pra que mude a realidade dos catadores. A gente não pode avançar quatro anos e retroceder seis. A gente é uma a gente é parte de uma política pública, aqui não é, não tem partidarismo aqui, nós somos parte de uma política pública precisamos da implementação da política pública para que a reciclagem cresça, para que as cooperativas cresçam, para que as mulheres sejam respeitadas como catadoras como profissionais, então a gente precisa que as pessoas que são eleita pelo povo comecem a ver a gente não como bandeira política, mas como trabalhador e trabalhadora, que é isso que nós somos. Então a frente tem esse papel, a frente vai ter esse papel de ajudar nas nas nas iniciativas do Ministério do Meio Ambiente, nas iniciativas do Ministério da Indústria e Comércio, nas iniciativas da do Ministério das Mulheres, nas iniciativas do Ministério da Igualdade Racial, nas iniciativas do Ministério da Saúde, do MDS, de todos os Ministério porque a nossa pauta é transversal. Então precisamos unir também as esferas de governo para que a coisa aconteça. Precisa de união das esferas para que as políticas públicas aconteçam. E aí eu quero trazer que o papel da frente é esse. Iremos sim criar uma agenda, viu doutora? Quero propor uma agenda da frente para que os os grupos organizados das mulheres catadoras e também que traga as catadoras autônomas porque eu acho que elas têm que estar aqui sim acham, tenho toda a certeza. Elas têm que estar aqui as catadoras autônomas né Rê? Por favor. Porque elas também são que nem nós e têm demandas também e muito piores porque estão sendo devastadas pela crueldade da falta de consciência de muitos governantes de achar que é problema de higienização e sai enterrando e acabando com tudo pra mostrar uma cidade limpa. Catador de rua também é gente, precisa ser respeitado também. Não é limpar a cidade e achar que já resolveu o problema. Eu morei durante dez anos numa ocupação pra quem me conhece e durante foram dez anos sendo derrubado o nosso barraco. Durou dez anos pra vim à política pública habitacional e dar a nossa casa própria e não é dar, no artigo quinto da constituição federal fala que eu tenho direito à educação, moradia, saúde, então não é dado? É direito? Direito não se negocia, direito se cumpre, a partir do que eu nasci eu tenho direito. Então é isso, então a eu queria muito pedir para AAA articulação pras catadoras de rua estarem aqui, mas que o papel da frente tem que ser isso, criar uma agenda para que hoje não saia só fotos, só vídeos, né, alegrias, mas que também sai uma agenda positiva, uma agenda transversal que traga a questão da saúde, a questão da educação, a questão da demanda de creches, a questão do da moradia, a questão das condições de trabalho, a questões da violência contra as mulheres, a questão do mercado da reciclagem, tem várias frentes aqui que o próprio Carlos Gomes que também faz parte aqui está tocando, que é a frente dada fortalecimento da cadeia produtiva, tem a frente do Vinicius de Carvalho que é da frente dos da reciclagem, dos recicladores, tem várias frentes, a gente precisa dialogar com essas frentes e fazer o recorte sobre o que de fato vai agregar pros catadores. Vamos focar nisso? Hoje a pauta principal é o mercado. Não adianta querer que a gente sente aqui e saia uma hora do nosso trabalho e vem pra cá, se quando a gente voltar vai ter garantia de renda porque o mercado da reciclagem está em colapso. O mercado da reciclagem está em colapso, o papelão que essa pandemia estava trinta e cinco centavo, na pandemia foi pra real e sessenta. Hoje, tem gente que nem quer comprar papelão está tudo na rua aí querendo doar papelão, papelão aqui em Brasília está trinta centavo. Muito pior do que antes da da pandemia. Essas coisas têm que discutir porque as mulher pra estar sentada aqui ela tem que ter garantia de renda. Como que nós vamos lutar sem grana? E nossos filho? E o boleto não deixa de chegar no final do mês não. Muitas pagam aluguel, muitas pata têm que pagar água, energia, ter serviço essencial. Então tem que discutir sim o mercado da reciclagem pra dar garantia pra elas estarem tranquilas aqui buscando a inclusão em políticas públicas, e é pensar na renda, é pensar na prestação de serviço, é pensar no trabalho com o Adalberto, que eu queria também salva de palma pro Adalberto, porque ele chegou chegando, ele chegou falando, Aline, e aí, o que está acontecendo? Várias reuniões eu tive com ele, falando a primeira ação dele foi o 0 Psal, ele falou aí que já está lá pra casa civil, tomara que saia logo. O Psal, pagamento de serviços ambientais, de bucho vazio, gente, nosso cérebro não pensa. E ele e por isso que eu pedi palmas pra ele pra parabenizar disso, nisso. Eu não vou me alongar muito porque eu quero muito ouvir a Mara, a Mara é minha querida, mas eu quero falar da PEC trezentos e nove. Trezentos e nove. A PEC trezentos e nove é projeto que tramita que desde dois mil e treze, eu acho que deve já até já ter educado, eu não entendo muito desses negócios, mas ela está tramitando desde dois mil e treze, que é a PECTRAS e não pra quem não sabe, é pra falar isso que o Adalberto falou comparando as cooperativas agrícolas com as Cooperativas de Escradium, que é o INSS, gente. Poxa, eu eu tive bebê sete vezes, quantas licença maternidade eu tirei? No dia seguinte, no dia que eu estava ganhando menino o celular estava tocando pra resolver BO, no se em dez dias depois eu tinha que voltar pra cooperativa. Que direito, que direito que uma mulher catadora, que faz bem tão importante e essencial pra sociedade tem, que nem licençamaternidade ela pode ter? A gente cuida da saúde das pessoas, da sociedade e a nossa saúde ninguém cuida? Então trezentos e nove ela fala que reconhece os catadores e catadoras como segurado especial, com regime familiar e ela pede a o diminuição da alíquota de de de contribuição. Ela pede que a gente tenha o mesmo direito que os as pescadores que está lá na Constituição, só pra incluir lá na Constituição catadores, a gente gera muito mais riquezas pro nosso país, muito mais riqueza em questão de grana, de bilhões que é movimentado através da do início da cadeia que é a gente, do que qualquer outro tipo de dano. Então é isso, discutir a PEC, discutir investimentos pras cooperativas de catadores porque se sem a Maurição catadores estão lá, precisa de ter galpão, de com condições digna, precisa de ter investimento pra maquinário, precisa comprar caminhões, estamos entrando aí na seara da prestação de serviço da coleta seletiva, Brasília já está quase cem por cento com cooperativa, mas os caminhões quem teve que comprar fomos nós, fomos nós que fomos lá na concessionária na NASA, na Volks, e endividamos, compramos dois milhões de caminhão, pra quê? Pra entregar o serviço de qualidade pra sociedade e a gente precisa ser o serviço essencial, no mínimo tinha que ter caminhão, cada cooperativa tem que ter o kit de prestação de serviço, caminhão, equipamento, tudo, porque a gente está prestando serviço para a sociedade ainda nem recebe por isso direito, mal, mal paga equipe. Então, é isso, eu não quero me alongar mais, pedir obrigado e quero fazer uma provocação, ano que vem a eleição, né, depois dois mil e vinte e seis é a nossa. Então, quer dizer o seguinte, a gente fala é muito muito falar de poder de fala, espaço de fala, mas até quando vocês querem ficar desse lado aí? Até quando vocês querem ficar desse lado daí? Mulheres, se nós somos a maioria, se nós somos a maioria e somos pretas e ainda temos, né, privilégios ainda, né, por ser preta, Por que não estamos aqui na casa? Porque a catadora ainda tem que se reportar a outro outro parceiro parlamentar pra falar nossas dores, pra levar nossa pauta. Chega, chega, vamos votar em nós mesmas. Vamos votar em catadoras, vamos votar em catadores, vamos ocupar o legislativo, sim. Isso essa história tem que acabar, paradigmas tem que ser quebrados. E a gente vai estar aqui somando com os parceiros, Tá? Então era isso obrigado.",
       "speaker": {
         "name": "ALINE SOUZA",
-        "position": "Catadora"
+        "position": "Catadora",
+        "slug": "aline-souza"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Mestre de Cêrmonia agradeceu presença da Cris e reconheceu sua luta pela legitimação da frente; mencionou a representação da maioria de catadoras de recicláveis sendo mulheres; pediu a quem tivesse bolsa nas cadeiras que a retirasse para os convidados de pé se sentarem; registrou presenças de representantes de UNIP, Unicamp, e do chefe de gabinete de Carlos Gomes; anunciou que Cris faria um discurso sobre a frente parlamentar e a participação de indústria, Executivo, e Legislativo.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -178,7 +193,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -189,7 +205,8 @@
       "summary": "Presidente da Cooperativa Amantes da Natureza expressa gratidão a mulheres que sustentam cooperativa; criticando Falta de representação e exploração de mulheres negras no Brasil, pede respeito e políticas a favor delas.",
       "speaker": {
         "name": "MARA LUCIA SOBRAL SANTOS",
-        "position": "Presidente da Cooperativa Amantes da Natureza"
+        "position": "Presidente da Cooperativa Amantes da Natureza",
+        "slug": "mara-lucia-sobral-santos"
       }
     },
     {
@@ -200,7 +217,8 @@
       "summary": "Mestre de Cerimônia destacou equipe que a ajudou a ser deputada mais atuante do Brasil, com mil noventa e seis propostas legislativas em nove meses. emphasis on regular meetings and concrete legislative agenda. Mencionou a importância da Frente Parlamentar e sua disposição a ajudar. Homenageou o ex-presidente da Câmara, Ulisses Guimarães, e os direitos sociais garantidos na constituição de 1988.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -211,7 +229,8 @@
       "summary": "Presidente da Cooperativa Amantes da Natureza agradece participação de mulheres haitianas e representantes, destacando a luta contra o trabalho análogo escravo das suas catadoras de lixo.",
       "speaker": {
         "name": "MARA LUCIA SOBRAL SANTOS",
-        "position": "Presidente da Cooperativa Amantes da Natureza"
+        "position": "Presidente da Cooperativa Amantes da Natureza",
+        "slug": "mara-lucia-sobral-santos"
       }
     },
     {
@@ -222,7 +241,8 @@
       "summary": "Mestre de Cerimônia agradece participantes e deputada Flávia por facilitar reunião. Dada a hora avançada, pede à Cris falar para encerrar, pois há café waiting. Menção à Frente Parlamentar, coordenadora Flávia, subcoordenadora senadora Leila, e representantes da Secretaria das Mulheres Catadoras. Cris tomará a palavra.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -233,7 +253,8 @@
       "summary": "Catadora agradece a Deus e a apoio de políticos para sua causa. Propõe construção de políticas públicas, voz no Parlamento, e grupos temáticos para abordar saúde, comercialização e tributação. Pediu apoio da Câmara Federal e Senado para revisar proposta de lei e garantir benfeitoria a catadores no futuro.",
       "speaker": {
         "name": "CRIS",
-        "position": "Catadora"
+        "position": "Catadora",
+        "slug": "cris"
       }
     },
     {
@@ -244,7 +265,8 @@
       "summary": "Mestre de Cêrmonia agradeceu pela presença, reconheceu esforço da Cris em estabelecer a frente, mencionou parcerias e participação da indústria, executivo e legislativo nesta frente parlamentar, cujo objetivo é debater temas relacionados à catação de recicláveis por mulheres no Brasil. Pediu aos presentes com bolsas nas cadeiras que as retirassem para dar lugar a convidados em pé e cedeu a palavra à Mara Lúcia.",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     },
     {
@@ -256,7 +278,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -266,7 +289,8 @@
       "transcription": "",
       "speaker": {
         "name": "LUCIANA FIGUEIRAS",
-        "position": "Mestre de Cêrimonia"
+        "position": "Mestre de Cêrimonia",
+        "slug": "luciana-figueiras"
       }
     }
   ],

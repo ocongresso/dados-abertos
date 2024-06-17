@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Bom dia a todos, e a todas inicialmente gostaria de agradecer a confiança de todos vocês na",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Luiz Fernando Faria",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-luiz-fernando-faria"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     }
   ],

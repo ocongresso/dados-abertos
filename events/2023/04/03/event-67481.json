@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,17 +53,19 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 183628,
       "start_time": 1680518462,
       "duration": 6,
-      "transcription": "Aprendendo, né? Cada dia pouquinho aqui. Tudo bem com vocês, pessoal?",
+      "transcription": "\nAprendendo, né? Cada dia pouquinho aqui. Tudo bem com vocês, pessoal?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Silvye Alves",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-silvye-alves"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -94,18 +101,20 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Silvye Alves -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-silvye-alves-por-participante-marangoni"
       }
     },
     {
       "id": 10991,
       "start_time": 1680519148,
       "duration": 266,
-      "transcription": "Obrigado Dani, arrasou, arrasou nós vamos dar continuidade à exceção aqui, mas eu queria aproveitar, Aqui a apresentação do Dani.",
-      "summary": "Excepcional apresentação musical, continuidade garantida, grateful para Dani.",
+      "transcription": "\nObrigado Dani Arrasou Arrasou nós vamos dar continuidade à exceção aqui mas eu queria aproveitar aqui a apresentação do Dani.",
+      "summary": " Ótima apresentação musical, com prolongamento garantido, e agradecimento a Dani.",
       "speaker": {
         "name": "Apresentação Musical",
-        "position": "."
+        "position": ".",
+        "slug": "apresentacao-musical"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -129,18 +139,20 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
       "id": 10994,
       "start_time": 1680520060,
       "duration": 166,
-      "transcription": "Bom dia. Meu nome é Amanda Pascoal, eu sou autista. Desculpa mas não existe portador de autismo. Porque a gente nasce autista vai morrer autista e isso não muda, ok. Deficiência é intrínseco à nossa identidade, ok? Isso é estabelecido inclusive em convenção internacional da qual o Brasil assina, ok? E também na lei brasileira de inclusão, deficiência é uma identidade. Autista você nasce com ele, outras deficiências qualquer pessoa pode adquirir em qualquer momento. É o único grupo minoritário da qual qualquer pessoa em qualquer momento pode fazer parte. Enfim, né? Eu agradeço muito a o tempo de fala, agradeço estar aqui, mas justamente porque autismo é espectro E é diverso que não funciona ter apenas autista aqui, gente. Autistas têm de tudo quanto Tipo, e a gente vive a interseccionalidade sim. Tem autista negro, tem autista branco, tem autista pobre, tem autista que está morando em albergue, autista que está morando no meio da rua, tem autista gay, tem autista trans, tem autista adulto idoso, autista de tudo quanto é tipo. E se vocês não tiverem uma representatividade diversa, vocês não vão entender a diversidade do autismo. Não adianta fazer campanha só pra menininho branco, aquela imagem que a gente vê estampada, né? Revista Veja, mil novecentos e alguma coisa a foto da capa do autismo, menino branco. Dez anos depois, o menino branco de novo. A gente tem que avançar nesse debate. Mulheres estão sendo subannoticada, pessoas indígenas, Pessoas e quilombolas, tá? Existe lema no movimento de pessoas com deficiência, conhecido como nada sobre nós, sem nós, ok? Nós somos Aqui a gente existe a gente exige representatividade. A gente é ser humano e nós queremos direitos humanos. O modelo social de deficiência, o modelo baseado em direitos humanos é isso, ok? Nosso direito à educação, nosso direito à saúde, Não são necessidades especiais, são necessidades que todo ser humano tem e precisamos de acomodações pra alcançar esses direitos humanos sim. Porque pessoas neurotípicas, pessoas sem deficiência já têm as acomodações delas. Isso é tão intrínseco na sociedade que vocês nem percebem que vocês estão sendo acomodados o tempo todo. EEA gente quer direitos iguais, a gente quer direitos humanos, ok? Muito obrigada pela fala. Gente então é isso.",
-      "summary": "Autismo é parte inerente da identidade; diversidade dentro do espetro autista inclui diferenças raciais, econômicas, LGBTQ+, idade e interseccionalidade. Exige-se representatividade e modelo social de deficiência, baseado em direitos humanos.",
+      "transcription": "\nBom dia. Meu nome é Amanda Pascoal, eu sou autista. Desculpa mas não existe portador de autismo. Porque a gente nasce autista vai morrer autista e isso não muda, ok. Deficiência é intrínseco à nossa identidade, ok.\n\nIsso é estabelecido inclusive em convenção internacional da qual o Brasil assina, ok? E também na lei brasileira de inclusão, deficiência é uma identidade. Autista você nasce com ele, outras deficiências qualquer pessoa pode adquirir em qualquer momento. É o único grupo minoritário da qual qualquer pessoa em qualquer momento pode fazer parte. Enfim, né, eu agradeço muito a o tempo de fala, agradeço estar aqui, mas justamente porque autismo é espectro e é diverso que não funciona até apenas autista aqui gente.\n\nAutistas têm de tudo quanto é tipo e a gente vive a interseccionalidade sim. Tem autista negro, tem autista branco, tem autista pobre, tem autista que está morando em albergue, tem autista que está morando no meio da rua, tem autista gay, tem autista trans, tem autista adulto idoso, autista de tudo quanto é tipo. E se vocês não tiverem uma representatividade diversa, vocês não vão entender a diversidade do autismo. Não adianta fazer campanha só pra menininho branco, aquela imagem que a gente vê estampada, né? Revista Veja, mil novecentos e alguma coisa a foto da capa do autismo, menino branco.\n\nDez anos depois, menino branco de novo. A gente tem que avançar nesse debate. Mulheres estão sendo subannoticada, pessoas indígenas, pessoas e quilombolas, tá? Existe lema, no movimento de pessoas com deficiência, conhecido como nada sobre nós, sem nós, ok? Nós somos A gente é ser humano, e nós queremos direitos humanos.\n\nO modelo social de deficiência, o modelo baseado em direitos humanos é isso, ok? Nosso direito à educação, nosso direito à saúde, não são necessidades especiais, são necessidades que todo ser humano tem e precisamos de acomodações pra alcançar esses direitos humanos sim. Porque pessoas neurotípicas, pessoas sem deficiência já têm as acomodações delas. Isso é tão intrínseco na sociedade que vocês nem percebem que vocês estão sendo acomodados o tempo todo. E a gente quer direitos iguais, a gente quer direitos humanos, ok?\n\nMuito obrigada pela fala. Gente então é isso.",
+      "summary": " Autismo é parte da identidade, diversidade é abrangente dentro do espetro e requer representatividade e modelo social de deficiência centrado em direitos humanos.",
       "speaker": {
         "name": "Amanda Pascoal",
-        "position": "Convidada"
+        "position": "Convidada",
+        "slug": "amanda-pascoal"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 220676,
         "name": "Andreia Siqueira",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "andreia-siqueira"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 88256,
         "name": "Clodoaldo Magalhães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "clodoaldo-magalhaes"
       }
     },
     {
@@ -308,18 +333,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11009,
       "start_time": 1680522850,
       "duration": 184,
-      "transcription": "Eu quero primeiro agradecer, quer dizer, nossa satisfação muito grande e, mais uma vez, estar aqui, não é, reivindicando as necessidades dos autistas, das famílias dessas pessoas, é dia muito especial pra nós, é é na realidade, as pessoas nos procuram como se fosse uma outra data de nascimento, não é, nossa, como se fosse os parabéns pelas lutas, por representar essas famílias e o peso é muito grande, não é? Desde dois mil e cinco que nós frequentamos, nós somos parceiros dessa casa, lutando pelas questões dos autistas e das famílias dos autistas. Então quero agradecer, especialmente saudar os parlamentares, deputado Marangoni, deputada Silvier Alves, deputado Felipe Beccari, não é, deputado Clodoaldo Magalhães e demais parlamentares que estão aqui nessa casa que nos franquearam a possibilidade de estar aqui, mais uma vez, lutando pelos direitos dos autistas e dessas famílias, não é? Eu quero dizer deputado, que primeiro a gente diz, a gente costuma dizer que falta boa vontade muitas vezes. E aqui nessa mesa, nós vemos que sobra boa vontade, porque a primeira coisa que a gente precisa Boa, aqui a gente fala muito de vontade política, não é? Mas eu digo a boa vontade em qualquer lugar onde você vá, não é? Em qualquer lugar onde você telefone, onde você entra em contato, primeiro se tem que dar sorte de encontrar a boa vontade. Se o sujeito tiver boa vontade de atender, vai ser muito bom, já começa muito bem. Se não tiver, muitas vezes, eu costuma dizer uma coisa que aconteceu comigo. E eu tenho filho, o Fernandinho, de vinte e cinco anos, eu agradeço muito, né, por conta dele que eu me tornei ser humano, vamos dizer assim, melhor, né. Podia ser sujeito muito mais tupetudo, podia ser sujeito com o nariz lá cima, né, com uma embafe absurda e hoje sou uma pessoa muito melhor, não é, por conta disso que eu pude trabalhar para melhorar a qualidade de vida de muitas pessoas, de muitas famílias. Isso muito me orgulho, e tudo isso é culpa do Fernandinho lá, que tem vinte e cinco anos, o Fernandão, deve estar lá em casa com a mãe, com a Adriana, minha esposa, me assistindo pela televisão porque não dá conta de estar aqui. Então por isso é que eu estou aqui. Inclusive eu queria até sugerir, deputado, que no nos eventos, né, a gente faz essa sugestão porque é muito interessante. Hoje nós já temos autistas com condição de fala bem identificados, diagnosticados, não é? E que podem sentar na mesa também. Eu sempre costumo a a solicitar que pelo menos autista mesmo, uma pessoa com diagnosticado com autismo esteja à mesa conosco. Queria pedir até para Amanda, se for o caso, ocupar o meu lugar, Amanda, por favor, ali na mesa que já estou aqui, tenho Mais pouquinho. Sua Amanda, vem cá ocupar a presidência aqui da sessão, por favor.",
-      "summary": "Presidente da Honra do MOAB expressa gratidão por outra oportunidade de defender os direitos de autistas e suas famílias. Destaca importância da boa vontade em lutar por esses direitos e sugere que pessoas autistas participem dos eventos. Oferece seu lugar a Amanda.",
+      "transcription": "\nEu quero primeiro agradecer, quer dizer, nossa satisfação muito grande e, mais uma vez, estar aqui, não é, reivindicando as necessidades dos autistas, das famílias dessas pessoas, é dia muito especial pra nós, é é na realidade, as pessoas nos procuram como se fosse uma outra data de nascimento, não é, nossa, como se fosse os parabéns pelas lutas, por representar essas famílias e o peso é muito grande, não é, desde dois mil e cinco que nós frequentamos nós somos parceiros dessa casa, lutando pelas questões dos autistas e das famílias dos autistas. Então quero agradecer, especialmente saudar os parlamentares, deputado Marangoni, deputada Silvier Alves, deputado Felipe Beccari, não é, deputado Clodoaldo Magalhães e demais parlamentares que estão aqui nessa casa que nos franquearam a possibilidade de estar aqui mais uma vez lutando pelos direitos dos autistas e dessas famílias, não é? Eu quero dizer deputado, que primeiro a gente diz, a gente costuma dizer que falta boa vontade muitas vezes. E aqui nessa mesa, nós vemos que sobra boa vontade. Porque a primeira coisa que a gente precisa é boa, aqui a gente fala muito de vontade política, não é?\n\nMas eu digo a boa vontade em qualquer lugar onde você vá, não é, em qualquer lugar onde você telefone, onde você entra em contato, primeiro se tem que dar sorte de encontrar a boa vontade. Se o sujeito tiver boa vontade de atender vai ser muito bom, já começa muito bem. Se não tiver, muitas vezes, eu costuma dizer uma coisa que aconteceu comigo. E eu tenho filho, o Fernandinho, de vinte e cinco anos, que eu agradeço muito, por conta dele que eu me tornei ser humano, vamos dizer assim, melhor, né. Podia ser sujeito muito mais tupetudo, podia ser sujeito com o nariz lá em cima, né, com uma embafe absurda e hoje sou uma pessoa muito melhor, não é, por conta disso que eu pude trabalhar para melhorar a qualidade de vida de muitas pessoas, de muitas famílias.\n\nIsso muito me orgulho e tudo isso é culpa do Fernandinho lá, que tem vinte e cinco anos o Fernandão, que deve estar lá em casa com a mãe, com a Adriana, minha esposa, me assistindo pela televisão porque não dá conta de estar aqui. Então por isso é que eu estou aqui. Inclusive eu queria até sugerir deputado, que nos eventos, não é, a gente faz essa sugestão porque é muito interessante. Hoje nós já temos autistas com condição de fala bem identificados, diagnosticados e que podem sentar na mesa também. Eu sempre costumo a a solicitar que pelo menos autista mesmo, uma pessoa com diagnosticado com autismo esteja à mesa conosco.\n\nQueria pedir até para Amanda, se for o caso, ocupar o meu lugar, Amanda, por favor, ali na mesa que já estou aqui, tenho Mais pouquinho. Amanda, vem cá ocupar a presidência aqui da sessão, por favor.",
+      "summary": " Presidente da Honra do MOAB agradece por defender direitos de autistas, estressa importância de boa vontade na luta, encoraja participação de pessoas autistas em eventos e cede lugar a Amanda.",
       "speaker": {
         "name": "Fernando Cotta",
-        "position": "Presidente da Honra do Movimento Orgulho Autista Brasil - MOAB"
+        "position": "Presidente da Honra do Movimento Orgulho Autista Brasil - MOAB",
+        "slug": "fernando-cotta"
       }
     },
     {
@@ -330,18 +357,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11011,
       "start_time": 1680523041,
       "duration": 403,
-      "transcription": "Do lado certo, então, nos atendendo. Muito bem, além disso eu tenho muitos amigos, muitas amigas de luta aqui, não é. Quero chamar atenção para Ana Karine da Associação DF DF DF DF Brasil que está aqui conosco, Ana Karina Bitencourt, né, e e do Vercino Borges, da Federação Nacional dos Policiais Rodoviários Federais, né, o Schumann também da Comissão de de Direitos Humanos da Polícia Rodoviária Federal, Taciana, né, que também está conosco aqui, do Celoaba, doutor. Daciano, está conosco aqui também, Eliane Nuvem, da associação Nunca Andará Sozinho, Leidi da associação Tudo Azul do Gama, não é, e e enfim, são colegas de luta durante todos esses anos, não é, que nós estamos aqui, que nós lutamos pela causa autista e que estão aqui hoje, que deixaram, não é, os seus momentos de lazer, de de de estar com seus filhos inclusive, não é, de trabalho, pra poder estar aqui hoje, nos prestigiando e lutando pelo direito dos seus filhos, então isso é muito importante, nós precisamos agradecer essa oportunidade. A importância do dia, esse dia é muito muito importante pra nós. E a ONU, a ONU, a Organização das Nações Unidas chamou atenção pra isso justamente pra poder que as nações, as nações que fazem parte, né, os nossos estados membros, buscassem formas de entender a necessidade dessas pessoas, a necessidade dos autistas e das suas famílias que não são pequenas, como já foram relatadas aqui, não é, então é da maior importância isso. O Moabe, a associação de que eu sou voluntário, o movimento Orgulho Autista Brasil, desde dois mil e cinco tem feito trabalho, nesse sentido, e tem buscado com muito sucesso em algumas ações trazer uma melhoria de qualidade de vida significativa pras famílias. Eu posso destacar aqui a questão das leis. O Congresso Nacional é muito nosso parceiro, nós conseguimos muito mais com o Congresso Nacional, com a Câmara e com o Senado do que com os com o Poder Executivo. Historicamente, independente de partido, com Poder Executivo Federal, com os governos também estaduais e municipais. Então esse Parlamento é Parlamento de parceiros. Nós precisamos agora tirar essas leis que aqui foram construídas, né, do papel e transformar a realidade no dia a dia, no cotidiano dessas famílias. Não é, o 0 sucesso na na publicização do autismo é uma realidade do Moabe, das demais associações. Eu sempre digo que a associação mais importante é aquela que está ali do seu lado, na sua cidade, no seu bairro, porque é que vai fazer a diferença na qualidade de vida da sua família, do seu filho. Nós temos que criar então essa questão dessa acessibilidade verdadeira, não é, que é proporcionar aos pais qualidade de vida às famílias, às terapias que são tão necessárias, não é? A criação dos centros de referência, nós temos projeto de lei que já conseguimos que tramitasse pelo Senado e agora está aqui na Câmara, nós precisamos trabalhar é isso e foi e está sendo criado uma frente parlamentar novamente, eu já fiz parte das outras duas aqui como de forma a contribuir, não é, e vamos trabalhar nisso pra tirar essas leis do papel que é o que é mais necessário hoje. Esse é dos nossos apelos. O sofrimento das mães com os filhos sem atendimento é uma realidade. Nós temos ainda uma alta taxa de suicídios de pessoas autistas e de mães de autistas ainda nesse Brasil. Isso é tema que não pode ser silenciado. Nós temos que divulgar isso, não é? Precisamos de pesquisas, investimento necessário, muito, falei agora pouco da da da mãe aqui do Instituto DAF Ana Caina Bittencourt e nós precisamos muito disso, de de de investimento em pesquisas para entendermos melhor os autistas e o que pode ser feito para melhorar a qualidade de vida dessas pessoas. Por último, eu quero solicitar, senhores deputados, que façam audiências públicas, não é, façam, chamem audiências públicas, nós temos aí a Comissão de Direitos Humanos, a Comissão das Pessoas com Deficiência, a Comissão de Educação, por exemplo, saúde. Então vamos fazer, vamos trazer essas pessoas para serem ouvidas, não é, vamos daí fazer encaminhamentos para que essas pessoas sensibilizem os tomadores de decisão, aqueles administradores, sejam governadores, prefeitos, não é, e a própria presidência pra que assinem as medidas necessárias e a execução dessas medidas sejam de fato cumpridas. Não é? E para as mães eu queria dizer para as mães que não desistam dos seus filhos, não é? Nós temos pessoas, nós sabemos que na maioria das vezes, nós temos as portas fechadas, mas nós temos que aproveitar a oportunidade das portas abertas como hoje que estão sendo abertas aqui. Nós temos o compromisso, e é compromisso sério, dos deputados de trabalhar pela causa autista, pela execução são da causa autista, da causa. Nós temos que estar juntos com eles, abraçados pra poder tornar isso realidade na vida de cada mãe, na vida de cada pessoa autista que está aqui ou não. Nós temos esse dever que não é fácil. Por fim, eu quero dizer que o Daniel só pôde fazer isso porque teve investimento no Daniel, foi dada a chance para o Daniel e é isso que nós pedimos aqui uma chance não é é só isso é dar a chance para essas pessoas que elas conseguirão sim mostrar quem são e não vão estar nunca mais lotando as clínicas, muito pelo contrário, vão estar contribuindo para PIB melhor do do Brasil, mas desde que nós trabalhemos juntos, sociedade, parlamento, poder executivo pra dar a chance pra essas pessoas. Muito obrigado. Muito obrigado Fernando pelas suas palavras.",
-      "summary": "Presidente da Honra do MOAB agradece presentes e destaca importância do Dia Mundial da Conscientização do Autismo. Ele fala sobre parceria com Congreso Nacional, necessidade de implementing leis, criação de centros de referência, investimento em pesquisas, audiências públicas, e inclusão de pessoas autistas no mercado de trabalho para contribuir no PIB do Brasil. Ele encoraja mães de filhos autistas a não desistirem e pede que as famílias lutem por suas direitas.",
+      "transcription": "\nDo lado certo, então, nos atendendo. Muito bem, além disso eu tenho muitos amigos, muitas amigas de luta aqui, não é. Quero chamar atenção para Ana Karine da Associação DF DF DF DF Brasil que está aqui conosco, a Ana Karina Bitencourt, né, e e do Vercino Borges, da Federação Nacional dos Policiais Rodoviários Federais, né, o Schumann também da Comissão de de Direitos Humanos da Polícia Rodoviária Federal, Taciana, né, que também está conosco aqui, do Celoaba, doutor Daciana, está conosco aqui também, Eliane Nuvem, da a associação Nunca Andará Sozinho, Leide da associação tudo azul do Gama, não é, e e enfim, são colegas de luta durante todos esses anos, não é, que nós estamos aqui, que nós lutamos pela causa autista e que estão aqui hoje, que deixaram, não é, os seus momentos de lazer, de de de estar com seus filhos inclusive, não é, de trabalho, pra poder estar aqui hoje, nos prestigiando e lutando pelo direito dos seus filhos, não é. Então isso é muito importante, nós precisamos agradecer essa oportunidade, não é. A importância do dia, esse dia é muito muito importante pra nós e a ONU, a ONU, a Organização das Nações Unidas chamou atenção pra isso justamente pra poder que as nações, as nações que fazem parte, né, os nossos estados membros, buscassem formas de entender a necessidade dessas pessoas, a necessidade dos autistas e das suas famílias que não são pequenas, como já foram relatadas aqui, não é?\n\nEntão é da maior importância isso. O Moabe, a associação de que eu sou voluntário, o movimento Orgulho Autista Brasil, desde dois mil e cinco tem feito trabalho, nesse sentido e tem buscado com muito sucesso em algumas ações trazer uma melhoria de qualidade de vida significativa pras famílias. Eu posso destacar aqui a questão das leis, o Congresso Nacional é muito nosso parceiro, nós conseguimos muito mais com o Congresso Nacional, com a Câmara e com o Senado do que com os com o Poder Executivo. Historicamente, independente de partido, o Poder Executivo federal, com os governos também estaduais e municipais. Então esse parlamento é parlamento de parceiros.\n\nNós precisamos agora tirar essas leis que aqui foram construídas, né, do papel e transformar a realidade no dia a dia, no cotidiano dessas famílias, não é. O 0 sucesso na na publicização do autismo é uma realidade do Moabe, das demais associações. Eu sempre digo que a associação mais importante é aquela que está ali do seu lado, na sua cidade, no seu bairro, porque é que vai fazer a diferença na qualidade de vida da sua família, do seu filho? Nós temos que criar então essa questão dessa acessibilidade verdadeira, não é, que é proporcionar aos pais qualidade de vida às famílias, às terapias que são tão necessárias, não é, a criação dos centros de referência. Nós temos projeto de lei que já conseguimos que tramitasse pelo Senado e agora está aqui na Câmara, nós precisamos trabalhar é isso e foi, está sendo criado uma frente parlamentar novamente, já fiz parte das outras duas aqui como de forma a contribuir, não é, e vamos trabalhar nisso pra tirar essas leis do papel que é o que é mais necessário hoje.\n\nEsse é dos nossos apelos. O sofrimento das mães com os filhos sem atendimento é uma realidade. Nós temos ainda uma alta taxa de suicídios de pessoas autistas e de mães de autistas ainda nesse Brasil. Isso é tema que não pode ser silenciado, nós temos que divulgar isso, não é, precisamos de pesquisas, investimento necessário, muito. Falei agora pouco da da da mãe aqui do Instituto DAF né, Ana Caina Bittencourt e nós precisamos muito disso, de de de investimento em pesquisas pra entendermos melhor os autistas e o que pode ser feito pra melhorar a qualidade de vida dessas pessoas.\n\nPor último, eu quero solicitar, senhores deputados, que façam audiências públicas, não é? Façam, chamem audiências públicas na, nós temos aí a Comissão de Direitos Humanos, a Comissão das Pessoas com Deficiência, a Comissão de Educação, por exemplo, saúde. Então vamos fazer, vamos trazer essas pessoas para serem ouvidas, não é, vamos daí fazer encaminhamentos para que essas pessoas se sensibilizem os tomadores de decisão, aqueles administradores, sejam governadores, prefeitos, não é, EAA própria presidência república, pra que assinem as medidas necessárias e a execução dessas medidas sejam de fatos de fato cumpridas, não é? E pras mães eu queria dizer pras mães que não desistam dos seus filhos, né? Nós temos pessoas nós sabemos que na maioria das vezes, nós temos as portas fechadas, mas nós temos que aproveitar a oportunidade das portas abertas como essas hoje que estão sendo abertas aqui.\n\nNós temos o compromisso, e é compromisso sério, dos deputados de trabalhar pela causa autista, pela execução nós temos que estar juntos com eles abraçados pra poder tornar isso realidade na vida de cada mãe, na vida de cada pessoa autista que está aqui ou não. Nós temos esse dever que não é fácil. Por fim, eu quero dizer que o Daniel só pôde fazer isso porque teve investimento no é dar a chance para essas pessoas que elas conseguiram sim mostrar quem são e não vão estar nunca mais lotando as clínicas, muito pelo contrário, vão estar contribuindo para PIB melhor do Brasil, mas desde que nós trabalhamos juntos, sociedade, parlamento, poder executivo pra dar a chance pra essas pessoas. Muito obrigado. Muito obrigado Fernando pelas suas palavras.",
+      "summary": " Presidente da Honra do MOAB: agradece presentes, destaca importância Dia Mundial Conscientização Autismo, enfatiza parceria Congreso Nacional, necessidade implementar leis, criação centros referência, investimento pesquisas, audiências públicas, inclusão pessoas autistas mercado trabalho para contribuir PIB Brasil, encoraja mães filhos autistas não desistirem e pede famílias lutarem por suas direitas.",
       "speaker": {
         "name": "Fernando Cotta",
-        "position": "Presidente da Honra do Movimento Orgulho Autista Brasil - MOAB"
+        "position": "Presidente da Honra do Movimento Orgulho Autista Brasil - MOAB",
+        "slug": "fernando-cotta"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -377,18 +408,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11015,
       "start_time": 1680523742,
       "duration": 301,
-      "transcription": "Bom dia a todos. Primeiro eu quero cumprimentar a mesa. Em primeiro lugar a única deputada que compõe a mesa, deputada Silvier, e os demais deputados. Parabéns, deputado, Marangoni, pela iniciativa. Soleide Araújo, filha de Brasília, policial civil aposentada, tenho três filhos, de trinta e de vinte e oito, e de dezessete anos, esse último autista severo, não verbal. Quando nosso amigo Fernando Cotton, iniciava seus trabalhos aqui, em dois mil e cinco, eu estava grávida dele, ele nasceu em dois mil e seis, e tivemos a felicidade de ter o Fernando Cotta como nosso padrinho, lá na nossa associação que nos ensinou a dar os primeiros passos. Não foi fácil, não é fácil, mas não é impossível caminhar e vencer. Claro que estamos bem distante, né dessa vitória. Tenho caminhar ainda muito longo. Assumi a presidência da associação em dois mil e dezessete, e com ele com essa presidência é o compromisso de implementar atendimentos terapêuticos a preço social. Muito se fala em em diagnóstico precoce e pouco se fala em intervenção precoce. Nós precisamos, devemos oferecer atendimento imediatamente para todas essas crianças que aí estão, solitárias, com mães solitárias, na maior na maior parte das vezes somente com as mães. Hoje na nossa cidade do Gama DF, nós temos, uma projeto de atendimentos terapêuticos dentro da nossa associação, cento e vinte atendimentos dia, seiscentos atendimentos semana, mais de dois mil atendimento mês. Eu quero dizer pra vocês que essa iniciativa é iniciativa da associação das mães e dos pais da nossa associação, porque nós cansamos de esperar pelo poder público. Nós estamos cansados de esperar pelo poder público. E eu venho aqui, senhoras e senhores, deputados, pedir, que tenham empatia conosco e a verdadeira empatia ela tem mãos e ela tem pés. A empatia, ela tem movimento, a empatia ela é movimento. Há que se fazer algo, e e urgente. Nós hoje pagamos aluguel caríssimo, porque nós não temos local pra funcionar e na nossa cidade tem vários prédios públicos ociosos, ocupados por pessoas por usuários de drogas, né? Então quero dizer aqui pra você, essa campanha no nosso folder, quem pegou aí viu, adote uma criança. Nós temos famílias que mesmo o preço social hoje, na nossa associação não tem condições de oferecer atendimento terapêutico para os seus filhos, crianças que estão presas, amarradas, segregadas em casa. E os casos são muitos, os números são. Eu quero convidar a todos, que seja doador, porque o autismo não espera. Pais e mães precisam de apoio, precisam de ajuda, Nós temos aí o BPC que pra chegar a receber esse BPC, é uma longa caminhada, e muitas famílias que não têm condição de trabalhar, porque não tem com quem deixar seu filho autista severo, não tem, não tem quem cuide, tem que ser a mãe, e essa mãe não tem como trabalhar e não tem pra sustento de sua família. Precisamos de políticas públicas sérias, leis nós temos leis de vanguarda hoje aqui em Brasília temos a lei Fernando cota, temos a lei Berenis Piana, que só bastava cumprir essas duas leis. Perdi minha casa, moro de aluguel, pagando tratamento pro meu filho. Quando o autismo entrou na minha vida, além de perder a casa eu perdi peso perdi vinte quilos, a casa eu não recuperei, o peso eu recuperei em dobro. Mas o que eu quero dizer pra vocês aqui hoje é que o autismo não espera e nós esperamos de vocês deputados, de vocês, por favor nos deem a mão. Obrigada.",
-      "summary": "Mãe de três filhos, um com autismo, tornou-se presidente de associação de mães e pais em 2",
+      "transcription": "\nBom dia a todos. Primeiro eu quero cumprimentar a mesa. Em primeiro lugar a única deputada que compõe a mesa, deputada Silvier, e os demais deputados. Parabéns, deputado, Marangoni, pela iniciativa. Soleide Araújo, filha de Brasília, policial civil aposentada, tenho três filhos, de trinta e de vinte e oito, e de dezessete anos, esse último autista severo não verbal.\n\nQuando nosso amigo Fernando Cotton iniciava seus trabalhos aqui em dois mil e cinco, eu estava grávida dele, ele nasceu em dois mil e seis e tivemos a felicidade de ter o Fernando Cotta como nosso padrinho, lá na nossa associação que nos ensinou a dar os primeiros passos. Não foi fácil, não é fácil, mas não é impossível caminhar e vencer. Claro que estamos bem distante, né dessa vitória, tenho caminhar ainda muito longo. Assumi a presidência da associação em dois mil e dezessete, e com ele com essa presidência é o compromisso de implementar atendimentos terapêuticos à preço social. Muito se fala em em diagnóstico precoce e pouco se fala em intervenção precoce.\n\nNós precisamos, devemos oferecer atendimento imediatamente para todas essas crianças que aí estão, solitárias, com mães solitárias na maior na maior parte das vezes somente com as mães. Hoje na nossa cidade do Gama DF, nós temos uma projeto de atendimentos terapêuticos dentro da nossa associação, cento e vinte atendimentos dia, seiscentos atendimentos semana, mais de dois mil atendimento mês. Eu quero dizer pra vocês que essa iniciativa é iniciativa da associação das mães e dos pais da nossa associação, porque nós cansamos de esperar pelo poder público. Nós estamos cansados de esperar pelo poder público E eu venho aqui, senhoras e senhores, deputados, pedir, que tenham empatia conosco e a verdadeira empatia ela tem mãos e ela tem pés. A empatia ela tem movimento, a empatia ela é movimento.\n\nHá que se fazer algo E0E urgente. Nós hoje pagamos aluguel caríssimo porque nós não temos local pra funcionar e na nossa cidade tem vários prédios públicos ociosos, ocupados por pessoas por usuários de drogas, né? Então quero dizer aqui pra você, nós temos a nossa campanha, nós temos a nossa campanha do anda afeto, que aqui explica essa campanha no nosso folder quem pegou aí viu, adote uma criança, nós temos famílias que mesmo o preço social hoje, na nossa associação não tem condições de oferecer atendimento terapêutico para os seus filhos, crianças que estão presas, amarradas, segregadas em casa. E os casos são muitos, os números são. Eu quero convidar a todos, que seja doador, porque o autismo não espera.\n\nPais e mães precisam de apoio, precisam de ajuda, nós temos aí 0BPC que pra chegar a receber esse BPC, é uma longa caminhada, e muitas famílias que não têm condição de trabalhar, porque não têm com quem deixar seu filho autista severo, não têm, não têm quem cuide, tem que ser a mãe, e essa mãe não tem como trabalhar e não tem sustento de sua família. Precisamos de políticas públicas sérias, leis nós temos leis de vanguarda hoje aqui em Brasília temos a lei Fernando Cotta temos a lei Berenis Piana que só bastava cumprir essas duas leis. Perdi minha casa, moro de aluguel, pagando tratamento pro meu filho. Quando o autismo entrou na minha vida, além de perder a casa eu perdi peso perdi vinte quilos, a casa eu não recuperei, o peso eu recuperei em dobro, mas o que eu quero dizer pra vocês aqui hoje é que o autismo não espera e nós esperamos de vocês deputados, de vocês, por favor nos deem a mão. Obrigada.",
+      "summary": " Mãe de três filhos, uma com autismo, presidiu associação de pais e mães.",
       "speaker": {
         "name": "Cleide Araújo",
-        "position": "Convidada"
+        "position": "Convidada",
+        "slug": "cleide-araujo"
       }
     },
     {
@@ -400,18 +433,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11017,
       "start_time": 1680524095,
       "duration": 174,
-      "transcription": "Eu me chamo Gisele Montenegro, eu agradeço a todos os deputados que nos abriram as portas hoje. Obrigada, excelências. Eu sou mãe do Christian, o autista de nível de suporte três autista severo. Luto há trinta anos por dignidade, por inclusão. Não é fácil. Quando meu filho fechou o diagnóstico como foi falado, Era mil pra Hoje nós falamos de mil pra trinta e seis. E eu continuo lutando pelos direitos básicos do meu filho. Como a Leide falou, faço parte de uma das poucas entidades aqui em Brasília, somos só três. Abraci a Ama e a Tudo Azul. E infelizmente não temos apoio nenhum do estado. A ama está com uma ordem de despejo desde dois mil e dezessete. Se a lama fechar hoje, os jovens adultos idosos de nível de suporte dois e três vão ficar desamparados Na capital do Brasil, nós precisamos de políticas públicas urgentes para que os autistas hoje, crianças, Possam ir pra AMA no futuro. Nós temos uma fila de espera que eu já não ponho mais número, eu ponho nomes, Porque dói no coração saber que ali na ponta tem uma mulher igual a mim, uma mãe. É lamentável que na capital do nosso país, As poucas entidades que tem, não recebo, volto a repetir, não recebem apoio nenhum do estado. Peço para que os nossos governantes olhem para nós como seres humanos, como pessoas que precisamos de ajuda cem por cento dos nossos governantes. Eu fiz texto aqui eu não vou nem dar conta de ler porque eu já estou quase chorando porque eu sei da minha luta, De trinta anos, de carregar filho, de muitas vezes atender uma mãe na ponta, que vai falar em suicídio. E essa mãe você tem que convencêla, de que aquilo não pode, que ela tem que continuar lutando por aquele filho. Pedimos e vamos continuar pedindo, políticas públicas. A AMA precisa continuar as suas atividades. Nós já atendemos setenta autistas. Hoje nós fechamos as atividades lá porque nós não temos apoio do estado. Nós precisamos voltar a atender, nós temos uma demanda de mais de trezentas pessoas. Isso que eu não ponho mais números, só nomes. Vamos ter rever a nossa realidade sim. Gente, obrigada a todos e boa tarde.",
-      "summary": "Presidente da Associação dos Amigos dos Autistas - AMA/DF, mãe de autista severo, luta há 30 anos por inclusão e direitos dos autistas. AMA, uma das poucas entidades em Brasília, necessita políticas públicas urgentes e apoio do estado para continuar atendendo à crescente demanda de autistas. Sem apoio, encerraram atividades, deixando mais de 300 pessoas em espera.",
+      "transcription": "\nEu me chamo Gisele Montenegro, eu agradeço a todos os deputados que nos abriram as portas hoje. Obrigada, excelências. Eu sou mãe do Christian, o autista de nível de suporte três autista severo. Luto há trinta anos por dignidade, por inclusão. Não é fácil.\n\nQuando meu filho fechou o diagnóstico como foi falado, era mil pra hoje nós falamos de mil pra trinta e seis e eu continuo lutando pelos direitos básicos do meu filho Como a Leide falou, faço parte de uma das poucas entidades aqui em Brasília, somos só três. Abraci a Ama e a Tudo Azul. E infelizmente não temos apoio nenhum do estado. A ama está com uma ordem de despejo desde dois mil e dezessete. Se a lama fechar hoje, os jovens adultos e idosos de nível de suporte dois e três vão ficar desamparados na capital do Brasil.\n\nNós precisamos de políticas públicas urgentes para que os autistas hoje, crianças, possam ir pra AMA no futuro. Nós temos uma fila de espera que eu já não ponho mais número, eu ponho nomes, Porque dói no coração saber que ali na ponta tem uma mulher igual a mim, uma mãe. É lamentável que na capital do nosso país, as poucas entidades que tem não recebo. Volto a repetir, não recebem apoio nenhum do estado. Peço para que os nossos governantes olhem para nós como seres humanos, como pessoas que precisamos de ajuda cem por cento dos nossos governantes.\n\nEu fiz texto aqui eu não vou nem dar conta de ler porque eu já estou quase chorando porque eu sei da minha luta, De trinta anos, de carregar filho, de muitas vezes atender uma mãe na ponta, que vai falar em suicídio. E essa mãe você tem que convencêla, de que aquilo não pode, que ela tem que continuar lutando por aquele filho. Pedimos e vamos continuar pedindo, políticas públicas. A AMA precisa continuar as suas atividades. Nós já atendemos setenta autistas.\n\nHoje nós fechamos as atividades lá porque nós não temos apoio do Estado. Nós precisamos voltar a atender, nós temos uma demanda de mais de trezentas pessoas. Isso que eu não ponho mais números, só nomes. Vamos ter rever a nossa realidade sim. Gente obrigada a todos e boa tarde.",
+      "summary": " AMA/DF pede políticas públicas e apoio urgente para continuar inclusão de autistas, com risco de encerrar atendimento a 300 pessoas.",
       "speaker": {
         "name": "Gisele Cristine de Almeida Montenegro",
-        "position": "Presidente da Associação dos Amigos dos Autistas - AMA/DF"
+        "position": "Presidente da Associação dos Amigos dos Autistas - AMA/DF",
+        "slug": "gisele-cristine-de-almeida-montenegro"
       }
     },
     {
@@ -423,18 +458,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11019,
       "start_time": 1680524478,
       "duration": 282,
-      "transcription": "A todos, excelentíssimo senhor, deputado federal, Maranhãogoni, que preside essa sessão solene em homenagem aos nossos autistas do Brasil. Excelentíssimos senhores deputados que também nos honram com suas presenças, o deputado Felipe, o deputada Andreia, deputada Silvi, e demais, Excelências que nos honam com suas presenças, senhoras e senhores. É prazer muito grande estar aqui com vocês neste dia que foi instituído no dia dezoito de dezembro de mil dois mil e sete pela ONU a pedido da família imperial do Catar. Foi essa família que buscou essa oportunidade de celebrar momento os autistas do mundo. Então este ano completa bodas de prata. Então são, perdão, bodas de cristal, são quinze anos, que se comemora em cento e noventa e três países do mundo. Essa data tão importante para os oitenta milhões de autistas do mundo. Dois vírgula dois milhões de brasileiros, quarenta mil autistas da capital da república. É uma oportunidade muito importante após ter dedicado dez anos de trabalho, seis, oito, dez horas por dia pra fazer esse trabalho que eu entrego à sociedade brasileira em homenagem aos nossos autistas. Não é fácil conviver com autista. Durante a minha jornada de treze mil e centas horas, convivi com autistas de diferentes faixas etárias níveis de gravidade. Como vivi, corri esse país, vários estados, eu fui três, quatro vezes visitando, aprendendo, escrevendo, palestrando e sempre divulgando o autismo no Brasil. Tive a oportunidade, peguei a minha aposentadoria e fui à Austrália, fui ao Estados Unidos, fui emirados Árabes, fui na Argentina, fui no México, fui no Canadá, Fui na França, aonde fui recebido em Paris, pela presidente da Federação Francesa de Autismo e nesse meu livro está o depoimento daquela senhora mãe de autista Severo, é uma garota, ótimo Severo, a Catherine. Então esse trabalho é trabalho que, está exposto em quarenta e quatro capítulos, cada capítulo uma abordagem diferente. E tive o cuidado, o zelo, a preocupação de trazer nesse trabalho seiscentas e vinte e sete referências científicas. Repito, seiscentos e vinte e sete referências científicas. É uma contribuição para todos profissionais, principalmente para pais e mães de autistas. As avós que estão realizando trabalho significativo de apoio aos nossos autistas brasileiros. E criei cento e trinta e cinco imagens, ilustrações, mapas conceituais, exercícios evolutivos pra trabalho mais acessível, trabalho mais compreensível por parte de todos. Então eu coloco à disposição da sociedade, agora contando com uma uma situação extraordinária o apoio dos senhores deputados aqui colocado pelo nosso deputado Marangoni, que querem contribuir para a edição do livro. Muito obrigado aos senhores e as senhoras e Deus te pague, Deus pague. Obrigado. Obrigado Osvaldo, obrigado sobre",
-      "summary": "Pesquisador overo autismo comemora Dia dos Autistas na Câmara dos Deputados, lançando livro baseado em 10 anos de pesquisa e convivência com pessoas autistas. Livro possui 44 capítulos, 627 referências científicas, ilustrações e exercícios evolutivos, visando acessibilidade a profissionais e famílias de pessoas autistas. Autor agradece apoio à edição do livro.",
+      "transcription": "\nA todos, excelentíssimo senhor, deputado federal, Maranhãogoni, que preside essa sessão solene em homenagem aos nossos autistas do Brasil. Excelentíssimo senhores deputados que também nos honram com suas presenças, o deputado Felipe, o deputado Andreia, o deputado a Silvi, e demais, excelências que nos honam com suas presenças, senhoras e senhores. É prazer muito grande estar aqui com vocês neste dia, que foi instituído no dia dezoito de dezembro de mil dois mil e sete, pela ONU a pedido da família imperial do Catar. Foi essa família que buscou essa oportunidade de celebrar momento os autistas do mundo. Então este ano completa bodas de prata.\n\nEntão são, perdão, bodas de cristal, São quinze anos que se comemora em cento e noventa e três países do mundo. Essa data tão importante para os oitenta milhões de autistas do mundo. Dois vírgula dois milhões de brasileiros. Quarenta mil autistas da capital da república. É uma oportunidade muito importante após ter dedicado dez anos de trabalho.\n\nSeis, oito, dez horas por dia pra fazer esse trabalho que eu entrego à sociedade brasileira em homenagem aos nossos autistas. Não é fácil conviver com autista. Durante a minha jornada de treze mil e setecentas horas convivi com autistas de diferentes faixas etárias e níveis de gravidade. Como vivi, corri esse país, vários estados eu fui três, quatro meses, visitando, aprendendo, escrevendo, palestrando e sempre divulgando o autismo no Brasil. Tive a oportunidade, peguei a minha aposentadoria e fui à Austrália, fui ao Estados Unidos, fui emirados árabes, fui na Argentina, fui no México, fui no Canadá, fui na França, onde fui recebido em Paris, pela presidente da federação francesa de autismo.\n\nE neste meu livro está o depoimento daquela senhora mãe de autista Severo, é uma garota, altíssimo Severo, a Catherine. Então esse trabalho é trabalho que está exposto em quarenta e quatro capítulos, cada capítulo uma abordagem diferente. E tive o cuidado, o zelo, a preocupação de trazer nesse trabalho seiscentas e vinte e sete referências científicas. Repito, seiscentos e vinte e sete referências científicas. É uma contribuição para todos profissionais, principalmente para pais e mães de autistas.\n\nAs avós que estão realizando trabalho significativo de apoio aos nossos autista brasileiros. E criei cento e trinta e cinco imagens, ilustrações, mapas conceituais, exercícios evolutivos pra trabalho mais acessível, trabalho mais compreensível por parte de todos. Então eu coloco à disposição da sociedade, agora contando com uma uma situação extraordinária o apoio dos senhores deputados aqui colocado pelo nosso deputado Marogoni, que querem contribuir para a edição do livro. Muito obrigado aos senhores e as senhoras e Deus te pague. Deus te pague.\n\nObrigado. Obrigado Osvaldo, obrigado",
+      "summary": " Pesquisador internacional sobre o autismo lança livro baseado em dez anos de pesquisa e convivência com pessoas autistas, contendo 44 capítulos, 627 referências científicas, ilustrações e exercícios evolutivos, visando acessibilidade a profissionais e famílias. Ele agradece apoio à edição do livro no Dia dos Autistas na Câmara dos Deputados.",
       "speaker": {
         "name": "Oswaldo Freire",
-        "position": "Pesquisador Internacional sobre o autismo e autor da obra: O Desafiante Mundo do Autista"
+        "position": "Pesquisador Internacional sobre o autismo e autor da obra: O Desafiante Mundo do Autista",
+        "slug": "oswaldo-freire"
       }
     },
     {
@@ -446,18 +483,20 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
       "id": 11021,
       "start_time": 1680524892,
       "duration": 124,
-      "transcription": "Pessoas e organizações fizeram, pautas específicas, eu vou falar também da minha organização e de uma pauta específica né? Eu sou membro da ABRASA Associação Brasileira de Pessoa para Sonhos de Direitos às Pessoas Autistas né, que Até onde eu conheço, é a única associação que é composta majoritariamente por pessoas autistas e tem pessoas autistas nos cargos de liderança, né? E a pauta que eu vou trazer é porque a questão de autistas adultos estarem sendo negados em diversas perícias. Né, seja de concurso, vestibular, né, estão sempre com os motivos mais bizarros do mundo pra negar que aquela pessoa seja autista. Pode ser quando ela vai pedir adaptação do trabalho também, isso já é difícil Com o concurso público imagina pra quem está em iniciativa privada, ok? Tem, as pessoas olham as coisas assim, tipo, Ah, você tem capacete, você anda de modo você não pode ser autista. Você olhando meu olhar, você não pode ser autista. Ah, você fez isso? Você fez aquilo? Qualquer coisa que a gente faça, deixa fazer vira pretexto pra dizer que a gente não é autista. E assim a gente tem os nossos direitos negados, as nossas adaptações negadas, isso está acontecendo sistematicamente. Está certo? Investir nos direitos dos autistas adultos Também investir nas crianças de hoje que elas vão virar adultas dia, né? E assim, é tantas coisas tipo, ah eu digo que você é autista mas você não tem Autismo suficiente pra pedir acomodação? Gente, eles estão querendo o quê? Que seja só autista nível dois e três fazendo concurso? Olha, meu sonho se tiver Autista não falante podendo fazer concurso com tuas adaptações, a gente sabe que não é a realidade hoje, gente. A gente precisa levar essa questões e as perícias muito a sério, porque a gente está sendo negado sistematicamente. Amanda obrigado obrigado. Gente, Eu",
-      "summary": "Convidada aborda discriminação contra adultos autistas: muitos negados em perícias e concursos com pretextos; ABRASA é única associação majoritariamente liderada por pessoas autistas; defende investimento em direitos de adultos e crianças autistas; critica exigência de \"Autismo suficiente\" para adaptações e pede seriação em perícias.",
+      "transcription": "\nPessoas e organizações fizeram, pautas específicas, eu vou falar também da minha organização e de uma pauta específica né? Eu sou membro da ABRASA Associação Brasileira de Pessoa para Sonhos de Direitos às Pessoas Autistas né, que até onde eu conheça é a única associação que é composta majoritariamente por pessoas autistas e tem pessoas autistas nos cargos de liderança, Né? E a pauta que eu vou trazer é porque a questão de autistas adultos estarem sendo negados em diversas perícias. Né? Seja de concurso, vestibular, né?\n\nEstão sempre com os motivos mais bizarros do mundo pra negar que aquela pessoa seja autista. Pode ser quando ela vai pedir adaptação do trabalho também, isso já é difícil com o concurso público, imagina pra quem está em iniciativa privada, ok? Tem. As pessoas olham as coisas assim, tipo, ah você tem capacete, você anda de modo, você não pode ser autista. Você olhando meu olhar, ah você não pode ser autista.\n\nAh você fez isso, você fez aquilo. Qualquer coisa que a gente faça, deixa de fazer vira pretexto pra dizer que a gente não é autista. E assim a gente tem os nossos direitos negados, as nossas adaptações negadas, isso está acontecendo sistematicamente, está certo? Investir nos direitos dos audistas adultos investir nas crianças de hoje que elas vão virar adultas dia, né? E assim, tantas coisas tipo, ah eu digo que você é autista mas você não tem autismo suficiente pra pedir acomodação.\n\nGente, eles estão querendo o quê? Que seja só autista nível dois e três fazendo concurso? Olha, meu sonho se tiver autista não falante e podendo fazer concurso com tuas adaptações, a gente sabe que não é a realidade hoje, gente. A gente precisa levar essa questões e as perícias muito a sério, porque a gente está sendo negado sistematicamente. Amanda obrigado obrigado.\n\nGente, eu",
+      "summary": " Convidada discute discriminação contra autistas adultos, critica exigência de \"Autismo suficiente\" e defende investimento em direitos autistas, ledendo ABRASA como exemplo de organização liderada por pessoas autistas.",
       "speaker": {
         "name": "Amanda Pascoal",
-        "position": "Convidada"
+        "position": "Convidada",
+        "slug": "amanda-pascoal"
       }
     },
     {
@@ -469,9 +508,10 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718634144
 }

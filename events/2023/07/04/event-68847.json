@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônias convida diversas autoridades para abertura; apresentação do grupo de Maracatu Bac Mulher Brasília, fundado por mestra Joana em 2008 para unir mulheres e refletir sobre violência e racismo contra a mulher; em 2016, articulado o coletivo feminista do baque virado, hoje movimento de empoderamento feminino com força em vários estados e mais de 300 batuqueiras.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Participante valorou o trabalho do grupo, feliz por representar a mestra Joana Cavalcante no evento. Agradecida.",
       "speaker": {
         "name": "Grupo de Maracatu Baque Mulher",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "grupo-de-maracatu-baque-mulher"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": "Mestre de Cerimônias inicia solenidade celebrando 10 anos da Secretaria da Mulher, instituição defendendo direitos e igualdade de gênero para mulheres mundialmente. Criada em 2013, unindo procuradoria e coordenadoria da mulher, e incorporando Observatório Nacional da Mulher e Comitê de Defesa da Mulher em 2021. Agora, deputada Maria do Rosário será convidada a falar.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -47,7 +50,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -58,7 +62,8 @@
       "summary": "Mestre de Cerimônias agradece a presença de deputadas e secretárias, cede o palavro ao vice-governador.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": "Vice-Governadora do DC e Coordenadora-geral da Bancada Feminina de 2021 a 2022: reconhece importância da bancada feminina, defende legado em vez de reputação, homenageia colaboradoras e deputadas, encouraja luta contínua por mulheres no poder.",
       "speaker": {
         "name": "Celina Leão",
-        "position": "Vice-Governadora DF e Coordenadora-geral da Bancada Feminina de 2021 a 2022"
+        "position": "Vice-Governadora DF e Coordenadora-geral da Bancada Feminina de 2021 a 2022",
+        "slug": "celina-leao"
       }
     },
     {
@@ -79,7 +85,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -90,7 +97,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -100,7 +108,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -112,7 +121,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -122,7 +132,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Ministra da Igualdade Racial homenageia ativistas, agradece convite a evento e reflete sobre importância de eleger e manter mulheres em cargos, destacando problema de violência política sem participação feminina. Ela encouraja coletividade e luta contínua das mulheres.",
       "speaker": {
         "name": "Ministra Anielle Franco",
-        "position": "Ministra da Igualdade Racial"
+        "position": "Ministra da Igualdade Racial",
+        "slug": "ministra-anielle-franco"
       }
     },
     {
@@ -143,7 +155,8 @@
       "transcription": "Fazer uso da palavra para sua breve saudação à ministra das mulheres, Cida Gonçalves.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -154,7 +167,8 @@
       "summary": "Ministra das Mulheres valoriza parceria com deputada Benedita da Silva e outras presentes; homenageia mulheres na política brasileira; reconhece dificuldades enfrentadas; anuncia marcha contra misoginia em agosto; agradece apoio à lei de igualdade salarial.",
       "speaker": {
         "name": "Ministra Cida Gonçalves",
-        "position": "Ministra das Mulheres"
+        "position": "Ministra das Mulheres",
+        "slug": "ministra-cida-goncalves"
       }
     },
     {
@@ -164,7 +178,8 @@
       "transcription": "Fazer uso da palavra para sua breve saudação à ministra das mulheres, Cida Gonçalves.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -176,7 +191,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -187,7 +203,8 @@
       "summary": "Mestre de Cerimônias convidou deputadas Kokay e Borges para saudação.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -199,7 +216,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Mestre de Cerimônias convida senadora para breve discurso.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -221,7 +240,8 @@
       "summary": "Senadora fala sobre a importância de recursos para projetos de leis e orçamento equitativo, destacando a necessidade de representação feminina e combate à misoginia. Também menciona a reforma tributária e renúncias fiscais que afetam os ministérios, especialmente os relacionados às mulheres e à saúde pública.",
       "speaker": {
         "name": "Zenaide Maia",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "zenaide-maia"
       }
     },
     {
@@ -232,7 +252,8 @@
       "summary": "Mestre de Cerimônias: Boa tarde, cumprimenta Amine Haddad, juiz auxiliar da presidência do Conselho Nacional de Justiça.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Representando o CNJ enfatizou histórias que levaram à equidade no Brasil, como a lei Maria da Penha e igualdade salarial. Destacou lentos avanços no Judiciário e necessidade de representação feminina em políticas públicas e orçamento. Reafirmou compromisso com políticas de Estado e direitos humanos das mulheres, em especial no cumprimento de tratados internacionais.",
       "speaker": {
         "name": "Juiza Amini Haddad",
-        "position": "Representando o CNJ"
+        "position": "Representando o CNJ",
+        "slug": "juiza-amini-haddad"
       }
     },
     {
@@ -253,7 +275,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -264,7 +287,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -275,7 +299,8 @@
       "summary": "Advogada resumo: agradece, luta, resistência, inclui todas, convida deputada Janete Rocha Piettat.",
       "speaker": {
         "name": "Edilene Lobo",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "edilene-lobo"
       }
     },
     {
@@ -286,7 +311,8 @@
       "summary": "Mestre de Cerimônias convidou ex-coordenadoras e procuradoras dos direitos da mulher; algumas representadas; entregarão placas às absentes; homenageadas e atual bancada se juntam para encerrar solenemente o evento de comemoração aos 10 anos da secretaria da mulher. Boa tarde a todos.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     }
   ],

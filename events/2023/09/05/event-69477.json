@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 222429,
         "name": "Luis Carlos Gomes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luis-carlos-gomes"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "",
       "speaker": {
         "name": "-FIM DA PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-pausa"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220619,
         "name": "Delegado Ramagem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-ramagem"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     }
   ],

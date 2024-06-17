@@ -14,7 +14,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Joseildo Ramos -- por Participante -- Jorge Solla",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-joseildo-ramos-por-participante-jorge-solla"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -71,7 +76,8 @@
       "summary": " Secretária Nacional de Transportes Rodoviários: é necessária retomada imediata de obras rodoviárias relevantes, como Via Bahia, por meio de modernização de contratos e padronização. Otimização é solução para obras atrasadas em ativos estressados. O Brasil requer infraestrutura urgente alcançada por meio de diálogo governo, TCU, concessionárias e ANTT.",
       "speaker": {
         "name": "Viviane Esse",
-        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes"
+        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes",
+        "slug": "viviane-esse"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": " Presidente da Concessionária Via Bahia discutiu evolução do processo, compromisso com obras e investimentos, não dependência de recursos públicos, e redução de acidentes na rodovia. Aguarda reequilíbrio contratual no segundo semestre de 2023.",
       "speaker": {
         "name": "José Bartolomeu",
-        "position": "Presidente - Concessionária Via Bahia"
+        "position": "Presidente - Concessionária Via Bahia",
+        "slug": "jose-bartolomeu"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": " Diretor-Geral - ANTT relata problemas em concessões rodoviárias, prioriza solução de contratos antigos e aumento de desconcessões. Falou sobre debates sobre novos contratos e tarifas na Via Bahia, visando melhor atender interesse público e reduzir acidentes e reclamações.",
       "speaker": {
         "name": "Rafael Vitale Rodrigues",
-        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT"
+        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT",
+        "slug": "rafael-vitale-rodrigues"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": " Secretário de Controle Externo de Infraestrutura - TCU se desculpa por atraso; reconhece atuação positiva do Ministério e pronta resposta a demandas da comissão; Via Bahia presidente também presente; reunião transmitida ao vivo lá em Conquista; José Marco Romero com palavra por 15 minutos.",
       "speaker": {
         "name": "Carlos Rafael Menin Simões",
-        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU"
+        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU",
+        "slug": "carlos-rafael-menin-simoes"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": " União Municípios Bahia agradece convite a debate e participações. Apoia concessões para serviços públicos, mas state falhou em fiscalização e regulação, principalmente no setor de transportes. Espera tratamento equivalente a gestores públicos em concessões. Solicita solução imediata para problemas nas rodovias BR-324 e BR-116, que são cruciales para o desenvolvimento da Bahia. Aguarda metas claras e resultados definidos nos próximos leilões de concessões.",
       "speaker": {
         "name": "Júlio Pinheiro",
-        "position": "Vice-Presidente - União dos Municípios da Bahia - UPB"
+        "position": "Vice-Presidente - União dos Municípios da Bahia - UPB",
+        "slug": "julio-pinheiro"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -185,7 +200,8 @@
       "summary": " Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT enfatizou falha do Estado em concessões e priorização de modernização. Os primeiros contratos de concessão rodoviária eram imutáveis no final dos anos 90, antes da criação da ANTT. Contratos aprimorados em etapas, Brasil agora em quinta etapa, seguida internacionalmente como modelo de modernização. Ajustes contratuais possíveis para servir melhor a população.",
       "speaker": {
         "name": "Rafael Vitale Rodrigues",
-        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT"
+        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT",
+        "slug": "rafael-vitale-rodrigues"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -219,7 +237,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -231,7 +250,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 160569,
         "name": "Waldenor Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "waldenor-pereira"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 74537,
         "name": "Claudio Cajado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "claudio-cajado"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -325,7 +352,8 @@
       "transcription": "Com a",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jorge Solla -- por Participante -- Waldenor Pereira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jorge-solla-por-participante-waldenor-pereira"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 160569,
         "name": "Waldenor Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "waldenor-pereira"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -359,7 +389,8 @@
       "summary": " Mudança de presidente: Jorge Solla propõe encerrar confusão, revalorizar contrato e cumprimento de prazos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Waldenor Pereira -- por Participante -- Jorge Solla",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-waldenor-pereira-por-participante-jorge-solla"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -406,7 +440,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -418,7 +453,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -430,7 +466,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -441,7 +478,8 @@
       "summary": " Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes propõe:",
       "speaker": {
         "name": "Viviane Esse",
-        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes"
+        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes",
+        "slug": "viviane-esse"
       }
     },
     {
@@ -453,7 +491,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -464,7 +503,8 @@
       "summary": " Presidente da Concessionária Via Bahia conversou sobre insatisfação com situação atual, equipe de trabalho, transparência financeira, disposição para esclarecer sobre contrato, compromisso com engenharia, vontade de encontrar solução imediata, e obras previstas no contrato atual, incluindo terceira faixa de Salvador a Feira.",
       "speaker": {
         "name": "José Bartolomeu",
-        "position": "Presidente - Concessionária Via Bahia"
+        "position": "Presidente - Concessionária Via Bahia",
+        "slug": "jose-bartolomeu"
       }
     },
     {
@@ -475,7 +515,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -486,7 +527,8 @@
       "summary": " Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT se opõe à judicialização e deseja uma solução consensual com Via Bahia para regularizar a situação e retomar investimentos. A ANTT necessita de reestruturação com mais recursos humanos e orçamento adequado para exercer sua função regulatória de maneira eficaz.",
       "speaker": {
         "name": "Rafael Vitale Rodrigues",
-        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT"
+        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT",
+        "slug": "rafael-vitale-rodrigues"
       }
     },
     {
@@ -497,7 +539,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -508,7 +551,8 @@
       "summary": " Solução consensual em comissões necessita de concordância de todos, sem hierarquia entre entes. Prazos para decisões intensos e desgastantes, mas razoáveis em comparação a outras opções. Solução consensual resolveria litígios administrativos, judiciais e arbitragens. Ajustes à norma da comissão podem ser avaliados no futuro.",
       "speaker": {
         "name": "Carlos Rafael Menin Simões",
-        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU"
+        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU",
+        "slug": "carlos-rafael-menin-simoes"
       }
     },
     {
@@ -520,7 +564,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -531,7 +576,8 @@
       "summary": " Deputado Estadual - BA se refere a contrato da Via Bahia como \"estressado\", exige ação imediata do Ministério dos Transportes e sugere intervenção do governo e reguladores. Critica falta de cumprimento de contrato e aumento de promised investimentos. Menciona o impacto na população com mortes diárias em estradas e questiona se investidores estão cientes da situação. Suplica por decisões imediatas para evitar futuras consequências trágicas.",
       "speaker": {
         "name": "Eduardo Sales",
-        "position": "Deputado Estadual - BA"
+        "position": "Deputado Estadual - BA",
+        "slug": "eduardo-sales"
       }
     },
     {
@@ -543,7 +589,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -554,7 +601,8 @@
       "summary": " Deputado Estadual - BA observa Via Bahia não cumpre contrato desde início, justificando falta de revisões e atrasos em obras. Exorta intervenção federal por impacto nacional e mortes na BR-101. Suporte a cobrança de Eduardo e outros deputados por solução imediata.",
       "speaker": {
         "name": "Tiago Brandão Correia",
-        "position": "Deputado Estadual - BA"
+        "position": "Deputado Estadual - BA",
+        "slug": "tiago-brandao-correia"
       }
     },
     {
@@ -566,7 +614,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -577,7 +626,8 @@
       "summary": " Deputado Estadual- BA concorda com o requerimento de discussão sobre má gestão das concessionárias BR-324 e BR-116, lamenta acidentes e vítimas, favorece privatizações com melhoria de serviços, expressa dúvidas sobre solução imediata do problema, e traz reclamações do povo baiano sobre moredas rodovias federais.",
       "speaker": {
         "name": "HASSAN",
-        "position": "Deputado Estadual- BA"
+        "position": "Deputado Estadual- BA",
+        "slug": "hassan"
       }
     },
     {
@@ -588,7 +638,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -599,7 +650,8 @@
       "summary": " Deputado Estadual - BA sugeriu comissão viajar à Bahia conhecer Via Bahia; perguntou como o presidente se sente com acidentes causados por falta de sinalização.",
       "speaker": {
         "name": "LUCIANO ARAÚJO",
-        "position": "Deputado Estadual - BA"
+        "position": "Deputado Estadual - BA",
+        "slug": "luciano-araujo"
       }
     },
     {
@@ -611,7 +663,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -622,7 +675,8 @@
       "summary": " A Secretária Nacional de Transportes Rodoviários se refere à situação complicada nas rodovias, destacando esforço da ANTT e DNIT para reparo e modernização de contratos. Ela menciona a falta de decisão judicial, limitando penalidades a concessionárias, e se compromete a apoiar discussões sobre o assunto, visando encontrar a melhor solução para o povo baiano e brasileiro.",
       "speaker": {
         "name": "Viviane Esse",
-        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes"
+        "position": "Secretária Nacional de Transportes Rodoviários - SNTR - Ministério dos Transportes",
+        "slug": "viviane-esse"
       }
     },
     {
@@ -633,7 +687,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -644,7 +699,8 @@
       "summary": " Presidente da Concessionária Via Bahia enfatizou importância do estado de direito e cumprimento de obrigações contratuais. Mencionou atrasos em obras e expectativa de término em 2025 para terceira faixa Salvador-Feira. Prometeu colaborar com comissão e esclarecer dúvidas. Referiu-se a acidentes, sinalização e limpeza de faixa, afirmando que está pendente investigação.",
       "speaker": {
         "name": "José Bartolomeu",
-        "position": "Presidente - Concessionária Via Bahia"
+        "position": "Presidente - Concessionária Via Bahia",
+        "slug": "jose-bartolomeu"
       }
     },
     {
@@ -655,7 +711,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -666,7 +723,8 @@
       "summary": " Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT afirma total consciência dos problemas e necessidades da Via Bahia, buscando solução para Bahia, priorizando segurança e fluidez nas rodovias, visando zerar óbitos, interdições e reclamações em rodovias concedidas federais, comprometido em encontrar solução de interesse público para usuários baianos.",
       "speaker": {
         "name": "Rafael Vitale Rodrigues",
-        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT"
+        "position": "Diretor-Geral - Agência Nacional de Transportes Terrestres - ANTT",
+        "slug": "rafael-vitale-rodrigues"
       }
     },
     {
@@ -677,7 +735,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -688,7 +747,8 @@
       "summary": " Secretário de Controle Externo de Infraestrutura - TCU agradeceu intervenções dos deputados da Bahia e comitê, oferecendo apoio do tribunal em suas funções.",
       "speaker": {
         "name": "Carlos Rafael Menin Simões",
-        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU"
+        "position": "Secretário de Controle Externo de Infraestrutura - Tribunal de Contas da União - TCU",
+        "slug": "carlos-rafael-menin-simoes"
       }
     },
     {
@@ -700,7 +760,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     }
   ],

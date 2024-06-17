@@ -17,7 +17,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "Registradas quarenta e quatro mil denúncias de violência",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": "Lutar contra violência a idosos; valorizar pessoas idosas como presente e futuro; Papa Francisco apoia causa; importante ajudar os pobres.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": "Discurso do presidente Arthur Lira lido pelo deputado Zé Aroldo na tribuna. Boa tarde em seguida.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 204422,
         "name": "Ossesio Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ossesio-silva"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -141,7 +152,8 @@
       "summary": "Senador fala sobre a importância de honrar e proteger idosos, destacando o aumento de sua populaação e desafios futuros. Menciona o Estatuto do Idoso e propõe semana de divulgação de seus direitos e integração social. Rende homenagem ao Dia Nacional e Internacional dos Idosos e pede evolução na legislação e promoção de respeito e inclusão a idosos.",
       "speaker": {
         "name": "Marcelo Castro",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "marcelo-castro"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Delegada-Chefe Adjunta da DECRIN homenageia idosos e destaca importância de direitos e dignidade deles, comemorando 20 anos do Estatuto da Pessoa Idosa. Menciona desafios na investigação de violência contra idosos e propõe melhorias, como aplicação de lei Maria da Penha e plano nacional para envelhecimento.",
       "speaker": {
         "name": "CYNTIA CRISTINA DE CARVALHO E SILVA",
-        "position": "Delegada-Chefe Adjunta da Delegacia Especial de Repressão aos Crimes por Discriminação Racial, Relegiosa,Orientação Sexual, Pessoa Idosa ou com Deficiência-DECRIN"
+        "position": "Delegada-Chefe Adjunta da Delegacia Especial de Repressão aos Crimes por Discriminação Racial, Relegiosa,Orientação Sexual, Pessoa Idosa ou com Deficiência-DECRIN",
+        "slug": "cyntia-cristina-de-carvalho-e-silva"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Médica e Coordenadora de Saúde da Pessoa Idosa na Atenção Primária do Ministério da Saúde emphasizes the importance of strengthening SUS, ensuring adequate funding, promoting basic and primary care, and integrated care throughout the life of the elderly. She highlights the need for comprehensive solutions and involvement of all sectors for the health of the elderly in complexity, prioritizing a healthy aging attitude and long-term services in the healthy aging decade.",
       "speaker": {
         "name": "LÍGIA IASMINE PEREIRA DOS SANTOS GUALBERTO",
-        "position": "Médica e Coordenadora de Saúde da Pessoa Idosa na Atenção Primária do Ministério da Saúde"
+        "position": "Médica e Coordenadora de Saúde da Pessoa Idosa na Atenção Primária do Ministério da Saúde",
+        "slug": "ligia-iasmine-pereira-dos-santos-gualberto"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -210,7 +227,8 @@
       "summary": "A Defensoria Pública Federal agradece convite e fala sobre a importância de proteger pessoas idosas, destacando a indissociabilidade entre defensoria e idosos, e a missão de defender direitos e promover acessibilidade. Celebra dia mundial da pessoa idosa e os 35 anos da Constituição Federal, que prevê defensoria pública e proteção às idosos. Menciona o PL 4438/2020 para fortalecer rede de proteção e grupos de trabalho para analisar vulnerabilidades das idosos.",
       "speaker": {
         "name": "AMADEU ALVES DE CARVALHO",
-        "position": "Defensor Público Federal"
+        "position": "Defensor Público Federal",
+        "slug": "amadeu-alves-de-carvalho"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Celebração de aniversários constitucional e estatuto da pessoa idosa; Reconhecimento de avanços, mas também desafios no cumprimento de direitos de idosos; Necessidade de estabilidade institucional para Conselho Nacional dos Direitos da Pessoa Idosa; Aguardo para aprovação de documento fundamental para efetivação do estatuto e convenção interamericana de direitos humanos.",
       "speaker": {
         "name": "RAPHAEL CASTELO BRANCO",
-        "position": "Presidente do Conselho Nacional dos Direitos da Pessoa Idosa"
+        "position": "Presidente do Conselho Nacional dos Direitos da Pessoa Idosa",
+        "slug": "raphael-castelo-branco"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Chefe do Ofício da Proteção da Pessoa Idosa da Defensoria Pública do Distrito Federal destaca importância de acessibilidade, autodescrição em ambientes públicos e fortalecimento de órgãos de proteção a idosos. Menciona crescimento rápido da população idosa no Brasil e maioria das violências contra idosos causadas por filhos e familiares. Salienta importância do projeto Renovação Idosos para identificar e educar sobre violências.",
       "speaker": {
         "name": "AMANDA CRISTINA RIBEIRO",
-        "position": "Chefe do Ofício da Proteção da Pessoa Idosa da Defensoria Pública do Distrito Federal"
+        "position": "Chefe do Ofício da Proteção da Pessoa Idosa da Defensoria Pública do Distrito Federal",
+        "slug": "amanda-cristina-ribeiro"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     }
   ],

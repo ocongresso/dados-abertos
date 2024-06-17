@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 88256,
         "name": "Clodoaldo Magalhães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "clodoaldo-magalhaes"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Presidente da Associação para estudos da obesidade e síndrome metabólica considera obesidade doença crônica; critica falta de soluções oferecidas e crescimento de índices no Brasil, particularmente em classes sociais altas. Destaca necessidade de prevenção, tratamento, e políticas públicas para encarar custo econômico e sofrimento pessoal relacionados à obesidade.",
       "speaker": {
         "name": "Bruno Halpern",
-        "position": "Presidente da Associação para estudos da obesidade e sindrome metabólica"
+        "position": "Presidente da Associação para estudos da obesidade e sindrome metabólica",
+        "slug": "bruno-halpern"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -106,7 +114,8 @@
       "summary": "Diretora da Sociedade Brasileira de Endocrinologia destaca importância de políticas efetivas contra obesidade, incluindo regulamentação alimentar, tributação de bebidas açucaradas, tratamento equitativo no SUS e engajamento de sociedade. Obesidade afeta 25% da população.",
       "speaker": {
         "name": "Maria Edna de Melo",
-        "position": "Diretora da Sociedade Brasileira de Endocrinologia"
+        "position": "Diretora da Sociedade Brasileira de Endocrinologia",
+        "slug": "maria-edna-de-melo"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Conselho Federal de Medicina alerta crescendo obesidade populacional, causando mais mortes prematuras por quatro principais doenças crônicas. Preocupação com alta taxa de obesidade em adolescentes e impactos futuros no sistema de saúde e previdência. Recomenda foco em prevenção e tratamento, mobilizando especialistas. Avisa grave impacto na saúde pública e previdência social próximo décadas.",
       "speaker": {
         "name": "Leonardo Emilio",
-        "position": "Conselho Federal de Medicina"
+        "position": "Conselho Federal de Medicina",
+        "slug": "leonardo-emilio"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -152,7 +164,8 @@
       "summary": "A Diretora Regional da Sociedade Brasileira de Diabetes do DF discutiu o aumento da obesidade no Brasil e o desafio no tratamento do diabetes, incluindo acesso a medicamentos, longas distâncias e abandono do tratamento. Ela destacou a criação de um centro especializado no DF e a necessidade de políticas públicas, equipe multidisciplinar e abordagem intersetorial, além de mencionar as dificuldades relatadas por pacientes com equipamentos e preconceito societário.",
       "speaker": {
         "name": "Alexandra Rubim",
-        "position": "Diretora Regional da Sociedade Brasileira de Diabetes do DF"
+        "position": "Diretora Regional da Sociedade Brasileira de Diabetes do DF",
+        "slug": "alexandra-rubim"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -199,7 +215,8 @@
       "summary": "Coordenadora da Coalizão Vozes do Advocacy e Obesidade destaca necessidade de políticas públicas para tratamento de diabetes e obesidade, combate a gordofobia e preconceito, e defende centros de referência para expandir linha de cuidado.",
       "speaker": {
         "name": "Vanessa Pirolo",
-        "position": "Coordenadora da Coalizão Vozes do Advocacy e Obesidade"
+        "position": "Coordenadora da Coalizão Vozes do Advocacy e Obesidade",
+        "slug": "vanessa-pirolo"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "Nutricionista, antiga obesidade grave, tentou mudar vida estudando nutrição, mas compulsão alimentar aumentou e chegou a 190 kg, depressão e tentativa de suicídio. Hoje, ativista e conselheiro CRN, combate estigma contra obesidade, busca tratamento acessível e eficaz, e acredita em opções além da cirurgia bariátrica. Valoriza compreensão de obesidade como doença e comunicação em consultórios.",
       "speaker": {
         "name": "Erick Cuzziol",
-        "position": "Nutricionista e Coordenador de Departamento de Vozes da ABESO"
+        "position": "Nutricionista e Coordenador de Departamento de Vozes da ABESO",
+        "slug": "erick-cuzziol"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Segundo Vice Presidente CONFEF propõe três horas semanais de educação física em escolas, em vez da atual única hora. Ele menciona um projeto de lei no Senado e destaca a importância de profissionais de educação física em desenvolvimento físico e psicológico de crianças, desde creches. Ele também fala sobre leis estaduais e constitucionais relacionadas à educação física.",
       "speaker": {
         "name": "Carlos Alberto Eilert",
-        "position": "Segundo Vice Presidente CONFEF- Conselho Federal de Educação Física"
+        "position": "Segundo Vice Presidente CONFEF- Conselho Federal de Educação Física",
+        "slug": "carlos-alberto-eilert"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Médica Cirurgiã Represetante da SBCBM: agradece comparecência, representa Sociedade Brasileira de Cirurgia Metabólica; cirurgia bariátrica parte de tratamento multidisciplinar da obesidade, exige cirurgia adequada, equipe e centro cirúrgico adequado; cirurgia bariátrica é etapa, não fim, do tratamento crônico da obesidade; busca por técnicas com melhores resultados e menor custo.",
       "speaker": {
         "name": "Ana Carolina",
-        "position": "Médica Cirurgiã Represetante da SBCBM- Sociedade Brasileira de Cirurgia Bariátrica e Metabólica"
+        "position": "Médica Cirurgiã Represetante da SBCBM- Sociedade Brasileira de Cirurgia Bariátrica e Metabólica",
+        "slug": "ana-carolina"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Votação encerrada, iniciando apuração nos painéis eletrônicos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Eleito presidente: deputado Arnaldo Malafay; vice-presidente: deputado Okcio Favacho; subcomissão formada para tratamento de tema importante; convidado a falar sobre o tema: deputado Abílio; agradecimentos a deputado Derinodo e Dorinaldo; outras comissões em andamento; presidente Acácio agradecido.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220573,
         "name": "Dorinaldo Malafaia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dorinaldo-malafaia"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     }
   ],

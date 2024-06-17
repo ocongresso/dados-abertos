@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Educando e conscientizando desde 2015; enfrentam barreiras há anos, mas quebrando preconceitos por meio de resultados. Yan, 20 anos, estudante de desenvolvimento de sistema e programação, trabalha na Câmara Municipal de São Paulo e sonha em ser vereador. Alexia, estudante de pedagogia, elogia filho por alcançar objetivos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -93,7 +100,8 @@
       "transcription": "E bom",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Laura Carneiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-laura-carneiro"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -139,7 +150,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Laura Carneiro -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-laura-carneiro-por-participante-marangoni"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -161,7 +174,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Rosângela Moro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-rosangela-moro"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -196,7 +212,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -208,7 +225,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -230,7 +249,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rosângela Moro -- por Participante -- Alberto Mourão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rosangela-moro-por-participante-alberto-mourao"
       }
     },
     {
@@ -241,7 +261,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -253,7 +274,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -264,7 +286,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -276,7 +299,8 @@
       "speaker": {
         "id": 204508,
         "name": "Igor Timo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "igor-timo"
       }
     },
     {
@@ -287,7 +311,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -299,7 +324,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -311,7 +337,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -334,7 +362,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -344,7 +373,8 @@
       "transcription": "Tribuna nosso querido deputado Alberto Mourão. Por favor deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alberto Mourão -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alberto-mourao-por-participante-marangoni"
       }
     },
     {
@@ -356,7 +386,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -368,7 +399,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -380,7 +412,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -403,7 +437,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -415,7 +450,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -427,7 +463,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -438,7 +475,8 @@
       "summary": "Prefeito de Campina do Monte Alegre: negou-se a deputados sobre dificuldades em educação, alfabetização e recursos; está firmando parceria com universidade para capacitar professores, especialmente em educação especial.",
       "speaker": {
         "name": "Tiago do Zé Dito",
-        "position": "Prefeito de Campina do Monte Alegre"
+        "position": "Prefeito de Campina do Monte Alegre",
+        "slug": "tiago-do-ze-dito"
       }
     },
     {
@@ -449,7 +487,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -460,7 +499,8 @@
       "summary": "Liane Martins, diretora da Federação Das Associações de Síndrome de Down, agradece convite e fala sobre sua vida: nasceu com síndrome de down, teve educação regular, competiu em Olimpíadas Especiais, trabalhou em creche e tribunal, escreveu livro, defende autonomia e inclusão de pessoas com síndrome de down.",
       "speaker": {
         "name": "Liane Martins",
-        "position": "Federação Das Associações de Síndrome de Down"
+        "position": "Federação Das Associações de Síndrome de Down",
+        "slug": "liane-martins"
       }
     },
     {
@@ -472,7 +512,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -484,7 +525,8 @@
       "speaker": {
         "id": 220659,
         "name": "Dayany Bittencourt",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dayany-bittencourt"
       }
     },
     {
@@ -496,7 +538,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -507,7 +550,8 @@
       "summary": "Federação Nacional de Educação de Surdos agradece convidado e representa luta por acessibilidade, LIBRAS e direitos diariamente para todas deficiências. Congresso deve ter intérprete, FENES representa comunidade surda no CONADE, discute políticas públicas e aumenta presença no ordenamento jurídico. Luta em defesa de direitos linguísticos da LIBRAS, inclui diversos tipos de surdos.",
       "speaker": {
         "name": "Mariana Siqueira",
-        "position": "Federação Nacional dos Surdos"
+        "position": "Federação Nacional dos Surdos",
+        "slug": "mariana-siqueira"
       }
     },
     {
@@ -518,7 +562,8 @@
       "summary": "Sonho: avançar acessibilidade no Brasil, FENES representa comunidade surda, luta por escolas bilíngues e inclusivas, legislação variada em estados, continuar lutando por políticas, agradece programa \"Viver Sem Limites\" e convidada deputada Érica, inclusão importante em todos os lugares, exemplo de comunicação com LIBRAS inclusive fora da comunidade surda.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Alberto Mourão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-alberto-mourao"
       }
     },
     {
@@ -528,7 +573,8 @@
       "transcription": "Possam aprender libras. Muito obrigada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alberto Mourão -- por Participante -- Duarte Jr.",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alberto-mourao-por-participante-duarte-jr"
       }
     },
     {
@@ -539,7 +585,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -551,7 +598,8 @@
       "speaker": {
         "id": 204540,
         "name": "Maria Rosas",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-rosas"
       }
     },
     {
@@ -563,7 +611,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -574,7 +623,8 @@
       "summary": "Hoje, Participante está feliz por estar aqui, é estudante de educação física, tem milhares de seguidores no Instagram e TikTok, inspira pessoas com deficiência com seus vídeos, recebeu mensagens maravilhosas de todo o Brasil, agradece aos pais por seu apoio e à Câmara dos Deputados por homenageá-lo, incentivando a inclusão de pessoas com deficiência em todo o país.",
       "speaker": {
         "name": "João Victor de Paiva",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "joao-victor-de-paiva"
       }
     },
     {
@@ -586,7 +636,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -597,7 +648,8 @@
       "summary": "Participante descreve trabalho em instituto ajudando pessoas com deficiência, autismo e doenças raras, ativa há anos em grupo de autosensoria discutindo políticas públicas, destaca importância de pessoas com deficiência ocuparem espacos de decisão e expressa gratidão por suporte recebido. Menciona LBI e material de lei em linguagem simples.",
       "speaker": {
         "name": "Esthefani Ferreira Lima",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "esthefani-ferreira-lima"
       }
     },
     {
@@ -609,7 +661,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -621,7 +674,8 @@
       "speaker": {
         "id": 220687,
         "name": "Márcio Honaiser",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-honaiser"
       }
     },
     {
@@ -633,7 +687,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -644,7 +699,8 @@
       "summary": "Federação Nacional das Apaes conversou sobre inclusão de pessoas com deficiência, agradeceu a oportunidade de falar e homenageou ativistas e legisladores com deficiência. Promoveram mobilização nacional para inclusão em todos os ambientes, incluindo virtual. Reiteraram compromisso com a inclusão em todas as etapas da vida.",
       "speaker": {
         "name": "Tâmara Tamires Soares Silva",
-        "position": "Federação Nacional das Apaes"
+        "position": "Federação Nacional das Apaes",
+        "slug": "tamara-tamires-soares-silva"
       }
     },
     {
@@ -656,7 +712,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -668,7 +725,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -680,7 +738,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -691,7 +750,8 @@
       "summary": "Participante fala como mãe de filho com deficiência; agradece evento pela inclusão e igualdade; elogia representantes da comunidade. Luta por respeito aos filhos e inclusão em todos os ambientes.",
       "speaker": {
         "name": "Adriana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "adriana"
       }
     },
     {
@@ -703,7 +763,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -714,7 +775,8 @@
       "summary": "Autodefensor da Apae: descrito como homem idoso usando terno azul escuro, pouco cabelo e barba, óculos. Ex-tempo, pessoas com deficiência eram marginalizadas, hoje respeitadas. Peça aos deputados a considerarem mais pessoas com deficiência, inclusão ainda não plena. Quer mais acessibilidade e respeito para pessoas com deficiência. Possui programa de rádio e TV sobre inclusão social. Não é incapaz, sim deficiente. Pedido de carinho e felicidade ao ser tratado com respeito.",
       "speaker": {
         "name": "Francisco Matos",
-        "position": "Autodefensor da Apae"
+        "position": "Autodefensor da Apae",
+        "slug": "francisco-matos"
       }
     },
     {
@@ -726,7 +788,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -738,7 +801,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -750,7 +814,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -761,7 +826,8 @@
       "summary": "Associação Assistência á Criança Deficiente: 73 anos lutando por direitos pessoas com deficiência física, 800 mil atendimentos, 55 mil produtos ortopédicos, sete unidades, cinco oficinas, tecnologia avançada, realiza 40% cirurgias escoliose do Brasil. Agradece apoio sociedade, empresas, poder público e cientistas parlamentares. Promove inclusão e vacinação contra poliomielite. Parabeniza outras instituições deficiência no Brasil.",
       "speaker": {
         "name": "Edson Brito",
-        "position": "Associação Assistência á Criança Deficiente"
+        "position": "Associação Assistência á Criança Deficiente",
+        "slug": "edson-brito"
       }
     },
     {
@@ -773,7 +839,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -785,7 +852,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -796,7 +864,8 @@
       "summary": "Participante agradece incentivo educacional e religioso à irmã Helena, e também homenageia Michel Catini e Elita Alkaji. Grazas a Deus por trabalho constante.",
       "speaker": {
         "name": "Helena",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "helena"
       }
     },
     {
@@ -808,7 +877,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -820,7 +890,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -831,7 +902,8 @@
       "summary": "Vice-presidente da APAES agradece deputada Rosângela Moro por defender direitos deficientes, destaca necessidade de implementar LBI, promover trabalho conjunto em políticas públicas, criar fundo para inclusão e comemora Semana Nacional da Pessoa com Deficiência, enfatizando defesa e garantia de direitos, especialmente intelectuais e múltiplos.",
       "speaker": {
         "name": "Nilson Alves Ferreira",
-        "position": "Vice- Presidente das Federação da APAES"
+        "position": "Vice- Presidente das Federação da APAES",
+        "slug": "nilson-alves-ferreira"
       }
     },
     {
@@ -843,7 +915,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     },
     {
@@ -855,7 +928,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -867,7 +941,8 @@
       "speaker": {
         "id": 220686,
         "name": "Duarte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-jr"
       }
     }
   ],

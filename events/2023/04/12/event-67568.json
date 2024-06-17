@@ -17,7 +17,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Cerimônia com diretores da Câmara e DEPOL; execução do hino nacional pela Banda de Música do Grupamento de Fuzileiros Navais de Brasília, regida por Sérgio Renato da Silva Júnior.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Senhor Celso de Barros Correia, diretor geral da Câmara dos Deputados. Senhor Paul Pierre, diretor do DEPOL. Outros parlamentares virão posteriormente. Tá. Convido a todos para acompanhar em posição de respeito, o hino nacional, executado pela banda De Música do Grupamento de Fuzileiros Navais de Brasília, sob a regência do sub oficial Sérgio Renato da Silva Júnior.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Polícia legislativa se moderniza para maior segurança institucional, combate fraudes, fiscaliza manifestantes e garante segurança de parlamentares. Treinamentos enfatizam respeito à pessoa e à não truculência. Atualizações frequentes com melhores equipamentos e estrutura preventiva promovem equilíbrio no processo legislativo e participação democrática.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "Quero chamar também para",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Senador elogia equipe da casa e pede modernização. Agraeca assistência durante campanha e admira comprometimento com instituição. Reitera disposição para ajudar e manter laços estreitos com a corporação.",
       "speaker": {
         "name": "Hiran Gonçalves",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "hiran-goncalves"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Diretor Geral CD agradece convívio e compromisso da gestão com administração, expressando gratidão pela acolhida e disposição para trabalhar juntos.",
       "speaker": {
         "name": "Celso de Barros Correia Neto",
-        "position": "Diretor Geral CD"
+        "position": "Diretor Geral CD",
+        "slug": "celso-de-barros-correia-neto"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Diretor do DEPOL agradece a Deus e a todos os presentes por celebração; expressa orgulho por colegas policiais defendendo democracia, especialmente no dia 8 de janeiro; homenageia agentes Bicalho, Valério e Tomacini por suas ações naquela data.",
       "speaker": {
         "name": "Paul Pierre Deeter",
-        "position": "Diretor do DEPOL"
+        "position": "Diretor do DEPOL",
+        "slug": "paul-pierre-deeter"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Senador agradece polícia legislativa por proteção passada e espera por instalação de CPMI. Destaca importância de polícia legislativa em Câmara e Senado, e pede por maior reforço e integração. Critica omissões do Governo Federal antes dos eventos de janeiro e pede por apuração individual dos acontecimentos. Parabeniza iniciativa da sessão e cumprimenta diretor e colegas policiais.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -282,7 +305,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -328,7 +355,8 @@
       "summary": "Senador agradece oportunidade de falar, cumprimenta deputados, agradece DEPOL e policia legislativa por apoio em investigação de plano criminoso contra ele e esposa, deputada federal. Menciona votação na comissão de segurança do Senado sobre projeto de lei ampliando segurança a policiais em situação de risco. Expressa agradecimento a policiais que o auxiliaram em sua carreira e atualmente.",
       "speaker": {
         "name": "Sergio Moro",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "sergio-moro"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -376,7 +407,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 204453,
         "name": "Natália Bonavides",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "natalia-bonavides"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -459,7 +497,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -482,7 +522,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -493,7 +534,8 @@
       "summary": "Deputado agradece a Deus e eleitores por estar no Parlamento. Reconhece o trabalho educado, sábio e gracioso dos presentes. Menciona o difícil momento que o Brasil passou e a importância do sistema político convergir por uma única visão. Louva e abençoa a família e os projetos dos presentes.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -505,7 +547,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -517,7 +560,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -528,7 +572,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -540,7 +585,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -564,7 +611,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -575,7 +623,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -586,7 +635,8 @@
       "summary": "Recebendo palavra de deputado Ribbon Nunes, agradece a honra de falar, prezando presença dos policiais. (8 words)",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bibo Nunes -- por Participante -- Prof. Paulo Fernando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bibo-nunes-por-participante-prof-paulo-fernando"
       }
     },
     {
@@ -597,7 +647,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -609,7 +660,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -620,7 +672,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -632,7 +685,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -643,7 +697,8 @@
       "summary": "Policia por 20 anos; público ligado a autoridade; dificuldade no trabalho com competência e controle; homenagem em dias difíceis; comparte com STF pra valer no legislativo; agradece.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Prof. Paulo Fernando -- por Participante -- Bibo Nunes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-prof-paulo-fernando-por-participante-bibo-nunes"
       }
     },
     {
@@ -655,7 +710,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     }
   ],

@@ -13,7 +13,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "O presidente Pedro Lupião. Nosso FPA. Sérgio Souza. Meu amigo,",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "Sim. E a gente passa então a declaração dos eleitos,",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -45,7 +48,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -55,7 +59,8 @@
       "transcription": "Brincadeira",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tião Medeiros -- por Participante -- Vicentinho Júnior",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tiao-medeiros-por-participante-vicentinho-junior"
       }
     },
     {
@@ -67,7 +72,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -90,7 +97,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -113,7 +122,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 204450,
         "name": "Doutor Luizinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "doutor-luizinho"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 204567,
         "name": "Raimundo Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-costa"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -301,7 +326,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -313,7 +339,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -394,7 +427,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -406,7 +440,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -418,7 +453,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -429,7 +465,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -441,7 +478,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     }
   ],

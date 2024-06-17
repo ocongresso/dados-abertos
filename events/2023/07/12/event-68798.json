@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia mencionou presentes e se dirigiu ao deputado, falando sobre a necessidade de a présence do advogado Davi Augusto para assessorá-lo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia conocido por clientes, pide orientación a doutor David Augusto sobre hablar o silencio con clientes, debido a cancelamento de la CPR, manteniendo relación con NGS Consultoria y su idoneidad.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Advogado do Depoente solicitou adiamento devido à falta de pré-conhecimento do assunto a ser discutido e impossibilidade de contato prévio com o depoente. Ele deseja primeiro compreender as acusações antes de prosseguir com o depoimento, insistindo em manter a audiência para garantir o devido processo legal, ampla defesa e contraditório. Por isso, pediu que o depoente se mantenha em silêncio.",
       "speaker": {
         "name": "Davi Augusto",
-        "position": "Advogado do Depoente"
+        "position": "Advogado do Depoente",
+        "slug": "davi-augusto"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Advogado do Depoente atua há um ano no caso GS, houve interrupção de representante da Gladys, continua sendo representado por Doutor David Augusto.",
       "speaker": {
         "name": "Davi Augusto",
-        "position": "Advogado do Depoente"
+        "position": "Advogado do Depoente",
+        "slug": "davi-augusto"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -133,7 +143,8 @@
       "summary": "Advogado do Depoente: insiste em acesso prévio ao procedimento, dia 3 de julho, agradece por esclarecer.",
       "speaker": {
         "name": "Davi Augusto",
-        "position": "Advogado do Depoente"
+        "position": "Advogado do Depoente",
+        "slug": "davi-augusto"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -156,7 +168,8 @@
       "summary": "Agentes federais podem acessar setor jurídico de Cabanduba por link direto, afirma sócio da GAS Consultoria \u0026 Tecnologia.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -178,7 +192,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -188,7 +203,8 @@
       "transcription": "Garantida a entrevista",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -222,7 +240,8 @@
       "transcription": "Explência pela ordem só pra ele ficar registrado, a procuradora que tem que tem a procuração dos autos também tinha a garantia da",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -233,7 +252,8 @@
       "summary": "Advogada do Depoente afirma: decisões de manutenção de bens dependem da falta de orientação política da única patrona e da impossibilidade de encontrar o médico. Qualquer decisão sua é também baseada em poderes estabelecidos nos autos e em discussões com seus advogados por telefone.",
       "speaker": {
         "name": "Leitícia Farah",
-        "position": "Advogada do Depoente"
+        "position": "Advogada do Depoente",
+        "slug": "leiticia-farah"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Nascido humildemente, trabalhador nasceu ajudante de pedreiro. Viveu em diferentes lugares, compreendendo a escolha simbólica do endereço mencionado pelo relator.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": "Cliente GAS contratava equipe trading delles para operar criptoativos. Diferença de possuir criptoativo em carteira pessoal versus terceirizar serviço. Consultoria oriente pessoas a serem financeiramente independentes, comprando e guardando criptoativos por longo prazo. Terceirização de serviço trader versus possuir criptoativo em carteira pessoal pode gerar maior retorno. Terceirização recomendada para quem tem custos e compromissos que não permitem esperar longo prazo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -313,7 +339,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia é torcedor do Flamengo, oferece consultoria sobre criptoativos como bitcoin, aconselhando investimentos a longo-prazo com paciência durante fluctuações de mercado. Recomenda carteiras offline e evitar venda de pânico. A empresa cresce organicamente, se concentra em consultas particulares e respeita regulamentações. Treinadores navegam eficazmente em ciclos de mercado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -325,7 +352,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -336,7 +364,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia: clientes satisfeitos buscavam consultoria privada, sem celebrities ou email mas recomendações diretas.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -347,7 +376,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -358,7 +388,8 @@
       "summary": "Foco da GAS Consultoria \u0026 Tecnologia estava em satisfação, não captação de clientes. A boa qualidade do serviço se difundia por boca-a-boca.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -370,7 +401,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -381,7 +413,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia transformava dinheiro em criptoativos para clientes, anteriormente realizado em espécie por Gladson como pessoa física e agora por GLS Consultoria como pessoa jurídica, aguardando o momento ideal de alta e baixa do mercado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -403,7 +437,8 @@
       "summary": "Contrato inviolável devido à volatilidade do mercado; operacionalmente exige cuidado considerando os recursos de outros; abrir contrato traria grande e incalculável prejuízo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -415,7 +450,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -426,7 +462,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia exige cadastro, identificando clientes famosos; Sócio respeita políticos brasileiros, nunca trabajo personalmente con ellos sin su consentimiento y si tienen recursos compatibles.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -438,7 +475,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -448,7 +486,8 @@
       "transcription": "Não, não, em hipótese alguma, isso isso jamais interessantíssimo senhor relator? Jamais.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -459,7 +498,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -470,7 +510,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo, agora em custódia do estado, não pode discutir patrimônio atual, será liberado em aproximadamente 43 dias.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -481,7 +522,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -491,7 +533,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -502,7 +545,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -512,7 +556,8 @@
       "transcription": "Não não não não não. Oquinho de café por favor? Obrigado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -524,7 +569,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -535,7 +581,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia: durante 9 anos e 4 meses, GS nunca atrasou pagamentos; desbloqueio de fundos sequestrados por policia federal em Binance e outras plataformas permitiria retomada de atividades.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -547,7 +594,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -558,7 +606,8 @@
       "summary": "GS operada em outras plataformas, detalhes no contrato da GS, sócio estudou 2 anos no estado e agora na unidade federal.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -570,7 +619,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -580,7 +630,8 @@
       "transcription": "Sigilo, não saía de sigilo e, sigilo e normas da minha empresa. Ok.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -592,7 +643,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -603,7 +655,8 @@
       "summary": "Clientes valorosos confiam em GAS Consultoria \u0026 Tecnologia para expertise em criptoativos; protegem suas informações.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -615,7 +668,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -626,7 +680,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia agradece por perguntas e deseja novas oportunidades de responder.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -638,7 +693,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -649,7 +705,8 @@
       "summary": "Cliente pagava em dinheiro, convertido em criptoativo; necessária assinatura de termo de responsabilidade sobre origem dos fundos, trazendo CPF ou CNPJ.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -660,7 +717,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -671,7 +729,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia se dirigiu ao presidente, verificando se ele o ouvia e pedindo sua atenção.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -683,7 +742,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -694,7 +754,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia não lembra todas as contas da GS, incluindo conta do Banco do Brasil.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -705,7 +766,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -716,7 +778,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia afirmou que é possível comprar criptomoedas pessoa a pessoa, usando intermediários para realizar a venda e entrega de bitcoins por dinheiro em locais diferentes.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -727,7 +790,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -738,7 +802,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia discutiu criptoativos e mineração através de masterNote, influenciada por estratégia contratual e operacional; grande quantidade de criptoativo estável apreendida pela polícia federal.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -749,7 +814,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -760,7 +826,8 @@
       "summary": "Plataformas de compra e venda, incluindo Minas, em contrato da GAS Consultoria; parte apreendida pela Polícia Federal em 25/08/2020.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -771,7 +838,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -782,7 +850,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia priorizou estratégia operacional e contratual responsável, oferecendo pagamento em moeda corrente com bonificação de 10%, independente de variação do bitcoin, garantindo segurança financeira a colaboradores.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -793,7 +862,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -804,7 +874,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia oferece garantia de experiência em mercado de criptoativos, mas carece de garantias bancárias; clientes optam por comprar carteira da empresa para manter offline e pagar consultoria.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -815,7 +886,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -825,7 +897,8 @@
       "transcription": "No caso de",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -837,7 +910,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -848,7 +922,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia propôs transformar em criptoativos, permitindo sua operação em plataformas.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -859,7 +934,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -870,7 +946,8 @@
       "summary": "Iniciativa privada precisa Estado para regularização.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -882,7 +959,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -893,7 +971,8 @@
       "summary": "GS tem recursos para atender todos os clientes, grato por pergunta.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -904,7 +983,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -915,7 +995,8 @@
       "summary": "Clientes terceirizam serviço na GAS Consultoria, chamados não investidores, mas clientes; GAS fornece serviço, clientes têm contrato com GAS; GES clientes também conhecem bem história da GRS.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -927,7 +1008,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -938,7 +1020,8 @@
       "summary": "Paralisação da Polícia Federal causou vulnerabilidade em pessoas, impedindo acesso a recursos para tratamentos médicos.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -949,7 +1032,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -960,7 +1044,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia empregou várias pessoas, que tinham contrato anteriormente com Gerson, de acordo com o sócio.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -972,7 +1057,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -982,7 +1068,8 @@
       "transcription": "Eu, eu que firmava os contrato e a minha esposa a nota promissória.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -994,7 +1081,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1005,7 +1093,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia possui diversos contratos com entidades jurídicas em todo Brasil.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1017,7 +1106,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1028,7 +1118,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo mencionou procedimento de 0 compliance para verificar origem de recursos e cumprir ordem judicial de bloqueio de pagamento, exemplificando caso em Cabo Frio donde GS consultoria recolheu e devolveu recurso ao sistema judiciário.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1040,7 +1131,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1051,7 +1143,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia: investigação paralisou atividades de traders, não sou pirâmide; traders em segurança em outros países aguardando esclarecimento para retomada de atividades.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1062,7 +1155,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1073,7 +1167,8 @@
       "summary": "Socio da empresa GAS Consultoria \u0026 Tecnologia operou com empresas de intermediação de pagamento, oferecendo consultoria, mentoria e pagamentos a clientes.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1084,7 +1179,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1094,7 +1190,8 @@
       "transcription": "Não senhor, não senhor, não possui sede em nenhum outro país.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1106,7 +1203,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1117,7 +1215,8 @@
       "summary": "GAS Consultoria \u0026 Tecnologia não possuía sede em outro país; Sócio distingue conta pessoal de conta empresarial, não tendo esta em exterior.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1128,7 +1227,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1139,7 +1239,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia admite possuir contas em outros países, mas não as revela publicamente.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1150,7 +1251,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1161,7 +1263,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia discutiu precisão em CPI, comparou diferentes tipos de operações de trading, mencionou evolução dos métodos de trading e desaparecimento da arbitragem.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1172,7 +1275,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1183,7 +1287,8 @@
       "summary": "A contabilidade da GAS Consultoria \u0026 Tecnologia está atualizada e os tributos sãoógidos e cuidadosamente tratados pela equipe de contadores.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1195,7 +1300,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1205,7 +1311,8 @@
       "transcription": "Não senhor não senhor isso aí eu eu repudiria repudilho e repudirei sempre. Quase",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1216,7 +1323,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1226,7 +1334,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1238,7 +1347,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1249,7 +1359,8 @@
       "summary": "Antes, transferências grandes causavam conta bloqueada e confirmação necessária com Banco Central.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1260,7 +1371,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1271,7 +1383,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia criando empresa em Londres, outro segmento, mantém sigilo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1282,7 +1395,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1293,7 +1407,8 @@
       "summary": "Esposa sem carteira Bitcoin; foi sequestrada em busca de apreensão em agosto de 2021, congelando conta Binance com Bitcoin de valor não especificado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1304,7 +1419,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1314,7 +1430,8 @@
       "transcription": "Isso aí eu também não gostaria de expor até pela minhas seguranças. O senhor",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1326,7 +1443,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1337,7 +1455,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia: Instituição religiosa não terceirizou meu serviço, mas pastores ou bispos podem ter feito por livre vontade dentro da lei e livre arbítrio. A pessoa é livre, não a instituição.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1348,7 +1467,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1358,7 +1478,8 @@
       "transcription": "Eu não gostaria de de também expor a quantidade de ambientes pela minha segurança também. Qual o",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1369,7 +1490,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1380,7 +1502,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia prioriza segurança e expressa gratidão.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1391,7 +1514,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -1403,7 +1527,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1413,7 +1538,8 @@
       "transcription": "Não me recordo de cabeça, excelentíssimo senhor deputado e Pablo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1424,7 +1550,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1434,7 +1561,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1446,7 +1574,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1456,7 +1585,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1467,7 +1597,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1478,7 +1609,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia nega envolvimento com crime e agradece pergunta.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1489,7 +1621,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1500,7 +1633,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia reconhece Anselmo Fausto como distinta figura na tecnologia, sem ligação pessoal.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1511,7 +1645,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1522,7 +1657,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia participa de debates em parlamentos para colaborar em melhorias de negócios.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1534,7 +1670,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1544,7 +1681,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1555,7 +1693,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1565,7 +1704,8 @@
       "transcription": "Isso aí. Foge do contexto da CPM de Criminal. Isso aqui quem tem sou eu. O senhor só está aqui pra",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1576,7 +1716,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1586,7 +1727,8 @@
       "transcription": "Perguntando se o senhor",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1597,7 +1739,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1608,7 +1751,8 @@
       "summary": "Negócios com 0RP impossíveis; vítima de crimes, falecida.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1619,7 +1763,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1630,7 +1775,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia afirma não estar envolvido em questões em investigação.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1641,7 +1787,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1652,7 +1799,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia não possui negócios ou conhecimento previo com a pessoa em questão.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1663,7 +1811,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1674,7 +1823,8 @@
       "summary": "Sócio da empresa GAS: não reconhece \"Nelsinho/Nilsinho\", menciona perda de informação.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1685,7 +1835,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1695,7 +1846,8 @@
       "transcription": "Sofreu sim, na verdade, ele sofreu esse atentado. E o que ele tem, a senhora é mudar.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1706,7 +1858,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1717,7 +1870,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia participou de audiência em julgamento, declarando não ter solicitado atentado contra sua vida.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1728,7 +1882,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1738,7 +1893,8 @@
       "transcription": "Não conheço nenhum, o Danilo Bode. Conhece o Daniel Aleixo? Daniel Aleixo sim. Conhece? Qual era a",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1749,7 +1905,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1759,7 +1916,8 @@
       "transcription": "Ele era uma das empresa de intermediações de pagamento, seu resultado. E o Felipe José?",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1770,7 +1928,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1780,7 +1939,8 @@
       "transcription": "Intermediação de mão os dois. Intermediação de pagamento, a gente fazia os pagamento.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1792,7 +1952,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1802,7 +1963,8 @@
       "transcription": "Como eu já falei com o senhor presidente, o senhor relator que não vou expor os números.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1814,7 +1976,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1825,7 +1988,8 @@
       "summary": "Ex-pastor se tornou garçom enquanto iniciava GAS Consultoria \u0026 Tecnologia, simultaneamente desempenhando ambas as funções enquanto a empresa ainda estava no início.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1836,7 +2000,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1847,7 +2012,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo atribui sucesso a aprendizado de seus erros em operações, acertos e falhas.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1858,7 +2024,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1869,7 +2036,8 @@
       "summary": "Cidadã saiu do Brasil em 30/06/2022, fora do país por dois meses por mandado de prisão.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1881,7 +2049,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1892,7 +2061,8 @@
       "summary": "Deputado questionado sobre supostos crimes; Sócio da GAS Consultoria \u0026 Tecnologia negou envolvimento criminoso pessoal ou de sua esposa, afirmando claramente sua inocência.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1904,7 +2074,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1915,7 +2086,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia nega movimentação financeira em dezembro de 2020, afirmando que tudo já estava bloqueado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1927,7 +2099,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1938,7 +2111,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia deseja compartilhar experência em criptoativos com autoridades, sem ser candidato a parlamentar, preferindo estar entre o povo como cidadão, passando seu conhecimento.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1950,7 +2124,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1961,7 +2136,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia never did business with the deputy and is not aware of the level of control that brokerages use for money laundering.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1972,7 +2148,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -1983,7 +2160,8 @@
       "summary": "Sócio da GAS Consultoria \u0026 Tecnologia respeita lei e recusa revelar detalhes contrato, apontando que estão documentados e disponíveis lá.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -1994,7 +2172,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2004,7 +2183,8 @@
       "transcription": "Tudo",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2015,7 +2195,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2026,7 +2207,8 @@
       "summary": "A empresa GAS Consultoria \u0026 Tecnologia está relacionada à feiras de encontro entre compradores e vendedores, falando sobre a importância de se comunicar bem, como no uso do português.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2037,7 +2219,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2048,7 +2231,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia: Socios raramente interagem com dono/representante legal no país.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2060,7 +2244,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2070,7 +2255,8 @@
       "transcription": "Estado com a Polícia Federal, E0A maioria está com a Polícia Federal apreendido, e o restante está na Binance. Pra finalizar",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2082,7 +2268,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2092,7 +2279,8 @@
       "transcription": "O senhor hoje está no presídio",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2104,7 +2292,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2115,7 +2304,8 @@
       "summary": "Não há problema em ir à Catanduvas, o sócio da GAS Consultoria \u0026 Tecnologia já está lá.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2126,7 +2316,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2137,7 +2328,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia afirma ser cauteloso por não residir em frente à sua residência no Rio de Janeiro, e está atualmente em Catanduvas.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2149,7 +2341,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2159,7 +2352,8 @@
       "transcription": "E aqui tem vários do PCC e tem vários do Comando do Verm. Está bom, obrigado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2170,7 +2364,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -2182,7 +2377,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -2194,7 +2390,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2205,7 +2402,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia esclarece para autoridades funcionamento da empresa; distingue trader de investidor; questiona certificação de Gladys.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2216,7 +2414,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2226,7 +2425,8 @@
       "transcription": "Senhor fundador da GS. Não senhor, uma coisa, eu estou falando de certificações da ANBIMA, CPA dez, CPA vinte,",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2237,7 +2437,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2248,7 +2449,8 @@
       "summary": "Mercado sem regulamentação antes de certificações; Empresa atuou por mais de 10 anos sem anticipar estado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2260,7 +2462,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2271,7 +2474,8 @@
       "summary": "Mercado crypto e mercado de ações, dois universos distintos; Tratamento individual recomendado para cada um na GAS Consultoria \u0026 Tecnologia.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2283,7 +2487,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2293,7 +2498,8 @@
       "transcription": "Senhor deputado certificação pra operar no mercado de criptoativo. Eu sei que não existe meu querido",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2304,7 +2510,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2315,7 +2522,8 @@
       "summary": "A expertise do Socio da empresa GAS Consultoria \u0026 Tecnologia adquiriu ao longo do tempo, com comprometimento e cumprimento de obrigações financeiras em todos os novenos anos e quatro meses de seu mandato.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2327,7 +2535,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2338,7 +2547,8 @@
       "summary": "Dinheiro guia ações, inevitável perseguir sua trilha por contas próprias e de terceiros.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2350,7 +2560,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2361,7 +2572,8 @@
       "summary": "Recuperação judicial de landing requer conhecimento básico, afirma sócio da GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2372,7 +2584,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -2383,7 +2596,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -2395,7 +2609,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2406,7 +2621,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia afirma que a empresa foi bloqueada e paralisada por alegadas operações clandestinas, sem comprovação de pirâmide financeira, resultando em prejuízo e violação de liberdade econômica e iniciativa privada.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2418,7 +2634,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2428,7 +2645,8 @@
       "transcription": "Não, o senhor vai me deixar falar porque aqui nós que quem está",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2440,7 +2658,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2451,7 +2670,8 @@
       "summary": "Empresa do sócio colaborou com Polícia Federal, fornecendo acesso a carteiras criptografadas por solicitação do delegado Guilherme no dia 14/03/2022.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2462,7 +2682,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2472,7 +2693,8 @@
       "transcription": "Não, é uma ser criptografado, é uma é uma carteira Neymar, o senhor passou.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2483,7 +2705,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2493,7 +2716,8 @@
       "transcription": "Passei por delegado da Polícia Federal.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2504,7 +2728,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2515,7 +2740,8 @@
       "summary": "Socio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo irá retomar atividade dentro de regulamento, com seis meses para ajustar às regras do Banco Central.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2527,7 +2753,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2537,7 +2764,8 @@
       "transcription": "Mas essa essa infelicidade foi da Polícia Federal ter paralisado a minhas operações.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2549,7 +2777,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2560,7 +2789,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia cuestiona arresto, afirmando que actuou la justiça baseada en denúncia anónima, questionando hora denúncia recebida e alegando que polícia não debe actuar sobre denúncia anónima. Promete aclarar processo y devolver dinheiro si es votado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2572,7 +2802,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2583,7 +2814,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia: devolverá dinheiro às pessoas; parte está com a Polícia Federal, outra em plataformas; tem recursos para rembolsar e pagará pessoas.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2595,7 +2827,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2606,7 +2839,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia pagará todas suas dívidas após resolver processo em andamento.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2618,7 +2852,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2629,7 +2864,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia: Apreensão de carteiras interrompida ao desbloqueá-las.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2640,7 +2876,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -2652,7 +2889,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -2664,7 +2902,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2675,7 +2914,8 @@
       "summary": "A consultoria GAS distingue investimento em criptoativos de terceirização de time, rejeitando ilícito.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2686,7 +2926,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2697,7 +2938,8 @@
       "summary": "Serviço de consultoria pré-definido, oferecido pela empresa GAS Consultoria \u0026 Tecnologia. Resposta sobre prestação do serviço.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2708,7 +2950,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2719,7 +2962,8 @@
       "summary": "Mercado tradicional ya no vinculado al oro desde 1970; Sócio de GAS Consultoria \u0026 Tecnologia explica cómo se capta recursos sin matemática ni lógica específica.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2731,7 +2975,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2741,7 +2986,8 @@
       "transcription": "Buscava a minha empresa Pois não. Pelo teu bom serviço. Perfeitamente.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2753,7 +2999,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2764,7 +3011,8 @@
       "summary": "Contrato assinado, prestação de serviço com nota promissória.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2776,7 +3024,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2787,7 +3036,8 @@
       "summary": "Estratégia contratual é inviolável e crucial para o bom funcionamento das operações da empresa no mercado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2798,7 +3048,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2809,7 +3060,8 @@
       "summary": "Acesso a equipe especializada, disponível para clients/consultores da indústria.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2820,7 +3072,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2831,7 +3084,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia distingue sua responsabilidade do desempenho dos traders e sua dedicação à empresa.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2843,7 +3097,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2854,7 +3109,8 @@
       "summary": "Empresário distingue entre pessoal/físico e empresa, inquerindo sobre possível empresa no exterior e sobre operação da GAS Consultoria \u0026 Tecnologia no Brasil.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2865,7 +3121,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2876,7 +3133,8 @@
       "summary": "Empresa do Sócio da GAS Consultoria \u0026 Tecnologia situada fora do país sem ligação à GES.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2887,7 +3145,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2897,7 +3156,8 @@
       "transcription": "Fora do país, sem ser o GRS, pode ficar claro. Estou falando da gestão, estou perguntando se eu tenho outra empresa fora do país.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2908,7 +3168,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2918,7 +3179,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2930,7 +3192,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2940,7 +3203,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2951,7 +3215,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2962,7 +3227,8 @@
       "summary": "Empresa GAS Consultoria \u0026 Tecnologia, especializada em plataformas como Binance, enfrentou conta bloqueada por experiência do sócio.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2973,7 +3239,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2984,7 +3251,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia trabalhou lá de 2014 a 2015, depois parou de trabalhar por alguns anos.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -2996,7 +3264,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -3007,7 +3276,8 @@
       "summary": "Gás Consultoria \u0026 Tecnologia socio refirió: transações com clientes eram por transferência bancária; comprava bitcoins com plataforma online, controlava cryptoativos através de \"Rash\".",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3019,7 +3289,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -3030,7 +3301,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -3042,7 +3314,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3053,7 +3326,8 @@
       "summary": "Polícia Federal apreendeu recursos da GAS Consultoria; delegado requisitou senha criptografada de um escrito ativo, sem acesso.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3064,7 +3338,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3075,7 +3350,8 @@
       "summary": "Recurso requer Polícia Federal para acessar, seu possui a senha.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3086,7 +3362,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3096,7 +3373,8 @@
       "transcription": "Porque eu vou voltar pra minha empresa.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3108,7 +3386,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3118,7 +3397,8 @@
       "transcription": "Porque a minha estratégia operacional foi violada pela operação da Polícia Federal. OK, obrigado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3129,7 +3409,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3140,7 +3421,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -3152,7 +3434,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3163,7 +3446,8 @@
       "summary": "Antes trabalhou como garçom e pastor; conheceu criptomoedas por sua esposa; iniciou empresa pessoalmente, pedindo pessoa a pessoa, inspirado no SEBRAE.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3174,7 +3458,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3185,7 +3470,8 @@
       "summary": "GAS Consultoria \u0026 Tecnologia's comercial and operational functions closely interconnected; specific strategy details not disclosed by the partner.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3197,7 +3483,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3208,7 +3495,8 @@
       "summary": "Operação \"Pozíssimo tres\" permite day trade em determinados dias; estratégia interna da GAS Consultoria \u0026 Tecnologia.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3219,7 +3507,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3229,7 +3518,8 @@
       "transcription": "É isso aí. Obrigado pela pergunta. Isso aí eu não vou expor.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3240,7 +3530,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3250,7 +3541,8 @@
       "transcription": "",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3262,7 +3554,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3273,7 +3566,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo apresenta capacidade de rastrear investimentos por contrato, incluindo compra e venda de bitcoins e outras criptomoedas, registrados e rastreados na blockchain. Demonstra isso como prova de uso adequado de recursos em custódia.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3285,7 +3579,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3295,7 +3590,8 @@
       "transcription": "Estão apreendido com a Polícia Federal, mas eles não têm acento.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3306,7 +3602,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3317,7 +3614,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia afirmou ter valor solicitado pelo deputado, sente a dor do povo em crisis, paralisia de atividade devido a Polícia Federal e questiona por que não recebe ajuda.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3328,7 +3626,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3339,7 +3638,8 @@
       "summary": "Polícia Federal errou sobre GAS Consultoria; sócio não é responsável por atrasos em pagamentos a funcionários.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3350,7 +3650,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3360,7 +3661,8 @@
       "transcription": "Ou seja, deixa eu finalizar. Ou seja, o senhor afirma ser mesmo possível garantir rendimento",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3372,7 +3674,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3383,7 +3686,8 @@
       "summary": "Empresa do socio opera com recursos próprios e da Polícia Federal, pagando funcionários em tempo.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3395,7 +3699,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3406,7 +3711,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnology refere que a lei de liberdade econômica de 2019 paralisou sua empresa, agora deseja demonstrar às autoridades e presentes capacidade de pagar e cumprir compromissos com clientes.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3418,7 +3724,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3429,7 +3736,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia: Contratou advogados, desconhecia o ocorrido, empresa já paralisada em 25/08/2022, Carmo do Fátima entrou com pedido na justiça, Polícia Federal acusou empresa como suposta pirâmide, autoridade paralisou atividade da empresa.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3441,7 +3749,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3452,7 +3761,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo não podia responder sobre a atitude do russo, aparentemente relacionada a algo sigiloso e violento.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3464,7 +3774,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3475,7 +3786,8 @@
       "summary": "Aparência GRS causa dificuldades financeiras, secondo o Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo. Ninguém é verdadeira vítima.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3487,7 +3799,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3498,7 +3811,8 @@
       "summary": "Trabalho da polícia civil desconhecido pelos detalhes fornecidos.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3509,7 +3823,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3520,7 +3835,8 @@
       "summary": "Socio da GAS Consultoria \u0026 Tecnologia aborda tema não relacionado a CPI de pirâmides, levanta questões.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3532,7 +3848,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3542,7 +3859,8 @@
       "transcription": "Você ama? Ah não? Não senhor não era concorrente de mil novecentos.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3554,7 +3872,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3565,7 +3884,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia considera declaração de deputado como falácia, não se sente ameaçado.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3577,7 +3897,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3588,7 +3909,8 @@
       "summary": "Sócio da empresa GAS Consultoria \u0026 Tecnologia nega acusações de convidar morte de alguém e oferecer dinheiro por carteira de cliente.",
       "speaker": {
         "name": "GLAIDSON ACACIO DOS SANTOS",
-        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo"
+        "position": "Sócio da empresa GAS Consultoria \u0026 Tecnologia - GAS Consultoria \u0026 Tecnolo",
+        "slug": "glaidson-acacio-dos-santos"
       }
     },
     {
@@ -3599,7 +3921,8 @@
       "speaker": {
         "id": 220616,
         "name": "Luciano Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-vieira"
       }
     },
     {
@@ -3610,7 +3933,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -3622,7 +3946,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -3633,7 +3958,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -3645,7 +3971,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -3657,7 +3984,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     }
   ],

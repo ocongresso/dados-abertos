@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Obrigado, bom dia, obrigado",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- José Priante -- por Participante -- Fernando Mineiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jose-priante-por-participante-fernando-mineiro"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Caatinga necessita atenção por vulnerabilidade a clima e gases estufa; crescer áreas protegidas e restaurar vegetação recomendados; ITMBIO estuda ampliar unidades conservação federais e apoia planos recuperação áreas degradadas.",
       "speaker": {
         "name": "BRÁULIO DIAS",
-        "position": "Diretor de Conservação e Uso Sustentável da Biodiversidade do Ministério do Meio Ambiente e Mudanças Climáticas - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA"
+        "position": "Diretor de Conservação e Uso Sustentável da Biodiversidade do Ministério do Meio Ambiente e Mudanças Climáticas - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA",
+        "slug": "braulio-dias"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Professora da UFPE destacou baixa proteção e rico potencial da Caatinga, com alta biodiversidade endêmica e frágeis conhecimentos tradicionais. Projeto mapea arranjos produtivos locais, validando conhecimento sobre plantas com usos farmacêutico, defensivo, cosmético e alimentar. Exemplos incluem umbu com atividade antioxidante e extrato do licuri com atividade antimicrobiana e cicatrizante. Proposta de desenvolvimento sustentável de bioeconomia para o Nordeste.",
       "speaker": {
         "name": "MARCIA VANUSA DA SILVA",
-        "position": "Professora da Universidade Federal de Pernambuco - UFPE - Universidade Federal de Pernambuco - UFPE"
+        "position": "Professora da Universidade Federal de Pernambuco - UFPE - Universidade Federal de Pernambuco - UFPE",
+        "slug": "marcia-vanusa-da-silva"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "A Chefe Geral da Embrapa Semiárido apresentou a biodiversidade da Caatinga, destaque para famílias como Fabrácea e Euforbiácea. Explicou o potencial de uso dessas espécies para alimentação, forrageio, genética, madeira, medicinal, pigmentos e bioinsumos. Também abordou os desafios na conservação do bioma, como a pressão da agropecuária e a mudança climática. O objetivo é fazer um uso sustentável do bioma, valorizando sua biodiversidade.",
       "speaker": {
         "name": "MARIA AUXILIADORA COELHO DE LIMA",
-        "position": "Chefe Geral da Embrapa Semiárido - Embrapa"
+        "position": "Chefe Geral da Embrapa Semiárido - Embrapa",
+        "slug": "maria-auxiliadora-coelho-de-lima"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Professor da UFRN expressa satisfação em contribuir para valorização da caatinga, com objetivo de ajudar a qualificar. Fala de forma reservada próxima ao microfone.",
       "speaker": {
         "name": "CARLOS FONSECA",
-        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN"
+        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN",
+        "slug": "carlos-fonseca"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -141,7 +152,8 @@
       "summary": "Professore do Departamento de Ecologia da UFRN discute Projeto de Lei 348/2",
       "speaker": {
         "name": "CARLOS FONSECA",
-        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN"
+        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN",
+        "slug": "carlos-fonseca"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Professor da Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias fala sobre a importância da Caatinga no Brasil, especialmente durante a \"Semana da Caatinga\" e o \"Dia Nacional da Caatinga\" em 28 de setembro. Ele menciona sua origem em Patu, Rio Grande do Norte, e sua paixão pela academia, que desempenhou vários papéis em programas de conservação e desenvolvimento da Caatinga.",
       "speaker": {
         "name": "JEAN BERG ALVES DA SILVA",
-        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias"
+        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias",
+        "slug": "jean-berg-alves-da-silva"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Professora da Universidade Federal Rural do Semi-Árido apresenta projetos da instituição, incluindo CEMAS com 300 publicações internacionais e 30 teses, Caatinga 3",
       "speaker": {
         "name": "JEAN BERG ALVES DA SILVA",
-        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias"
+        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias",
+        "slug": "jean-berg-alves-da-silva"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Membro da Coordenação da Articulação Semiárido Brasileiro pelo Estado de Pernambuco destaca:",
       "speaker": {
         "name": "PAULO PEDRO DE CARVALHO",
-        "position": "Membro da Coordenação da Articulação Semiárido Brasileiro pelo Estado de Pernambuco - ASA/Caatinga - PE - ASA/Caatinga - PE"
+        "position": "Membro da Coordenação da Articulação Semiárido Brasileiro pelo Estado de Pernambuco - ASA/Caatinga - PE - ASA/Caatinga - PE",
+        "slug": "paulo-pedro-de-carvalho"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -231,7 +250,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -241,7 +261,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -253,7 +274,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -264,7 +286,8 @@
       "summary": "INSA/MCTI protege Caatinga por meio de ações que envolvem ciência, tecnologia e inovação, colaborando com dez estados do semiárido brasileiro. A Caatinga tem potential para bioprodutos, recursos hídricos, espécies nativas, palma forrageira, energias renováveis e créditos de carbono. INSA convida a consultar sua agenda estratégica e a colaborar em suas ações.",
       "speaker": {
         "name": "MÔNICA TEJO CAVALCANTI",
-        "position": "Diretora do Instituto Nacional do Semiárido do Ministério de Ciência, Tecnologia e Inovação - INSA/MCTI - Ministério de Ciência, Tecnologia e Inovação - INSA/MCTI"
+        "position": "Diretora do Instituto Nacional do Semiárido do Ministério de Ciência, Tecnologia e Inovação - INSA/MCTI - Ministério de Ciência, Tecnologia e Inovação - INSA/MCTI",
+        "slug": "monica-tejo-cavalcanti"
       }
     },
     {
@@ -276,7 +299,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -287,7 +311,8 @@
       "summary": "Investimento em tecnologia para valorizar produtos da caatinga e aumentar recursos para pesquisa no PPA. Plano Aveuge visa restaurar 500 mil hectares de caatinga, envolver população local e preservar biodiversidade. Atualização de plano contra desertificação, criação de plano contra desmatamento para todos os biomas, e evento do MMA em 17 de junho para combate à desertificação com participação da sociedade civil.",
       "speaker": {
         "name": "ALEXANDRE PIRES",
-        "position": "Diretor do Departamento de Combate à Desertificação - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA"
+        "position": "Diretor do Departamento de Combate à Desertificação - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA",
+        "slug": "alexandre-pires"
       }
     },
     {
@@ -299,7 +324,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -311,7 +337,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -323,7 +350,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -334,7 +362,8 @@
       "summary": "Deputada Estadual/RN: Feliz por momento João Cabral, comenta importância com prefeita Marina. Presidente da comissão de meio ambiente, reflete sobre família e seca no Sertão Central. Promove política municipal de agricultura urbana em Natal e propõe debate e mapeamento estadual do bioma, com parceria e enfrentamento da desertificação, como no Estado de Minas Gerais. Parabéns e compromisso com comitê de combate a desertificação no Rio Grande do Norte.",
       "speaker": {
         "name": "Divaneide Basílio",
-        "position": "Deputada Estadual/RN"
+        "position": "Deputada Estadual/RN",
+        "slug": "divaneide-basilio"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -357,7 +387,8 @@
       "summary": "Vereador de Ubajara/CE discute na comissão de meio ambiente a ampliação da demarcação do Parque Nacional de Ubajara, alertando sobre o risco à agricultura familiar e à segurança alimentar de comunidades locais. Solicita ajuda da comissão e do Ministério do Meio Ambiente para estudar a situação e facilitar o trabalho dos moradores.",
       "speaker": {
         "name": "Janicelio Moita",
-        "position": "Vereador de Ubajara/CE"
+        "position": "Vereador de Ubajara/CE",
+        "slug": "janicelio-moita"
       }
     },
     {
@@ -369,7 +400,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -380,7 +412,8 @@
       "summary": "Prefeita de Jandaíra/RN agradece deputado e palestrantes por discussão sobre transição energética sustentável, destaque para grupos jovens promovendo manejo de abelhas nativas e conservação do bioma local.",
       "speaker": {
         "name": "Marina Dias",
-        "position": "Prefeita de Jandaíra/RN"
+        "position": "Prefeita de Jandaíra/RN",
+        "slug": "marina-dias"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -403,7 +437,8 @@
       "summary": "Solicita apoio para ampliar esforço de conservação na Caatinga, abertos a conversar sobre conciliação de conservação e questões sociais regionais. Agradecimento ao deputado Fernando Mineiro por apoiar centros de produção certificados de mel. Menciona proposta do embaixador da Eslovênia de comemorar o Dia Mundial das Abelhas em maio e planeja organizar evento sobre a importância das abelhas e polinização.",
       "speaker": {
         "name": "BRÁULIO DIAS",
-        "position": "Diretor de Conservação e Uso Sustentável da Biodiversidade do Ministério do Meio Ambiente e Mudanças Climáticas - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA"
+        "position": "Diretor de Conservação e Uso Sustentável da Biodiversidade do Ministério do Meio Ambiente e Mudanças Climáticas - MMA - Ministério do Meio Ambiente e Mudanças Climáticas - MMA",
+        "slug": "braulio-dias"
       }
     },
     {
@@ -415,7 +450,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -426,7 +462,8 @@
       "summary": "Membro ASA/Caatinga-PE agradece apoio, convida para seminário sobre políticas públicas de meio ambiente e saúde com Fiocruz, elogia prefeito de Jandaíra, destaca importância da Caatinga no combate às mudanças climáticas, anuncia participação em evento virtual sobre desertificação e se sente motivado para a reconstrução do país com experiência adquirida durante pandemia e situação política difícil.",
       "speaker": {
         "name": "PAULO PEDRO DE CARVALHO",
-        "position": "Membro da Coordenação da Articulação Semiárido Brasileiro pelo Estado de Pernambuco - ASA/Caatinga - PE - ASA/Caatinga - PE"
+        "position": "Membro da Coordenação da Articulação Semiárido Brasileiro pelo Estado de Pernambuco - ASA/Caatinga - PE - ASA/Caatinga - PE",
+        "slug": "paulo-pedro-de-carvalho"
       }
     },
     {
@@ -438,7 +475,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -449,7 +487,8 @@
       "summary": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias destacou importância de articulação para garantir segurança alimentar e desenvolvimento no complexo bioma da Caatinga, enfatizando renovação e esperança para essa região. Parabéns à comissão e ao deputado Mineiro pela iniciativa.",
       "speaker": {
         "name": "JEAN BERG ALVES DA SILVA",
-        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias"
+        "position": "Professor - Universidade Federal Rural do Semi-Árido - Centro de Ciências Agrárias",
+        "slug": "jean-berg-alves-da-silva"
       }
     },
     {
@@ -460,7 +499,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -471,7 +511,8 @@
       "summary": "Embrapa Semiárido prioriza visão de oportunidades do bioma, promovendo respostas naturais e resilientes aos problemas, com política clara e duradoura, integrando expertise e experiência, beneficiando a preservação de espécies no semiárido brasileiro.",
       "speaker": {
         "name": "MARIA AUXILIADORA COELHO DE LIMA",
-        "position": "Chefe Geral da Embrapa Semiárido - Embrapa"
+        "position": "Chefe Geral da Embrapa Semiárido - Embrapa",
+        "slug": "maria-auxiliadora-coelho-de-lima"
       }
     },
     {
@@ -482,7 +523,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -493,7 +535,8 @@
       "summary": "Professor da UFRN discute o potencial de conciliar conservação e vida das pessoas na Caatinga, sugerindo enfatizar unidades de conservação de uso sustentável onde comunidades organizadas possam se beneficiar, com atividades que não danifiquem o ambiente. Sua visão envolve mobilizar movimentos sociais e exigir que o ministério aja em prol da preservação da Caatinga e das pessoas que vivem lá.",
       "speaker": {
         "name": "CARLOS FONSECA",
-        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN"
+        "position": "Professor do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte - UFRN - Universidade Federal do Rio Grande do Norte - UFRN",
+        "slug": "carlos-fonseca"
       }
     },
     {
@@ -504,7 +547,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -515,7 +559,8 @@
       "summary": "Reconstruir orçamentos universitários, demonstrar potencial de desenvolvimento sustentável no semiárido para o Brasil e o mundo.",
       "speaker": {
         "name": "MARCIA VANUSA DA SILVA",
-        "position": "Professora da Universidade Federal de Pernambuco - UFPE - Universidade Federal de Pernambuco - UFPE"
+        "position": "Professora da Universidade Federal de Pernambuco - UFPE - Universidade Federal de Pernambuco - UFPE",
+        "slug": "marcia-vanusa-da-silva"
       }
     },
     {
@@ -527,7 +572,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -538,7 +584,8 @@
       "summary": "O Poeta fala sobre gratidão a equipe que possibilitou o evento, chama atenção para a riqueza do debate e traz a cultura popular do sertão, sua natureza, pessoas e poesia, defendendo sua beleza e realidade além dos estereótipos de miséria e fome. Parabéns deputado.",
       "speaker": {
         "name": "Caio Menezes",
-        "position": "Poeta"
+        "position": "Poeta",
+        "slug": "caio-menezes"
       }
     },
     {
@@ -550,7 +597,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     }
   ],

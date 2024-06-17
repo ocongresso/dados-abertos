@@ -14,7 +14,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Senhoras.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " Cumprimentos ao PT e à Gleide Andrade. Presente Jaci Afonso, presidente do PT-DF. Deputados José Airton e Raymond falarão.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -67,7 +72,8 @@
       "transcription": "Deputado Afonso Mota, que se reconhece o gesto e também a sua palavra a palavra de Carlos Lupi, e a tradição tão importante do PDT no nosso Brasil. Senador Fabiano Contarato Contarato já está conosco aqui, com a palavra o líder do governo José Guimarães.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -114,7 +123,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 178835,
         "name": "Afonso Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-motta"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 141470,
         "name": "José Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-guimaraes"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -208,7 +225,8 @@
       "summary": " Ministro de Estado Chefe de Secretaria-Geral da Presidência da República cumprimenta participantes, agradece presentes e mensagens, e destaca 44 anos do PT como 44 anos de luta, resistência, defesa da democracia e do povo brasileiro. Ele considera o PT como instrumento de luta da classe trabalhadora e do povo, expressa gratidão aos apoiadores, e conclui com um apelo à união e à luta para consolidar a democracia no Brasil.",
       "speaker": {
         "name": "MÁRCIO MACÊDO",
-        "position": "Ministro de Estado Chefe de Secretaria-Geral da Presidência da República"
+        "position": "Ministro de Estado Chefe de Secretaria-Geral da Presidência da República",
+        "slug": "marcio-macedo"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": " Fundado em plena ditadura, PT emergiu das lutas trabalhistas e sociais, tornando-se pilar institucional da democracia brasileira. Embatalhou-se por um Brasil justo e democrático, liderando governos que combatiam fome e miséria, promotionando crescimento e redução da pobreza. Apoiado por movimentos sociais, resistiu às tentativas de destruição, reivindicando a democracia e direitos sociais, buscando um Brasil próspero e justo.",
       "speaker": {
         "name": "Beto Faro",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "beto-faro"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -278,7 +301,8 @@
       "summary": " PT nasceu para mudar Brasil por trabalhadores e trabalhadoras, originando-se em lutas nas fábricas, comunidades e bairros. Promoveu democracia e inclusão, com iniciativas como orçamento participativo e prioridade em educação e saúde. Apesar de adversidades, o partido garantiu direitos e enfrentou desigualdades, elegendo Luiz Inácio Lula da Silva e Dilma Rousseff como presidentes. Hoje, o PT continua lutando por uma democracia justa e à serviço do povo.",
       "speaker": {
         "name": "Gleide Andrade",
-        "position": "Secretária Nacional de Planejamento do Partido dos Trabalhadores"
+        "position": "Secretária Nacional de Planejamento do Partido dos Trabalhadores",
+        "slug": "gleide-andrade"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 141464,
         "name": "José Airton Félix Cirilo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-airton-felix-cirilo"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -349,7 +378,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -372,7 +403,8 @@
       "summary": " PT, presente nos últimos 44 anos, representa 70 milhões de brasileiros e tem preferência de 34,6% na última pesquisa. Surge durante ditadura militar, luta por diretas já e eleição de líderes em todos os níveis. Sua força vem de lutar junto ao povo brasileiro, defendendo democracia, direitos sociais e liberdade, mesmo diante de adversários. Hoje, possui 69 deputados federais, mantendo sua missão de servir o povo.",
       "speaker": {
         "name": "Jilmar Tatto",
-        "position": "Secretário Comunicação Social"
+        "position": "Secretário Comunicação Social",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -396,7 +429,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -408,7 +442,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -455,7 +493,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -467,7 +506,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -478,7 +518,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -490,7 +531,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -502,7 +544,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -514,7 +557,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -525,7 +569,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -537,7 +582,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -548,7 +594,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -560,7 +607,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -572,7 +620,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -584,7 +633,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -596,7 +646,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     }
   ],

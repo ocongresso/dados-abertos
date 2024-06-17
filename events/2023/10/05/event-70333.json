@@ -16,7 +16,8 @@
       "summary": "Senador convoca sessão solene do Congresso Nacional para celebrar 35 anos da Constituição Federal, com a presença de autoridades políticas e judiciárias. Incluirá hino nacional e discursos.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -26,7 +27,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "summary": "Nação evoluiu; constituição reformada, não perfeita, mas útil; honrem-na, não traiam-na; nação deve mudar; prossiga a mudança no Brasil.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -47,7 +50,8 @@
       "transcription": "Convido todos para assistirmos no painel ao vídeo institucional preparado pela Câmara dos Deputados.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -58,7 +62,8 @@
       "summary": "Nação mudou com nova constituição; constituição não é perfeita, mas honrar-se-á; nação deve mudar e promulgação marca grito de mudar Brasil.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -68,7 +73,8 @@
       "transcription": "Agora convido",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -78,7 +84,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -89,7 +96,8 @@
       "summary": "Novos constituintes, futuros congressistas: sua missão é defender e aplicar a atual Constituição brasileira, fruto do povo e que garante direitos fundamentais. A Constituinte de 1987-88 teve intenso debate e ampla participação social, sendo a mais longa da história do Brasil. A atual Constituição brasileira é democrática, participativa, e permite iniciativa legislativa aos cidadãos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -99,7 +107,8 @@
       "transcription": "Senhora",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -110,7 +119,8 @@
       "summary": "Senador celebra Constituição Federal aos 35 anos como símbolo de liberdade, dignidade, democracia e estabilidade jurídica, consolidando direitos fundamentais, competências federativas e instâncias de fiscalização, sendo uma carta de princípios, direitos e responsabilidades, com a sociedade brasileira aderindo e defendendo seu projeto constitucional, celebrando o amor cívico aos brasileiros por seu país.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -121,7 +131,8 @@
       "summary": "Vice-Presidente da República e Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços lembra desempenho do Congresso Nacional na promulgação da Constituição de 1988, garantia de direitos e avanços sociais no país. Defender a Constituição é defender a democracia.",
       "speaker": {
         "name": "GERALDO ALCKMIN",
-        "position": "Vice-Presidente da República e Ministro de Estado do Desemvolvimento, Indústria, Comércio e Serviços"
+        "position": "Vice-Presidente da República e Ministro de Estado do Desemvolvimento, Indústria, Comércio e Serviços",
+        "slug": "geraldo-alckmin"
       }
     },
     {
@@ -132,7 +143,8 @@
       "summary": "Senador diz: Agradecidos por alunos de duas escolas em nossa sessão, dão boas-vindas e cedem palavra a Arthur Lira.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -144,7 +156,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -154,7 +167,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -165,7 +179,8 @@
       "summary": "Celebra 35 anos de Constituição com ênfase em estabilidade institucional, monetária e inclusão social. Destaca conquistas e menciona desafios persistentes em direitos fundamentais, combate à pobreza extrema, desigualdades e violência urbana.",
       "speaker": {
         "name": "MINISTRO LUÍS ROBERTO BARROSO",
-        "position": "Presidente do Supremo Tribunal Federal"
+        "position": "Presidente do Supremo Tribunal Federal",
+        "slug": "ministro-luis-roberto-barroso"
       }
     },
     {
@@ -176,7 +191,8 @@
       "summary": "Senador se refere ao presidente do TSE, Ministro Alexandre de Moraes, e cumprimenta Ministro Luís Roberto Barroso.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -187,7 +203,8 @@
       "summary": "Celebra 35 anos da Constituição Federal; destaca estabilidade democrática, respeito ao Estado de direito e fortalecimento das instituições; refere universalização de saúde e educação; alerta para desafios atuais, como manter democracia e afastar autoritarismo, populismo e ditadura; incentiva democratização social, maior distribuição de renda e construção de sociedade justa e igualitária.",
       "speaker": {
         "name": "MINISTRO ALEXANDRE DE MORAES",
-        "position": "Presidente do Tribunal Superior Eleitoral"
+        "position": "Presidente do Tribunal Superior Eleitoral",
+        "slug": "ministro-alexandre-de-moraes"
       }
     },
     {
@@ -198,7 +215,8 @@
       "summary": "Senador elogia Ministro por pronunciamento e cede palavra à Senador Weberton.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -209,7 +227,8 @@
       "summary": "Senador cita discurso Ulisses Guimarães, valorizando constituição, democracia e justiça social. Menciona desafios atuais, como salário justo e acesso à saúde. Elogia força da democracia e enfatiza diálogo e soluções, representando os desafios dos cidadãos, independentemente da região. Reafirma compromisso com a constituição e papel dos poderes na construção de um país livre, justo e igualitário.",
       "speaker": {
         "name": "Weverton",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "weverton"
       }
     },
     {
@@ -220,7 +239,8 @@
       "summary": "Senador agradece presença do presidente do STF e TSE em sessão do Congresso, junto com dois senadores constituintes. Fotografia será tirada com participantes e será registado pelo jornalista Mauro Benevides. A palavra é concedida à deputada Maria do Rosário.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -232,7 +252,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Senador cede palavra a deputada Maria do Rosário e depois ao presidente dos Correios.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -254,7 +276,8 @@
       "summary": "Presidente dos Correios celebra 35 anos da Constituição, enfatizando o papel dos Correios em promover igualdade, direito à informação, e sigilo da correspondência, destacando a entrega de cidadania e compromisso com a democracia e constituição. Lança selo comemorativo.",
       "speaker": {
         "name": "Fabiano Silva dos Santos",
-        "position": "Presidente dos Correios"
+        "position": "Presidente dos Correios",
+        "slug": "fabiano-silva-dos-santos"
       }
     },
     {
@@ -265,7 +288,8 @@
       "summary": "Senador convida autoridades e legisladores para obliterar selo comemorativo e dá voz a deputado Aécio Neves na sessão.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -277,7 +301,8 @@
       "speaker": {
         "id": 74646,
         "name": "Aécio Neves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aecio-neves"
       }
     },
     {
@@ -287,7 +312,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -298,7 +324,8 @@
       "summary": "Senador homenageia constituição de 1988 e suas origens democráticas; elogia flexibilidade e mudanças necessárias nas leis; destaca direitos humanos e garantias fundamentais; salienta conquistas na educação e saúde; valoriza liberdade do pensamento e respeito à constituição.",
       "speaker": {
         "name": "Renan Calheiros",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "renan-calheiros"
       }
     },
     {
@@ -308,7 +335,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -319,7 +347,8 @@
       "summary": "Senador lembra com alegria tempo na tribuna, cita autoridades e nomes como Alckmin, Rodrigo Pacheco, Aécio Neves, Lula, Covas, Ulisses Guimarães, Cabral. Elogia unidade, negociação e diálogo em aprovação de artigos na constituição, dizendo que PT teve participação ativa e expressiva nisso. Afirma que constituição é coração da democracia, liberdade e justiça no país e deseja vida longa para ela.",
       "speaker": {
         "name": "Paulo Paim",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "paulo-paim"
       }
     },
     {
@@ -330,7 +359,8 @@
       "summary": "Senador refletiu sobre sua trajetória no Congresso, homenageando ex-colegas e destaque do direito de greve na Constituição. Falou com orgulho de sua participação como constituinte e defendeu a Carta Magna como coração da democracia brasileira.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -342,7 +372,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -353,7 +384,8 @@
       "summary": "Senador celebra lançamento de edições especiais da Federal e do segundo volume do livro A voz do cidadão na constituinte, agradece presença de autoridades e encerra sessão com apresentação de música.",
       "speaker": {
         "name": "Rodrigo Pacheco",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "rodrigo-pacheco"
       }
     },
     {
@@ -363,7 +395,8 @@
       "transcription": "",
       "speaker": {
         "name": "Apresentação Musical",
-        "position": ""
+        "position": "",
+        "slug": "apresentacao-musical"
       }
     }
   ],

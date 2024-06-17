@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220628,
         "name": "Mauricio do Vôlei",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-do-volei"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 220570,
         "name": "Ismael Alexandrino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael-alexandrino"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220570,
         "name": "Ismael Alexandrino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael-alexandrino"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -99,7 +106,8 @@
       "transcription": "Declaro reaberto os trabalhos. Em apreciação.",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

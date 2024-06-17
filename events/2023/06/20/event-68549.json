@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Muito",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Heitor Schuch -- por Participante -- Lucas Ramos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-heitor-schuch-por-participante-lucas-ramos"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     }
   ],

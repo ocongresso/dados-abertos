@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Médico Nefrologista e Professor - PUC-RS afirma doença renal crônica desprezada, onerosa; ureia causa diversos problemas; mortalidade em diálise reduzida, mas alta; hemodiafiltração online de alto volume pode diminuir mortalidade, especialmente por causas cardiovasculares; estudo brasileiro demonstrou melhor desempenho de atividade física com hemodiafiltração, diminuindo mortalidade em 23% em 30 meses, salvando vidas sem comitê de morte.",
       "speaker": {
         "name": "Carlos Alberto Poli de Figueiredo",
-        "position": "Médico Nefrologista e Professor - PUC-RS"
+        "position": "Médico Nefrologista e Professor - PUC-RS",
+        "slug": "carlos-alberto-poli-de-figueiredo"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Nefrologista discute evolução tecnológica em Nefrologia, destacando \"Nefrologia 4.0\" com novidades em transplante, IA e bioengenharia. Ele également aborda a tecnologia ajudando pacientes com doença renal crônica por meio de telemedicina, monitoramento remoto e terapias domiciliares com acompanhamento remoto. Ele descreve a evolução do acompanhamento remoto do paciente em diálise peritoneal, incluindo acesso remoto a exames e tratamento.",
       "speaker": {
         "name": "Mário Ernesto",
-        "position": "Médico Nefrologista"
+        "position": "Médico Nefrologista",
+        "slug": "mario-ernesto"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Silvia Cristina -- por Participante -- Vinicius Carvalho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-silvia-cristina-por-participante-vinicius-carvalho"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Discurso do Presidente - Sociedade Brasileira de Nefrologia:",
       "speaker": {
         "name": "José Moura Neto",
-        "position": "Presidente - Sociedade Brasileira de Nefrologia"
+        "position": "Presidente - Sociedade Brasileira de Nefrologia",
+        "slug": "jose-moura-neto"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Influencer e paciente dialítico Arthur Neto, grateful for life-saving diálysis, highlights challenges in Brazil's system: increased number of patients, regional disparities, rising demand, and decreasing nephrologists. He advocates for significant investments, SUS reform, fostering new nephrologists, national strategies, and ending dialyzer reuse for safer, cleaner treatments.",
       "speaker": {
         "name": "Arthur Neto",
-        "position": "Influencer e paciente dialítico"
+        "position": "Influencer e paciente dialítico",
+        "slug": "arthur-neto"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Participante relata desafios na hemodiálise no SUS, preferência por tratamento com material descartável e autopulsão. Ela valoriza clínica humanizada com novas tecnologias, que permite ter uma vida de qualidade e cuidar de sua filha.",
       "speaker": {
         "name": "Raissa do Carmo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "raissa-do-carmo"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -294,7 +318,8 @@
       "summary": "Médico Nefrologista sugere incentivar diálise peritoneal em domicílios em todo o país, como alternativa conveniente e acessível aos pacientes, eliminando a necessidade de longas viagens e constragens de centros de hemodiálise em cada municipalidade. A diálise peritoneal já está disponível no SUS, sem filas ni limites, permitindo que pacientes usem suas próprias casas como centros de tratamento, manteniendo sua qualidade de vida e sustentando a suas famílias.",
       "speaker": {
         "name": "Mário Ernesto",
-        "position": "Médico Nefrologista"
+        "position": "Médico Nefrologista",
+        "slug": "mario-ernesto"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 204406,
         "name": "Pedro Westphalen",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-westphalen"
       }
     },
     {
@@ -330,7 +357,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -341,7 +369,8 @@
       "summary": "Influencer e paciente dialítico agradece chance de dar voz aos pacientes e participar de decisões, após traditionally being treated as a mere side character. Acknowledges and thanks Deputy Silvia Cristina and Deputy Vinicius Carvalho.",
       "speaker": {
         "name": "Arthur Neto",
-        "position": "Influencer e paciente dialítico"
+        "position": "Influencer e paciente dialítico",
+        "slug": "arthur-neto"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -363,7 +393,8 @@
       "summary": "Médico Nefrologista e Professor - PUC-RS valoriza importância de mirar atenciosamente a diálise e se concentrar no paciente como ser humano, para ajudar os doentes renales crônicos.",
       "speaker": {
         "name": "Carlos Alberto Poli de Figueiredo",
-        "position": "Médico Nefrologista e Professor - PUC-RS"
+        "position": "Médico Nefrologista e Professor - PUC-RS",
+        "slug": "carlos-alberto-poli-de-figueiredo"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "Presidente da Sociedade Brasileira de Nefrologia destacou:",
       "speaker": {
         "name": "José Moura Neto",
-        "position": "Presidente - Sociedade Brasileira de Nefrologia"
+        "position": "Presidente - Sociedade Brasileira de Nefrologia",
+        "slug": "jose-moura-neto"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     }
   ],

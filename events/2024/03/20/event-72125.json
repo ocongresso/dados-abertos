@@ -14,7 +14,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Começo da votação; pedido de esclarecimento sobre ordem da votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": " Eleito primeiro vice-presidente com 28 votos; 5 votos brancos; apuração no painel eletrônico; convidado Átila para mesa.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 123086,
         "name": "Átila Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lira"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": " Iniciou votação sobre requerimentos, audiências públicas e moções. Deputados registrados.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -116,7 +125,8 @@
       "transcription": "Proclama o resultado para se",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 204533,
         "name": "Idilvan Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "idilvan-alencar"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -328,7 +355,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 220623,
         "name": "Duda Salabert",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "duda-salabert"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -399,7 +432,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -411,7 +445,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -422,7 +457,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -434,7 +470,8 @@
       "speaker": {
         "id": 220667,
         "name": "Pedro Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-campos"
       }
     },
     {
@@ -446,7 +483,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -458,7 +496,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -470,7 +509,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -482,7 +522,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -493,7 +534,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -505,7 +547,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -517,7 +560,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -529,7 +573,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -540,7 +585,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -564,7 +611,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -576,7 +624,8 @@
       "speaker": {
         "id": 220582,
         "name": "Daniel Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-barbosa"
       }
     },
     {
@@ -587,7 +636,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -599,7 +649,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -610,7 +661,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -622,7 +674,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -634,7 +687,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -646,7 +700,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -658,7 +713,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -670,7 +726,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -681,7 +738,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -693,7 +751,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -705,7 +764,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -717,7 +777,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -729,7 +790,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -741,7 +803,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -752,7 +815,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -764,7 +828,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -776,7 +841,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -788,7 +854,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -800,7 +867,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -812,7 +880,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -823,7 +892,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -835,7 +905,8 @@
       "speaker": {
         "id": 220582,
         "name": "Daniel Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-barbosa"
       }
     },
     {
@@ -847,7 +918,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     }
   ],

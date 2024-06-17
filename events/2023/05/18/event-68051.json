@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Consultor de Saúde - Confederação Nacional dos Municípios preocupa-se com manutenção de pisos salariais, especialmente de enfermagem, e sua financiamento. Propõe aumento de 1,5% no FPM e PEC 25 permanente, além de garantia de recurso para próximo ano. Menciona agentes de vigilância sanitária e busca nivelar remuneração no país, considerando autonomia dos municípios e valorização de profissionais de saúde pública brasileira.",
       "speaker": {
         "name": "Denilson Magalhães",
-        "position": "Consultor de Saúde - Confederação Nacional dos Municípios"
+        "position": "Consultor de Saúde - Confederação Nacional dos Municípios",
+        "slug": "denilson-magalhaes"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Criação da Associação Nacional de Profissionais da Vigilância Sanitária em Municípios brasileiros representando agentes sanitários, executando serviços de acordo com Anvisa e Ministério da Saúde. Desafios incluem falta de CBO, valorização salarial insuficiente, e educação continuada. Categoria tem função fundamental em arrecadação tributária e fiscalizações, incluindo covid-19, com apoio solicitado de autoridades e governo federal.",
       "speaker": {
         "name": "Odilon Bezerra dos Santos Filho",
-        "position": "Presidente - Associação Nacional dos Profissionais da Vigilância Sanitária nos Municípios Brasileiros"
+        "position": "Presidente - Associação Nacional dos Profissionais da Vigilância Sanitária nos Municípios Brasileiros",
+        "slug": "odilon-bezerra-dos-santos-filho"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Projeto de lei 112: duplo salário mínimo e carreira típica para profissionais de vigilância sanitária, seleção por concurso, licença específica, piso salarial nacional, ajuste na folha de pagamento, e proposta de fundo municipal de vigilância sanitária.",
       "speaker": {
         "name": "Matheus Pirolo",
-        "position": "Diretor Jurídico - Associação dos Fiscais Estaduais de Vigilância Sanitária do Mato Grosso do Sul"
+        "position": "Diretor Jurídico - Associação dos Fiscais Estaduais de Vigilância Sanitária do Mato Grosso do Sul",
+        "slug": "matheus-pirolo"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Coordenador-Geral do Ministério da Saúde propõe regulamentar Agente Comunitário de Saúde, introduzir nova modalidade de vigilância sanitária, debater outros agentes necessários, abordar questões financeiras e trabalhistas, e discutir regulamentação de profissionais do ambiente comunitário e sanitário, incluindo impactos da COVID-19, em próxima semana.",
       "speaker": {
         "name": "Benedito Augusto de Oliveira",
-        "position": "Coordenador-Geral - Ministério da Saúde"
+        "position": "Coordenador-Geral - Ministério da Saúde",
+        "slug": "benedito-augusto-de-oliveira"
       }
     },
     {
@@ -155,7 +167,8 @@
       "transcription": "Muito obrigado pela participação. Não sei se tem mais alguém que gostaria de se",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Vitor -- por Participante -- Osmar Terra",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-vitor-por-participante-osmar-terra"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -178,7 +192,8 @@
       "summary": "A participante destacou a importância do trabalho dos fiscais sanitários, que representam outros trabalhadores no Brasil, e necessitam de mais apoio e reconhecimento. Ela mencionou seu trabalho no município de Timon Maranhão com apenas dez fiscais, o que é insuficiente para a população, e espera um aumento no número de fiscais sanitários. Além disso, ela pediu a unificação da nomenclatura de seu cargo em \"fiscal sanitário\" e agradeceu a colaboração da casa.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -200,7 +216,8 @@
       "summary": "Consultor de Saúde - Confederação Nacional dos Municípios sugeriu a precisão na definição das atribuições e competências do agente sanitário, incluindo a nomenclatura correta em la CBO e regulamentação na SUS, para diferenciar suas atividades da fiscalização de laboratórios e produtos químicos.",
       "speaker": {
         "name": "Denilson Magalhães",
-        "position": "Consultor de Saúde - Confederação Nacional dos Municípios"
+        "position": "Consultor de Saúde - Confederação Nacional dos Municípios",
+        "slug": "denilson-magalhaes"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     }
   ],

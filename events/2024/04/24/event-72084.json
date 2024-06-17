@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -45,7 +48,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -55,7 +59,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -65,7 +70,8 @@
       "transcription": "Que o Brasil, mais de seiscentos bilhões de reais de arrecadação do governo central, do governo federal, vem do agro brasileiro. E o que ele está devolvendo para o agro? Estamos com dificuldades enormes, nem dez por cento disso chega na totalidade de incentivos a A essa cadeia que gera emprego e renda neste país. Nós precisamos que todos os agricultores deste país se mobilize para que este governo respeite esse setor que garante comida para os brasileiros e alimenta também os estrangeiros. Obrigado senhor Presidente. Muito obrigado",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -77,7 +83,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -87,7 +94,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zucco -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-zucco-por-participante-pezenti"
       }
     },
     {
@@ -99,7 +107,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -111,7 +120,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -123,7 +133,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -134,7 +145,8 @@
       "summary": " Senadora fala felizmente em dia mundial da agricultura, cumprimenta deputados e senadores, elogia agricultura brasileira por alimentar o mundo, menciona desafios durante pandemia, homenageia Embrapa e produtores, pede soluções para problemas no Parlamento, e saúda agricultura mundial e produtores.",
       "speaker": {
         "name": "Tereza Cristina",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "tereza-cristina"
       }
     },
     {
@@ -146,7 +158,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -157,7 +170,8 @@
       "summary": " Senador se dirigiu à todos, saudou os presentes e nova diretoria da Aprosoja. Destacou importância de produtores agrícolas para a produção de alimento e sobrevivência humana, mencionou evolução do setor e agradeceu por oportunidade. Resumido: Senador falou sobre importância de produtores agrícolas e evolução do setor, saudou diretoria da Aprosoja e agradeceu.",
       "speaker": {
         "name": "Ireneu Orth",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "ireneu-orth"
       }
     },
     {
@@ -169,7 +183,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -180,7 +195,8 @@
       "summary": " Agricultura permitiu fixação do homem, fim do nomadismo. A evolução tecnológica transformou a agricultura em potência exportadora, mudando realidade do produtor rural. Hoje, grande desafio é regularização de terras, especialmente no Pará, para dar segurança jurídica e acesso a financiamento. Homenagem a produtores rurais em suas diferentes escalas e reconhecimento por sua luta e contribuição para o país.",
       "speaker": {
         "name": "Zequinha Marinho",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "zequinha-marinho"
       }
     },
     {
@@ -192,7 +208,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -204,7 +221,8 @@
       "speaker": {
         "id": 178933,
         "name": "Sergio Souza",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sergio-souza"
       }
     },
     {
@@ -215,7 +233,8 @@
       "summary": " Governo recebe abundante arrecadação do agro, mas pouco retorna como incentivo; agricultores mobilizem-se para governo respeitar setor que fornece alimento nacional e internacionalmente. Obrigado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pezenti -- por Participante -- Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pezenti-por-participante-zucco"
       }
     },
     {
@@ -226,7 +245,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -250,7 +271,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -262,7 +284,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -274,7 +297,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -286,7 +310,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -298,7 +323,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -310,7 +336,8 @@
       "speaker": {
         "id": 178835,
         "name": "Afonso Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "afonso-motta"
       }
     },
     {
@@ -321,7 +348,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -333,7 +361,8 @@
       "speaker": {
         "id": 160559,
         "name": "Alceu Moreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alceu-moreira"
       }
     },
     {
@@ -344,7 +373,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -355,7 +385,8 @@
       "summary": " Senadora homenageia trabalhadores do campo por sustentarem Brasil; Mato Grosso lidera produção nacional de grãos, com 27% da participação e recorde de 100 milhões de toneladas em 2021; Região responsável por 175 bilhões e 830 bilhões no valor da produção agrícola brasileira em 2020.",
       "speaker": {
         "name": "Margareth Buzetti",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "margareth-buzetti"
       }
     },
     {
@@ -366,7 +397,8 @@
       "summary": " Estado gera 20% riqueza agrícola nacional; saúda gaúchos, catarinenses, paranaenses investindo em MT; MT lidera agro, valoriza agricultura familiar; recebeu maior investimento do governo estadual em história; homenagea brasileiros produzindo alimentos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zucco -- por Participante -- Pedro Lupion",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-zucco-por-participante-pedro-lupion"
       }
     },
     {
@@ -378,7 +410,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -389,7 +422,8 @@
       "summary": " Presidente do Sistema Famasul valoriza agronegócio em desenvolvimento brasileiro, destacando sua contribuição para economia, qualidade de vida e sustentabilidade. Reconhece importância de setor agropecuário e need for legal security and peace for sustainable production. (SUMÁRIO)",
       "speaker": {
         "name": "Marcelo Bertoni",
-        "position": "Presidente do Sistema Famasul"
+        "position": "Presidente do Sistema Famasul",
+        "slug": "marcelo-bertoni"
       }
     },
     {
@@ -401,7 +435,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -413,7 +448,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -425,7 +461,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -436,7 +473,8 @@
       "summary": " Agricultor relata dificuldades em sua atividade devido a leis e perseguições, incluindo multa por trânsito com máquina agrícola. Apesar disso, reconhece contribuição do setor agropecuário para o PIB e emprego. Agradecido por oportunidade de falar e apoio recebido.",
       "speaker": {
         "name": "LUIZ FERNANDO",
-        "position": "Agricultor"
+        "position": "Agricultor",
+        "slug": "luiz-fernando"
       }
     },
     {
@@ -447,7 +485,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -459,7 +498,8 @@
       "speaker": {
         "id": 220666,
         "name": "Coronel Meira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-meira"
       }
     },
     {
@@ -471,7 +511,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -483,7 +524,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -493,7 +535,8 @@
       "transcription": "Muito",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pedro Lupion -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pedro-lupion-por-participante-pezenti"
       }
     },
     {
@@ -505,7 +548,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -517,7 +561,8 @@
       "speaker": {
         "id": 220684,
         "name": "Tião Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tiao-medeiros"
       }
     },
     {
@@ -529,7 +574,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -541,7 +587,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -553,7 +600,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -565,7 +613,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -577,7 +626,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -589,7 +639,8 @@
       "speaker": {
         "id": 178954,
         "name": "Lucio Mosquini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucio-mosquini"
       }
     },
     {
@@ -601,7 +652,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -613,7 +665,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -625,7 +678,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -637,7 +691,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -648,7 +703,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -660,7 +716,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -671,7 +728,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -683,7 +741,8 @@
       "speaker": {
         "id": 220687,
         "name": "Márcio Honaiser",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-honaiser"
       }
     },
     {
@@ -695,7 +754,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -707,7 +767,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -719,7 +780,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -731,7 +793,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -743,7 +806,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -755,7 +819,8 @@
       "speaker": {
         "id": 121948,
         "name": "Adriano do Baldy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "adriano-do-baldy"
       }
     },
     {
@@ -767,7 +832,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -778,7 +844,8 @@
       "summary": " Deputado Estadual cita amizade com Coronel Meira, destaca importância do agronegócio em Pernambuco e critica apoio do Presidente Lula ao MST, comprometendo-se a ser voz ativa contra \"manifestação criminosa\" com apoio de órgãos de controle e de Pernambuco.",
       "speaker": {
         "name": "Feitosa",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "feitosa"
       }
     },
     {
@@ -790,7 +857,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -801,7 +869,8 @@
       "summary": " Movimento Invasão Zero satisfeito com disposição de combater quem desconhece constituição; lamenta falta de discussão sobre segurança no campo; menciona situação de insegurança na região cacaueira da Bahia; questiona produção do MST.",
       "speaker": {
         "name": "Luiz",
-        "position": "Movimento Invasão Zero"
+        "position": "Movimento Invasão Zero",
+        "slug": "luiz"
       }
     },
     {
@@ -813,7 +882,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -824,7 +894,8 @@
       "summary": " Movimento Invasão Zero PE prioriza legalidade, incentiva estados a adotar sua abordagem de segurança, colabora com forças policiais e defende produtores rurais legítimos.",
       "speaker": {
         "name": "Jose Antonio",
-        "position": "Movimento Invasão Zero PE"
+        "position": "Movimento Invasão Zero PE",
+        "slug": "jose-antonio"
       }
     },
     {
@@ -836,7 +907,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -847,7 +919,8 @@
       "summary": " Suplente de deputado agradece oportunidade tomar palavra, elogia proposta de homenagem a produtores rurais, cita frase \"cultivar o solo é servir a pátria\", propõe Brasil valorizar agricultores como garantia de segurança alimentar mundial, deseja continuar defendendo agronegócio e enviar jovens produtores ao campo com certidão de servidores da pátria.",
       "speaker": {
         "name": "Sergio Turra",
-        "position": "suplente de deputado"
+        "position": "suplente de deputado",
+        "slug": "sergio-turra"
       }
     },
     {
@@ -858,7 +931,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -869,7 +943,8 @@
       "summary": " Deputado estadual homenageia produtores, condena MST e movimentos semelhantes como terroristas, denuncia violência e abusos, critica governador e exige restauração da liberdade e direitos de propriedade no Brasil e na Bahia.",
       "speaker": {
         "name": "Leandro de Jesus",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "leandro-de-jesus"
       }
     },
     {
@@ -881,7 +956,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     }
   ],

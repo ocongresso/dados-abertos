@@ -14,7 +14,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74784,
         "name": "Luiza Erundina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luiza-erundina"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 74784,
         "name": "Luiza Erundina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luiza-erundina"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -192,7 +207,8 @@
       "summary": " A Presidente fundadora da Associação dos Mediadores e Arbitralistas do Distrito Federal, Francilma, destacou a redução de processos judiciais de 100 milhões em 2019 para 70 mil atualmente, graças ao trabalho dos mediadores. Ela valorizou o papel dos mediadores voluntários em nível nacional e a importância de debater a remuneração da profissão, agradecendo a realização da audiência pública.",
       "speaker": {
         "name": "Francilma Mendonça",
-        "position": "Presidente fundadora da Associação dos Mediadores e Abitralistas do Distrito Federal"
+        "position": "Presidente fundadora da Associação dos Mediadores e Abitralistas do Distrito Federal",
+        "slug": "francilma-mendonca"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -214,7 +231,8 @@
       "summary": " Assessor Parlamentar sugere audiência no dia 26/06, coincidindo com a comemoração dos 10 anos da lei de mediação, para promover mudanças no Poder Judiciário através de métodos de solução de conflitos como a mediação, conciliação e arbitragem.",
       "speaker": {
         "name": "Alan Hassem",
-        "position": "Assessor Parlamentar"
+        "position": "Assessor Parlamentar",
+        "slug": "alan-hassem"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     }
   ],

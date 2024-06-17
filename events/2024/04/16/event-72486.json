@@ -13,7 +13,8 @@
       "summary": " Mestre de Cerimônias anuncia início de débate sobre emancipação de distritos no Brasil, convida deputada Flávia Moraes, deputado Danilo Forte e especialistas para palestrar.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Mestre de Cerimônias anuncia debate sobre processo legislativo e artigo 18 da Constituição Federal, especificamente o parágrafo 4. Objetivo: esclarecer dúvidas, trocar experiências e aprofundar conhecimentos sobre o assunto, além de debater duas propostas (PEC 93/2007 e PLP 137/2015). Convidado: deputado Danilo Forte com 10 minutos de fala.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "Forte pelas palavras e agora convidamos o deputado Ayrton Faleiro. Pra fazer uso da palavra. Alô.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": " Mestre de Cerimônias convida deputado Silas para falar sobre o tema, após Deputado Everton.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": " Mestre de Cerimônias: Deputado convidado a falar, seguido por saudação geral e apresentação do Senador Jaime Bagatoli.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": " Senador discorre sobre justiça a distritos no norte do Brasil, especialmente em Rondônia, mencionando a criação de municípios em áreas com populações consideráveis e produtivas, bem como a necessidade de melhorar as condições de vida e logística na região. Alude à situação de produtores rurais e solicita equidade em políticas de proteção da dívida.",
       "speaker": {
         "name": "Jaime Bagattoli",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "jaime-bagattoli"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -161,7 +174,8 @@
       "transcription": "",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 220543,
         "name": "Ricardo Ayres",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-ayres"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -194,7 +210,8 @@
       "transcription": "O deputado Felipe Martins para proferir algumas palavras.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -217,7 +235,8 @@
       "summary": " Mestre de Cerimônias apresenta vários convidados importantes, incluindo senador, vereadores e representantes de municípios e organizações.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -229,7 +248,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -241,7 +261,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -251,7 +272,8 @@
       "transcription": "",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -262,7 +284,8 @@
       "summary": " Criação de municípios dificultada desde Emenda Constitucional 15/96, requer lei complementar federal. Debate sobre emancipação envolve mudar narrativa de criação de cargos, garantir recursos financeiros e abordar estrutura administrativa.",
       "speaker": {
         "name": "Victor Marcel Pinheiro",
-        "position": "Bacharel, Mestre e Doutor em Direito pela USP, Advogado e Consultor Legislativo do Senado Federal"
+        "position": "Bacharel, Mestre e Doutor em Direito pela USP, Advogado e Consultor Legislativo do Senado Federal",
+        "slug": "victor-marcel-pinheiro"
       }
     },
     {
@@ -274,7 +297,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -286,7 +310,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -297,7 +322,8 @@
       "summary": " Mestre convida deputada para comentários finais sobre primeiro painel.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -309,7 +335,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -320,7 +347,8 @@
       "summary": " Mestre de Cerimônias anuncia início do segundo painel sobre consulta popular e parágrafos do artigo 14 da Constituição Federal, com debate e moderadora Cassiana Tornin.",
       "speaker": {
         "name": "Joana Barcelllos",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "joana-barcelllos"
       }
     },
     {
@@ -331,7 +359,8 @@
       "summary": " Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia convida deputados para discutir importância de consultas populares sobre emancipação em eleições deste ano; pede aos expositores que retomem seus acentos.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -342,7 +371,8 @@
       "summary": " Continuar trabalhos, dispensa atrasa progresso, retornar às posições.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -353,7 +383,8 @@
       "summary": " Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia sobre consultas populares em eleições municipais: novo parágrafo na constituição desde 2020, possibilita consultas sobre emancipação de distritos em outubro de 2022, vereadores responsible por aprovar pedido em Câmaras Municipais, para ser encaminhado à Justiça Eleitoral. Debate sobre importância de ouvir população e incentivo à ação política para emancipações.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -364,7 +395,8 @@
       "summary": " Deputado Estadual pelo CE-UNALE saudou participantes, enfatizou importância da consulta popular em Icaraí de Amontada, e destacou papel fundamental das Câmaras de Vereadores para organizar consultas a eleitores, necessárias para emancipação antes de 2028, pediu aprovação das câmaras municipais e votação da lei complementar no Congresso Nacional.",
       "speaker": {
         "name": "Sergio Aguiar",
-        "position": "Deputado Estadual pelo do CE - Presidente da União dos Legisladores e Legislativos Estaduais (UNALE)"
+        "position": "Deputado Estadual pelo do CE - Presidente da União dos Legisladores e Legislativos Estaduais (UNALE)",
+        "slug": "sergio-aguiar"
       }
     },
     {
@@ -375,7 +407,8 @@
       "summary": " Jornalista TV Câmara, mestrado em gestão territoral, ex-vereadora em Luziânia: feliz por está aqui, agradece a Deus.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -386,7 +419,8 @@
       "summary": " Deputado Estadual do estado de RO - Presidente do Parlamento Amazônico salienta importância de debate sobre emancipação de distritos, especialmente na Amazônica, e pede mais poder para assembleias estaduais legislarem e promoverem plebiscitos. Criação de municípios na Amazônia será apoiada pelo Parlamento Amazônico, que fará uma marcha ou fórum em Brasília em junho para destacar o tema.",
       "speaker": {
         "name": "Laerte Gomes",
-        "position": "Deputado Estadual do estado de RO - Presidente do Parlamento Amazônico"
+        "position": "Deputado Estadual do estado de RO - Presidente do Parlamento Amazônico",
+        "slug": "laerte-gomes"
       }
     },
     {
@@ -397,7 +431,8 @@
       "summary": " Jornalista da TV Câmara, mestre em gestão territoral pela UNB, ex-vereadora de Luziânia anunciou abertura de perguntas, registrou presença de deputados federais Zezinho Barbalho e Silvia Cristina, e do deputado estadual Sinésio Campos, e mencionou a presença de representantes do distrito Jardim Ingá.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -408,7 +443,8 @@
       "summary": " Deputado Estadual PT/AM e vice-presidente do Parlamento Amazônico valoriza participação em evento, propõe revisitar prerrogativa de Assembleias Legislativas, debate sobre criação de municípios, defende diálogo com movimentos sociais e criação de frente parlamentar para trabalhar pauta em todos os estados.",
       "speaker": {
         "name": "Sinésio Campos",
-        "position": "Deputado Estadual PT/AM e vice-presidente do Parlamento Amazônico"
+        "position": "Deputado Estadual PT/AM e vice-presidente do Parlamento Amazônico",
+        "slug": "sinesio-campos"
       }
     },
     {
@@ -418,7 +454,8 @@
       "transcription": "Assembleia Legislativa de Rondônia, deputado Marcelo Cruz. Bom dia.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -429,7 +466,8 @@
       "summary": " Deputado - Presidente da Assembleia Legislativa de Rondônia cumprimenta deputados e cede tribuna ao bispo de Extrema para compartilhar sua luta por emancipação da Ponta do Abunã.",
       "speaker": {
         "name": "Marcelo Cruz",
-        "position": "Deputado - Presidente da Assembleia Legislativa de Rondônia"
+        "position": "Deputado - Presidente da Assembleia Legislativa de Rondônia",
+        "slug": "marcelo-cruz"
       }
     },
     {
@@ -440,7 +478,8 @@
       "summary": " Participante fala sobre a longa luta pela emancipação de Ponta do Abuna, agora parte de Porto Velho, e o desejo de emancipar outros distritos em Rondônia.",
       "speaker": {
         "name": "Aparecido Bispo de Oliveira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "aparecido-bispo-de-oliveira"
       }
     },
     {
@@ -451,7 +490,8 @@
       "summary": " Deputado-Presidente de Rondônia apoia emancipação de Ponta do Abunã e dá boas-vindas a lutador Antônio Medeiros; agradece e encerra.",
       "speaker": {
         "name": "Marcelo Cruz",
-        "position": "Deputado - Presidente da Assembleia Legislativa de Rondônia"
+        "position": "Deputado - Presidente da Assembleia Legislativa de Rondônia",
+        "slug": "marcelo-cruz"
       }
     },
     {
@@ -462,7 +502,8 @@
       "summary": " Jornalista da TV Câmara relayed Henderson Pinto's message of absence due to state commitment, sending regards to participants.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -474,7 +515,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -485,7 +527,8 @@
       "summary": " Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia anunciou ordem de fala para quatro pessoas inscritas, permitindo duas minutos para cada um, incluindo Orlando Brito do Carmo, para expressarem considerações e perguntas.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -496,7 +539,8 @@
       "summary": " Participante relata jornada de 1600 km, elogia deputada, expressa preocupação com consulta popular, deseja acelerar discussão de leis, menciona convencer Executivo a sancionar leis e consultas sobre infraestrutura em distritos.",
       "speaker": {
         "name": "Orlando Brito do Carmo",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "orlando-brito-do-carmo"
       }
     },
     {
@@ -506,7 +550,8 @@
       "transcription": "Senhores, cumprimento a mesa, cumprimento a deputada Flávia Moraes. Estivemos várias vezes reunidos em, eu participo do movimento desde dois mil e cinco, né? Sou do distrito de Cooraci, são conhecido como Antônio José. Cooraci é dos maiores distrito do Brasil, que pretende se emancipar, se desmembrando da capital. Entendi. A gente fica analisando, sobre a conjuntura nacional, e a forma de como o país foi constituído, né? Principalmente com a constituição de oitenta e oito, que deu direcionamento tributário da forma de acessar os recursos, construído no no país, nos estados, né do que é o orçamento nacional, começou a avançar a criação de municípios, e alguns estados conseguiram entender como é que se estava se organizando essa estrutura de divisão da do orçamento do, a partir da constituição de oitenta e oito, e conseguiram construir mais municípios. A exemplo de Santa Catarina, a exemplo de, Minas Gerais, a exemplo de São Paulo. Santa Catarina é menor do que Altamira e tem, duzentos e noventa cinco municípios. Eu estou falando de município paraense, né? São Paulo tem seiscentos e quarenta e três municípios. E o Pará de dimensões continentais, tem só cento e quarenta e quatro municípios. Na idade, a Amazônia legal, precisa ser repensada em relação à constituição de municípios porque, criação de municípios é fazer justiça social, é fazer com que o orçamento chegue realmente perto das pessoas. E aí, quando eu falo da questão dessa estrutura política construída a partir da formação socioespacial da da do nosso país, ela acaba sendo uma pressão muito ruim pra gente porque, você pode pode ver, a Amazônia que tem sessenta por cento do território brasileiro, e a outra região do sudeste e sul do país, não chega a a quarenta por cento da região do nosso país, eles têm uma bancada muito forte de deputados federais, de senadores, e na visão de muitos parlamentares, pensam que vai se tirar mais orçamento dos municípios, que foram construído a partir da constituição de oitenta e oito, que deu essa esse entendimento pra constituição dos municípios. E veio a a emenda quinze, de noventa e seis, barrou e freiou, brecou e não faz não fez a gente avançar nas nossas regiões da Amazônia Legal. Então, como o Orlando falou ainda há pouco, relacionado à à à consulta popular EAEAEA questão do plebiscito, é importante que a consulta popular pode acabar sendo inócuo diante de objetivo de não tirar a força de lei, para de fato fazer com que se crie município depois desse processo. Na realidade pode embaralhar, bagunçar, entendimento sobre momento tão importante que nós estamos vivendo, de retomada de uma lei federal, que que está aí tramitando inclusive nós fomos responsáveis pela criação da PEC, né? Que é a chamada PEC do Zé Mamanca Palista que quem assumiu a responsabilidade de autoria foi o Danilo Forte, deputado federal do Ceará, né? Assumiu a autoria que hoje tramita, que é entendimento interessante, que está posto aqui pra gente votar, e aí a gente precisa da da união da UNALE, pra nos ajudar a pressionar os os os deputados, né, de cada estado, da união da da Amazônia, né, Legal, pra também pressionar os deputados, e fazer uma forçatarefa, de convencer o Congresso Nacional de colocar em pauta esses projetos de lei, isso que é fundamental. Porque, a a as leis que foram votadas e vetadas, infelizmente houve uma ampla conversa, uma ampla discussão com o governo federal, com a câmara federal, com a casa civil, com a com a bancada da de todas as regiões, e infelizmente houve o veto. Então nós precisamos fazer com que entre de fato em pauta, porque hoje eu considero que o Congresso está mais maduro, está mais amadurecido, a Câmara Federal está mais amadurecida, da importância dessa pauta, que é a criação de novos municípios no nosso país, principalmente na Amazônia Legal, tá? Obrigado. Obrigada, Antônio. Agora, o Vitor.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -517,7 +562,8 @@
       "summary": " Participante discute história de emancipação de Cooraci e necessidade de criar mais municípios no Pará, inspirado na PEC do Zé Mamanca Palista, com apoio da UNALE.",
       "speaker": {
         "name": "Antônio José Viana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "antonio-jose-viana"
       }
     },
     {
@@ -528,7 +574,8 @@
       "summary": " Jornalista da TV Câmara valoriza colaboração no legislativo municipal e cerimônia democrática.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -539,7 +586,8 @@
       "summary": " Participante agradeceu a Deus por momento histórico na luta emancipacionista, saudou todas as mulheres distritais e deputados, incluindo Flávia Moraes e representante de Rondônia. Solicitou ao Parlamento Amazônico apoio aos distritos carentes e pediu por aprovação de PECs e PLP que beneficiariam o movimento emancipacionista. Requisitou a realização de consulta popular e expressou urgência na aprovação da lei.",
       "speaker": {
         "name": "Vitor",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vitor"
       }
     },
     {
@@ -550,7 +598,8 @@
       "summary": " Jornalista da TV Câmara, mestre em gestão territorial pela UNB, ex-vereadora de Luziânia: agradece a Deus por momento histórico na luta emancipalista, sauda todas as deputadas e mulheres dos distritos, homenageia Flávia Moraes e deputados presentes, pede apoio do Parlamento Amazônico para ajudar distritos e pessoas necessitadas, pedindo aprovação de PECs e PLP 137, e solicitando ao TSE autorização de consulta popular sobre emancipação de distritos.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -561,7 +610,8 @@
       "summary": " Vereador de Luzimangues - TO pediu melhorias em saúde, educação e apoio à emancipação distrital, falando em nome de pais e filhos carecendo deles. Sua frente parlamentar une vereadores para cause e solicitou apoio da Câmara Federal. Reclama da falta de creche e ensino fundamental em Luzimangues, terceira maior economia do estado, mas com desigualdade social. Luta por liberdade e justiça para pessoas em condições financeiras precárias.",
       "speaker": {
         "name": "Soares Filho",
-        "position": "Vereador de Luzimangues - TO"
+        "position": "Vereador de Luzimangues - TO",
+        "slug": "soares-filho"
       }
     },
     {
@@ -572,7 +622,8 @@
       "summary": " Jornalista da TV Câmara, mestrado em gestão territorial e ex-vereadora, brevemente introduziu deputado e saudou à tarde, referindo a fome do público por informações.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -583,7 +634,8 @@
       "summary": " Presidente da CONFEAB relata nascimento do fórum de debates por Emenda Constitucional 111, permitindo consultas populares para luta emancipacionista de 27 anos. Frente Parlamentar Mista criada com apoio de entidades, como UNALE e Parlamento Amazônico, para aprimorar processo democrático e criar novos municípios.",
       "speaker": {
         "name": "Antônio Pantoja",
-        "position": "Presidente da CONFEAB"
+        "position": "Presidente da CONFEAB",
+        "slug": "antonio-pantoja"
       }
     },
     {
@@ -594,7 +646,8 @@
       "summary": " Jornalista da TV Câmara propõe calma e garante o turno de fala do Deputado Afonso.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -605,7 +658,8 @@
       "summary": " Deputado Estadual AM: Flávia, Serginho Aguiar e membros da mesa saudados. Lembra compromisso de sancionar PLP Mozarildo, vetado. Agora, apoia PEC Danilo Forte e outros projetos similares. Pede consulta em distritos que desejam emancipação, aproveitando eleição de outubro. Sua proposta visa agilizar processo e garantir segurança a distritos que já realizaram plebiscito. Exorta votação da PEC Danilo. Boa tarde.",
       "speaker": {
         "name": "Adjuto Afonso",
-        "position": "Deputado Estadual AM"
+        "position": "Deputado Estadual AM",
+        "slug": "adjuto-afonso"
       }
     },
     {
@@ -616,7 +670,8 @@
       "summary": " Ex-vereadora e jornalista refletiu sobre discurso político, com formação em gestão territoral.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -628,7 +683,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -639,7 +695,8 @@
       "summary": " Jornalista da TV Câmara resumiu reunião sobre emancipação: concordaram sobre sua importância como desenvolvimento e aproximação à prestação de serviços; afirmaram necessidade de avanço legislativo com aprovação da PEC; discutiram consulta popular, com opiniões favoráveis e contrárias. Agora, considerações finais da mesa.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -650,7 +707,8 @@
       "summary": " Deputado Estadual pelo CE - Presidente da UNALE: favorece distritos legislarem emancipação; incentiva pressão ao Congrèsso Nacional; explica consulta popular de acordo com lei, prevista para eleições de 2028; pede apoio de vereadores para seguir legislação atual.",
       "speaker": {
         "name": "Sergio Aguiar",
-        "position": "Deputado Estadual pelo do CE - Presidente da União dos Legisladores e Legislativos Estaduais (UNALE)"
+        "position": "Deputado Estadual pelo do CE - Presidente da União dos Legisladores e Legislativos Estaduais (UNALE)",
+        "slug": "sergio-aguiar"
       }
     },
     {
@@ -660,7 +718,8 @@
       "transcription": "",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     },
     {
@@ -672,7 +731,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -683,7 +743,8 @@
       "summary": " Jornalista da TV Câmara, mestre em gestão territoral pela UNB e ex-vereadora de Luziânia elogiou movimento emancipacionista, mencionou ligação com Jardim Ingá e encerrou fórum.",
       "speaker": {
         "name": "Cassiana Tormin",
-        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia"
+        "position": "Jornalista da TV Câmara, Mestre em gestão territoral pela UNB, Ex-vereadora do município de Luziânia",
+        "slug": "cassiana-tormin"
       }
     }
   ],

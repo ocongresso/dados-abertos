@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Permaneçam",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Podemos sentar? Eu quero confessar que eu cometi dois erros.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "Podemos sentar. Eu quero confessar que eu cometi dois erros.",
       "speaker": {
         "name": "Hino Negritude",
-        "position": ""
+        "position": "",
+        "slug": "hino-negritude"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Frei propôs a Lula trazer mil bolsas para jovens afro-brasileiros estudarem chinês e TI na China, após denunciar falta de representatividade negra em programa brasileiro e anunciar apoio de ministério e MEC; também pediu à igreja católica reparação às religiões afro-brasileiras.",
       "speaker": {
         "name": "Frei Davi",
-        "position": "Frei"
+        "position": "Frei",
+        "slug": "frei-davi"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -106,7 +114,8 @@
       "summary": "Ministro dos Direitos Humanos e Cidadania celebra tradições africanas, destacando importância da memória, verdade e justiça para a comunidade negra e religiões afro-brasileiras. Menciona reparação simbólica e material, e aborda a continuidade do racismo estrutural no Brasil pós-abolição.",
       "speaker": {
         "name": "Silvio Almeida",
-        "position": "Ministro dos Direitos Humanos e da Cidadania"
+        "position": "Ministro dos Direitos Humanos e da Cidadania",
+        "slug": "silvio-almeida"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Representante do Ministério da Igualdade Racial celebra data comemorativa de criação da secretaria de políticas de igualdade racial e instituição do dia nacional de tradições africanas no Brasil. Ela destaca a relação entre religião e cultura, afirma que os terreiros são territorios dos povos de tradição africana e se compromete a combater o racismo religioso e garantir políticas públicas para esses povos.",
       "speaker": {
         "name": "Eloa Silva",
-        "position": "Representante Ministério da Igualdade Racial"
+        "position": "Representante Ministério da Igualdade Racial",
+        "slug": "eloa-silva"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -152,7 +164,8 @@
       "summary": "Rei de Ifé honra ancestrais, agradece a novo presidente do Brasil e pede unidade; celebra religião afro-brasileira e amor entre todos.",
       "speaker": {
         "name": "Adéyeye Ènitan Babatunde Ogunwusiojaja II",
-        "position": "Majestade Imperial Arole Oduduwa - Rei de Ifé"
+        "position": "Majestade Imperial Arole Oduduwa - Rei de Ifé",
+        "slug": "adeyeye-enitan-babatunde-ogunwusiojaja-ii"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "\"Homenagem a nações africanas, aplausos para rei e rainhas presentes.\"",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vicentinho -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vicentinho-por-participante-erika-kokay"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Mãe Bahiana Coordenadora RENAFRO homenageia tradições africanas, agradece presentes autoridades e deputados, e destaca importância do respeito e reconhecimento para comunidades afro-brasileiras.",
       "speaker": {
         "name": "Adna Santos",
-        "position": "Mãe Bahiana Coordenadora RENAFRO ( Rede de Religiosos Afro Brasil e Saúde)"
+        "position": "Mãe Bahiana Coordenadora RENAFRO ( Rede de Religiosos Afro Brasil e Saúde)",
+        "slug": "adna-santos"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Pai de Santo discutiu importância de unidade em candomblé, respeito a tradições e antepassados africanos, valorização de conhecimentos e preservação de folhas sagradas. Elogiou contribuições de determinadas figuras e grupos, expressou gratidão a deputado e pediu bênção para todos.",
       "speaker": {
         "name": "Walter de Odé",
-        "position": "Pai de Santo"
+        "position": "Pai de Santo",
+        "slug": "walter-de-ode"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -243,7 +263,8 @@
       "summary": "Presidente dos Correios emocionado em evento relevante, elogia deputado por defender Correios e liberdade religiosa. Lança selo contra intolerância religiosa, no seu 360º aniversário, combate discriminação no Brasil.",
       "speaker": {
         "name": "Fabiano Silva dos Santos",
-        "position": "Presidente dos Correios"
+        "position": "Presidente dos Correios",
+        "slug": "fabiano-silva-dos-santos"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -265,7 +287,8 @@
       "transcription": "Que bonito hein? E aqui?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Erika Kokay -- por Participante -- Vicentinho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-erika-kokay-por-participante-vicentinho"
       }
     },
     {
@@ -277,7 +300,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -288,7 +312,8 @@
       "summary": "Mãe de Santo homenageia ancestrais e matriarcas, agradece apoio em luta por reparação e direitos de povos tradicionais africanos. Exige reparação real, não redistribuição de projetos de lei. Pede bênçãos para mulheres presentes, reconhece yalorixás trans e canta em gratidão.",
       "speaker": {
         "name": "Adriana",
-        "position": "Mãe de Santo"
+        "position": "Mãe de Santo",
+        "slug": "adriana"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -312,7 +338,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -383,7 +415,8 @@
       "summary": "Vereador se refere a satisfação de estar no avanço para a umbanda, com a nova gestão governamental que compreende e atende às necessidades deste culto. Menciona a Frente Parlamentar na cidade de Adema e o compromisso com a defesa da tradição e ancestralidade afro-brasileira.",
       "speaker": {
         "name": "Josa",
-        "position": "Vereador"
+        "position": "Vereador",
+        "slug": "josa"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -407,7 +441,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -419,7 +454,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -455,7 +493,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -467,7 +506,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -479,7 +519,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -491,7 +532,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     }
   ],

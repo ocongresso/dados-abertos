@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     }
   ],

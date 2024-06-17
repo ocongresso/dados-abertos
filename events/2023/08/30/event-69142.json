@@ -13,7 +13,8 @@
       "summary": "Lançamento da Frente Parlamentar Mista do Bambu e fibras naturais, conhecida como Frente Bambu, no Congresso Nacional por deputados e entidades relacionadas. Cerimônia suprapartidária incluiu composição da mesa, discursos de parlamentares, manifestação de entidades, consulta pública, aprovação do programa de Trabalho Carta do Bambu, e encerramento, transmitido online com participação especial de vários convidados na mesa.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Mestre de Cerimônias anuncia instituição da frente parlamentar mista do bambu e das fibras naturais com propósito de acompanhar, propor e analisar assuntos relacionados ao bambu e fibras naturais, além de promover soluções legislativas, eventos e colaborar com pesquisas e desenvolvimento sustentável.",
       "speaker": {
         "name": "Roberto Rech",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "roberto-rech"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -56,7 +60,8 @@
       "summary": "Bambu BR representa união de empresários e acadêmicos no bambu. Claudia Mara, doutora em ecologia, trabalha com bambu há 12 anos e destaca seu potencial inigualável. O Brasil ainda não se uniu no assunto e há perdida financeira, especialmente em comparação à China. Claudia Mara é produtora de bambu em Luziânia, usa-o para alimentação de gado e promove segurança alimentar. Agradecimentos às associações presentes.",
       "speaker": {
         "name": "Claudia Mara",
-        "position": "Bambu BR"
+        "position": "Bambu BR",
+        "slug": "claudia-mara"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": "Mestre de Cerimônias convidou Gustavo Rocha Santos e Antônio Barreto para assentarem na primeira fila. Agradecidos à doutora Cláudia, convidaram Guilherme Corte para falar. Boa noite.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "Participante fala sobre a importância do bambu no Brasil, sua história global e variedade de usos. Destaca a capacidade de absorção de biomassa do Brasil e o potencial do bambu como produto florestal não madeireiro. Menciona a existência de dez mil usos e vinte milhões de empregos relacionados ao bambu em todo o mundo. También se refere a um projeto sobre o bambu no Brasil e sua disponibilidade para os participantes.",
       "speaker": {
         "name": "Guelherme Cortes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "guelherme-cortes"
       }
     },
     {
@@ -101,7 +109,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -112,7 +121,8 @@
       "summary": "Participante destaca potential da cultura de bambu no Brasil, com demanda no mercado de bioenergia e fibras, e reservas mundiais e no pais. Ele menciona a estabilidade economica e preservação ambiental que a cultura traz, além de necessidade de incentivo a pesquisa, desenvolvimento de maquinas e equipamentos nacionais e credito florestal para expansao da cultura no pais. Referencia tambem a historia da industria do papel com o bambu.",
       "speaker": {
         "name": "Guelherme Cortes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "guelherme-cortes"
       }
     },
     {
@@ -122,7 +132,8 @@
       "transcription": "",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Participante relata presidência da Câmara Sectorial de Fibras Naturais, agradece apoio de parlamentares e ministérios, e destaca importância de fibras naturais na redução de emissões de carbono. Menciona evento internacional sobre fibras naturais em 2023 no Brasil e projetos em andamento. Pediu uma salva de palmas para Parlamentar Previcia Vieira e agradeceu Guilherme Koch.",
       "speaker": {
         "name": "Wilson Andrade",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "wilson-andrade"
       }
     },
     {
@@ -144,7 +156,8 @@
       "summary": "Mestre de Cerimônias apresentou Andrade e convidada deputada Paula Belmonte; saudou a todos.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": "Deputado Distrital agradece Deputado Jerini por frente parlamentar sobre plantação de bambu, vê Distrito Federal e Centro-Oeste como referência nessa área, deseja geração de emprego, inserção no mercado externo e benefícios para pecuária com alimentação de gado. Suporta projetos que possam incentivar plantação de bambu e trazer benefícios econômicos e ambientais.",
       "speaker": {
         "name": "Paula Belmonte",
-        "position": "Deputado Distrital"
+        "position": "Deputado Distrital",
+        "slug": "paula-belmonte"
       }
     },
     {
@@ -166,7 +180,8 @@
       "summary": "Mestre de Cerimônias anunciou deputada do Distrito Federal, amiga e aliada de lutas pela saúde integrativa; cita polêmica sobre zona terapia; invitou deputado de Santa Catarina, também parlatar sobre bambu e lei de incentivo em seu estado.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Deputado Estadual refere processo de introdução de bambu em agricultura de Santa Catarina, promovendo autossustentação e diversos usos práticos, destacando seu potencial como fonte de renda no Brasil.",
       "speaker": {
         "name": "Nilson Berlanda",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "nilson-berlanda"
       }
     },
     {
@@ -188,7 +204,8 @@
       "summary": "Mestre de Cerimônias anuncia e convida Rosângela do Ministério da Ciência, Tecnologia e Inovação para falar. \"Eu sou Rosângela\" (apresentação dela).",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -199,7 +216,8 @@
       "summary": "Participante coordena programas e projetos relacionados à tecnologia e economia no Ministério da Ciência e Tecnologia. Ela agradece a presença de colaboradores e representantes de câmaras setoriais e enfatiza o apoio do ministério à bioeconomia e à cadeia produtiva do bambu. Convidados devem contar com o apoio do ministério em suas respectivas áreas.",
       "speaker": {
         "name": "Rosangela Solsa",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rosangela-solsa"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Mestre de Cerimônias anuncia palestrante estratégico e experiente em bambu, com a presença do vice.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -221,7 +240,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -232,7 +252,8 @@
       "summary": "Professor discutiu importância de bambu no século, sua vantagem única e serviços ecosistêmicos. Mencionou empresas globais como EcoPlanet usando bambu para serviços ambientais, gerando mais receita do que produto final. Também apontou o potencial do Brasil em bioenergia usando bambu e necessidade de planejamento estratégico para desenvolver economia do bambú.",
       "speaker": {
         "name": "Alejandro Silva",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "alejandro-silva"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Lançamento da Frente Parlamentar Mista do Bambu e fibras naturais com atuação nacional, presidida pelo deputado federal Geovani Cherini. Seis momentos: composição da mesa, pronunciamento de parlamentares, manifestação de entidades, consulta pública sobre projeto de lei, aprovação do programa \"Carta do Bambu\" e encerramento. Transmissão ao vivo no YouTube e redes sociais.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -253,7 +275,8 @@
       "transcription": "",
       "speaker": {
         "name": "Neri",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "neri"
       }
     },
     {
@@ -265,7 +288,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -276,7 +300,8 @@
       "summary": "Arquiteta aposentada com 40 anos de experiência; sempre buscou maneiras de ajudar os desabrigados; descobriu o bambu há quinze ou vinte anos e o usa em projetos arquitetônicos e escultóricos em sua cidade; deseja desenvolver uma técnica de construção usando bambu e isopor, reduzindo lixo e criando renda; slogan: \"Bambu para todos, trabalho e renda\".",
       "speaker": {
         "name": "Neri",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "neri"
       }
     },
     {
@@ -288,7 +313,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -298,7 +324,8 @@
       "transcription": "",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -309,7 +336,8 @@
       "summary": "Participante representa Associação Brasileira das Indústrias de cannabis medicinal e cânhamo industrial, estão apoiando lançamento Frente Parlamentar mista do bambu e das fibras naturais. Cânhamo e bambu podem ajudar na redução de misérias, fome no Brasil, desenvolvimento de bens materiais, economia verde e sustentável. Cânhamo e bambu podem ajudar na recuperação ambiental e agricultura. Bambu demora, mas vale a pena. Participante agradece por tempo e espaço no lançamento.",
       "speaker": {
         "name": "THIAGO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "thiago"
       }
     },
     {
@@ -321,7 +349,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -333,7 +362,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -345,7 +375,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -357,7 +388,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -369,7 +401,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -381,7 +414,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -393,7 +427,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -404,7 +439,8 @@
       "summary": "Mestre de Cerimônias: Reunião de trabalho em andamento, convidada professora Ana Elisabete Teixeira da UEG para falar, equipa forte, boa manhã.",
       "speaker": {
         "name": "Adriane Cerini",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "adriane-cerini"
       }
     },
     {
@@ -415,7 +451,8 @@
       "summary": "Professora da Universidade Estadual de Goiás criou Rede Brasileira do Bambu em 2006 para aprimorar vida de populações pobres e promover uso de bambu no Brasil. Realizam seminários, pesquisas e projetos em diversas áreas. Lei 12.484/11 impulsiona cadeia produtiva do bambu no Brasil e a participação no INBAR. Rede busca unir atores da cadeia produtiva para desenvolver cultura do bambu no país.",
       "speaker": {
         "name": "Anelizabete Alves Teixeira",
-        "position": "Professora da Universidade Estadual de Goiás"
+        "position": "Professora da Universidade Estadual de Goiás",
+        "slug": "anelizabete-alves-teixeira"
       }
     },
     {
@@ -427,7 +464,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -438,7 +476,8 @@
       "summary": "Participante propõe aumentar fomento para setores de fibras naturais e florestas plantadas através do SDI e MDA, além da SPA, e convida a participação de interessados em reuniões.",
       "speaker": {
         "name": "Gustavo Santos",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-santos"
       }
     },
     {
@@ -450,7 +489,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -461,7 +501,8 @@
       "summary": "Participante expressou gratidão por estar no debate, representando alguém da Embrapa, área de relacionamento institucional governamental, e destacou a importância da Embrapa.",
       "speaker": {
         "name": "Ligia Sardinha",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ligia-sardinha"
       }
     },
     {
@@ -472,7 +513,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -483,7 +525,8 @@
       "summary": "Participante valoriza bambu por sua versatilidade e apaixonante natureza, trabalhando closely with artisans e bambuzeiros por quinze anos. Reúne artesões e produtos para exposição, demonstrando significado pessoal e desenvolvimento criativo. Fomenta produtos e artesanato a nível nacional e internacional, com produtos majoritariamente artesanais e alguns industriais. Promete trazer mais de 200 produtos diferentes em próximas oportunidades.",
       "speaker": {
         "name": "Vitor",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vitor"
       }
     },
     {
@@ -495,7 +538,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -506,7 +550,8 @@
       "summary": "O participante debate sobre a força do bambu, argumentando que, em termos de resistência em relação ao próprio peso, o bambu é mais forte do que o aço e mais resistente à compressão do que o concreto. Ele também destaca sua considerável utilidade estrutural e potencial de sustentabilidade, com menor impacto ambiental e social do que outros materiais.",
       "speaker": {
         "name": "Vitor",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vitor"
       }
     },
     {
@@ -518,7 +563,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -529,7 +575,8 @@
       "summary": "Participante fala sobre a presença do bambu em sua vida, desde a infância até a carreira de sua filha, arquiteta. Menciona a revista sobre bambu e destaca duas descobertas: próteses e plástico de bambú. Oferece-se para ajudar como consultor da Frente Parlamentar do Ensino Técnico a criar curso técnico de bambu, acreditando que isso impulsionará o consumo e industrialização em grande escala.",
       "speaker": {
         "name": "Ricardo Nerbas",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ricardo-nerbas"
       }
     },
     {
@@ -541,7 +588,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -552,7 +600,8 @@
       "summary": "Participante discute história do bambu em Mato Grosso, pioneiro como seus avós, apoio do Grupo Mutum e FS Mil Energia no cultivo mecanizado.",
       "speaker": {
         "name": "Guelherme Cortes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "guelherme-cortes"
       }
     },
     {
@@ -564,7 +613,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -575,7 +625,8 @@
       "summary": "Participante elogia iniciativa de cluster do bambu, referencia projeto de sucesso em Nova Mutum, vê futuro positivo para cadeia produtiva, menciona ideia de tornar Nova Mutum capital mundial do bambu e parque tecnológico com foco em pesquisa e desenvolvimento. Parabéns e obrigado.",
       "speaker": {
         "name": "Frederico",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "frederico"
       }
     },
     {
@@ -587,7 +638,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -598,7 +650,8 @@
       "summary": "Professor representa Centro de Pesquisa em Bambu e Fibras da UnB, destacando pesquisas em andamento: propagação vegetativa de mudas de bambu, produção de biochar a partir de bambu para biofertilizante, caracterização e identificação de insetos fitófagos em plantios de bambu. Área de plantio em Fazenda Água Limpa e coleção com sete espécies de bambu. Falta apoio à pesquisa e publicação científica, promover formação de recursos humanos em cadeia produtiva do bambu.",
       "speaker": {
         "name": "Anderson Marques de Souza",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "anderson-marques-de-souza"
       }
     },
     {
@@ -610,7 +663,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -621,7 +675,8 @@
       "summary": "Arquiteta trabalha com design de bambu há 10 anos, iniciou no escritório colombiano, depois no México, agora no Brasil. Também consultora na Faculdade Mackenzie, participando de concurso com Francisco Morato. Está feliz e emocionada por estar falando sobre bambu na frente parlamentar.",
       "speaker": {
         "name": "Alena",
-        "position": "Arquiteta"
+        "position": "Arquiteta",
+        "slug": "alena"
       }
     },
     {
@@ -633,7 +688,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -644,7 +700,8 @@
       "summary": "Participante representa Federação Brasileira da Mineração, sediada em Parauapebas. Agradece oportunidade de falar sobre federação e seus projetos, incluindo utilização de bambu para recuperação de áreas degradadas. Nova diretoria está sendo mais atuante e já está em tratativas com prefeita de Canaã para primeiro projeto com bambu. Disponível para ajudar em necessário.",
       "speaker": {
         "name": "Leonildo Munhoz",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "leonildo-munhoz"
       }
     },
     {
@@ -656,7 +713,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -667,7 +725,8 @@
       "summary": "Professor focou em mapear localização de pessoas trabalhando com bambu e fibras naturais, usando dados da Embrapa e outras instituições. Essencial para iniciar trabalho.",
       "speaker": {
         "name": "Neri",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "neri"
       }
     },
     {
@@ -679,7 +738,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -690,7 +750,8 @@
       "summary": "Participante agradeceu por participar do evento, saudou os presentes, compartilhou sua trajetória e pesquisas com fibras e resíduos agrícolas no concreto, elogiou as propriedades do bambu e desejou contribuir para indústria sustentável.",
       "speaker": {
         "name": "Enio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "enio"
       }
     },
     {
@@ -702,7 +763,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -713,7 +775,8 @@
       "summary": "Participante representa La Retilena del Bambu, trabalha com bambu há 20 anos em Brasília. Ela se considera uma \"bambuseira de coração\" e destaca a resiliência do bambu e sua importância no planeta. Ela menciona dificuldades na produção artesanal de bambu e a necessidade de inclusão de mão de obra feminina e instituições de apoio. Ela também destaca a falta de conhecimento sobre o bambu e a necessidade de ensinar a plantar e controlar seu crescimento.",
       "speaker": {
         "name": "Erika Araya Fredes",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "erika-araya-fredes"
       }
     },
     {
@@ -724,7 +787,8 @@
       "summary": "Participante destacou avanços no levantamento de bambuzeiros no Brasil e referenciou a adoção de madeira e fibras naturais pela Câmara Brasileira da Indústria da Construção, no lugar de materiais de alta emissão de carbono como aço e cimento. Expressou tristeza por reunião no Instituto Brasileiro do Concreto, que priorizou materiais tradicionais sobre inovação em materiais de alto desempenho. Ofereceu apoio de Santa Catarina para promover mudanças na indústria cimenteira.",
       "speaker": {
         "name": "Enio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "enio"
       }
     },
     {
@@ -735,7 +799,8 @@
       "summary": "Deputado Estadual refere importância da cadeia produtiva no emprego, destacando ensino de pessoas a plantar.",
       "speaker": {
         "name": "Nilson Berlanda",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "nilson-berlanda"
       }
     },
     {
@@ -747,7 +812,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -759,7 +825,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -771,7 +838,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -783,7 +851,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -795,7 +864,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     },
     {
@@ -806,7 +876,8 @@
       "summary": "Deputado Estadual visitou rápido, cumpriu cumprimentos, elogiou Berlanda por trabalho resocialização em presídios, mencionou primo ligado ao bambu, colocou-se à disposição da frente, salientou liderança de Cherini no PL e na saúde.",
       "speaker": {
         "name": "Jorge",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "jorge"
       }
     },
     {
@@ -818,7 +889,8 @@
       "speaker": {
         "id": 160673,
         "name": "Giovani Cherini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giovani-cherini"
       }
     }
   ],

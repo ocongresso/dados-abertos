@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -51,7 +54,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Castro Neto -- por Participante -- Zé Haroldo Cathedral",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-castro-neto-por-participante-ze-haroldo-cathedral"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -133,7 +143,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Haroldo Cathedral -- por Participante -- Castro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-haroldo-cathedral-por-participante-castro-neto"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     }
   ],

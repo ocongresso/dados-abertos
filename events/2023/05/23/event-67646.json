@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220641,
         "name": "Rodrigo Gambale",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-gambale"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Saudações a deputados; CEDES e comissão especial podem abordar mesmo tema, harmonizando esforços ou seguindo caminhos diferentes, complementares. Duas propostas distintas mencionadas.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -124,7 +133,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -171,7 +184,8 @@
       "summary": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS discutiu dificuldades iniciais no assessoramento e sugeriu focar em \"Brasil contra violência e preconceitos na escola\" e outras temáticas como saneamento básico, reindustrialização com economia verde e crédito de carbono, e biocondutores para manter estudo CONNE.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -193,7 +208,8 @@
       "summary": "Segundo o Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS, os dois temas em questão são complementares e seria honra estudá-los juntos. Ele propôs aos senhores tempo para apresentar uma proposta de consolidação dos dois temas.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -216,7 +233,8 @@
       "summary": "Reunindo vitória e relatórios: dois relatores para temática transversal de reindustrialização e transição energética, como feito com estudo relatado por professoras Seabra e Ângela Minho. Contribuição com retomada econômica antecipada.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -239,7 +258,8 @@
       "summary": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS propõe ampliar estudo sobre inteligência artificial, abordando impactos no emprego, previdência e automação.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -296,7 +320,8 @@
       "summary": "Discussão sobre energia renovável e reindustrialização conectadas; abordar temas em uma perspectiva de baixo carbono para melhor agregação e construção de escopo. Aceitará sugestão, mas com reservas.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -307,7 +332,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -319,7 +345,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -330,7 +357,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -342,7 +370,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -353,7 +382,8 @@
       "summary": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS se refere à proposta de deputados sobre impacto de inteligência artificial no trabalho, especificamente no transporte, e três formas de agregar valor a essa proposta.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -376,7 +407,8 @@
       "summary": "Reunião sobre reindustrialização focada em questão energética ampla e transição energética; proposição de discussão junto à consultoria e posterior criação de proposta de trabalho em comum, incluindo o deputado como contribuinte.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -398,7 +431,8 @@
       "summary": "Ajuste e trabalho abordados, com ênfase em temas dos assuntos 2 e 3.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -422,7 +457,8 @@
       "speaker": {
         "id": 204444,
         "name": "Helio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helio-lopes"
       }
     },
     {
@@ -434,7 +470,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -445,7 +482,8 @@
       "summary": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS se compromete a consolidar três textos e apresentar propostas de trabalho em duas semanas, seguido por contatos com parlamentares responsáveis para discussão.",
       "speaker": {
         "name": "Geraldo Leite",
-        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS"
+        "position": "Secretário Executivo do CEDES e Diretor da CONLE - CAMARA DOS DEPUTADOS",
+        "slug": "geraldo-leite"
       }
     },
     {
@@ -457,7 +495,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     }
   ],

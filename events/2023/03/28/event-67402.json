@@ -18,39 +18,43 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
       "id": 181988,
       "start_time": 1680014587,
       "duration": 1412,
-      "transcription": "Nós vamos só aguardar a deputada Meire Serafim e a deputada Silvir, que Porque se comunicaram e estavam vindo, então em respeito a elas que estavam em plenário, eu vou vou aguardálas pra gente encerrar a votação. Deputada Meire Serafim vai proceder o voto, Ficamos aguardando apenas a deputada Silvino. Deputada Meire não se preocupe com a presença, senhora vossa excelência votando, já está considerada presença. Não se preocupe com esse painel não que está com defeito, melhor ir direto no cabine de votação. Deputada Denise Pessoa votou. Aindago se a algum parlamentar presente que ainda não votou. Em não havendo, está encerrada a votação.",
+      "transcription": "\nNós vamos só aguardar a deputada Meire Serafim e a deputada Silvi, que se comunicaram e estavam vindo, então em respeito a elas que estavam em plenário, eu vou vou aguardálas pra gente encerrar a votação. Deputada Meire Serafim vai proceder o voto, Ficamos aguardando apenas a deputada Silvino. Deputada Meire não se preocupe com a presença senhora vossa excelência votando, já está considerada presença, não se preocupe com esse painel não que está com defeito, melhor ir direto na cabine de votação. Deputada Denise Pessoa votou. Aindago se a algum parlamentar presente que ainda não votou.\n\nEm não havendo está encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 9296,
       "start_time": 1680015999,
       "duration": 36,
-      "transcription": "Apuração dos votos. No painel eletrônico. Resultado para presidente. Vinte votos. Vinte e votantes, vinte votos pra deputada Soraia Santos, voto em branco. Declaro portanto eleita presidente desta comissão, a deputada Soraia Santos. Pra você ver como ela é presidente que ela já subiu no",
-      "summary": "Deputada Soraia Santos eleita presidente, recebeu todos os votos válidos, 20 no total.",
+      "transcription": "\nApuração dos votos. No painel eletrônico. Resultado para presidente. Vinte votos. Vinte e votantes, vinte votos pra deputada Soraia Santos, voto em branco.\n\nDeclaro portanto eleita presidente desta comissão a deputada Soraia Santos. Pra você ver como ela é presidente que ela já subiu no",
+      "summary": " Deputada recebeu todo o total de votos válidos, 20 no total, para presidente.",
       "speaker": {
-        "name": "Fim da Votação",
-        "position": ""
+        "id": 74856,
+        "name": "Laura Carneiro",
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
       "id": 181970,
       "start_time": 1680016035,
       "duration": 54,
-      "transcription": "Convido a deputada Soraia Sandro pra que tome assento na presidência dessa comissão, e como sempre desejando a ela todo sucesso do mundo isso é natural a deputada Soraia e nós todas e todos esperamos que essa comissão deputada AM seja profícua nessa temática, eu tenho projeto de lei como outros deputados e deputados também tem, e nós sabemos a importância pra mulher brasileira na questão da violência obstétrica então que honra participar junto com todas e todos vocês, e ter na presidência deputada Soraia Santos. Mês a sua.",
-      "summary": "Deputada Soraia Sandro convidada para presidência da comissão; espera-se comissão profícua; violência obstétrica reconhecida como importante; honra participar com todos; presidência para deputada Soraia Santos.",
+      "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Laura Carneiro -- por Participante -- Soraya Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-laura-carneiro-por-participante-soraya-santos"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 220549,
         "name": "Any Ortiz",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "any-ortiz"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -217,7 +234,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -241,7 +260,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -253,7 +273,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -265,7 +286,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -277,7 +299,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -289,7 +312,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -301,9 +325,10 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     }
   ],
-  "updated_at": 1715597517
+  "updated_at": 1718633396
 }

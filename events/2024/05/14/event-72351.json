@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " CEO - Universidade do Futebol agradece iniciativa, sharing passion for football's transformative power. Supporting youth development in clubs, strengthening ecosystem, and promoting integral athlete training. Program to reinforce network, representation, and public policies. Brazil believes in football's potential. Seven workgroups pushing for football-education integration and legislative alignment, aiming to create a national football development plan.",
       "speaker": {
         "name": "Heloísa Rios",
-        "position": "CEO - Universidade do Futebol"
+        "position": "CEO - Universidade do Futebol",
+        "slug": "heloisa-rios"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": " Secretário de Direitos do Torcedor discute amor por futebol, programas na secretaria, parceria com CBF, e apoio a clubes pequenos e futebol de salão.",
       "speaker": {
         "name": "Athirson Mazolli e Oliveira",
-        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte"
+        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte",
+        "slug": "athirson-mazolli-e-oliveira"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -71,7 +76,8 @@
       "summary": " CBF participa no Congresso FIFA; Brasil é candidato a sediar Copa do Mundo feminina; Diretor da Diretoria de Registro da CBF discute cenário atual com dados do futebol profissional e amador; 56 clubes formadores certificados, mas ainda muito a avançar; importância da certificação para registro de contratos de formação de atletas; atualização da RDP de 2019 para cumprir nova lei geral do esporte; espera-se trazer programa FIFA Guardians para proteção de menores ao Brasil.",
       "speaker": {
         "name": "Ênio Gualberto",
-        "position": "Diretor - Diretoria de Registro, Transferência e Licenciamento de Clubes da Confederação Brasileira de Futebol - CBF"
+        "position": "Diretor - Diretoria de Registro, Transferência e Licenciamento de Clubes da Confederação Brasileira de Futebol - CBF",
+        "slug": "enio-gualberto"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": " Elogia projeto para fortalecer indústria do futebol no Brasil, agradece convite, propõe lei específica com ênfase em formação, sustentabilidade, proteção a atletas, transparência e inclusão. Experiência ilustra importância de investir no desenvolvimento humano e inclusão no futebol. Propõe revisão de leis e criação de comitê especial. Reafirma compromisso com futuro do futebol justo, seguro e inclusivo.",
       "speaker": {
         "name": "Mauro Silva",
-        "position": ""
+        "position": "",
+        "slug": "mauro-silva"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": " Cumprimentos aos presentes e elogios a Mauro e Tyrson. Investimento em categorias de base recomendado. Três pilares da associação: regulamentação, qualificação e modernização, especialmente no futebol de base.",
       "speaker": {
         "name": "Edgar Montemor",
-        "position": "Vice-presidente - Associação Brasileira de Executivos de Futebol"
+        "position": "Vice-presidente - Associação Brasileira de Executivos de Futebol",
+        "slug": "edgar-montemor"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": " Pacto pelo Esporte surgiu por atletas buscando alterar estrutura do esporte brasileiro, com lei Pelé fortalecendo governança e participação de atletas. Atualmente, 40 empresas, incluindo principais patrocinadores, estão investindo recursos privados no esporte para melhorar gestão, governança, e interessam-se em formação de atletas e interação com outros setores.",
       "speaker": {
         "name": "Daniela Castro",
-        "position": "Diretora executiva - Diretoria do Pacto pelo Esporte"
+        "position": "Diretora executiva - Diretoria do Pacto pelo Esporte",
+        "slug": "daniela-castro"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": " Palestrante propõe união para um futuro próspero no futebol, destacando reformas legislativas, boa governança, formação integral de jovens atletas, melhores infraestruturas, proteção à integridade física e moral dos jogadores, e testes de integridade para treinadores. Oferece ajuda com conhecimento prático e internacional.",
       "speaker": {
         "name": "Emanuel Medeiros",
-        "position": ""
+        "position": "",
+        "slug": "emanuel-medeiros"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": " Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte enfatizou importância de projetos sociais em clubes, ajudando a identificar e desenvolver talentos, especialmente em clubes menores. Citou exemplos de influência positiva do futebol em vidas, mencionou desafios como indisciplina e necessity de reforçar valores éticos. Discutiu importância de parcerias e apoio de políticos para melhorar trabalho da secretaria, que atende mais de 60.000 crianças.",
       "speaker": {
         "name": "Athirson Mazolli e Oliveira",
-        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte"
+        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte",
+        "slug": "athirson-mazolli-e-oliveira"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": " Diretor da CBF: informar atletas matriculados em escolas, parceria com prefeituras em projeto \"Gol do Brasil\", incentivar prática de futebol em meninos e meninas. Obrigado.",
       "speaker": {
         "name": "Ênio Gualberto",
-        "position": "Diretor - Diretoria de Registro, Transferência e Licenciamento de Clubes da Confederação Brasileira de Futebol - CBF"
+        "position": "Diretor - Diretoria de Registro, Transferência e Licenciamento de Clubes da Confederação Brasileira de Futebol - CBF",
+        "slug": "enio-gualberto"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -280,7 +303,8 @@
       "summary": " O ex-jogador Mauro Silva elogiou o projeto de combate ao tráfico através do esporte, destacando a importância de educar e formar cidadãos. Discutiu o crescimento do futebol feminino no estado de São Paulo, com investimentos e parcerias, trabalhando para diminuir discriminação e preconceitos. Ele vê o futebol como plataforma de educação e mudança social.",
       "speaker": {
         "name": "Mauro Silva",
-        "position": ""
+        "position": "",
+        "slug": "mauro-silva"
       }
     },
     {
@@ -291,7 +315,8 @@
       "summary": " CEO da Universidade do Futebol destacou parceria com Federação Paulista, investimento em futebol feminino por necessidade e oportunidades que traz. Lutam por desenvolver lideranças femininas e destacou a inclusão de mulheres no futebol para humanizar e fortalecer a indústria. Competência e esforço sem gênero ou exclusão é o ponto de partida. Inclusão de mulheres e classes sociais na construção de futebol ético, inclusivo, sustentável e competitivo.",
       "speaker": {
         "name": "Heloísa Rios",
-        "position": "CEO - Universidade do Futebol"
+        "position": "CEO - Universidade do Futebol",
+        "slug": "heloisa-rios"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -314,7 +340,8 @@
       "summary": " União Unegro combate homofobia, intolerância religiosa e bullying, especialmente em futebol. Oferece ONG para ajudar a educar clubes e torcidas contra racismo.",
       "speaker": {
         "name": "André Alexandre",
-        "position": "Unegro"
+        "position": "Unegro",
+        "slug": "andre-alexandre"
       }
     },
     {
@@ -325,7 +352,8 @@
       "summary": " CEO da Universidade do Futebol defende formação integral, performance e cidadania no futebol de base. Nova parceria com Fundação Vini Júnior para promover educação pública usando linguagem do futebol. Metas: combate ao racismo e transformação social. Planejam audiência com outros ministérios sobre futebol e educação.",
       "speaker": {
         "name": "Heloísa Rios",
-        "position": "CEO - Universidade do Futebol"
+        "position": "CEO - Universidade do Futebol",
+        "slug": "heloisa-rios"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -349,7 +378,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -360,7 +390,8 @@
       "summary": " Secretário Nacional de Defesa dos Direitos do Torcedor do Ministério do Esporte por sua mensagem, que ficou: \"Lembre-se do código 20J0 para nossa atenção; parabéns pela iniciativa no futebol; agradecemos sua presença.\"",
       "speaker": {
         "name": "Athirson Mazolli e Oliveira",
-        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte"
+        "position": "Secretário Nacional - Secretaria de Defesa dos Direitos do Torcedor do Ministério do Esporte",
+        "slug": "athirson-mazolli-e-oliveira"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     }
   ],

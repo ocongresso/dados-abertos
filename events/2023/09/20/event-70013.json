@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Reunião encerrada por falta de quórum. Convocação para reunião extraordinária em 26 de setembro às 14:30. Anunciará pauta posteriormente. Reunião de amanhã cancelada. Fim.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     }
   ],

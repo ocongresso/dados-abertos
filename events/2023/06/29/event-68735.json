@@ -13,7 +13,8 @@
       "summary": "Bom dia a todos; radio é fundamental; conecta 52 milhões; rádios comunitárias resolv. problemas locais; autoridades convidadas; hino nacional cantado.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Início de Hino Nacional: glorificação da pátria, liberdade e amor por Brasil. Agradecimento a todos, especialmente Paulo de Freitas.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Bom dia a todos e a todas. Senhor presidente senhoras e senhores. O rádio aproxima as pessoas. Ele continua firme entre nós, sendo o canal mais profundo e instantâneo entre as pessoas e a informação. Hoje, cinquenta e dois milhões de pessoas ouvem rádio, de casa, do carro e da fazenda, nos lugares onde nenhum outro veículo de comunicação chega. Ele está ali, ao vivo, presente. Em se tratando das rádios comunitárias, elas são aliadas de suas comunidades, levando a voz dos ouvintes e são esses veículos a quem os trabalhadores, homens e mulheres, recorrem para solicitar respostas a problemas diários. Buracos nas vias, aumento do combustível, educação, saúde e outros são também geradores de emprego na área de e formam o maior colegiado parlamentar em apoio e defesa das rádios comunitárias do Brasil. Parabéns a todos e muito obrigado pela presença. Neste momento, dando início às nossas atividades, convido as autoridades para compor o dispositivo oficial. Deputado federal Jadiel Alencar, presidente da Frente Parlamentar mista em apoio às rádios comunitárias. Convido também o senhor Ricardo Zamorra, secretário da secretaria de comunicação social da presidência da república. Convidamos também Wilson Welish, secretário do Ministério das Comunicações. Convidamos também o deputado federal Bom Gás pra compor a mesa desse dispositivo conosco. Registramos e agradecemos a presença de todo o setor que está aqui hoje pra participar dessa solenidade. Daremos início agora ao nosso evento e nesse momento convido a todos em posição de respeito a cantarmos o hino brasileiro. Estamos passando aqui por probleminha técnico, mas novamente convido a todos para imposição de respeito cantarmos o hino nacional. Gente, então a gente está passando por pouquinho, pequeno problema técnico, mas a sugestão da assessoria é que a gente. Cante o hino coletivamente. Então vamos lá. Ouviram do Ipiranga as margens plácidas. De povo herói cobrado retumbante. E o sol da liberdade em raios rugidos Brilhou no céu da pátria nesse instante. Se opinhou.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -45,7 +48,8 @@
       "summary": "Mestre de Cerimônias convida todos a ouvir discurso do Deputado Federal Jadiel Alencar, presidente da Frente Parlamentar Mista em apoio às rádios comunitárias. Deputado Federal sauda e dá boa tarde.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 220697,
         "name": "Jadyel Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jadyel-alencar"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Mestre de Cerimônias sauda grupo presente e destaca importância de rádios comunitárias no Brasil, enfatizando seus desafios e a necessidade de adaptar legislação para suas necessidades. Menciona apoio de diversas entidades e órgãos governamentais para melhorar situação dessas rádios.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -90,7 +97,8 @@
       "transcription": "",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -101,7 +109,8 @@
       "summary": "Secretário-Executivo da SECOM abordou publicidade institucional para rádios comunitárias, anunciando decreto presidencial para permissão e etapas seguintes, incluindo medidas inicias e trabalho em TVs comunitárias e lei de rádio difusão.",
       "speaker": {
         "name": "Ricardo Zamora",
-        "position": "Secretário-Executivo da Secretaria de Comunicação Social da Presidência de Repúbliaca"
+        "position": "Secretário-Executivo da Secretaria de Comunicação Social da Presidência de Repúbliaca",
+        "slug": "ricardo-zamora"
       }
     },
     {
@@ -111,7 +120,8 @@
       "transcription": "Com a palavra agora Wilson do Ministério das Comunicações. Acertei?",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -122,7 +132,8 @@
       "summary": "Secretário de Comunicação Social Eletrônica do Ministério das Comunicações abordou importância da rádio comunitária para democratização de informação e cultura, anunciando novidades como alterações em lei e portaria para facilitar renovação de licença e fiscalização, além de seis editais abertos em 2023 e planos para atender áreas carecendo de interesse.",
       "speaker": {
         "name": "Wilso Diniz Wellisch",
-        "position": "Secretário de Comunicação Social Eletrônica do Ministério das Comunicações"
+        "position": "Secretário de Comunicação Social Eletrônica do Ministério das Comunicações",
+        "slug": "wilso-diniz-wellisch"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Mestre de Cerimônias anuncia os integrantes do dispositivo, incluindo Thaís Ladeira da MARC, Jeremias dos Santos, Ricardo Campos, João Antônio Rocha, Alan Camargo via vídeo, Núbia Bragança, deputado Marcon do PT, América Bonfim, e representantes do Ministério do Trabalho e Emprego. Pede para que Thaís Ladeira fale. Thaís cumprimenta e agradece por estar presente.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -144,7 +156,8 @@
       "summary": "Associação Mundial de Rádios Comunitárias (AMARC) defende rádios comunitárias no Brasil há 25+ anos, trabalhando com outras organizações para garantir acesso à comunicação e regulamentação democrática. Essas rádios, que representam a diversidade da população, sofrem com falta de apoio e legislação adversa e estão engajadas em garantir interlocutores no Congresso Nacional e espaço na nova regulamentação do serviço de comunicação social no Brasil.",
       "speaker": {
         "name": "Tais Ladeira",
-        "position": "Associação Mundial de Rádios Comunitarias - AMARC"
+        "position": "Associação Mundial de Rádios Comunitarias - AMARC",
+        "slug": "tais-ladeira"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": "Mestre de Cerimônias anunciou assinatura de termo para criação do conselho temporário da frente parlamentar em apoio à rádios comunitárias, e convocou reunião com Casa Civil sobre minuta de decreto.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -166,7 +180,8 @@
       "summary": "Abraço Nacional: nascida antes da lei 9612, vêm lutando por rádios comunitárias há 25 anos. Existe necessidade de alterar lei 9712 no parlamento e combater projeto que remove sigla FM das rádios comunitárias. Também há projetos sobre sustentabilidade e aumento de potência e canais. Buscam-se criar frente única de rádios comunitárias e conversar com Lula para mudar decreto sobre interferência e raio de alcance. Luta contínua por conteúdo melhor e defesa da cultura brasileira.",
       "speaker": {
         "name": "Geremias dos Santos",
-        "position": "Abraço Nacional"
+        "position": "Abraço Nacional",
+        "slug": "geremias-dos-santos"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Mestre de Cerimônias anuncia presentes de partidos políticos e dá palavra a Ricardo Campos do Abraço do Piauí.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -188,7 +204,8 @@
       "summary": "Presidente da Abraço do Piaui agradece coragem de Jadial e reconhece mártires da radiodifusão comunitaria no Piaui. Lamenta a perseguição a rádios comunitárias no passado e no presente, e incentiva a mudança através do empoderamento e da ação coletiva.",
       "speaker": {
         "name": "Ricardo Campos",
-        "position": "Presidente da Abraço do Piaui"
+        "position": "Presidente da Abraço do Piaui",
+        "slug": "ricardo-campos"
       }
     },
     {
@@ -199,7 +216,8 @@
       "summary": "Mestre de Cerimônias apresenta participantes e homenageia deputados. Destaca importância de lei de fomento em DF e dificuldades em regulamentá-la. Menciona ausência do presidente e apoio necessário para aumento de potência e canais, criticando enrolamento em grupos de trabalho. Reclama de 27 anos de luta e pede por recursos para rádios comunitárias, comparando com outros programas governamentais.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Abraço DF agradece apoio a parlamentares, pede inclusão em financiamentos de mídia e retorno de audiovisual no Ministério da Cultura. Destaca luta contra desinformação e importância de rádios comunitárias.",
       "speaker": {
         "name": "João Antônio Rocha",
-        "position": "Abraço DF"
+        "position": "Abraço DF",
+        "slug": "joao-antonio-rocha"
       }
     },
     {
@@ -221,7 +240,8 @@
       "summary": "Mestre de Cerimônias anuncia participantes de PT Minas Gerais e governador do Piauí, apresenta vídeo do Movimento Nacional de Rádios Comunitárias.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -232,7 +252,8 @@
       "summary": "Representante do Movimento Nacional de Rádios Comunitárias - MNRC propõe:",
       "speaker": {
         "name": "Alan Camargo",
-        "position": "Representante do Movimento Nacional de Rádios Comunitárias - MNRC"
+        "position": "Representante do Movimento Nacional de Rádios Comunitárias - MNRC",
+        "slug": "alan-camargo"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Mestre de Ceremônias anunciou assinatura de termo para criação de conselho temporário da frente parlamentar a favor de rádios comunitárias, deputado Jadiel Alencar fará valediação; próxima semana reunião com Casa Civil sobre minuta de decreto.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     },
     {
@@ -255,7 +277,8 @@
       "speaker": {
         "id": 220697,
         "name": "Jadyel Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jadyel-alencar"
       }
     },
     {
@@ -266,7 +289,8 @@
       "summary": "Mestre de Cerimônias pede para o deputado Jadiel e outros participantes posicionarem-se na frente para uma selfie. Serão distribuídos informes e depois haverá café da manhã e coletiva de imprensa. É solicitada a permanência do auditório para uma foto que será divulgada no portal da câmara.",
       "speaker": {
         "name": "Rayssa Tomaz",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rayssa-tomaz"
       }
     }
   ],

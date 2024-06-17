@@ -13,7 +13,8 @@
       "summary": "Cerimônia de instalação e lançamento de frente parlamentar defendendo zonas de processamento e exportação (ZPS), visando seu desenvolvimento e aprimoramento legal. Mesa com presidentes de associações e entidades relevantes. Hino nacional. Palestra sobre importância e benefícios das ZPS, suas lacunas legais e objetivos da frente parlamentar. Lançamento de vídeo explicativo.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "ZPEs: distritos industriais com incentivos, 7 mil zonas em 145 países. No Brasil, 14 ZPEs, 2 funcionando, 1 para inaugurar em setembro 2023. Promovem valor, empregos, sem impacto negativo em contas públicas. Apoio de 212 deputados federais. ZPE simboliza futuro e desenvolvimento.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": "Agradecer presença deputados Júlio Lopes, Jadiel Alencar, Evair de Melo, Alexandre Lini Maia, e Luciana Branco da prefeitura de Rio Grande. Mencionar e dar voz ao presidente da frente parlamentar das zonas de processamento e exportação, deputado federal Florentino Neto.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -47,7 +50,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -58,7 +62,8 @@
       "summary": "Mestre de Cerimônias anuncia vice-presidente da frente parlamentar, terceiro secretário da casa e coordenador da bancada do nordeste de Piauí, deputado Júlio César.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 74317,
         "name": "Júlio Cesar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar"
       }
     },
     {
@@ -81,7 +87,8 @@
       "summary": "Mestre de Cerimônias convida deputado Evair de Melo, coordenador da frente parlamentar das zonas de processamento de exportação, a falar.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -104,7 +112,8 @@
       "summary": "Mestre de Cerimônias anuncia delegado para coordenar frente parlamentar de zonas de exportação, agradece presentes e pede brevidade a oradores seguintes. Invita senhor Elson Braga a falar.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Presidente da Associação Brasileira de Zonas de Processamento de Exportação agradeceu presentes, mencionou participantes das discussões sobre importância desse mecanismo para Brasil, destacou apoio no Congresso e importância de comunidade zpeista, governo e Frente Parlamentar atuarem unidos para efetividade no Brasil.",
       "speaker": {
         "name": "HELSON BRAGA",
-        "position": "Presidente da Associação Brasileira de zonas de Processamento de Exportação"
+        "position": "Presidente da Associação Brasileira de zonas de Processamento de Exportação",
+        "slug": "helson-braga"
       }
     },
     {
@@ -126,7 +136,8 @@
       "summary": "Cientista Político cita Roberto Campos, destaca reforma tributária e papel de Júlio César e Mussadémes. Recomenda construir estrutura administrativa eficiente, enfatiza importância das ZPEs e da adoção de políticas fiscais, tributárias e alfandegárias inteligentes para reindustrializar Brasil.",
       "speaker": {
         "name": "PAULO KRAMER",
-        "position": "Cientista Político"
+        "position": "Cientista Político",
+        "slug": "paulo-kramer"
       }
     },
     {
@@ -137,7 +148,8 @@
       "summary": "Mestre de Cerimônias convidou deputados José Neto do PT da Bahia e Jadiel Alencar do Piauí a falarem. boa tarde.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 220697,
         "name": "Jadyel Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jadyel-alencar"
       }
     },
     {
@@ -160,7 +173,8 @@
       "summary": "Mestre de Cerimônias elogiou iniciativa de criação da frente parlamentar da IZPE, valorizando importância das EPS para desenvolvimento e geração de emprego e renda. Parabenizou Florentino e se colocou à disposição para os trabalhos, desejando desenvolvimento para Piauí e Brasil.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -183,7 +198,8 @@
       "summary": "Mestre de Cerimônias abrece evento em nome de Flaviana, Florentino Neto e Álvaro Noleto. Destaca desafio de aprovação na comissão de justiça de PEC que impede BNDES de emprestar a empresas brasileiras para projetos no exterior, negando tendência global. Pede união para esclarecer deputados na comissão sobre importância das ZPEs para exportação e geração de empregos no país.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -206,7 +223,8 @@
       "summary": "Mestre de Cerimônias agradece presença de deputado Francisco do Piauí e convida Florentino Neto a encerrar solenidade.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     },
     {
@@ -218,7 +236,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -229,7 +248,8 @@
       "summary": "Mestre de Cerimônias agradece a presença, informa sobre o coquetel sendo servido no salão nobre da Câmara Federal e deseja boa tarde a todos.",
       "speaker": {
         "name": "Napoleão de Castro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "napoleao-de-castro"
       }
     }
   ],

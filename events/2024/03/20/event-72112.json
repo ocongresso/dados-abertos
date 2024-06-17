@@ -13,7 +13,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 178985,
         "name": "Miguel Lombardi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "miguel-lombardi"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204422,
         "name": "Ossesio Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ossesio-silva"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220663,
         "name": "Eriberto Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eriberto-medeiros"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": " O deputado Zé Haroldo Catedral é um destaque do PSD, atuante e comprometido em defender causas nobres, como os direitos da pessoa idosa. É uma honra para a sua estado estar representado por ele nesta comissão e uma satisfação terlo como companheiro nesta jornada de luta, dignidade e melhoria para a população do Brasil.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Castro Neto -- por Participante -- Zé Haroldo Cathedral",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-castro-neto-por-participante-ze-haroldo-cathedral"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 138286,
         "name": "Luciano Alves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-alves"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220536,
         "name": "Zé Haroldo Cathedral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-haroldo-cathedral"
       }
     }
   ],

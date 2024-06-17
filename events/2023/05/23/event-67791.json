@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Trabalhadoras domésticas enfrentam dificuldades como falta de fiscalização, ausência de previdência social, precarização via aplicativos, e questões de aposentadoria. Coordenadora Geral - Fenatrad destacou a necessidade de reconhecimento de doenças ocupacionais e cumprimento da lei garantindo direitos e visibilidade.",
       "speaker": {
         "name": "Luiza Batista Pereira",
-        "position": "Coordenadora Geral - Federação Nacional das Trabalhadoras Domésticas (Fenatrad)"
+        "position": "Coordenadora Geral - Federação Nacional das Trabalhadoras Domésticas (Fenatrad)",
+        "slug": "luiza-batista-pereira"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Trabalho doméstico remunerado envolve 24 milhões de brasileiros, predominantemente mulheres negras, com alta informalidade e incompatibilidade com previdência. Desafios incluem envelhecimento da categoria, baixa cobertura de carteira assinada, desigualdade racial e regional, e incompatibilidade com arcabouço normativo. Política nacional de cuidados em discussão para melhorar contribuição à previdência e incluir mais adultos e idosos no setor.",
       "speaker": {
         "name": "Mariana Mazzini Marcondes",
-        "position": "Coordenadora-Geral de Gerstão da Informação do Departamento de Economia e Cuidado - Secretarias Nacional de Cuidados e Família do MDS"
+        "position": "Coordenadora-Geral de Gerstão da Informação do Departamento de Economia e Cuidado - Secretarias Nacional de Cuidados e Família do MDS",
+        "slug": "mariana-mazzini-marcondes"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Troca de lugares na mesa. Início da terceira rodada, seguem Androaldo e Villasto. Rosane agora, depois novamente Androaldo, início do dia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tarcísio Motta -- por Participante -- Talíria Petrone",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tarcisio-motta-por-participante-taliria-petrone"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Secretária Nacional de Autonomia Econômica anuncia lançamento do GTI de cuidados e debate sobre formalização de trabalho doméstico. Governo Federal busca mecanismos para reduzir informalidade e aumentar contribuições à previdência social das trabalhadoras domésticas. Discussão sobre valorização de salário mínimo e legislação para diaristas também é prioridade. Programa de qualificação e elevação de escolaridade das trabalhadoras domésticas será retomado.",
       "speaker": {
         "name": "Rosane Silva",
-        "position": "Secretária Nacional de Autonomia Econômica - Ministério das Mulheres"
+        "position": "Secretária Nacional de Autonomia Econômica - Ministério das Mulheres",
+        "slug": "rosane-silva"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Previdência social no Brasil: boa cobertura, mas falta atender categorias mal servidas como trabalhadoras domésticas; legislação melhor necessária para garantir direitos; contribuições precarizadas dificultam aposentadoria adequada; Estado deve ajudar a apoiar socialmente essas mulheres.",
       "speaker": {
         "name": "Adroaldo da Cunha Portal",
-        "position": "Secretário do Regime Geral da Previdencia Social - Ministério da Previdência Social"
+        "position": "Secretário do Regime Geral da Previdencia Social - Ministério da Previdência Social",
+        "slug": "adroaldo-da-cunha-portal"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Trabalho doméstico relevante para cidadania e seguridade social; maior número de mulheres negras empregadas, precárias e pobres; necessidade de alíquotas previdenciárias reduzidas e diferenciadas; inclusão efetiva na seguridade social e previdência; reconstrução do Estado social.",
       "speaker": {
         "name": "Evilásio da Silva Salvador",
-        "position": "Professor - Departamento de Serviço Social da Universidade de Brasília"
+        "position": "Professor - Departamento de Serviço Social da Universidade de Brasília",
+        "slug": "evilasio-da-silva-salvador"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Professor do Departamento de Serviço Social da Universidade de Brasília discutiu segurança social, desde o nascimento até a morte. Apresentou ideia de reconstrução do estado de direitos sociais, especialmente com inclusão previdenciária para trabalhadoras domésticas. Destacou importância de debate sobre financiamento de estado e quem se apropriará de recursos públicos, ligando à luta contra exclusão de cidadania. Desejou sucesso nesta luta.",
       "speaker": {
         "name": "Evilásio da Silva Salvador",
-        "position": "Professor - Departamento de Serviço Social da Universidade de Brasília"
+        "position": "Professor - Departamento de Serviço Social da Universidade de Brasília",
+        "slug": "evilasio-da-silva-salvador"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Secretário do Regime Geral da Previdencia Social - Ministério da Previdência Social disse: é necessário debater visão de estado para previdência social, que precisa de financiamento, discutir isenções fiscais que afetam projeções de gastos, revisar modelo de Estado e ampliação de direitos, especialmente para trabalhadoras domésticas. Governo e Congresso devem rever fontes de financiamento para programas sociais e previdência.",
       "speaker": {
         "name": "Adroaldo da Cunha Portal",
-        "position": "Secretário do Regime Geral da Previdencia Social - Ministério da Previdência Social"
+        "position": "Secretário do Regime Geral da Previdencia Social - Ministério da Previdência Social",
+        "slug": "adroaldo-da-cunha-portal"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Secretária Nacional de Autonomia Econômica highlights the importance of social protection policy for all people, with focus on women's situation, especially black women, who are overrepresented in informality and lack social protection. She commits to advancing debate on social protection and labor rights, emphasizing care and domestic work, regardless of formalization in the labor market.",
       "speaker": {
         "name": "Rosane Silva",
-        "position": "Secretária Nacional de Autonomia Econômica - Ministério das Mulheres"
+        "position": "Secretária Nacional de Autonomia Econômica - Ministério das Mulheres",
+        "slug": "rosane-silva"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Coordenadora-Geral de Gerstão da Informação del Departamento de Economia e Cuidado discute importância de políticas públicas sobre mudança climática, justiça ambiental e cuidados, considerando públicos prioritários e perspectivas de gênero, raça e classe. Políticas de cuidado fundamentais para o futuro do Brasil.",
       "speaker": {
         "name": "Mariana Mazzini Marcondes",
-        "position": "Coordenadora-Geral de Gerstão da Informação do Departamento de Economia e Cuidado - Secretarias Nacional de Cuidados e Família do MDS"
+        "position": "Coordenadora-Geral de Gerstão da Informação do Departamento de Economia e Cuidado - Secretarias Nacional de Cuidados e Família do MDS",
+        "slug": "mariana-mazzini-marcondes"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Fenatrad coordinator opposes MEI and self-employed domestic workers, highlights 80-year fight for workers' rights, ensuring Social Security protection and combating invisibility, particularly during the pandemic. Thanks deputada Talíria, requests specific retirement for this worker segment.",
       "speaker": {
         "name": "Luiza Batista Pereira",
-        "position": "Coordenadora Geral - Federação Nacional das Trabalhadoras Domésticas (Fenatrad)"
+        "position": "Coordenadora Geral - Federação Nacional das Trabalhadoras Domésticas (Fenatrad)",
+        "slug": "luiza-batista-pereira"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     }
   ],

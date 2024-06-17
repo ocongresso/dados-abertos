@@ -16,7 +16,8 @@
       "summary": "Bom dia, Mestre de Cerimônia se apresenta como servidora da Comissão do Esporte, dá detalhes sobre sua aparência e anuncia o tema e convidados do Fórum Legislativo do Esporte. O evento será coordenado pelo deputado Luiz Lima e transmitido ao vivo. Haverá dois tempos de debate sobre o futuro do esporte e política pública esportiva no país.",
       "speaker": {
         "name": "Fabiana Todorov",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "fabiana-todorov"
       }
     },
     {
@@ -28,7 +29,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Ex-atleta sem mãos, vice-presidente do Comitê Paralímpico Brasileiro, compromissado em expandir o esporte paralímpico em todo o Brasil, visando proporcionar a mesma oportunidade para crianças deficientes em todas as regiões. Atualmente, atendem 670 referências no país, enfatizando a importância de um esporte limpo e gestão esportiva eficiente em cada estado.",
       "speaker": {
         "name": "Yohansson Nascimento",
-        "position": "Vice-presidente - Comitê Paralímpico Brasileiro"
+        "position": "Vice-presidente - Comitê Paralímpico Brasileiro",
+        "slug": "yohansson-nascimento"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "Presidente do Conselho de Atletas do Comitê Paralímpico Brasileiro ficou feliz com presença do ministro no Parapan, vê poucos atletas em posições de representatividade, propõe desenvolver mais líderes e contribuição atlética para melhorar o esporte. Pediu ao ministro que expõe na sua gabinete uma medalha do Parapan como lembrete de atletas dependendo de atitudes e iniciativas de líderes.",
       "speaker": {
         "name": "Leomon Moreno",
-        "position": "Presidente - Conselho de Atletas Comitê Paralímpico Brasileiro"
+        "position": "Presidente - Conselho de Atletas Comitê Paralímpico Brasileiro",
+        "slug": "leomon-moreno"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Vice-presidente da CBDE fala sobre desafios no garantir a realização do JEBs anualmente e se preparar para o Geb sub 18, evento que classificará atletas para a olimpíada mundial no Bahrein. Ele também descreve a importância de unir entidades esportivas em diferentes níveis e focar na formação de cidadania, não apenas no alto rendimento de atletas.",
       "speaker": {
         "name": "Robson Aguiar",
-        "position": "Vice-presidente - Confederação Brasileira do Desporto Escolar"
+        "position": "Vice-presidente - Confederação Brasileira do Desporto Escolar",
+        "slug": "robson-aguiar"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Presidente - Comissão de Atletas do Comitê Olímpico do Brasil nasceu em Pernambuco, atleta por 20 anos, tem medalhas incluindo olímpica, formada em educação física, pós-graduada em gestão pública, professora, mãe, líder da comissão de atletas, secretária de esportes educacionais em Recife. Valoriza esporte como ferramenta de educação.",
       "speaker": {
         "name": "Yane Marques",
-        "position": "Presidente - Comissão de Atletas do Comitê Olímpico do Brasil"
+        "position": "Presidente - Comissão de Atletas do Comitê Olímpico do Brasil",
+        "slug": "yane-marques"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -131,7 +141,8 @@
       "summary": "Presidente - Comitê Brasileiro de Clubes valoriza crescimento do esporte no Brasil, destacando importância dos clubes e ministério. Elogia ministro por atuação e visão, comexpectativa de progresso para o esporte olímpico. Menciona união de setores e lutaa pela formação do esporte no país.",
       "speaker": {
         "name": "Paulo Maciel",
-        "position": "Presidente - Comitê Brasileiro de Clubes"
+        "position": "Presidente - Comitê Brasileiro de Clubes",
+        "slug": "paulo-maciel"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Vice-presidente do Comitê Olímpico do Brasil enfatizou importância de equipe entre entities governamentais e esportivas, melhoria na gestão de recursos, e mudanças na governança desde 2017, priorizando atletas e treinamento de qualidade. Expressou confiança em superar resultados em Paris 2024.",
       "speaker": {
         "name": "Marco Antônio La Porta",
-        "position": "Vice-presidente - Comitê Olímpico do Brasil"
+        "position": "Vice-presidente - Comitê Olímpico do Brasil",
+        "slug": "marco-antonio-la-porta"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "Política esportiva requer orçamento, mas municípios carecem de recursos, dificultando criar estruturas para saúde, qualidade de vida e inclusão through esporte. É preciso acessar recursos da saúde e educação, capacitando gestores e população. A lei nacional esporte causou frustração, pois retirou estrutura das leis municipais. Expectativa por mudanças e acesso a recursos para financiar esportes como saúde.",
       "speaker": {
         "name": "Humberto Panzetti",
-        "position": "Presidente - Associação de Secretários Municipais de Esporte e Lazer"
+        "position": "Presidente - Associação de Secretários Municipais de Esporte e Lazer",
+        "slug": "humberto-panzetti"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Ministro do Esporte conversou sobre maior fundo para esportes e comprometimento em debater e obter resultados.",
       "speaker": {
         "name": "André Fufuca",
-        "position": "Ministro - Ministério do Esporte"
+        "position": "Ministro - Ministério do Esporte",
+        "slug": "andre-fufuca"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Presidente do Comitê Brasileiro de Clubes Paralímpicos:",
       "speaker": {
         "name": "João Batista Carvalho e Silva",
-        "position": "Presidente - Comitê Brasileiro de Clubes Paralímpicos"
+        "position": "Presidente - Comitê Brasileiro de Clubes Paralímpicos",
+        "slug": "joao-batista-carvalho-e-silva"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "Ex-remadora olímpica, Diretora - Atletas pelo Brasil defende a priorização de atletas não de alto rendimento, necessidade de esporte nas escolas e regulamentação do sistema nacional, aumento de investimento em alto rendimento com mais acesso e massificação, visando uma cultura esportiva contínua em Brasil.",
       "speaker": {
         "name": "Fernanda Nunes Leal",
-        "position": "Diretora - Atletas pelo Brasil"
+        "position": "Diretora - Atletas pelo Brasil",
+        "slug": "fernanda-nunes-leal"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Presidente do Fórum de Gestores Estaduais de Esporte comentou:",
       "speaker": {
         "name": "Julio Cesar Ribeiro",
-        "position": "Presidente - Fórum de Gestores Estaduais de Esporte"
+        "position": "Presidente - Fórum de Gestores Estaduais de Esporte",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -268,7 +290,8 @@
       "summary": "Secretário Municipal de Esportes de São Paulo enfatizou diálogo entre municípios e Conselho Nacional de Esporte, melhoria de políticas esportivas, possibilidade de financiamento por Fundeb, e investimento no esporte em São Paulo.",
       "speaker": {
         "name": "Cacá Vianna",
-        "position": "Secretário Municipal de Esportes de São Paulo."
+        "position": "Secretário Municipal de Esportes de São Paulo.",
+        "slug": "caca-vianna"
       }
     },
     {
@@ -280,7 +303,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -338,7 +366,8 @@
       "summary": "Deputado always supported sports committee since 2010; believes sport can change lives; happy with ministry nomination due to known dedication; not possible to do sports policy without money; state invests more than ministry; committee can help increase federal support; will back ministry to increase financial capacity for sports.",
       "speaker": {
         "name": "Danrlei de Deus Hinterholz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danrlei-de-deus-hinterholz"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "Ministro do Esporte anuncia mudanças na equipe, inclusão de municípios e estados no Conselho Nacional do Esporte, derrubada de vetos para criação do Fundo Nacional do Esporte, debate sobre aposentadoria de atletas e bolsa técnico, e instituição do ingresso social no Brasil.",
       "speaker": {
         "name": "André Fufuca",
-        "position": "Ministro - Ministério do Esporte"
+        "position": "Ministro - Ministério do Esporte",
+        "slug": "andre-fufuca"
       }
     },
     {
@@ -396,7 +429,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

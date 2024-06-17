@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Pronto.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dilvanda Faro -- por Relator -- Juliana Cardoso",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dilvanda-faro-por-relator-juliana-cardoso"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -94,7 +101,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Juliana Cardoso -- por Relator -- Dilvanda Faro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-juliana-cardoso-por-relator-dilvanda-faro"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220671,
         "name": "Dilvanda Faro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dilvanda-faro"
       }
     }
   ],

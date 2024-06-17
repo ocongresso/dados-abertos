@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Cantora homenageia e agradece por occasion celebrar artista influenciando múltiplas gerações, finalizando participação com gratidão.",
       "speaker": {
         "name": "Mel di Souza",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "mel-di-souza"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -51,7 +54,8 @@
       "transcription": "Muito obrigada.",
       "speaker": {
         "name": "Mel di Souza",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "mel-di-souza"
       }
     }
   ],

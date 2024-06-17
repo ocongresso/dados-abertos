@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Diretora-geral da Associação SERTÃOBRAS visitou denominações de origem protegida na França, lá aprendeu sobre organização de sindicatos e associações relacionadas. No Mundial do Queijo, a associação apresentou 288 queijos brasileiros e conquistou 88 medalhas. Estratégia é valorizar produtores e queijos no Brasil, com estudos em andamento para regular profissões de comerciante e curador de queijo no país.",
       "speaker": {
         "name": "DÉBORA PEREIRA - DIRETORA-GERAL DA ASSOCIAÇÃO SERTÃOBRAS",
-        "position": "Diretora-geral - Associação SERTÃOBRAS"
+        "position": "Diretora-geral - Associação SERTÃOBRAS",
+        "slug": "debora-pereira-diretorageral-da-associacao-sertaobras"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Seminário discute políticas públicas para queijo artesanal de leite cru, inspirado em missão técnica na França. A comissão legislação participativa, com propostas de 1.200 organizações, visa valorizar produtos artesanais, com foco em quatro temas do mundial de informática. Evento aberto, com transmissão online no site da Câmara dos Deputados e no YouTube, conta com participação de EMATER Minas Gerais e Distrito Federal, e homenageia a família do extensionista rural Marinalva.",
       "speaker": {
         "name": "ANTÔNIO FERNANDES",
-        "position": "Representante - Universidade Federal de Viçosa e SERTÃOBRAS"
+        "position": "Representante - Universidade Federal de Viçosa e SERTÃOBRAS",
+        "slug": "antonio-fernandes"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Leite cru e microorganismos benéficos crucialis para qualidade, inovação e proteção de produtos lácteos, incluindo caseiros, contra contaminações, por meio do biocontrole natural. No Brasil, estudos selecionam microorganismos benéficos que controlam fungos filamentosos indesejáveis em queijos, aproveitando bactérias naturais com características tecnológicas interessantes, como o lactococcus específico do país.",
       "speaker": {
         "name": "ANTÔNIO FERNANDES",
-        "position": "Representante - Universidade Federal de Viçosa e SERTÃOBRAS"
+        "position": "Representante - Universidade Federal de Viçosa e SERTÃOBRAS",
+        "slug": "antonio-fernandes"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -95,7 +102,8 @@
       "transcription": "",
       "speaker": {
         "name": "ARNAUD SPERAT CZAR",
-        "position": "Representante - Fondation Pour la Biodiversité Fromagère"
+        "position": "Representante - Fondation Pour la Biodiversité Fromagère",
+        "slug": "arnaud-sperat-czar"
       }
     },
     {
@@ -106,7 +114,8 @@
       "summary": "Alimentação desequilibra sistema imunológico, causando doenças modernas; leite cru tem mais bactérias benéficas, mas risco de intoxicação; no Brasil, grande diversidade de leite cru pode oferecer vantagens à saúde e economia, mesmo com maior número de germes do que na França.",
       "speaker": {
         "name": "Tradução consecutiva",
-        "position": ""
+        "position": "",
+        "slug": "traducao-consecutiva"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Médico e gestor elogia missão, enfatiza qualidade de queijos de leite cru e desconhecimento sobre seus benefícios no Brasil. Compara importância de boa microbiota intestinal à de boas práticas agropecuárias para produção de leite cru, minimizando riscos e promovendo saúde.",
       "speaker": {
         "name": "MÁRCIO ROCHA",
-        "position": "Médico e gestor"
+        "position": "Médico e gestor",
+        "slug": "marcio-rocha"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -152,7 +164,8 @@
       "summary": "Pediatra explica importância da microbiota em bebês: microbiota começa a se formar no nascimento, influenciada por fatores como alimentação e ambiente. Uma microbiota diversificada é vital para a saúde, já que a falta de diversidade está linkada a doenças imunológicas e alergias. O estudo da microbiota está ajudando a entender essas conexões e a promover boas práticas para a saúde, como amamentação e consumo de alimentos não processados.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -162,7 +175,8 @@
       "transcription": "Gravação pra nós.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -185,7 +200,8 @@
       "summary": "Representante - Instituto Mineiro de Agropecuária - IMA elogiou iniciativa de seminário sobre cadeia produtiva forte no Brasil e Minas Gerais, felicitou Débora Pereira e Sertão Braz por tour informativo na França, e discutiu os esforços de IMA desde 2",
       "speaker": {
         "name": "GUILHERME COSTA NEGRO",
-        "position": "Representante - Instituto Mineiro de Agropecuária - IMA"
+        "position": "Representante - Instituto Mineiro de Agropecuária - IMA",
+        "slug": "guilherme-costa-negro"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -208,7 +225,8 @@
       "summary": "Secretaria de Estado de Agricultura, Pecuária e Abastecimento de Minas Gerais agradeceu oportunidade no evento, elogiou viagem à França para aprimorar produção de queijo artesanal, ressaltou crescimento de queijos artesanais em Minas Gerais, mencionou evolução na descentralização de inspeção municipal, valorizou políticas públicas e parcerias para sucesso do produtor, e destacou importância de produtos de valor agregado para pequeno produtor e agricultura familiar.",
       "speaker": {
         "name": "THALES ALMEIDA PEREIRA FERNANDES",
-        "position": "Secretaria de Estado de Agricultura, Pecuária e Abastecimento de Minas Gerais"
+        "position": "Secretaria de Estado de Agricultura, Pecuária e Abastecimento de Minas Gerais",
+        "slug": "thales-almeida-pereira-fernandes"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Representante da Federação de Agricultura de MG agradece presentes, elogia deputado José Silva por apoio à regularização do queijo Minas artesanal. Menciona viagem em 2017 que ajudou na evolução do queijo em Minas Gerais. Destaca importância de intercâmbio e Débora que promove a cultura do queijo no exterior. Reafirma compromisso da FAENG em apoiar produtores e suas reivindicações.",
       "speaker": {
         "name": "ALTINO RODRIGUES NETO",
-        "position": "Representante - Federação de Agricultura de MG"
+        "position": "Representante - Federação de Agricultura de MG",
+        "slug": "altino-rodrigues-neto"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -254,7 +275,8 @@
       "summary": "A quejista do Teta destaca que o ofício de justa é responsável, político e ativista, exigindo conhecimento da realidade rural e tecnologias. Ela aborda a dificuldade de trabalhar com leite cru e a necessidade de educar consumidores sobre sua segurança. A missão técnica inspira e equipa para valorizar a diversidade de queijos, uma riqueza que deve ser preservada e promovida.",
       "speaker": {
         "name": "MARINA CAVECHIA",
-        "position": "Quejista do Teta - Teta"
+        "position": "Quejista do Teta - Teta",
+        "slug": "marina-cavechia"
       }
     },
     {
@@ -266,7 +288,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -277,7 +300,8 @@
       "summary": "Produtora de Leite de Cabra falou sobre o prazer de participar do grupo, aprendendo com cada experiência e compartilhando seu conhecimento sobre a produção de queijo em São Paulo. Ela mencionou o apoio governamental para a produção de queijo paulista e expressou sua gratidão pelo convite para falar em nome do setor. Ela também mencionou sua participação no próximo mundial de queijo.",
       "speaker": {
         "name": "HELOISA COLLINS",
-        "position": "Produtora de Leite de Cabra"
+        "position": "Produtora de Leite de Cabra",
+        "slug": "heloisa-collins"
       }
     },
     {
@@ -289,7 +313,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -300,7 +325,8 @@
       "summary": "O participante é extensionista rural e representa os trabalhadores da EMATER DF. Ele apoia a lei proposta e destaca a importância do artigo doze para a regulamentação da competência das entidades de assistência técnica e extensão rural na implementação de boas práticas de produção. Ele salienta que a extensão rural tem uma contribuição significativa a fazer e que estão prontos para ajudar na implementação da lei, querendo aprender com a França e Minas Gerais.",
       "speaker": {
         "name": "ZÉ NILTON",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ze-nilton"
       }
     },
     {
@@ -312,7 +338,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -323,7 +350,8 @@
       "summary": "A participante se expressou feliz por estar no evento, pois acha importante apoiar produtores de queijo, destacando que além de produzirem queijo, eles geram emprego e ativam o turismo. Ela desejou que Brasília se destaque na produção de queijos de leite cru, o que enriqueceria seus produtos e permitiria a mais pessoas ingressarem no ramo. Ela também mencionou a dificuldade de investir em equipamentos para pasteurizar leite.",
       "speaker": {
         "name": "GIOVANA DE ALMEIDA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "giovana-de-almeida"
       }
     },
     {
@@ -335,7 +363,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -346,7 +375,8 @@
       "summary": "Participante elogia sessão sobre queijo artesanal, aprova projeto de lei, louva coragem do deputado federal, parabeniza organizadores e participantes da missão na França, produtores de queijo e reconhece a importância do \"terroir\". Destaca benefícios de produtos artesanais e oferece parceria da França no desenvolvimento do setor no Brasil.",
       "speaker": {
         "name": "PIERRE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "pierre"
       }
     },
     {
@@ -358,7 +388,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Danilo Forte -- por Participante -- Florentino Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-danilo-forte-por-participante-florentino-neto"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 0,
         "name": "ISAC MORENO FALCÃO SANTOS",
-        "position": "Presidente - Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil"
+        "position": "Presidente - Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil",
+        "slug": "isac-moreno-falcao-santos"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 0,
         "name": "VALÉRIA LIMA",
-        "position": "Diretora Executiva de Downstream - Instituto Brasileiro de Petróleo e Gás - IBP"
+        "position": "Diretora Executiva de Downstream - Instituto Brasileiro de Petróleo e Gás - IBP",
+        "slug": "valeria-lima"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 0,
         "name": "VICENTE BRAGA",
-        "position": "Associação Nacional dos Procuradores dos Estados e do Distrito Federal"
+        "position": "Associação Nacional dos Procuradores dos Estados e do Distrito Federal",
+        "slug": "vicente-braga"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 0,
         "name": "CARLOS ALEXANDRE TORTATO",
-        "position": "Advogado e Consultor Tributário - Federação das Indústrias do Estado do Paraná - FIEP"
+        "position": "Advogado e Consultor Tributário - Federação das Indústrias do Estado do Paraná - FIEP",
+        "slug": "carlos-alexandre-tortato"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 0,
         "name": "ERMÍNIO LIMA  NETO",
-        "position": "Consultor Empresarial e Institucional em Terceirização de Serviços"
+        "position": "Consultor Empresarial e Institucional em Terceirização de Serviços",
+        "slug": "erminio-lima-neto"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 0,
         "name": "ISAC MORENO FALCÃO SANTOS",
-        "position": "Presidente - Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil"
+        "position": "Presidente - Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil",
+        "slug": "isac-moreno-falcao-santos"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 0,
         "name": "VALÉRIA LIMA",
-        "position": "Diretora Executiva de Downstream - Instituto Brasileiro de Petróleo e Gás - IBP"
+        "position": "Diretora Executiva de Downstream - Instituto Brasileiro de Petróleo e Gás - IBP",
+        "slug": "valeria-lima"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -217,7 +234,8 @@
       "speaker": {
         "id": 0,
         "name": "VICENTE BRAGA",
-        "position": "Associação Nacional dos Procuradores dos Estados e do Distrito Federal"
+        "position": "Associação Nacional dos Procuradores dos Estados e do Distrito Federal",
+        "slug": "vicente-braga"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -241,7 +260,8 @@
       "speaker": {
         "id": 0,
         "name": "CARLOS ALEXANDRE TORTATO",
-        "position": "Advogado e Consultor Tributário - Federação das Indústrias do Estado do Paraná - FIEP"
+        "position": "Advogado e Consultor Tributário - Federação das Indústrias do Estado do Paraná - FIEP",
+        "slug": "carlos-alexandre-tortato"
       }
     },
     {
@@ -253,7 +273,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     }
   ],

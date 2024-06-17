@@ -18,7 +18,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente da Apromap destacou importância de inteligência artificial em eleições de 2024, capaz de prever resultados e analisar dados/hábitos de consumo. Uso potencialmente benéfico ou maléfico, essencial para o futuro do Brasil discussões atuais.",
       "speaker": {
         "name": "Emerson Saraiva",
-        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)"
+        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)",
+        "slug": "emerson-saraiva"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Advogado, OAB-PR vê IA como benéfica, mas com riscos para processo eleitoral; propõe estudar impactos, regulamentação leve, ajustes legislação atual contra deepfake e manipulação, e análise/combate ao uso abusivo de IA na propaganda eleitoral; planeja-se regular IA considerando impactos, livre vontade dos eleitores e integridade dos candidatos.",
       "speaker": {
         "name": "Fernando Bueno de Castro",
-        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR"
+        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR",
+        "slug": "fernando-bueno-de-castro"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Marqueteiro e Especialista em IA observam desconforto no mercado com inteligência artificial; propuseram Instituto Brasileiro para regulação, debate e observação. Preocupação com manipulação emocional humana por IA, além de deepfakes. Impacto da IA em democracia, exemplificado por casos nos EUA e Reino Unido. Metadados e algoritmos das redes sociais também são IA. Inteligência artificial é urgente e complexa, requer atenção parlamentar e legislação mínima.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "MCCA combate desinformação que afeta vontade do eleitor, preocupação com uso de inteligência artificial em eleições, busca normas e legislação para abordar questão, destaca papel da sociedade no combate à desinformação.",
       "speaker": {
         "name": "Melillo Dinis do Nascimento",
-        "position": "Diretor de combate à corrupção eleitoral - TSE"
+        "position": "Diretor de combate à corrupção eleitoral - TSE",
+        "slug": "melillo-dinis-do-nascimento"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Participante aborda importância de se informar antes de votar, preocupação com estratégias que destroem reputações e impacto negativo das ferramentas digitais na juventude.",
       "speaker": {
         "name": "Stênio Ferreira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "stenio-ferreira"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Participante questiona sobre auditoria e fiscalização do uso da IA em campanhas políticas, afirmando dificuldade em compreender como isso é possível, e se apresenta como estudante apaixonada pelo assunto.",
       "speaker": {
         "name": "Letícia Campos",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "leticia-campos"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "\"Neurobots\" inteligentes aprendem e se difundem, incluindo marketing e política, difíceis de detectar, disseminando fake news, particularmente entre idosos. Momentos disruptivos causados por extremismo político nas redes sociais. Profissionais precisam de tecnologia para detectar \"neurobots\". Uso de plataforma de IA \"escope\" para mitigar risco de impugnação ou prisão por esse uso.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "Participante discutiu gestão de mandato e desafios no sistema político brasileiro, como insegurança jurídica e complexa logística. Mencionou o pleito de outubro de 2024 com aprox. 300 mil concorrentes e rápido avanço tecnológico. Propôs discussão no legislativo federal para legislação mínima e inovações capazes de controlar chaos em ambientes deep politics, apenas mencionando a \"ponta do iceberg\".",
       "speaker": {
         "name": "Randerson Cerqueira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "randerson-cerqueira"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap) afirma que não há especialistas capazes de legislar sobre controle de inteligência artificial, pois ela ainda se desenvolve e se conecta a outros sistemas. Ele advoga por educar as pessoas sobre a identificação de informações falsas e manipulatórias, uma vez que a tecnologia continua avançando rapidamente.",
       "speaker": {
         "name": "Emerson Saraiva",
-        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)"
+        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)",
+        "slug": "emerson-saraiva"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR sugeriu que para a próxima eleição, anúncios com IA devem ter aviso, redução do prazo de eleição possível, julgamento final após pleito.",
       "speaker": {
         "name": "Fernando Bueno de Castro",
-        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR"
+        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR",
+        "slug": "fernando-bueno-de-castro"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -243,7 +263,8 @@
       "summary": "Marqueteiro e Especialista em IA sugerem: identificação de urnas seguras, obrigatoriedade de registro de campanhas usando IA para auditabilidade, notificação a pessoas sobre interação com IA, importância de remover bots em campanhas, redução de equipe de criação e aumento de equipe de tecnologia e advogados em campanhas com uso de IA.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -254,7 +275,8 @@
       "summary": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap) discute implicações de reger inteligência artificial em marketing político: proposta atual é limitada, impactando publicidade paga e coleta de dados antes da campanha. Desafio é maior para operadores do direito do que marketing. Auditoria por amostragem ou critérios propositais são necessários.",
       "speaker": {
         "name": "Emerson Saraiva",
-        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)"
+        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)",
+        "slug": "emerson-saraiva"
       }
     },
     {
@@ -266,7 +288,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -277,7 +300,8 @@
       "summary": "Diretor de combate à corrupção eleitoral - TSE afirma relatório com 2% de casos é majoritariamente falso; sistema seletivo, sem \"trolagem\" total; debate sobre como OAB, Conselho Federal de Contabilidade ajudam; necessário confiar na maturidade do eleitor; crítica a candidatos sem ética e marketing excessivo; eleitores elegem \"sabonetes com formato eletrônico\" em vez de candidatos éticos.",
       "speaker": {
         "name": "Melillo Dinis do Nascimento",
-        "position": "Diretor de combate à corrupção eleitoral - TSE"
+        "position": "Diretor de combate à corrupção eleitoral - TSE",
+        "slug": "melillo-dinis-do-nascimento"
       }
     },
     {
@@ -288,7 +312,8 @@
       "summary": "Marqueteiro e Especialista em IA: Não sou advogado, defendo clientes, não decido quién es criminoso; justicia o decide. Ética en automatización de crimen, problema legal.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -298,7 +323,8 @@
       "transcription": "Então, da questão ética vou",
       "speaker": {
         "name": "Melillo Dinis do Nascimento",
-        "position": "Diretor de combate à corrupção eleitoral - TSE"
+        "position": "Diretor de combate à corrupção eleitoral - TSE",
+        "slug": "melillo-dinis-do-nascimento"
       }
     },
     {
@@ -309,7 +335,8 @@
       "summary": "Marqueteiro e Especialista em IA afirma: Tecnologia e IA cruciales para analisar comportamento individual/complexo; IA processa grande quantidade de informações, vantajosa em marketing; debates ético e político sobre seu uso são necessários. Cita exemplo da eleição na Argentina sobre o poder da IA sem investimento em tráfego pago.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -321,7 +348,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -332,7 +360,8 @@
       "summary": "A participante considera importante discutir a regulamentação da inteligência artificial no contexto eleitoral, garantindo princípios constitucionais como privacidade dos dados, respeito à LGPD e à democracia, evitando desinformação e mau uso da ferramenta, apesar do rápido avanço tecnológico. Inteligência artificial pode permitir segmentação de dados e campanhas eleitorais direcionadas.",
       "speaker": {
         "name": "Mateus Barros",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "mateus-barros"
       }
     },
     {
@@ -343,7 +372,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -354,7 +384,8 @@
       "summary": "Participante perguntou sobre ferramentas de inteligência artificial discutidas e sua regulamentação, impacto político, eleitoral, social e de mercado; comparou com jornais e disseminação de fake news através de panfletos.",
       "speaker": {
         "name": "Erik Cardoso",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "erik-cardoso"
       }
     },
     {
@@ -365,7 +396,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -376,7 +408,8 @@
       "summary": "Inteligência artificial em marketing: distinção entre agências que afirmam usá-la e ferramentas especializadas como SM Escopo, ajudando a medir emoções e sentimentos e fornecendo dados precisos para tomada de decisões. A tecnologia é poderosa, mas seu uso deve considerar os possíveis impactos negativos e proteger a democracia de influências maliciosas.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -399,7 +433,8 @@
       "summary": "Presidente da Apromap alerta sobre compra de votos, manipulação de pesquisas e perigos da inteligência artificial no marketing político. Destaca importância de estratégias honestas e baseadas em dados, transparência digital e interesse diminuto em redes sociais com conteúdos sobre vitórias honestas.",
       "speaker": {
         "name": "Emerson Saraiva",
-        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)"
+        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)",
+        "slug": "emerson-saraiva"
       }
     },
     {
@@ -411,7 +446,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -422,7 +458,8 @@
       "summary": "Inteligência artificial evolui rapidamente, podendo \"ver\" através de paredes via sinal Wi-Fi e nos outros dispositivos. Estamos na infância da IA, avançando para a superinteligência artificial, que alguns consideram imparável. A Grã-Bretanha lidera debate global sobre segurança da IA. Para controlar possíveis abusos, propõe-se usar outra IA para fiscalizar e prevenir. O ser humano não poderá competir com IA em monitoramento em tempo real.",
       "speaker": {
         "name": "Augusto Damião",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "augusto-damiao"
       }
     },
     {
@@ -434,7 +471,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -445,7 +483,8 @@
       "summary": "Presidente - Associação dos Profissionais de Marketing Politico (Apromap) discutiu problemas com aplicativos desconhecidos, a necessidade de compreender termos e privacidade, e o impacto das inteligências artificiais na comunicação política. Afirmou que o mundo é mais sobre quem faz as melhores perguntas do que quem tem as melhores respostas, e a importância de despertar curiosidade e falar sobre esses temas.",
       "speaker": {
         "name": "Emerson Saraiva",
-        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)"
+        "position": "Presidente - Associação dos Profissionais do Marketing Politico (Apromap)",
+        "slug": "emerson-saraiva"
       }
     },
     {
@@ -456,7 +495,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -467,7 +507,8 @@
       "summary": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR considera ChatGPT ótimo \"estagiário\" com menos erros e adaptável a diferentes públicos; defende uso correto de IA, sem afectar soberania popular; propõe regulação mínima para testar soluções; debate social necessário para evolução tecnológica no ambiente eleitoral com apoio da sociedade civil.",
       "speaker": {
         "name": "Fernando Bueno de Castro",
-        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR"
+        "position": "Advogado, Membro Relator da Comissão de Direito Eleitoral - OAB-PR",
+        "slug": "fernando-bueno-de-castro"
       }
     },
     {
@@ -478,7 +519,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -489,7 +531,8 @@
       "summary": "Marqueteiro e Especialista em IA se refere a passo em parlamento sobre debate de IA, expressa preocupação com autocracia e posição do presidente do TSE, pede à comissão encaminhar tentativa de audiência com presidente da casa para celeridade na discussão do tema, comenta sobre falta de criatividade em legislações passadas e sugere solução simples para regulamentação de fake news.",
       "speaker": {
         "name": "Marcelo Senise",
-        "position": "Marqueteiro e Especialista em IA"
+        "position": "Marqueteiro e Especialista em IA",
+        "slug": "marcelo-senise"
       }
     },
     {
@@ -501,7 +544,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -512,7 +556,8 @@
       "summary": "Ideia central do sistema eleitoral: um voto por pessoa, preservar soberania dos cidadãos. Crédibilidade questionável em redes sociais, informação é clave. Regulação insuficiente, tribunais brasileiros carecem de condições para contribuir efetivamente. Ética fundamental na crença que os materiais promovem.",
       "speaker": {
         "name": "Melillo Dinis do Nascimento",
-        "position": "Diretor de combate à corrupção eleitoral - TSE"
+        "position": "Diretor de combate à corrupção eleitoral - TSE",
+        "slug": "melillo-dinis-do-nascimento"
       }
     },
     {
@@ -524,7 +569,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     }
   ],

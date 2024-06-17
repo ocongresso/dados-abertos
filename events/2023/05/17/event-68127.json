@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74428,
         "name": "Mendonça Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mendonca-filho"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Votação encerrada após quórum atingido, seguidos de cinco minutos adicionais para votar.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Declararam eleito deputado Agostinho como presidente e Júnior Mano como primeiro vice-presidente. Passaram presidência para Agostinho e brincaram sobre jantar de posse.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Mendonça Filho -- por Participante -- Gustinho Ribeiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-mendonca-filho-por-participante-gustinho-ribeiro"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204361,
         "name": "Carlos Chiodini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-chiodini"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 178937,
         "name": "Altineu Côrtes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "altineu-cortes"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 141458,
         "name": "João Carlos Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-carlos-bacelar"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -218,7 +235,8 @@
       "speaker": {
         "id": 204361,
         "name": "Carlos Chiodini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-chiodini"
       }
     },
     {
@@ -230,7 +248,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -242,7 +261,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -254,7 +274,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -266,7 +287,8 @@
       "speaker": {
         "id": 220712,
         "name": "Fausto Santos Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fausto-santos-jr"
       }
     },
     {
@@ -278,7 +300,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     }
   ],

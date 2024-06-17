@@ -17,7 +17,8 @@
       "summary": "Abriram-se reunião e votaram sobre requerimentos no grupo movimentos sem terra, com cinco convites aprovados e registro de voto contra alguns.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Deputado perdeu pai por câncer, culpa imprensa; irmão também tem câncer; imprensa divulgou notícia falsa; agradece preocupação; não houve mudança de cargo; pauta não desejada para proteger familia.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Ex-integrante do MST se sentiu manipulada, expulsa por recusar doar dinheiro, viveu acampamento hostil a policia, agora ajudando vulneráveis e ensinando habilidades a crianças. Dinheiro arrecadado utilizado por dirigentes, pouca participação em decisões. Expulsões por resistir ou desobedecer regras, às vezes destruindo barracos.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Ex-integrante do MST chegou a acampamento após invasão prévia; expressou dúvida sobre método de ação.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "O deputado pretende obter dados e respostas em tempo limitado, fazendo perguntas ao convidado e, se necessário, as repita para clarificação.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Deputado: Respeito a ordem, presidente responderá; relator tem 10 minutos para perguntas e respostas; tempo do relator será reduzido se interromper.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Ex-integrante do MST presenciou reunião com ex-deputada Erica Cocai, questionou tempo de perguntas e favoreceu congelamento de tempo para resposta da convidada.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Ex-MST informa: sem apoio à produção no acampamento, pessoas já familiarizadas com agricultura; promessa de mini chácaras de 3 hectares, mas excesso de pessoas; hoje vivem melhor como associação, cada um planta o que deseja; havia doutrinação ideológica, punição por falta em reuniões; no acampamento, presentes materiais do PT e OS. Algumas barracas eram simbólicas, sem pessoas permanentemente.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -224,7 +242,8 @@
       "summary": "Deputado concedido dezessete minutos para fala, com opção de perguntas e respostas.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -281,7 +304,8 @@
       "transcription": "Não. Qual foi o primeiro contato que a senhora teve com a MST e o que motivou vocês a entrarem nesse",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -303,7 +328,8 @@
       "summary": "Ex-integrante do MST ingressou no movimento sem pagamento, responsável por finanças no acampamento com água encanada, eletricidade, banheiros, moradias mistas, crianças frequentando escola, alimentação não detalhada.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -314,7 +340,8 @@
       "summary": "Neocilene, ex-integrante do MST, descreve condições precárias no acampamento: falta de higiene, comércio interno com preços altos e trabalho gratuito para o movimento. Ela e seu marido se sentiram escravizados e ameaçados, levando à sua saída do local. Extorsões e cobranças também ocorreram, segundo sua conta.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tenente Coronel Zucco -- por Participante -- Kim Kataguiri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tenente-coronel-zucco-por-participante-kim-kataguiri"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -349,7 +378,8 @@
       "summary": "Reunião com convidados não convocados, debate sobre formação da reunião e quem é o(a) convidado(a).",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Kim Kataguiri -- por Participante -- Tenente Coronel Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-kim-kataguiri-por-participante-tenente-coronel-zucco"
       }
     },
     {
@@ -360,7 +390,8 @@
       "summary": "Deputado repeata pergunta sobre item eleven.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -396,7 +429,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -408,7 +442,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -419,7 +454,8 @@
       "summary": "Deputado: Repórter trabalhou na revista Veja.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -442,7 +479,8 @@
       "summary": "Ex-MST member's experience: Life improved after leaving movement, currently have more freedom and children go to school. Don't recommend joining movement due to past experiences; still no property title.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -453,7 +491,8 @@
       "summary": "Deputado se presenta e confirma duração de seu discurso por 8 minutos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -465,7 +504,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -477,7 +517,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -488,7 +529,8 @@
       "summary": "Deputado falou em nome dos colegas Girão e Evair Vieira de Melo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -500,7 +542,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -512,7 +555,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -522,7 +566,8 @@
       "transcription": "Não foi tirar. Pode prosseguir deputada Taliria. Muito obrigada presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -534,7 +579,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -546,7 +592,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -558,7 +605,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -569,7 +617,8 @@
       "summary": "Deputado esclarece questão de ordem, será registrada nas notas taquigráficas, mas não na ata. Menciona artigo e deputado Nilton, brevemente chama deputada Carolina Detone.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -581,7 +630,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -592,7 +642,8 @@
       "summary": "Deputado propõe debate sobre crimes mencionados por colega, referenciando sua audiência no STF.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -604,7 +655,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -615,7 +667,8 @@
       "summary": "Direito e trabalharam recebam atenção, não devem ficar na fila.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -627,7 +680,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -637,7 +691,8 @@
       "transcription": "Oi, general. Senhor presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -649,7 +704,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -660,7 +716,8 @@
       "summary": "Deputado obrigado, deve falar e seguir direito.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -672,7 +729,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -683,7 +741,8 @@
       "summary": "Deputado pede respeito a fala dever ser respeitada, refere-se a regulamento interno e ética.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -694,7 +753,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -705,7 +765,8 @@
       "summary": "Deputado decidiu dar palavra ao general.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -717,7 +778,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -727,7 +789,8 @@
       "transcription": "Artigo sete sete",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -739,7 +802,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -749,7 +813,8 @@
       "transcription": "Pode falar Alexandre inscrito Pode falar, pode terminar essa questão de ordem. Presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -761,7 +826,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -772,7 +838,8 @@
       "summary": "Deputado fala sobre ausência de outro deputado, refere ao general Girão via tela; pede identificação do mencionado \"condenado\" que doaria, nomeando Bruno Pires Xavier, condenado por algo não especificado.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -783,7 +850,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -793,7 +861,8 @@
       "transcription": "Isso aí. Obrigado, vamos prosseguir com a palavra coronel Crisóstomo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -805,7 +874,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -816,7 +886,8 @@
       "summary": "Ex-integrante do MST indicou uso de crianças em acampamento e confrontos violentos. Ela sentia medo e sofreu intimidação para desocupar, enquanto o movimento expulsava violentamente outras pessoas. Apolícia era banida e os conflitos eram resolvidos internamente. Não houve explicação sobre a exibição de fotos de \"criminosos\".",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -826,7 +897,8 @@
       "transcription": "Senhor presidente. Obrigado.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -838,7 +910,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -848,7 +921,8 @@
       "transcription": "Senhor presidente, vou",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -860,7 +934,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -871,7 +946,8 @@
       "summary": "Ex-MST relata sistema de reuniões e líderes que decidiam ordens; existia vigilância em entrada e saída do assentamento, anotando horário, placa e destino; polícia não entrava quando o MST estava presente; havia mercadinho dentro do assentamento, mas produtos eram mais caros; para comprar no mercadinho usava-se dinheiro ganho de plantações próprias ou trabalho fora; associação MST foi substituída por associação legalizada com CNPJ.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -883,7 +959,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -895,7 +972,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -906,7 +984,8 @@
       "summary": "Deputado comparte experiência pessoal, opõe tio, doutora e \"dona Nilcilele\", e questiona se permitirá que Denise fale.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -916,7 +995,8 @@
       "transcription": "Eu Vivi. Eu quero que o senhor decida a minha questão. Eu eu Vivi. Obrigada.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -927,7 +1007,8 @@
       "summary": "Deputado permite testemunho de convidados, pode contestar decisão. Audiência pública, convidados podem dar suas declarações.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -938,7 +1019,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -950,7 +1032,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -961,7 +1044,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -972,7 +1056,8 @@
       "summary": "Deputado falou sobre indeferir inscrição, referiu a deputados Nilton Tato e Lucas Redeque.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -984,7 +1069,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -995,7 +1081,8 @@
       "summary": "Ex-integrante do MST falou sobre acampamento por motivos de interesse mútuo e polícia entrando apenas quando expulsá-los; mobilizações feitas, porém organisação e métodos de treinamento desconhecidos por ela.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1007,7 +1094,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -1018,7 +1106,8 @@
       "summary": "Ex-integrante do MST afirma que melhoria da qualidade de vida sempre foi preocupação do movimento e cita produção de arroz do Rio Grande do Sul, repudiando declarações contrárias.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1030,7 +1119,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -1040,7 +1130,8 @@
       "transcription": "Gente, o que eu disse e que tentaram deturpar inclusive",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1052,7 +1143,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -1062,7 +1154,8 @@
       "transcription": "Com a palavra deputado Nilton Tato. Presidente, eu depois",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1074,7 +1167,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -1085,7 +1179,8 @@
       "summary": "Ex-integrante do MST afirma que o acampamento é agora uma associação, sem liderança, onde todos são livres.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1097,7 +1192,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -1108,7 +1204,8 @@
       "summary": "Ex-integrante do MST menciona que plantam mais terra hoje, comumente distribuída para famílias, sem cobrança, permitindo a liberdade de plantio e algumas já tiveram suas próprias vendas, exemplificando com Ivan.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1120,7 +1217,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -1131,7 +1229,8 @@
       "summary": "Ex-integrante do MST recusa responder sobre tentativa de matar esposo, insistindo que não é relevante.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1143,7 +1242,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -1153,7 +1253,8 @@
       "transcription": "Senhor presidente, senhores deputado",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1165,7 +1266,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -1176,7 +1278,8 @@
       "summary": "Ex-integrante do MST afirma ter cobranças para abrir associação e pagamentos ao advogado; Ivan processado por João Alves da Silva.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1187,7 +1290,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -1198,7 +1302,8 @@
       "summary": "Ex-integrante do MST justificou ação do movimento, acusando opositores de querer vender bebida alcoólica no acampamento e ignorar regras internas; admitiu cobrança de taxa para gastos com água e luz.",
       "speaker": {
         "name": "NELCILENE REIS",
-        "position": "ex-integrante do MST"
+        "position": "ex-integrante do MST",
+        "slug": "nelcilene-reis"
       }
     },
     {
@@ -1210,7 +1315,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -1222,7 +1328,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -1233,7 +1340,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -1243,7 +1351,8 @@
       "transcription": "Deputado. Minuto. Obrigado senhor presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1255,7 +1364,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -1266,7 +1376,8 @@
       "summary": "Deputado permite saída de convidados temendo falta de respeito; reassume condução de inscrições e relevância de respeito a relator. Deputado Valmir Assunção fala posteriormente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1278,7 +1389,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -1289,7 +1401,8 @@
       "summary": "Deputado propõe ordem de fala para discussão: Deputada Gleisi Hoffmann e outros 13 deputados falaram, alguns ainda não. Audiência em andamento.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1301,7 +1414,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -1312,7 +1426,8 @@
       "summary": "Campanha agrária incompleta; pessoas vivendo sem dignidade em favelas; comissão com vices regimentais, crime contra MST em foco.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tenente Coronel Zucco -- por Participante -- Magda Mofatto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tenente-coronel-zucco-por-participante-magda-mofatto"
       }
     },
     {
@@ -1324,7 +1439,8 @@
       "speaker": {
         "id": 166402,
         "name": "Magda Mofatto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "magda-mofatto"
       }
     },
     {
@@ -1335,7 +1451,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -1346,7 +1463,8 @@
       "summary": "Deputado denuncia humilhação de mulher negra em comissão e questiona apoio a governos de ditadores comunistas. Critica MST e pede CPI para apurar financiamento. Ele queria saber detalhes da vida da ex-membro do MST sob domínio do movimento. Suporte ao presidente Bolsonaro por reforma agrária através de títulos de terra e financiamento. Críticas à esquerda e à lentidão de inquéritos no Supremo Tribunal Federal.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Magda Mofatto -- por Participante -- Tenente Coronel Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-magda-mofatto-por-participante-tenente-coronel-zucco"
       }
     },
     {
@@ -1357,7 +1475,8 @@
       "summary": "Deputado concorda com colega e agradece por palavra.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1369,7 +1488,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -1379,7 +1499,8 @@
       "transcription": "Na hora que meu meu neném acordou. Bem, canalhice.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1391,7 +1512,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -1403,7 +1525,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -1415,7 +1538,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -1425,7 +1549,8 @@
       "transcription": "Deputada Daiane Santos. Boa tarde colegas, deputado presidente, eu.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1437,7 +1562,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -1448,7 +1574,8 @@
       "summary": "Deputado enfatizou importância de atenção a colegas mencionados e expressou sua permanência no assunto.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1460,7 +1587,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -1472,7 +1600,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -1483,7 +1612,8 @@
       "summary": "Próximo orador: deputado Lucas Redecker.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1495,7 +1625,8 @@
       "speaker": {
         "id": 204404,
         "name": "Lucas Redecker",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-redecker"
       }
     },
     {
@@ -1505,7 +1636,8 @@
       "transcription": "Messias né? Deputado Messias Donato com a palavra.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tenente Coronel Zucco -- por Participante -- Delegado Éder Mauro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tenente-coronel-zucco-por-participante-delegado-eder-mauro"
       }
     },
     {
@@ -1516,7 +1648,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -1528,7 +1661,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -1539,7 +1673,8 @@
       "summary": "Propriedade invadida, família ameaçada; invasores causam destruição e exigem \"mesadinha\"; capataz cumprindo pena por extorsão; respeito a produtores rurais; oposição chamada de esquerda hipócrita.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegado Éder Mauro -- por Participante -- Capitão Alden",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegado-eder-mauro-por-participante-capitao-alden"
       }
     },
     {
@@ -1550,7 +1685,8 @@
       "summary": "Presidente e tenente coronel Zucco foram informados sobre a situação de Lucilene dos Reis, uma mulher negra e pobre que foi intimidada e forçada a deixar a audiência por membros da elite de esquerda branca e bem-sucedida, apesar de eles supostamente defendê-la nas redes sociais. O falante expressou indignação e surpresa com a situação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Capitão Alden -- por Participante -- Tenente Coronel Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-capitao-alden-por-participante-tenente-coronel-zucco"
       }
     },
     {
@@ -1560,7 +1696,8 @@
       "transcription": "Com a palavra deputado Joaquim Passarinho. Presidente, primeiro parabenizar vossa excelência pela",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -1572,7 +1709,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -1583,7 +1721,8 @@
       "summary": "Deputado convoca reunião extraordinária para 30/03/2022, às 14h, com governador de Goiás, para audiência pública e deliberação de requerimentos. Reunião encerrada.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 178992,
         "name": "Vitor Lippi",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vitor-lippi"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Na votação, deputados aprovam requerimentos com aditamento, mantendo suas posições.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Reginaldo Lopes -- por Participante -- Jonas Donizette",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-reginaldo-lopes-por-participante-jonas-donizette"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Início de audiência pública sobre setor de transportes e serviços na reforma tributária.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jonas Donizette -- por Participante -- Reginaldo Lopes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jonas-donizette-por-participante-reginaldo-lopes"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Diretor do Centro de Cidadania Fiscal - CCIFl. propõe reforma tributária com simplificação e unificação de impostos, alíquota única, e garantia de devolução de créditos, baseada em neutralidade e administração tributária específica.",
       "speaker": {
         "name": "Nelson Machado",
-        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl."
+        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl.",
+        "slug": "nelson-machado"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Presidente da Confederação Nacional de Serviços defende setor como principal contribuidor econômico, propõe desoneração de folha de pagamento, substituição tributária e imposto sobre transações financeiras, impactando positivamente PIB, emprego e redução da inflação.",
       "speaker": {
         "name": "Luigi Nese",
-        "position": "Presidente da Confederação Nacional de Serviços - CNS."
+        "position": "Presidente da Confederação Nacional de Serviços - CNS.",
+        "slug": "luigi-nese"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Assessor Econômico da CNS propõe reforma tributária com IVA único, substituindo cinco impostos, arrecadando R$ 900 bilhões em 2021. Alíquota única de 25% poderia aumentar arrecadação em 2,7% do PIB, transferindo renda do privado ao público. É necessário antever e simular efeitos, considerando neutralidade e impacto em diferentes setores. Setor financeiro deixaria de arrecadar R$ 35,3 bilhões por meio da COFINS.",
       "speaker": {
         "name": "Fernando Garcia de Freitas",
-        "position": "Assessor Econômico da Confederação Nacional de Serviços -CNS."
+        "position": "Assessor Econômico da Confederação Nacional de Serviços -CNS.",
+        "slug": "fernando-garcia-de-freitas"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Consultora Tributária da CNT apoia reforma tributária simplificada, pró-negócios e competitividade, mas cautela contra regressividade no consumo de baixa renda, sugerindo considerar consumidor final, itens essenciais levemente tributados, amplos créditos sem restrições, alíquotas diferenciadas para transporte, cuidado com tributação de combustível, estímulo ao ferroviário, tratamento igual entre transportador e exportador, e transição cuidadosa no novo regime tributário.",
       "speaker": {
         "name": "Alessandra Brandão",
-        "position": "Consultora Tributária da Confederação Nacional do Transporte - CNT."
+        "position": "Consultora Tributária da Confederação Nacional do Transporte - CNT.",
+        "slug": "alessandra-brandao"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Diretor da NTU enfatiza abordagem constitucional para transporte urbano coletivo por ônbus, atendendo 2.700 municípios. Setor tem altos custos com pessoal e combustíveis, historicamente impactado por tributos, reduzidos desde 2013, mas agora afetado por reforma tributária. 59 sistemas recebem subsídio público, e 74 cidades têm tarifa zero. É preciso ver transporte como serviço público com crescente impacto em orçamentos públicos.",
       "speaker": {
         "name": "Marcos Bicalho",
-        "position": "Diretor Institucional da Associação Nacional das Empresas de Transportes Urbanos - NTU."
+        "position": "Diretor Institucional da Associação Nacional das Empresas de Transportes Urbanos - NTU.",
+        "slug": "marcos-bicalho"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Professora/Professor de Direito Tributário sugestiona supressão do inciso quarto do artigo 132 da PEC 45, permitindo uso de tributo como instrumento de política setorial, evitando impedimento a extrafiscalidade e renúncia à competência de utilizar tributo como política pública, garantindo aprovação da reforma tributária, manutenção de políticas extrafiscais bem-sucedidas e investimentos no Brasil.",
       "speaker": {
         "name": "Tácio Lacerda Gama",
-        "position": "Presidente do Instituto de Aplicação do Tributo - IAT e Professor de Direito Tributário da Faculdade de Direito da PUC/SP."
+        "position": "Presidente do Instituto de Aplicação do Tributo - IAT e Professor de Direito Tributário da Faculdade de Direito da PUC/SP.",
+        "slug": "tacio-lacerda-gama"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Setor aéreo contribuiu com R$55,5 bilhões ao PIB em 2022, gerando 725 mil empregos e recolhendo R$20 bilhões em tributos. Principal custo é combustível dolarizado, com aumento de preços desde 2019. Pandemia causou prejuízo de R$46 bilhões. ABEAR propõe alíquota diferenciada e manutenção de benefícios sobre importação de bens e serviços em possível reforma tributária, mas tem preocupação com possível aumento de carga tributária.",
       "speaker": {
         "name": "Letícia Pimentel",
-        "position": "Gerente Tributária da LATAM, representando a Associação Brasileira das Empresas Aéreas - ABEAR."
+        "position": "Gerente Tributária da LATAM, representando a Associação Brasileira das Empresas Aéreas - ABEAR.",
+        "slug": "leticia-pimentel"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Aviation essential for Brazil's social and economic development; high taxation, especially on fuel, threatens regional aviation, potentially reducing serviced cities. Current reform may negatively impact sector. Airlines advocate for fair taxation to keep investing and fostering growth. Airlines lost over R$ 40 billion in past three years, with no airline historically making significant profits. Increased taxation could obstruct aviation development.",
       "speaker": {
         "name": "Fábio Barros Franco de Campos",
-        "position": "Vice-Presidente de Relações Institucionais e Governamentais da Azul Linhas Aéreas."
+        "position": "Vice-Presidente de Relações Institucionais e Governamentais da Azul Linhas Aéreas.",
+        "slug": "fabio-barros-franco-de-campos"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -373,7 +404,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -385,7 +417,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -432,7 +468,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -454,7 +492,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -466,7 +505,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -477,7 +517,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -489,7 +530,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -501,7 +543,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -513,7 +556,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -524,7 +568,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -535,7 +580,8 @@
       "summary": "Participante concorda com o governo e apoia reforma tributária, crítica atual sistema tributário como pior do mundo, cita problemas como guerra fiscal, incentivos fiscais, inadimplência e burocracia, propõe sistema digital, crédito financeiro e cobrança eletrônica, espera redução de preços e prosperidade para o Brasil.",
       "speaker": {
         "name": "Luiz Carlos Hauly",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "luiz-carlos-hauly"
       }
     },
     {
@@ -547,7 +593,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -558,7 +605,8 @@
       "summary": "Vice-Presidente de Relações Institucionais e Governamentais da Azul Linhas Aéreas agradece convite, elogia participantes e destaca importância do desenvolvimento da aviação para o país.",
       "speaker": {
         "name": "Fábio Barros Franco de Campos",
-        "position": "Vice-Presidente de Relações Institucionais e Governamentais da Azul Linhas Aéreas."
+        "position": "Vice-Presidente de Relações Institucionais e Governamentais da Azul Linhas Aéreas.",
+        "slug": "fabio-barros-franco-de-campos"
       }
     },
     {
@@ -569,7 +617,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -580,7 +629,8 @@
       "summary": "Agradece oportunidade por preocupações do setor aéreo e elogia trabalho do time presente, representando a Associação Brasileira das Empresas Aéreas - ABEAR. - Gerente Tributária da LATAM.",
       "speaker": {
         "name": "Letícia Pimentel",
-        "position": "Gerente Tributária da LATAM, representando a Associação Brasileira das Empresas Aéreas - ABEAR."
+        "position": "Gerente Tributária da LATAM, representando a Associação Brasileira das Empresas Aéreas - ABEAR.",
+        "slug": "leticia-pimentel"
       }
     },
     {
@@ -591,7 +641,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -602,7 +653,8 @@
       "summary": "Professor do IAT e PUC/SP apreciou diversidade de opiniões na comissão, feliz com sensibilidade do relator e contribuições de todos. Está satisfeito e disponível para contribuir em outras oportunidades.",
       "speaker": {
         "name": "Tácio Lacerda Gama",
-        "position": "Presidente do Instituto de Aplicação do Tributo - IAT e Professor de Direito Tributário da Faculdade de Direito da PUC/SP."
+        "position": "Presidente do Instituto de Aplicação do Tributo - IAT e Professor de Direito Tributário da Faculdade de Direito da PUC/SP.",
+        "slug": "tacio-lacerda-gama"
       }
     },
     {
@@ -613,7 +665,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -624,7 +677,8 @@
       "summary": "Diretor Institucional da NTU satisfeito com preocupação do grupo em serving poor, consciente de ser custo pass-through.",
       "speaker": {
         "name": "Marcos Bicalho",
-        "position": "Diretor Institucional da Associação Nacional das Empresas de Transportes Urbanos - NTU."
+        "position": "Diretor Institucional da Associação Nacional das Empresas de Transportes Urbanos - NTU.",
+        "slug": "marcos-bicalho"
       }
     },
     {
@@ -635,7 +689,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -646,7 +701,8 @@
       "summary": "Consultora Tributária da CNT elogiou reforma tributária, destacando sua importância no combate à desigualdade e reconhecendo repercussão na vida das pessoas. Expressou orgulho por ser brasileira e gratidão aos envolvidos nos trabalhos.",
       "speaker": {
         "name": "Alessandra Brandão",
-        "position": "Consultora Tributária da Confederação Nacional do Transporte - CNT."
+        "position": "Consultora Tributária da Confederação Nacional do Transporte - CNT.",
+        "slug": "alessandra-brandao"
       }
     },
     {
@@ -657,7 +713,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -668,7 +725,8 @@
       "summary": "Presidente da Confederação Nacional de Serviços defende na discussão sobre reforma tributária: defesa do setor econômico como um todo, desoneração da folha para todos os setores, imposto abrangente com contribuição alimentada por financeira, justiça tributária, alíquota de 16,5% suficiente para arrecadação proposta, controvérsia sobre destino de recursos adicionais com alíquota de 25%, apoio à reforma voltada para o futuro.",
       "speaker": {
         "name": "Luigi Nese",
-        "position": "Presidente da Confederação Nacional de Serviços - CNS."
+        "position": "Presidente da Confederação Nacional de Serviços - CNS.",
+        "slug": "luigi-nese"
       }
     },
     {
@@ -680,7 +738,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -691,7 +750,8 @@
       "summary": "CCFli director emphasized three points: first, 20% tax rate, previously mentioned; second and third points not detailed. Gratitude to president and relator expressed.",
       "speaker": {
         "name": "Nelson Machado",
-        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl."
+        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl.",
+        "slug": "nelson-machado"
       }
     },
     {
@@ -703,7 +763,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -714,7 +775,8 @@
       "summary": "Diretor do Centro de Cidadania Fiscal - CCIFl.:",
       "speaker": {
         "name": "Nelson Machado",
-        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl."
+        "position": "Diretor do Centro de Cidadania Fiscal - CCIFl.",
+        "slug": "nelson-machado"
       }
     },
     {
@@ -726,7 +788,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     }
   ],

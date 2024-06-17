@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ministro da Justiça retorna à Câmara dos Deputados, apresenta sua equipe e aborda temas como diálogo aberto, leis orgânicas de polícia, violência em escolas, monitoramento de ameaças e proteção do patrimônio público. Anuncia medidas de reforço do patrulhamento escolar e debates com plataformas para moderar conteúdos de ódio. Reafirma compromisso com lei de responsabilidade de autoridades públicas.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -146,7 +157,8 @@
       "summary": "Ministro da Justiça e Segurança Pública está disposto a debater respeitosamente e responder perguntas, não ofensas; irá respeitar regimento e ética parlamentar; há diferença entre perguntas e acusações, como ocorreu na CCJ; está como convidado, não réu, para responder perguntas na comissão de segurança pública.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -217,7 +234,8 @@
       "summary": "Deputado fala sobre violência em escolas e apoia escolas cívico-militares, criticando atraso de resposta do governo sobre queda de armamento, afetando empregos e pessoas, pedindo efetiva resposta e novo decreto, também menciona preocupação com invasões de terra e desrespeito à lei.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -228,7 +246,8 @@
       "summary": "Ministro da Justiça e Segurança Pública anunciou prorrogação de prazo de recadastramento de armas ao dia 3 de maio, com 880 mil armas recadastradas até o momento. Dito que grupo de trabalho terminará atividades após o recadastramento, com novo decreto previsto para a primeira quinzena de maio, retomando atividades suspensas.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -263,7 +284,8 @@
       "summary": "Ministro da Justiça e Segurança Pública afirma injustiça da comparação do presidente Lula com determinados personagens; garante respeito à lei e às polícias; e informa sobre o novo decreto para o mercado de armas, previsto para maio.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -286,7 +309,8 @@
       "summary": "Ministro da Justiça e Segurança Pública prorrogou medida solicitada por Deputado Júnior Amaral.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -333,7 +360,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -344,7 +372,8 @@
       "summary": "Ministro da Justiça e Segurança Pública: conhece bem facções criminosas, responde tweets com conteúdo específico, amplia ação contra organizações criminosas, fortalece Polícia Federal e relação com estados, facilita repasse de verbas a estados, fortalece polícias locais, redução de homicídios começou em 2018, portar arma não é liberdade absoluta no Brasil.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -366,7 +396,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -377,7 +408,8 @@
       "summary": "Ministro da Justiça e Segurança Pública anuncia que não haverá réplica ou tréplica em relação a gravação envolvendo o deputado Carlos Junior, e pede que ele próprio a leia.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -400,7 +433,8 @@
       "speaker": {
         "id": 204394,
         "name": "Gervásio Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gervasio-maia"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 204394,
         "name": "Gervásio Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gervasio-maia"
       }
     },
     {
@@ -459,7 +497,8 @@
       "summary": "Ministro da Justiça e Segurança Pública se solidariza com Paraíba, reafirmando compromisso de apoiar todos os estados, independentemente de sua filiação política. Promete continuar combate sério ao crime, fortalecendo parcerias com entidades de segurança e governos estaduais, priorizando a segurança pública e a implantação da \"casa da mulher\" para combater o feminicídio em aumento no Brasil. Agradecimento à parceria do governo da Paraíba.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -507,7 +549,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -519,7 +562,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -531,7 +575,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -542,7 +587,8 @@
       "summary": "Ministro da Justiça e Segurança Pública afirma respeitar julgamento de Bolsonaro pelos tribunais e Deus, considera eleitores responsáveis por julgar governo e reprovou falta de respeito na pergunta sobre ele.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -553,7 +599,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -564,7 +611,8 @@
       "summary": "Ministro da Justiça e Segurança Pública se defende de agressões durante audição em comissão, relacionada à eleição de outubro onde seu presidente perdeu.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -576,7 +624,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -587,7 +636,8 @@
       "summary": "Ministro da Justiça e Segurança Pública afirmou que políticas do governo serão julgadas em 2026; respondeu sobre política armamentista e pediu respeito pelo tempo de fala.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -599,7 +649,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -610,7 +661,8 @@
       "summary": "Ministro da Justiça e Segurança Pública afirma que maior disponibilidade de armas resulta em aumento de crimes, não sua diminuição. Exemplifica com feminicídio, crimes de trânsito e chacinas. Defende monopólio do uso legítimo de força e correlaciona ódio, violência e armamentismo com crescimento de chacinas em escolas. Questiona intenções de aqueles que dizem combater o crime, mas são associados a ele.",
       "speaker": {
         "name": "Flávio Dino de Castro e Costa",
-        "position": "Ministro da Justiça e Segurança Pública"
+        "position": "Ministro da Justiça e Segurança Pública",
+        "slug": "flavio-dino-de-castro-e-costa"
       }
     },
     {
@@ -621,7 +673,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -632,7 +685,8 @@
       "summary": "Deputado interrompido, pede respeito e uso de tempo; critica presidente por não advertir deputados incorridos em indisciplina e má-comportamento.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -644,7 +698,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

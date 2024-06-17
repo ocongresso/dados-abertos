@@ -18,18 +18,20 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 181179,
       "start_time": 1679936552,
       "duration": 13,
-      "transcription": "Pronunciamentos. Então nós vamos começar hoje começando lá pela Bahia e na Bahia nós vamos ouvir o deputado Charles Fernandes. Tem vossa excelência a palavra o deputado Charles Fernandes.",
-      "summary": "Deputado Charles Fernandes falará sobre Bahia.",
+      "transcription": "\nPronunciamentos. Então nós vamos começar hoje começando lá pela Bahia e na Bahia nós vamos ouvir o deputado Charles Fernandes. Tem vossa excelência a palavra o deputado Charles Fernandes.",
+      "summary": " Bahia discutida por Deputado Charles Fernandes.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 205476,
         "name": "Charles Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "charles-fernandes"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -196,7 +211,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -208,7 +224,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -220,7 +237,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -232,7 +250,8 @@
       "speaker": {
         "id": 98148,
         "name": "Cobalchini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cobalchini"
       }
     },
     {
@@ -244,7 +263,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -256,7 +276,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -268,7 +289,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -280,7 +302,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -292,7 +315,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -304,7 +328,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -316,7 +341,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -328,7 +354,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -339,7 +366,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -351,7 +379,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -363,7 +392,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -375,7 +405,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -387,7 +418,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -399,7 +431,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -411,18 +444,20 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 8557,
       "start_time": 1679939492,
       "duration": 226,
-      "transcription": "Meu nobre presidente, querido amado, e a todos os meus pais que se encontram aqui, nesta nobre casa. Primeiramente para Deus, Toda honra, toda glória e todo louvor de gratidão. Chegarmos aqui nesta nova semana, quantos ficaram no caminho? Também quero aqui louvar a Deus pela vida do meu filho Gabriel Monteiro. Juntamente com os meus quase cem mil eleitores que conduziram a mim e a minha filha Gisele Monteiro, deputado estadual pelo estado do Rio de Janeiro. Agora, o que me traz aqui nobre presidente, primeiramente, eu quero usar textos, que está aqui, ó, contido nesta palavra, é Bíblia Sagrada, então é livro, livro universal. Então diz aqui o seguinte, A ninguém tomeis mal por mal. Procurai as coisas honestas perante todos os homens. Se for possível, Quanto estiverdes em vós, tende paz com todos os homens. Não os vingueis a vós mesmo amados, mas dai lugar à ira, porque está escrito, minha é a vingança, eu recompensarei. Diz o senhor. Está lá em Romanos capítulo doze versos dezessete a dezenove. E o que me estimula trazer esse versículo Dentro de qual análise? Qual assunto? Senhor presidente. Essa é a sabedoria que tem faltado no chefe do governo federal. Na semana passada, após a prisão de nove pessoas que pretendiam matar O senador Moro e sua esposa, a digníssima deputada federal, Rosângela Moro e seus familiares. O presidente veio a público e disse acreditar que teria sido uma armação. Ora excelência, O que eu esperava é que o presidente viesse a público dizer que nós não seremos algo de terrorismo, Mas pelo contrário, o que foi dito, é que acreditava ser uma armação. E eu pergunto, armação por parte de quem? Da competente polícia federal comandada pelo ministro Flávio Dino. E não é só isso. Mudando de assunto, o presidente Tem atacado o Banco Central e as taxas de juro. Chegando a afirmar que é uma vergonha a taxa de juros praticada. Aparentando que pretendia atuar de forma política junto ao Banco Central, apesar da clara necessidade de se conectar o Ciclo político do ciclo monetário, pois tem planos diferente. Finalizando, o manejo de mercado, com base na vontade política, já se mostrou erro que é pago, principalmente pela parcela mais pobre da população. Bom exemplo de que essa prática não é a melhor para o país, foi a última tentativa do Governo Federal Em diminuir a força, os juros dos empréstimos, consignada a aposentados, que passou de dois vírgula quatro para vírgula sete por cento através da canetada. Então senhor presidente, amados pares, o que fica registrado é o seguinte, O mandatário do governo federal ele está passando momento crítico porque Julgar e separar o que é pessoal, o que é governo. Deus abençoe, Deus existe, Shalom, a paz. Amém. Agora do Rio do",
-      "summary": "Deputado destaca importância de buscar paz e evitar vingança; critica presidente por sua postura sobre prisão de suspeitos de planejar atentado contra senador e questiona ataques às ações do Banco Central.",
+      "transcription": "\nMeu nobre presidente, querido amado, e a todos os meus pais que se encontram aqui, nesta nobre casa. Primeiramente para Deus, Toda honra, toda glória e todo louvor de gratidão. Chegarmos aqui nesta nova semana, quantos ficaram no caminho. Também quero aqui louvar a Deus pela vida do meu filho Gabriel Monteiro. Juntamente com os meus quase cem mil eleitores que conduziram a mim e a minha filha Gisele Monteiro, deputado estadual pelo estado do Rio de Janeiro.\n\nAgora, o que me traz aqui, nobre presidente, primeiramente, eu quero usar textos, que está aqui, ó, contido nesta palavra, é Bíblia Sagrada, então é livro universal. Então diz aqui o seguinte, A ninguém tomeis mal por mal. Procurai as coisas honestas perante todos os homens. Se for possível, quanto estiverdes em vós, tende paz com todos os homens. Não os vingueis a vós mesmo amados, mas dai lugar à ira, porque está escrito, minha é a vingança, eu recompensarei, diz o senhor.\n\nEstá lá em Romanos, capítulo doze, versos dezessete a dezenove. E o que me estimula trazer esse versículo dentro de qual análise, qual assunto? Senhor presidente, essa é a sabedoria que tem faltado no chefe do governo federal. Na semana passada, após a prisão de nove pessoas que pretendiam matar o senador Moro e sua esposa, a digníssima deputada federal, Rosângela Moro e seus familiares. O presidente veio a público e disse acreditar que teria sido uma armação.\n\nOra, excelência, o que eu esperava é que o presidente viesse a público dizer que nós não seremos algo de terrorismo, mas pelo contrário, o que foi dito é que acreditava ser uma armação. E eu pergunto, armação por parte de quem? Da competente Polícia Federal comandada pelo ministro Flávio Dino? E não é só isso. Mudando de assunto, o presidente tem atacado o Banco Central e as taxas de juro.\n\nChegando a afirmar que é uma vergonha a taxa de juros praticada. Aparentando que pretendia atuar de forma política junto ao Banco Central, apesar da clara necessidade de se conectar o ciclo político do ciclo monetário, pois tem planos diferentes. Finalizando, o manejo de mercado, com base na vontade política já se mostrou erro que é pago, principalmente pela parcela mais pobre da população. Bom exemplo de que essa prática não é a melhor para o país, foi a última tentativa do Governo Federal em diminuir a força, os juros dos empréstimos consignada a aposentados, que passou de dois vírgula quatro para vírgula sete por cento através da canetada. Então senhor presidente, amados pares, o que fica registrado é o seguinte, o mandatário do Governo Federal, ele está passando momento crítico porque a julgar e separar o que é pessoal, o que é governo.\n\nDeus abençoe, Deus existe, Shalom, a paz. Amém. Agora do Rio do",
+      "summary": " Deputado destaca importância de paz e critica ataques ao Banco Central. Questiona prisão de suspeitos e postura do presidente sobre vingança.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -434,7 +469,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -446,7 +482,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -458,7 +495,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -470,7 +508,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -482,7 +521,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -494,7 +534,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -506,7 +547,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -518,7 +560,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -530,7 +573,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -542,7 +586,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -553,7 +598,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -565,7 +611,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -577,7 +624,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -589,7 +637,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -601,7 +650,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -613,7 +663,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -624,7 +675,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -636,7 +688,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -648,7 +701,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -660,7 +714,8 @@
       "speaker": {
         "id": 220712,
         "name": "Fausto Santos Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fausto-santos-jr"
       }
     },
     {
@@ -672,7 +727,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -684,7 +740,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -696,7 +753,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -708,7 +766,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -720,7 +779,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -732,7 +792,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -744,7 +805,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -756,7 +818,8 @@
       "speaker": {
         "id": 204559,
         "name": "Zé Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-neto"
       }
     },
     {
@@ -768,7 +831,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -780,7 +844,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -791,7 +856,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -803,7 +869,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -815,7 +882,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -827,7 +895,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -839,7 +908,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -851,7 +921,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -863,7 +934,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -875,7 +947,8 @@
       "speaker": {
         "id": 191923,
         "name": "Flávio Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "flavio-nogueira"
       }
     },
     {
@@ -887,7 +960,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -899,7 +973,8 @@
       "speaker": {
         "id": 220665,
         "name": "Clarissa Tércio",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "clarissa-tercio"
       }
     },
     {
@@ -911,7 +986,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -923,7 +999,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -935,7 +1012,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -947,7 +1025,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -958,7 +1037,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -970,7 +1050,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -982,7 +1063,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -994,7 +1076,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -1005,7 +1088,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1017,7 +1101,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -1028,7 +1113,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1040,7 +1126,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -1052,7 +1139,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1064,7 +1152,8 @@
       "speaker": {
         "id": 220584,
         "name": "Murilo Galdino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murilo-galdino"
       }
     },
     {
@@ -1076,7 +1165,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1088,7 +1178,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -1100,7 +1191,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1112,7 +1204,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -1124,7 +1217,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1136,7 +1230,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -1148,7 +1243,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1160,7 +1256,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -1172,7 +1269,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1184,18 +1282,20 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
       "id": 181269,
       "start_time": 1679945692,
       "duration": 167,
-      "transcription": "Está recebendo, está sendo entendido no mundo. É é termo que já se falou muito num passado muito distante. O Brasil está se tornando anão diplomático. Porque essa diplomacia praticada pelo governo do presidente Lula é impressionante. Começaram já com uma visita nos Estados Unidos fazendo aquele descompromisso é clássico Devidamente diplomaticamente falando afetando a diplomacia quebrando os preceitos diplomáticos. Quando a primeira dama nossa do Brasil se aproximou de jeito carinhoso e não muito adequada ao presidente americano. E agora cancelamento da viagem à China. Meus amigos, esse cancelamento da viagem à China não sabia que já se pode conseguir assim atestado de saúde. Como se conseguiu esse atestado de saúde. Porque o atestado significa que ele está doente e não pôde viajar. Muito tático esse atestado. Interessantíssimo isso daí. Então esse esse papel de anão diplomático do Brasil já se viu pra gente poder começar a identificar essa situação. E agora nós conseguimos fazer como diz lá no nordeste deputado André Fernandes. Quando você não gosta de alguém você manda ela pra onde? Vá pra China menino, vá pra China. Pronto. Acabamos de ele acabou de mandar alguém pra China. Só que pra uma função altamente categórica né, vai ganhar duzentos mil por mês aí. Vai pra China assim não vale a pena não. Gostaria também de falar e enaltecer A cidade de Vera Cruz nós tivemos lá numa festa maravilhosa, nesse ultimo sábado. Apesar da insegurança no estado, deputado Cabo Bebeto. Apesar da insegurança no estado. Mas foi feito uma missa, e uma pequena comemoração dentro do ginásio. Era previsto uma segurança muito maior, uma festa muito maior. Infelizmente o estado de insegurança no Rio Grande do Norte nos fez impedir essa festa maravilhosa que poderia ser organizada Numa cidade do interior. É lamentável isso daí. E por ultimo, gostaria de falar dizendo que. As águas do São Francisco deputado André Elas pararam de chegar. Sorte nossa que São Pedro está mandando águas para que os rios nosso possam encher de água os açudes também Possam transbordar. Mas temos sim que investigar porque que essas águas paralisaram. Porque já está sendo informado Que a Paraíba vai ter que pagar pro governo federal quarenta e oito milhões por ano se quiser receber as águas do São Francisco. Então antes de Bolsonaro não tinha isso. O pessoal fez o L agora tem que reclamar com o papa. Vamos lá. Eu também quero",
-      "summary": "Brasil torna-se anão diplomático; cancelamento de viagem à China sem explicação clara; homenagem à cidade de Vera Cruz; insegurança no Rio Grande do Norte impede festa; preocupação com parada das águas do São Francisco.",
+      "transcription": "\nEstá recebendo, está sendo entendido no mundo. É é termo que já se falou muito num passado muito distante. O Brasil está se tornando anão diplomático. Porque essa diplomacia praticada pelo governo do presidente Lula é impressionante. Começaram já com uma visita nos Estados Unidos fazendo aquele descompromisso clássico devidamente diplomaticamente falando afetando a diplomacia quebrando os preceitos diplomáticos Quando a primeira dama nossa do Brasil se aproximou de jeito carinhoso e não muito adequada ao presidente americano.\n\nE agora cancelamento da viagem à China. Meus amigos, esse cancelamento da viagem à China não sabia que já se pode conseguir assim atestado de saúde, como se conseguiu esse atestado de saúde né, porque o atestado significa que ele está doente e não pôde viajar. Muito tático esse atestado. Interessantíssimo isso daí. Então esse esse papel de anão diplomático do Brasil, já se viu pra gente poder começar a identificar essa situação.\n\nE agora nós conseguimos fazer como diz lá no nordeste, deputado André Fernandes. Quando você não gosta de alguém, você manda ela pra onde? Vá pra China menino, vá pra China. Pronto. Acabamos de, ele acabou de mandar alguém pra China.\n\nSó que pra uma função altamente categórica, né? Vai ganhar duzentos mil por mês aí. Vai pra China assim não vale a pena não. Gostaria também de falar e enaltecer a cidade de Vera Cruz. Nós estivemos lá numa festa maravilhosa, nesse último sábado, apesar da insegurança no estado, deputado Cabo Bebeto, apesar da insegurança no estado, mas foi feito uma missa e uma pequena comemoração dentro do ginásio.\n\nEra previsto uma segurança muito maior, uma festa muito maior. Mas infelizmente o estado de insegurança no Rio Grande do Norte nos fez impedir essa festa maravilhosa que poderia ser organizada numa cidade do interior. É lamentável isso daí. E por último, gostaria de falar dizendo que, as águas do São Francisco, deputado André Fernandes elas pararam de chegar. Sorte nossa que São Pedro está mandando águas para que os rios nosso possam encher de água os açudes também possam transbordar.\n\nMas temos sim que investigar porque que essas águas paralisaram. Porque já está sendo informado que a Paraíba vai ter que pagar para o governo federal quarenta e oito milhões por ano se quiser receber as águas do São Francisco. Então antes de Bolsonaro não tinha isso. O pessoal fez o L agora tem que reclamar com o Papa. Vamos lá, eu também quero.",
+      "summary": " Brasil reduz presença diplomática; cancelamento de viagem à China inexplicado; homenagem a Vera Cruz; insegurança impede festividade no Rio Grande do Norte; preocupação com interrupção de águas do São Francisco.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Arthur Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-arthur-lira"
       }
     },
     {
@@ -1207,7 +1307,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1219,7 +1320,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -1230,7 +1332,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1242,7 +1345,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1254,7 +1358,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1266,7 +1371,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -1278,18 +1384,20 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
       "id": 181282,
       "start_time": 1679946427,
       "duration": 159,
-      "transcription": "Sob a proteção de Deus. Em nome do povo brasileiro, iniciamos os nossos trabalhos nos termos de parágrafo único do artigo quinto do ato da mesa. Medida provisória, queria antes de começar a leitura do preâmbulo mais uma vez reforçar aos senhores líderes que nós chamamos a sessão presencial de hoje a quintafeira com efeito administrativo. As lideranças por favor se comuniquem com seus deputados e deputadas, que se por acaso tivermos votações nominais, por falta de presença o efeito administrativo foi avisado amplamente semana passada. Medida provisória número onze quarenta e nove de dois mil e vinte e dois comunico às senhoras deputadas e senhores deputados, que chegou Câmara dos Deputados ofício número meia sete de vinte e dois do Congresso Nacional, quem caminha nos termos do parágrafo oitavo do artigo sessenta e dois, da constituição federal combinado com o ato conjunto das mesas da câmara do senado federal número de vinte. O processado da medida provisória número onze quarenta e nove. De dois mil e vinte e dois que dispõe sobre a gestão e operacionalização das indenizações previstas no artigo terceiro da lei número seis mil cento e noventa e quatro de dezenove de dezembro de setenta e quatro, com vistas a assegurar a sua continuidade e altera a lei número quatorze 0 setenta e cinco, de vinte e dois de outubro de vinte. Foram oferecidas a medida provisória onze emendas. Medida provisória em turno único da medida provisória número onze quarenta e nove de vinte e dois, que dispõe sobre a gestão operacionalização dos pedidos e as identizações previstas no artigo terceiro da lei seis mil cento e noventa e quatro dezenove de dezembro de setenta e quatro, com vistas a assegurar a sua continuidade lei número quatorze 0 setenta e cinco de vinte e dois de outubro de vinte, pendente de parecer da comissão mista. Para oferecer parecer a medida provisória e as emendas de a onze apresentadas conforme o artigo terceiro do ato conjunto das mesas da câmara dos deputados e do senado federal número de dois mil e vinte. Concedo a palavra a deputada Flávia Moraes.",
-      "summary": "Iniciamos trabalhos sob proteção de Deus, seguindo MP 1149/22; lideranças comunicarem a presença de deputados; MP tem 11 emendas, pendente de parecer da comissão mista. Flávia Moraes concedida a palavra.",
+      "transcription": "\nSob a proteção de Deus. Em nome do povo brasileiro. Iniciamos os nossos trabalhos nos termos de parágrafo único do artigo quinto do ato da mesa. Medida provisória, queria antes de começar a leitura do preâmbulo mais uma vez reforçar aos senhores líderes que nós chamamos a sessão presencial de hoje à quintafeira, com efeito administrativo. Então as lideranças por favor se comuniquem com seus deputados e deputadas, que se por acaso tivermos votações nominais, ou falta de presença, o efeito administrativo foi avisado amplamente semana passada.\n\nMedida provisória número onze quarenta e nove de dois mil e vinte e dois, comunico às senhoras deputadas e senhores deputados, que chegou câmara dos deputados ofício número meia sete de vinte e dois do congresso nacional, que encaminha nos termos de parágrafo oitavo do artigo sessenta e dois da constituição federal combinado com o ato conjunto das mesas da câmara do senado federal número de vinte. O processado da medida provisória número onze quarenta e nove. De dois mil e vinte e dois que dispõe sobre a gestão e operacionalização pedidos das indenizações previstas no artigo terceiro da lei número seis mil cento e noventa e quatro de dezenove de dezembro de setenta e quatro. Com vistas a assegurar a sua continuidade e altera a lei número quatorze 0 setenta e cinco de vinte e dois de outubro de vinte. Foram oferecidas a medida provisória onze emendas.\n\nMedida provisória discussão em turno único da medida provisória número onze quarenta e nove de vinte e dois, que dispõe sobre a gestão operacionalização dos pedidos e as identizações previstas no artigo terceiro da lei seis mil cento e noventa e quatro dezenove de dezembro de setenta e quatro. Com vistas a assegurar a sua continuidade dois de outubro de vinte, pendente de parecer da comissão mista. Para oferecer parecer a medida provisória e as emendas de a onze apresentadas conforme o artigo terceiro do ato conjunto das mesas da câmara dos deputados e do senado federal número de dois mil e vinte. Concedo a palavra a deputada Flávia Moraes.",
+      "summary": " Reunião iniciada com proteção divina, seguindo MP 1149/2",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -1301,7 +1409,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -1313,7 +1422,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1325,7 +1435,8 @@
       "speaker": {
         "id": 178972,
         "name": "Alex Manente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-manente"
       }
     },
     {
@@ -1337,18 +1448,20 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
       "id": 8633,
       "start_time": 1679947668,
       "duration": 186,
-      "transcription": "Presidente, queria agradecer aí a confiança pela relatoria. Falar que é uma medida provisória bastante simples, mas que impacta e muito na vida dos hospitais federais do Rio de Janeiro. Essa medida provisória, ela se decorre da contratação temporária de profissionais de saúde. Para esses hospitais, A primeira foi feita através de uma portaria do Ministério da Saúde, no ano de dois mil e vinte, posteriormente prorrogada e depois prorrogado por essa medida provisória em em novembro de dois mil e vinte e dois. Presidente, da admissibilidade da medida provisória, ela é extremamente relevante, porque sem dúvida nenhuma é ela quem estabiliza o atendimento nas principais unidades de saúde do estado do Rio de Janeiro, no INCA, no Into, nas principais unidades do estado, nas unidades federais do estado do Rio. Também ela é uma medida de extrema urgência, visto a possibilidade de calamidade pública dentro desses hospitais com a falta destes profissionais. É uma medida prevista pela Constituição Federal e tecnicamente bem fundamentada pelo governo. Ela tem, na sua previsão original, já a proteção financeira da previsão orçamentária na lei orçamentária anual, e só pode ocorrer a contratação caso tenha previsão orçamentária bem definida. E sem dúvida nenhuma presente no mérito essa medida muito importante para a população do estado do Rio de Janeiro, porque abarca as principais unidades federais do Rio de Janeiro. Em relação às emendas apresentadas, presidente, a gente, em consenso com com diversos deputados alinhados a essa emenda, a gente decidiu a não acatar a emenda dois, três e quatro. Devido à não relação dela com a matéria em questão e sem dúvida nenhuma o novo governo precisa de tempo para poder se planejar para decidir lançar concurso público ou não. Por isso presidente, eu concluo aqui, pela admissibilidade da medida provisória e também quanto ao mérito da medida provisória com as alterações colocadas no parecer que já foi encaminhada no sistema para todos os deputados. É isso. Muito obrigado, presidente, muito obrigado. Para discutir",
-      "summary": "Deputado discute medida provisória sobre contratação temporária de profissionais de saúde em hospitais federais do Rio de Janeiro, com foco em INCA e Into. Algumas emendas recusadas, governo acha técnica e financeiramente segura. Parecer enviado a todos os deputados.",
+      "transcription": "\nPresidente, queria agradecer aí a confiança pela relatoria. Falar que é uma medida provisória bastante simples, mas que impacta e muito na vida dos hospitais federais do Rio de Janeiro. Essa medida provisória, ela se decorre da contratação temporária de profissionais de saúde. Pra esses hospitais, a primeira foi feita através de uma portaria do Ministério da Saúde no ano de dois mil e vinte, posteriormente prorrogada e depois prorrogado por essa medida provisória, em em novembro de dois mil e vinte e dois. Presidente, da admissibilidade da medida provisória, ela é extremamente relevante, porque sem dúvida nenhuma, é ela quem estabiliza o atendimento nas principais unidades de saúde do estado do Rio de Janeiro, no INCA, no Into, nas principais unidades do estado, nas unidades federais do estado do Rio.\n\nTambém ela é uma medida de extrema urgência, visto a possibilidade de calamidade pública dentro desses hospitais com a falta desses profissionais. É uma medida prevista pela Constituição Federal e tecnicamente bem fundamentada pelo governo. Ela tem na sua previsão original já a proteção financeira da previsão orçamentária na lei orçamentária anual, e só pode ocorrer a contratação caso tenha previsão orçamentária bem definida. E sem dúvida nenhuma presente no mérito essa medida é muito importante pra população do estado do Rio de Janeiro, porque abarca as principais unidades federais do Rio de Janeiro. Em relação às emendas apresentadas, presidente, a gente, em consenso com os diversos deputados alinhados a essa emenda, a gente decidiu a não acatar a emenda dois, três e quatro, devido à não relação dela com a matéria em questão e sem dúvida nenhuma o novo governo precisa de tempo para poder se planejar para decidir lançar concurso público ou não.\n\nPor isso presidente, eu concluo aqui, pela admissibilidade da medida provisória e também quanto ao mérito da medida provisória e com as alterações colocadas no parecer que já foi encaminhada no sistema para todos os deputados. É isso. Muito obrigado presidente, muito obrigado. Para discutir.",
+      "summary": " Deputado discute medida provisória permitindo contratação temporária de profissionais de saúde em hospitais federais do Rio de Janeiro, especialmente no INCA e Into. Algumas emendas recusadas, governo considera plano técnica e financeiramente seguro. Parecer enviado a todos os deputados.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -1359,7 +1472,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1371,7 +1485,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -1383,7 +1498,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1395,7 +1511,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -1406,7 +1523,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1418,7 +1536,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -1430,7 +1549,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1442,7 +1562,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -1453,7 +1574,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1465,7 +1587,8 @@
       "speaker": {
         "id": 220698,
         "name": "Beto Preto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-preto"
       }
     },
     {
@@ -1476,7 +1599,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1488,7 +1612,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -1500,7 +1625,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1512,7 +1638,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1524,7 +1651,8 @@
       "speaker": {
         "id": 160541,
         "name": "Arthur Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arthur-lira"
       }
     },
     {
@@ -1536,18 +1664,20 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
       "id": 181310,
       "start_time": 1679949282,
       "duration": 318,
-      "transcription": "Armação de Moro. Uma armação, para que ele pudesse se beneficiar politicamente. Eu gostaria de entender que armação é essa. Porque o ministro da Justiça, Flávio Dino, Ele disse em alto bom som, de que aquilo tinha sido uma operação da polícia federal, uma operação, Coordenada pelo Ministério da Justiça, havia iniciado com o Ministério Público de São Paulo, e que conseguiram, Deflagrando essa operação, desmantelar aquele plano e prender a quadrilha do PCC. E a relação que o PT tem com o PCC não é de agora eu ouvi o deputado do PT dizendo que vai processar, O deputado Antônio de Paula, por que ele teria feito essa levantaram essa suspeita? Olha a incoerência desses caras. Passaram quatro anos aqui atacando o presidente Bolsonaro, chamando de genocida, miliciano, E agora querem processar deputado usando de sua prerrogativa parlamentar. Na tribuna onde é sagrada. E não fazem uma culpa. O que nós estamos falando dessa associação do PT e o PCC, não somos nós que inventamos na nossa cabeça. Foi a delação do Marcos Valerio, e que ele demonstra de que forma que, O PT tinha relação com o PCC, e como era lavado o dinheiro dos transportes piratas de São Paulo e dos Bingus, para financiar as campanhas do PT. Por isso que É justo que levantemos essas suspeitas, e que isso seja apurado. Mas ele falou que isso é uma canalhice. A canalhice maior, é o presidente Lula, o chefe do executivo, tratar dessa forma, fato como esse que, está sendo investigado pelo Ministério Público, pela sua polícia federal, pelo seu ministro da justiça, E dia respeito com a família do senador Sergio Moro. Sergio Moro, é senador da república. A sua esposa, Rosângela Moro, uma deputada federal. Eles têm filhos. A sua família estava nos planos dos criminosos, Para que houvesse esse crime contra eles. O que Lula faz, É dar. Aceno para os bandidos. É ser advogado desses criminosos do PCC. Pois ele diz que tudo aquilo não passou de uma farsa, e demonstrando total desprezo Pela família de Sergio Moro. Por uma mulher, que é deputada Rosângela Moro. Não consigo imaginar como deve ser, você ter a sua família, ameaçada, De sequestro e assassinato, por membros de uma facção, criminosa como o PCC. Uma das mais senão a mais perigosa. Do Brasil. E uma das mais perigosas do mundo. E ele demonstrando esse total desrespeito e diferença com a família de Sérgio Moro e com a justiça. Agora ele tem que agora chegar num acordo. Porque, Flávio Dino parabenizou a polícia federal. Flávio Dino disse que aquilo era uma investigação, que estava sendo inclusive autorizada pelo Ministério da Justiça. Mas ele diz que é uma armação, Flávio Dino estava ouvindo com essa armação. Agora nós temos que entender, como está funcionando isso. Por isso que nós, da oposição, estamos protocolando pedido de impeachment contra Lula por suas falas, que se, configuram crime de responsabilidade. É inaceitável que o presidente da república aja com tamanho desrespeito às nossas instituições. Falam tanto, falavam tanto, que o governo Bolsonaro ataca as instituições e o Lula vem reiteradamente atacando As nossas instituições, com essa fala absurda, totalmente desconexa da realidade, Lula demonstra Desrespeito, à à polícia federal, ao Ministério Público de São Paulo, descredibiliza, O seu ministério da justiça, e o seu próprio governo. Aliás, desgoverno, que até agora não apresentou propostas. Isso só faz lambanças. Não desceu do palanque, e a todo momento com suas falas, faz com que O clima político e econômico do nosso país estejam da pior forma possível, e tenhamos esse caos social provocado Pelo pelo desgoverno Lula. Obrigado.",
-      "summary": "Discurso sobre Armação de Moro: acusação de associação entre PT e PCC para benefício político; PT atacou Bolsonaro por anos e agora quer processar deputado usando prerrogativa parlamentar; PT-PCC relação demonstrada por delação de Marcos Valerio, investigação em andamento; Lula mostra desprezo à família de Sergio Moro e à justiça; pedido de impeachment contra Lula por crimes de responsabilidade.",
+      "transcription": "\nArmação de Moro. Uma armação, para que ele pudesse se beneficiar politicamente. Eu gostaria de entender que armação é essa. Porque o ministro da Justiça, Flávio Dino, ele disse em alto bom som, de que aquilo tinha sido uma operação da polícia federal, uma operação, coordenada pelo Ministério da Justiça, havia iniciado com o Ministério Público de São Paulo e que conseguiram, deflagrando essa operação, desmantelar aquele plano e prender a quadrilha do PCC. E a relação que o PT tem com o PCC não é de agora.\n\nEu ouvi o deputado do PT dizendo que vai processar o deputado Antônio de Paula, porque ele teria feito essa levantaram essa suspeita. Olha a incoerência desses caras. Passaram quatro anos aqui atacando o presidente Bolsonaro chamando de genocida, miliciano, E agora querem processar deputado usando de sua prerrogativa parlamentar, na tribuna onde é sagrada. E não fazem uma culpa. O que nós estamos falando dessa associação do PT e o PCC não somos nós que inventamos na nossa cabeça.\n\nFoi a delação do Marcos Valerio, e que ele demonstra de que forma que o PT tinha relação com o PCC, e como era lavado o dinheiro dos transportes piratas de São Paulo e dos bingos, para financiar as campanhas do PT. Por isso que é justo que levantemos essas suspeitas, e que isso seja apurado. Mas ele falou que isso é uma canalhice. A canalhice maior, é o presidente Lula, o chefe do executivo, tratar dessa forma, fato como esse que, está sendo investigado pelo Ministério Público, pela sua polícia federal, pelo seu ministro da justiça, e dia respeito com a família do senador Sergio Moro. Sergio Moro, é senador da república.\n\nA sua esposa, Rosângela Moro, uma deputada federal. Eles têm filhos. A sua família estava nos planos dos criminosos, para que houvesse esse crime contra eles. O que Lula faz, é dar. Aceno para os bandidos.\n\nÉ ser advogado desses criminosos do PCC, Pois ele diz que tudo aquilo não passou de uma farsa, e demonstrando total desprezo, pela família de Sergio Moro. Por uma mulher, que é deputada Rosângela Moro. Não consigo imaginar como deve ser você ter a sua família ameaçada de sequestro e assassinato, por membros de uma facção criminosa como o PCC. Uma das mais, se não a mais perigosa, do Brasil, e uma das mais perigosas do mundo. E ele demonstrando esse total desrespeito e diferença com a família de Sérgio Moro e com a justiça.\n\nAgora ele tem que agora chegar num acordo. Porque Flávio Dino parabenizou a polícia federal. Flávio Dino disse que aquilo era uma investigação, que estava sendo inclusive autorizada pelo Ministério da Justiça. Mas ele diz que é uma armação, Flávio Dino estava ouvindo com essa armação. Agora nós temos que entender, como está funcionando isso.\n\nPor isso que nós, da oposição, estamos protocolando pedido de impeachment contra Lula por suas falas, que se, configuram crime de responsabilidade. É inaceitável que o presidente da república aja com tamanho desrespeito às nossas instituições. Falam tanto, falavam tanto, que o governo Bolsonaro ataca as instituições e o Lula vem reiteradamente atacando as nossas instituições. Com essa fala absurda, totalmente desconexa da realidade, Lula demonstra desrespeito, à à polícia federal, ao Ministério Público de São Paulo, descredibiliza, o seu ministério da justiça, e o seu próprio governo. Aliás, desgoverno, que até agora não apresentou propostas.\n\nIsso só faz lambanças. Não desceu do palanque, e a todo momento com suas falas, faz com que o clima político e econômico do nosso país, estejam da pior forma possível, e tenhamos esse caos social provocado pelo pelo desgoverno Lula. Obrigado.",
+      "summary": " PT e PCC associados para ganho político; PT processa deputado após ataques a Bolsonaro; investigação de relação PT-PCC em andamento; Lula despreza família Moro e justiça; impeachment pedido contra Lula por crimes de responsabilidade.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Arthur Lira -- por Participante -- Cabo Gilberto Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-arthur-lira-por-participante-cabo-gilberto-silva"
       }
     },
     {
@@ -1559,7 +1689,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1571,7 +1702,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -1582,7 +1714,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1594,7 +1727,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -1606,17 +1740,19 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
       "id": 181299,
       "start_time": 1679950183,
       "duration": 5,
-      "transcription": "Deputada Bia Kiss vossa excelência tem a palavra. Obrigada senhor presidente,",
+      "transcription": "\nDeputada Bia Kiss vossa excelência tem a palavra. Obrigada senhor presidente,",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -1628,7 +1764,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1640,7 +1777,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1652,7 +1790,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -1664,7 +1803,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1676,7 +1816,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -1687,7 +1828,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1699,7 +1841,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1710,7 +1853,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1722,7 +1866,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -1733,7 +1878,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1745,7 +1891,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -1757,7 +1904,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1769,7 +1917,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -1780,7 +1929,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1792,7 +1942,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -1804,18 +1955,20 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
       "id": 8671,
       "start_time": 1679951529,
       "duration": 236,
-      "transcription": "Todas eu venho a essa tribuna pela liderança do PSB para trazer grito de socorro das escolas comunitárias de São Luís do Maranhão. Me reuni na última semana com o Anderson Barros, que coordena uma série de ações nas escolas comunitárias da nossa cidade e a denúncia trazida por ele e por representantes de várias Escolas Comunitárias de São Luís é gravíssimo. Veja o que está acontecendo em São Luís. O Mistério Público do Trabalho corretamente Está notificando as escolas comunitárias da nossa cidade para que elas possam realizar o pagamento e a formalização dos vínculos das escolas comunitárias e dos seus professores. Ocorre, senhor presidente, que nas escolas comunitárias de São Luís esse vínculo é precário e é essa ilicitude pelo fato da prefeitura de São Luís estar há quase dez meses sem realizar os repasses das verbas federais às escolas comunitárias. Infelizmente a prefeitura de São Luís é descaso na saúde, no transporte público e sobretudo na educação. Nas escolas públicas municipais já saiu na Folha de São Paulo, em jornais nacionais que está sendo oferecido farelo para alimentação escolar. Além desse descaso na rede pública municipal, o prefeito agora atrasa no repasse às escolas comunitárias. Isso é verdadeiro absurdo porque são nas escolas comunitários que nós mantemos o vínculo da comunidade com a educação, com os profissionais da educação que muitas vezes essas pessoas, muitas vezes mais vulneráveis, Não têm acesso à rede pública municipal e encontram nas escolas comunitárias acesso à educação, acesso ao esporte, acesso à saúde, acesso aos seus direitos básicos fundamentais. E é por essa razão, senhor presidente, que venho a essa tribuna dessa casa para reverberar, para maximizar o grito de socorro de todas aquelas professoras representantes das escolas comunitárias de São Luís. Ninguém se nega a formalizar o vínculo com os profissionais da educação com os professores, pelo contrário, esse é o nosso interesse, No entanto, elas não realizam a devida formalização porque infelizmente o prefeito de São Luís é caloteiro, porque infelizmente o prefeito de São Luís recebe os recursos federais, recursos esses que é dever dele repassar às escolas comunitárias, mas não realizo o devido pagamento. E aqui nós estamos, não apenas para reverberar esse grito de socorro, mas para trazer uma sugestão. Já existe programa federal que é o programa dinheiro direto nas escolas, mas infelizmente, Esse programa não atinge as escolas comunitárias, e é por essa razão e nesse sentido que atendendo ajustes necessária reivindicação das Escolas Comunitárias de São Luís é que nós anunciamos nesse momento a apresentação de projeto de lei pra garantir que os recursos federais possam cair direto na conta da escola comunitária, para que assim essas representantes, Essas profissionais da educação, essas educadoras possam realizar o pagamento dos seus profissionais, dos professores, das merendeiras de todos aqueles profissionais que fazem educação comunitária e possam garantir melhor acesso à educação. Eu peço, senhor presidente, que esse discurso possa ser reverberado nos canais de comunicação dessa casa, na voz do Brasil, por ser de extrema importância por falar do acesso à educação que é direito social fundamental por seu direito constitucional. Meu muito obrigado. Será encaminhado",
-      "summary": "Deputado denuncia grave situação nas escolas comunitárias de São Luís, where precarious employment and lack of funding from the city threaten access to education and basic rights. Proposes bill to allow federal funds to go directly to these schools to ensure proper payment and access for vulnerable students.",
+      "transcription": "\nTodas eu venho a essa tribuna pela liderança do PSB para trazer grito de socorro das escolas comunitárias de São Luís do Maranhão. Me reuni na última semana com o Anderson Barros, que coordena uma série de ações nas escolas comunitárias da nossa cidade e a denúncia trazida por ele e por representantes de várias Mistério Público do Trabalho corretamente está notificando as escolas comunitárias da nossa cidade para que elas possam realizar o pagamento e a formalização dos vínculos das escolas comunitárias e dos seus professores. Ocorre, senhor presidente, que nas escolas comunitárias de São Luís, esse vínculo é precário e é essa ilicitude pelo fato da prefeitura de São Luís estar há quase dez meses sem realizar os repasses das verbas federais às escolas comunitárias. Infelizmente a prefeitura de São Luís é descaso na saúde, no transporte público e sobretudo na educação. Nas escolas públicas municipais já saiu na Folha de São Paulo, em jornais nacionais, que está sendo oferecido farelo para alimentação escolar.\n\nAlém desse descaso na rede pública municipal, o prefeito agora atrasa no repasse às escolas comunitários. Isso é verdadeiro absurdo porque são nas escolas comunitários que nós mantemos o vínculo da comunidade com a educação, com os profissionais da educação que muitas vezes essas pessoas, muitas vezes mais vulneráveis, não têm acesso à rede pública municipal e encontram nas escolas comunitárias acesso à educação, acesso ao esporte, acesso à saúde, acesso aos seus direitos básicos fundamentais. E é por essa razão, senhor presidente, que venho a essa tribuna dessa casa para reverberar, para maximizar o grito de socorro de todas aquelas professoras representantes das escolas comunitárias de São Luís. Ninguém se nega a formalizar o vínculo com os profissionais da educação com os professores, pelo contrário, esse é o nosso interesse, no entanto, elas não realizam a devida formalização porque infelizmente o prefeito de São Luís é caloteiro, porque infelizmente o prefeito de São Luís recebe os recursos federais, recursos esses que é dever dele repassar as escolas publicitárias, mas não realiza o devido pagamento. E aqui nós estamos, não apenas para reverberar esse grito de socorro, mas para trazer uma sugestão.\n\nJá existe programa federal que é o programa dinheiro direto nas escolas, mas infelizmente esse programa não atinge as escolas comunitárias e é por essa razão e nesse sentido que atendendo ajustes necessária reivindicação das escolas comunitárias de São Luís é que nós anunciamos nesse momento a apresentação de projeto de lei para garantir que os recursos federais possam cair direto na conta da escola comunitária para que assim essas representantes, essas profissionais da educação, essas educadoras possam realizar o pagamento dos seus profissionais, dos professores, das merendeiras, de todos aqueles profissionais que fazem educação comunitária e possam garantir melhor acesso à educação. Eu peço, senhor presidente, que esse discurso possa ser reverberado nos canais de comunicação dessa casa, na voz do Brasil, por ser de extrema importância por falar do acesso à educação que é direito social fundamental por seu direito constitucional. Meu muito obrigado. Será encaminhado.",
+      "summary": " Deputado denuncia precária situação escolas comunitárias São Luís, propõe projeto de lei para federalizar fundos, garantir salários e acesso para alunos vulneráveis.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -1827,7 +1980,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1839,7 +1993,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -1850,18 +2005,20 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
       "id": 8675,
       "start_time": 1679952009,
       "duration": 116,
-      "transcription": "Medeiros PL Mato Grosso. Solicito o deputado José Neto utilizando o 0 tempo da liderança do PP de Goiás para fazer o uso da palavra enquanto isso deputado Duarte e PSB Maranhão vossa excelência tem minuto. Obrigado senhor presidente. Eu quero apenas aqui registrar o descaso que vem ocorrendo no transporte público Em nossa cidade em São Luís do Maranhão. Mais uma vez eu trago essa questão aqui a essa casa, mas acaba de pegar fogo ônibus dentro de dos maiores terminais de integração da capital do Maranhão. Há pouco mais de mês, o prefeito aumentou a passagem pra quatro reais e vinte centavos. O transporte público está cada dia que passa pior, Mais demorado e mais caro. O que era ruim ficou ainda pior. E aí, se faz necessário trazer essa questão aqui senhor presidente, porque, Infelizmente a única solução que o prefeito de São Luís traz pra essa questão é aumentar o valor da passagem, mesmo dizendo em campanha que não ia aumentar o valor da passagem, Mesmo dizendo que não ia retirar os cobradores de dentro dos do do do transporte público, e trazemos essa questão aqui Para que o prefeito da cidade de São Luís possa cuidar dessa questão. Pra concluir, senhor deputado. Obrigado senhor presidente. E que não deixe para discutir o transporte público só diante de uma paralisação ou no período de eleição. E eu trago aqui uma sugestão, que ele possa vir até Brasília, visite o ministério das cidades, existe programa federal chamado refrota Que trata da renovação da frota do transporte público, o governo é federal deposita recursos federais na conta da prefeitura, na Das empresas basta o prefeito vir até aqui, se não isso precisa ter transporte público melhor, nós precisamos. OK.",
-      "summary": "Deputado denuncia problemas no transporte público em São Luís do Maranhão, com aumento de preços e falta de atenção às deficiências. Suge prefeito a visita ao Ministério das Cidades para buscar soluções, como o programa Refrota, que renova frota com recursos federais. Exorta para discussão sobre transporte não se restrinja a paralisações ou períodos eleitorais.",
+      "transcription": "\nMedeiros PL Mato Grosso. Solicito o deputado José Neto utilizando o 0 tempo da liderança do PP de Goiás para fazer o uso da palavra enquanto isso deputado Duarte e PSB Maranhão vossa excelência tem minuto.\n\nObrigado, senhor Presidente. Eu quero apenas aqui registrar o descaso que vem ocorrendo no transporte público em nossa cidade em São Luís do Maranhão. Mais uma vez eu trago essa questão aqui a essa casa, mas acaba de pegar fogo ônibus dentro de dos maiores terminais de integração da capital do Maranhão. Há pouco mais de mês, o prefeito aumentou a passagem pra quatro reais e vinte centavos. Transporte público está cada dia que passa pior, mais demorado e mais caro.\n\nO que era ruim ficou ainda pior. E aí, se faz necessário trazer essa questão aqui senhor presidente, porque, infelizmente a única solução que o prefeito de São Luís traz pra essa questão é aumentar o valor da passagem, mesmo dizendo em campanha que não ia aumentar o valor da passagem, mesmo dizendo que não ia retirar os cobradores de dentro dos do do do transporte público. E trazemos essa questão aqui para que o prefeito da cidade de São Luís possa cuidar dessa questão. Pra concluir, senhor deputado. Obrigado, senhor presidente.\n\nE que não deixe para discutir o transporte público só diante de uma paralisação ou no período de eleição. E eu trago aqui uma sugestão que ele possa vir até Brasília visite o ministério das cidades, existe programa federal chamado refrota que trata da renovação da frota do transporte público. O Governo Federal deposita recursos federais na conta da prefeitura, na conta das empresas basta o prefeito vir até aqui, se isso precisa ter transporte público melhor, nós precisamos.\n\nOk.",
+      "summary": " Deputado denuncia problemas de transporte em São Luís, propõe soluções e discussões contínuas.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -1872,7 +2029,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1884,7 +2042,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -1896,7 +2055,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1908,7 +2068,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -1920,7 +2081,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1932,7 +2094,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -1944,7 +2107,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1956,7 +2120,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -1967,7 +2132,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1979,7 +2145,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -1991,7 +2158,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2003,7 +2171,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -2015,7 +2184,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2027,7 +2197,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -2038,7 +2209,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2050,7 +2222,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -2061,7 +2234,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2073,7 +2247,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -2085,7 +2260,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2097,7 +2273,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -2109,7 +2286,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2121,7 +2299,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -2132,7 +2311,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2144,7 +2324,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -2156,7 +2337,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2168,7 +2350,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -2179,7 +2362,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2191,7 +2375,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -2203,7 +2388,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2215,7 +2401,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -2227,7 +2414,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2239,7 +2427,8 @@
       "speaker": {
         "id": 220608,
         "name": "Cristiane Lopes",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "cristiane-lopes"
       }
     },
     {
@@ -2251,7 +2440,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -2262,7 +2452,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2274,7 +2465,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -2285,7 +2477,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2297,7 +2490,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -2308,7 +2502,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2318,7 +2513,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cabo Gilberto Silva -- por Participante -- Sargento Gonçalves",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cabo-gilberto-silva-por-participante-sargento-goncalves"
       }
     },
     {
@@ -2330,7 +2526,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -2341,28 +2538,31 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
       "id": 181356,
       "start_time": 1679956092,
       "duration": 9,
-      "transcription": "Ao meu nobre presidente, cabo",
+      "transcription": "\nAo meu nobre presidente, cabo",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sargento Gonçalves -- por Participante -- Cabo Gilberto Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sargento-goncalves-por-participante-cabo-gilberto-silva"
       }
     },
     {
       "id": 8716,
       "start_time": 1679956101,
       "duration": 219,
-      "transcription": "Roberto Silva, bem como também a todas as pessoas querida e amada que estão nos assistindo, estão nos ouvindo, primeiramente para Deus, para o eterno, toda honra, toda a glória e todo o louvor de gratidão também ao meu filho Gabriel Monteiro e os quase cem mil eleitores que confiaram tanto a mim quanto a minha filha Gisele Monteiro, deputado estadual, ambos pelo estado do Rio de Janeiro, e eu retorno aqui a essa tribuna e me sinto presenteado por poder trazer essa minha fala e reverberando a fala de povo que confiou a mim essa missão. E nesse momento, a essa hora, que são exatamente vinte e duas horas e trinta minutos, eu quero aqui prestar a minha homenagem, parabenizar pelo brilhante serviço que o governador Cláudio Castro vem desempenhando no estado do Rio de Janeiro. Governador esse que é do partido PL e eu faço parte desse partido com muita alegria e posso aqui reconhecer, e sendo a voz dos meus eleitores, e o nosso estado do Rio de Janeiro reconhece a competência, o brilhante trabalho incansável que o nosso governador tem desempenhado quase todos os dias ele tem feito entregas de ambulância, ele tem ido a município e tem feito ali brilhante trabalho daqueles municípios que traz muita alegria para os moradores dos municípios, como foi hoje a entrega ali tanto de Niterói como São Gonçalo das ambulância e parabenizando também o secretário de saúde, doutor doutor me deu agora vácuo na memória do secretário de saúde do estado do Rio de Janeiro. Então, Doutor Luizinho, doutor Luizinho, pela hora que é, desde cedo, sete horas da manhã, então eu quero parabenizar reiterando aqui, o governador Cláudio Castro, doutor Luizinho pelo brilhante trabalho que eles têm desempenhado nessa área de saúde, e finalizando, retornando e voltando a dizer, que tudo na vida passa, nós estamos aqui, escrevemos uma história dentro desse cenário, desse plenário, desta nobre casa, mas dia nós vamos embora porque a passar a vida é uma passagem muito rápida e nós. Pra concluir seu deputado Senhor, nós temos que valorizar a oportunidade que Deus nos dá e finalizo dizendo também que o presidente desta nação ele tem que pedir a Deus sabedoria e entendimento. E eu não ataco ninguém, não ataco esquerda nem centro, pelo contrário, eu quero ter união com todos porque Deus, ele é Deus de todos, entretanto, temos que ter sabedoria para saber estar na posição a qual Deus nos confia, esta missão. Pra concluir, a paz, Deus abençoe, a paz. Deputado general dirão, Rodolfo já",
-      "summary": "Deputado homenageia governador do Rio de Janeiro e secretário de saúde por brilhante trabalho em saúde; incentiva união e paz, pedindo sabedoria para o presidente.",
+      "transcription": "\nRoberto Silva, bem como também a todas as pessoas querida e amada que estão nos assistindo, estão nos ouvindo, primeiramente para Deus, para o eterno, toda honra, toda glória e todo louvor de gratidão também ao meu filho Gabriel Monteiro e os quase cem mil eleitores que confiaram tanto a mim quanto a minha filha Gisele Monteiro, deputado estadual, ambos pelo estado do Rio de Janeiro, e eu retorno aqui a essa tribuna e me sinto presenteado por poder trazer essa minha fala e reverberando a fala de povo que confiou a mim essa missão. E nesse momento, a essa hora, que são exatamente vinte e duas horas e trinta minutos, eu quero aqui prestar a minha homenagem, parabenizar pelo brilhante serviço que o governador Cláudio Castro vem desempenhando no estado do Rio de Janeiro. Governador esse que é do partido PL e eu faço parte desse partido com muita alegria e posso aqui reconhecer e sendo a voz dos meus eleitores, e o nosso estado do Rio de Janeiro reconhece a competência, o brilhante trabalho incansável que o nosso governador tem desempenhado quase todos os dias, ele tem feito entregas de ambulância, ele tem ido a município, e tem feito ali brilhante trabalho daqueles municípios que traz muita alegria para os moradores dos municípios, como foi hoje a entrega ali tanto de Niterói como São Gonçalo das ambulância e parabenizando também o secretário de saúde, doutor doutor me deu agora vácuo na memória do do secretário de saúde do estado do Rio de Janeiro.\n\nEntão doutor Luizinho, doutor Luizinho, pela hora que é, desde cedo, sete horas da manhã, então eu quero parabenizar reiterando aqui, o governador Cláudio Castro, doutor Luizinho pelo brilhante trabalho que eles têm desempenhado nessa área de saúde, e finalizando, retornando e voltando a dizer, que tudo na vida passa. Nós estamos aqui, escrevemos uma história dentro desse cenário, desse plenário, desta nobre casa, mas dia nós vamos embora, porque a passar a vida é uma passagem muito rápida e nós. Pra concluir seu deputado. Senhor, nós temos que valorizar a oportunidade que Deus nos dá e finalizo dizendo também que o presidente desta nação ele tem que pedir a Deus sabedoria e entendimento, eu não ataco ninguém, não ataco esquerda nem centro, pelo contrário, eu quero ter união com todos porque Deus ele é Deus de todos, entretanto temos que ter sabedoria para saber estar na posição a qual Deus nos confia, esta missão. Pra concluir, a paz, Deus abençoe, a paz.\n\nDeputado geral dirão, Rodolfo já",
+      "summary": " Deputado homenagea autoridades e incentiva união, paz e sabedoria.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -2374,9 +2574,10 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633000
 }

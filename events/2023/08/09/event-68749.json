@@ -18,7 +18,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Estamos recebendo aqui né a nossa amiga, só pouquinho do por favor nossa amiga, né?",
       "speaker": {
         "name": "Alexandre Andrade dos Anjos Jácome",
-        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC"
+        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC",
+        "slug": "alexandre-andrade-dos-anjos-jacome"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Sociedade Brasileira de Oncologia Clinica agradece convite e elogia deputados Jorge Braz e Danlay de Deus por iniciativas nobres. Falava sobre problemas de tecnologia durante apresentação com slide show.",
       "speaker": {
         "name": "Alexandre Andrade dos Anjos Jácome",
-        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC"
+        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC",
+        "slug": "alexandre-andrade-dos-anjos-jacome"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -73,7 +78,8 @@
       "summary": "Sociedade Brasileira de Oncologia Clinica: em 2",
       "speaker": {
         "name": "Alexandre Andrade dos Anjos Jácome",
-        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC"
+        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC",
+        "slug": "alexandre-andrade-dos-anjos-jacome"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Presidente da Associação Brasileira de Planos de Saúde - Abramge informa que:",
       "speaker": {
         "name": "Renato Freire Casarotti",
-        "position": "Pesidente da Associação Brasileira de Planos de Saúde - Abramge"
+        "position": "Pesidente da Associação Brasileira de Planos de Saúde - Abramge",
+        "slug": "renato-freire-casarotti"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Superintendente de Avaliação de Tecnologias em Saúde e Cobertura Assistencial da Fenasaúde enfatizou a importância de avaliar a complexa cadeia de entidades em saúde suplementar, considerando coberturas, demanda, oferta e análise epidemiológica para definir parâmetros nacionais e garantir atendimento eficiente, com exemplo de tempo de espera de tratamento no Reino Unido e Canadá.",
       "speaker": {
         "name": "Hellen Harumi Miyamoto",
-        "position": "Superintendente de Avaliação de Tecnologias em Saúde e Cobertura Assistencial da Federação Nacional de Saúde Suplementar - Fenasaúde"
+        "position": "Superintendente de Avaliação de Tecnologias em Saúde e Cobertura Assistencial da Federação Nacional de Saúde Suplementar - Fenasaúde",
+        "slug": "hellen-harumi-miyamoto"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde relata avanços na cobertura e legislação para pacientes oncológicos, como inclusão de cirurgia plástica reconstrutiva e análise prioritária de medicamentos oncológicos em planos de saúde. Destaca importância do diagnóstico precoce e desafios no atendimento de pacientes no sistema privado de saúde.",
       "speaker": {
         "name": "Helena Esteves",
-        "position": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde."
+        "position": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde.",
+        "slug": "helena-esteves"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS abordou mudanças no cumprimento de prazos para análise de tecnologias e entrega de medicamentos, especificamente medicamentos antineoplásicos, referenciando leis 9.961/99, 12.880/13 e RN259/11. RN259 introduce prazos máximos e acesso para avaliação da assistência, com ênfase em acesso, oportunidade e eficácia, e possui medidas administrativas em caso de descumprimento.",
       "speaker": {
         "name": "Andreia Ribeiro Abib",
-        "position": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS"
+        "position": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS",
+        "slug": "andreia-ribeiro-abib"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Sociedade Brasileira de Oncologia Clínica agradece convite e elogia iniciativa. Disponibiliza-se para futuras discussões com participantes do debate.",
       "speaker": {
         "name": "Alexandre Andrade dos Anjos Jácome",
-        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC"
+        "position": "Sociedade Brasileira de Oncologia Clinica - SBOC",
+        "slug": "alexandre-andrade-dos-anjos-jacome"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -210,7 +227,8 @@
       "summary": "Presidente da Associação Brasileira de Planos de Saúde - Abramge expressou satisfação por participar do debate, aprendeu com os participantes, desejou avançar em discussões futuras, e se mantém disponível para futuras colaborações.",
       "speaker": {
         "name": "Renato Freire Casarotti",
-        "position": "Pesidente da Associação Brasileira de Planos de Saúde - Abramge"
+        "position": "Pesidente da Associação Brasileira de Planos de Saúde - Abramge",
+        "slug": "renato-freire-casarotti"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -232,7 +251,8 @@
       "transcription": "Obrigada, deputado. Está? Corretíssimo, né? Nome difícil mesmo, né? De.",
       "speaker": {
         "name": "Hellen Harumi Miyamoto",
-        "position": "Superintendente de Avaliação de Tecnologias em Saúde e Cobertura Assistencial da Federação Nacional de Saúde Suplementar - Fenasaúde"
+        "position": "Superintendente de Avaliação de Tecnologias em Saúde e Cobertura Assistencial da Federação Nacional de Saúde Suplementar - Fenasaúde",
+        "slug": "hellen-harumi-miyamoto"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde propõe contribuição com dados reais e realidade do paciente no debate sobre sistema de saúde, destacando a diversidade do sistema, avanços recentes, e trabalho para aprimorar acesso a tratamento adequado.",
       "speaker": {
         "name": "Helena Esteves",
-        "position": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde."
+        "position": "Coordenadora de Advocacy do Instituto Oncoguia e membra da Comissão Intersetorial e Saúde Suplementar do Conselho Nacional de Saúde.",
+        "slug": "helena-esteves"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -278,7 +301,8 @@
       "summary": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS agradece convite, elogia debate e disponibilidade de dados para subsidiar melhor parecer com diversos olhares.",
       "speaker": {
         "name": "Andreia Ribeiro Abib",
-        "position": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS"
+        "position": "Gerente de Acompanhamento Regulatório das Redes Assistenciais - ANS",
+        "slug": "andreia-ribeiro-abib"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],

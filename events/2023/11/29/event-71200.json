@@ -18,7 +18,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Coordenador da SDIC/MDIC agradece convite e sauda deputada; aborda discussão em andamento no ministério sobre acesso à informação de reparo e manutenção de veículos, envolvendo diferentes departamentos e temas; espera construir consenso em futura oportunidade.",
       "speaker": {
         "name": "Thomas Paris Caldellas",
-        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC"
+        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC",
+        "slug": "thomas-paris-caldellas"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional abordou preocupação com a dificuldade de acessar informações para reparar veículos, impacto na segurança e direito do proprietário escolher onde consertar. Sugeriu melhor acesso a ferramentas de reparo para boa reputação de marcas e propos ofereceu assistência para construir solução em prol do consumidor final.",
       "speaker": {
         "name": "Celso Mattos",
-        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional."
+        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional.",
+        "slug": "celso-mattos"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Diretor do DPDC prioriza liberdade de escolha do consumidor, proibindo \"venda casada\" e incentivando livre concorrência, conforme Código de Defesa do Consumidor e Constituição. Urge avançar para permitir reparos em locais escolhidos pelo consumidor, promovendo transparência e informação.",
       "speaker": {
         "name": "Vitor Hugo do Amaral Ferreira",
-        "position": "Diretor do Departamento de Proteção e Defesa do Consumidor - DPDC/SENACON/MJ"
+        "position": "Diretor do Departamento de Proteção e Defesa do Consumidor - DPDC/SENACON/MJ",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Assessor Especial - Sindirepa Brasil saúda participantes e destaca importância do mercado de reposição automotiva no Brasil, quarto maior do mundo. Seu foco é direito do consumidor, especialmente livre escolha de where repair. Menciona leis federais e europeias sobre acesso a dados e rede insuficiente de concessionárias no Brasil. Apoia escolha e soberania do consumidor, relevante para economia circular e meio ambiente. Está à disposição para discussões.",
       "speaker": {
         "name": "Marcelo L. D. S. Gabriel",
-        "position": "Assessor Especial - Sindirepa Brasil"
+        "position": "Assessor Especial - Sindirepa Brasil",
+        "slug": "marcelo-l-d-s-gabriel"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Discurso sobre a importância de acesso a códigos de falha em veículos, relacionado à evolução tecnológica contínua. O gerente destaca a necessidade de discussão entre indústria e consumidores sobre acesso a software e códigos de falha, para garantir segurança e cumprimento de regulamentos. Suge estar abertos a treinamento, uso adequado de ferramentas e confidencialidade para acesso seguro a códigos.",
       "speaker": {
         "name": "Gilberto Martins",
-        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea"
+        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea",
+        "slug": "gilberto-martins"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 226179,
         "name": "Gisela Simona",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gisela-simona"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Oficinas dependentes podem seguir credenciamento e procedimentos concessionárias para minimizar erros em reparos, promovendo padronização entre concessionárias e oficinas independentes.",
       "speaker": {
         "name": "Gilberto Martins",
-        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea"
+        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea",
+        "slug": "gilberto-martins"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 226179,
         "name": "Gisela Simona",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gisela-simona"
       }
     },
     {
@@ -202,7 +218,8 @@
       "summary": "Gerente de Assuntos Técnicos - Anfavea sugere estudar limites para credenciamento de oficinas independentes, considerando montadoras, concessionárias, assistência técnica, Sindirepa, defensores do consumidor e consumidores, para alcançar consenso sobre tipo de credenciamento necessário.",
       "speaker": {
         "name": "Gilberto Martins",
-        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea"
+        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea",
+        "slug": "gilberto-martins"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -224,7 +242,8 @@
       "summary": "Lei europeia desde 2003 permite acesso à reparação por oficinas credenciadas, mas opcionalmente; no Brasil, Anfavea propõe modelo com algum vínculo, diferente da abordagem europeia de livre mercado com melhor proposta e oferta. Direito à reparação precisa ser tratado a fundo para aplicação específica.",
       "speaker": {
         "name": "Marcelo L. D. S. Gabriel",
-        "position": "Assessor Especial - Sindirepa Brasil"
+        "position": "Assessor Especial - Sindirepa Brasil",
+        "slug": "marcelo-l-d-s-gabriel"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional defende treinamento profissional no Senai, uso adequado de equipamentos e acesso à informação para oficinas independentes, argumentando que o consumidor final é o prejudicado com restrições.",
       "speaker": {
         "name": "Celso Mattos",
-        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional."
+        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional.",
+        "slug": "celso-mattos"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Coordenação da Secretaria de Desenvolvimento Industrial recomenda:",
       "speaker": {
         "name": "Thomas Paris Caldellas",
-        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC"
+        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC",
+        "slug": "thomas-paris-caldellas"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Coordenador da SDIC/MDIC propõe debate sobre momento em que software com informações de reparo seriam tornados obrigatórios, discutindo se isso se aplicaria apenas a novos projetos ou retroariamente também.",
       "speaker": {
         "name": "Thomas Paris Caldellas",
-        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC"
+        "position": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - SDIC/MDIC",
+        "slug": "thomas-paris-caldellas"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Diretor do DPDC prioriza direito do consumidor a ter liberdade de escolha, desde que informado sobre riscos e consequências. Apóia deputada Gisela e deputado Jorge Braz por seu comprometimento com a defesa do consumidor.",
       "speaker": {
         "name": "Vitor Hugo do Amaral Ferreira",
-        "position": "Diretor do Departamento de Proteção e Defesa do Consumidor - DPDC/SENACON/MJ"
+        "position": "Diretor do Departamento de Proteção e Defesa do Consumidor - DPDC/SENACON/MJ",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -349,7 +378,8 @@
       "summary": "Assessor Especial - Sindirepa Brasil apoia iniciativa do deputado, valoriza rede de técnicos Senai e sua formação, destaca avanço tecnológico secure gateway, refere proteção dados pessoais no LGPD, menciona uniformidade de peças em concessionárias e elogia colocações de outros participantes.",
       "speaker": {
         "name": "Marcelo L. D. S. Gabriel",
-        "position": "Assessor Especial - Sindirepa Brasil"
+        "position": "Assessor Especial - Sindirepa Brasil",
+        "slug": "marcelo-l-d-s-gabriel"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -371,7 +402,8 @@
       "summary": "Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional, Celso Mattos, agradeceu apoio de deputados e secretários, pediu urgentemente tratamento do assunto relacionado à formação profissional de reparadores e abertura de informação, destacou a disponibilidade de recursos e locais de treinamento, e finalizou agradecendo a presença de todos.",
       "speaker": {
         "name": "Celso Mattos",
-        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional."
+        "position": "Presidente - Sindicato da Indústria de Reparação de Veículos e Acessórios - Sindirepa Nacional.",
+        "slug": "celso-mattos"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -394,7 +427,8 @@
       "summary": "Gerente de Assuntos Técnicos - Anfavea: Agradece à comissão de defesa doconsumidor. Destaca importância de Flávia e entendimento sobre código de falhasoftware em mercados como Europa e Estados Unidos. Aponta discussão atual sobre software e foco emoficinas seguras para reparos de veículos. Agradecimento e disposição para esclarecimentos posteriores.",
       "speaker": {
         "name": "Gilberto Martins",
-        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea"
+        "position": "Gerente de Assuntos Técnicos - Associação Nacional dos Fabricantes de Veículos Automotores - Anfavea",
+        "slug": "gilberto-martins"
       }
     },
     {
@@ -406,7 +440,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],

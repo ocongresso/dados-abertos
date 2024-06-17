@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Juiz do Trabalho Presidente da AMATRA1 discute assédio moral no direito do trabalho, definido como conduta deliberada, repetida e excludente, causando danos à personalidade, dignidade e integridade psíquica ou física. Incluído na lei federal nº 14.162 de 2",
       "speaker": {
         "name": "RONALDO DA SILVA CALLADO",
-        "position": "Juiz do Trabalho Presidente da Associação de Magistrados do Trabalho da 1ª Região - AMATRA1"
+        "position": "Juiz do Trabalho Presidente da Associação de Magistrados do Trabalho da 1ª Região - AMATRA1",
+        "slug": "ronaldo-da-silva-callado"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Juíza Titular-Presidente da AJUTRA agradece abordagem de assédio no trabalho durante audiência pública; assédio historicamente ocorre em todos ambientes, incluindo família e sociedade; Convenção 190 da OIT aborda tema de forma abrangente, entrará em vigor no Brasil em 2022; educação e conhecimento sobre assédio necessários para proteger trabalhadores e empregadores.",
       "speaker": {
         "name": "CLAUDIA MARCIA DE CARVALHO SOARES",
-        "position": "Juíza Titular - Presidente da Associação dos Juízes do Trabalho - AJUTRA."
+        "position": "Juíza Titular - Presidente da Associação dos Juízes do Trabalho - AJUTRA.",
+        "slug": "claudia-marcia-de-carvalho-soares"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Representante da OAB/RJ destaca importância de combater e conscientizar sobre assédio moral em todas as formas de relação de trabalho, incluindo aplicativos, com impacto sério na saúde das vítimas. Hoje é início de uma luta séria para reduzir esse problema.",
       "speaker": {
         "name": "LEANDRO ANTUNES",
-        "position": "Representante da OAB/RJ"
+        "position": "Representante da OAB/RJ",
+        "slug": "leandro-antunes"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Advogada propõe inclusão de assédio moral no trabalho na CLT, destacando importância de treinamentos e legislação recente sobre combate ao assédio e igualdade salarial entre homens e mulheres. Menciona também a necessidade de definir claramente o assédio moral na CLT e aborda a questão do home office durante a pandemia, sugerindo a comunicação assíncrona respeitando tempo razoável das respostas.",
       "speaker": {
         "name": "DÉBORA BRAZIL SILVA",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "debora-brazil-silva"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Reforma trabalhista tem intenção de acabar com direito e justiça trabalhista; movimento de autofagia na Justiça do Trabalho; atenção ao direito processual no reconhecimento de assédio moral; inversão de ônus de prova contra o assediador; punição rigorosa de assédio moral no ambiente de trabalho, considerando perspectiva de gênero.",
       "speaker": {
         "name": "ERICA PEREIRA",
-        "position": "Presidente da Comissão da Justiça do Trabalho da OABRJ"
+        "position": "Presidente da Comissão da Justiça do Trabalho da OABRJ",
+        "slug": "erica-pereira"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Presidente do Sindicato dos Bancários do Rio de Janeiro fala sobre assédio no trabalho, incluindo moral e institucional. Menciona pressão por resultados e impacto na saúde dos trabalhadores, além de discriminação no acesso às funções de liderança e racismo no setor. Apresenta caso de rankings que afetam autoestima e produtividade. Sua sindicato proíbe rankings e combate assédio diariamente. Aplaude iniciativa contra assédio e espera leis que abordem questões remanescentes na CLT.",
       "speaker": {
         "name": "JOSÉ FERREIRA",
-        "position": "Presidente do Sindicato dos Bancários Rio de Janeiro"
+        "position": "Presidente do Sindicato dos Bancários Rio de Janeiro",
+        "slug": "jose-ferreira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Ministério Público do Trabalho considera ato único suficiente para configurar assédio no trabalho; Exemplos dados incluem pressão para cumprir metas, ameaças e discriminação no setor bancário; Lei 3.353/22 atacada por MPT por insistir na reiteração da conduta; MPT prioriza análise do potencial de dano da conduta sobre intenção.",
       "speaker": {
         "name": "FERNANDA BARBOSA DINIZ",
-        "position": "Procuradora do Ministério Público do Trabalho - MPT"
+        "position": "Procuradora do Ministério Público do Trabalho - MPT",
+        "slug": "fernanda-barbosa-diniz"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Debate público valioso; cada contribuição é importante. Apelamos pela inclusão na legislação da marcação para coibir práticas processuais e assédio institucional, clarificando o conceito e problemas relacionados. Reconhecemos a importância de atos únicos como assédio moral. Convidamos para continuar construindo o projeto de lei. Agradecemos por participar.",
       "speaker": {
         "name": "DÉBORA BRAZIL SILVA",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "debora-brazil-silva"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Trabalho precarizado causa vulnerabilidade a classe trabalhadora, pandemia de assédio moral e sexual, afeta saúde mental, dificulta provas para vítimas, impacta familia, discussão esperada para avançar em melhores ambientes de trabalho que respeitem direitos humanos e dignidade.",
       "speaker": {
         "name": "LUCIANA GOMES",
-        "position": "Psicologa Pesquisadora Fiocruz"
+        "position": "Psicologa Pesquisadora Fiocruz",
+        "slug": "luciana-gomes"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -236,7 +255,8 @@
       "summary": "Sindicatos combatem assédio moral no trabalho; leis relevantes discutidas, aumento de ações judiciais e união de entidades sindicais contra inclusão de assédio moral na CLT, harmonizando com direito do trabalho. Reunião incluiu sindicatos de petroleiros, comerciários, assistentes sociais, saúde, CTB, central de trabalhadores do Brasil, federações nacionais de assistentes sociais e petroleiros, segurança social, e CUT.",
       "speaker": {
         "name": "KARINA MENDONÇA",
-        "position": "representante SINDIPETRO"
+        "position": "representante SINDIPETRO",
+        "slug": "karina-mendonca"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -259,7 +280,8 @@
       "summary": "Conselho de Saúde RJ enfatiza relevância de sindicatos e saúde no trabalho, referenciando CISH e CERESH para promover atenção à saúde ocupacional. Menciona abandono do Seresh e dificuldades de acesso a assistência. Discutem assédio moral, especialmente no ambiente farmacêutico, com ênfase em discriminação salarial e papéis diferenciados. Solicitam ajuda para enfrentar problemas relacionados à saúde no trabalho.",
       "speaker": {
         "name": "LEONARDO",
-        "position": "Conselho de Saúde RJ"
+        "position": "Conselho de Saúde RJ",
+        "slug": "leonardo"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Cientista Social participou de curso sobre direitos humanos e empresas, propôs tema de assédio moral como direito humano. Discutiu-se a integridade da pessoa, impacto no trabalho e autoestima. Conclusão: assédio é direito humano e deve ser além da legislação, aplicável a todos.",
       "speaker": {
         "name": "CAMILA DINIZ",
-        "position": "Cientista Social"
+        "position": "Cientista Social",
+        "slug": "camila-diniz"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -303,7 +328,8 @@
       "summary": "Procuradora do Ministério Público do Trabalho destaca importância de direitos humanos, especificamente direitos sociais relacionados à saúde no trabalho, baseada em instrumentos jurídicos internacionais e nacionais. Aborda relevância da saúde mental, utilizando dados do INSS para sustentar sua posição e previnir violações de direitos humanos no ambiente de trabalho.",
       "speaker": {
         "name": "FERNANDA BARBOSA DINIZ",
-        "position": "Procuradora do Ministério Público do Trabalho - MPT"
+        "position": "Procuradora do Ministério Público do Trabalho - MPT",
+        "slug": "fernanda-barbosa-diniz"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -326,7 +353,8 @@
       "summary": "Identidade protegida por lei afirmou que reclamadores podem ser considerados problemáticos, podendo resultar em denúncias à MPT e Ministério Público do Trabalho, antes de retomar a transmissão. Johnny está presente.",
       "speaker": {
         "name": "Participante",
-        "position": "Identidade protegida por lei"
+        "position": "Identidade protegida por lei",
+        "slug": "participante"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -349,7 +378,8 @@
       "summary": "SINDPETRO, sindicalista da Petrobrás, representa 10 mil trabalhadores e 40 mil indirectamente. Em 2022, com lucro de 145 bilhões de reais, distribuiu 170 bilhões em dividendos a acionistas. A pandemia causou alta índice de sofrimento mental e suicídios entre trabalhadores do setor. Ouidoria da empresa investiga apenas 22% da violência no trabalho. SINDPETRO acredita que união de trabalhadores e fórmula tripartite podem ajudar a proteger a saúde mental no local de trabalho.",
       "speaker": {
         "name": "ALEXANDRE",
-        "position": "SINDPETRO"
+        "position": "SINDPETRO",
+        "slug": "alexandre"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -372,7 +403,8 @@
       "summary": "Trabalhador Reduc: \"escravidão moderna\" é assédio; exemplos incluem imposição de trabalho gratuito em horário de folga e metas perigosas em gestão de desempenho. Problemático investigar assédio quando perpetrado por estrutura da própria empresa (Petrobras). Aumento de suicídios entre trabalhadores devido à transferência compulsória causada pela venda de ativos no Norte e Nordeste.",
       "speaker": {
         "name": "MARCELO",
-        "position": "SINDIPETRO CAXIAS"
+        "position": "SINDIPETRO CAXIAS",
+        "slug": "marcelo"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -395,7 +428,8 @@
       "summary": "Participante passou por assédio no município de Niterói, denunciou e passou por seis comissões, incluindo Controladoria Geral e comissão de ética. Sofreu com assédio organizacional e discriminatório no trabalho. A comissão de ética entendeu que ela sofria assédio e a relotaram. Ainda assim, enfrenta dificuldades e desconhecimento sobre a comissão de ética no município.",
       "speaker": {
         "name": "PAULA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "paula"
       }
     },
     {
@@ -407,7 +441,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -418,7 +453,8 @@
       "summary": "Assistente Social discute assédio no serviço público, relata experiência de discriminação e apresenta dados de um formulário de pesquisa sobre o assunto, mostrando alta incidência de assédio e problemas de saúde mental associados. Sua esperança é que mudanças aconteçam também para os servidores.",
       "speaker": {
         "name": "APARECIDA",
-        "position": "Assistente Social"
+        "position": "Assistente Social",
+        "slug": "aparecida"
       }
     },
     {
@@ -430,7 +466,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -441,7 +478,8 @@
       "summary": "Sindicato dos Bancários discute assédio no trabalho, normatização dificuldades e falta de apoio institucional; menciona juízes favoráveis ao capital; refere preconceito em processos judiciais, destacando necessidade de juízes corajosos para equilibrar relação trabalhador-capital.",
       "speaker": {
         "name": "ROBERTO ANDRÉ",
-        "position": "Sindicato dos Bancários"
+        "position": "Sindicato dos Bancários",
+        "slug": "roberto-andre"
       }
     },
     {
@@ -453,7 +491,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -464,7 +503,8 @@
       "summary": "Juíza Titular-Presidente da AJUTRA propõe empresas criarem protocolos para atender vítimas de assédio moral, destacando importância de sindicatos e trabalhadores exigirem mudanças legais e proteção contra atrasos de justiça. Menciona protocolo do TCU como modelo contra assédio moral em instituições públicas.",
       "speaker": {
         "name": "CLAUDIA MARCIA DE CARVALHO SOARES",
-        "position": "Juíza Titular - Presidente da Associação dos Juízes do Trabalho - AJUTRA."
+        "position": "Juíza Titular - Presidente da Associação dos Juízes do Trabalho - AJUTRA.",
+        "slug": "claudia-marcia-de-carvalho-soares"
       }
     },
     {
@@ -476,7 +516,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -487,7 +528,8 @@
       "summary": "Para resumir as palavras da Procuradora do Ministério Público do Trabalho, poderíamos dizer:",
       "speaker": {
         "name": "FERNANDA BARBOSA DINIZ",
-        "position": "Procuradora do Ministério Público do Trabalho - MPT"
+        "position": "Procuradora do Ministério Público do Trabalho - MPT",
+        "slug": "fernanda-barbosa-diniz"
       }
     },
     {
@@ -499,7 +541,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -510,7 +553,8 @@
       "summary": "Presidente do Sindicato dos Bancários Rio de Janeiro fala sobre esperança em construção de melhores instrumentos legais para regular e coibir questões, mencionando categoria, colegas do Banco do Brasil, grupos auto-organizados de PCDs e neuro divergentes, e importância do diálogo com membros na base para traduzir suas demandas.",
       "speaker": {
         "name": "JOSÉ FERREIRA",
-        "position": "Presidente do Sindicato dos Bancários Rio de Janeiro"
+        "position": "Presidente do Sindicato dos Bancários Rio de Janeiro",
+        "slug": "jose-ferreira"
       }
     },
     {
@@ -521,7 +565,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -532,7 +577,8 @@
       "summary": "Presidente da Comissão da Justiça do Trabalho da OABRJ sugeriu que no rol de condutas não sejá taxativo para evitar indeferimento de pedidos de assédio moral e expressou otimismo em ter um país melhor.",
       "speaker": {
         "name": "ERICA PEREIRA",
-        "position": "Presidente da Comissão da Justiça do Trabalho da OABRJ"
+        "position": "Presidente da Comissão da Justiça do Trabalho da OABRJ",
+        "slug": "erica-pereira"
       }
     },
     {
@@ -544,7 +590,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -555,7 +602,8 @@
       "summary": "Advogada agradece presença, contribuição e abertura de casa; expressa alegria e emoção por participar de um momento revolucionário; espera mudanças na sociedade e no tema da CLT; confia em construir legislação justa com a ajuda de todos.",
       "speaker": {
         "name": "DÉBORA BRAZIL SILVA",
-        "position": "Advogada"
+        "position": "Advogada",
+        "slug": "debora-brazil-silva"
       }
     },
     {
@@ -567,7 +615,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     }
   ],

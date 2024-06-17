@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Boa tarde",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Antonio Carlos Rodrigues -- por Participante -- Helena Lima",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-antonio-carlos-rodrigues-por-participante-helena-lima"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 204372,
         "name": "Julio Cesar Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar-ribeiro"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     }
   ],

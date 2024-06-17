@@ -18,7 +18,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "ANEEL regula micro/mini geração distribuída; lei 14.300 favoreceu mercado, causando desafios; 75% dos pedidos conectados; 20% em atraso por distribuidoras; ANEEL normas definem direitos/obrigações, permitindo compensação automática por atraso. ANEEL atua minimizando impactos e ajustando regulamentos, aprimorando processos e fiscalizando distribuidoras.",
       "speaker": {
         "name": "Pedro Mello Lombardi",
-        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)"
+        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)",
+        "slug": "pedro-mello-lombardi"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Cemig busca priorizar demandas do setor, se esforça para aumentar conexões, aberto ao diálogo com reguladores.",
       "speaker": {
         "name": "João Paulo Menna Barreto de Castro Ferreira",
-        "position": "Diretor Institucional - Companhia Energética Minas Gerais S/A (CEMIG)"
+        "position": "Diretor Institucional - Companhia Energética Minas Gerais S/A (CEMIG)",
+        "slug": "joao-paulo-menna-barreto-de-castro-ferreira"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "A Analista de Relacionamento com Clientes da Companhia Energética Minas Gerais relatou como a empresa está respondendo à crescente demanda do mercado de geração distribuída, melhorando para atender todos os clientes e reduzir atrasos nas conexões. Em dois anos, a Cemig conectou quase um quinto da capacidade de Itaipu, demonstrando seu compromisso com o mercado em expansão.",
       "speaker": {
         "name": "Fabio Pozzi Cesar",
-        "position": "Analista de Relacionamento com Clientes - Companhia Energética Minas Gerais"
+        "position": "Analista de Relacionamento com Clientes - Companhia Energética Minas Gerais",
+        "slug": "fabio-pozzi-cesar"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Distribuidoras atrasam e desrespeitam normas de geração distribuída, restringindo lei 14.300 com dispositivos infralegais. A inversão de fluxo é usada como pretexto para limitar direito de consumidores, sem comprovação real de danos à rede. Regulação atual é negligenciada, com falta de estudos, dados e fiscalização da ANEEL, resultando em impacto nos prazos e eficácia da lei em todo o país.",
       "speaker": {
         "name": "Bárbara Rubim",
-        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)"
+        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)",
+        "slug": "barbara-rubim"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Diretor de Engenharia - CPFL Energia apresentou CPFL, suas concessões em SP e RS, atendendo 10 milhões de clientes e 78 mil gerações distribuídas. CPFL destaca-se no atendimento eficiente e tem poucas reclamações sobre geração distribuída. CPFL contribui com o aprimoramento do setor elétrico e está disponível para responder perguntas.",
       "speaker": {
         "name": "Caius Vinicius Sampaio Malagoli",
-        "position": "Diretor de Engenharia - CPFL Energia"
+        "position": "Diretor de Engenharia - CPFL Energia",
+        "slug": "caius-vinicius-sampaio-malagoli"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Distribuidora conecta geração, transmissão e carga. Aumento conexões geração distribuída causa gargalo e atrasos na medição. Reclamações decrescentes, mas atrasos por infraestrutura limitação. Geração distribuída impacta tarifa e subsídios. Inversão fluxo tem solução, questão é quem paga. Agradecimento oportunidade falar.",
       "speaker": {
         "name": "Ricardo Brandão",
-        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)"
+        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+        "slug": "ricardo-brandao"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -191,7 +206,8 @@
       "summary": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec) aborda:",
       "speaker": {
         "name": "Anton Altino Schwyter",
-        "position": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec)"
+        "position": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec)",
+        "slug": "anton-altino-schwyter"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -238,7 +257,8 @@
       "summary": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel) falou sobre a necessidade de mecanismos de otimização de rede e segurança devido ao crescimento de conexões e potência injetada, delegando à distribuidora a obrigação de estudos de inversão de fluxo de potência para evitar riscos à população e danos à rede. A Aneel está ciente dos problemas e já iniciou processos de fiscalização e aprimoramento de normas.",
       "speaker": {
         "name": "Pedro Mello Lombardi",
-        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)"
+        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)",
+        "slug": "pedro-mello-lombardi"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -284,7 +307,8 @@
       "summary": "Distribuidora's proposal? No, it's about inverted power flow in Neel's resolution, causing engineering issues such as overvoltage, reactive power, and harmonic disturbances. Abradee's Regulation Director emphasizes understanding engineering implications of power flow inversion.",
       "speaker": {
         "name": "Ricardo Brandão",
-        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)"
+        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+        "slug": "ricardo-brandao"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -307,7 +332,8 @@
       "summary": "Distribuidora faz investimento para inversão de fluxo elétrico, aumentando tarifa. Bidirecionalidade resolveria problema, evitando obra e mantendo tarifa. Trabalhar com fatos, não suposições.",
       "speaker": {
         "name": "Ricardo Brandão",
-        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)"
+        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+        "slug": "ricardo-brandao"
       }
     },
     {
@@ -319,7 +345,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -330,7 +357,8 @@
       "summary": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar) expressa preocupação sobre o descumprimento do passo-a-passo necessário pelas distribuidoras para tratar problema de inversão de fluxo. Critica falta de transparência e exige prova de rede sobrecarregada antes de negar conexões de consumidores geradores de energia. Argumenta que solução suggerida pela Aneel não é realista. O problema é descumprimento da norma que já existe.",
       "speaker": {
         "name": "Bárbara Rubim",
-        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)"
+        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)",
+        "slug": "barbara-rubim"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -353,7 +382,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -388,7 +420,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -399,7 +432,8 @@
       "summary": "Gerente de Regulação do Serviço de Distribuição-Aneel abordou pequeno consumidor em três aspectos: região adensada, aproveitamento energia, considerações.",
       "speaker": {
         "name": "Pedro Mello Lombardi",
-        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)"
+        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)",
+        "slug": "pedro-mello-lombardi"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -421,7 +456,8 @@
       "summary": "Aneel prioriza clareza em geração distribuída; vigila abuso de mercado; aceita denúncias formais; procura equilíbrio entre agentes e benefício social.",
       "speaker": {
         "name": "Pedro Mello Lombardi",
-        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)"
+        "position": "Gerente de Regulação do Serviço de Distribuição - Agência Nacional de Energia Elétrica (Aneel)",
+        "slug": "pedro-mello-lombardi"
       }
     },
     {
@@ -433,7 +469,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -444,7 +481,8 @@
       "summary": "Diretor Institucional-CEMIG agradeceu por opportunidade, mencionou tentativas de aprimoramento e aproximação com entidades, valorizou participação da BRAD, agência e Congresso Nacional, convidou comissão a visitar CEMIG para conhecer seu trabalho.",
       "speaker": {
         "name": "João Paulo Menna Barreto de Castro Ferreira",
-        "position": "Diretor Institucional - Companhia Energética Minas Gerais S/A (CEMIG)"
+        "position": "Diretor Institucional - Companhia Energética Minas Gerais S/A (CEMIG)",
+        "slug": "joao-paulo-menna-barreto-de-castro-ferreira"
       }
     },
     {
@@ -455,7 +493,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -466,7 +505,8 @@
       "summary": "A analista de relacionamento com clientes da Companhia Energética Minas Gerais afirma que a Cemig possui estudos detalhados sobre fluxo inverso e está pronta para aprofundar o assunto com a CMIC, fornecendo informações técnicas sobre alternativas de injeção noturna e fluxo inverso, além de estar disponível para ajudar em qualquer questão relacionada.",
       "speaker": {
         "name": "Fabio Pozzi Cesar",
-        "position": "Analista de Relacionamento com Clientes - Companhia Energética Minas Gerais"
+        "position": "Analista de Relacionamento com Clientes - Companhia Energética Minas Gerais",
+        "slug": "fabio-pozzi-cesar"
       }
     },
     {
@@ -478,7 +518,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -489,7 +530,8 @@
       "summary": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar) solicitou à comissão fiscalização efetiva e penalidades para distribuidoras que descumprem normas, citando prejuízos de seis bilhões de reais e fechamento de empresas. Essas ações visam proteger consumidores, que sofrem consequências da inação da agência e do descumprimento generalizado das distribuidoras.",
       "speaker": {
         "name": "Bárbara Rubim",
-        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)"
+        "position": "Vice-presidente de Geração Distribuída - Associação Brasileira de Energia Solar Fotovoltaica (Absolar)",
+        "slug": "barbara-rubim"
       }
     },
     {
@@ -500,7 +542,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -511,7 +554,8 @@
       "summary": "Diretor de Engenharia da CPFL Energia ressalta a importante participação da empresa em conectar novas gerações distribuídas a cada 4 minutos e meio, enquanto se esforça para aprimorar processos internos e buscar equilíbrio técnico e econômico, visando a modicidade tarifária e desempenho técnico. A CPFL está sempre disposta a contribuir em discussões do setor.",
       "speaker": {
         "name": "Caius Vinicius Sampaio Malagoli",
-        "position": "Diretor de Engenharia - CPFL Energia"
+        "position": "Diretor de Engenharia - CPFL Energia",
+        "slug": "caius-vinicius-sampaio-malagoli"
       }
     },
     {
@@ -523,7 +567,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -534,7 +579,8 @@
       "summary": "Distribuidoras buscam melhorar falhas, havendo esforços para corrigi-las. Reclamações em declínio, representando 0,06% do total de conexões. Boom inicial de GD causou problemas, mas melhoria em processos internos é notável. Distribuidoras responsáveis por aumento de GD, demonstrando boa performance geral. Falhas pontuais, ainda trabalham para sua redução.",
       "speaker": {
         "name": "Ricardo Brandão",
-        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)"
+        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+        "slug": "ricardo-brandao"
       }
     },
     {
@@ -546,7 +592,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -557,7 +604,8 @@
       "summary": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec): Reitera a importância do papel da ANEEL em investigar falhas e corrigir problemas relacionados à distribuição de energia. Destaca a competição por mercado nas empresas de distribuição e geração distribuída. Avisa sobre possíveis distorções causadas por políticas públicas que podem resultar em encargos adicionais para os consumidores. Suporta uma reforma urgente no setor elétrico.",
       "speaker": {
         "name": "Anton Altino Schwyter",
-        "position": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec)"
+        "position": "Consultor Técnico - Instituto Brasileiro de Defesa do Consumidor (Idec)",
+        "slug": "anton-altino-schwyter"
       }
     },
     {
@@ -569,7 +617,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Flávia Morais -- por Participante -- Socorro Neri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-flavia-morais-por-participante-socorro-neri"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -73,7 +78,8 @@
       "transcription": "Obrigada. E aí? Ela vai encerrar.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Socorro Neri -- por Participante -- Flávia Morais",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-socorro-neri-por-participante-flavia-morais"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     }
   ],

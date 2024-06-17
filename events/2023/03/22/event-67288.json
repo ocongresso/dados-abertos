@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Silva -- por Participante -- Rosângela Reis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-silva-por-participante-rosangela-reis"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Obrigada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rosângela Reis -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rosangela-reis-por-participante-ze-silva"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

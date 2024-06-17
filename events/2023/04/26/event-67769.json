@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Por favor para auxiliar o deputado Luiz Fernando que não está conseguindo dar presença. Informa aos novos colegas que não registraram a sua presença no painel, Além da eleição, da votação da eleição, tem que registrar a presença no painel também. Eu já tinha me apresentado pra você, eu trabalhei na presidência da república, governo Lula, Dilma, depois, previdência, Informo aos colegas que estão aqui representado pelas suas assessorias que liguem Para os deputados virem votar por gentileza, nós precisamos de no mínimo dezesseis. Rita. Ainda tem algum deputado votando? Encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204456,
         "name": "Gutemberg Reis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gutemberg-reis"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204456,
         "name": "Gutemberg Reis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gutemberg-reis"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -202,7 +218,8 @@
       "transcription": "Daí tem b requerimentos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Ricardo Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-ricardo-silva"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 141487,
         "name": "Luiz Fernando Faria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-fernando-faria"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 213274,
         "name": "Ricardo Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-silva"
       }
     }
   ],

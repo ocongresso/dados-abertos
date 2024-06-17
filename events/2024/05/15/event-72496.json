@@ -14,7 +14,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 204390,
         "name": "Professor Alcides",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "professor-alcides"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 220533,
         "name": "Prof. Reginaldo Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-reginaldo-veras"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 220582,
         "name": "Daniel Barbosa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-barbosa"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -307,7 +332,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -330,7 +357,8 @@
       "speaker": {
         "id": 204390,
         "name": "Professor Alcides",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "professor-alcides"
       }
     },
     {
@@ -342,7 +370,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -354,7 +383,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -366,7 +396,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -378,7 +409,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -390,7 +422,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 204390,
         "name": "Professor Alcides",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "professor-alcides"
       }
     },
     {
@@ -413,7 +447,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -472,7 +511,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 204390,
         "name": "Professor Alcides",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "professor-alcides"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -507,7 +549,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -518,7 +561,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -530,7 +574,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -541,7 +586,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -553,7 +599,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -565,7 +612,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -577,7 +625,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -589,7 +638,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -599,7 +649,8 @@
       "transcription": "Pois não deputado. Bom dia presidente.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Nikolas Ferreira -- por Participante -- Átila Lira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-nikolas-ferreira-por-participante-atila-lira"
       }
     },
     {
@@ -611,7 +662,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -623,7 +675,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -634,7 +687,8 @@
       "speaker": {
         "id": 123086,
         "name": "Átila Lira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lira"
       }
     }
   ],

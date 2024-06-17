@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 0,
         "name": "Rafael Dall Alba",
-        "position": "Consultor - Organização Panamericana da Saúde - OPAS"
+        "position": "Consultor - Organização Panamericana da Saúde - OPAS",
+        "slug": "rafael-dall-alba"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 0,
         "name": "Eliane Maria Nogueira Paiva Cunha",
-        "position": "Coordenadora Adjunta da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS"
+        "position": "Coordenadora Adjunta da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS",
+        "slug": "eliane-maria-nogueira-paiva-cunha"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 0,
         "name": "Joseane Carvalho Costa",
-        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar"
+        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+        "slug": "joseane-carvalho-costa"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 0,
         "name": "Lídia Guajajara",
-        "position": "Representante - Ministério dos Povos Indígenas"
+        "position": "Representante - Ministério dos Povos Indígenas",
+        "slug": "lidia-guajajara"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 0,
         "name": "Karen Berenice Denez",
-        "position": "Secretária-Executiva - Rede PICS Brasil"
+        "position": "Secretária-Executiva - Rede PICS Brasil",
+        "slug": "karen-berenice-denez"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 0,
         "name": "Patrícia Franco Marques",
-        "position": "Coordenadora-Geral - Coordenação de Residências em Saúde da Secretaria de Educação Superior - MEC"
+        "position": "Coordenadora-Geral - Coordenação de Residências em Saúde da Secretaria de Educação Superior - MEC",
+        "slug": "patricia-franco-marques"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 0,
         "name": "Marcos Pedrosa",
-        "position": "Assessor - Secretaria de Atenção Primária - Ministério da Saúde"
+        "position": "Assessor - Secretaria de Atenção Primária - Ministério da Saúde",
+        "slug": "marcos-pedrosa"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -191,7 +206,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Lima -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-lima-por-participante-erika-kokay"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Malaguti",
-        "position": "Chefe de Serviço de Gestão do Cuidado Assistencial da Diretoria de Atenção à Saúde - Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+        "position": "Chefe de Serviço de Gestão do Cuidado Assistencial da Diretoria de Atenção à Saúde - Empresa Brasileira de Serviços Hospitalares (Ebserh)",
+        "slug": "ricardo-malaguti"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 0,
         "name": "Abrahão Nunes da Silva",
-        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS"
+        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS",
+        "slug": "abrahao-nunes-da-silva"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 0,
         "name": "Islândia Maria Carvalho de Sousa",
-        "position": "Pesquisadora - ObservaPICS/Fiocruz"
+        "position": "Pesquisadora - ObservaPICS/Fiocruz",
+        "slug": "islandia-maria-carvalho-de-sousa"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 0,
         "name": "Nelson Filice de Barros",
-        "position": "Professor - Unicamp"
+        "position": "Professor - Unicamp",
+        "slug": "nelson-filice-de-barros"
       }
     },
     {
@@ -297,7 +321,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 0,
         "name": "Iracema Benevides",
-        "position": "Pesquisadora - RedePICS Brasil"
+        "position": "Pesquisadora - RedePICS Brasil",
+        "slug": "iracema-benevides"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -332,7 +359,8 @@
       "summary": " Participante propõe avançar na integração de categorias profissionais, como naturólogos, em políticas de saúde e recursos humanos, no contexto de desafios e conquistas alcançadas. Ela é da AbraTECON e coordena o primeiro curso de Natorlogia com ênfase em saúde coletiva, em uma universidade pública.",
       "speaker": {
         "name": "MILENE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "milene"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -356,7 +385,8 @@
       "speaker": {
         "id": 0,
         "name": "Marcos Pedrosa",
-        "position": "Assessor - Secretaria de Atenção Primária - Ministério da Saúde"
+        "position": "Assessor - Secretaria de Atenção Primária - Ministério da Saúde",
+        "slug": "marcos-pedrosa"
       }
     },
     {
@@ -368,7 +398,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -380,7 +411,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Malaguti",
-        "position": "Chefe de Serviço de Gestão do Cuidado Assistencial da Diretoria de Atenção à Saúde - Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+        "position": "Chefe de Serviço de Gestão do Cuidado Assistencial da Diretoria de Atenção à Saúde - Empresa Brasileira de Serviços Hospitalares (Ebserh)",
+        "slug": "ricardo-malaguti"
       }
     },
     {
@@ -391,7 +423,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 0,
         "name": "Abrahão Nunes da Silva",
-        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS"
+        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS",
+        "slug": "abrahao-nunes-da-silva"
       }
     },
     {
@@ -414,7 +448,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -426,7 +461,8 @@
       "speaker": {
         "id": 0,
         "name": "Islândia Maria Carvalho de Sousa",
-        "position": "Pesquisadora - ObservaPICS/Fiocruz"
+        "position": "Pesquisadora - ObservaPICS/Fiocruz",
+        "slug": "islandia-maria-carvalho-de-sousa"
       }
     },
     {
@@ -438,7 +474,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -450,7 +487,8 @@
       "speaker": {
         "id": 0,
         "name": "Nelson Filice de Barros",
-        "position": "Professor - Unicamp"
+        "position": "Professor - Unicamp",
+        "slug": "nelson-filice-de-barros"
       }
     },
     {
@@ -461,7 +499,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -473,7 +512,8 @@
       "speaker": {
         "id": 0,
         "name": "Iracema Benevides",
-        "position": "Pesquisadora - RedePICS Brasil"
+        "position": "Pesquisadora - RedePICS Brasil",
+        "slug": "iracema-benevides"
       }
     },
     {
@@ -485,7 +525,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -495,7 +536,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -505,7 +547,8 @@
       "transcription": "\nTeste de áudio para web dois três quatro, testando áudio web dois três quatro, testando áudio dois.\n\nAlô, alô, oi, oi. Boa tarde Jefferson. O senhor nos ouve? Alô? Boa tarde.\n\nBoa tarde Jefferson. Olha, eu peço desculpas, o que que aconteceu? Atrasou bastante aqui de manhã, hoje está tendo marcha pessoal está começando a voltar agora, tá. Por ficou marcado até as duas e meia, a pessoa está começando a voltar agora, tá? Podemos aproveitar então pra fazer o seu teste de áudio e de vídeo?\n\nO senhor consegue conversar pouquinho com a gente pra gente ver como é que está seu áudio? Alô? Jefferson, a gente não te ouve. Pois é Jefferson, você nos ouve, mas olha só, o teu vídeo está travando o tempo todo, você está bem pixelado e a gente não está te ouvindo, mesmo seu microfone estando aberto. Está parecendo que a sua a sua conexão de internet que está muito lenta.\n\nJefferson, tenta sair e entrar de novo?\n\nIsto.\n\nTenta entrar.\n\nE a Josefa em sexto. O deputado padre João gosta que é o terno. Obra e mulher?\n\nOi? Não não, desculpa, alterne presencial e virtual. Tem uns que preferem presencial primeiro, virtual depois,\n\nele gosta de alternar. Aí aqui ficou,\n\nSão os virtuais, só que\n\nJosiane é aquela que está no\n\ncontrole né? Josiane é aquela que está sentada do teu lado, de na na primeira mesa tá? A Josiane é a de verde óculos cabelinho lisinho. O\n\nVitor, eu que está em pé Tá, é aquele mais alto, isto.\n\nO Ricardo eu não sei se ele já chegou.\n\nEu vou perguntar aqui, eu vou perguntar. Oi Carlos, quando chegou não.\n\nEstava de manhã? Você viu ele? Tá, então tá. E a Josefa? Boa tarde pessoal, por acaso a senhora Josefa se encontra já aqui no auditório?\n\nAlô? Jefferson? Boa tarde Jefferson. Olha melhorou pouco seu vídeo sim. Mas olha só Jefferson, imagino que você esteja ouvindo a gente, está parecendo uma mensagem pra gente dizendo o seguinte, a largura de banda da rede de Jefferson Pereira Caldas dos Santos é baixa, então é a sua internet mesmo que está com com problema.\n\nPode pra ele falar alguma coisa.\n\nVocê consegue falar alguma coisa com a gente? Pra gente ver como é que está? Se a gente consegue te ouvir?\n\nJefferson? Você consegue me me ouvir? Jefferson, boa tarde. Ele não está ouvindo. E sabe o que que é o pior?\n\nQue aqui quando tento escrever está falando como se ele não estivesse oh. Não está nesta reunião. E aqui?\n\nFica de prejuízo a participação da plenária, eu não sei como é que foi pela manhã.\n\nFoi, fui super atrasada.",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -515,7 +558,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -527,7 +571,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -539,7 +584,8 @@
       "speaker": {
         "id": 0,
         "name": "Joseane Carvalho Costa",
-        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar"
+        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+        "slug": "joseane-carvalho-costa"
       }
     },
     {
@@ -551,7 +597,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -562,7 +609,8 @@
       "speaker": {
         "id": 0,
         "name": "Jefferson Caldas dos Santos",
-        "position": "Coordenador Nacional da Rede de Inovação em Medicamentos da Biodiversidade - Redes Fito - Fiocruz"
+        "position": "Coordenador Nacional da Rede de Inovação em Medicamentos da Biodiversidade - Redes Fito - Fiocruz",
+        "slug": "jefferson-caldas-dos-santos"
       }
     },
     {
@@ -574,7 +622,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -585,7 +634,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Ghelman",
-        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa"
+        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa",
+        "slug": "ricardo-ghelman"
       }
     },
     {
@@ -597,7 +647,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -609,7 +660,8 @@
       "speaker": {
         "id": 0,
         "name": "Victor Doneida",
-        "position": "Consultor - Secretaria de Ciência, Tecnologia e Inovação do Complexo Econômico-Industrial da Saúde - MS"
+        "position": "Consultor - Secretaria de Ciência, Tecnologia e Inovação do Complexo Econômico-Industrial da Saúde - MS",
+        "slug": "victor-doneida"
       }
     },
     {
@@ -621,7 +673,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -633,7 +686,8 @@
       "speaker": {
         "id": 0,
         "name": "Leleco Pimentel",
-        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais"
+        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais",
+        "slug": "leleco-pimentel"
       }
     },
     {
@@ -645,7 +699,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -657,7 +712,8 @@
       "speaker": {
         "id": 0,
         "name": "Leleco Pimentel",
-        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais"
+        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais",
+        "slug": "leleco-pimentel"
       }
     },
     {
@@ -669,7 +725,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -681,7 +738,8 @@
       "speaker": {
         "id": 0,
         "name": "Karen Berenice Denez",
-        "position": "Secretária-Executiva - Rede PICS Brasil"
+        "position": "Secretária-Executiva - Rede PICS Brasil",
+        "slug": "karen-berenice-denez"
       }
     },
     {
@@ -693,7 +751,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -704,7 +763,8 @@
       "summary": " Participante mostrou interesse no diálogo entre Joseane, Jefferson, Vitor e Ricardo sobre avanços e necessidade de mais diálogo. Perguntou sobre discussão e diálogo do PL em homeopatia na agricultura, surpreso por sua existência, e quem e como é feita essa discussão no ministério ou entre ministérios. Elogiou as iniciativas.",
       "speaker": {
         "name": "Platéia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "plateia"
       }
     },
     {
@@ -716,7 +776,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -727,7 +788,8 @@
       "summary": " Participante valoriza serra de Planaltina por xarope de guaffe e farmácia viva, deseja mais envolvimento da secretaria de saúde e convida a visitar Ser PIS em Planaltina.",
       "speaker": {
         "name": "Platéia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "plateia"
       }
     },
     {
@@ -739,7 +801,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -750,7 +813,8 @@
       "summary": " Professora e ex-secretária de saúde apela por operacionalização de conquistas legais em gestão, envolvendo gestores estaduais e municipais do SUS, para facilitar acesso a participação e envolvimento de profissionais e gestores em processos restritos a conhecimento específico.",
       "speaker": {
         "name": "Platéia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "plateia"
       }
     },
     {
@@ -762,7 +826,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -774,7 +839,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Ghelman",
-        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa"
+        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa",
+        "slug": "ricardo-ghelman"
       }
     },
     {
@@ -786,7 +852,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -798,7 +865,8 @@
       "speaker": {
         "id": 0,
         "name": "Joseane Carvalho Costa",
-        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar"
+        "position": "Representante - Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+        "slug": "joseane-carvalho-costa"
       }
     },
     {
@@ -810,7 +878,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -822,7 +891,8 @@
       "speaker": {
         "id": 0,
         "name": "Jefferson Caldas dos Santos",
-        "position": "Coordenador Nacional da Rede de Inovação em Medicamentos da Biodiversidade - Redes Fito - Fiocruz"
+        "position": "Coordenador Nacional da Rede de Inovação em Medicamentos da Biodiversidade - Redes Fito - Fiocruz",
+        "slug": "jefferson-caldas-dos-santos"
       }
     },
     {
@@ -834,7 +904,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -846,7 +917,8 @@
       "speaker": {
         "id": 0,
         "name": "Victor Doneida",
-        "position": "Consultor - Secretaria de Ciência, Tecnologia e Inovação do Complexo Econômico-Industrial da Saúde - MS"
+        "position": "Consultor - Secretaria de Ciência, Tecnologia e Inovação do Complexo Econômico-Industrial da Saúde - MS",
+        "slug": "victor-doneida"
       }
     },
     {
@@ -858,7 +930,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -870,7 +943,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Ghelman",
-        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa"
+        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa",
+        "slug": "ricardo-ghelman"
       }
     },
     {
@@ -882,7 +956,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -894,7 +969,8 @@
       "speaker": {
         "id": 0,
         "name": "Leleco Pimentel",
-        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais"
+        "position": "Deputado Estadual - Assembleia Legislativa de Minas Gerais",
+        "slug": "leleco-pimentel"
       }
     },
     {
@@ -905,7 +981,8 @@
       "speaker": {
         "id": 0,
         "name": "Troca da mesa -- Presidente -- Padre João -- por Participante -- Juliana Cardoso",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padre-joao-por-participante-juliana-cardoso"
       }
     },
     {
@@ -917,7 +994,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -929,7 +1007,8 @@
       "speaker": {
         "id": 0,
         "name": "Rafael Dall Alba",
-        "position": "Consultor - Organização Panamericana da Saúde - OPAS"
+        "position": "Consultor - Organização Panamericana da Saúde - OPAS",
+        "slug": "rafael-dall-alba"
       }
     },
     {
@@ -941,7 +1020,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -953,7 +1033,8 @@
       "speaker": {
         "id": 0,
         "name": "Rafael Dall Alba",
-        "position": "Consultor - Organização Panamericana da Saúde - OPAS"
+        "position": "Consultor - Organização Panamericana da Saúde - OPAS",
+        "slug": "rafael-dall-alba"
       }
     },
     {
@@ -964,7 +1045,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -976,7 +1058,8 @@
       "speaker": {
         "id": 0,
         "name": "Bahyyeh Ahmadpour",
-        "position": "Coordenadora - Coordenação de Atributos, Promoção e Saúde Digital da Saúde Indígena - MS"
+        "position": "Coordenadora - Coordenação de Atributos, Promoção e Saúde Digital da Saúde Indígena - MS",
+        "slug": "bahyyeh-ahmadpour"
       }
     },
     {
@@ -987,7 +1070,8 @@
       "speaker": {
         "id": 0,
         "name": "Putira Sacuena",
-        "position": "Assessora - Departamento de Atenção Primária à Saúde Indígena, da Secretaria de Saúde Indígena - MS"
+        "position": "Assessora - Departamento de Atenção Primária à Saúde Indígena, da Secretaria de Saúde Indígena - MS",
+        "slug": "putira-sacuena"
       }
     },
     {
@@ -999,7 +1083,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1010,7 +1095,8 @@
       "summary": " Participante falou sobre sua experiência pessoal com parto em casa e a importância de parteiras no Amazonas, particularmente em áreas remotas como Tabatinga, onde viajar por rio pode demorar dias. Também mencionou que sua mãe teve oito filhos em casa com a ajuda de parteiras, considerando-o um dom de Deus.",
       "speaker": {
         "name": "Platéia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "plateia"
       }
     },
     {
@@ -1021,7 +1107,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1033,7 +1120,8 @@
       "speaker": {
         "id": 0,
         "name": "Ricardo Ghelman",
-        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa"
+        "position": "Diretor Vice-Presidente - Consórcio Acadêmico Brasileiro de Saúde Integrativa",
+        "slug": "ricardo-ghelman"
       }
     },
     {
@@ -1045,7 +1133,8 @@
       "speaker": {
         "id": 0,
         "name": "Islândia Maria Carvalho de Sousa",
-        "position": "Pesquisadora - ObservaPICS/Fiocruz"
+        "position": "Pesquisadora - ObservaPICS/Fiocruz",
+        "slug": "islandia-maria-carvalho-de-sousa"
       }
     },
     {
@@ -1056,7 +1145,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1068,7 +1158,8 @@
       "speaker": {
         "id": 0,
         "name": "Abrahão Nunes da Silva",
-        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS"
+        "position": "Coordenador da Comissão CIPPSPICS/CNS - Conselho Nacional de Saúde - CNS",
+        "slug": "abrahao-nunes-da-silva"
       }
     },
     {
@@ -1080,7 +1171,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1092,7 +1184,8 @@
       "speaker": {
         "id": 0,
         "name": "Rafael Dall Alba",
-        "position": "Consultor - Organização Panamericana da Saúde - OPAS"
+        "position": "Consultor - Organização Panamericana da Saúde - OPAS",
+        "slug": "rafael-dall-alba"
       }
     },
     {
@@ -1104,7 +1197,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -1116,7 +1210,8 @@
       "speaker": {
         "id": 0,
         "name": "Bahyyeh Ahmadpour",
-        "position": "Coordenadora - Coordenação de Atributos, Promoção e Saúde Digital da Saúde Indígena - MS"
+        "position": "Coordenadora - Coordenação de Atributos, Promoção e Saúde Digital da Saúde Indígena - MS",
+        "slug": "bahyyeh-ahmadpour"
       }
     },
     {
@@ -1128,7 +1223,8 @@
       "speaker": {
         "id": 0,
         "name": "Putira Sacuena",
-        "position": "Assessora - Departamento de Atenção Primária à Saúde Indígena, da Secretaria de Saúde Indígena - MS"
+        "position": "Assessora - Departamento de Atenção Primária à Saúde Indígena, da Secretaria de Saúde Indígena - MS",
+        "slug": "putira-sacuena"
       }
     },
     {
@@ -1140,9 +1236,10 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     }
   ],
-  "updated_at": 1716547583
+  "updated_at": 1716625192
 }

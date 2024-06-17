@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Em 2018: implantou prontuário eletrônico e gestão de doenças crônicas.",
       "speaker": {
         "name": "Regina Maura",
-        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)"
+        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)",
+        "slug": "regina-maura"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretaria Municipal de Pouso Alegre (MG) agradece convite, inspira-se no caminho de São Caetano, estressa importância de participação em eventos, representa cidade com 155.200 habitantes.",
       "speaker": {
         "name": "Silvia Regina",
-        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)"
+        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)",
+        "slug": "silvia-regina"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Pouso Alegre (MG) tem 152 mil habitantes e 80% de unidades de saúde da família. A Secretaria Municipal procura integrar sistemas e saúde digital, como no rastreamento de câncer de mama. Embora o uso de ferramentas digitais para questionários à mulheres não tenha obtido sucesso, ele ajuda na gestão e tomada de decisão. Outro projeto inclui exames em UPA com resultados em tempo real. A meta é regularizar e amplamente aceitar o prontuário único no município.",
       "speaker": {
         "name": "Silvia Regina",
-        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)"
+        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)",
+        "slug": "silvia-regina"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Gerente de Produtos Controlados Substituto da ANVISA abordou controle de substâncias no Brasil, regulado por três convenções internacionais da ONU. Existem regras para prescrição e dispensação de entorpecentes e psicotrópicos, com formulários oficiais e controle eletrônico permitido por lei. A Anvisa trabalha na regulamentação do controle eletrônico e inclui antimicrobianos.",
       "speaker": {
         "name": "Thiago Brasil Silverio",
-        "position": "Gerente de Produtos Controlados Substituto - ANVISA"
+        "position": "Gerente de Produtos Controlados Substituto - ANVISA",
+        "slug": "thiago-brasil-silverio"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Início entrega medicamentos em casa no Distrito Federal durante pandemia por filas excessivas e necessidade de isolamento social. A serviço é bem-sucedido e alcança quase 45 mil usuários cadastrados, atendendo doenças crônicas e raras. Pacientes recebem medicamentos em casa após agendamento e receitas psicotrópicas controladas são entregues com treinamento especial para os motoristas.",
       "speaker": {
         "name": "Samara Furtado Carneiro",
-        "position": "Sub-secretária de Logística em Saúde - Secretaria de Saúde do Distrito Federal"
+        "position": "Sub-secretária de Logística em Saúde - Secretaria de Saúde do Distrito Federal",
+        "slug": "samara-furtado-carneiro"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Coordenador Especial em TI - SES-DF anunciou colaboração com FUN Rio para implementar telessaúde no GDF, com diagnóstico concluído e planejamento para contratação em andamento, esperando trazer benefícios da telessaúde ao Distrito Federal.",
       "speaker": {
         "name": "Reginaldo Passos",
-        "position": "Coordenador Especial em TI - SES-DF"
+        "position": "Coordenador Especial em TI - SES-DF",
+        "slug": "reginaldo-passos"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -166,7 +179,8 @@
       "transcription": "Já esse modelo que a gente aprovou aqui no GDF. Então parabéns pelo Distrito",
       "speaker": {
         "name": "Reginaldo Passos",
-        "position": "Coordenador Especial em TI - SES-DF"
+        "position": "Coordenador Especial em TI - SES-DF",
+        "slug": "reginaldo-passos"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Movimento Inovação Digital promove acesso à saúde por meio de ferramentas digitais, congregando empresas de diferentes setores. O Comitê de Saúde Digital visa potencializar acesso a serviços de saúde com ferramentas digitais, destacando interoperabilidade e atendimento a necessidades de pacientes crônicos. Regulação, preparo de profissionais de saúde e políticas de incentivo à digitalização são fundamentais.",
       "speaker": {
         "name": "Julia Cestari",
-        "position": "Movimento Inovação Digital"
+        "position": "Movimento Inovação Digital",
+        "slug": "julia-cestari"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Presidente - Saúde Digital Brasil enfatizou utilidade de ferramentas digitais em cuidados de saúde, transformando atendimento reativo e paternalista em proativo e centrado no paciente, visando integrar dados, envolver pacientes em decisões, melhorar eficiência, acesso e qualidade do sistema. Mencionados exemplos com redução de desperdícios, custos e aumento de adesão a tratamentos.",
       "speaker": {
         "name": "Carlos Pedrotti",
-        "position": "Presidente - Saúde Digital Brasil"
+        "position": "Presidente - Saúde Digital Brasil",
+        "slug": "carlos-pedrotti"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Secretaria Municipal de Saúde de São Caetano do Sul (SP) usou aplicativos e mídias sociais para agenda de vacinas e consultas, reduzindo assenteísmo e oferecendo telemedicina com alta satisfação (94%), atendendo idosos e usando Taitocare, procurando interoperabilidade com setor privado para prontuário único do cidadão.",
       "speaker": {
         "name": "Regina Maura",
-        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)"
+        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)",
+        "slug": "regina-maura"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Secretaria Municipal de Saúde de São Caetano do Sul (SP) utiliza robô no WhatsApp para agendar consultas, permitir retornos sobre presença nas consultas, e receber reclamações e sugestões por meio da ouvidoria de saúde e farmácia. A telemedicina melhorou o acesso do paciente à medicina no Brasil.",
       "speaker": {
         "name": "Regina Maura",
-        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)"
+        "position": "Secretária Municipal de Saúde de São Caetano do Sul (SP) - Secretaria Municipal de Saúde de São Caetano do Sul (SP)",
+        "slug": "regina-maura"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Secretaria Municipal de Pouso Alegre (MG) participa do programa estadual Saúde em Rede, integração de atenção especializada e primária em todos os segmentos, agora na terceira onda do projeto, procurando aproveitar parcerias e expertise de outros fornecedores para fortalecer a saúde digital do paciente.",
       "speaker": {
         "name": "Silvia Regina",
-        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)"
+        "position": "Secretária Municipal de Pouso Alegre (MG) - Secretaria Municipal de Pouso Alegre (MG)",
+        "slug": "silvia-regina"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Gerente de Produtos Controlados Substituto - ANVISA prioriza interoperabilidade em validação de documentos e autenticidade, visando expandir esse recurso para o registro de dispensação e garantir interoperabilidade entre setor público e privado, mantendo a salvaguarda do controle e proteção à saúde.",
       "speaker": {
         "name": "Thiago Brasil Silverio",
-        "position": "Gerente de Produtos Controlados Substituto - ANVISA"
+        "position": "Gerente de Produtos Controlados Substituto - ANVISA",
+        "slug": "thiago-brasil-silverio"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Sub-secretária de Logística em Saúde - Secretaria de Saúde do Distrito Federal emphasized the importance of telesaudade and digital transformation in the WHO's agenda. She discussed the need to meet this goal, considering the rapid evolution of society and the digital nature of today's generation. She mentioned resistance to the new system but affirmed that delivery of medications at home was successfully implemented, and resources were allocated for telemedicine in the Federal District.",
       "speaker": {
         "name": "Samara Furtado Carneiro",
-        "position": "Sub-secretária de Logística em Saúde - Secretaria de Saúde do Distrito Federal"
+        "position": "Sub-secretária de Logística em Saúde - Secretaria de Saúde do Distrito Federal",
+        "slug": "samara-furtado-carneiro"
       }
     },
     {
@@ -338,7 +366,8 @@
       "summary": "Coordenador Especial em TI - SES-DF sobre programa de dispensação: houve parceria em tecnologia e logística com empresa de logística do BRB, reduzindo custos de entregas. Agradecimento ao convite e reconhecimento de desafios comuns na interoperabilidade entre sistemas de saúde do DF. Disponibilidade para ajudar.",
       "speaker": {
         "name": "Reginaldo Passos",
-        "position": "Coordenador Especial em TI - SES-DF"
+        "position": "Coordenador Especial em TI - SES-DF",
+        "slug": "reginaldo-passos"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -385,7 +417,8 @@
       "summary": "Movimento Inovação Digital destaca importância de ferramentas digitais em saúde para aprimorar experiência do paciente, proporcionar atendimento humanizado e facilitar burocracia. Políticas públicas devem considerar diferentes perspectivas para construir políticas relevantes de saúde digital, em colaboração com gestores e reguladores.",
       "speaker": {
         "name": "Julia Cestari",
-        "position": "Movimento Inovação Digital"
+        "position": "Movimento Inovação Digital",
+        "slug": "julia-cestari"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -408,7 +442,8 @@
       "summary": "Presidente - Saúde Digital Brasil disse:",
       "speaker": {
         "name": "Carlos Pedrotti",
-        "position": "Presidente - Saúde Digital Brasil"
+        "position": "Presidente - Saúde Digital Brasil",
+        "slug": "carlos-pedrotti"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     }
   ],

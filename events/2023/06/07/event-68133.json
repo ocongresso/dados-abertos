@@ -17,7 +17,8 @@
       "summary": "Reunião pública discute projeto de lei sobre planos de saúde privados; Presentes ministério da Saúde, Senacon, Procuradoria-Geral, Idec, Abres, FGV, Procons, ANS e outros; Palestras com duração de 20 minutos cada, seguidas de discussão; Objetivo melhorar acesso e sustentabilidade de planos de saúde; Deputado incentiva contribuições organizadas e fundamentadas.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Presidente do Instituto Brasileiro de Política e Direito do Consumidor destacou importância de evitar retrocesso na saúde complementar, necessidade de interpretação favorável ao consumidor em Código de Defesa do Consumidor e saúde, verticalidade de planos de saúde em relação a pessoas com deficiência, proposta de maior interação entre SUS, ANS e operadoras, e melhor regulação de informações entre sistemas público e privado de saúde.",
       "speaker": {
         "name": "FERNANDO RODRIGUES MARTINS",
-        "position": "Presidente - Instituto Brasileiro de Política e Direito do Consumidor"
+        "position": "Presidente - Instituto Brasileiro de Política e Direito do Consumidor",
+        "slug": "fernando-rodrigues-martins"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Deputado realizando sequência de audiências públicas nacionais sobre melhoria de serviço de saúde, quer ouvir contribuições de todos, especialmente prestadores e operadoras, para construção de texto justo e sustentável. Próxima audiência em Recife.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Diretor do Departamento de Atenção Hospitalar e de Urgência do Ministério da Saúde destaca importância de universalidade, equidade e integralidade na saúde. Discute melhoria de qualidade, fiscalização e transparência na saúde suplementar, promovendo regulação de acesso e procedimentos para evitar desigualdade no atendimento. Rejeita propostas que reduzam acesso ou o fragmentem.",
       "speaker": {
         "name": "NILTON PEREIRA JÚNIOR",
-        "position": "Diretor do Departamento de Atenção Hospitalar e de Urgência - Ministério da Saúde"
+        "position": "Diretor do Departamento de Atenção Hospitalar e de Urgência - Ministério da Saúde",
+        "slug": "nilton-pereira-junior"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Deputado agradeceu e passou a palavra para o Secretário da Secretaria Nacional de Defesa do Consumidor, fazendo referência ao Ministério da Saúde.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Secretário da Secretaria Nacional de Defesa do Consumidor fala sobre problemas com plano de saúde no Brasil, como alto custo e fraude médica. Destaca a necessidade de regulamentação e boa assistência médica, além de complementariedade entre SUS e operadoras de plano de saúde. Menciona também a falta de acesso à saúde para boa parte da população.",
       "speaker": {
         "name": "WADIH DAMOUS",
-        "position": "Secretário - Secretaria Nacional de Defesa do Consumidor"
+        "position": "Secretário - Secretaria Nacional de Defesa do Consumidor",
+        "slug": "wadih-damous"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Deputado questiona ausência de operadoras de planos de saúde em audiência, admite conhecimento limitado e deseja mais informações para regulamentar sem criar problemas; salienta a necessidade de regulação de planos de saúde coletivos, limitação de reajustes e aplicação do Código de Defesa do Consumidor a planos de autogestão; propõe fiscalização dos prestadores de serviço e solicitação de exames por outros profissionais.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Procurador da República - Ministério Público Federal do Estado do Maranhão aborda desafios da saúde suplementar no Brasil, como escassez, inflação médica, e ineficiências. Advoga enquadramento jurídico para tratamento equânime e humanizado, regulação de planos coletivos, simplificação de contratos, limitação de reajustes expulsórios, investimento em eficiência e incentivo ao dever de cuidado para diminuir sinistralidade.",
       "speaker": {
         "name": "HILTON ARAÚJO MELO",
-        "position": "Procurador da República - Ministério Público Federal do Estado do Maranhão"
+        "position": "Procurador da República - Ministério Público Federal do Estado do Maranhão",
+        "slug": "hilton-araujo-melo"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Deputado discute importância de boa qualidade e acesso a saúde, exemplificando com caso de negativa de plano de saúde a uma criança. Sua proposta é unir esforços para atualizar leis e fiscalizar prestação de serviços, buscando a sustentabilidade das operadoras de plano de saúde, mas priorizando a vida e saúde das pessoas.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "A Coordenação do Programa de Saúde do Idec:",
       "speaker": {
         "name": "ANA CAROLINA NAVARRETE",
-        "position": "Coordenadora do Programa de Saúde - Instittuto Nacional de Defesa do Consumidor - Idec"
+        "position": "Coordenadora do Programa de Saúde - Instittuto Nacional de Defesa do Consumidor - Idec",
+        "slug": "ana-carolina-navarrete"
       }
     },
     {
@@ -127,7 +137,8 @@
       "summary": "Deputado agradece contribuições técnicas do IDEC para relatório, mencionando nominalmente equipe ao apresentá-lo e passa a palavra para economista Rodrigo Mendes Leal da Abrese.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -138,7 +149,8 @@
       "summary": "Diretor ABRES discute desafios regulamentação planos saúde, propõe regulação similar contratos pequenos e grandes, fortalecer regulamentação mercado planos saúde, debate importante para melhoria saúde.",
       "speaker": {
         "name": "RODRIGO MENDES LEAL",
-        "position": "Diretor - Associação Brasileira de Economia da Saúde - ABRES"
+        "position": "Diretor - Associação Brasileira de Economia da Saúde - ABRES",
+        "slug": "rodrigo-mendes-leal"
       }
     },
     {
@@ -149,7 +161,8 @@
       "summary": "Deputado agradece fala e pede pesquisas de doutorado; menciona campanha automática e passa a palavra a diretor de pesquisa.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -160,7 +173,8 @@
       "summary": "Sistema de saúde público e privado se comunicam complexamente; mudanças regulatórias impactam ambos. Boa regulação necessária para evitar morte de mercados e beneficiar população. Importância da regulação igual em segmentos do sistema de saúde. Necessidade de financiamento da saúde aumentará, impactando pensões. Equilíbrio geral e dinâmico precisam ser considerados em mudanças regulatórias. Debate sobre saúde deve ser aberto e ativo na sociedade civil.",
       "speaker": {
         "name": "RUDI ROCHA",
-        "position": "Coordenador de Pesquisa - Instituto de Estudos para Políticas de Saúde - IEPS"
+        "position": "Coordenador de Pesquisa - Instituto de Estudos para Políticas de Saúde - IEPS",
+        "slug": "rudi-rocha"
       }
     },
     {
@@ -171,7 +185,8 @@
       "summary": "Deputado agradece Rud Rocha, disponível para outras colaborações, dá palavra para Karen Barros, co-palestra Márcia Moro, Karen preparou apresentação. Boa tarde a todos.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -182,7 +197,8 @@
       "summary": "PROCON/MA prioriza atendimento de reclamações sobre planos de saúde; denuncia recusas injustificadas, falta de notificação prévia e procedimentos negados com solicitação médica. Menciona possível mudança no marco legislativo e regulamentação de planos coletivos para melhorar o atendimento. PROCON/MA critica verticalização de serviços nas operadoras de planos de saúde e se compromete a proteger consumidores vulneráveis e melhorar o cenário atual.",
       "speaker": {
         "name": "KAREN TAVEIRA BARROS",
-        "position": "Presidente - Instituto de Promoção e Defesa do Cidadão e Consumidor do Maranhão - PROCON/MA"
+        "position": "Presidente - Instituto de Promoção e Defesa do Cidadão e Consumidor do Maranhão - PROCON/MA",
+        "slug": "karen-taveira-barros"
       }
     },
     {
@@ -193,7 +209,8 @@
       "summary": "Deputado refere problemática de planos de autogestão, como Cassi, não cobertos pelo Código de Defesa do Consumidor, causando dificuldades ao consumidor e aumento de judicializações. Menciona alto custo de entrar com ação e propõe ampliação da aplicação do código a esses casos.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -204,7 +221,8 @@
       "summary": "PROCONS Brasil: tema délico, transparência importante; trata-se de atitudes prejudiciais às operadoras de saúde há 17 anos, impactando milhares de consumidores; necessário equilíbrio na legislação entre planos de saúde e usuários, fortalecendo ANS; urgência em revisar legislação; problemas com planos coletivos e autogestão; judicializações frequentes; necessidade de garantia imediata de indenizações e vedação a decisões unilaterais; limitações impostas a prestadores.",
       "speaker": {
         "name": "Márcia Mouro",
-        "position": "PROCONS Brasil"
+        "position": "PROCONS Brasil",
+        "slug": "marcia-mouro"
       }
     },
     {
@@ -215,7 +233,8 @@
       "summary": "Deputado se declara feliz pela participação reiterada na audiência do Rio de Janeiro, agradece à Ana do IDE e anuncia que quem estiver presente e desejar falar ainda poderá fazê-lo, passando a palavra ao senhor Paulo Roberto Vanderlei Rebelo Filho, presidente da ANS.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -226,7 +245,8 @@
       "summary": "Diretor-Presidente da Agência Nacional de Saúde Suplementar satisfeito por participar de debate sobre saúde suplementar, reconhece importância do tema. Ele discute desafios estruturantes, necessidade de regulamentação abrangente, pequenas operadoras, promete estudos sobre reajuste, ponto de risco, e rescisão unilateral. Agência realizou ações durante pandemia, como inclusão de testes de ouro e ampliação da portabilidade.",
       "speaker": {
         "name": "PAULO REBELLO VANDERLEI REBELLO FILHO",
-        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar"
+        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar",
+        "slug": "paulo-rebello-vanderlei-rebello-filho"
       }
     },
     {
@@ -237,7 +257,8 @@
       "summary": "Deputado sugere quebrar protocolo para debater regulamentação dos planos de saúde coletiva, querendo detalhes do estudo da ANS sobre esse assunto.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -248,7 +269,8 @@
       "summary": "Diretor-Presidente da ANS destacou a transparência no setor de saúde suplementar, com dados disponíveis online sobre operadoras. Discussão sobre capacidade de fiscalização dos cerca de 250 mil prestadores, mas ressaltou existência de outras agências reguladoras relacionadas. Mencionou o Disque ANS para reclamações, com alta taxa de resolução e suspensão de comercialização para operações de baixa qualidade. Prometeu maior aperfeiçoamento e clareza na prestação de serviço.",
       "speaker": {
         "name": "PAULO REBELLO VANDERLEI REBELLO FILHO",
-        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar"
+        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar",
+        "slug": "paulo-rebello-vanderlei-rebello-filho"
       }
     },
     {
@@ -259,7 +281,8 @@
       "summary": "Deputado sugeriu ANS como agente complementar de fiscalização e questioned calculating health plan readjustment by consumer group rather than individual contracts, considering benefits for both consumers and operators. Deputado also mentioned two additional topics.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -270,7 +293,8 @@
       "summary": "A Agência Nacional de Saúde Suplementar regula todos os planos de saúde, incluindo o plano coletivo até 29 vidas com um único índice de reajuste. Planos acima de 29 vidas têm negociação individual entre contratante e operadora para definir percentual de reajuste. A agência trabalha para ampliar o número de beneficiários em planos até 29 vidas, diluindo o risco e estabelecendo um único reajuste para esse grupo.",
       "speaker": {
         "name": "PAULO REBELLO VANDERLEI REBELLO FILHO",
-        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar"
+        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar",
+        "slug": "paulo-rebello-vanderlei-rebello-filho"
       }
     },
     {
@@ -281,7 +305,8 @@
       "summary": "Deputado se refere a Marco Aurélio Ferreira, importante diretor de relações na Associação Nacional dos Hospitais Privados, presente no evento. Permite-lhe falar no microfone, acreditando que sua voz deve ser ouvida.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -292,7 +317,8 @@
       "summary": "Associação Nacional dos Hospitais Privados concorda com doutor Paulo sobre acompanhamento de prestadores de serviço por conselhos e ANVISA. Ela também menciona a revisão das contas enviadas pelos prestadores às operadoras, com uma média superior a 20% e no caso deles, em torno de 4,5%. Conclui dizendo que os prestadores de serviço são bem acompanhados no Brasil.",
       "speaker": {
         "name": "Marco Aurélio Ferreira",
-        "position": "Associação Nacional dos Hospitais Privados"
+        "position": "Associação Nacional dos Hospitais Privados",
+        "slug": "marco-aurelio-ferreira"
       }
     },
     {
@@ -303,7 +329,8 @@
       "summary": "Deputado agradece presença e participação de Marco, entrega palavra a Dra. Caroline Romero do Conselho Federal de Nutrição.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -314,7 +341,8 @@
       "summary": "Conselho Federal de Nutricionistas destaca papel nutricionista em promoção saúde e prevenção doenças, especialmente crônicas não transmissíveis. Solicita acesso a exames laboratoriais para atuação plena e cobertura por planos de saúde desses exames, como projeto de lei propõe. Oferece colaboração ao gabinete do deputado Duarte em esse sentido.",
       "speaker": {
         "name": "Dra.Caroline Romeiro",
-        "position": "Conselho Federal de Nutricionistas"
+        "position": "Conselho Federal de Nutricionistas",
+        "slug": "dracaroline-romeiro"
       }
     },
     {
@@ -325,7 +353,8 @@
       "summary": "Deputado: Ninguém quer falar ou apresentar contribuições. Representante da federação de planos de saúde não tem nada a declarar. Dra. Karen Barros agradece a oportunidade de falar e ratifica opiniões anteriores.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -336,7 +365,8 @@
       "summary": "Presidente do PROCON/MA destacou importância da cobertura de atendimento nutricional e exames laboratoriais garantir saúde doconsumidor e prevenir doenças crônicas, reduzindo custos. Disponíveis para todos.",
       "speaker": {
         "name": "KAREN TAVEIRA BARROS",
-        "position": "Presidente - Instituto de Promoção e Defesa do Cidadão e Consumidor do Maranhão - PROCON/MA"
+        "position": "Presidente - Instituto de Promoção e Defesa do Cidadão e Consumidor do Maranhão - PROCON/MA",
+        "slug": "karen-taveira-barros"
       }
     },
     {
@@ -346,7 +376,8 @@
       "transcription": "Doutor Hilton Melo, representando o MPF. Bom",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -357,7 +388,8 @@
       "summary": "Procurador da República - Ministério Público Federal do Estado do Maranhão prioriza consolidação de ideias em diálogo com outros Ministérios Públicos, busca indicar visão do Ministério Público além de outros atores, e propõe integrar regulamentos, legislação e judiciário para reduzir judicializações e ineficiências na cadeia. Colaborará com Legislativo para atender às preocupações fundamentais e sustentabilidade do setor, sempre à disposição para contribuir.",
       "speaker": {
         "name": "HILTON ARAÚJO MELO",
-        "position": "Procurador da República - Ministério Público Federal do Estado do Maranhão"
+        "position": "Procurador da República - Ministério Público Federal do Estado do Maranhão",
+        "slug": "hilton-araujo-melo"
       }
     },
     {
@@ -367,7 +399,8 @@
       "transcription": "Agradeço doutor Hilton, passo a palavra pra breves considerações finais à doutora Ana Carolina representando o IDE.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -378,7 +411,8 @@
       "summary": "Coordenadora do Programa de Saúde - Instittuto Nacional de Defesa do Consumidor - Idec apreciou iniciativa do painel de precificação, importante para transparência no reajuste de planos de saúde. Ela propõe regulamentação de MEI distinta da coletiva, para evitar confusão. Também defende discussão sobre agrupamento de planos e regulamentação pré-plano, além de questionamento sobre o valor das tecnologias de saúde. Suporte do Idec para o PL 55/2020 no Senado.",
       "speaker": {
         "name": "ANA CAROLINA NAVARRETE",
-        "position": "Coordenadora do Programa de Saúde - Instittuto Nacional de Defesa do Consumidor - Idec"
+        "position": "Coordenadora do Programa de Saúde - Instittuto Nacional de Defesa do Consumidor - Idec",
+        "slug": "ana-carolina-navarrete"
       }
     },
     {
@@ -389,7 +423,8 @@
       "summary": "Deputado: Almost voted for Ana because of her speech, but will vote for",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -400,7 +435,8 @@
       "summary": "Coordenador de Pesquisa - Instituto de Estudos para Políticas de Saúde - IEPS agradeceu pela oportunidade de falar, elogiou a audiência, incentivou o debate ativo sobre o tema, sugeriu outras formas de encaminhamento futuro, e desejou continuar trocando informações.",
       "speaker": {
         "name": "RUDI ROCHA",
-        "position": "Coordenador de Pesquisa - Instituto de Estudos para Políticas de Saúde - IEPS"
+        "position": "Coordenador de Pesquisa - Instituto de Estudos para Políticas de Saúde - IEPS",
+        "slug": "rudi-rocha"
       }
     },
     {
@@ -411,7 +447,8 @@
       "summary": "Discurso do Deputado: passa a palavra para considerações finais ao economista Rodrigo Mendes Leal, diretor da Associação Brasileira de Economia da Saúde.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -422,7 +459,8 @@
       "summary": "Diretor - Associação Brasileira de Economia da Saúde - ABRES apoiou iniciativa do debate, referiu processo de reajuste dos planos individuais e elogiou estudos técnicos da ANS, pedindo por maior divulgação e ampliação de discussão.",
       "speaker": {
         "name": "RODRIGO MENDES LEAL",
-        "position": "Diretor - Associação Brasileira de Economia da Saúde - ABRES"
+        "position": "Diretor - Associação Brasileira de Economia da Saúde - ABRES",
+        "slug": "rodrigo-mendes-leal"
       }
     },
     {
@@ -432,7 +470,8 @@
       "transcription": "A Márcia Moro é pra considerações finais representando Procons Brasil.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -443,7 +482,8 @@
       "summary": "PROCONS Brasil apoia discussão sobre tema delicado, disponível para informações e ajudar consumidores.",
       "speaker": {
         "name": "Márcia Mouro",
-        "position": "PROCONS Brasil"
+        "position": "PROCONS Brasil",
+        "slug": "marcia-mouro"
       }
     },
     {
@@ -454,7 +494,8 @@
       "summary": "Deputado agradece equipe e promete relatório em junho sobre projeto de saúde, almejando aprovação conjunta em favor de vítimas, como garantia de direitos fundamentais e respeito no serviço de saúde suplementar.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -465,7 +506,8 @@
       "summary": "Diretor-Presidente da ANS agradece participação no debate, elogia equipe técnica e reafirma compromisso da agência com parceria e diálogo entre setores, oferecendo-se para apresentar proposta à análise do Congresso.",
       "speaker": {
         "name": "PAULO REBELLO VANDERLEI REBELLO FILHO",
-        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar"
+        "position": "Diretor-Presidente - Agência Nacional de Saúde Suplementar",
+        "slug": "paulo-rebello-vanderlei-rebello-filho"
       }
     },
     {
@@ -476,7 +518,8 @@
       "summary": "Deputado propõe projeto priorizando direito à vida digna, enfatizando acesso à moradia, saúde e serviços de qualidade, inspira-se na Constituição e Bíblia, conta com apoio de operadores de planos de saúde, prestadores de serviço e Defensoria do Povo para garantir direitos na prática. Reunião encerrada para audiência pública sobre manipulação de formatos de biotecnologia e PL contra fake news.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     }
   ],

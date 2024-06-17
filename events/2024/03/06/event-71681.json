@@ -14,7 +14,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": " Reunião para eleição presidente Comissão Indústria, Comércio e Serviços; 18 deputados titulares e suplentes; votação por escrutínio secreto e sistema eletrônico; candidato é deputado Josenildo do PDT do Amapá; eleito por maioria absoluta/simples, em caso de empate, mais idoso; vota em branco computado para quórum.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "A todos",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Heitor Schuch -- por Participante -- Josenildo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-heitor-schuch-por-participante-josenildo"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     }
   ],

@@ -17,7 +17,8 @@
       "summary": "Bem-vindos, mantenham celulares em silêncio. Moderando painel sobre tratamento oncológico com especialistas em diversas áreas, incluindo oncologista clínico Professor Igor Morbec, deputado federal doutor Frederico, médicos radiooncologista e oncologista doutores Daniel Grossi Marconi e Marcos Simões, online Analisa Kruschevski, Heber Salvador de Castro Riberio e David Bowing. Início com doutor Igor Morbec.",
       "speaker": {
         "name": "CARLOS BRANT JUNIOR",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "carlos-brant-junior"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Médico Oncologista discute tratamento oncológico com foco em três pilares: radioterapia, quimioterapia e cirurgia, com palestras de especialistas e debate interativo.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Médico Oncologista destacou importância de prevencão e diagnóstico precoce em câncer, especialmente câncer de pulmão, com tomografia de tórax anual reduzindo mortalidade e impactando eficientemente orçamento do Ministério da Saúde.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Hospital de Amor propõe diagnóstico precoce e reabilitação oncológica como prioridade. Tratamentos precoces reduzem custos e beneficiam mais. Reabilitação deve ser integral, abordando sequelas, especialmente psicológicas, e considerando realidade regional. Suporte nutricional, psicológico e orientações na reabilitação são fundamentais.",
       "speaker": {
         "name": "DANIEL GROSSI MARCONI",
-        "position": "Hospital de Amor"
+        "position": "Hospital de Amor",
+        "slug": "daniel-grossi-marconi"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Médico oncologista apresenta especialista em câncer de pulmão, Professor David Balduin, da Universidade do Norte do Reino Unido, que é lembrado por sua expertise em rastreamento e avaliação de custos de tecnologia em saúde.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Universidade de Nottingham:",
       "speaker": {
         "name": "DAVID BALDWIN",
-        "position": "Universidade de Nottingham"
+        "position": "Universidade de Nottingham",
+        "slug": "david-baldwin"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "Médico Oncologista discute avaliação de custo-efetividade de rastreamento em câncer de pulmão versus tratamento de diagnóstico tardio, citando situação no Brasil e Inglaterra.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -118,7 +127,8 @@
       "summary": "Universidade de Nottingham discutiu importância da análise de custo-efetividade em cuidados de saúde, destacando a necessidade de recursos eficientes em diagnóstico e tratamento, especialmente em estágios iniciais, com exemplos do Reino Unido e Austrália. Sugestão de minimizar custos, como em tomografias, por meios mais rápidos e eficazes.",
       "speaker": {
         "name": "DAVID BALDWIN",
-        "position": "Universidade de Nottingham"
+        "position": "Universidade de Nottingham",
+        "slug": "david-baldwin"
       }
     },
     {
@@ -128,7 +138,8 @@
       "transcription": "Nós temos uma pergunta aqui da plateia, o senhor Olhe. Boa tarde, meu nome é Arthur Rosas.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": "O participante solicitou que o radiooncologista comentasse sobre o custo-efetividade da radioterapia no câncer de pulmão, especificamente sobre o uso e absortção de tecnologias como a ICBRT e tratamentos guiados por imagem como o CONIBIN CT, pois apesar de aumentar custos, trazem benefícios.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": "Universidade de Nottingham studying use of radiation treatment for lung cancer, finding success with less healthy patients and radiooncology; notes lack of advanced stage patients seeking screening and potential for adjuvant treatments to further improve survival rates.",
       "speaker": {
         "name": "DAVID BALDWIN",
-        "position": "Universidade de Nottingham"
+        "position": "Universidade de Nottingham",
+        "slug": "david-baldwin"
       }
     },
     {
@@ -161,7 +174,8 @@
       "summary": "Médico Oncologista agradece e apresenta o presidente da Sociedade Brasileira de Radioterapia.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -172,7 +186,8 @@
       "summary": "Presidente da SBRT alerta sobre o aumento de falhas em equipamentos de radioterapia no país, prevê-se 50% mais de casos de câncer no Brasil em dez anos e necessidade de mais tratamentos de radioterapia. Valores de radioterapia no SUS congelados desde 2010 causam perda de valor com relação a custeio e manutenção, resultando em falta de atualização e manutenção dos equipamentos. Recomenda-se revisão emergencial de valores de reembolso de radioterapia e sustentabilidade do serviço.",
       "speaker": {
         "name": "MARCUS SIMÕES",
-        "position": "Presidente da SBRT"
+        "position": "Presidente da SBRT",
+        "slug": "marcus-simoes"
       }
     },
     {
@@ -183,7 +198,8 @@
       "summary": "Médico Oncologista agradece colaborador e doutora Anelisa Kruschevski, oncologista e presidente eleita da Sociedade Brasileira de Oncologia Clínica, é convidada a discutir tratamento sistêmico e cuidados aprimorados no SUS.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Presidente da SBOC abordou jornada do paciente oncológico, métodos diagnósticos eficientes, importância de oncologistas clínicos suficientes e bem distribuídos no Brasil, disparidade no número de oncologistas clínicos no país, capacitação da SBOC, acesso ao tratamento, atrasos na incorporação de novas tecnologias no SUS, e proposta de algoritmo decisório de política pública para garantir acesso à quimioterapia no SUS.",
       "speaker": {
         "name": "ANELISA KRUSCHEWSKY",
-        "position": "Presidente da SBOC"
+        "position": "Presidente da SBOC",
+        "slug": "anelisa-kruschewsky"
       }
     },
     {
@@ -205,7 +222,8 @@
       "summary": "Médico Oncologista enfatizou importância de setor terceiro no combate ao câncer, agradeceu participantes e convidou outros profissionais para falar. Destacou papel fundamental da cirurgia oncológica no tratamento do câncer.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -216,7 +234,8 @@
       "summary": "Presidente da SBCO fala sobre importância de acesso e tratamento cirúrgico no câncer, destacando aumento de casos no Brasil e demanda por procedimentos cirúrgicos. Ele menciona a necessidade de atenção ao custo diário da assistência e à transição epidemiológica causada por políticas de rastreamento e tratamento precoces.",
       "speaker": {
         "name": "HEBER SALVADOR DE CASTRO RIBEIRO",
-        "position": "Presidente da SBCO"
+        "position": "Presidente da SBCO",
+        "slug": "heber-salvador-de-castro-ribeiro"
       }
     },
     {
@@ -227,7 +246,8 @@
       "summary": "Médico Oncologista convidou Dr. Débora Telésio, vice-presidente sênior da América da Latam, Electa, para apresentar slides.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -238,7 +258,8 @@
       "summary": "Sueca ELEKTA fornece radiação precisa para cirurgias cerebrais, tecnologia avançada como Excel Gama Knight e Versa HD. Presente em 40 países, no Brasil há 15 anos, concentrada em acesso, inovação e melhor tratamento para pacientes oncológicos e neurológicos. Enfatiza radiação precisa, esperança a pacientes, tecnologia e competência das pessoas, além de braquiterapia e software integrado.",
       "speaker": {
         "name": "DEBORA TELESIO",
-        "position": "Vice Presidente da ELEKTA"
+        "position": "Vice Presidente da ELEKTA",
+        "slug": "debora-telesio"
       }
     },
     {
@@ -249,7 +270,8 @@
       "summary": "Médico Oncologista: Palestra do Presidente da Associação Brasileira de Hematologia e Hematerapia, apresentando tecnologias relevantes para o SUS, sem intenção comercial.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -260,7 +282,8 @@
       "summary": "Presidente da ABHH elogiou SUS e propôs melhorias para programas de câncer, destacando importância da hematologia e tratamento de doenças, como leucemia mieloide crônica. Falou sobre raciocínio e rastreamento de dados para entender prevalência e localização do câncer no Brasil.",
       "speaker": {
         "name": "JOSE FRANCISCO COMENALLI",
-        "position": "Presidente da ABHH"
+        "position": "Presidente da ABHH",
+        "slug": "jose-francisco-comenalli"
       }
     },
     {
@@ -271,7 +294,8 @@
       "summary": "Médico Oncologista destaca importância de equipes multidisciplinares contra câncer e valor da igualdade na sociedade.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -282,7 +306,8 @@
       "summary": "Promover equidade na saúde no Brasil: garantir tratamentos justos e acessíveis, independentemente de fatores individuais, com investimento em educação, ciência e colaboração entre setores. É isso o que ABHH busca.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -292,7 +317,8 @@
       "transcription": "O que o Higro falou. Obrigado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -303,7 +329,8 @@
       "summary": "Presidente da ABHH destaca importância da parceria de todos, incluindo médicos, sociedades de pacientes, e o público em geral, para o avanço da área de saúde.",
       "speaker": {
         "name": "JOSE FRANCISCO COMENALLI",
-        "position": "Presidente da ABHH"
+        "position": "Presidente da ABHH",
+        "slug": "jose-francisco-comenalli"
       }
     },
     {
@@ -314,7 +341,8 @@
       "summary": "Médico Oncologista fala sobre importância da capilaridade para atingir todos os inocentes, bem-vindo convidado da Varian.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -325,7 +353,8 @@
       "summary": "Diretora Senior Relações Governamentais discute Varian's mission to provide accessible cancer treatment, highlights partnership with Siemens Health Nears and expansion plans in Brazil. She mentions company's commitment to attend 240,000 patients per minute and treat 4 million patients with radiotherapy in 2022, and expresses satisfaction in participating in the event while reaffirming Varian's mission of a world without fear of cancer.",
       "speaker": {
         "name": "LIGIA PIMENTEL",
-        "position": "Diretora Senior Relações Governamentais"
+        "position": "Diretora Senior Relações Governamentais",
+        "slug": "ligia-pimentel"
       }
     },
     {
@@ -336,7 +365,8 @@
       "summary": "Não, não será tratada toda a população da região com esses aparelhos funcionando plenamente até dezembro de 2024. (Médico Oncologista)",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -347,7 +377,8 @@
       "summary": "Diretora Senior Relações Governamentais: Intenção é entregar todas as máquinas até julho de 2024, funcionando com todas as licenças necessárias, abordando questões que vão além da autonomia da empresa. Target até dezembro de 2024.",
       "speaker": {
         "name": "LIGIA PIMENTEL",
-        "position": "Diretora Senior Relações Governamentais"
+        "position": "Diretora Senior Relações Governamentais",
+        "slug": "ligia-pimentel"
       }
     },
     {
@@ -358,7 +389,8 @@
       "summary": "Médico Oncologista destacou importância da radiologia intervencionista no tratamento oncológico, combinado com quimioterapia, radioterapia e cirurgia.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -369,7 +401,8 @@
       "summary": "Presidente SOBRICE abordou radiologia intervencionista como diagnóstico inicial e tratamento de doenças oncológicas, antes do diagnóstico precoce e tratamento minimamente invasivo. Radiologia intervencionista é quarto pilar do tratamento oncológico, possível em larga escala com equipamentos simples, como ultrassom e tomografia. SOBRICE pediu ao ministério da saúde por mais recursos em biopsias e ablações.",
       "speaker": {
         "name": "DENIS SZEJNFELD",
-        "position": "Presidente SOBRICE"
+        "position": "Presidente SOBRICE",
+        "slug": "denis-szejnfeld"
       }
     },
     {
@@ -380,7 +413,8 @@
       "summary": "Médico Oncologista focaliza importância de diagnóstico preciso fornecido por radiologistas, patologistas e dedicatários para aprimorar decisões de tratamento oncológico. Agradecimentos à colaboração de especialistas e à iniciativa da comissão parlamentar contra o câncer.",
       "speaker": {
         "name": "IGOR MORBECK",
-        "position": "Médico Oncologista"
+        "position": "Médico Oncologista",
+        "slug": "igor-morbeck"
       }
     },
     {
@@ -391,7 +425,8 @@
       "summary": "Mestre de Cerimônias anunciou uma pausa de dez minutos entre painéis, servirá lanche leve.",
       "speaker": {
         "name": "CARLOS BRANT JUNIOR",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "carlos-brant-junior"
       }
     },
     {
@@ -401,7 +436,8 @@
       "transcription": "",
       "speaker": {
         "name": "Intervalo para o Coffe Break",
-        "position": ""
+        "position": "",
+        "slug": "intervalo-para-o-coffe-break"
       }
     },
     {
@@ -412,7 +448,8 @@
       "summary": "Mestre de Cerimônias pede a todos retornarem aos lugares, pois vai começar o último painel do dia.",
       "speaker": {
         "name": "CARLOS BRANT JUNIOR",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "carlos-brant-junior"
       }
     },
     {
@@ -422,7 +459,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim do Intervalo",
-        "position": ""
+        "position": "",
+        "slug": "fim-do-intervalo"
       }
     },
     {
@@ -433,7 +471,8 @@
       "summary": "Mestre de Cerimônias anuncia início do terceiro painel sobre tecnologias em saúde para oncologia, presidido pelo deputado Wellington Prado. Participam no painel: doutor Fernando Silveira, deputada federal Adriana Ventura (ausente), doutor Luiz Sérgio Pereira Grilo Júnior, doutor Maurício Azevedo, senhor Manuel Coelho, doutor Sérgio Eduardo Alonso Araújo, doutora Suzane Holden e doutor Nobcue, com palavra inicial do deputado Wellington Prado.",
       "speaker": {
         "name": "CARLOS BRANT JUNIOR",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "carlos-brant-junior"
       }
     },
     {
@@ -445,7 +484,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -456,7 +496,8 @@
       "summary": "Vice Presidente Corporate Accounts propõe investir em tecnologia de genética para diagnóstico de câncer no Reino Unido, visando reduzir tempo de diagnóstico de 30 dias para 24 horas, aumentar acesso personalizado e precisão de tratamentos, impactando positivamente o tratamento de doenças. Planos incluem expandir centros de diagnósticos e alcançar 75% de precisão no próximo ano, com 55 mil pacientes sobrevivendo com tratamentos adequados.",
       "speaker": {
         "name": "SUZANE HOLDEN",
-        "position": "Vice Presidente Corporate Accounts"
+        "position": "Vice Presidente Corporate Accounts",
+        "slug": "suzane-holden"
       }
     },
     {
@@ -468,7 +509,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -479,7 +521,8 @@
       "summary": "Lider para Inovação da Siemens Healthineers aborda Health NEARS, visa avançar saúde com acesso e tecnologia para atendimento personalizado e rastreamento preciso, menciona aumento populacional e complexidade do câncer, especialmente câncer de pulmão, com sobrevida variando de 9 meses a 9 anos dependendo do estadiamento. Siemens e Variant se uniram para cuidados de saúde holísticos.",
       "speaker": {
         "name": "MANUEL COELHO",
-        "position": "Lider para Inovação da Siemens Healthineers"
+        "position": "Lider para Inovação da Siemens Healthineers",
+        "slug": "manuel-coelho"
       }
     },
     {
@@ -489,7 +532,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -500,7 +544,8 @@
       "summary": "Lider para Inovação da Siemens Healthineers destaca abordagem transversal para combate ao câncer, valorizando colaboração e diversidade no uso de inteligência artificial e tecnologia, oferecendo compêndio de câncer gratuito para aumentar acesso e qualidade do tratamento globalmente.",
       "speaker": {
         "name": "MANUEL COELHO",
-        "position": "Lider para Inovação da Siemens Healthineers"
+        "position": "Lider para Inovação da Siemens Healthineers",
+        "slug": "manuel-coelho"
       }
     },
     {
@@ -512,7 +557,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -523,7 +569,8 @@
       "summary": "Presidente da ABIMED apoiou iniciativa contra câncer e expressou satisfação em ver projeto avançar no Senado. Mencionou desafios da indústria, como alta carga tributária e reforma tributária. Destacou a importância da tecnologia na saúde e solicitou metodologia adequada para incorporação de dispositivos médicos no Brasil. Reconheceu limitações orçamentárias do país, mas argumentou que ser humano vale independente da nacionalidade.",
       "speaker": {
         "name": "FERNANDO SILVEIRA",
-        "position": "Presidente da ABIMED"
+        "position": "Presidente da ABIMED",
+        "slug": "fernando-silveira"
       }
     },
     {
@@ -535,7 +582,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -546,7 +594,8 @@
       "summary": "Diretor SOBRICE destaca importância de tecnologia em saúde, lamenta rigidez de sistemma de saúde impedindo acesso a procedimentos simples e eficazes, promove saúde baseada em valor com menores custos e melhores resultados. Menciona 88 mil biopsias em 2022, crescimento de casos de câncer e propõe tratamento percutâneo de tumores, como no fígado, com redução de dias de internação em outras regiões do Brasil.",
       "speaker": {
         "name": "LUIZ SERGIO PEREIRA GRILLO JUNIOR",
-        "position": "Diretor SOBRICE"
+        "position": "Diretor SOBRICE",
+        "slug": "luiz-sergio-pereira-grillo-junior"
       }
     },
     {
@@ -558,7 +607,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -569,7 +619,8 @@
       "summary": "Gerente da Johnson e Johnson discute saúde, focando no câncer e seu diagnóstico precoce. Menciona a importância de prevenção, cirurgias especializadas e uso de tecnologia para melhorar atendimento oncológico. Destaca a necessidade de integração entre prestadores de serviços de saúde, a fim de proporcionar melhor cuidado aos pacientes com câncer, reduzir eventos adversos e promover sustentabilidade financeira.",
       "speaker": {
         "name": "MAURICIO AZEVEDO",
-        "position": "Gerente da Johnson e Johnson"
+        "position": "Gerente da Johnson e Johnson",
+        "slug": "mauricio-azevedo"
       }
     },
     {
@@ -581,7 +632,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -592,7 +644,8 @@
       "summary": "Hospital Albert Einstein: cirurgia robótica para câncer de próstata aprimora precisão e reduz complicações; é oncologicamente segura e eficaz, com baixa chance de recidiva e menores custos de reabilitação e home care. É recomendada em centros especializados com alto volume de procedimentos por ano.",
       "speaker": {
         "name": "SERGIO EDUARDO ALONSO ARAUJO",
-        "position": "Hospital Albert Einstein"
+        "position": "Hospital Albert Einstein",
+        "slug": "sergio-eduardo-alonso-araujo"
       }
     },
     {
@@ -604,7 +657,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -615,7 +669,8 @@
       "summary": "Hospital Albert Einstein:",
       "speaker": {
         "name": "SERGIO EDUARDO ALONSO ARAUJO",
-        "position": "Hospital Albert Einstein"
+        "position": "Hospital Albert Einstein",
+        "slug": "sergio-eduardo-alonso-araujo"
       }
     },
     {
@@ -626,7 +681,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -637,7 +693,8 @@
       "summary": "Johnson \u0026 Johnson Manager emphasized the importance of teaching minimally invasive access, leading to improved skill and performance of students throughout their careers, enabling precise and assertive medicine.",
       "speaker": {
         "name": "MAURICIO AZEVEDO",
-        "position": "Gerente da Johnson e Johnson"
+        "position": "Gerente da Johnson e Johnson",
+        "slug": "mauricio-azevedo"
       }
     },
     {
@@ -648,7 +705,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -659,7 +717,8 @@
       "summary": "Médico discute desigualdade no acesso ao rastreio e pré-prevênça do câncer em regiões pobres do Brasil; prefiere cirurgia videolaparoscópica a robótica, exceto na próstata; enfatiza treinamento em exames apropriados, especialmente no câncer de testículo; pede políticas de saúde com tecnologias acessíveis para o Brasil.",
       "speaker": {
         "name": "JALES",
-        "position": "Médico"
+        "position": "Médico",
+        "slug": "jales"
       }
     },
     {
@@ -671,7 +730,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -682,7 +742,8 @@
       "summary": "Diretor SOBRICE discute importância do cuidado na incorporação de tecnologia em saúde, considerando custos e efetividade, em vez de expor pacientes a tratamentos experimentais ou inadequados. Abmed analisa processo para mudar como instituições avaliam tecnologia.",
       "speaker": {
         "name": "LUIZ SERGIO PEREIRA GRILLO JUNIOR",
-        "position": "Diretor SOBRICE"
+        "position": "Diretor SOBRICE",
+        "slug": "luiz-sergio-pereira-grillo-junior"
       }
     },
     {
@@ -693,7 +754,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -704,7 +766,8 @@
       "summary": "Santa Casa de Fortaleza, desde 186, dedica-se a salvar vidas e procura melhorar atendimento com diretoria de inovação, buscando robô cirúrgico por meio de apoio financeiro e parcerias. É hospital de ensino e centro de pesquisa e inovação tecnológica no SUS.",
       "speaker": {
         "name": "SYONARA RODRIGUES",
-        "position": "Santa Casa de Fortaleza"
+        "position": "Santa Casa de Fortaleza",
+        "slug": "syonara-rodrigues"
       }
     },
     {
@@ -715,7 +778,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -726,7 +790,8 @@
       "summary": "Médico considera radiologia intervencionista fundamental no tratamento oncológico, especialmente no câncer colorretal com metástases hepáticas. Essa técnica permite realizar radiofrequência em lesões inacessíveis a cirurgia, aumentando a sobrevida do paciente. Hoje, essa abordagem ainda não é amplamente acessível no SUS, mas é uma importante bandeira a ser levada em consideração.",
       "speaker": {
         "name": "JALES",
-        "position": "Médico"
+        "position": "Médico",
+        "slug": "jales"
       }
     },
     {
@@ -737,7 +802,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -748,7 +814,8 @@
       "summary": "Santa Casa de BH, única 100% SUS no Brasil, realizou mais procedimentos oncológicos em 2022 do que qualquer outro hospital do país. Foco em crescer, prevenção, promoção e discussão com CONITEC sobre financiamento de tecnologias baseadas em evidência científica.",
       "speaker": {
         "name": "LORENA",
-        "position": "Santa Casa de BH"
+        "position": "Santa Casa de BH",
+        "slug": "lorena"
       }
     },
     {
@@ -760,7 +827,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -771,7 +839,8 @@
       "summary": "Mestre de Cerimônias agradece participantes, anuncia início às 8h amanhã e refere que o tema da primeira mesa é financiamento. Boa noite.",
       "speaker": {
         "name": "CARLOS BRANT JUNIOR",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "carlos-brant-junior"
       }
     }
   ],

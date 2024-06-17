@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "É, única, não está no sistema de internet e nem interligada aos computadores dos deputados, ou seja, ela tem vida própria, e se resolve por si mesmo. Esclareço que o parlamentar quer registrar seu voto na urna eletrônica, sem ter registrado presença, terá a mesma atribuído de forma automática pelo sistema. Lembro, que o candidato será eleito presidente caso alcance em primeiro escrutínio, maioria absoluta de votos, e em segundo escrutínio maioria simples, tendo votada a maioria absoluta dos membros em ambos os casos. Os votos em branco serão computados apenas para efeito de quórum, no cérebro do parágrafo segundo do artigo oito três, do regimento interno dessa casa. Vamos aguardar tempo para que essa para que a a migração dos dados sejam efetivada. Foi presidente, pode Já está efetivado, o pessoal da técnica que nos dá assessoramento, já está. A nossa assessoria sempre muito apta aqui e muito capacitada já nos orienta aqui que a migração já ouve. Então, está aberta a votação. Deputado pode comparecer à urna e votar. Heitor Mais alguém, mais algum deputado que esteja no plenário pra votar? Nós temos já o quórum. Já temos o quórum suficiente. Uma vez atingindo o quórum, então está encerrada a votação, e passase a apuração dos votos no painel eletrônico.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Deputado Heitor Chul é eleito unanimemente presidente da comissão de indústria, comércio e serviço, reconhecido por sua experiência e capacidade de interlocução. Espera-se importantes debates e aprovação de projetos durante sua presidência.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Heitor Schuch",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-heitor-schuch"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     }
   ],

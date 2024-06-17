@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204496,
         "name": "Celso Sabino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-sabino"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Direção reunião entregue a deputado João Leão, experiente parlamentar.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Celso Sabino -- por Participante -- João Leão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-celso-sabino-por-participante-joao-leao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 74383,
         "name": "Giacobo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giacobo"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 74383,
         "name": "Giacobo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giacobo"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 74383,
         "name": "Giacobo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giacobo"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -143,7 +154,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- João Leão -- por Participante -- Daniella Ribeiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-joao-leao-por-participante-daniella-ribeiro"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Senadora agradece a oportunidade de presidir comissão de orçamento, honra a sua família e paraibanos antes dela. Agradece líderes, colegas e imprensa. Promete trabalho produtivo e tratar LDO em audiência pública. Indica deputado Luiz Carlos Mota como relator LOA 2024.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 74383,
         "name": "Giacobo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "giacobo"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "Senadora permite que senador Eduardo Gomes fale e acredita em diálogo para vencer e construir.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Senador elogia presidente da comissão mista de orçamento, destaca evolução e importância, pede reunião com líderes de partido para definições e preparação de comitês e relatorias.",
       "speaker": {
         "name": "Eduardo Gomes",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "eduardo-gomes"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Senadora agradeceu e elogiou colega, feliz por sua presença e passará a palavra ao deputado Altineu.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 178937,
         "name": "Altineu Côrtes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "altineu-cortes"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "Senadora refere gesto de colaboração e dá boas-vindas a suplente Bruno Bonetti, cedendo palavra para deputado Mauro Benevides Filho.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Senadora compromete-se a considerar sugestões com respeito e diálogo. Convida deputado Vermelho a falar.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -266,7 +288,8 @@
       "transcription": "Obrigada deputado. Passo a palavra pra o deputado Odair Cunha. Senhora",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -288,7 +312,8 @@
       "transcription": "Daí, com a palavra o deputado Vicentinho Júnior.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -310,7 +336,8 @@
       "transcription": "Obrigada deputado Vicentinho Júnior, passando a palavra pelo deputado Geraldo Rezende. Também desejar como já o fizeram.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -332,7 +360,8 @@
       "transcription": "Deputado Geraldo Rezende, passo a palavra pro deputado Gilson Daniel.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -344,7 +373,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -355,7 +385,8 @@
       "summary": "Senadora propõe reuniões semipresenciais da comissão, com início às 14:30 de terças-feiras. Indicações de relatorias e membros de comitês devem ser feitas até 18 de abril, seguindo disposições da Resolução 2.006 do Congresso Nacional. Palavra passada para o Deputado Luciana Amaral.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     },
     {
@@ -367,7 +398,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -378,7 +410,8 @@
       "summary": "Senadora agradeceu confiança e encerrou reunião com presidentes de Câmara e Senado.",
       "speaker": {
         "name": "Daniella Ribeiro",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "daniella-ribeiro"
       }
     }
   ],

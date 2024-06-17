@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "",
       "speaker": {
         "name": "Hino Nacional de Israel",
-        "position": ""
+        "position": "",
+        "slug": "hino-nacional-de-israel"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pr. Marco Feliciano -- por Participante -- Kim Kataguiri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pr-marco-feliciano-por-participante-kim-kataguiri"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Reunião celebra passo inclusividade e tolerância; propôs-se inclusão de datas judaicas no calendário nacional brasileiro, simbolizando valorização de diferentes culturas e compromisso com diversidade religiosa. Falou-se sobre conflito em Israel e necessidade de diálogo e paz. Pedida de apoio contra antissemitismo e terrorismo. Datas como oportunidades para reavaliar conceitos e levantar bandeira da paz e direitos humanos.",
       "speaker": {
         "name": "RABINO SANY SONNENREICH",
-        "position": "PRESIDENTE DO INSTITUTO RAV SANY E DIRETOR DA OLAMI FARIA LIMA"
+        "position": "PRESIDENTE DO INSTITUTO RAV SANY E DIRETOR DA OLAMI FARIA LIMA",
+        "slug": "rabino-sany-sonnenreich"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Comunidade judaica agradece apoio na defesa de Israel e denúncia ataques terroristas; propõe adoção do Yom Kippur e Rosh Hashanah como datas nacionais no Brasil, destacando o valor do arrependimento e o respeito a todas as celebrações de novo ciclo, independentemente da religião ou credo.",
       "speaker": {
         "name": "DANIEL BIALSKI",
-        "position": "PRIMEIRO VICE-PRESIDENTE DA CONFEDERAÇÃO ISRAELITA DO BRASIL-  CONIB"
+        "position": "PRIMEIRO VICE-PRESIDENTE DA CONFEDERAÇÃO ISRAELITA DO BRASIL-  CONIB",
+        "slug": "daniel-bialski"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": "Presidente Executivo da Federação Israelita do Estado de SP expressa gratidão por proposição de incluir feriados judaicos no calendário oficial brasileiro, destacando importância do reconhecimento e igualdade de direitos. Lamenta ataques terroristas em Israel, causando morte de milhares, incluindo brasileiros, e pede ao Brasil não importar conflito. Solicita apoio na libertação de pessoas sequestradas por grupos terroristas em Israel e na paz para o povo judeu.",
       "speaker": {
         "name": "RICARDO BERKIENSZTAT",
-        "position": "PRESIDENTE EXECUTIVO DA FEDERAÇÃO ISRAELITA DO ESTADO DE SP"
+        "position": "PRESIDENTE EXECUTIVO DA FEDERAÇÃO ISRAELITA DO ESTADO DE SP",
+        "slug": "ricardo-berkiensztat"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -162,7 +175,8 @@
       "summary": "Rabino da Sinagoga do Brás condena ataque terrorista do Hamas a Israel, nega justificativa para ataques a civis e apoia paz duradoura na região. Sua proposta é reconhecer Rosh Hashaná e Yom Kipur como feriados nacionais no Brasil, promovendo inclusão e respeito à diversidade cultural.",
       "speaker": {
         "name": "RABINO YAIR ALON",
-        "position": "RABINO DA SINAGOGA DO BRÁS"
+        "position": "RABINO DA SINAGOGA DO BRÁS",
+        "slug": "rabino-yair-alon"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -185,7 +200,8 @@
       "summary": "Vice-presidente da ACIB entusiasmado com reconhecimento nacional de Ano Novo Judaico e Yom Kippur, porém preocupado com violência contra judeus. Comunidade judaica promove conhecimento, justiça social e solidariedade no Brasil. Rosh Hashanah e Yom Kippur são para reflexão, renovação, perdão e reconciliação. ACIB espera apoio no entendimento intercultural e respeito às tradições religiosas.",
       "speaker": {
         "name": "DAVID PITEL",
-        "position": "VICE-PRESIDENTE DA ASSOCIAÇÃO CULTURAL ISRAELITA DE BRASÍLIA-  ACIB"
+        "position": "VICE-PRESIDENTE DA ASSOCIAÇÃO CULTURAL ISRAELITA DE BRASÍLIA-  ACIB",
+        "slug": "david-pitel"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -208,7 +225,8 @@
       "summary": "O embaixador de Israel no Brasil fala sobre a cultura judaica como uma celebrando a vida, apesar dos tempos difíceis. Este ano, particularmente, há a necessidade de reflexão sobre as coisas terríveis que aconteceram e como manter a cultura Judaica em paz com as outras culturas. Ele expressa a esperança de que a cultura judaica se integre no calendário oficial e traga coisas positivas para a convivência e a paz em todo o mundo.",
       "speaker": {
         "name": "DANIEL ZONSHINE",
-        "position": "EMBAIXADOR DE ISRAEL NO BRASIL"
+        "position": "EMBAIXADOR DE ISRAEL NO BRASIL",
+        "slug": "daniel-zonshine"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 204507,
         "name": "Carla Zambelli",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carla-zambelli"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     }
   ],

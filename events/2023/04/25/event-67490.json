@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Boa tarde a todos e a todos. Obrigado pela presença. Rodrigo Petri, compõe a mesa conosco.",
       "speaker": {
         "name": "Gustavo De Marchi",
-        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS"
+        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS",
+        "slug": "gustavo-de-marchi"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "SINDICOM apoia participação em discussão sobre reforma tributária e economia verde.",
       "speaker": {
         "name": "Mozart Rodrigues Filho",
-        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM"
+        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM",
+        "slug": "mozart-rodrigues-filho"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "Marcos",
       "speaker": {
         "name": "Kamila Vieira De Mendonça",
-        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC"
+        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC",
+        "slug": "kamila-vieira-de-mendonca"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Setor gás canalizado defende essencialidade de insumo em reforma tributária, garantindo redução de carga tributária e promovendo reindustrialização, geração de emprego, renda, segurança energética e alimentar. Gás natural é energia verde fundamental na transição energética. Distribuidoras garantem contribuições para políticas públicas de sustentabilidade. ABEGAS apoia proposta governamental de reforma tributária, considerando subcategorias como GNV.",
       "speaker": {
         "name": "Gustavo De Marchi",
-        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS"
+        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS",
+        "slug": "gustavo-de-marchi"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Especialista tributário do INESFA apoia reforma fiscal com tratamento diferenciado para setores com menor impacto ambiental, destacando problemas com PIS, Cofins e ICMS. Propõe isenção no imposto de venda de resíduos e incentivos para indústrias que utilizam insumos reciclados. Posição apoiada por outras associações, como o comércio de São Paulo.",
       "speaker": {
         "name": "Rodrigo Petry",
-        "position": "Especialista Em Direito Tributário E Advogado Do Instituto Nacional Da Reciclagem - INESFA"
+        "position": "Especialista Em Direito Tributário E Advogado Do Instituto Nacional Da Reciclagem - INESFA",
+        "slug": "rodrigo-petry"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "SINDICOM discute mercado de combustíveis com alta arrecadação e tributação atual, buscando isonomia, transparência, simplificação e previsão para tributação de novos combustíveis. Proposta de IBS plurifásico complica, arrecadando e favorecendo fraude. Defendem IBS/CBS monofásico, alívio para biocombustíveis e exclusão de imposto seletivo em combustíveis, incluindo Zona Franca de Manaus.",
       "speaker": {
         "name": "Mozart Rodrigues Filho",
-        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM"
+        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM",
+        "slug": "mozart-rodrigues-filho"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "P.H.D. em Direito e Procuradora Da Fazenda Nacional propõe inclusão de critérios ambientais na reforma tributária brasileira, mudando paradigma tributário atual para incluir dimensão ambiental e descarbonização. Propõe imposto seletivo desestimulando consumo de bens causando externalidades negativas e incentivando consumo sustentável, evitando \"falso tributo verde\".",
       "speaker": {
         "name": "Denise Lucena Cavalcante",
-        "position": "P.H.D. em Direito, Procuradora Da Fazenda Nacional Etutora Do Centro Interamericano De Administraciones Tributárias - CIAT"
+        "position": "P.H.D. em Direito, Procuradora Da Fazenda Nacional Etutora Do Centro Interamericano De Administraciones Tributárias - CIAT",
+        "slug": "denise-lucena-cavalcante"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Economia verde associa crescimento econômico a conservação do ambiente e justiça social. Professora da UFC destaca tributação ambiental baseada em externalidades negativas como solução para problemas ambientais. Cita exemplos internacionais e propõe quatro pontos para reforma tributária verde: duplo dividendo, ampliação da tributação ambiental, revisão de subsídios a produtos prejudiciais ao meio ambiente, e destinação de receitas para políticas ambientais.",
       "speaker": {
         "name": "Kamila Vieira De Mendonça",
-        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC"
+        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC",
+        "slug": "kamila-vieira-de-mendonca"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Coordenação de Advocacy do IDS valoriza abertura à sociedade civil na comissão, estressa importância do momento histórico para valores e princípios ambientais e sociais, compara atual luta a direitos trabalhistas e humanos, alerta sobre impactos do aquecimento global e custos de desastres no Brasil, incentiva adaptação econômica sustentável e justa, com foco em prevenção e redução de gases do efeito estufa, procurando aproveitar janela histórica e ser referência mundial.",
       "speaker": {
         "name": "Marcos Woortmann",
-        "position": "Coordenador De Advocacy Do Instituto Democracia E Sustentabilidade - IDS"
+        "position": "Coordenador De Advocacy Do Instituto Democracia E Sustentabilidade - IDS",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": "Proposta de tributação de carbono em PEC 45 para reduzir emissões, gerar receita e melhorar transporte coletivo. Atuais impostos sobre combustíveis insuficientes, subsidiam vendas e causam impactos negativos ao meio ambiente. Ações atuais do Brasil inadequadas para cumprimento do Acordo de Paris. União Europeia pode cobrar imposto para o Brasil se nenhum for implementado, afetando receita e soberania, podendo gerar $28 bilhões.",
       "speaker": {
         "name": "Tatiana Falcão",
-        "position": "Coordenadora Da Temática De Precificação De Carbono Na Coalizão De Ministros Da Fazenda Para Ação Climática, Do Banco Mundial"
+        "position": "Coordenadora Da Temática De Precificação De Carbono Na Coalizão De Ministros Da Fazenda Para Ação Climática, Do Banco Mundial",
+        "slug": "tatiana-falcao"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": "Subsecretária destaca importância de reforma tributária para desenvolvimento sustentável, com compromisso ambiental e social. Emphasiza necessidade de alinhamento em taxonomia e atividades econômicas sustentáveis, tratando assuntos como bioeconomia, economia circular e transição energética. Menciona potencial do Brasil em atividades relacionadas a recursos naturais, e prioriza sustentabilidade no Ministério da Fazenda.",
       "speaker": {
         "name": "Cristina Fróes De Borja Reis",
-        "position": "Doutora Em Economia E Subsecretária De Desenvolvimento Econômico Sustentável Da Secretaria De Política Econômica Do Ministério Da Fazenda"
+        "position": "Doutora Em Economia E Subsecretária De Desenvolvimento Econômico Sustentável Da Secretaria De Política Econômica Do Ministério Da Fazenda",
+        "slug": "cristina-froes-de-borja-reis"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -278,7 +301,8 @@
       "summary": "Reforma tributária pode melhorar crescimento econômico brasileiro em até 20% ao longo de 10-15 anos e fornecer recursos adicionais para políticas públicas, incluindo meio ambiente. Imposto seletivo pode facilitar tributação de carbono, promovendo eficiência energética e reduzindo uso de combustíveis fósseis.",
       "speaker": {
         "name": "Bráulio Borges",
-        "position": "Mestre Em Teoria Econômica E Pesquisador Do Instituto Brasileiro De Economia - FGV IBRE"
+        "position": "Mestre Em Teoria Econômica E Pesquisador Do Instituto Brasileiro De Economia - FGV IBRE",
+        "slug": "braulio-borges"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -385,7 +417,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -421,7 +456,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -432,7 +468,8 @@
       "summary": "P.H.D. em Direito propõe revisão de imposto seletivo para tributação ambiental efetiva, vinculando-o a questões climáticas e criando tributação sobre o carbono. Recomenda reorganização técnica, ampliação de abrangência e fortalecimento de princípios constitucionais tributários ambientais.",
       "speaker": {
         "name": "Denise Lucena Cavalcante",
-        "position": "P.H.D. em Direito, Procuradora Da Fazenda Nacional Etutora Do Centro Interamericano De Administraciones Tributárias - CIAT"
+        "position": "P.H.D. em Direito, Procuradora Da Fazenda Nacional Etutora Do Centro Interamericano De Administraciones Tributárias - CIAT",
+        "slug": "denise-lucena-cavalcante"
       }
     },
     {
@@ -444,7 +481,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -455,7 +493,8 @@
       "summary": "A Coordenaadora da Temática de Precificação de Carbono na Coalizão de Ministros da Fazenda para Ação Climática do Banco Mundial se refiriu à importância de um imposto sobre carbono, à diferença entre imposto explícito e implícito sobre carbono, à melhor prática de aplicação do imposto no início da cadeia produtiva de petróleo, e à possível utilização dos recursos gerados em tecnologia e desenvolvimento nacional.",
       "speaker": {
         "name": "Tatiana Falcão",
-        "position": "Coordenadora Da Temática De Precificação De Carbono Na Coalizão De Ministros Da Fazenda Para Ação Climática, Do Banco Mundial"
+        "position": "Coordenadora Da Temática De Precificação De Carbono Na Coalizão De Ministros Da Fazenda Para Ação Climática, Do Banco Mundial",
+        "slug": "tatiana-falcao"
       }
     },
     {
@@ -467,7 +506,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -478,7 +518,8 @@
       "summary": "Doutora Em Economia E Subsecretária De Desenvolvimento Econômico Sustentável: destaca importância de fundos regionais para desenvolvimento sustentável, reforma tributária desestimula atividades nocivas ao meio ambiente, incentiva financiamento e tributação de carbono para descarbonização, preocupação com agropecuária e financiamento rural para combater desmatamento, trabalhando em textos governamentais relacionados à descarbonização e meio ambiente.",
       "speaker": {
         "name": "Cristina Fróes De Borja Reis",
-        "position": "Doutora Em Economia E Subsecretária De Desenvolvimento Econômico Sustentável Da Secretaria De Política Econômica Do Ministério Da Fazenda"
+        "position": "Doutora Em Economia E Subsecretária De Desenvolvimento Econômico Sustentável Da Secretaria De Política Econômica Do Ministério Da Fazenda",
+        "slug": "cristina-froes-de-borja-reis"
       }
     },
     {
@@ -490,7 +531,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -501,7 +543,8 @@
       "summary": "ABEGÁS's Legal Consultant emphasized the importance of natural gas in the current process of reducing carbon emissions and reindustrializing the country, highlighting its potential to alleviate the energy matrix and its fundamental role in the ongoing debate.",
       "speaker": {
         "name": "Gustavo De Marchi",
-        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS"
+        "position": "Consultor Jurídico Da Associação Brasileira Das Empresas Distribuidoras De Gás Canalizado - ABEGÁS",
+        "slug": "gustavo-de-marchi"
       }
     },
     {
@@ -513,7 +556,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -524,7 +568,8 @@
       "summary": "Setor distribuição de combustíveis recolhe 139 bilhões em tributos em 2022. Tributos representam 36% do preço do combustível. Constituição incentiva uso de energia renovável com tributação inferior. Mistura obrigatória de combustíveis renováveis no consumo fóssil. Aumento tributação afeta inflação, impactando consumidor final. Setor não solicitou redução de alíquota, apenas tributação uniforme e justa. Obrigado por convite e disponível para debate.",
       "speaker": {
         "name": "Mozart Rodrigues Filho",
-        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM"
+        "position": "Representando O Sindicato Nacional Das Empresas Distribuidoras De Combustíveis E De Lubrificantes - SINDICOM",
+        "slug": "mozart-rodrigues-filho"
       }
     },
     {
@@ -536,7 +581,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -547,7 +593,8 @@
       "summary": "Professora de Economia da UFC discutiu tributação que desencoraja atividades nocivas e incentiva atividades positivas, bem como destinação de receitas para políticas públicas.",
       "speaker": {
         "name": "Kamila Vieira De Mendonça",
-        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC"
+        "position": "Doutora Em Economia, Professora Do Instituto De Ciências Do Mar Da Universidade Federal Do Ceará - UFC",
+        "slug": "kamila-vieira-de-mendonca"
       }
     },
     {
@@ -559,7 +606,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -570,7 +618,8 @@
       "summary": "Custo-benefício essencial na transição energética; preservar meio ambiente é prioridade econômica; Brasil bem posicionado em petróleo, hidrogênio verde, e mercados de carbono; manter aquecimento global em 1,5-2°C traz vantagens econômicas e sociais; custos do carbono acumulados ao longo do tempo; políticas públicas devem considerar custos no cálculo custo-benefício.",
       "speaker": {
         "name": "Bráulio Borges",
-        "position": "Mestre Em Teoria Econômica E Pesquisador Do Instituto Brasileiro De Economia - FGV IBRE"
+        "position": "Mestre Em Teoria Econômica E Pesquisador Do Instituto Brasileiro De Economia - FGV IBRE",
+        "slug": "braulio-borges"
       }
     },
     {
@@ -582,7 +631,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -593,7 +643,8 @@
       "summary": "Especialista em Direito Tributário e Advogado do INESFA propõe:",
       "speaker": {
         "name": "Rodrigo Petry",
-        "position": "Especialista Em Direito Tributário E Advogado Do Instituto Nacional Da Reciclagem - INESFA"
+        "position": "Especialista Em Direito Tributário E Advogado Do Instituto Nacional Da Reciclagem - INESFA",
+        "slug": "rodrigo-petry"
       }
     },
     {
@@ -605,7 +656,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -616,7 +668,8 @@
       "summary": "Coordinator of Advocacy at Instituto Democracia e Sustentabilidade - IDS comentou sobre a complexidade tributária que impacta o setor privado, propondo quatro medidas para reforma tributária justa e sustentável: UBS ecológico, fundos de desenvolvimento regional, imposto seletivo sobre externalidades ambientais, e CNAE verde. Parcerias com sociedade civil e executivo destacadas.",
       "speaker": {
         "name": "Marcos Woortmann",
-        "position": "Coordenador De Advocacy Do Instituto Democracia E Sustentabilidade - IDS"
+        "position": "Coordenador De Advocacy Do Instituto Democracia E Sustentabilidade - IDS",
+        "slug": "marcos-woortmann"
       }
     },
     {
@@ -628,7 +681,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -640,7 +694,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -652,7 +707,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     }
   ],

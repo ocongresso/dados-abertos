@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Chefe da Assessoria Parlamentar da PMERJ representado por quatro coronéis.",
       "speaker": {
         "name": "ROBSON CARDEAL",
-        "position": "Chefe da Assessoria Parlamentar da Polícia Militar do Estado do Rio de Janeiro (PMERJ)"
+        "position": "Chefe da Assessoria Parlamentar da Polícia Militar do Estado do Rio de Janeiro (PMERJ)",
+        "slug": "robson-cardeal"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Deputado Estadual (União/RJ) fala sobre violência no Rio de Janeiro, tráfico e milícia; pede apoio do Judiciário e colaboração de todos os deputados para combater esses problemas. Elogia Polícia Civil e pede mano dura contra criminosos, afirmando que cidadãos queres segurança e liberdade, ameaçados pelo tráfico.",
       "speaker": {
         "name": "MARCELO DINO",
-        "position": "Deputado Estadual (União/RJ)"
+        "position": "Deputado Estadual (União/RJ)",
+        "slug": "marcelo-dino"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Meu muito obrigado.",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Segundo o Secretário- Departamento Geral de Ações Sócio Educativas, segurança pública é complexa e requer integração de policia civil, militar, penitenciários e judiciário. Ele destaca a importância do sistema socioeducativo para jovens infratores, com foco em educação, capacitação profissional e empregabilidade, mas expressa preocupação porque atualmente esse sistema não está funcionando bem e a criminalidade está se expandindo no Rio de Janeiro e em todo o país.",
       "speaker": {
         "name": "VICTOR HUGO POUBEL",
-        "position": "Secretário - Departamento Geral de Ações Sócio Educativas"
+        "position": "Secretário - Departamento Geral de Ações Sócio Educativas",
+        "slug": "victor-hugo-poubel"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -214,7 +231,8 @@
       "summary": "Aguardando questionamentos sobre processo.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -237,7 +256,8 @@
       "summary": "Ex-policial militar e constitutionalista discute questões sensíveis do Estado, enfatizando importância do Rio de Janeiro para o país. Trata de segurança pública, violações de direitos, aspectos econômicos, saúde dos policiais, situação de veteranos e pensionistas, e a necessidade urgente de ação para evitar impactos em nível nacional.",
       "speaker": {
         "name": "ANDRÉ RIOS",
-        "position": "Advogado Constitucionalista e Policial Militar Reformado"
+        "position": "Advogado Constitucionalista e Policial Militar Reformado",
+        "slug": "andre-rios"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -260,7 +281,8 @@
       "summary": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro apoia corpo de bombeiros e polícia militar. Ele explica sua posição a favor de inativos e pensionistas, discute a GRAN e Gretch, e menciona sua oposição a acusações infundadas. Promete fornecer informações sobre números solicitados.",
       "speaker": {
         "name": "LUIZ CLAUDIO CHAUVET",
-        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro"
+        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+        "slug": "luiz-claudio-chauvet"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -282,7 +305,8 @@
       "transcription": "Gostaria só de minutinho de de réplica, só pra corrigir a fala por gentileza.",
       "speaker": {
         "name": "ANDRÉ RIOS",
-        "position": "Advogado Constitucionalista e Policial Militar Reformado"
+        "position": "Advogado Constitucionalista e Policial Militar Reformado",
+        "slug": "andre-rios"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Advogado Constitucionalista, ex-Policial Militar, discutiu sistema proteção social e pedidos da comissão de veteranos e pensionistas; espera medidas corretivas da administração pública por danos causados a veteranos e pensionistas.",
       "speaker": {
         "name": "ANDRÉ RIOS",
-        "position": "Advogado Constitucionalista e Policial Militar Reformado"
+        "position": "Advogado Constitucionalista e Policial Militar Reformado",
+        "slug": "andre-rios"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -326,7 +353,8 @@
       "summary": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro agradeceu a oportunidade de apresentar respostas em nome do corpo de bombeiros, se comprometendo a entregá-las no prazo estabelecido, por meio da mídia digital ou em mão. Destacou a importância do diálogo com o governador.",
       "speaker": {
         "name": "LUIZ CLAUDIO CHAUVET",
-        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro"
+        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+        "slug": "luiz-claudio-chauvet"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -349,7 +378,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -373,7 +404,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -383,7 +415,8 @@
       "transcription": "Soy, na verdade. Vou ligar o sargento, falou lá para Duque de Caxias. Havia a bala comer.",
       "speaker": {
         "name": "MARCELO DINO",
-        "position": "Deputado Estadual (União/RJ)"
+        "position": "Deputado Estadual (União/RJ)",
+        "slug": "marcelo-dino"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -406,7 +440,8 @@
       "summary": "Deputado Estadual (União/RJ) defende Rio de Janeiro, critica regime de recuperação fiscal e defende polícia estadual. Exige mais apoio à polícia, menos burocracia e endurecimento de penas para criminosos. Critica politicos que priorizam interesses políticos sobre compromissos com a sociedade.",
       "speaker": {
         "name": "MARCELO DINO",
-        "position": "Deputado Estadual (União/RJ)"
+        "position": "Deputado Estadual (União/RJ)",
+        "slug": "marcelo-dino"
       }
     },
     {
@@ -417,7 +452,8 @@
       "summary": "Secretário compromete-se a abordar questões do sistema socioeducativo no Rio de Janeiro, que busca educar e capacitar jovens criminosos, mas necessita de investimentos em infraestrutura, servidores e vagas para reduzir reincidência e preparar cidadãos responsáveis. Muitos jovens cometem crimes relacionados a drogas e furto.",
       "speaker": {
         "name": "VICTOR HUGO POUBEL",
-        "position": "Secretário - Departamento Geral de Ações Sócio Educativas"
+        "position": "Secretário - Departamento Geral de Ações Sócio Educativas",
+        "slug": "victor-hugo-poubel"
       }
     },
     {
@@ -429,7 +465,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -440,7 +477,8 @@
       "summary": "Membro da Comissão de Segurança Pública da OAB RJ, Alberto Diogo Fernandes Vasconcelos, é advogado e propõe plano de redução de letalidade, considerando perdas tanto de civis como policiais em operações. Ele menciona a relação entre o aumento de letalidade e megaoperações policiais, bem como pequenas incursões em comunidades. Também pede lembrança de perguntas relacionadas à OAB.",
       "speaker": {
         "name": "ALBERTO DIOGO DA SILVA FERTIN DE VASCONCELLOS",
-        "position": "Membro - Comissão de Segurança Pública da OAB RJ"
+        "position": "Membro - Comissão de Segurança Pública da OAB RJ",
+        "slug": "alberto-diogo-da-silva-fertin-de-vasconcellos"
       }
     },
     {
@@ -452,7 +490,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -463,7 +502,8 @@
       "summary": "OAB propõe planos de redução de letalidade e proteção a direitos sociais de policiais. Suporta investigações de inteligência contra criminalidade em comunidades, cumprindo tratados internacionais. A OAB, Rio de Janeiro seccional, pode ajudar através da comissão de direitos humanos e procuradoria, trabalhando com polícia militar em questões sociais e locais insalubres. A OAB pode ajudar em audiências públicas da ANEDE no legislativo do Rio de Janeiro.",
       "speaker": {
         "name": "ALBERTO DIOGO DA SILVA FERTIN DE VASCONCELLOS",
-        "position": "Membro - Comissão de Segurança Pública da OAB RJ"
+        "position": "Membro - Comissão de Segurança Pública da OAB RJ",
+        "slug": "alberto-diogo-da-silva-fertin-de-vasconcellos"
       }
     },
     {
@@ -475,7 +515,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -486,7 +527,8 @@
       "summary": "Chefe de Gabinete do GCG/PMERJ abordou questão de violência e quarentena no Rio de Janeiro. Explicou processo de disciplina e função da comissão, que aconselha sobre permanência de subordinados. Comissão avalia processos de polícia, decisão final é do comandante geral. Policial dissolvido em esfera criminal não garante direito a reintegração automática, depende de avaliação do aspecto disciplinar. Comissão avaliando processos, suspensões temporárias possíveis.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -498,7 +540,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -509,7 +552,8 @@
       "summary": "Polícia Militar: não há atendimentos em gabinete a pedidos de deputados; agora protegida por sistema social; governo enviou projeto à Assembleia recebendo vetos e cassando veto; lei federal alterou contribuição previdenciária, mas militar é excepcional; revisão de pagamento para pensionistas especiais, sem modificações para outros inativos até o momento. Procuradoria se manifestou contra proteção social.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -521,7 +565,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -532,7 +577,8 @@
       "summary": "Polícia Militar do Rio de Janeiro: Chefe de Gabinete do Comandante Geral afirma órgão não contribui com previdência.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -544,7 +590,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -554,7 +601,8 @@
       "transcription": "",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -565,7 +613,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -576,7 +625,8 @@
       "summary": "Civil no trabalho privado tem direitos como greve, fiscalização, carga horária e INSS. Military no serviço público não tem esses mesmos direitos, mas recebe remuneração por sacrifício físico e atividade. Escala de serviço policial é flexível, impõe menor número de policiais e é adaptada a cada missão.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -587,7 +637,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -598,7 +649,8 @@
       "summary": "Advogado Constitucionalista e Policial Militar Reformado propõe respeitar interpretação de Coronel Renan sobre lei de previdência, solicita esclarecimento sobre pagamento, quer evitar mácula na reputação da corporação e garantir ausência de perseguição aos participantes.",
       "speaker": {
         "name": "ANDRÉ RIOS",
-        "position": "Advogado Constitucionalista e Policial Militar Reformado"
+        "position": "Advogado Constitucionalista e Policial Militar Reformado",
+        "slug": "andre-rios"
       }
     },
     {
@@ -610,7 +662,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -621,7 +674,8 @@
       "summary": "Chefe de Pessoal da PM-RJ refuta alegação de excesso de horário na operação, cita falta de definição de jornada de trabalho em normatização e explica a regulação de horas extras por meio de decreto federal. Discorda sobre interpretação de carga mínima versus máxima e menciona banco de horas desde 2012. Negou existência de escalas com mais de 260 horas no corpo policial.",
       "speaker": {
         "name": "CARLOS",
-        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro"
+        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro",
+        "slug": "carlos"
       }
     },
     {
@@ -633,7 +687,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -644,7 +699,8 @@
       "summary": "Decreto: turnos adicionais, não menção escala regular; abertura a outros órgãos estaduais; escalas normatizadas para recuperação do policial; descanso concedido ao ultrapassar carga horária limite; prática comandante também assim.",
       "speaker": {
         "name": "CARLOS",
-        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro"
+        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro",
+        "slug": "carlos"
       }
     },
     {
@@ -655,7 +711,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -666,7 +723,8 @@
       "summary": "Chefe de Pessoal da PM do RJ afirma que todos os batalhões que passou possuem banco de horas, mas quando perguntado se atualmente todos os batalhões têm, ele responde não saber.",
       "speaker": {
         "name": "CARLOS",
-        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro"
+        "position": "Chefe de Pessoal da Secretaria da Polícia Militar do Estado do Rio de Janeiro",
+        "slug": "carlos"
       }
     },
     {
@@ -678,7 +736,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -689,7 +748,8 @@
       "summary": "Chefe de Gabinete do GCG/PMERJ afirmou que o coronel Carlos, responsável pela decoração do PM, tem convenção com Banco Jorge e tomará medidas se descumprimentos forem encontrados no WhatsApp. Não tem onisciência para afirmar que todas unidades são decoradas, mas é gestão pessoalmente supervisionar.",
       "speaker": {
         "name": "RENAN GOMES DE OLIVEIRA",
-        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)"
+        "position": "Chefe de Gabinete do Comandante Geral da Secretaria da Polícia Militar do Estado do Rio de Janeiro (GCG/PMERJ)",
+        "slug": "renan-gomes-de-oliveira"
       }
     },
     {
@@ -701,7 +761,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -713,7 +774,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -724,7 +786,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -736,7 +799,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -747,7 +811,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -758,7 +823,8 @@
       "summary": "Agradecimento do Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro à colaboração do deputado Roberto Monteiro e Sargento Portugal, reconhecendo a importância do corpo de bombeiros na segurança pública e o apoio recebido.",
       "speaker": {
         "name": "LUIZ CLAUDIO CHAUVET",
-        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro"
+        "position": "Assessor Parlamentar da Secretaria de Estado de Defesa Civil e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+        "slug": "luiz-claudio-chauvet"
       }
     },
     {
@@ -770,7 +836,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     }
   ],

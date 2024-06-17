@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Enquanto nós",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Silva -- por Participante -- Pedro Uczai",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-silva-por-participante-pedro-uczai"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -147,7 +158,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -159,7 +171,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -171,7 +184,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -194,7 +209,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -216,7 +233,8 @@
       "transcription": "Comissão da de legislação participativa deputado Zé Silva obrigado pela oportunidade.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pedro Uczai -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pedro-uczai-por-participante-ze-silva"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -310,7 +335,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -333,7 +360,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -345,7 +373,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -357,7 +386,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -369,7 +399,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -380,7 +411,8 @@
       "summary": "Representante do Conselho Nacional de Segurança Privada afirma importância da regularização da segurança privada, maior efetivo do que as forças armadas. Falta de efetivo na Polícia Federal causa clandestinidade e problemas na área. Propõe conselho específico para trazer segurança à profissionais e população, valorizando a autonomia e fiscalização da segurança privada. Agradece suporte de parlamentares presentes. Boa tarde.",
       "speaker": {
         "name": "Alan Hassem",
-        "position": "Representante do Conselho Nacional de Segurança Privada"
+        "position": "Representante do Conselho Nacional de Segurança Privada",
+        "slug": "alan-hassem"
       }
     },
     {
@@ -392,7 +424,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -404,7 +437,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -416,7 +450,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -427,7 +462,8 @@
       "summary": "Representante do Conselho Nacional de Segurança Privada propôs projeto de lei para dar validade a CNV de policiais federais como documento oficial para vigilantes, atualmente feito pela Polícia Federal sem custo, agradeceu apoio de deputada Rosângela e comissão.",
       "speaker": {
         "name": "Alan Hassem",
-        "position": "Representante do Conselho Nacional de Segurança Privada"
+        "position": "Representante do Conselho Nacional de Segurança Privada",
+        "slug": "alan-hassem"
       }
     },
     {
@@ -439,7 +475,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -451,7 +488,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -463,7 +501,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -474,7 +513,8 @@
       "summary": "Representante da Antiga e Iluminada Socied. Banksiana argumenta que relatório comissão ignorou regulamento, questiona feriado religioso por lei pré-constitucional e interpretação do Supremo Tribunal Federal sobre o uso do termo \"Deus\" no preâmbulo constitucional. Sua posição visa remover cláusula de culto oficial/público na ordem constitucional brasileira, mantendo a liberdade religiosa e os benefícios do feriado como civil.",
       "speaker": {
         "name": "Eduardo Banks",
-        "position": "Representante da Antiga e Iluminada Socied. Banksiana"
+        "position": "Representante da Antiga e Iluminada Socied. Banksiana",
+        "slug": "eduardo-banks"
       }
     },
     {
@@ -485,7 +525,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -496,7 +537,8 @@
       "summary": "Representante da Antiga e Iluminada Socied. Banksiana se opõe ao suprimir os \"dias de guarda\" por possível expansão de outras religiões folga e reforça que constituição é para todos, com direito contra majoritário. Suplica rejeição de parecer e apresentação do projeto ao Congresso.",
       "speaker": {
         "name": "Eduardo Banks",
-        "position": "Representante da Antiga e Iluminada Socied. Banksiana"
+        "position": "Representante da Antiga e Iluminada Socied. Banksiana",
+        "slug": "eduardo-banks"
       }
     },
     {
@@ -508,7 +550,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -520,7 +563,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -532,7 +576,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -543,7 +588,8 @@
       "summary": "Representante da Socied. Banksiana discorda do parecer, propõe proteger direito de herança, separação obrigatória de bens em casamentos com filhos de relações anteriores, tratar proteção patrimonial de idosos através do estatuto do idoso. Pede rejeição do parecer e discussão no Congresso Nacional.",
       "speaker": {
         "name": "Eduardo Banks",
-        "position": "Representante da Antiga e Iluminada Socied. Banksiana"
+        "position": "Representante da Antiga e Iluminada Socied. Banksiana",
+        "slug": "eduardo-banks"
       }
     },
     {
@@ -555,7 +601,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

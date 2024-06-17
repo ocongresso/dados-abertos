@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -52,7 +55,8 @@
       "transcription": "Senhores deputados e senhoras deputadas, dizer que foi uma grande",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Antônia Lúcia assume presidência da mesa. Sidney Leite, ok, tranquilo. Inicia reunião.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sidney Leite -- por Participante -- Antônia Lúcia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-sidney-leite-por-participante-antonia-lucia"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Deputado Félix Mendonça Júnior eleito presidente com dez votos. Fim da votação, parabéns à sua excelência.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -108,7 +116,8 @@
       "transcription": "Obrigada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Antônia Lúcia -- por Participante -- Félix Mendonça Júnior",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-antonia-lucia-por-participante-felix-mendonca-junior"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 160666,
         "name": "Félix Mendonça Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felix-mendonca-junior"
       }
     }
   ],

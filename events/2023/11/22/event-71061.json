@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -123,7 +132,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Guilherme Boulos -- por Participante -- Denise Pessôa",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-guilherme-boulos-por-participante-denise-pessoa"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220553,
         "name": "Denise Pessôa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "denise-pessoa"
       }
     },
     {
@@ -168,7 +181,8 @@
       "transcription": "Agradeço à deputada Denise.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Denise Pessôa -- por Participante -- Guilherme Boulos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-denise-pessoa-por-participante-guilherme-boulos"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     }
   ],

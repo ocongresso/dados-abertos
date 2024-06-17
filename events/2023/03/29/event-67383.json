@@ -18,7 +18,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -41,18 +43,20 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
       "id": 182694,
       "start_time": 1680090165,
       "duration": 45,
-      "transcription": "A palavra está franqueada, não havendo mais né, deputado querendo né se pronunciar, em votação o requerimento. Aqueles que o aprovam permaneçam como se acham, aprovado. De acordo com o artigo quarenta e três do regimento interno, passo à presidência a deputada Antônia para que eu possa fazer uso da palavra como autor das proposições que se segue. Por favor deputada Antônio. Requerimento de número três do ano de dois mil e vinte e três do.",
-      "summary": "Presidente transfere palavra a deputada Antônia; votação aprovada.",
+      "transcription": "\nA palavra está franqueada, não havendo mais né, deputado querendo né se pronunciar, em votação o requerimento. Aqueles que o aprovam permaneçam como se acham, aprovado. De acordo com o artigo quarenta e três do regimento interno, passo à presidência a deputada Antônia para que eu possa fazer uso da palavra como autor das proposições que se seguem. Por favor, deputada Antônio. Requerimento de número três do ano de dois mil e vinte e três do.",
+      "summary": " Presidente cede palavra a Antônia Lúcia; votação aprovada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jorge Braz -- por Participante -- Antônia Lúcia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jorge-braz-por-participante-antonia-lucia"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -122,7 +131,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Antônia Lúcia -- por Participante -- Jorge Braz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-antonia-lucia-por-participante-jorge-braz"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -156,9 +168,10 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633845
 }

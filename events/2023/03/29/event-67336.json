@@ -18,28 +18,32 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
       "id": 183029,
       "start_time": 1680086222,
       "duration": 999,
-      "transcription": "Obrigado. Só comunicar aos colegas que o processo de votação está em aberto. Quem não votou ainda pode se dirigir até a a urna de votação, Cabino de votação. Pergunto se algum parlamentar presente ainda não votou? Todos já votaram? Já votou? Já votou? Bem encerramento de votação primeiro escrutínio, não havendo mais quem queira votar declaro encerrada a votação. Vamos para a",
-      "summary": "Votação em andamento, todos votaram, encerramento de votação, ninguém mais quis votar.",
+      "transcription": "\nObrigado. Só comunicar aos colegas que o processo de votação está em aberto. Quem não votou ainda pode se dirigir até a a urna de votação, Cabino de votação. Pergunto se algum parlamentar presente ainda não votou? Todos já votaram?\n\nJá votou? Já votou? Encerramento de votação, primeiro escrutínio. Não havendo mais quem queira votar declaro encerrada a votação. Vamos para a",
+      "summary": " Votação realizada; todos participaram, ninguém mais votou após encerramento.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 183027,
       "start_time": 1680087221,
       "duration": 72,
-      "transcription": "",
+      "transcription": "\nEleito para presidente da comissão de desenvolvimento urbano, o nobre deputado Acácio Favasco. Dez votos, parabéns. Então eleito, o deputado Acácio Favacho. Tendo em vista que foi alcançado o quórum para a eleição do presidente. Da comissão de desenvolvimento urbano, em primeiro fruitinho de votação declaro eleito portanto para o cargo de presidente, da comissão de desenvolvimento urbano, o deputado Acácio Favacho do MDB do Amapá.\n\nConvido o. Assumir a presidência da comissão de desenvolvimento urbano, declarando o já de imediato empossado. Vossa excelência vai presidir aqui vou ficar de eu vou ficar do vosso lado aqui.",
+      "summary": " Nobre deputado Acácio Favasco, do MDB do Amapá, é eleito presidente da comissão de desenvolvimento urbano, obtendo dez votos. Quórum alcançado, eleito em primeiro turno. Oficialmente empossado para presidir comissão.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -49,7 +53,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cleber Verde -- por Participante -- Acácio Favacho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cleber-verde-por-participante-acacio-favacho"
       }
     },
     {
@@ -61,28 +66,31 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
       "id": 183030,
       "start_time": 1680087612,
       "duration": 1662,
-      "transcription": "Este momento está encerrada a, opa, Sempre é bom mais voto senhor gente, agora sobrou o voto. Aê, encerrada a votação.",
+      "transcription": "\nEste momento está encerrada a a opa, sempre é bom mais voto senhor gente, agora sobrou o voto. Pronto. Aê, encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 183028,
       "start_time": 1680089274,
       "duration": 52,
-      "transcription": "Não havendo mais quem queira votar declaro encerrada a votação. Eleito para o cargo de vicepresidente Carlos Xodini, com onze votos. Convido o deputado Carlos Xogini para assumir a vicepresidência da comissão de desenvolvimento urbano. Declaro empossado. Passar a palavra pro deputado Carlos Xodini pra fazer o cumprimento ao meio dos colegas.",
-      "summary": "Votação encerrada; Carlos Xodini eleito vice-presidente; assume cargo de vice-presidente da comissão de desenvolvimento urbano; empossado; cumprimento aos colegas.",
+      "transcription": "\nNão havendo mais quem queira votar declaro encerrada a votação. Eleito para o cargo de vicepresidente Carlos Xodini, com onze votos. Convido o deputado Carlos Chodini para assumir a vicepresidência da comissão de desenvolvimento urbano, declaro empossado. Passar a palavra pro deputado Carlos Xodini pra fazer o cumprimento ao meio dos colegas.",
+      "summary": " Carlos Xodini eleito vice-presidente, assume cargo em desenvolvimento urbano. Cumprimentos a colegas.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -94,7 +102,8 @@
       "speaker": {
         "id": 204361,
         "name": "Carlos Chiodini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-chiodini"
       }
     },
     {
@@ -106,7 +115,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -118,7 +128,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -129,7 +140,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -141,7 +153,8 @@
       "speaker": {
         "id": 220694,
         "name": "Ricardo Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-maia"
       }
     },
     {
@@ -153,9 +166,10 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633612
 }

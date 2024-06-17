@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Declaro encerrado o processo de votação, e vamos agora apuração dos votos no painel",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " \"Florentino Neto, novo responsável, refere alegremente liderando trabalhos em ZPE.\"",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Thiago de Joaldo -- por Participante -- Florentino Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-thiago-de-joaldo-por-participante-florentino-neto"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 220700,
         "name": "Florentino Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "florentino-neto"
       }
     }
   ],

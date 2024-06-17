@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -66,18 +70,20 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
       "id": 183050,
       "start_time": 1680087250,
       "duration": 31,
-      "transcription": "Pra que a gente possa dar encaminhamento ao requerimento número três Marco, de dois mil e vinte e três que é de minha autoria.",
-      "summary": "Requerimento de três anos atrás necessita de orientações. (Fabio Garcia para Marco Brasil)",
+      "transcription": "\nPra que a gente possa dar encaminhamento ao requerimento número três Marco, de dois mil e vinte e três que é de minha autoria.",
+      "summary": " Fabio: Clarificações necessárias sobre requerimento de há 3 anos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fabio Garcia -- por Participante -- Marco Brasil",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fabio-garcia-por-participante-marco-brasil"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -136,7 +146,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -148,7 +159,8 @@
       "speaker": {
         "id": 220694,
         "name": "Ricardo Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-maia"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 220575,
         "name": "Sonize Barbosa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "sonize-barbosa"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -196,7 +211,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -208,17 +224,19 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
       "id": 183051,
       "start_time": 1680088203,
       "duration": 47,
-      "transcription": "Obrigado, obrigado. Que que nós temos? Não, mas eu pedi. Isso. O item quatro,",
+      "transcription": "\nObrigado, obrigado. Que que nós temos? O item quatro,",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marco Brasil -- por Participante -- Fabio Garcia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marco-brasil-por-participante-fabio-garcia"
       }
     },
     {
@@ -230,7 +248,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -242,7 +261,8 @@
       "speaker": {
         "id": 220575,
         "name": "Sonize Barbosa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "sonize-barbosa"
       }
     },
     {
@@ -254,9 +274,10 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633919
 }

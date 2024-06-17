@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -64,7 +68,8 @@
       "transcription": "Bom? Fica à vontade.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Albuquerque -- por Participante -- Leur Lomanto Júnior",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-albuquerque-por-participante-leur-lomanto-junior"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -124,7 +133,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -310,7 +335,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -322,7 +348,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -332,7 +359,8 @@
       "transcription": "Celho.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -356,7 +385,8 @@
       "speaker": {
         "id": 74158,
         "name": "Mário Heringer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-heringer"
       }
     },
     {
@@ -367,7 +397,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -379,7 +410,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -391,7 +423,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -402,7 +435,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -414,7 +448,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -426,7 +461,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -438,7 +474,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -450,7 +487,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -462,7 +500,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -473,7 +512,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -485,7 +525,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -496,7 +537,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -508,7 +550,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -519,7 +562,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -531,7 +575,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -543,7 +588,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -555,7 +601,8 @@
       "speaker": {
         "id": 220552,
         "name": "Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zucco"
       }
     },
     {
@@ -567,7 +614,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -579,7 +627,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -591,7 +640,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -603,7 +653,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -614,7 +665,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -626,7 +678,8 @@
       "speaker": {
         "id": 74550,
         "name": "João Leão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-leao"
       }
     },
     {
@@ -638,7 +691,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     },
     {
@@ -648,7 +702,8 @@
       "transcription": "Está encerrada a votação com",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -658,7 +713,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -670,7 +726,8 @@
       "speaker": {
         "id": 92102,
         "name": "Leur Lomanto Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leur-lomanto-junior"
       }
     }
   ],

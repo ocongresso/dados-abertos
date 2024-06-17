@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "Passamos",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- José Rocha -- por Participante -- Tenente Coronel Zucco",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jose-rocha-por-participante-tenente-coronel-zucco"
       }
     },
     {
@@ -82,7 +88,8 @@
       "summary": "Deputado nomeia vice-presidentes e designa relator para CPI. Menciona regimento interno e código de procedimentos.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Deputado afirma impedimento subjectivo, intimo, não para escolha de relatores; referência à norma permissiva de votação. Questionem ordem definido.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": "Tem início CPI-Agro por 120 dias, até 28/09/2023, com reuniões às terças e quintas. Membros devem requerer com antecedência dentro do tema da CPI, com prazo de entrega de 24 horas. Análise objetiva, sem perseguição, para trazer paz e ordem ao campo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -150,7 +162,8 @@
       "transcription": "Nossa palavra ao primeiro vicepresidente deputado Kim Kataguiri.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -172,7 +186,8 @@
       "transcription": "Passo a palavra ao segundo vicepresidente e delegado, Fábio Costa.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 220583,
         "name": "Delegado Fabio Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-fabio-costa"
       }
     },
     {
@@ -194,7 +210,8 @@
       "transcription": "Obrigado. Passo a palavra ao terceiro vicepresidente, deputado Ibanheiro de Melo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -217,7 +235,8 @@
       "summary": "Deputado cedeu palavra colega de partido, Diego Garcia.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -229,7 +248,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -239,7 +259,8 @@
       "transcription": "Obrigado. Obrigado deputado Gil Garcia, com a palavra, deputado Nicoletti. Primeiramente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -251,7 +272,8 @@
       "speaker": {
         "id": 204479,
         "name": "Nicoletti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nicoletti"
       }
     },
     {
@@ -262,7 +284,8 @@
       "summary": "Deputado permite Talíria Petroni falar por Zoom por motivo de gravidez.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -274,7 +297,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -284,7 +308,8 @@
       "transcription": "Obrigado, deputada Natalíria. Com a palavra, meu colega do Republicanos, deputado Messias Donato.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -306,7 +332,8 @@
       "transcription": "Messias Donato, com a palavra deputada Carolina Detone.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -318,7 +345,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -328,7 +356,8 @@
       "transcription": "Obrigado deputada. Bravo obrigado. Com a palavra deputado coronel Crisóstomo.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -340,7 +369,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -350,7 +380,8 @@
       "transcription": "Obrigado. Com a palavra deputado Joaquim passarinho.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -362,7 +393,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -372,7 +404,8 @@
       "transcription": "Vamos escutar a palavra do deputado? Pode não conseguir deputado. Dizendo eu acho que é",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -384,7 +417,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -394,7 +428,8 @@
       "transcription": "Deputado, com a palavra deputado, Valmir Assunção.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -406,7 +441,8 @@
       "speaker": {
         "id": 160610,
         "name": "Valmir Assunção",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "valmir-assuncao"
       }
     },
     {
@@ -416,7 +452,8 @@
       "transcription": "Deputado. Deputado Rodolfo Nogueira.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -428,7 +465,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -438,7 +476,8 @@
       "transcription": "Passo a palavra, por favor deputada. Minuto. Minuto pra senhora. Liberal meu microfone. Presidente.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -450,7 +489,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -460,7 +500,8 @@
       "transcription": "Deputada, com a palavra deputada Daniela Reiner. Governador.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -472,7 +513,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -482,7 +524,8 @@
       "transcription": "Deputada Daniela com a palavra deputado capitão Alden.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -494,7 +537,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -504,7 +548,8 @@
       "transcription": "Capitão Alden, com a palavra deputado do União, coronel Assis, senhor presidente",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -516,7 +561,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -526,7 +572,8 @@
       "transcription": "Com a palavra deputada do PSOL São Paulo, Sâmia Bonfim. Obrigado presidente pela",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -538,7 +585,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -548,7 +596,8 @@
       "transcription": "Com a palavra, deputado delegado Eder Mauro PL do Pará.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -560,7 +609,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -570,7 +620,8 @@
       "transcription": "Delegado Edro Mauro com a palavra deputado Marcon do Rio Grande do Sul. Senhor",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -582,7 +633,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -594,7 +646,8 @@
       "speaker": {
         "id": 220633,
         "name": "Ricardo Salles",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-salles"
       }
     },
     {
@@ -605,7 +658,8 @@
       "summary": "Deputado pede calma e ordem, solicita saída de assistentes, imprensa e segurança do plenário para continuidade da comissão, concede dois minutos adicionais ao deputado Marcon para falar.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -617,7 +671,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -629,7 +684,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -639,7 +695,8 @@
       "transcription": "Na CPI por favor, por favor então novamente com a palavra deputado Marcondes.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -651,7 +708,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -661,7 +719,8 @@
       "transcription": "Deputado com a palavra agora o deputado do União do Acre coronel Ulisses. Senhor presidente",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -673,7 +732,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -684,7 +744,8 @@
       "summary": "Deputado fala sobre troca de turnos de falada entre colegas.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -696,7 +757,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -706,7 +768,8 @@
       "transcription": "",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -718,7 +781,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -729,7 +793,8 @@
       "summary": "Deputado registrou inscrição para falar.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -741,7 +806,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -752,7 +818,8 @@
       "summary": "Deputado convoca reunião extraordinária para apresentação de plano de trabalho e debate em 23 de maio, por sistema Info Leg. Abre painel de presença uma hora antes. Encerramento de reunião atual.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     }
   ],

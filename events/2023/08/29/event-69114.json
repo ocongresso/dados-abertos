@@ -17,7 +17,8 @@
       "summary": "Inicia-se seminário sobre paternidade e corresponsabilidade, transmitido pela Câmara dos Deputados, com apoio de ONGs. Debatem-se desafios e experiências internacionais sobre ampliação da licença paternidade. Compõem o dispositivo de honra: deputada Amanda Gentil, deputada delegada Ionia, representante do Ministério da Saúde, embaixadora da Suécia e deputada Amanda Gentil abre o evento.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -40,7 +42,8 @@
       "summary": "Mestre de Cerimônias anuncia palestra da deputada e integrante do GT.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Mestre de Cerimônias anunciou orador do Ministério da Saúde, Wellington de Paula Pereira.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Representante do Ministerio da Saúde fala sobre compromisso do ministério com mulheres gays, lésbicas e bissexuais, e preocupação com paternidade. Menciona história pessoal e importância de pais envolvidos no pré-natal. Pedido de reconhecimento de acompanhamento de pais por empresas.",
       "speaker": {
         "name": "Weliton de Paula",
-        "position": "Representante do Ministerio da Saúde"
+        "position": "Representante do Ministerio da Saúde",
+        "slug": "weliton-de-paula"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Mestre de Cerimônias agradece presença deputada Gisela Simona, doutora Aminha Haddad, Raminha Haddad, doutora Ivana Gesti, doutora Patrícia Santana e embaixadora da Suécia no Brasil, Karen Valentim. Evento é parte das comemorações dos quatro anos do Pacto Nacional da Primeira Infância, e conta com participação da Anamatra. Passa palavra para embaixadora da Suécia.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Embaixadora da Suécia no Brasil, parceira do GT na organização do evento, compartilhou experiência pessoal com licença parental e políticas suecas. No país, pais podem receber apoio financeiro do Estado por permanecer até 480 dias em casa com filhos. Ela destacou benefícios da licença parental compartilhada entre pais para igualdade de gênero e vínculo pai-filho. Espera que o evento inspire políticas favoráveis à família.",
       "speaker": {
         "name": "Karin Wallensteen",
-        "position": "Embaixadora Da Suécia No Brasil, Parceira do GT Na Organização Deste Evento"
+        "position": "Embaixadora Da Suécia No Brasil, Parceira do GT Na Organização Deste Evento",
+        "slug": "karin-wallensteen"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "Mestre de Cerimônias anuncia vídeo de saudação da deputada Tábata Amaral, coordenadora do grupo de trabalho, que participará do seminário noturno. Ela se apresenta como deputada federal por São Paulo do PS e sauda a todos.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -118,7 +127,8 @@
       "summary": "Grupo de trabalho debate proposta de licença paternidade no Brasil, incentivando maior participação de pais responsáveis na criação de filhos e promovendo inserção justa de mulheres no mercado de trabalho. Apoio de diversas instituições e palestrantes em seminário internacional. Decades espera por regulamentação no país.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -128,7 +138,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -139,7 +150,8 @@
       "summary": "Mestre de Ceremônias anunciou exibição de vídeo com saudação da deputada Benedita da Silva, que está ausente por razões de saúde.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -150,7 +162,8 @@
       "summary": "A palestra aborda a necessidade de uma lei que regule o direito à licença paternidade no Brasil, seis anos após a promulgação da constituição de 1988. Destaca a importância de homens e mulheres serem responsáveis igualmente pelos cuidados com seus filhos e a intenção de tornar essa pauta uma prioridade no Congresso Nacional, começando pela Secretaria da Mulher e com o apoio da bancada feminina.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -160,7 +173,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -171,7 +185,8 @@
       "summary": "Mestre de Cerimônias desfaz dispositivos de abertura e convida convidados especiais a nova plateia, mantendo deputada Amanda Gentil para coordenar mesa \"Passado, Presente e Futuro\" da licença paternidade. Deputado Constituinte Sergio Silveira, psicanalista Ana Sofia Guerra, e escritor Marcos Piajos convidados para a mesa. Amanda Gentil tomará a palavra para iniciar os trabalhos.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Pai recebe licença de 8 dias ao nascer do filho, proposto por constituinte médico pediatra, visto necessity de pai presente para família ser \"célula mater da sociedade\".",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -204,7 +221,8 @@
       "transcription": "Muito obrigado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -215,7 +233,8 @@
       "summary": "Deputado Compromete-se a Apresentar Projeto de Lei sobre Código Civil com Proposta do Constituinte. No Antecedente da Votação, Deputado cuidou de Recém-nascida e Substituiu Discurso à Última Hora. Discurso Emoçãoou e Causou Silêncio no Plenário, Tornando-se Histórico. Emenda Alterou Percepção sobre Paternidade. Licença Paternidade de Cinco Dias Considerada Pouca, Pois Forma Afeto e Lembrança Firme de Pai na Mente da Criança.",
       "speaker": {
         "name": "Alceni Guerra",
-        "position": "Deputado Constituinte"
+        "position": "Deputado Constituinte",
+        "slug": "alceni-guerra"
       }
     },
     {
@@ -227,7 +246,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -238,7 +258,8 @@
       "summary": "Discurso da psicanalista sobre sua experiência pessoal e a importância da figura paterna e licença paternidade. Destaca o nascimento da licença em época política tensa e a necessidade de seu ampliação atualmente. Dedica o discurso a seu pai e a aqueles que não tiveram acesso a essa licença.",
       "speaker": {
         "name": "Ana Sofia Guerra",
-        "position": "Psicanalista"
+        "position": "Psicanalista",
+        "slug": "ana-sofia-guerra"
       }
     },
     {
@@ -250,7 +271,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -260,7 +282,8 @@
       "transcription": "Com vocês agradeço deputada Amanda Gentil e todas as outras deputados e deputados que estão aí lutando por isso, estou muito feliz de estar aqui em Brasília, feliz porque vocês mudam a vida de muita gente, vocês com uma canetada, com uma discussão, com uma reunião como essa, mudam vida de muita muita muita gente, o deputado Alseniguerra mudou a minha vida quando ele subiu naquele palanque e mostrou pro Brasil que é importante pai, que pai participar faz toda a diferença, que ele mesmo era pai e de alguma forma no seu discurso você me autoriza a ser também pai e eu costumo dizer você me autoriza a ser quem eu realmente sou. Porque essa que é a verdade. Nós homens, a gente a gente chega nesse mundo bonzinho. O pai da Aurora lá vai ser pai essa semana, a Aurora está chegando na vida dele também, e o Felipe é pai do do Thomas, não é Felipe? Já veio falar comigo EE0 Thomas e quem é pai de menino o Douglas é pai do Miguel e quem é pai de meninos sabe que os meninos, eles vêm bonzinhos pro mundo e não é à toa que está aqui todos os homens grandes chorando, porque é nós nos nos conectando com o nosso melhor, com o que a gente tem de melhor dentro da gente e nós homens, por mais que não pareça, eu sei que vocês mulheres às vezes não acreditam, nós somos bons, no fundo nós somos bons como eu sei isso, eu conheço meninos, eu conheço crianças, crianças de dois três quatro cinco anos você entrega bebê no colo dessa criança, e esse menino vai cuidar dessa criança vai beijar essa criança. Nós meninos nós somos generosos estão distantes, esse menino vai ouvir que homem não chora, que homem não cuida, que homem não trata bem as mulheres, que as mulheres são piores e são mais burras são ignorantes e não jogam bem futebol e não sabem de nada e a gente constrói uma terrível masculinidade em oposição a tudo o que é feminino. E isso nos destrói. Nós homens, a gente morre dez anos antes, a gente se mata quatro vezes mais. Essa construção masculina em oposição ao feminino nos destrói. Isso não é quem a gente é. Que a gente é aquela criança de dois três anos, uma criança boa, generosa e cuidadora. E o que o deputado Alseneger nos permitiu é de alguma forma nos reconectar com o que a gente é de verdade. A gente é aquela aquela criança, aquela aquele aquele menino, que quando, chega o seu filho, na maternidade, começa a chorar de novo, Quando lembra de quando descobriu AAA notícia de que seria pai começa a chorar de novo, quando lembra dos dos dos acontecimentos com com os filhos, começam a chorar de novo e a gente chora e chora e chora. E o que a gente precisa, entre nós homens, fazer essa autorização, você não é menos homem irmão. Se você cuida da sua família você é mais, você é mais forte, é melhor pessoa, você é é é mais homem na sua força e a sua força não existe pra agredir, existe pra proteger, pra cuidar. É pra isso que você vem ao mundo. Então quando chega na minha vida num domingo de manhã, uma menina. Olha os homem chorando aqui gente, é, uma menina parecida com a Ana Sofia a Anitta. Eu tento ser o melhor pai do mundo porque eu não tive, pai. Eu não conheci meu pai biológico, a minha mãe engravidou e imediatamente o meu pai biológico abandonou minha mãe grávida. E eu vi a minha mãe e o que como é difícil pra uma mulher cuidar sozinha, de uma criança. Eu vejo na minha esposa e na nossa relação, como é difícil criar uma criança junto. Quanto mais uma mulher sozinha e são onze milhões de mulheres no Brasil que cuidam sozinhas dos seus filhos. Onze milhões de mulheres que nesse instante tendo que equilibrar todos os pratos da criação solitária dos seus filhos. Cinco vírgula cinco milhões de crianças sem o nome do pai na certidão de nascimento eu sou deles. Eu sou deles. São milhões e milhões de famílias que não têm a presença do pai, do homem. E eu costumo dizer, pra mulher isso é terrível, pra mulher isso é terrível todas as pesquisas de uma pesquisa dinamarquesa nos mostra que, o grande gap salarial acontece na chegada do primeiro filho, porque a mulher abre mão das promoções, das viagens, abre mão da vida profissional pra ficar com aquele primeiro filho. E00 salário do homem continua aumentando, e o da mulher tem uma queda, que nunca mais se recupera. Ou seja na vida de uma mulher, não tem nada pior, do que homem que não é parceiro dela, na chegada de uma criança. Na vida de uma criança não tem nada pior do que homem que não participa porque eu, criança, ficava imaginando será que o meu pai é, quem é meu pai? Será que o meu pai é amigo da minha mãe? Eu pensava que era o Falcão do Inter porque o Falcão é jogador de futebol que a minha mãe conhecia, pensava quem sabe é o Falcão do Inter e pensava que talvez meu pai, né, fosse o Eike Batista quando Eike Batista era muito rico aí depois que ele ficou pobre eu não quero mais também ele como meu pai, mas eu fico sempre como criança pensando quem é meu pai? Quem é meu pai? Quem é meu pai? Quem é meu pai? Será que o meu pai é super herói ou será que o meu pai é super vilão e a psicanálise estuda muito isso? E quando a mãe descobriu o câncer pela primeira vez em dois mil e quinze, A minha mãe me contou quem é meu pai, e falou o nome e o sobrenome do meu pai. E eu perguntei tá, então ele não é né, nenhum super herói não. Ele não é nenhum super vilão também não, ele é só cara. E foi ali em dois mil e quinze que eu vi que essa é a história mais comum do Brasil. Essa é uma história naturalizada, naturalizada nós homens no nosso círculo de amizade conhecemos algum amigo que abandonou uma mulher grávida, nós homens nos incentivamos mutuamente a atrair nossas esposas. O tempo todo nós homens estamos incentivando, ah vai pra casa, ah vai trocar fralda, ah vai cuidar, ah então você é pau mandado de ir pra casa, você está, a sua mulher manda em você, meu irmão, quantas vezes eu levei a minha filha no trabalho, e meus amigos me diziam ah hoje você está de babá, porque a gente não tinha babá. Eu levava a Anitta na no trabalho pro escritório meus amigos diziam ah você está de babá, eu virava pra eles e dizia eu não estou de babá meu irmão eu estou de pai. Pai também cuida, pai também leva no pediatra, leva na creche, pai também, o pai pode fazer tudo que a mulher faz, tudo, menos amamentar e menos engravidar. O resto tudo a gente pode fazer. E mais, porque porque a gente tem débito com a mulher, já que a mulher ficou nove meses tendo a sua vida biológica transformada, social transformada, a solidão da mãe é uma uma verdade brutal, uma vida, o corpo da mulher se transforma, a depressão pósparto cerca de trinta por cento das mães. A violência obstétrica, a violência, porque depois de ter filho, de vinte e cinco a cinquenta por cento das mulheres são demitidas nos doze primeiros meses. Então você olha pra toda essa violência que as mulheres passam, e aí se você não teve uma mãe que você ama, e você não faz isso pela sua mãe, e se você não teve uma irmã que você ama, e você faz isso pela sua irmã, às vezes vem uma filha na sua vida e você descobre que, poxa vida, todo aquele machismo que você acompanhou e todo aquele machismo que você celebrou, precisa mudar agora. E eu acho muito corajoso quando homem, se, se posiciona contra o pacto masculino da violência contra a mulher. Acho muito corajoso, porque não é nada fácil. A gente a mente é incentivado a ser violento, com as pessoas que a gente diz amar. Com as nossas mães, esposas e filhas. Como se mulheres fossem de fato, cidadãs menores. E eu gosto que a melhor definição pra mim do feminismo, uma definição de uma autora que diz que o feminismo nada mais é, do que a crença radical de que a mulher é uma pessoa. E a grande juíza americana, Ruth Beten Geisberg, diz uma frase que eu gosto também, que tudo que pedimos para os nossos irmãos homens é que tirem os nossos os seus joelhos dos nossos pescoços. É só isso, que uma mulher pede a homem. Por favor tire o seu pescoço, tiram o seu joelho do meu pescoço por favor. E quantas vezes nós, em grupos de WhatsApp, em comentários entre os nossos amigos, a gente, celebra esse joelho no pescoço das mulheres e a gente se aproveita desse joelho no pescoço das mulheres. Então, eu acho sempre muito bonito quando homem se posiciona contra esse pacto masculino, de violência. E quando a gente entende que esse é pedido de trégua. As mulheres não querem vingança. E a gente tem que agradecer por isso. As mulheres só querem que a gente seja parceiro, nessa caminhada, nesse passeio, e se se a gente puder ser parceiro na criação dos nossos filhos, parceiro, ninguém é inimigo de ninguém, a gente está junto criando os nossos filhos, cuidando das nossas casas, fortalecendo nossos casamentos, e aí tendo crianças menos traumatizadas, e meninos e meninas mais respeitados. Então eu agradeço quando eu soube que a gente estava junto nessa mesa eu fico muito, eu fiquei muito emocionado, deputado Alsenir, eu não sei se eu tenho que te chamar de deputado até hoje, mais amigo, irmão Alcinir Guerra, irmão, obrigado pela autorização de poder ser quem a gente é no fundo, quem a gente é de verdade, no fundo do nosso coração. Menos de setenta e quatro a Suécia diz assim, vamos mudar isso em vez de licençamaternidade e paternidade vamos fazer uma licença parental, pra homens e mulheres junto. Vamos mostrar como sinal político que homens e mulheres são cuidadores potenciais. Vamos parar com essa história de licençamaternidade maior e licençamaternidade menor porque isso já é recado, pra que esses homens se percebam como menos cuidadores, e a Suécia em setenta e quatro diz assim, os dois são importantes, então os dois têm quatrocentos e oitenta dias o que é que eles chamam eles chamam o autor Ofelista mais famoso da Suécia, o cara mais forte da Suécia e portanto mais másculo aquele que vai seduzir aqueles homens ditam que eles são cuidadores e chamam aquele do momento do papai. E fazem toda uma campanha publicitária, celebrando a masculinidade do cuidador. Aquele homem gigante e forte trocando fralda e tem foto do bebê fazendo xixi, e ele trocando fralda, e ele brincando com as crianças na no jardim de infância, então é mostrando que você não é menos homem quando você é cuidador, e que homens sim deveriam sair, a Suécia foi aprimorando isso e de tarde a gente vai ter painel só sobre isso, foi aprimorando em noventa e cinco, então mês só para os papais curtirem, e depois, noventa dias pros pais e cada mês que o pai não tira, a família pede esse mês. Então a mãe ela também não pode, não podem aproveitar aquela licença parental. Só que na, ano depois, na Islândia, talvez inspirado pelos movimentos suecos, a Islândia disse assim, alguma coisa tem que mudar aqui também. Mil novecentos e setenta e cinco, dia vinte e quatro de outubro, as mulheres islandesas, fizeram greve. Elas disseram, chega, não aguentamos mais trabalho não remunerado em casa, não aguentamos mais, tem que cuidar sozinhos das das crianças e elas fizeram greve, noventa porcento das mulheres foram pra rua, pararam o trabalho, pararam no trabalho doméstico, os homens tiveram que sair dos seus escritórios, correr pra casa pra cuidar das crianças, e acabou o estoque de salsichas nos supermercados, porque essa era a única alimentação que os homens sabiam dar pros seus dia depois dessa greve o Parlamento da Islândia aprovou uma lei garantindo igualdade de remuneração, no ano seguinte né, a greve também abriu caminhos para eleição cinco anos depois da primeira presidente da mulher da da Islândia. E hoje, a Islândia no no ranking global de gap de gênero está em primeiro lugar, ou seja, é o país mais igual em termos de gênero do mundo. E como é que a gente trata as mulheres do Brasil? Quarenta por cento a gente já sabe que são as chefes do lares, dos lares, mas mesmo assim, entre trinta e cinco e cinquenta por cento das mulheres são demitidos uns doze meses depois da da licença, as mulheres ganham trinta e cinco por cento menos do que os homens, mesmo quando têm mesmo a formação, ocupação, o número de horas mesmo idade mesmo a raça e e mesmo na mesma região onde moro. E a The Economist fala que se a gente tratasse as mulheres como pessoas, eu vou bater de novo nesse ponto, é isso, não é, não precisa nem falando de igualdade, quando a gente fala de igualdade, a gente precisa lembrar que o que a gente está dizendo é mulheres são pessoas. Mulheres são gente, e como são pessoas a gente deveria respeitar essas pessoas por que pagar menos uma mulher? E o PIB, aumentaria de cinco por cento a vinte por cento se as mulheres fossem simplesmente tratadas com dignidade né, e e tivessem tratamento no trabalho parecido com os dos homens, essa é a minha mãe, dona Heloísa. Essa foi a mulher que me criou sozinha e me criou com a ajuda das amigas. E eu me lembro de estar na casa de uma amiga da minha mãe todos os dias, então a minha mãe tinha que trabalhar, então eventualmente estava na casa tia Lene, depois estava na casa de outra tia, e eu brinco com a com a minha mãe que eu fui criado por Lobas. Porque aquelas mulheres elas me criaram e uma das coisas que eu mais me lembro é a minha mãe dizendo você não é seu pai biológico, quando chegar a sua vez de ser pai você vai ser pai, você não vai abandonar. Minha mãe falava uma frase que eu acho que todos vocês ouviram das mães, você não é todo mundo. Num país que abandona, num país com onze milhões de mães solo você não vai ser marido desse. Num país com cinco milhões de crianças sem o nome do pai na certidão, você vai fazer diferente, você não é todo mundo, a minha mãe me dizia. Eu cresço e encontro meu pai biológico duas vezes, uma vez na praia, eu indo de barraca em barraca pedindo picolé de molango, a minha mãe não me dava picolé de molangulo, ela era nutricionista e eu adoro doce. E a minha mãe, numa dessas barracas eu encontro meu pai biológico e ele vira a cara pra E, anos depois quando eu já tenho trinta e seis anos e estou lançando o meu segundo livro sobre parentalidade, na livraria da Vila do Rio de Janeiro. Uma livraria maravilhosa com vinho branco e champagne e amigos e eu atendendo uma por umas pessoas, e a minha esposa começa a ficar nervosa, e minha esposa não é de ficar nervosa, ela está sempre num alto astral e eu pergunto, Ana o que que está acontecendo? E ela não responde, ela está nervosa olhando pra alguém da fila? E aos poucos eu vou sentindo que é meu pai biológico, meu pai biológico está aqui. E ele vai vindo e aquela fila vai chegando e eu vou só pelo olhar da minha esposa eu vou percebendo quem é a pessoa, quem é meu pai, eu vou percebendo ela ficando cada vez mais nervosa e olhando pra homem específico aquele homem vai chegando chegando chegando e quando ele chega na minha frente no lançamento do livro eu estendo a mão pra ele e puxo ele e puxam ele e abraçam ele e digo, meu irmão deu tudo certo. Eu tive a sorte de uma mulher ficar. Tem sempre uma mãe que fica. Têm sempre uma mãe que fica. Mães são tão cobradas que mesmo ficando se sentem culpadas. Mães que mesmo não tendo abandonadas se sentem insuficiente, mesmo não tendo abandonado, não não ciente mesmo não tendo abandonando, não não tendo abandonado, se sentem insuficientes. Mães que têm tanta pressão social pra serem mães perfeitas, que mesmo estando lá sozinhos cuidando dos seus filhos acham que erraram. Algumas mães me dizem eu tenho dedo podre, eu escolho errado, eu digo não é o seu dedo. Não é o seu dedo. Nós homens a gente precisa melhorar. Nós homens a gente precisa celebrar a masculinidade saudável. Celebrar masculinidade saudável, a nossa força existe pro cuidado. Não pra enganação, não pra violência. Eu falei pro meu pai, de alguma forma, não foi culpa dele. Vinte e seis por cento, quase vinte e sete das famílias brasileiras com filhos não têm pai dentro casa. Cinco milhões de crianças não têm o nome da do pai na certidão, quarenta e dois vírgula nove por cento, isso são números da da fundação Getúlio Vargas, dos partos no SUS são mães solteiras. No Rio de Janeiro esse número vai pra sessenta e por cento, em Manaus setenta por cento. Setenta por cento dos partos pelo SUS em Manaus são mães solteiras, mães solo. Em dez anos de dois mil e cinco a dois mil e quinze o Brasil ganhou quase dois milhões de mães com responsabilidade de criarem seus filhos sem ajuda dos dos pais sozinhos. A minhas filhas chegam na minha vida, eu começo a aprender com elas o que é ser pai porque eu não tive pai, a minha mãe foi meu pai mas eu também não sei o que é essa masculinidade do cuidado, e eu aprendi com as minhas filhas puxando a minha orelha e dizendo pai você pode ser melhor, minha esposa dizendo você tem que ser melhor, você tem que fazer mais. E elas foram me ensinando e eu fui escrevendo sobre isso e a gente escreveu livro chamado Papai É Pop, quando a minha filha já tinha dez anos. Minha filha nasceu em dois mil e cinco, eu fiquei escrevendo solidariamente porque eu achava que esse era papel feminino demais que os meus amigos iam rir da minha cara, como o plenário do do da câmara riu da cara do do deputado ao Seniguerra, eu tinha medo dessa risada, eu tinha medo que os meus amigos dissessem ah você é menos homem se você cuida das suas filhas, muitas vezes cuidei das minhas filhas escondido e quantos homens foram grandes pais no passado, mas fazendo apenas teatro social, mostrando fora da das das paredes de casa, que não eram grandes pais, que não eram grandes parceiros das suas esposas, mas que na intimidade do lar eram sim grandes pais, e que tinham também essa vergonha social de mostrar pros outros o quão homem eles eram, porque isso é uma força também do do do homem, não só da mulher, como cuidadora. E comecei a escrever sobre isso e pensei quando a gente lançou o livro não vai vender nada esse livro num país que não celebra a paternidade e não incentivam o homem a participar e que tem só cinco dias de licença paternidade, esse livro não vai encontrar ninguém pra pra pra discutir esse assunto. Esse livro eu tenho a felicidade de dizer, já vendeu quinhentas mil cópias, está se encaminhando pra milhão de cópias vendidas e foi traduzido em várias línguas no mundo todo, nos levou a palestrar pra o, no mundo todo Londres, Estados Unidos, Portugal, Espanha e hoje em dia foi transformado num filme, filme que fala exatamente isso. Homem também pode cuidar, mesmo que você não tem pai, você pode cuidar. E é filme que está, foi o maior lançamento nos cinemas nacionais do ano passado, oitocentas salas de cinema, maior lançamento brasileiro né, nas salas de cinema brasileiras no ano passado e que está disponível no Amazon Prime pra justamente tocar corações e incentivar esses homens mais e fortalecer as famílias, como foi dito aqui por uma deputada, a a fortalecimento da família é o que a gente quer, o bom cuidado das crianças, é isso aí que a gente quer. E aí a gente sabe que pai presente muda tudo. A gente sabe estudo sueco lançou essa a. Cada, eu vou ler porque eu estou me atrapalhando aqui. Estudo publicado em dois mil e dez pelo Instituto Sueco de Avaliação de Políticas de Mercado de Trabalho mostrou os sentimentos futuros da mãe aumentam em média sete por cento por cada mês que o pai tira de licença paternidade. Cada mês que o pai tira de licença paternidade fortalece o vínculo dele com a criança, e esse pai é pai que vai querer participar mais depois. Ou seja, esses primeiros meses são fundamentais pra que esse pai participe o resto da vida. E a gente sabe isso por explicação científica tá? A ocitocina feminina ela explode na hora do parto ela explode durante a o cuidado com o bebê, mas quando o homem participa dos cuidados com o bebê a ocitocina aumenta também no homem, o homem desenvolve e quem gosta de de neurociência, o 0 grande inventor da neurociência afetiva, ele ele fala de uma área do cérebro que é mais saliente na mulher que é a área do quer do cuidado, mas quando o homem participa ou quer explodem no cérebro masculino também. Ou seja, os homens também são cuidadores. Podem ser tão bons quanto as mulheres, eles só precisam de tempo, como já foi dito, pra realmente participar pra realmente estar junto das crianças. A tendência de cuidado masculino não se limita apenas a países como a Suécia, há países pequenos, os os escandinavos, mas também na Alemanha oitenta e dois milhões de habitantes e ajustou o modelo da Suécia, reservando dois dos quatorze catorze meses de licença parental pros homens, em dois anos o número de pais que tiram a licença parental aumentou de três por cento pra vinte por cento. E os benefícios de pai presente. Homens cuidadores vivem mais do que homens não cuidadores, brincadeiras que homens em geral fazem com seus regulados, menos agressividade, são menos violentos. Pais que tiram licença paternidade mantêmse conectados com seus filhos durante toda a vida. Esposas de pais participativos têm uma média salarial aumentada, filhos com pais presentes vão melhor na escola e são mais sociáveis, pai presente faz a diferença. E é é isso que eu quero contar pros pros pais brasileiros através daquilo que eu faço na internet. Eu quero assim como o deputado Alseni Guerra me autorizou a ser pai e autorizou os pais do Brasil a perceberem o seu valor, eu quero de alguma forma na minha comunicação também, autorizar os pais a serem quem eles são de verdade. Não esse homem violento e agressivo, mas ser quem eles são de verdade. Uma pesquisa da Universidade do Paraná, mil e quinhentas crianças analisadas, percebeu que os pais presentes têm impacto no que a gente chama pra na ciência de pessoas bemsucedidas, e bemsucedido não é milionário, bemsucedido que tem autoestima elevada, alto desempenho social, bom aprendizado e boa aplicação desse aprendizado no ambiente de trabalho. Então bom desempenho escolar e bom desempenho no no trabalho. E a gente sabe se você juntar os rankings de países que cuidam bem das crianças e votar do lado os rankings de países que são mais felizes, são muito parecidos, e os países mais inovadores são muito parecidos, e os países mais produtivos são muito parecidos. E aí o argumento econômico cai por terra, porque a gente tem prêmio Nobel dizendo pra gente, o melhor investimento que uma nação pode fazer, pra acolher lá na frente economicamente bons frutos, é investir nessa, no prénatal, no parto e numa licença parental estendida. É o melhor investimento que país pode fazer, porque essa criança bem cuidada, ela vai ter uma autoestima elevada, uma alta capacidade social e desempenho escolar e profissional, que lá na frente você não vai precisar pagar bolsa, lá na frente você não vai gastar com penitenciária, esse cara vai se envolver com delinquência e droga, não. Ele foi bem cuidado, a gente construiu uma sociedade que cuida bem das crianças e que nos diz prêmio Nobel de economia. E o próprio o criador do do Didip né do do conceito de PIB nos disse isso. Quando Simon Cussnets em mil novecentos e trinta e apresenta ao mundo o conceito de PIB pro produto interno bruto e o cálculo das riquezas das nações, ele nos diz, o PIB não deve ser usado como medida de bemestar de uma nação, a criação de filhos gera muito valor e não entra no cálculo do PIB, eu termino com as palavras do Robert Kennedy que diz, o produto interno bruto não mede a saúde dos nossos filhos, a qualidade da sua educação ou a alegria das suas brincadeiras, não inclui a beleza da nossa poesia ou a força dos nossos casamentos, a inteligência do nosso debate público ou a integridade dos nossos funcionários públicos, e não mede nem a nossa inteligência e nem a nossa coragem, e nem a nossa sabedoria, e nem o nosso aprendizado, nem a nossa compaixão nem a nossa devoção ao nosso país, ele mede tudo em suma, exceto o que faz a vida valer a pena. Muito obrigado pela atenção de vocês obrigado. Só terminar com duas anedotas. Tenho amigo, em comum com a Priscila, chamado Ricardo Pireco, ele largou o trabalho pra cuidar da da filha, a Malu. A esposa dele trabalha e ele cuida da filha. E achei muito lindo, em dois mil e dezoito quando a gente viajou o Brasil inteiro entrevistando pais, eu entrevistei o Pireco e uma das falas dele foi assim. Eu cuido da Malu a semana inteira, e a minha esposa só trabalha o dia todo. E na sextafeira de noite eu preparei a a janta e ela me liga, não vou já vou beber com as minhas amigas, eu digo poxa vida, eu trabalhei a semana toda, eu cuidei da Maloma a semana toda ela só trabalha, ela só trabalha, e no final do dia eu estou aqui esperando ela com o jantar e ela vai beber com as amigas e eu ria ria ria porque o pireco estava experimentando pouquinho do que as mulheres brasileiras experimentam todos os dias. E é tão bonito quando a gente experimenta isso. Quando a gente fica final de semana, ou uma semana, ou mês sozinho com os nossos bebês e entende o quão difícil que é. Por causa disso na nossa empresa, na empresa que a gente tem, quando o Douglas que trabalha comigo engravidou, eu tive a felicidade de dizer vamos fazer então experimento. E a gente teve a chance de experimentar ano de licença paternidade pro Douglas e hoje de tarde o Douglas vai estar dando depoimento dele nesse seminário sobre como foi a experiência de ter ano conectado com o Miguel, ano de impacto na vida da esposa dele pra poder a esposa dele realmente voltar pro mercado de trabalho e voltar tranquilo e o Douglas vai estar falando hoje à tarde e convido todos vocês pra estarem aqui o dia inteiro porque essas discussões são muito importantes. Muito obrigado",
       "speaker": {
         "name": "Marcos Piangers",
-        "position": "Escritor"
+        "position": "Escritor",
+        "slug": "marcos-piangers"
       }
     },
     {
@@ -272,7 +295,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -283,7 +307,8 @@
       "summary": "Mestre de Cerimônias agradeceu a mesa e todos os presentes, informou horário de continuação do seminário, transmissão ao vivo no YouTube da Câmara, e desejou bom almoço e até logo mais.",
       "speaker": {
         "name": "Yara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "yara-cordeiro"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Assessor Técnico - Ministério da Saúude reconhece quiropraxia como técnica consolidada, mas não considera necessária regulamentação por lei. Propõe normativa intralegal e inclusão da quiropraxia em terapias complementares no âmbito da política nacional de terapias integrativas e complementares. Acredita que isso é situação ideal.",
       "speaker": {
         "name": "OSVALDO MARTINS DE MORAIS FILHO",
-        "position": "Assessor Técnico - Ministério da Saúde"
+        "position": "Assessor Técnico - Ministério da Saúde",
+        "slug": "osvaldo-martins-de-morais-filho"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente da ABQ argumenta por regulamentação quiropraxia devido a questões de segurança e acesso ao cuidado de saúde. Relata caso de fratura cervical causada por falso quiropraxista. Quiropraxia é profissão de saúde, não técnica, com demanda no SUS, mas escassez de profissionais qualificados. Quatro mil horas de estudo necessárias para prática segura. Regulamentação garantiria profissionais qualificados e acabaria com cursos online de baixa qualidade.",
       "speaker": {
         "name": "DANIEL FACCHINI",
-        "position": "Presidente - Associação Brasileira de Quiropraxia - ABQ"
+        "position": "Presidente - Associação Brasileira de Quiropraxia - ABQ",
+        "slug": "daniel-facchini"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Conselheiro do CFM preocupado com formação quiropraxia e segurança paciente; duvida necessidade de mais profissão regulamentada; questiona subespecializações existentes e dúvidas sobre atuação quiropraxia em estética.",
       "speaker": {
         "name": "ESTEVAM RIVELLO",
-        "position": "Conselheiro - Conselho Federal de Medicina - CFM"
+        "position": "Conselheiro - Conselho Federal de Medicina - CFM",
+        "slug": "estevam-rivello"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Conselheiro COFFITO discutiu prática temerária em fisioterapia, questões de quiropraxia, e afirmou que a formação de fisioterapeutas abrange manipulação articular. Quiropraxia é um recurso da fisioterapia, com 1500 horas de especialidade, e sua prática segura é adequada a fisioterapeutas. \"Subluxação\" sem base científica e vitalismo não justificam nova profissão. PL em regulamentação profissional examinada.",
       "speaker": {
         "name": "MARCELO RENATO MASSAHUD JUNIOR",
-        "position": "Conselheiro - Conselho Federal de Fisioterapia e Terapia Ocupacional - COFFITO"
+        "position": "Conselheiro - Conselho Federal de Fisioterapia e Terapia Ocupacional - COFFITO",
+        "slug": "marcelo-renato-massahud-junior"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Professor PUC-Minas Gerais abordou educação, destacando história da quiropraxia no Brasil, com Ângela Couber e filha atuantes no campo. Mencionou problemas com alguns fisioterapeutas se passando por quiropraxistas em eventos internacionais, sugerindo debate para aprimorar a profissão. Pediu apresentação de vídeo do Dom Valmori e de Raimunda nos segundos finais.",
       "speaker": {
         "name": "Evergistro Souto Maior",
-        "position": "Professor PUC - Minas Gerais"
+        "position": "Professor PUC - Minas Gerais",
+        "slug": "evergistro-souto-maior"
       }
     },
     {
@@ -132,7 +142,8 @@
       "summary": "Preservar vida em todas suas etapas; ênfase na saúde da coluna; descobriu quiropraxia como tratamento e prevenção; promover wholistic health through chiropractic.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -142,7 +153,8 @@
       "transcription": "Deputada e que nós possamos avançar.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -152,7 +164,8 @@
       "transcription": "As outras comissões.",
       "speaker": {
         "name": "Evergistro Souto Maior",
-        "position": "Professor PUC - Minas Gerais"
+        "position": "Professor PUC - Minas Gerais",
+        "slug": "evergistro-souto-maior"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -175,7 +189,8 @@
       "summary": "Presidente da ABQ forneceu evidências e documentação legal sobre quiropraxia, destacando sua abordagem interdisciplinar e fato de não impedir outras profissões regulamentadas e não fazer diagnósticos. Ele discutiu a necessidade de regulação para garantir autonomia profissional e interromper afronte a saúde por falta de regulamentação. Ele encorajou decisão sobre regulamentação ou manutenção do status quo.",
       "speaker": {
         "name": "DANIEL FACCHINI",
-        "position": "Presidente - Associação Brasileira de Quiropraxia - ABQ"
+        "position": "Presidente - Associação Brasileira de Quiropraxia - ABQ",
+        "slug": "daniel-facchini"
       }
     },
     {
@@ -187,7 +202,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Conselheiro do CFM afirma que no Brasil há respeito a centros de reabilitação, não há caos em assistência médica e fisioterapia. Propõe cursos para profissões não regulamentadas, para serem reconhecidas no país. Menciona importância de estudos com alta evidência e posição definida sobre situação atual. Obrigado por presença e disponíveis no CFM.",
       "speaker": {
         "name": "ESTEVAM RIVELLO",
-        "position": "Conselheiro - Conselho Federal de Medicina - CFM"
+        "position": "Conselheiro - Conselho Federal de Medicina - CFM",
+        "slug": "estevam-rivello"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "Conselheiro COFFITO sobre regulamentação da quiropraxia: exige maior fiscalização, contra segmentação profissional no SUS; pagamento vexatório a profissionais dificulta atendimento de qualidade.",
       "speaker": {
         "name": "MARCELO RENATO MASSAHUD JUNIOR",
-        "position": "Conselheiro - Conselho Federal de Fisioterapia e Terapia Ocupacional - COFFITO"
+        "position": "Conselheiro - Conselho Federal de Fisioterapia e Terapia Ocupacional - COFFITO",
+        "slug": "marcelo-renato-massahud-junior"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Coordenador do Ministério da Saúde abordou:",
       "speaker": {
         "name": "Paulo Mayall Guilayim",
-        "position": "Coordenador - Ministério da Saúde"
+        "position": "Coordenador - Ministério da Saúde",
+        "slug": "paulo-mayall-guilayim"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     }
   ],

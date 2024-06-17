@@ -18,7 +18,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Secretário Executivo - Ministério do Planejamento e Orçamento do Brasil se refere à obrigação legal de prestação de contas e avaliação de políticas públicas, destacando a importância de decisões baseadas em evidências e monitoramento para eficácia e responsabilidade fiscal. Menciona avanços na avaliação de políticas públicas no executivo, nova secretaria dedicada ao planejamento e ampliação do Conselho de Monitoramento e Avaliação de Políticas Públicas.",
       "speaker": {
         "name": "GUSTAVO GUIMARÃES",
-        "position": "Secretário Executivo - Ministério do Planejamento e Orçamento do Brasil"
+        "position": "Secretário Executivo - Ministério do Planejamento e Orçamento do Brasil",
+        "slug": "gustavo-guimaraes"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Monitoramento e Avaliação do Ministério do Planejamento e Orçamento utiliza métodos eficientes para identificar falhas em políticas públicas antes do uso de recursos, promovendo cultura de avaliação no governo. Autoavaliação em ministérios e novos critérios de relevância e transversalidade na seleção de políticas para avaliação. Ciclo de avaliação de 2022 concluído e 2023 em andamento, com recomendações apresentadas para aprimoramento de políticas públicas.",
       "speaker": {
         "name": "SÉRGIO FIRPO",
-        "position": "Secretário de Monitoramento e Avaliação - Ministério do Planejamento e Orçamento do Brasil"
+        "position": "Secretário de Monitoramento e Avaliação - Ministério do Planejamento e Orçamento do Brasil",
+        "slug": "sergio-firpo"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Secretário de Monitoramento e Avaliação - Ministério do Planejamento e Orçamento do Brasil falou sobre aprimoramentos para o ciclo de 2023, enfatizando avaliações com diferentes executores e especialistas, trabalho conjunto com órgãos gestores e increased public accessibility to policy evaluation reports through simplified summaries.",
       "speaker": {
         "name": "SÉRGIO FIRPO",
-        "position": "Secretário de Monitoramento e Avaliação - Ministério do Planejamento e Orçamento do Brasil"
+        "position": "Secretário de Monitoramento e Avaliação - Ministério do Planejamento e Orçamento do Brasil",
+        "slug": "sergio-firpo"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Plano Plurianual determina políticas públicas por objetivos e metas, avaliadas periodicamente. Em 2022, prioriza habitação, infraestrutura, educação, saúde e conectividade com grande investimento. Próximo PPA (2024-2027) foca em populações vulneráveis e questões ambientais com seis prioridades e cinco temas transversais. Covidd-19 e falta de pessoal impactam o plano anual.",
       "speaker": {
         "name": "FERNANDO SERTÃ MERESSI",
-        "position": "Diretor de Coordenação de Sistemas de Planejamento - Ministério de Planejamento e Orçamento do Brasil"
+        "position": "Diretor de Coordenação de Sistemas de Planejamento - Ministério de Planejamento e Orçamento do Brasil",
+        "slug": "fernando-serta-meressi"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 137070,
         "name": "Vicentinho Júnior",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho-junior"
       }
     }
   ],

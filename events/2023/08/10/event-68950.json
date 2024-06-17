@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente Fitratelp-Sinttel PI: obrigado por convidar; lamenta falta por compromissos; agradece debater tema; últimos anos prejudicaram trabalhadores; numerosos cancelamentos de contratos na Oi e Vital, impactando gravemente trabalhadores; espera compensação para demitidos; preocupado com futuras ações visando recuperação e lucros da Oi e Vital.",
       "speaker": {
         "name": "João de Moura Neto",
-        "position": "Presidente da Fitratelp Federação Interestadual dos Trabalhadores em Telecomunicações e presidente do Sinttel PI - Fitratelp"
+        "position": "Presidente da Fitratelp Federação Interestadual dos Trabalhadores em Telecomunicações e presidente do Sinttel PI - Fitratelp",
+        "slug": "joao-de-moura-neto"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Anatel fiscaliza e regula serviços de telecomunicações, seguindo diretivas do Poder Executivo e Legislativo. Existem dois regimes de prestação de serviço: privado e público, com Oi recebendo monitoramento especial por sua situação financeira e pedido de recuperação judicial. Anatel criou grupo de trabalho para acompanhar medidas em caso de sanção de caducidade da concessão do Grupo Oi.",
       "speaker": {
         "name": "Artur Coimbra",
-        "position": "Representante da Anatel - Anatel"
+        "position": "Representante da Anatel - Anatel",
+        "slug": "artur-coimbra"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Representante da OI - Oi telecom discutiu transformação organizacional, venda de ativos, queda em receita de telefonia fixa, venda de operação móvel, criação da Vital, redução de custos, negociações com sindicatos, reconhecimento como empresa de alto investimento em capital humano, e expansão de soluções digitais e fibra ótica.",
       "speaker": {
         "name": "helton Rocha Posseti",
-        "position": "Representante da OI - Oi telecom"
+        "position": "Representante da OI - Oi telecom",
+        "slug": "helton-rocha-posseti"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -97,7 +104,8 @@
       "transcription": "",
       "speaker": {
         "name": "Hamurabi Duarte",
-        "position": "Representante da Federação Livre - Federação Livre"
+        "position": "Representante da Federação Livre - Federação Livre",
+        "slug": "hamurabi-duarte"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "A Federação Livre se opõe à substituição de trabalhadores por máquinas e exige diálogo social. Ela denuncia redução de postos de trabalho e precarização no setor de telecomunicações, praticadas por diversas operadoras, incluindo Oi, Claro, Vivo e Tim. Essas empresas estão sendo processadas por exploração de terceirizadas e não cumprimento de salários mínimos. A Federação Livre defende o fortalecimento e a democratização do setor de telecomunicações no Brasil.",
       "speaker": {
         "name": "Hamurabi Duarte",
-        "position": "Representante da Federação Livre - Federação Livre"
+        "position": "Representante da Federação Livre - Federação Livre",
+        "slug": "hamurabi-duarte"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Privatização Telebras causou precarização em telecomunicações, com demissões em massa, terceirização e baixos salários. Trabalho precário aumentou, impactando sindicatos. Assédio a líderes sindicais é mais precarização. CNDH atuou rapidamente; necessário código de conduta empresarial para tratamento justo e digno de trabalhadores.",
       "speaker": {
         "name": "Virginia berriel",
-        "position": "Coordenadora da Comissão de Trabalho do CNDH - CNDH"
+        "position": "Coordenadora da Comissão de Trabalho do CNDH - CNDH",
+        "slug": "virginia-berriel"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Objetivo do Ministério das Comunicações: garantir acesso à telecomunicação a todos brasileiros, incentivar uso de redes e serviços, promover concorrência e diversidade, ampliar conectividade e inclusão digital. Missões: expandir infraestrutura para acesso à internet, inclusão digital priorizando vulneráveis e áreas rurais, programas como WiFi Brasil e Plano Nacional de Inclusão Digital com foco em acesso, velocidade, preço, dispositivos, letramento e capacitação digitais.",
       "speaker": {
         "name": "Nathalia Almeida de Souza Lobo",
-        "position": "Diretora de Políticas Setoriais do Ministério das Comunicações - Ministério das Comunicações"
+        "position": "Diretora de Políticas Setoriais do Ministério das Comunicações - Ministério das Comunicações",
+        "slug": "nathalia-almeida-de-souza-lobo"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Feninfra prioriza investimentos em telecomunicações, preocupada com irregularidades e falta de regulamentação. Solicita medidas urgentes para garantir empresas sérias, mão de obra qualificada e igualdade em regulamentações. Propõe selo de qualidade para controlar informalidade no mercado de trabalho.",
       "speaker": {
         "name": "Vivien Suruagy",
-        "position": "Presidenta da Feninfra - Federação das Empresas Prestadoras de Serviços de Infraestrutura de Telecomunicações - Feninfra"
+        "position": "Presidenta da Feninfra - Federação das Empresas Prestadoras de Serviços de Infraestrutura de Telecomunicações - Feninfra",
+        "slug": "vivien-suruagy"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Representante da OI - Oi telecom:",
       "speaker": {
         "name": "helton Rocha Posseti",
-        "position": "Representante da OI - Oi telecom"
+        "position": "Representante da OI - Oi telecom",
+        "slug": "helton-rocha-posseti"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "Empresa Oi realiza avaliações internas e obteve reconhecimento por práticas em recursos humanos, atendendo às expectativas dos funcionários.",
       "speaker": {
         "name": "ALEXANDRE BARROS",
-        "position": "Representante da OI"
+        "position": "Representante da OI",
+        "slug": "alexandre-barros"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     }
   ],

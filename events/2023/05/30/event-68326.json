@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônia anuncia início da cerimônia de lançamento da Frente Parlamentar de Proteção às Pessoas Autistas, apresenta membros da mesa, incluindo deputados estaduais e federais, secretários estaduais e municipais, e representantes de organizações relacionadas à deficiência e autismo. Anuncia a passagem de palavra para o presidente deputado Felipe Becari.",
       "speaker": {
         "name": "LUCAS CASTEX ALI",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "lucas-castex-ali"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 204488,
         "name": "Célio Studart",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celio-studart"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": "Governo reafirma comprometimento com direitos pessoas com deficiência, inclui autismo no novo plano nacional; lança GT de Avaliação Biopsicossocial e campanha contra capacitismo.",
       "speaker": {
         "name": "ANNA PAULA FEMINELLA",
-        "position": "Secretária Nacional dos Direitos da Pessoa com Deficiência"
+        "position": "Secretária Nacional dos Direitos da Pessoa com Deficiência",
+        "slug": "anna-paula-feminella"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -82,7 +88,8 @@
       "summary": "Propõe-se formação de profissionais e atenção às questões da comunidade autista; busca-se integração por meio de esforços unidos e combate a ignorância, promovendo inclusão no trabalho e na sociedade, valorizando o potencial das pessoas com autismo.",
       "speaker": {
         "name": "FLÁVIA DIAS AMARAL",
-        "position": "Presidente da Comissão de Direitos da Pessoa com Autismo da Seccional do DF da OAB"
+        "position": "Presidente da Comissão de Direitos da Pessoa com Autismo da Seccional do DF da OAB",
+        "slug": "flavia-dias-amaral"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Deputado Estadual - SP agradece convite, homenageia mães atípicas e suas lutas, destaca importância da conscientização e da necessidade de políticas públicas efetivas para ajudar pessoas autistas e suas famílias, menciona lei de introdução aos direitos básicos do autista e se refere à sua participação na frente parlamentar de proteção às pessoas autistas.",
       "speaker": {
         "name": "RAFAEL SARAIVA",
-        "position": "Deputado Estadual - SP"
+        "position": "Deputado Estadual - SP",
+        "slug": "rafael-saraiva"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": "Presidente do Instituto Olga Kos falou sobre inclusão de pessoas com deficiência em sociedade. Criaram índice nacional de inclusão e métrica reconhecida internacionalmente. Cita preocupação de pais com filhos deficientes e necessidade de inclusão efetiva no ambiente de trabalho. Propôs comunicar, adotar e legislar por inclusão social e aprovação de lei que institua sistema nacional de certificação de inclusão.",
       "speaker": {
         "name": "WOLF KOS",
-        "position": "Presidente do Instituto Olga Kos"
+        "position": "Presidente do Instituto Olga Kos",
+        "slug": "wolf-kos"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -151,7 +163,8 @@
       "summary": "Secretário de Direitos da Pessoa com Deficiência do Governo de São Paulo: saudou presentes, elogiou iniciativa em defesa de pessoas com TEA, refere-se à necessidade de ação conjunta entre secretarias, mencionou decreto emitido para defesa de direitos do autista em São Paulo, destaca parceria inédita entre universidades para a inclusão e formação de profissionais capacitados a atender pessoas com deficiência.",
       "speaker": {
         "name": "MARCOS DA COSTA",
-        "position": "Secretário Estadual dos Direitos  da Pessoa com Deficiência do Governo de São Paulo"
+        "position": "Secretário Estadual dos Direitos  da Pessoa com Deficiência do Governo de São Paulo",
+        "slug": "marcos-da-costa"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -172,7 +186,8 @@
       "transcription": "A todos e a todas. Em primeiro lugar eu vou me auto descrever. Eu sou uma mulher, branca, cabelo escuro, até os ombros, tenho quarenta e dois anos de idade, estou vestindo uma, blusa preta e uma calça marfim. Eu quero em primeiro lugar agradecer o convite e parabenizar a mesa, pela iniciativa. Eu em especial quero hoje cumprimentar todas as pessoas com autismo aqui presentes, e seus familiares, assim como eu, tenho filho com autismo, com oito anos de idade. Eu realmente vou precisar correr, se não eu vou perder o voo, e mesmo saindo daqui às oito e trinta eu só chego na minha casa hoje meianoite, mais de meianoite. Então, mas basicamente eu trouxe uma apresentação cronometrada de seriam de dez minutos e eu vou tentar manter. Eu nós assumimos no estado do Pará a coordenação Estadual de políticas para o autismo através da lei 9061 que foi uma lei proposta pelo poder executivo, pelo governador Helder Barbalho, que traz as práticas com evidências científicas como modelo de atendimento para as pessoas com autismo. Eu acho que esse é tema muito relevante e que eu não lembro, me perdoem, de ter ouvido falar hoje aqui nessa sessão sobre práticas com evidências científicas. Foi dito aqui hoje que não havia uma fórmula para a implementação de políticas públicas e de fato não há, mas há uma alquimia que eu considero essencial, que se chama é uma alquimia formada por união, trabalho e dinheiro. Sem essas três coisas a gente não tem implementação de política pública, e foi através desses três pilares que nós construímos em três anos no estado do Pará, três centros de atendimento, voltados a pessoas com autismo, todos trabalhando as práticas com evidências científicas, e nesse ano, que vai ser o quarto ano de mandato, nós vamos inaugurar mais dois centros, totalizando cinco centros. E eu tenho muito orgulho hoje de receber no estado do Pará muitos, muitas comitivas, né, de muitos estados inclusive gostaria muito de já deixar o convite a todos vocês. Nós eu vou eu vou seguindo aqui pelo celular pra eu não ficar de costa mas é bem rápida. Nós implementamos. O nosso trabalho, eu vou seguindo, tá deputado? Pode, obrigada. Nós implementamos a legislação nove mil e sessenta e 9.061 e começamos a trabalhar essa política pública por eixos. Nos eixos legislativos, nós tivemos como pilares a Lei 9.061 e a Lei 9.214, que lá em dois mil e vinte e já retirou o prazo de validade do laudo que atestava autismo. Nós também implementamos a lei que proíbe no estado do Pará a soltura de fogos de artifício com o estampido, e também sancionamos a legislação que atualiza todas as placas de prioridade em todas as Secretarias do Estado do Pará com o símbolo do autismo e de todas as outras prioridades. Também sancionamos a legislação que institui a sessão azul. No eixo da saúde, eu estou correndo, tá? No eixo da saúde, foi falado aqui pelo Ministério da Saúde, nós ouvimos falar muito sobre centros de reabilitação, Mas é importante lembrar que nós temos calo, deputado, aqui no Brasil, em termos de rede de atendimento da pessoa com autismo na saúde, porque nós temos duas orientações de atendimento, duas redes e são duas redes diferentes e que não se conversam entre si, é a rede da reabilitação e a rede da atenção psicossocial que são os CAPES e os CAPES. Essas duas redes estão previstas para o atendimento da pessoa com autismo. Elas devem atender as pessoas com autismo, mas infelizmente a rede da reabilitação não tem dado conta da demanda e a rede da atenção psicossocial está absolutamente sucateada aqui no Brasil e hoje se presta, pelo menos, a dispensar do que eu sei, né, das demandas que nos chegam minimamente uma receita pra medicamento. Isso não é atendimento de qualidade voltado à pessoa com autismo. Então já deixo aqui Ministério da Saúde para o atendimento da pessoa com autismo, ou que pelo menos esses serviços conversem entre si, atendam nas práticas com evidências científicas. Sabemos que a política pública dos CAPES ela é singular, pois atende várias demandas, mas é possível sim dar atendimento voltado, nem que seja suporte de saúde mental para as famílias das pessoas com autismo, mas os CAPES precisam ser inseridos aí nessa rede de atendimento com mais eficiência. Pensando na descentralização do atendimento da pessoa com autismo, O estado do Pará, é importante ressaltar, é o segundo maior estado do Brasil em extensões territoriais. Nós chegamos a passar vinte e quatro horas num barco pra chegar em determinado município. Nós temos dimensões territoriais, população ribeirinha, população indígena, territórios e zonas rurais muito distantes. Então realmente implementar uma política pública descentralizada da capital é desafio muito grande e nós ainda se chama NATEA. É núcleo com trezentas novas vagas, que tem treino parental, que tem atendimento, agora estamos ampliando o atendimento de saúde mental para os familiares das pessoas com autismo. É importante destacar que não há terapia de qualidade se a gente não envolver o treino das famílias. Depois nós inauguramos o NATEA de Capanema, que é município próximo a Belém, novas trezentas vagas também nesse mesmo modelo. Eu acho que está passando aí, acho que não não não está seguindo aí o, ainda está lá nos fogos né, a gente, eu estou aqui já seguindo, pode passando isso, são, esse é o eixo legislativo. Agora vamos chegar no eixo da saúde, pode passar. As redes de atendimento que eu falei a vocês, esses são os documentos norteadores. Esse aí é nateia. Esse nateia ele é nateia pra trezentos usuários. Outro NATEA. E outro NATEA, NATEA lá no Sul do Pará, na região Lago do Tucuruí. Obras em andamento são os natéias que serão inaugurados região do Marajó, Marabal, Thamira e Santarém. E hoje, aqui nessa Câmara Federal, nós tivemos o compromisso de mais deputado federal que garantiu emenda parlamentar para a implementação de mais LATEA no estado do Pará. Além disso, nós identificamos e eu já estou finalizando, nós identificamos que dos grandes calos da rede de atendimento também é a falta de capacitação profissional da rede existente. Então no segundo semestre nós vamos inaugurar o CETEA. O CETEA, acho que já pode pode Aí está certo agora? Não, não está certo. Mais pra frente. É antes desse, Isso. O CTEA ele está com setenta por cento das obras avançadas, ele vai ser além de mais dispositivo de saúde, o primeiro laboratório de formação profissional do Brasil nas práticas com evidências científicas. Então ao lado das salas de atendimento, nós colocamos salas espelho, onde os profissionais da rede de atendimento de todos os municípios do estado poderão fazer uma imersão e assistir e ouvir o atendimento que é feito aí na capital pra retornar os seus dispositivos de saúde e poder implementar essas técnicas. Pode passar. Espaços inclusivos nós tentamos a todo custo humanizar aquilo que já existia na de atendimento pro atendimento da pessoa com autismo. Pode passar o eixo, eixo educação. Eixo educação são as capacitações profissionais que nós fizemos através das escolas de governança, das universidades, esses são os números de capacitação, pode passar. Fizemos em sete municípios, sabemos que ainda temos muito pra avançar, são cento e quarenta e quatro municípios. Eixo da assistência social. Na assistência social, eu queria fazer recorte aqui em relação à CIPTEA, que é a carteira de identificação da pessoa com o transtorno do espectro autista. É eu tenho uma posição em relação à CITEA, acho que ela é documento muito importante, mas ela carece de regulamentação. Porque nós temos vistos, nós temos visto, ciptéias que são emitidas por estados, por municípios, por associações, não há uma linha única e modelo, elas têm modelo variado e e eu acho que é importante que elas tenham modelo único, elas se prestem realmente a a ter uma regulamentação melhor e inclusive criar uma base de dados, que foi isso que nós fizemos no estado do Pará. Nós aproveitamos a CIPTIA e acoplamos cadastro onde se criou uma base de dados do estado. E eu penso que isso poderia ser feito também a nível de Brasil. E também queria fazer o recorte em relação ao senso do IBGE. Por quê? Porque o senso que nós teremos resultado ele certamente será senso subnotificado. Por quê? Porque ele é senso que abraça pessoas com autismo laudadas, apenas, e nós sabemos que há uma imensa maioria de pessoas que estão em investigação no Brasil, então muito provavelmente esse senso vai trazer número subnotificado. Na na SIPTIA nós temos a base de dados de pessoas que estão com laudo e também temos a base de dados de pessoas que estão pendentes de laudo e estamos trabalhando para que médicos se responsabilizem, profissionais de saúde se responsabilizem pela pessoa com autismo e não apenas o neuropediatra. Não há neuropediatra no Brasil que supra a demanda de laudo para pessoas com autismo. Então o laudo da pessoa com autismo ele tem que ser dado pelo pediatra, pelo psiquiatra, pelo clínico geral existem protocolos em que a gente aplica pra pra laudar, então a gente precisa ampliar essa rede aí e tirar essa sobrecarga que recai apenas de neuro pediatra. Pra dar exemplo pra vocês no estado existem municípios que estão ofertando cem mil reais de salário pra neuro pediatra e não tem, óbvio Pode seguir, já estou finalizando, no eixo do trabalho emprego e renda, nós em parceria com o Sebrae, implementamos projeto de capacitação para servidores de RH de empresas públicas e privadas para contratarem pessoas com autismo. A gente não pode numa entrevista de emprego chegar pra uma pessoa com autismo e perguntar como é a sua relação interpessoal, né, então isso é algo que já elimina por óbvio então esses esses serviços eles precisam estar preparados para contratar as pessoas com autismo e nós tivemos muito sucesso e vamos replicar esse projeto. Também criamos a feira do empreendedorismo inclusivo, onde pessoas com autismo e seus familiares, uma vez por mês, em espaços públicos do governo do estado, vendem seus produtos e esse é projeto que tem crescido muito na demanda e também ele tem sido muito positivo não só na geração de renda mas também no trabalho de autoestima das pessoas com autismo e dos seus familiares. No eixo Cultura Esporte e Lazer nós implementamos o programa talentos, onde trabalhamos as habilidades artísticas das pessoas com autismo nos melhores teatros da Amazônia, que é o Teatro da Paz, pra quem não conheceu ainda, e esse é projeto que inclusive já os profissionalizou porque muitos deles estão se apresentando em eventos do estado e também é projeto do qual eu me orgulho muito. Pode passar, já estou finalizando, o projeto Coopateia são eventos alusivos, o carnateia a mesma coisa, mostra que nós podemos que nós devemos ter. Ações de esporte de cultura de lazer adaptadas dá sim para ter baile de carnaval adaptado e nós fizemos isso e foi lindo, foi histórico. Meu filho por exemplo nunca havia ido, não ficava num baile de carnaval. Nós fizemos carnaval com uma equipe multidisciplinar, com uma sala de acomodação sensorial, com a música mais baixa, com a participação deles cantando, e foi foi algo emocionante. Parece pequeno, né? Mas pra quem é, eu por exemplo, mãe, ver o meu filho participando de baile de carnaval pela primeira vez aos oito de idade para mim foi histórico. Por fim, inauguramos recentemente no novo estádio do Mangueirão, no estádio do Pará, duas salas de acomodação sensorial e é o primeiro estádio público do Brasil com essas duas salas, e eu eu é incrível a caixa de pandora que se abre a cada serviço que se abre, porque as pessoas com autismo não frequentavam os o os estádios. E quando se inaugurou essa sala foi uma demanda absurda, e aí a gente vê quanto a gente tem ainda a fazer e parece que quanto mais a gente faz mais a gente tem a fazer. Por fim, eu gostaria para encerrar de deixar alguns pontos para mim que são essenciais e implementação de uma política pública nacional Primeiro, como eu disse no início, informações baseadas em evidências científicas dentro de todos os poderes legislativo e judiciário e eu me orgulho muito de ter visto hoje apesar de estarmos já pouco cansados mas eu fiquei muito feliz de ver uma sessão lotada significa que nós ainda temos esperança e somos a maioria são os que têm esperança Também quero deixar como ponto principal de implementação a base de dados nos entes federativos, sem base de dados a gente não constrói política pública, e é por isso que é tão importante que a gente chegue o mais perto possível da realidade também gostaria de deixar posto como político ponto de implementação de política pública uma linha programa de financiamento público para esses centros especializados no Brasil Não adianta nós aprovarmos projeto de lei que cria os centros, mas a gente precisa saber de onde vem a verba, quanto vem, quanto vai ser a contrareferência do estado, qual vai ser a equipe multidisciplinar mínima que vai se exigir nesses centros, Quais serão os protocolos que serão aplicados nesses centros? Então é preciso que se façam uma lei mais específica pra que a gente possa ter uma segurança maior na implementação desses núcleos. E pra finalizar, também queria deixar como ponto a capacitação e experiência profissional em contexto de SUS. Trabalhar práticas com evidências científicas em clínicas particulares é muito diferente de trabalhar contexto de SUS, onde você tem idades diferentes, classes sociais, você tem demandas diferentes de níveis de suporte e você tem orçamento limitado dentro de governo. Por isso a gente precisa trabalhar essa pauta com responsabilidade e também com capacitação olhando para para essas especificidades. Por fim, tem uma frase que eu gosto muito de dizer porque sou advogada, vim da área do direito, me especializei em autismo depois do diagnóstico do meu filho, mas gosto de dizer que a inclusão da pessoa com deficiência ela só é eficaz quando os direitos previstos, não apenas na constituição, mas em todas as legislações, foram viabilizados na prática do cotidiano e eu torço tenho esperança que isso vai acontecer a partir desse momento aqui Muito obrigada pela oportunidade de expor pouquinho rapidamente correndo o esse trabalho e quero deixar as redes à disposição, Fico na Secretaria de Saúde do estado do Pará, volto agora pra lá e vamos continuar trabalhando. Parabéns pela iniciativa de vocês, estamos juntos. Boa noite.",
       "speaker": {
         "name": "NAYARA BARBALHO",
-        "position": "Coordenadora de Políticas Públicas para Autismo no Pará"
+        "position": "Coordenadora de Políticas Públicas para Autismo no Pará",
+        "slug": "nayara-barbalho"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Secretária de São Paulo aborda desafios para pessoas com deficiência e autismo; destaca importância de inclusão e atendimento em políticas públicas; menciona centro TEA e laudos indeterminados; promove ação de futebol promovendo cultura de paz e inclusão.",
       "speaker": {
         "name": "SILVIA GRECCO",
-        "position": "Secretária Municipal da Pessoa com Deficiência de São Paulo"
+        "position": "Secretária Municipal da Pessoa com Deficiência de São Paulo",
+        "slug": "silvia-grecco"
       }
     },
     {
@@ -205,7 +222,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -217,7 +235,8 @@
       "speaker": {
         "id": 220635,
         "name": "Bruno Ganem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-ganem"
       }
     },
     {
@@ -229,7 +248,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -240,7 +260,8 @@
       "summary": "Professor abordou desafios deputados enfrentam em educação inclusiva, destacando disputa entre inclusão total e educação inclusiva. Inclusão total exclui escolas especializadas, individualização e apoio pedagógico. Educação inclusiva exige apoio individualizado e contínuo, adequado à necessidade do indivíduo.",
       "speaker": {
         "name": "LUCELMO LACERDA",
-        "position": "Professor"
+        "position": "Professor",
+        "slug": "lucelmo-lacerda"
       }
     },
     {
@@ -252,7 +273,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -263,7 +285,8 @@
       "summary": "A porta-voz da Comunidade Autista ressalta a importância de ouvir os usuários do SUS, enfatizando a falta de acesso a atendimento e suporte, médicação inadequada e falta de diagnóstico oportuno. Ela destaca a necessidade de centros de referência, terapias individuais e formação de policiais e bombeiros para atender autistas em crise. Ela expressa cansaço com promessas superficiais e deseja mudanças reais, respeito e acesso a serviços efetivos.",
       "speaker": {
         "name": "ADRIANA TAVARES",
-        "position": "Porta-voz da Comunidade Autista"
+        "position": "Porta-voz da Comunidade Autista",
+        "slug": "adriana-tavares"
       }
     },
     {
@@ -275,7 +298,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -286,7 +310,8 @@
       "summary": "Porta-voz da Comunidade Autista critica sistema educacional atual e defende mudanças para inclusão real de todos, combate a abusos e tratamento desumano contra autistas, pedindo legislação, fiscalização e punição para violência terapêutica.",
       "speaker": {
         "name": "Amanda Paschoal",
-        "position": "Porta-voz da Comunidade Autista"
+        "position": "Porta-voz da Comunidade Autista",
+        "slug": "amanda-paschoal"
       }
     },
     {
@@ -297,7 +322,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -308,7 +334,8 @@
       "summary": "Mãe construiu escola para filho autista, que agora tem 50 alunos autistas; luta contra preconceito e capacitismo; defende política pública eficiente e inclusão de autistas em grupos técnicos; pede coordenação especial pro autismo no Governo Federal.",
       "speaker": {
         "name": "LARISSA LAFAIETE",
-        "position": "Instituto de Terapia de Mães Atípicas"
+        "position": "Instituto de Terapia de Mães Atípicas",
+        "slug": "larissa-lafaiete"
       }
     },
     {
@@ -320,7 +347,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -331,7 +359,8 @@
       "summary": "Representante da Subsecretaria de Cuidados Especiais do Rio de Janeiro, mãe de um filho autista sério, fala sobre a falta de inclusão e opções para adultos autistas. Seu filho, que é não verbal e não pode escrever seu nome, encontrou uma profissão em fazer botões durante a pandemia. Ela destaca a necessidade de ensino profissionalizante e opções para adultos autistas, que estão em casa sem terrem lugar para ir ou coisa para fazer.",
       "speaker": {
         "name": "ANDREA BUSSADE",
-        "position": "Representante da Subsecretaria de Cuidados Especiais - Rio de Janeiro"
+        "position": "Representante da Subsecretaria de Cuidados Especiais - Rio de Janeiro",
+        "slug": "andrea-bussade"
       }
     },
     {
@@ -342,7 +371,8 @@
       "summary": "Filho se dedica a confeccionar boxe para hotel, melhora sua atitude profissional.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -352,7 +382,8 @@
       "transcription": "Então é isso gente obrigada. Obrigado Andreia.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -364,7 +395,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -376,7 +408,8 @@
       "speaker": {
         "id": 204488,
         "name": "Célio Studart",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celio-studart"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -399,7 +433,8 @@
       "summary": "Participante falou sobre fundar a primeira associação de autismo na América Latina, a AMA, na qual seu filho é atendido há 40 anos. Ela propôs uma coordenadoria específica para TEA no governo atual e destacou a importância de se pensar na velhice dos filhos com autismo, compartilhando sua própria experiência. Ela deseja que o atendimento em São Paulo seja expandido pelo Brasil.",
       "speaker": {
         "name": "MARISA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "marisa"
       }
     },
     {
@@ -411,7 +446,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -422,7 +458,8 @@
       "summary": "Participante denuncia dificuldades no diagnóstico e tratamento de autismo, defende inclusão e respeito para pessoas atípicas, e propõe formação profissional e legislativa para melhor atendimento e combate ao preconceito.",
       "speaker": {
         "name": "ROBERTO SILVA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "roberto-silva"
       }
     },
     {
@@ -434,7 +471,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -446,7 +484,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -458,7 +497,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -469,7 +509,8 @@
       "summary": "Participante discute dificuldades em avaliação médica de concursos públicos, com foco em falta de conhecimento sobre autismo e deficiência em general. Elogia governo atual por preocupação com pessoas com deficiência. Fala baseado em experiência pessoal de ser reprovado por \"não ser deficiente\" em 2018 no Superior Tribunal Militar.",
       "speaker": {
         "name": "HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "henrique"
       }
     },
     {
@@ -481,7 +522,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -492,7 +534,8 @@
       "summary": "Fonoaudióloga propõe reflexão sobre tratamento de autismo: criticou medicalização excessiva e terapias diretivas, favorecendo abordagens menos invasivas, humanizadas e validantes dos interesses e direitos do indivíduo autista. Promove inclusão de abordagens cientificamente comprovadas e individualizadas, considerando necessidades de cada pessoa e contexto.",
       "speaker": {
         "name": "MICHELLY BASSO",
-        "position": "Fonoaudióloga"
+        "position": "Fonoaudióloga",
+        "slug": "michelly-basso"
       }
     },
     {
@@ -504,7 +547,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -515,7 +559,8 @@
       "summary": "Autista de 48 anos, aparentando 35, descendente de árabe, professor alfabetizador há 20 anos, defende ajustes no questionário do Censo, criação de lei para ajustar aposentadoria de autistas com laudo tardio, ampliar lei de redução de carga horária de trabalho e inclusão da deficiência psicossocial no decreto 3298/99.",
       "speaker": {
         "name": "KAUAN AD AU",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "kauan-ad-au"
       }
     },
     {
@@ -526,7 +571,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -537,7 +583,8 @@
       "summary": "Participante defende inclusão de autistas em criação de políticas, destacando importância de líderes autistas e ambientes adaptados, questionando modelo biomédico e impacto negativo da camuflagem social no desenvolvimento humano.",
       "speaker": {
         "name": "MARIA JULIA AMORIM",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria-julia-amorim"
       }
     },
     {
@@ -549,7 +596,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -560,7 +608,8 @@
       "summary": "Participante elogia deputados por interesse em causas sociais, destacando inclusão escolar e desenvolvimento humano para pessoas com deficiência, usando exemplo da Federação Brasileira das Associações de Síndrome de Down. Eles expressam a necessidade de recursos e respeito para políticas inclusivas e diferenças no crescimento de pessoas com deficiência.",
       "speaker": {
         "name": "CLÉO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "cleo"
       }
     },
     {
@@ -572,7 +621,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -583,7 +633,8 @@
       "summary": "Participante é vereador preocupado com diferença entre propostas e realidade em cidades pequenas, especificamente em atendimento a deficiências. Menciona falta de recursos financeiros e profissionais especializados, utilizando autismo como exemplo. Pediu apoio e investimento em formação de profissionais.",
       "speaker": {
         "name": "VINÍCIUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vinicius"
       }
     },
     {
@@ -595,7 +646,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -606,7 +658,8 @@
       "summary": "Participante propõe a reflexão sobre acessibilidade em todos os espaços, especialmente em universidades, considerando questões arquitetônicas, políticas e de saúde, como a falta de interpretação de LIBRAS e verba suficiente no SUS. Eles mencionam as dificuldades enfrentadas por pessoas neurodivergentes, como autistas, e a importância de inclusão demonstrada através de políticas e recursos adequados.",
       "speaker": {
         "name": "Júlia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "julia"
       }
     },
     {
@@ -617,7 +670,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -628,7 +682,8 @@
       "summary": "Participante, ex-louco e presidente de associação, ajudou Doutora Nise, criou site do Museu do Imaginário, criticou violação da Lei do Idoso, se comprometeu a entrar com representações na comissão de ética e na ouvidoria, propôs criação de Secretaria Especial da Diversidade Mental.",
       "speaker": {
         "name": "JORGE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jorge"
       }
     },
     {
@@ -640,7 +695,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -651,7 +707,8 @@
       "summary": "Participante elogia frente parlamentar, agradece iniciativa e promete apoio. Ele ouviu e aprendeu sobre desafios da comunidade TEA, se emocionou com história pessoal e destaca importância de debater e atender demandas nacionais. Parabéns e agradecimentos também à participação do deputado Célio e vereador Felipe. Ele é entusiasta em defender sua região e espera um bom trabalho em conjunto.",
       "speaker": {
         "name": "JOÃO VICTOR",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "joao-victor"
       }
     },
     {
@@ -663,7 +720,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     }
   ],

@@ -17,7 +17,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Votação iniciada; corrigir possível antes de confirmar; votos em branco contabilizados para quórum; eleito por maioria absoluta no 1º escrutínio ou maioria simples no 2º; empate resolvido pela idade e número de legislaturas; uso da palavra permitido before and during the vote.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220596,
         "name": "Amália Barros",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amalia-barros"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 80815,
         "name": "Léo Prates",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leo-prates"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -134,7 +144,8 @@
       "summary": "Deputado Márcio Gerry, presidente eleito da comissão de direitos das pessoas com deficiência, com dois votos e nenhum nulo ou branco.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -144,7 +155,8 @@
       "transcription": "Convido pra pra assumir a presidência da comissão que está declarado empossado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Glauber Braga -- por Participante -- Márcio Jerry",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-glauber-braga-por-participante-marcio-jerry"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     }
   ],

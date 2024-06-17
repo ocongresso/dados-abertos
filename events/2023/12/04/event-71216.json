@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -59,7 +63,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": "A Associação Nacional de Juristas Evangélicos – ANAJURE, fundada em 2",
       "speaker": {
         "name": "EDNA V. ZILLI",
-        "position": "Presidente da Associação Nacional de Juristas Evangélicos – ANAJURE"
+        "position": "Presidente da Associação Nacional de Juristas Evangélicos – ANAJURE",
+        "slug": "edna-v-zilli"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -114,7 +123,8 @@
       "summary": "Instituto Mackenzie, centenário, defende educação confessional e liberdade religiosa/pensamento. Reafirma compromisso com educação brasileira e parceria com Anajure e Congresso Nacional.",
       "speaker": {
         "name": "ALEXANDRE HENRIQUE ALMEIDA",
-        "position": "Diretor do Instituto Presbiteriano Mackenzie"
+        "position": "Diretor do Instituto Presbiteriano Mackenzie",
+        "slug": "alexandre-henrique-almeida"
       }
     },
     {
@@ -126,7 +136,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -137,7 +148,8 @@
       "summary": "Advogado da Igreja Adventista do Sétimo dia agradece defesa da liberdade religiosa na Anajure e no Congresso Nacional. Elogia Anajure por ajudar a solucionar problemas com o Enem aos sábados e com o STF na defesa da separação igreja-estado, sem hostilidade à religião. Menciona lei que protege estudantes adventistas e judeus para não ofender suas crenças.",
       "speaker": {
         "name": "VANDERLEI JOSÉ VIANNA",
-        "position": "Advogado Assistente para a Liberdade Religiosa da Igreja Adventista do Sétimo dia"
+        "position": "Advogado Assistente para a Liberdade Religiosa da Igreja Adventista do Sétimo dia",
+        "slug": "vanderlei-jose-vianna"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -160,7 +173,8 @@
       "summary": "Senadora elogia Anajure por compromisso com liberdades constitucionais, universalização de direitos, e trabalho em constante vigilância, sem inclinação política, guiada por Constituição e Bíblia.",
       "speaker": {
         "name": "Damares Alves",
-        "position": "Senadora"
+        "position": "Senadora",
+        "slug": "damares-alves"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     }
   ],

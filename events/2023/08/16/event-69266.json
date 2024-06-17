@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204504,
         "name": "Cezinha de Madureira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cezinha-de-madureira"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -40,7 +42,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Cezinha de Madureira -- por Participante -- Leônidas Cristino",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-cezinha-de-madureira-por-participante-leonidas-cristino"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 204571,
         "name": "Alex Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-santana"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220703,
         "name": "Neto Carletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "neto-carletto"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220664,
         "name": "Guilherme Uchoa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-uchoa"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 220664,
         "name": "Guilherme Uchoa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-uchoa"
       }
     },
     {
@@ -193,7 +208,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 220609,
         "name": "Maurício Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-carvalho"
       }
     },
     {
@@ -217,7 +234,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 220609,
         "name": "Maurício Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-carvalho"
       }
     },
     {
@@ -241,7 +260,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -253,7 +273,8 @@
       "speaker": {
         "id": 220537,
         "name": "Helena Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "helena-lima"
       }
     },
     {
@@ -265,7 +286,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -277,7 +299,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -289,7 +312,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -301,7 +325,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -313,7 +338,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -325,7 +351,8 @@
       "speaker": {
         "id": 204571,
         "name": "Alex Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alex-santana"
       }
     },
     {
@@ -337,7 +364,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -349,7 +377,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -361,7 +390,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -373,7 +403,8 @@
       "speaker": {
         "id": 160548,
         "name": "Jonas Donizette",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jonas-donizette"
       }
     },
     {
@@ -385,7 +416,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     }
   ],

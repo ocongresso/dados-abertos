@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Hoje, 17 de janeiro, a Anvisa aprovou a vacina contra a COVID-19 após avaliação técnica. A vacina é fruto de conhecimento acumulado e aceleração da ciência. Nesse dia, a Anvisa atuou em nome do bem superior, pois o benefício supera os riscos. Vacinas são fundamentais para políticas de saúde pública, reduzindo mortes, hospitalizações e danos. A vacinação é vida e ato de amor. Através de atitudes como essa, conseguimos relembrar a importância da vacinação.",
       "speaker": {
         "name": "Meiruze Sousa Freitas",
-        "position": "Diretora da Agência Nacional de Vigilância Sanitária"
+        "position": "Diretora da Agência Nacional de Vigilância Sanitária",
+        "slug": "meiruze-sousa-freitas"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente da SBPT e pesquisadora da Fiocruz falou sobre participação no processo da COVID-19 desde início, transmissão significativa da doença, importância de vacinas e medidas sanitárias, paradores no Brasil com agência reguladora e comunidade científica, e apoio à tradição brasileira de adesão às vacinas.",
       "speaker": {
         "name": "Margareth Dalcolmo",
-        "position": "Presidente da Sociedade Brasileira de Pneumologia e Tisiologia - SBPT Pesquisadora da Fundação Oswaldo Cruz"
+        "position": "Presidente da Sociedade Brasileira de Pneumologia e Tisiologia - SBPT Pesquisadora da Fundação Oswaldo Cruz",
+        "slug": "margareth-dalcolmo"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Diretor da Anvisa elogia iniciativa sobre vacinas, transparência e vacinação importance. Agência e funcionários prontos para rápida aprovação de vacinas. Homenageia brasileiros que impulsionaram campanhas de vacinação. É necessário combater narrativas anti-vacinação e se preocupar com baixas coberturas vacinais. Apelo para valorizar carteira de vacinação infantil e campanha global em favor das vacinas para crianças.",
       "speaker": {
         "name": "Alex Machado Campos",
-        "position": "Diretor da Agência Nacional de Vigilância Sanitária"
+        "position": "Diretor da Agência Nacional de Vigilância Sanitária",
+        "slug": "alex-machado-campos"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz homenageia servidores públicos e profissionais de saúde na institucionalização do Dia Nacional de Defesa da Vacinação. Fiocruz produz anualmente 120 milhões de doses de imunobiológicos no Brasil, sendo essencial no Programa Nacional de Imunizações. Importância da vacinação destacada, visto a baixa adesão da população apesar da disponibilidade de vacinas e do acesso gratuito no SUS.",
       "speaker": {
         "name": "Tatiana Ganem",
-        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz"
+        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz",
+        "slug": "tatiana-ganem"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Coordenação do Centro de Referência de Imunobiológicos Especialais de Pernambuco CRIE/UPE destaca importância da vacinação. Relata experiência de enfrentamento de pandemias e surtos, como poliomielite e sarampo, e impacto positivo da vacinação. Expressa preocupação com queda nas coberturas vacinais e ressaltando a necessidade de imunizar contra doenças infecto-contagiosas como COVID-19, seguindo esquemas e sequência de vacinação adequados.",
       "speaker": {
         "name": "Maria Ângela Wanderley",
-        "position": "Coordenadora do Centro de Referência de Imunobiológicos Especiais de Pernambuco CRIE/UPE"
+        "position": "Coordenadora do Centro de Referência de Imunobiológicos Especiais de Pernambuco CRIE/UPE",
+        "slug": "maria-angela-wanderley"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Defender vacinação para proteger vida e coberturas; histórico sucesso programa nacional imunização, atuais desafios queda coberturas e risco reintrodução doenças; anuncia multivacinação nacional segundo semestre, adiantamento Acre e Amazonas por risco poliomielite; necessita envolvimento toda sociedade combatendo desconfiança vacinação por movimento anti-vax.",
       "speaker": {
         "name": "Eder Gatti",
-        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde"
+        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde",
+        "slug": "eder-gatti"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Instituto Butantan: 122 years producing immunobiologicals, from combating peste negra to current antivenoms and vaccines. A key player in Brazil's immunization program, with significant impact on reduction of diseases and mortality rates. Recent anti-vaccine movement threatens progress, exposing public to health risks. Brazil, including São Paulo state, remains committed to expanding vaccination efforts and combating misinformation.",
       "speaker": {
         "name": "Esper kallás",
-        "position": "Presidente do Instituto Butantan"
+        "position": "Presidente do Instituto Butantan",
+        "slug": "esper-kallas"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Presidente da Sociedade Brasileira de Triagem Neonatal - SBTN destaca importância de programa nacional de imunização e triagem neonatal. Esses programas reduzem mortalidade infantil e identificam doenças graves em recém-nascidos. Ela propõe maior educação da população e criação do dia nacional de imunização, além de campanha sobre teste do pezinho. Também menciona a necessidade de atenção a pacientes com doenças raras no programa de imunização.",
       "speaker": {
         "name": "Tãnia Bachega",
-        "position": "Presidente da Sociedade Brasileira de Triagem Neonatal - SBTN"
+        "position": "Presidente da Sociedade Brasileira de Triagem Neonatal - SBTN",
+        "slug": "tania-bachega"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220674,
         "name": "Dra. Alessandra Haber",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dra-alessandra-haber"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -285,7 +308,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -307,7 +332,8 @@
       "summary": "Deputado fala sobre importância da vacinação e proteção à crianças, critica grupos anti-vacina e pede apoio à ciência. Elogia deputadas presentes e sua abordagem maternal em saúde. Concorda que é necessário combater ideologias que negam avanços científicos na saúde.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -319,7 +345,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -330,7 +357,8 @@
       "summary": "Deputado elogia iniciativa de compra direta de vacinas e alerta por vacinas vencidas no Ministério da Saúde, espera um programa de imunização mais forte com o novo governo e convida para o lançamento da frente parlamentar da vacina.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -342,7 +370,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -354,7 +383,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -365,7 +395,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 220602,
         "name": "Dimas Gadelha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dimas-gadelha"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -422,7 +457,8 @@
       "transcription": "Gostaria muito de agradecer a a fala da dos deputados, das senhoras e senhores deputados, que mostram que, muitos de vocês, a essa casa tem de fato uma preocupação e compromisso com a saúde pública e com a vacinação. E e agradeço muito pelas perguntas e vou ter vou ter maior maior disponibilidade em respondêlos. Eu fiz algumas anotações, e a deputada Ana Paula, obrigado pela pela pelas perguntas e pelas falas. A senhora fez uma pergunta que vai muito de vai vai é muito próximo do que do comentário que o deputado Daniel Soras fez e que eu acho que, que vale a pena eu situálos de como que nós encontramos os estoques, pra os estoques de vacinas. Vale lembrar que nós estamos no primeiro ano de governo, nós estamos no ano de dois mil e vinte e três, então, estamos trabalhando com compras e planejamentos que foram feitas em anos anteriores, dois mil e vinte e dois. E, e é com isso que a gente tem que trabalhar. E nós encontramos cenário bem, bem extremo, tanto de sobras de algumas vacinas quanto de falta de outras vacinas. E aí, vou dar alguns exemplos, a a vacina bivalente que é essa que nós iniciamos a vacinação no dia vinte e sete de fevereiro de dois mil e vinte e três, a o governo anterior comprou, adquiriu dezoito milhões de doses. Dezoito milhões de doses daria pra gente vacinar apenas a população com setenta anos ou mais. Era insuficiente pra gente fazer uma estratégia. Paralelo a isso, não havia doses de covid dezenove para o público o estoque estava zerado. Tanto é que, a uma das primeiras medidas que nós fizemos, foi primeiro, adquirir doses de bivalente pra gente ter uma ação de vacinação minimamente estruturada. Então pra gente vacinar público prioritário como a gente gostaria de fazer, ou seja, direcionar a vacinação pra aquelas pessoas, que de fato precisam, pessoas que têm maior risco de fazer formas graves da covid ou até mesmo morrer pela doença, nós precisaríamos de no mínimo cinquenta e dois milhões de doses. O que nós fizemos foi pegar os contratos já estavam pagos e abertos, a gente não não comprou, não fez novos contratos. A gente executou coisas que estavam paradas. E aí nós criamos cerca de vinte milhões de doses com o produtor, e nós resgatamos algo que também estava esquecido e parado, que é o Covax Facility. O governo brasileiro participou de consórcio internacional, nós tínhamos crédito nesse nesse nesse consórcio internacional, e aí nós convertemos esse crédito em vacina bivalente, e isso permitiu a gente elaborar uma estratégia que foi lançada no dia vinte e sete de fevereiro. A outra coisa que nós fizemos foi procurar os laboratórios e adquirir vacinas pediátricas pra gente abastecer os estados e municípios, que naquele momento demandavam essa vacina. Então esse é o extremo da situação da covid dezenove, só que também, temos sobra de vacina monovalente, algo herdado do planejamento anterior. Certo? Isso é fato, inclusive inclusive as notícias de de enfim de de vacinas que foram vencidas no final do ano passado e no início desse ano, que não tinha como se fazer o consumo, isso se deve à compras que foram feitos no passado e que existia uma dificuldade muito grande, de de fazer o consumo desses dessas vacinas. Agora vamos falar sobre a rotina, porque veja, eu volto a salientar para os senhores e para senhoras, o Brasil tem o risco de reintrodução da pólio, o Brasil tem o risco da reintrodução do sarampo, e a gente precisa corrigir e precisa recuperar as nossas coberturas vacinais. Nós nós contamos ainda, logo que nós começamos a trabalhar, a ministra Nísia deixou bem claro, precisamos de ações pra vacinar e recuperar as coberturas. Só que os problemas estruturais e os problemas de estoque dificultavam ações imediatas. Por isso que inclusive logo no começo do ano nós anunciamos que as ações de multivacinação, aconteceriam depois de maio, que era o tempo que nós precisávamos pra recuperar os estoques e ajustar os sistemas de informação. Nós estamos com falta de vacina oral de pólio. Nós não temos a vacina de gotinha, está faltando. Agora que nós, agora em maio, o estoque vai ser regularizado, porque houve a importação temos oito milhões de doses, que está aguardando apenas a liberação, de do organismo que faz o controle de qualidade o instituto nacional de controle de qualidade em saúde o INCQS, pra que a gente possa distribuir pros estados e municípios. Nós estávamos com estoque limítrofe de vacina tríplice viral que é a vacina do sarampo. E que, com o adiantamento das entregas feitas por biomanguinhos, conseguimos colocar os estoques pra rotina, pra essa vacina em dia. Não sei se os senhores sabem mas, senhores sabem mas a gente está com a produção de BCG parada desde dois mil e dezessete, por uma interdição da da fábrica nacional ataulfo de Paiva. E que nós estamos dependendo de importação de uma vacina que o Brasil produzia há décadas, e uma vacina que nós produzimos altíssima qualidade. A cepa brasileira é uma das melhores do mundo. Agora a gente está com plano de resgate, que inclusive citar aqui o empenho de Bill Manguinhos em ajudar a auxiliar o Taulfo de Paiva nesse resgate. Laboratório público empenhado em recuperar a produção nacional de CG, isso está acontecendo, esperamos que ano que vem retomemos a produção nacional de BCG novamente. Tá? Então esse é o cenário, então a gente tem situações extremas, faltam de lado sobra do outro, certo? Isso se deve ao caos de planejamento que foi herdado. E por isso que nós tivemos que jogar a multivacinação pra depois, depois de maio. Inclusive nós anunciamos isso logo em janeiro, né? Que a multifacinação ficaria pra depois. Então essa é a situação dos estoques, e trabalhamos muito pra pra pra resolver esse problema. Com relação a ao termo, movimento em vez de campanha, olha, eu preciso fazer aqui uma menção honrosa aos municípios do Brasil, aos estados, mas e aos municípios porque, os municípios estão em campanha, desde o dia dezessete de janeiro de dois mil e vinte e Estão em campanha, eles não pararam. Eles não pararam. E e falar em campanha nesse momento, eu sou até redundante porque está todo mundo empenhado no esforço de recuperar, de de vacinar contra a covid dezenove, então eu preciso fazer essa menção honrosa dos dos dos esforços dos estados e municípios. Que inclusive em alguns momentos, remaram contra a Correnteza, né de discurso negacionista e vindo de, bocas oficiais, que aconteceu no passado recente do Brasil. Então eu preciso fazer essa menção honrosa aos estados e municípios. E por exemplo, lançamos a vacinação no dia vinte e sete de fevereiro contra a, com a vacina bivalente, na verdade nós adicionamos imunobiológico pra uma campanha já estava acontecendo há mais de dois anos. Então, o termo campanha, ele está desgastado, porque os municípios já estão em campanha há muito tempo. Mas, usamos o termo movimento porque movimento é algo mais forte, vai além da ação de vacinação. Falas do programa nacional de imunização a gente sempre coloca a ação de publicidade atrelada a uma ação de vacinação. Precisamos fazer as duas coisas juntas. Tá? E o movimento, ele convoca toda a sociedade, em prol da vacinação e, então por isso que a gente usa o termo movimento porque ele é mais forte. Está não não não estamos limitados a uma ação de vacinação. Estamos também numa ação de comunicação e numa ação de mobilização nacional, e que não é pontual agora pra dois mil e vinte e três não. O movimento nacional pela vacinação vai acontecer, nesse processo de recuperação das coberturas vacinais, que vai durar meses e quem sabe anos, mas a gente vai trabalhar, muito forte nisso, e contamos com o apoio dessa casa e com o envolvimento de toda a sociedade brasileira. É eu acho que a deputada Ana Pimentel fez uma referência ao às condicionalidades do Bolsa Família, e e eu acho que é bom sempre falar que quando nós condicionamos programas sociais e acesso a direito a obrigação de vacinação, veja, condicionar é importante porque, isso vai empenhar as pessoas em vacinar, eu acho que foi uma medida importante nós conseguimos tomar agora. A deputada Alessandra pediu para que a gente, para que eu comentasse, sobre a vacinação das comunidades ribeirinhas, e sempre que a gente fala de comunidades ribeirinhas, população indígena, as ações elas não podem ser estratificadas por faixa etária. A gente precisa chegar e vacinar todo mundo. Então as ações elas precisam ser muito objetivas e certeiras. Gente não pode perder a oportunidade. O que acontece é que o ministério da saúde tem PAD tem fluxo de recurso financeiro com as forças armadas já há alguns anos, pra pra o pra pra uma operação que nós chamamos de operação gota, que, financia as atividades principalmente da aeronáutica, pra fazer a vacinação de áreas de difícil acesso, que atende principalmente as áreas indígenas, tá? Esse ano, nós estamos ampliando a operação gota pra garantir maior acesso a essas áreas de difícil acesso ou seja, vacinar áreas ribeirinhas, terras indígenas, locais de difícil acesso, óbvio que é uma estratégia que tem custo maior, só que ela precisa ser feita, independentemente do custo, então vai acontecer, já acontece, e nós vamos ampliar. E vale lembrar que a própria atenção primária tem estratégias, como por exemplo, a unidades de saúde e embarque enfim que acabam promovendo o aumento do acesso. E aí, foime perguntado sobre como que seria a a as estratégias pra aumentar o acesso na atenção primária. Veja, o programa nacional de ele está alocado dentro da secretaria de vigilância em saúde e ambiente, né a secretária doutora Etel, mas nós temos uma aproximação muito grande com a secretaria de atenção primária Saúde. Inclusive eles têm uma coordenação lá que nos apoia. E e nós estamos discutindo as políticas públicas em vacinação em conjunto com eles. Inclusive porque, várias coisas tanto de estratégias de vacinação quanto o sistema de informação nós precisamos estar alinhado com eles. E existem ações estruturantes da atenção primária que estão sendo desenvolvidas agora, que certamente vai impactar em todas as atividades da atenção primária, inclusive vacinação. E tem estratégias específicas pra, financiar municípios que mantêm a sua a sua unidade é aberta fora dos horários convencionais, pra aumentar a oportunidade de acesso. Essas coisas estão acontecendo, são coisas mais estruturantes, que teremos resultados posteriormente, Deputada Jandira agradeço muito pelas suas colocações, as suas perguntas são muito importantes inclusive abre oportunidade pro programa nacional de imunização dar alguns esclarecimentos e inclusive pra gente expor o que vem sendo feito. A ação a ação de multivacinação agora, a gente também tem tem uma discussão muito intensa se a gente vai fazer ela por etapas, estratificando os municípios ou não, considerando a a coorte de não vacinados, aquelas o quantitativo de pessoas não vacinadas. Isso não é uma decisão que está fechada porque ela vai depender de, de de pactuações com com a representação dos secretários estaduais e secretários municipais de saúde, CONAS e CONASEMS. Mas a nossa ação de comunicação, isso é uma determinação da assessoria de comunicação do próprio gabinete da ministra, ela deve acontecer de forma descentralizada. Nesse primeiro momento, a gente está trabalhando com uma com com publicidade nacional, mas a ideia é descentralizar a ação. Inclusive abrimos a oportunidade pra que localmente se desenvolva a partir das iniciativas do ministério de comunicação, ações locais, com lideranças, influenciadores, veículos locais. Isso é uma diretriz nossa. E e pra ação de multivacinação isso vai ganhar força no segundo semestre. É. E aí, pra pra vacinar e aí, o, reforçando mais uma vez a questão do movimento nacional pela vacinação, nós estamos buscando entidades de de de representação civil e religiosa pra ganhar apoio da vacinação, na vacinação, ou seja, a gente busca entidades nacionais, mas na hora de capilarização a nível municipal, acessaremos essas lideranças, tanto civis quanto religiosas, pra garantir o apoio da vacinação. E vale lembrar que a busca ativa do não vacinado utilizando o agente comunitário saúde é algo que que está no nosso está na na na na no nosso planejamento, a atenção primária vai fazer treinamento específico pra pra agentes comunitários, o próprio CONASEMS, através do imunes da SUS garante que a gente tenha acesso a pessoal que já está devidamente selecionado como apoiadores locais, EEA gente vai fazer a busca ativa de não vacinado contando com esse exército de trabalhadores que são muito importantes no SUS, os agentes comunitários de saúde. E a educação bem, nós temos o PSE, que é ligado à tensão uma parceria entre educação e saúde na na saúde através da atenção primária, no segundo semestre, a gente vai utilizar o PSE, pra acessar as escolas. E aí vai depender muito da da da postura municipal, de ou utilizar o ambiente escolar pra fazer a busca de não vacinados, ou, ou complementando com a vacinação dentro da própria escola ou seja, a tensão primária entrando dentro da escola. Inclusive a gente coloca isso no planejamento como, há tarefas a serem pactuadas, coisas a serem pactuadas, e atreladas a esse repasse financeiro. EE0 ambiente escolar ele também vai ser importante pra fazer atividades pedagógicas, pra levar para as nossas crianças, o que significa se vacinar, a importância da vacinação porque veja, eu sou de uma geração, nascido nos anos oitenta, que pra mim vacinar ela é algo normal, tem faz parte da vida. Só que me preocupa muito os filhos da os filhos de agora, as crianças de agora, que crescem em ambiente, onde a vacinação ela ela deixou de ser algo corriqueiro nas nossas vidas. Virou algo excepcional e em alguns ambientes familiares até algo execrável. Isso é problema porque essa geração dia vai ter filhos, e vai passar essa mensagem adiante então, o Brasil precisa interromper isso, E vale lembrar que olha, há esperança, tá? Porque, teve uma deputada que comentou que sobre como que, se se consolidou a hesitação vacinal no Brasil, não é apenas a questão de confiança, também tem uma questão de acesso muito importante aí. Precisamos melhorar o acesso à vacinação porque, apesar desse desse trabalho incansável do do do e criminoso de quem dissemina fake news, nossa população ainda confia em vacina, sabe? As pesquisas mostram isso. Então o que a gente tem que fazer é interromper isso, interromper isso, e por outro lado, oferecer pra nossa população a informação correta de que vacina é segura e vacina salva vidas. Então assim há esperança, eu acho que o Ministério da Saúde tem tem se empenhado a isso mas obviamente precisamos do empenho de todos, desta casa e de toda a sociedade. Obrigado. Obrigada doutor.",
       "speaker": {
         "name": "Eder Gatti",
-        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde"
+        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde",
+        "slug": "eder-gatti"
       }
     },
     {
@@ -434,7 +470,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -445,7 +482,8 @@
       "summary": "Projeto \"Pela Reconquista das Altas Coberturas Vacinais\" em Amapá e Paraíba por Biomanguinhos/Fiocruz é um sucesso, envolvendo comunidades e estruturas diversas. A confiança da sociedade em vacinas foi reforçada durante a pandemia, com apoio ao laboratório Fiocruz e outros estaduais. Investimento em ciência, tecnologia e inovação promove saúde, conhecimento, emprego e sustentabilidade no SUS. Necessário fortalecer a produção nacional e atender às necessidades do SUS no futuro.",
       "speaker": {
         "name": "Tatiana Ganem",
-        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz"
+        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz",
+        "slug": "tatiana-ganem"
       }
     },
     {
@@ -456,7 +494,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -468,7 +507,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -480,7 +520,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -492,7 +533,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -504,7 +546,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -515,7 +558,8 @@
       "summary": "Presidente do Instituto Butantan se oferece para ajudar iniciativa parlamentar sobre importante tema, destacando disposição do instituto em colaborar e assegurar sucesso.",
       "speaker": {
         "name": "Esper kallás",
-        "position": "Presidente do Instituto Butantan"
+        "position": "Presidente do Instituto Butantan",
+        "slug": "esper-kallas"
       }
     },
     {
@@ -526,7 +570,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -537,7 +582,8 @@
       "summary": "Importância da vacinação para proteger contra doenças e manter coberturas altas, mantendo a vida e a saúde da população.",
       "speaker": {
         "name": "Maria Ângela Wanderley",
-        "position": "Coordenadora do Centro de Referência de Imunobiológicos Especiais de Pernambuco CRIE/UPE"
+        "position": "Coordenadora do Centro de Referência de Imunobiológicos Especiais de Pernambuco CRIE/UPE",
+        "slug": "maria-angela-wanderley"
       }
     },
     {
@@ -549,7 +595,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -560,7 +607,8 @@
       "summary": "Diretor da Anvisa afirma: apoiamos continuamente durante pandemia, feliz por foco sobre vacina no dia 17 de janeiro; agência promove acesso e regularização de saúde, não deve ser obstáculo às políticas de saúde.",
       "speaker": {
         "name": "Alex Machado Campos",
-        "position": "Diretor da Agência Nacional de Vigilância Sanitária"
+        "position": "Diretor da Agência Nacional de Vigilância Sanitária",
+        "slug": "alex-machado-campos"
       }
     },
     {
@@ -572,7 +620,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -583,7 +632,8 @@
       "summary": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz destacou importância de recuperar coberturas vacinais e valor de diálogo com deputados para abordar esse problema nacional.",
       "speaker": {
         "name": "Tatiana Ganem",
-        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz"
+        "position": "Chefe de Gabinete da Diretoria de Biomanguinhos/Fiocruz",
+        "slug": "tatiana-ganem"
       }
     },
     {
@@ -595,7 +645,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -606,7 +657,8 @@
       "summary": "Resumo: Recuperar coberturas vacinais e defender SUS e saúde pública brasileira.",
       "speaker": {
         "name": "Eder Gatti",
-        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde"
+        "position": "Diretor do Departamento de Imunizações e Doenças Imunopreveníveis - DPNI Ministério da Saúde",
+        "slug": "eder-gatti"
       }
     },
     {
@@ -618,7 +670,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Oposições de minha autoria. Obrigado presidente Dani",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dani Cunha -- por Participante -- Amaro Neto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dani-cunha-por-participante-amaro-neto"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amaro Neto -- por Participante -- Dani Cunha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amaro-neto-por-participante-dani-cunha"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     }
   ],

@@ -18,27 +18,31 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
       "id": 674424,
       "start_time": 1680099794,
       "duration": 1421,
-      "transcription": "Mais algum colega parlamentar ainda não votou, está no plenário, está votando. Vou encerrar a votação. Encerrada a votação.",
+      "transcription": "\nMais algum colega parlamentar ainda não votou, está no plenário, está votando. Vou encerrar a votação. Encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
       "id": 674425,
       "start_time": 1680101215,
       "duration": 137,
-      "transcription": "",
+      "transcription": "\nPassase a apuração dos votos no painel eletrônico, vamos aguardar o resultado. Como a gente vê aqui no painel, vou proclamar o resultado. Primeira vicepresidente, deputada Simone Marquito, do MDB de São Paulo, total de votos dezenove votos, dois brancos, vinte e votos. Segundo vicepresidente e deputado Bibon Nunes do PL do Rio Grande do Sul, dezenove votos, dois votos em branco, vinte e votantes, terceiro vicepresidente deputado Rodrigo Valadares do União Brasil do Sergipe, dezenove votos, dois votos em branco, vinte e votantes. Declaro eleitos para vicepresidente a deputada Simone Marquito do MDB de São Paulo, segundo o vicepresidente deputado Bimo Dunes do PL do Rio Grande do Sul, e terceiro vicepresidente deputado Rodrigo Valadares do União Brasil de Sergipe.\n\nConvido os senhores deputados Simone Marchetti, Marchetto, Bibo Nunes e Rodrigo Valadares para assumirem respectivamente a primeira, a segunda e a terceira vicepresidências da comissão declarando empossados. Pode vim à mesa. Deputado Bebo Nunes não se faz presente nesse momento. Concedo a palavra à deputada Simone Marquito, primeira vicepresidente da comissão de comunicação da Câmara dos Deputados.",
+      "summary": " Deputados Simone Marquito, Bibo Nunes, e Rodrigo Valadares eleitos vice-presidentes da comissão de comunicação. Cerimônia de posse inicia. Bibo Nunes absente no momento. Simone Marquito concedida a palavra.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +54,8 @@
       "speaker": {
         "id": 220651,
         "name": "Simone Marquetto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "simone-marquetto"
       }
     },
     {
@@ -62,7 +67,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -74,7 +80,8 @@
       "speaker": {
         "id": 165470,
         "name": "Rodrigo Valadares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-valadares"
       }
     },
     {
@@ -86,7 +93,8 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     },
     {
@@ -98,7 +106,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -110,9 +119,10 @@
       "speaker": {
         "id": 204356,
         "name": "Amaro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "amaro-neto"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633805
 }

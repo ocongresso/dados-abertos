@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Agradecimentos a convidados e equipe do Hino Nacional conclusão; boas-vindas à primeira convidada, Rafaela Rosinha Cantarino.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": " Livro didático é central no ensino, através do PNLD, maior distribuidor após a China. PNLD promove equidade acessando materiais de qualidade, por meio de editais, avaliação pedagógica e distribuição, visando conhecimento acessível a todos e melhoria contínua.",
       "speaker": {
         "name": "RAPHAELLA ROSINHA CANTARINO",
-        "position": "COORDENADORA-GERAL DE MATERIAIS DIDÁTICOS DA DIRETORIA DE APOIO À GESTÃO EDUCACIONAL - MEC"
+        "position": "COORDENADORA-GERAL DE MATERIAIS DIDÁTICOS DA DIRETORIA DE APOIO À GESTÃO EDUCACIONAL - MEC",
+        "slug": "raphaella-rosinha-cantarino"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -69,7 +74,8 @@
       "summary": " A Diretora-Executiva da Associação Brasileira de Livros e Conteúdos Educacionais defende a importância do acesso à educação de qualidade e do livro didático, destacando a relevância da indústria editorial e da política pública PNLD. Ela propõe regulamentação legal para garantir segurança jurídica, inclusão de programas como despesas obrigatórias no orçamento federal, e menciona a reforma tributária e o PL 5.230/23 como projetos importantes.",
       "speaker": {
         "name": "RENATA MULLER",
-        "position": "DIRETORA-EXECUTIVADA ASSOCIAÇÃO BRASILEIRA DE LIVROS E CONTEÚDOS EDUCACIONAIS - ABRELIVROS"
+        "position": "DIRETORA-EXECUTIVADA ASSOCIAÇÃO BRASILEIRA DE LIVROS E CONTEÚDOS EDUCACIONAIS - ABRELIVROS",
+        "slug": "renata-muller"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": " Livro didático é fundamental na educação brasileira, adequado a idade, estimula leitura e interpretação. Professores cruciales no seu uso, never substituindo o papel do professor. Alunos manifestam entusiasmo e curiosidade com recebimento de livros.",
       "speaker": {
         "name": "SANDRA SCHAEFFER BATISTA",
-        "position": "VICE-DIRETORA DA ESCOLA DISTRITAL 302 NORTE/DF"
+        "position": "VICE-DIRETORA DA ESCOLA DISTRITAL 302 NORTE/DF",
+        "slug": "sandra-schaeffer-batista"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": " Professora, ex-aluna de escola pública, defende livro didático e experiência em Santa Catarina.",
       "speaker": {
         "name": "ACEDRIANA VOGEL",
-        "position": "PROFESSORA E DIRETORA PEDAGÓGICA DA APRENDER BRASIL"
+        "position": "PROFESSORA E DIRETORA PEDAGÓGICA DA APRENDER BRASIL",
+        "slug": "acedriana-vogel"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -161,7 +174,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Professora Goreth -- por Participante -- Rafael Brito",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-professora-goreth-por-participante-rafael-brito"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -196,7 +212,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -207,7 +224,8 @@
       "summary": " Senhora Sandra Batista, vicediretora da escola classe 302 Norte Distrito Federal, toma a palavra.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rafael Brito -- por Participante -- Professora Goreth",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rafael-brito-por-participante-professora-goreth"
       }
     },
     {
@@ -219,7 +237,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     }
   ],

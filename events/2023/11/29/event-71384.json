@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220540,
         "name": "Duda Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duda-ramos"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220578,
         "name": "Josenildo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "josenildo"
       }
     }
   ],

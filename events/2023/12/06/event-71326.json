@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -76,7 +81,8 @@
       "transcription": "Da minha relatoria então, o Zé Trovão assume aqui pra que a gente faça 00AA devida leitura.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegado Matheus Laiola -- por Participante -- Zé Trovão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegado-matheus-laiola-por-participante-ze-trovao"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -100,7 +107,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -123,7 +132,8 @@
       "summary": "Deputado Matheus Loyola: parabéns pela aprovação do projeto, considere aumentar o prazo em doze meses.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Trovão -- por Participante -- Delegado Matheus Laiola",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-trovao-por-participante-delegado-matheus-laiola"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     }
   ],

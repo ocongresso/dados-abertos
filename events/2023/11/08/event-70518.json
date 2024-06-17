@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Foi. Encerrada a votação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tarcísio Motta -- por Participante -- Marcelo Queiroz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tarcisio-motta-por-participante-marcelo-queiroz"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "Foi. Encerrada a votação.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -82,7 +88,8 @@
       "transcription": "Obrigada. Bom olha só, nós somos cinco membros dessa subcomissão que é o que o regimento.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Jandira Feghali",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-jandira-feghali"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     }
   ],

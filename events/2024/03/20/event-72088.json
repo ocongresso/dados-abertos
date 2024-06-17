@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "As deputadas e deputados presentes para exercerem o seu direito de voto e se encaminharem à urna de votação. Quero saudar a, que chegou ao recinto, a representante da secretaria de estado de Goiás, Laudicéia Dourado aqui presente conosco. Muito obrigada pela presença. Gostaria de solicitar a todas e todos os parlamentares aqueles que não votaram por gentileza irem à cabine de votação para depositar o seu voto. Fique aqui. Não havendo mais quem queira votar declaro encerrada a votação. Passase",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": " Votação encerrada, inicia apuração. Pimentel recebe 15 votos favoráveis, elegida presidente. Quórum alcançado no primeiro escrutínio.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": " Comissão elogia e acolhe nova presidente, desejando-lhe trabalho produtivo no ano de 2024.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lêda Borges -- por Participante -- Ana Pimentel",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-leda-borges-por-participante-ana-pimentel"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220704,
         "name": "Carol Dartora",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "carol-dartora"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -278,7 +301,8 @@
       "transcription": "",
       "speaker": {
         "name": "Descerramento de foto",
-        "position": ""
+        "position": "",
+        "slug": "descerramento-de-foto"
       }
     },
     {
@@ -289,7 +313,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     }
   ],

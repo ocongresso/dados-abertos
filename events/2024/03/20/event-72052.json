@@ -13,7 +13,8 @@
       "summary": " Mestre de Cerimônias dá boas-vindas a participantes em discussão sobre promoção de saúde mental de crianças, adolescentes e jovens em escolas, apresentando desafios, oportunidades e estratégias. Ele permite acesso a espectadores virtuais via áudio descritivo e transmite a cerimônia na TV da Câmara dos Deputados. O deputado André Gianones fala em seguida.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 204515,
         "name": "André Janones",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-janones"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 178857,
         "name": "Jorge Solla",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-solla"
       }
     },
     {
@@ -48,7 +51,8 @@
       "summary": " Mestre de Cerimônias inicia cerimônia em Anexo 4 da Câmara dos Deputados, localizado em Brasília, com foco no tema da promoção da saúde mental de crianças, adolescentes e jovens, falando sobre desafios, oportunidades e estratégias. Autoridades presentes incluem Deputados André Janones e Jorge Sola, além de outros convidados especiais. Evento é transmitido virtualmente pela TV da Câmara dos Deputados, incluindo a presença da Deputada Ana Paula Lima.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": " Instituto Cactus destaca urgência de políticas públicas para saúde mental em jovens, influenciada por infância, contexto e determinantes sociais. Educação sexual promovida como possível contribuição para saúde mental em adolescentes.",
       "speaker": {
         "name": "BRUNO ZILLER",
-        "position": "Instituto Cactus"
+        "position": "Instituto Cactus",
+        "slug": "bruno-ziller"
       }
     },
     {
@@ -70,7 +75,8 @@
       "summary": " Instituto Liberta contra violência sexual infantil: no Brasil, quatro meninas com menos de 13 anos são estupradas por hora; criminosidade obscurecida por subnotificação; grande impacto no desenvolvimento; crime em grande parte doméstico e envolvendo pessoas conhecidas. Promover educação sexual desde a creche, abordando respeito ao corpo e consentimento, para prevenir violência.",
       "speaker": {
         "name": "Cristina Cordeiro",
-        "position": "Instituto Liberta"
+        "position": "Instituto Liberta",
+        "slug": "cristina-cordeiro"
       }
     },
     {
@@ -80,7 +86,8 @@
       "transcription": "",
       "speaker": {
         "name": "BRUNO ZILLER",
-        "position": "Instituto Cactus"
+        "position": "Instituto Cactus",
+        "slug": "bruno-ziller"
       }
     },
     {
@@ -91,7 +98,8 @@
       "summary": " Plan International Brasil combate doenças crônicas em jovens, incluindo estudo sobre saúde mental; adolescentes associam saúde mental a fatores externos, como desigualdade de gênero e pobreza; apoio entre pares é relevante, mas o profissional ainda é inadequado; juventude adota comportamentos de risco para encubar sentimentos desagradáveis; recomendadas políticas públicas sensíveis a gênero, envolvimento da juventude, agency, e prevenção e intervenção precoce em saúde mental.",
       "speaker": {
         "name": "ANGELICA DUARTE",
-        "position": "Plan Internacional Brasil"
+        "position": "Plan Internacional Brasil",
+        "slug": "angelica-duarte"
       }
     },
     {
@@ -102,7 +110,8 @@
       "summary": " Plan Internacional Brasil enfatiza importância de abordar saúde mental em escolas e famílias, fornecendo ambientes saudáveis, promovendo conscientização e ouvindo adolescentes em decisões sobre saúde e futuro. Falta de compreensão e tratamento pode causar violência ou descaso, impactando negativamente autoestima, educação socioemocional e acesso a direitos, levando a ansiedade e depressão.",
       "speaker": {
         "name": "ANNA LÍVIA",
-        "position": "Plan Internacional Brasil"
+        "position": "Plan Internacional Brasil",
+        "slug": "anna-livia"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": " Instituto Cactus: Apoiamos política pública de saúde mental em escolas, promovemos integração de equipamentos de saúde, educação e assistência social. Desafios para promoção de saúde mental nas escolas, especialmente para entes locais e escolas. Agradecimento a Ana Lívia pela participação.",
       "speaker": {
         "name": "BRUNO ZILLER",
-        "position": "Instituto Cactus"
+        "position": "Instituto Cactus",
+        "slug": "bruno-ziller"
       }
     },
     {
@@ -124,7 +134,8 @@
       "summary": " Fundação José Luiz Egydio Setúbal sauda deputado, agradece esforços para aprovação de política de saúde mental na educação, vinculada ao programa Saúde na Escola. Desafio é ampliar democratica atenção a saúde mental, capacitando profissionais e comunidade. A fundação apoia projetos no território, prestando atenção à governança, mudanças climáticas e violência contra crianças, fiscalizando regulamentação da lei e lutando contra estigma em populações vulneráveis.",
       "speaker": {
         "name": "MARCIA WOODS",
-        "position": "Fundação José Luiz Egydio Setúbal"
+        "position": "Fundação José Luiz Egydio Setúbal",
+        "slug": "marcia-woods"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": " Instituto Cactus promove discussion sobre a promoção da saúde mental de crianças, adolescentes e jovens, enfatizando desafios, oportunidades e estratégias, com a presença de vários especialistas e autoridades no auditório Freitas Nobre em Brasília.",
       "speaker": {
         "name": "BRUNO ZILLER",
-        "position": "Instituto Cactus"
+        "position": "Instituto Cactus",
+        "slug": "bruno-ziller"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 204534,
         "name": "Tabata Amaral",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "tabata-amaral"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": " Tempo de encerrar, Instituto Cactus convida deputado André Janones para fala de encerramento.",
       "speaker": {
         "name": "BRUNO ZILLER",
-        "position": "Instituto Cactus"
+        "position": "Instituto Cactus",
+        "slug": "bruno-ziller"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 204515,
         "name": "André Janones",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-janones"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": " Mestre de Cerimônias anuncia o painel de lançamento de pesquisas e guias sobre violência entre jovens no Brasil, com foco em educação para a paz e direitos humanos. Panelistas incluem deputada Samia Bofim, colaboradora da Ticplace Brasil Beatriz Buarque, e outros especialistas.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -193,7 +209,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -204,7 +221,8 @@
       "summary": " Deputada Estadual de São Paulo - Rede agradece convidar para moderar painel sobre violência contra jovens e crianças; menciona honra trabalhar com parceiros que apoiam agenda importante para Brasil; referencia apresentação de pesquisas sobre impacto de redes sociais e tecnologia nas violências contra escolas e jovens; elogia organização da jornada e dá boa tarde à Rafaela Ribeiro.",
       "speaker": {
         "name": "MARINA HELOU",
-        "position": "Deputada Estadual de São Paulo - Rede"
+        "position": "Deputada Estadual de São Paulo - Rede",
+        "slug": "marina-helou"
       }
     },
     {
@@ -215,7 +233,8 @@
       "summary": " Ex-criança das redes sociais questiona influência negativa nelas. Pede reflexão sobre papel de adultos ensinando e monitorando uso de tecnologia. Propõe projeto educacional colaborativo, começando com \"Escola de Moldadores\".",
       "speaker": {
         "name": "RAFAELA RIBEIRO",
-        "position": "Enbaixador da Escola de Mudadores"
+        "position": "Enbaixador da Escola de Mudadores",
+        "slug": "rafaela-ribeiro"
       }
     },
     {
@@ -225,7 +244,8 @@
       "transcription": "",
       "speaker": {
         "name": "MARINA HELOU",
-        "position": "Deputada Estadual de São Paulo - Rede"
+        "position": "Deputada Estadual de São Paulo - Rede",
+        "slug": "marina-helou"
       }
     },
     {
@@ -236,7 +256,8 @@
       "summary": " Grupo Think Twice Brasil studying social media algorithms and youth violence in Brazil. Violence internalized through social media and other spaces. Think Twice Brazil promotes peace and human rights education to help young people recognize and reduce violence. Recommend investment in human and financial resources for inclusion in public agenda and educator training. Think Twice Brazil provides materials and card games for educators and families.",
       "speaker": {
         "name": "GABRIELE GARCIA",
-        "position": "Think Twice Brasil"
+        "position": "Think Twice Brasil",
+        "slug": "gabriele-garcia"
       }
     },
     {
@@ -248,7 +269,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -259,7 +281,8 @@
       "summary": " Pesquisadora da London School of Economics studying youth and TikTok found violent, discriminatory content common, with rapid algorithmic recommendation. Exposure to such videos can affect youth's mental health and perception of violence. She calls for collective effort to ensure a healthy social media environment for future generations.",
       "speaker": {
         "name": "BEATRIZ BUARQUE",
-        "position": "Pesquisadora da London School of Economics"
+        "position": "Pesquisadora da London School of Economics",
+        "slug": "beatriz-buarque"
       }
     },
     {
@@ -270,7 +293,8 @@
       "summary": " Deputada Estadual de São Paulo - Rede valoriza pesquisa sobre violência e seus efeitos negativos, principalmente em jovens. Ela destaca a importância de contatos com a natureza, educação para saúde mental, paz e direitos humanos, além de responsabilizar plataformas sobre conteúdos entregues aos jovens.",
       "speaker": {
         "name": "MARINA HELOU",
-        "position": "Deputada Estadual de São Paulo - Rede"
+        "position": "Deputada Estadual de São Paulo - Rede",
+        "slug": "marina-helou"
       }
     },
     {
@@ -282,7 +306,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -294,7 +319,8 @@
       "speaker": {
         "id": 204459,
         "name": "Daniela do Waguinho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-do-waguinho"
       }
     },
     {
@@ -305,7 +331,8 @@
       "summary": " Instituto Aurora defende direitos humanos no Brasil, alerta sobre radicalização de jovens por ambiente propício a ideias extremistas e discriminatórias, disseminadas na internet. Proposta: mudança cultural para inclusão, responsabilidade geral, atualização de políticas públicas em educação de direitos humanos para tratarem radicalização e discurso de ódio.",
       "speaker": {
         "name": "MICHELE BRAVOS",
-        "position": "Instituto Aurora"
+        "position": "Instituto Aurora",
+        "slug": "michele-bravos"
       }
     },
     {
@@ -317,7 +344,8 @@
       "speaker": {
         "id": 204459,
         "name": "Daniela do Waguinho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-do-waguinho"
       }
     },
     {
@@ -328,7 +356,8 @@
       "summary": " Instituto Aurora aborda aumento de ataques de violência extrema contra escolas no Brasil, apontando influência de fatores ideológicos e contato com discursos de ódio, especialmente nas redes sociais. É lançado projeto \"Reconectar\" e dois materiais: ebook \"Violência contra escolas no Brasil\" e Glossário Educativo para identificação e prevenção de discursos de ódio e extremismos na escola. Ambos estarão disponíveis para download no site do Instituto Aurora.",
       "speaker": {
         "name": "ANDRÉ BAKKER",
-        "position": "Instituto Aurora"
+        "position": "Instituto Aurora",
+        "slug": "andre-bakker"
       }
     },
     {
@@ -340,7 +369,8 @@
       "speaker": {
         "id": 204459,
         "name": "Daniela do Waguinho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-do-waguinho"
       }
     },
     {
@@ -351,7 +381,8 @@
       "summary": " Discurso sobre violência contra jovens e escolas, destacando a necessidade de políticas públicas e prevenção em various áreas, como educação, saúde mental, e proteção social. Violência desproporcionalmente afeta adolescentes negros da periferia. Escola é visto como um local violento e negligenciado. Prioridade absoluta é dar atenção e combater violência contra crianças e adolescentes em todas as formas.",
       "speaker": {
         "name": "MARINA HELOU",
-        "position": "Deputada Estadual de São Paulo - Rede"
+        "position": "Deputada Estadual de São Paulo - Rede",
+        "slug": "marina-helou"
       }
     },
     {
@@ -363,7 +394,8 @@
       "speaker": {
         "id": 204459,
         "name": "Daniela do Waguinho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-do-waguinho"
       }
     },
     {
@@ -374,7 +406,8 @@
       "summary": " Mestre de Cerimônias anuncia continuação dos trabalhos da tarde, com discussão sobre proteção de crianças, adolescentes e jovens em relação à inteligência artificial gerativa. Presentes: deputada Daniela do Vaquinio, deputado Orlando Silva, Marina Punivas do CONanda, e Tainá Aguiar Junquilho do Instituto Brasileiro de Ensino e Desenvolvimento.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -385,7 +418,8 @@
       "summary": " Troca de lugar entre André Janones e Orlando Silva. Marina Punivas mediará painel. Início com vídeo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- André Janones -- por Participante -- Orlando Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-andre-janones-por-participante-orlando-silva"
       }
     },
     {
@@ -396,7 +430,8 @@
       "summary": " CONANDA preocupado com violência em escolas e uso de inteligência artificial e redes sociais; convocou assembly extraordinária para debater medidas de proteção de crianças e adolescentes no ambiente digital; aprovará resolução em assembleia de abril para orientar sistema de garantia de direitos.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -408,7 +443,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -419,7 +455,8 @@
       "summary": " CONANDA se opõe a custoso projeto de lei reintroduzindo exame criminológico. Em seguida, convidada Tainá Aguiar Junquilho discutirá educação como meio de empoderar crianças e jovens face a desafios e oportunidades da inteligência artificial.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -430,7 +467,8 @@
       "summary": " Inteligência artificial tem história desde 1950, atualmente no seu \"verão\" com alta produção e uso generalizado. Inteligência artificial generativa se destaca por uso massivo de dados para geração de novas saídas em formatos variados. Exemplos: ChatGPT, Beethoven AI, Copilot, entre outros. Recomenda-se cautela e transparência no uso, especialmente com crianças e adolescentes.",
       "speaker": {
         "name": "TAINÁ AGUIAR JUNQUILHO",
-        "position": "IDP"
+        "position": "IDP",
+        "slug": "taina-aguiar-junquilho"
       }
     },
     {
@@ -441,7 +479,8 @@
       "summary": " CONANDA agradece e continua discutindo inteligência artificial, abordando riscos e desafios da internet, novas tecnologias e inteligência artificial generativa para jovens e segurança digital.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -452,7 +491,8 @@
       "summary": " Safernet combatendo riscos de internet há 18 anos; aumento denúncias abuso sexual online menores em 2023, causado por: emissões massa tecnologia, autoprodução e venda imagens nudez, e uso IA para conteúdo explícito. Deepfakes e conteúdo sintético impactam segurança nacional e estabilidade democrática. Regulação deve acompanhar rápido avanço tecnológico e inclui diversos atores de mercado. Imagens IA mostram abuso sexual infantil, especialmente crianças entre 3-10 anos.",
       "speaker": {
         "name": "THIAGO TAVARES",
-        "position": "SAFERNET"
+        "position": "SAFERNET",
+        "slug": "thiago-tavares"
       }
     },
     {
@@ -463,7 +503,8 @@
       "summary": " CONANDA alerta sobre riscos e cede a fala ao deputado Orlando Silva.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -475,7 +516,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -485,7 +527,8 @@
       "transcription": "Pessoal obrigado. Obrigado deputado Orlando e contamos com o senhor.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Orlando Silva -- por Participante -- Nilto Tatto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-orlando-silva-por-participante-nilto-tatto"
       }
     },
     {
@@ -496,7 +539,8 @@
       "summary": " CONANDA propôs reflexão sobre saídas políticas e agradeceu a presença de deputado Nilton.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -508,7 +552,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -519,7 +564,8 @@
       "summary": " CONANDA discute proteção às crianças de abusos e exploração sexual através de regulação da inteligência artificial gerativa.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -530,7 +576,8 @@
       "summary": " Childhood Brasil combate violência sexual contra crianças e adolescentes, está alertando sobre riscos de IA no abuso e exploração sexual, e vê potencial em sua utilização para proteger crianças e adolescentes. Exorta por uma proteção radical deles em novas tecnologias. Deseja rede de proteção conectada e integrada.",
       "speaker": {
         "name": "LAIS CARDOSO PERETTO",
-        "position": "Chidhood Brasil"
+        "position": "Chidhood Brasil",
+        "slug": "lais-cardoso-peretto"
       }
     },
     {
@@ -541,7 +588,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -552,7 +600,8 @@
       "summary": " CONANDA discutirá impacto de tecnologia e inteligência artificial na vida e desenvolvimento infantil.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -563,7 +612,8 @@
       "summary": " Instituto Alana prioriza direitos digitais de crianças, investiga impacto de IA e sua aplicação responsável, com ênfase em proteger contra riscos emergentes e promover inclusão de pessoas com deficiência. Discutem regulamentação e educação como soluções, utilizando Reino Unido como exemplo de uso responsável de IA.",
       "speaker": {
         "name": "Maria Mello",
-        "position": "Instituto Alana"
+        "position": "Instituto Alana",
+        "slug": "maria-mello"
       }
     },
     {
@@ -575,7 +625,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -586,7 +637,8 @@
       "summary": " CONANDA: fala sobre visão médica na educação iagenerativa, com foco no desenvolvimento cognitivo e emocional de crianças e adolescentes.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -597,7 +649,8 @@
       "summary": " Sociedade Brasileira de Pedagogia propõe mudar terminologia sobre abuso sexual, tratar agressores, utilizizar inteligência artificial para proteger vítimas no mundo virtual, e criar lei para garantir saúde mental e proteção à infância e adolescência.",
       "speaker": {
         "name": "LUCI YARA BATISTA PFEIFFER",
-        "position": "Sociedade Brasileira de Pedagogia"
+        "position": "Sociedade Brasileira de Pedagogia",
+        "slug": "luci-yara-batista-pfeiffer"
       }
     },
     {
@@ -608,7 +661,8 @@
       "summary": " CONANDA agradece participantes e coordenação do debate. Reafirma importância de garantir direitos de adolescentes online e compromisso com regulamentação de plataformas digitais para proteger crianças e adolescentes. Lamenta falta de prévia organização de vídeos para exibição.",
       "speaker": {
         "name": "MARINA DE POL PONIWAS",
-        "position": "CONANDA"
+        "position": "CONANDA",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -620,7 +674,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -631,7 +686,8 @@
       "summary": " Mestre de Cerimônias agradece componentes da mesa e anuncia continuação da jornada legislativa sobre primeira infância, adolescência e juventude. Ele introduz Guilherme Pecural do Instituto Alana e Flávio de Biç do Clima Criança e Adolescente como participantes do painel. O café da manhã está disponível no hall de entrada e os convidados são incentivados a retornar rapidamente ao evento.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -643,7 +699,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -654,7 +711,8 @@
       "summary": " Instituto Alana promove diálogo sobre direito das crianças a um ambiente saudável; destacou importância de julgamento STF sobre meio ambiente e direitos da criança; abordou desemparedamento e conexão da criança com a natureza; mencionou impacto das mudanças climáticas em crianças e adolescentes, especialmente em minorias.",
       "speaker": {
         "name": "GUILHERME PECORAL",
-        "position": "Instituto Alana"
+        "position": "Instituto Alana",
+        "slug": "guilherme-pecoral"
       }
     },
     {
@@ -665,7 +723,8 @@
       "summary": " Coalizão pelo Clima, Crianças e Adolescentes alerta sobre impactos urgentes do clima em jovens e crianças, ligando questões climáticas à saúde, educação, justiça climática, equidade intergeracional e insegurança alimentar. Atuam em pesquisas, projetos, CONAMA e pré-estudo sobre impactos climáticos no Maranhão.",
       "speaker": {
         "name": "FLAVIO DEBIQUE",
-        "position": "Coalizão pelo Clima, Crianças e Adolecentes"
+        "position": "Coalizão pelo Clima, Crianças e Adolecentes",
+        "slug": "flavio-debique"
       }
     },
     {
@@ -677,7 +736,8 @@
       "speaker": {
         "id": 178986,
         "name": "Nilto Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nilto-tatto"
       }
     },
     {
@@ -688,7 +748,8 @@
       "summary": " Instituto Alana lembra importância do Documento Comitê Sobre os Direitos da Criança da ONU, desafios na regulamentação e implementação de direitos ambientais da criança, e convida a se informar mais sobre o assunto.",
       "speaker": {
         "name": "GUILHERME PECORAL",
-        "position": "Instituto Alana"
+        "position": "Instituto Alana",
+        "slug": "guilherme-pecoral"
       }
     },
     {
@@ -699,7 +760,8 @@
       "summary": " Mestre de Cerimônias anuncia mudança de tema para \"parentalidade e prevenção à violências contra crianças, adolescentes e jovens\", citando participação de deputada.",
       "speaker": {
         "name": "Guto Rodrigues",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "guto-rodrigues"
       }
     },
     {
@@ -710,7 +772,8 @@
       "summary": " Ana Paula Lima welcoming speaker; convidados da USP, Instituto Jô Clemente, Família Talks, e Conselho Nacional de Justiça.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Nilto Tatto -- por Participante -- Ana Paula Lima",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-nilto-tatto-por-participante-ana-paula-lima"
       }
     },
     {
@@ -722,7 +785,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -733,7 +797,8 @@
       "summary": " Reunião sobre parentalidade aborda prevenção de violência e necessidade de políticas públicas para apoiar famílias; propõe ampliar programas de desenvolvimento parental para promover famílias felizes e proteger crianças.",
       "speaker": {
         "name": "RODOLFO CANÔNICO",
-        "position": "Family Talks"
+        "position": "Family Talks",
+        "slug": "rodolfo-canonico"
       }
     },
     {
@@ -745,7 +810,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -755,7 +821,8 @@
       "transcription": "Eu até preparei os slides mas acho que a gente vai ser mais rápido. Eu sou analista judiciária, especialidade em psicologia da secretaria de estratégia e projeto CNJ e estou aqui também acompanhado pela Doutora Rebeca de Mendonça Lima que é juíza auxiliar gestora adjunta do Pacto Nacional pela primeira infância. Em nome do CNJ a gente cumprimenta a todos por essa iniciativa e essa parceria. E nossa contribuição é a partir do Pacto Nacional pela Primeira Infância, e é uma grande satisfação estar aqui porque o Pacto já tem quase cinco anos e a própria criação da secretaria né, deputada Leandro compartilhou e deixou esse legado, foi também já até quando houve a possibilidade que a Câmara até assumisse o pacto e aí se transformou a Secretaria da Juventude em primeira infância infância adolescência e juventude isso é até símbolo dessa continuidade que está sendo tão bem representada nesse encontro e nossa homenagem também à deputada Leandro que sempre foi uma parceria né, fundamental no Pacto. Bom, apesar de ser a última mesa, pra gente é muito estratégico poder trazer esse tema, porque nos quatro anos do pacto da primeira infância, a gente percebe que o judiciário tinha uma grande dívida em relação a priorizar a atenção às famílias. Nós infelizmente né, se a gente analisa situação de dificuldade quando o ECA deixa claro que essa é quase a última. E a gente então tem que primeiro fazer todas as políticas públicas de apoio à família, então essa mesa representa esse resgate de respeitar a lógica da proteção da criança. Primeira coisa pra proteger uma criança, primeira rede de proteção de uma criança é a família. A educação é maravilhosa tudo é maravilhoso, mas a família é a rede primária fundamental a partir da qual todos os outros direitos precisam ser mediados. É ali que a criança tem o pertencimento vinte e quatro horas por dia, todos os dias da semana recebe o nome. Então todo o que é nosso trabalho, pautado nessa lógica que o Judiciário chegou, né, pra somar com todas as instituições que já estavam trabalhando na primeira infância pra dar essa visão de direito. Então o direito nessa perspectiva não só formal, mas estrutural de constituição da humanidade. Então o Conselho Nacional de Justiça se revisou em função dessa lógica do Pacto da Primeira Infância. A gente agradece que o parlamento criou essa lei, que inclusive é bom não sei às vezes não está tão documentado mas o projeto de lei que ensejou o marco legal ele previa o marco legal da primeira infância dentro do Estatuto da Criança e do Adolescente, então nunca houve nenhuma ação de dissociar, foi uma decisão até de sugestão do Executivo da época de ficar fora, mas o nosso trabalho nunca é de deixar de atender em função do outro, mas todas essas ações que o CNJ desenvolvia e principalmente por exemplo o Sistema Nacional de Adoção e Acolhimento que foi uma estratégia que a partir do Conselho Nacional tirou da invisibilidade as crianças acolhidas e deu mais ordem pra adoção, também foi ampliado né, com a lógica do Pacto da Primeira Infância, do Pacto da Lei de Escuta Protegida, em função do pacto foi criada uma política judiciária nacional da primeira infância que tem eixo, vários eixos e específico sobre a violência e sobre a parentalidade, aí nós também temos prêmio prioridade absoluta que reconhece oito categorias quer dizer, todos atores necessários pra garantia dos direitos, a campanha se renda a infância que vai ao encontro né desse projeto de lei que vai priorizar mais ainda a primeira infância também no investimento da destinação do imposto de renda, atualização do Plano Nacional de Convenção de Formação familiar e Comunitária também conta muito com esse trabalho parceria que contou com avaliação antes de ser feito o plano novo que está em construção. Também o trabalho relacionado à alienação parental, violência nas escolas. E uma coisa muito estratégica pra gente frisar na mesa de hoje, foi nossa participação também na iniciativa da Secretaria da Mulher do GT pra o aumento da licença paternidade. Então hoje a gente percebe isso é símbolo do pacto e é símbolo da prevenção da violência é a gente poder permitir que o pai se torne pai. E aí a gente realmente trouxe essa reflexão muito no pacto, por exemplo, na Justiça do Trabalho. Isso é uma mudança de paradigma. A gente sempre, né, tinha a parceria da Justiça do Trabalho referente ao trabalho infantil. E a partir de toda lógica que o marco legal da primeira infância trouxe de começar do começo, de fortalecer a família pra cumprir a sua missão, eles começaram a abrir também atenção pro direito à licençamaternidadepaternidade, que é direito sem o qual a criança não tem a coisa mais primária necessária pra ela se constituir com respeito e à sua identidade que é o vínculo com a mãe e com o pai. E se a gente percebe que o nosso país desde mil novecentos e oitenta e oito, concede assim o marco legal ampliou, mas a gente percebeu que essa ampliação foi muito incipiente né, foi só por cento de empresas que são cidadãs que se beneficiaram dos quinze dias de licença paternidade estendida. Isso significa gente, que nós concedemos cinco dias pra homem quando nasce filho. Pessoal brinca que até a licença pro carnaval é maior. Então se a gente diz pra homem, ó seu filho nasceu mas corre aí faz o básico e volta pro trabalho, seu papel é trabalhar. A gente no fundo não está sendo coerente com esse apoio que a família tem direito pra poder exercer a sua função. Então esse é símbolo que o pacto revisou tanto que nós temos a feliz notícia de que em breve o TST vai realizar seminário Justiça do Trabalho e Primeira Infância. Então essa é uma representação do que o Pacto da Primeira Infância significa. Nós estamos oxigenando toda a nossa revisão e até como a gente pode esperar realmente né, pai que que consiga exercer a sua função porque a mulher desde a gestação já tem maior oportunidade de ir se acostumando e se criando como mãe, ninguém nasce biologicamente bem, a gente se torna, né, o mito do amor materno já fala e o pai. E as pesquisas mostram muito isso, né, que inclusive quando o homem se permite ser pai e tem a autorização do empregador pra ser pai, isso vai beneficiar ele próprio, isso é a maior fonte de prevenção de violência contra mulher, contra ele próprio porque os homens têm uma violência que eles hoje se já têm essa questão pesquisas mostrando que eles são as maiores vítimas do machismo. Que aumenta o índice de amamentação, que aumenta o vínculo, que esse pai vai acompanhar mais o filho. E no Judiciário isso é muito claro. As situações que chegam no Judiciário geralmente têm a ver com a ausência da figura paterna. A gente tem desde a falta de reconhecimento paterno, tem a questão da da violência, tem a questão das mães solo, então, mas nós temos essa responsabilidade. Então, no bom então a a própria situação socioeducativa prisional a gente também tem observado isso, né, quando homem é preso está se viabilizando direito a permanecer a convivência com o filho, então são inúmeros trabalhos que ensejaram além da Justiça Restaurativa nas escolas e outras regulamentações, ensejaram essa política judiciária com vários eixos, e que aqui nos slides mostrava o fundamento disso, o fundamento de reconhecer que não é só a questão da criança ser vulnerável e a gente tem que proteger, é a questão de promover. A gente tem que lembrar proteger, promover e garantir. E garantir. E o Judiciário tem que garantir quando os outros não fizeram seu papel. E promover a oportunidade da pessoa se desenvolver plenamente. E isso então é o significado dos direitos não pra além do formal, a gente entender essa prioridade absoluta com o apoio das ciências, não é significa reduzir a pessoa ao cérebro mas que o cérebro mostra claramente que é seria a maior ferramenta pra os exercer próprios filhos. A forma como as famílias hoje estão cuidando dos seus filhos bem ou mal, não não foi de dia pro outro foi do próprio modo como elas foram criadas quando elas eram crianças. Então se a gente quiser de fato interromper a violência a gente tem que cuidar das crianças de hoje e desses pais de hoje com o apoio necessário pra eles exercerem a sua função, a gente não pode esperar pra cuidar só depois que ocorrer realmente a violação. E hoje a gente teria esses registros até no cérebro. E nós estamos falando gente, de cinquenta e três milhões de cidadãos até a adolescência, né deputada Ana Paula então se forem jovens são mais ainda quer dizer esse encontro se refere a no mínimo vinte e cinco por cento da população brasileira. Gente, é quase o contingente da população do Canadá. Eu Eu acho que o Brasil tem que parar pra realmente levar isso a sério, nós achamos pelo pacto porque a falta de atenção a isso é uma irresponsabilidade, a gente geralmente né, realmente só pune na medidas contra as famílias mas e contra toda a estrutura que vitimiza essas famílias e que que elas vão poder oferecer se elas não têm os direitos pra elas próprias poderem estar disponíveis pros filhos, e só momentinho que ali olha, dessas crianças gente, de cinquenta e três milhões de 0 a dezoito, quase trinta e três milhões estrutural, a situação de pobreza por si só já é risco, porque essa família está ali sem poder nem estar com os filhos, fica quatro anos no transporte, sem poder dar alimentação, sem poder dar moradia digna, sem poder ela própria acompanhar uma educação humana, que todos os objetivos de desenvolvimento humana, que todos os objetivos de desenvolvimento sustentável dependem do ser humano. E é aqui que se forma a base do ser humano, desses todos onze milhões, metade da primeira infância brasileira está em situação de extrema pobreza porque está inserida no CAD único. Então eu acho que além do fome 0 a gente tem que ter violência 0, mas a gente tem que conhecer essas crianças e tem que ter uma rede suficiente para cada uma dessas crianças ser reconhecida pelo nome e no contexto da sua família. Não dá pra gente proteger a família sem a gente oferecer uma condição pra essa família ou se realmente já tiver chegado num ponto insuficiente infelizmente uma família substituta pelas medidas legais. Então esses são os determinantes sociais da violência e da judicialização, e aqui não vai dar tempo de falar tudo pra respeitar os colegas, eu vou deixar a bola porque a gente já começou feliz, que nós temos percebido que a política pública mais estruturante pra essa base primária seria a política de assistência social. Nós a partir do pacto oferecemos capacitações boas práticas diagnósticos e nós percebemos que existe já essa arquitetura política pelo Único de Assistência Social que no CRAS pode fazer essa tensão primária onde tem o serviço do PAIF que é o serviço de atendimento integrado à família, primário, preventivo, mas as pessoas às vezes estão podendo ter no CRAS por falta de equipe, por falta de estrutura, por falta de capacitação, por falta de seriedade porque às vezes é é espaço muito ainda usado politicamente não tecnicamente, elas estão fazendo do CRAS às vezes, pelas contingências dos próprios profissionais, lugar de acesso a benefício material, mas não é esse o cerne da política, o cerne da política é a formação de competências humanas sociais, a função materna de ter grupos de parentalidade educação parental, de ter grupos de acesso às demais políticas, é a porta de entrada primária pra intersetorialidade. Então já existe esse serviço, é pouco conhecido e é pouco implementado. E aí sim a gente ter essa base que é tão bonita, em alguns cais no interior, eu já havia escrito casa da família. E então essa família vai ser empoderada e vai ter muito menos chance de reproduzir a violência pros próprios filhos. Então no pacto a gente percebe, pode passar só rapidamente, que a gente tem que cuidar das famílias realmente né? A gente tem que resolver a violência desde a da base estrutural. Eu posso passar. E, também olhando pra diversidade, no pacto a gente na segunda fase está focalizando com o projeto diversidade nas primeiras infâncias essa questão da da interseccionalidade. Eu só queria deixa eu te mostrar aqui que nós temos gente, a política judiciária completamente embasada no marco legal. Então o marco legal ele não não focou só numa lei própria e depois em várias alterações que atualizaram o ECA, no Código de Processo Penal também, na CLT, na empresa cidadã. Isso significa clareza de que cuidar da criança envolve essas leis que parecem que são só de adultos. E que a porta de entrada precisa ser realmente a família o mais primariamente possível, que o pacto gerou trabalho muito grande pra conseguir site, gravados no Youtube, sobre proteção gostaria de contar pra vocês que essa política judiciária da primeira infância lançada trinta e de agosto de dois mil e vinte e dois, ela prevê uma novidade imensa e a gente agradece a marco legal porque isso muda a estrutura do Judiciário brasileiro. Ela prevê do socioeducativo, juiz federal, juiz da Justiça Restaurativa, socioeducativo, juiz federal, juiz da justiça restaurativa, juiz, né, esqueci mais algum. Então isso é uma novidade. A gente criou inclusive campo no próprio sistema online dos onde se registra os processos pra registrar se alguma criança é parte interessada, às vezes numa ação que parece que é só de adulto, e a criança ficava invisibilizada. Então, são dados integrados, são pessoas que não se conversavam agora criando plano integrado e que esse comitê, ele só faz sentido dialogando com os outros comitês e as outras redes do território, pra integrar todas essas políticas. Isso gente, baseado em diagnósticos que foram feitas em cinco eixos, que construiu inclusive específico para crianças pertencentes a povos e comunidades tradicionais que sofrem violência, não existe isso, foi outro resultado do pacto, né, uma escuta culturalmente adequada. Esses painéis também foram criados em função do pacto e a nossa lógica é essa, começar a deixar de investir só na fase secundária e terciária. Realmente trabalhar com a prevenção e que, eu passei da hora, só queria deixar claro esses eixos, são vinte e dois eixos para articulação, gente. Olha direito, primeiro planejamento familiar. Olha que, na verdade, primeiro de tudo, a própria estruturação das equipes, né, dos sistemas de dados, do acesso à Justiça, de adaptar a arquitetura do sistema de Justiça para a medida da criança. De, é, e aí vem, ó, direitos reprodutivos responsabilidade parental, planejamento familiar maternidade e paternidade consciente. Não é que o tribunal vai fazer isso mas ele vai apoiar as políticas responsáveis por isso. E exemplo é o programa a fim do Tribunal de Justiça de São Paulo com a doutora Michele Odessa que percebeu não adianta eu só punir os pais que fizeram violência e ela criou esse programa Você Afinado Com Seu Filho pra dar condições dos pais responderem ao estresse sem ser com a violência. Se a gente não instrumentalizar as famílias não vai ter, resposta. Licença maternidade e paternidade, direito à filiação, prevenção de ruptura de vínculos, além dos clássicos, cuidar das crianças com os pais em separação que estão sofrendo violências psicológicas gravíssimas, direito ao parto humanizado, à presença do pai, ao respeito, a tudo isso que foi falado aqui, né? A gente não teve ainda oportunidade do eixo específico de mudança climática, mas segurança, moradia, renda, pais encarcerados, prevenção da orfandade, de situação de imigração. E é essa lógica, assim, estamos aqui, preparamos toda essa base pra dialogar com os outros atores pra esses direitos serem complexo. Obrigada, até mais.",
       "speaker": {
         "name": "IVÂNIA GHESTI",
-        "position": "Doutora em Psicologia Clinica"
+        "position": "Doutora em Psicologia Clinica",
+        "slug": "ivania-ghesti"
       }
     },
     {
@@ -766,7 +833,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -777,7 +845,8 @@
       "summary": " Professora grávida discute violência contra crianças no Brasil, emphasizando a necessidade de abordar a violência dentro da família com ajuda, não culpa. Ela menciona leis que incluem programas de parentalidade e programas como Inspire e Act, que fornecem apoio financeiro e educacional a pais e cuidadores, tendo bons resultados no Brasil. Pesquisas mostram efeitos duradouros da violência na infância no desenvolvimento cerebral.",
       "speaker": {
         "name": "ELISA RACHEL PISANI ALTAFIM",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "elisa-rachel-pisani-altafim"
       }
     },
     {
@@ -789,7 +858,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -800,7 +870,8 @@
       "summary": " Instituto Jô Clemente aborda parentalidade e violência contra crianças com deficiência. Destaca importância de incluir crianças com deficiência em escolas, prevenir violência e educar sobre sexualidade. Mulheres representam maioria dos cuidadores, experiencing overload. Brasileiros com deficiência frequentam menos a escola. Deficiência não causa abuso, mas contexto em que a criança está inserida. Promover autonomia e fornecer educação sexual pode ajudar a prevenir violência.",
       "speaker": {
         "name": "CAROLINA PLOTHOW",
-        "position": "Instituto Jô Clemente"
+        "position": "Instituto Jô Clemente",
+        "slug": "carolina-plothow"
       }
     },
     {
@@ -812,7 +883,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     }
   ],

@@ -13,7 +13,8 @@
       "summary": "Bem-vindos ao lançamento da frente parlamentar em defesa de lotéricos. Transmissão ao vivo pela TV Câmara. Mesa presidida por deputado Wellington Prado e convidados: deputada Érica Cocai, presidente da Associação Nacional de Lotéricos Bruno Lobato. Caixa Econômica Federal informa impossibilidade de participar, mas mantém diálogo com entidades representativas e se mantém disponível para auxílio. Hino nacional será executado.",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -43,7 +46,8 @@
       "transcription": "Agora transmitir vídeo institucional, sobre a Frente Parlamentar.",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -54,7 +58,8 @@
       "summary": "Loterias: atendem milhões, único banco em alguns municípios, realizam serviços financeiros, vendem sonhos, facem instabilidade e desvalorização. Precisam de Freelot.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -64,7 +69,8 @@
       "transcription": "Né a gente recebeu a notícia agora que, o Clhar só pode ter dois terminais, e vai ser péssimo pra população, porque é terminal só que vai poder fazer jogo, então aquele cliente que quer fazer jogo e pagar uma conta, tem que pegar fila duas vezes, olha só a situação o lotérico ele vai acabar tendo problemas até de violência contra contra o seu estabelecimento, que o cliente ele não vai entender, e não tem como entender quem vai entender negócio desse? O cliente ele quer ser atendido de uma vez só, e aí pediu pro cliente falar ligar duas filas, vamos ter até problemas de violência física dentro da loteria, então isso é outro problema que a Caixa ela tem que humanizar mais o atendimento, e se ela tivesse aqui ela poderia ouvir essa e muitas outras solicitações e problemas que acontecem na prática. Não adianta ficar lá no escritório, ali em Brasília, lá lá em cima lá na cobertura, despachando lei, ela tem que ouvir o lotérico, e não está ouvindo o lotérico. Precisamos mudar esse essa situação urgentemente deputado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -75,7 +81,8 @@
       "summary": "Mestre de Cerimônias: \"Hoje, aproximadamente 13.000 lotéricas atendem 100 milhões de pessoas.\"",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -87,7 +94,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -99,7 +107,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -111,7 +120,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -122,7 +132,8 @@
       "summary": "Loterias: serviço essencial, atendem 100 milhões de brasileiros mensalmente, 98% de municípios; líderes lotéricos de vários estados presentes; reconhecimento à batalha para manter lei e aprovação de PEC; necessidade de negócio sustentável; elogio a deputados que apoiam rede lotérica; crítica à ausência da Caixa Econômica; demanda representante no conselho administrativo da Caixa; foco em debates para atender interesses de loterias, Caixa e clientes.",
       "speaker": {
         "name": "BRUNO LOBATO",
-        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI"
+        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -134,7 +145,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -145,7 +157,8 @@
       "summary": "Próxima mensagem do vice-presidente da frente parlamentar, deputado Palumbo do MDB de São Paulo.",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -157,7 +170,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -167,7 +181,8 @@
       "transcription": "",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -179,7 +194,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -189,7 +205,8 @@
       "transcription": "",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -200,7 +217,8 @@
       "summary": "Participante agradece apoio deputados, refere a loteria como realização de sonhos, mas também desafios. Pede atenção para problemas como assaltos, concorrência desleal e sites clandestinos. Anuncia frente parlamentar como reforço para perseguir sonhos e resolver problemas. Reconhece importância de colaboradores e pede união de todos para fortalecer categoria.",
       "speaker": {
         "name": "ANGÉLICA ASSUNÇÃO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "angelica-assuncao"
       }
     },
     {
@@ -211,7 +229,8 @@
       "summary": "Mestre de Cerimônias solidário com luta categoria; promete apoio verdadeiro por meio de amigo pessoal Adriano; juntos, com Deus do seu lado. Ouvirão mensagem posteriormente.",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -222,7 +241,8 @@
       "summary": "Participante refletiu sobre sua experiência de 30 anos como lotérico, mencionando protestos em SP e fechamento de lojas em Rondônia. Sua ênfase é na união de mais de 26 mil empresários lotéricos para influenciar novos deputados e melhorar sua atividade econômica, criticando a falta de diálogo com a Caixa Econômica e desapontamento com discussões sem foco em grupos do setor.",
       "speaker": {
         "name": "EZIDIO  MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ezidio-matheus"
       }
     },
     {
@@ -233,7 +253,8 @@
       "summary": "Participante relatou experiência desagradável: bloqueio injustificado no sistema bancário, causando dificuldades em fazer prestações de conta em agência local, afetando rotina de trabalho e segurança. Apesar de tentativas de contato e provas, enfrenta dificuldades e monitoramento continuo. Agora, proibida de fazer prestações no Bradesco, o que impacta negócio local já fragilizado. Confrontando situação difícil em cidade atingida por desastre ambiental.",
       "speaker": {
         "name": "Adriana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "adriana"
       }
     },
     {
@@ -245,7 +266,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -256,7 +278,8 @@
       "summary": "Loterias frequentemente têm sinal bloqueado pela Caixa sem justificativa clara, causando problemas aos lojistas e à comunidade; Presidente da ALSPI relata falta de comunicação e compreensão da Caixa em relação às exigências impostas a lojistas; ALSPI apoia ideia de utilizar loterias como centro de informação e ajuda social.",
       "speaker": {
         "name": "BRUNO LOBATO",
-        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI"
+        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -268,7 +291,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -279,7 +303,8 @@
       "summary": "Ao ser notificada que cada CLHar terá apenas dois terminais, a Associação Nacional de Lotéricos expressa preocupação com o possível impacto negativo na experiência do cliente e o risco de aumento da violência contra os estabelecimentos de loteria. Eles instam a Caixa a ser mais humanizada em seu atendimento e a ouvir as necessidades e desafios enfrentados pelos lotéricos. A associação considera essa situação urgente e pede uma mudança imediata.",
       "speaker": {
         "name": "BRUNO LOBATO",
-        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI"
+        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -290,7 +315,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -301,7 +327,8 @@
       "summary": "Participante é nova no ramo e identificou problemas; enfatiza a importância dos lotéricos para a Caixa; destaca a necessidade de união para reivindicar requisições com força.",
       "speaker": {
         "name": "Maria",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria"
       }
     },
     {
@@ -313,7 +340,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -325,7 +353,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -337,7 +366,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -348,7 +378,8 @@
       "summary": "Participante expressa sua préoccupação sobre a falta de representantes dos \"omisso\" (possivelmente trabalhadores da loteria) na frente parlamentar em defesa dos lotéricos. Ele questiona se sindicatos e federações foram convidados e se lotéricos ou a Caixa estão sendo adequadamente representados. Ele também menciona uma proposta de displays de mídia em lotéricas para propaganda institucional do governo e exibição de acumulados de jogos.",
       "speaker": {
         "name": "OTHON",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "othon"
       }
     },
     {
@@ -359,7 +390,8 @@
       "summary": "Participante agradece presentes, destaca necessidade de mudança de permissionário para concessão na legislação de loterias, menciona geração de onze bilhões e valor negativo na conta de muitos, incentiva energia positiva e convencimento de vizinhos e amigos a participar mais.",
       "speaker": {
         "name": "CLAUDIO FERNANDES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "claudio-fernandes"
       }
     },
     {
@@ -370,7 +402,8 @@
       "summary": "Participante discute amigo com lotéricas bloqueadas e atraso de pagamento do Pronampe. Menciona notificação da Caixa e preocupação com represálias contra lojas. Pedido ao deputado para intervir na Caixa sobre travamento de lojas e lotéricas com problemas de CPF. Compartilha preocupação pessoal com a situação.",
       "speaker": {
         "name": "ADIMILSON",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "adimilson"
       }
     },
     {
@@ -382,7 +415,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -393,7 +427,8 @@
       "summary": "Participante agradeceu colegas, valorizou qualidade sobre quantidade, agradeceu deputado Wellington por defesa da rede, mencionou dificuldades na rede, pediu Caixa para valorizar rede e elogiou deputados por trabalho em favor da rede.",
       "speaker": {
         "name": "GRAÇA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "graca"
       }
     },
     {
@@ -405,7 +440,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -416,7 +452,8 @@
       "summary": "Participante agradece esforços de deputado Rafa e presidente Bruno, expressa decepção com ausência de sindicatos e Febralote, critica Caixa por burocracia e falta de profissionalismo em marketing e comunicação, e recomenda AUSP como representante e melhoria na comunicação com lotéricos.",
       "speaker": {
         "name": "ROSALVO TADEU",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rosalvo-tadeu"
       }
     },
     {
@@ -427,7 +464,8 @@
       "summary": "Participante agradece apoio, especialmente do deputado, e destaca importância de Caixa Econômica Federal em assistir micro e pequenos empresários, representados por treze mil e seiscentos em evento. Sua mensagem é representada por cadeira vazia, sugerindo falta de atenção da Caixa a esse público.",
       "speaker": {
         "name": "RAFA CARUSO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rafa-caruso"
       }
     },
     {
@@ -439,7 +477,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -450,7 +489,8 @@
       "summary": "Presidente da Associação Nacional dos Lotéricos - ALSPI agradece suporte do deputado Wellington Prado, destaca importância da união da rede lotérica para demonstrar sua dificuldade e responsabilidade social ao país. Suplica por representante lotérico no conselho de administração da Caixa Econômica Federal e convoca para se unirem e comparecerem à próxima reunião da frente parlamentar em agosto.",
       "speaker": {
         "name": "BRUNO LOBATO",
-        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI"
+        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -462,7 +502,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -473,7 +514,8 @@
       "summary": "Aploaus para times de Wellington; gratidão a assessores; momento propício para categoria dos lotéricos se fortalecer e organizar.",
       "speaker": {
         "name": "BRUNO LOBATO",
-        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI"
+        "position": "Presidente da Associação Nacional dos Lotéricos - ALSPI",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -483,7 +525,8 @@
       "transcription": "Mas havendo a tratar declaramos oficialmente lançada a Frente Parlamentar em defesa dos lotéricos.",
       "speaker": {
         "name": "EMMANUEL GONÇALVES",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "emmanuel-goncalves"
       }
     },
     {
@@ -494,7 +537,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     }
   ],

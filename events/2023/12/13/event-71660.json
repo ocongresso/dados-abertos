@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Reunião sobre inteligência artificial antecipa futuro; convocação para seminário sobre políticas públicas para queijo artesanal de leite cru, com temas e inovações do mundial de cromagem; oferecerá queijo artesanal de qualidade na audiência de dezembro.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padre João -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padre-joao-por-participante-ze-silva"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -112,7 +120,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -123,7 +132,8 @@
       "summary": "Conselheira de arquitetura e urbanismo defende homenagem a arquiteta Rosa Clias como patrona da paisagem brasileira, valorizando sua contribuição e legado para a profissão e novas gerações. Solicitação também visa visibilizar trabalho de mulheres arquitetas na história do Brasil. Oferece apoio em temáticas relacionadas ao legado de Rosa Clias.",
       "speaker": {
         "name": "DANIELA SARMENTO",
-        "position": "VICE-PRESIDENTE DO CONSELHO DE ARQUITETURA E URBANISMO - CONSELHO DE ARQUITETURA E URBANISMO"
+        "position": "VICE-PRESIDENTE DO CONSELHO DE ARQUITETURA E URBANISMO - CONSELHO DE ARQUITETURA E URBANISMO",
+        "slug": "daniela-sarmento"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -147,7 +158,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -159,7 +171,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

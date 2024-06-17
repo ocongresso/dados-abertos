@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     }
   ],

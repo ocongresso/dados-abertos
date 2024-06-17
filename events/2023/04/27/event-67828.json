@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Deputado Luiz Lima, PL-RJ, fala em nome de breves comunicações.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -149,7 +160,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -161,7 +173,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -173,7 +186,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -185,7 +199,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -197,7 +212,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -209,7 +225,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -221,7 +238,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -233,7 +251,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -245,7 +264,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -257,7 +277,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -268,7 +289,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -280,7 +302,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -292,7 +315,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -304,7 +328,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -316,7 +341,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -328,7 +354,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -340,7 +367,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -352,7 +380,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -364,7 +393,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -376,7 +406,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -388,7 +419,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -400,7 +432,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -411,7 +444,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -423,7 +457,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -435,7 +470,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -447,7 +483,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -458,7 +495,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -470,7 +508,8 @@
       "speaker": {
         "id": 220592,
         "name": "Zezinho Barbary",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "zezinho-barbary"
       }
     },
     {
@@ -482,7 +521,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -493,7 +533,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -505,7 +546,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -517,7 +559,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -529,7 +572,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -541,7 +585,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -553,7 +598,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -565,7 +611,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -577,7 +624,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -589,7 +637,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -601,7 +650,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -613,7 +663,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -625,7 +676,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -637,7 +689,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -649,7 +702,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -661,7 +715,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -671,7 +726,8 @@
       "transcription": "Muito obrigado, muito obrigado senhor",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Adriana Ventura",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-adriana-ventura"
       }
     },
     {
@@ -683,7 +739,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -694,7 +751,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -706,7 +764,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -718,7 +777,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -730,7 +790,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -742,7 +803,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -754,7 +816,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -765,7 +828,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -777,7 +841,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -789,7 +854,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -801,7 +867,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -813,7 +880,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -825,7 +893,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -835,7 +904,8 @@
       "transcription": "Bolsonaro. Muito obrigado deputada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Adriana Ventura -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-adriana-ventura-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -847,7 +917,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -859,7 +930,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -871,7 +943,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -883,7 +956,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -895,7 +969,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -907,7 +982,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -919,7 +995,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -931,7 +1008,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -943,7 +1021,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -955,7 +1034,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -967,7 +1047,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -979,7 +1060,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -991,7 +1073,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1003,7 +1086,8 @@
       "speaker": {
         "id": 73692,
         "name": "Osmar Terra",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "osmar-terra"
       }
     },
     {
@@ -1015,7 +1099,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1027,7 +1112,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -1039,7 +1125,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1051,7 +1138,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1063,7 +1151,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1075,7 +1164,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -1085,7 +1175,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Marcos Pereira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-marcos-pereira"
       }
     },
     {
@@ -1096,7 +1187,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1108,7 +1200,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1120,7 +1213,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1131,7 +1225,8 @@
       "summary": "Prorroga exame toxicológico, altera Código de Trânsito, seguro de cargas, e analistas de infraestrutura. Deputados Hugo Mota e Roberto Monteiro falam no parlamento.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -1142,7 +1237,8 @@
       "summary": "Deputado menciona e sauda visitor, vereador Adelcio Pereira, de Maricá, Rio de Janeiro.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
@@ -1153,7 +1249,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1165,7 +1262,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -1176,7 +1274,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1188,7 +1287,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1199,7 +1299,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1210,7 +1311,8 @@
       "speaker": {
         "id": 74159,
         "name": "Odair Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "odair-cunha"
       }
     },
     {
@@ -1222,7 +1324,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1234,7 +1337,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -1246,7 +1350,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1258,7 +1363,8 @@
       "speaker": {
         "id": 69871,
         "name": "Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bacelar"
       }
     },
     {
@@ -1269,7 +1375,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1280,7 +1387,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1292,7 +1400,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1304,7 +1413,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1316,7 +1426,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1328,7 +1439,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -1340,7 +1452,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1352,7 +1465,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1364,7 +1478,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1376,7 +1491,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1388,7 +1504,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1400,7 +1517,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -1412,7 +1530,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1424,7 +1543,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1436,7 +1556,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1448,7 +1569,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1460,7 +1582,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1472,7 +1595,8 @@
       "speaker": {
         "id": 160665,
         "name": "Augusto Coutinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-coutinho"
       }
     },
     {
@@ -1484,7 +1608,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1496,7 +1621,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1507,7 +1633,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1519,7 +1646,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1531,7 +1659,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1542,7 +1671,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1554,7 +1684,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1565,7 +1696,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1576,7 +1708,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1587,7 +1720,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1599,7 +1733,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1611,7 +1746,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1623,7 +1759,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1635,7 +1772,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1646,7 +1784,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1657,7 +1796,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1669,7 +1809,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1680,7 +1821,8 @@
       "speaker": {
         "id": 178882,
         "name": "André Fufuca",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fufuca"
       }
     },
     {
@@ -1691,7 +1833,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1703,7 +1846,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1714,7 +1858,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1726,7 +1871,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1738,7 +1884,8 @@
       "speaker": {
         "id": 178882,
         "name": "André Fufuca",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fufuca"
       }
     },
     {
@@ -1750,7 +1897,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1761,7 +1909,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1773,7 +1922,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1785,7 +1935,8 @@
       "speaker": {
         "id": 220688,
         "name": "Dr. Francisco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-francisco"
       }
     },
     {
@@ -1796,7 +1947,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1807,7 +1959,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -1818,7 +1971,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1829,7 +1983,8 @@
       "speaker": {
         "id": 178882,
         "name": "André Fufuca",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fufuca"
       }
     },
     {
@@ -1840,7 +1995,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1852,7 +2008,8 @@
       "speaker": {
         "id": 204436,
         "name": "Isnaldo Bulhões Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "isnaldo-bulhoes-jr"
       }
     },
     {
@@ -1863,7 +2020,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1875,7 +2033,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -1886,7 +2045,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1898,7 +2058,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -1909,7 +2070,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1921,7 +2083,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -1932,7 +2095,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1944,7 +2108,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -1956,7 +2121,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1966,7 +2132,8 @@
       "transcription": "Crimental. Eu quero cumprimentar",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -1978,7 +2145,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1990,7 +2158,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2002,7 +2171,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2014,7 +2184,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2026,7 +2197,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -2037,7 +2209,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2049,7 +2222,8 @@
       "speaker": {
         "id": 178937,
         "name": "Altineu Côrtes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "altineu-cortes"
       }
     },
     {
@@ -2060,7 +2234,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2072,7 +2247,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -2083,7 +2259,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2095,7 +2272,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -2107,7 +2285,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2119,7 +2298,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -2131,7 +2311,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -2142,7 +2323,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2154,7 +2336,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -2165,7 +2348,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2177,7 +2361,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -2188,7 +2373,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2200,7 +2386,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -2210,7 +2397,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2222,7 +2410,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2234,7 +2423,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -2246,7 +2436,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2258,7 +2449,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2269,7 +2461,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2281,7 +2474,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -2292,7 +2486,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2302,7 +2497,8 @@
       "transcription": "Nós encerramos então a ordem do dia e vamos retomar as breves comunicações. Eu",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcos Pereira -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcos-pereira-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -2314,7 +2510,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2326,7 +2523,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -2338,7 +2536,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2350,7 +2549,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -2361,7 +2561,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2373,7 +2574,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -2385,7 +2587,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2397,7 +2600,8 @@
       "speaker": {
         "id": 220694,
         "name": "Ricardo Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-maia"
       }
     },
     {
@@ -2409,7 +2613,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2421,7 +2626,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -2432,7 +2638,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2444,7 +2651,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -2456,7 +2664,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2468,7 +2677,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -2480,7 +2690,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -2492,7 +2703,8 @@
       "speaker": {
         "id": 220531,
         "name": "Gilvan Maximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-maximo"
       }
     },
     {
@@ -2504,7 +2716,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     }
   ],

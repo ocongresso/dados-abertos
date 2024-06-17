@@ -14,7 +14,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Fila e votar em ordem de chegada. Já.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -44,7 +47,8 @@
       "transcription": "A presidência dos trabalhos. J? Ok.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lídice da Mata -- por Participante -- Jorge Goetten",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lidice-da-mata-por-participante-jorge-goetten"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -91,7 +98,8 @@
       "summary": " Deputado fala sobre desastre em Mariana e Rio Grande do Sul, elogiando atitude unida e proativa da casa em destinar verbas para emergências. Sua experiência pessoal em Mariana envolveu falta de apoio de empresas e governo, levando à grave crise econômica e social. Sugesta considerar reserva de verbas em casos de catástrofes causadas por empresas, para resposta rápida e possibilidade de recuperação dos recursos.",
       "speaker": {
         "name": "Duarte Gonçalves Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-goncalves-jr"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 98615,
         "name": "Ismael",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ismael"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 74696,
         "name": "Alberto Mourão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-mourao"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Advogado Tributarista e Membro da Comissão de Direito Tributário da OAB discute reforma tributária e economia digital em cinco pontos: 1) necessidade de implementar IVA no sistema tributário brasileiro,",
       "speaker": {
         "name": "Luiz Roberto Peroba",
-        "position": "Advogado Tributarista e Membro da Comissão de Direito Tributário da Ordem dos Advogados do Brasil"
+        "position": "Advogado Tributarista e Membro da Comissão de Direito Tributário da Ordem dos Advogados do Brasil",
+        "slug": "luiz-roberto-peroba"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário abordou desafios de tributação em economia digital, como fiscalização e tributação de pequenas importações, diferentes obrigações tributárias, desequilíbrio competitivo e PEC 1",
       "speaker": {
         "name": "Melissa Guimarães Castello",
-        "position": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário"
+        "position": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário",
+        "slug": "melissa-guimaraes-castello"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Auditor Fiscal da Receita Estadual de Minas Gerais discute desafios tributários na era digital, exemplificados pelas dificuldades de taxação de empresas que usam \"nuvens\" ou clouds, uma vez que servidores podem estar em diferentes países. Sua solução é deslocar a atenção para o consumidor, identificável através de tecnologia, em vez do produtor. Caso contrário, haverá perda de contato e capacidade de intervenção na economia digital.",
       "speaker": {
         "name": "Eufrásio Alves Cambui Júnior",
-        "position": "Auditor Fiscal da Receita Estadual de Minas Gerais"
+        "position": "Auditor Fiscal da Receita Estadual de Minas Gerais",
+        "slug": "eufrasio-alves-cambui-junior"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Telecomunicações essenciais para economia digital, pagam mais tributos do que investem, com alta carga tributária e mão de obra extensa. Solicitam reforma tributária, redução de carga tributária, racionalização de fundos setoriais e tratamento diferenciado no Brasil, que tem a maior carga tributária entre os 15 países com maior acesso à internet móvel.",
       "speaker": {
         "name": "Marcos Ferrari",
-        "position": "Presidente-Executivo da Conexis Brasil Digital"
+        "position": "Presidente-Executivo da Conexis Brasil Digital",
+        "slug": "marcos-ferrari"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "A Fenainfo representa 100 mil empresas TI e 2 milhões de trabalhadores. Setor intensivo em contratação, com salários altos e crescimento em serviços TI. Preocupação com reforma tributária e possível aumento de 26% em serviços por PEC 45. Desoneração folha de pagamento pode impactar negativamente serviços. Fenainfo propõe consideração do setor de serviços, que representa 70% do PIB e tem crescimento expressivo.",
       "speaker": {
         "name": "Edgar Serrano",
-        "position": "Presidente da Federação Nacional das Empresas de Informática - Fenainfo"
+        "position": "Presidente da Federação Nacional das Empresas de Informática - Fenainfo",
+        "slug": "edgar-serrano"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Especialista em Marketing Digital recomenda marcos regulatórios efetivos para economia digital, priorizando digitalização na América Latina e Caribe, empresas brasileiras fortes para combater desigualdades causadas por Big Techs, e políticas públicas para geração de emprego e valor na economia digital.",
       "speaker": {
         "name": "Herbert Salles",
-        "position": "Especialista em Marketing Digital, Mestre pela Universidade Federal Fluminense - UFF"
+        "position": "Especialista em Marketing Digital, Mestre pela Universidade Federal Fluminense - UFF",
+        "slug": "herbert-salles"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "A Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP discute a aplicabilidade de IVA e IBS na economia digital, simplificando classificações e reduzindo custos. Ela menciona as diretrizes da OCDE e a nota técnica sobre a responsabilidade solidária das plataformas digitais. Finalmente, ela argumenta sobre a unificação da tributação e a autonomia financeira com exemplos internacionais.",
       "speaker": {
         "name": "Lina Santin",
-        "position": "Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP"
+        "position": "Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP",
+        "slug": "lina-santin"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Mercado Livre, 20 anos no Brasil, impulsiona negócios e gera empregos, pagou 3,5 bilhões em impostos em 2021. Propõe reforma tributária com imposto único e base ampla, sem imposto sobre imposto. Suporta responsabilidade solidária atual e centralização de IBS pagamento em marketplaces, mas cautela sobre possível complexidade e impacto na arrecadação. Defende simplificação tributária geral com menos exceções, discutida no Congresso com ênfase no impacto social.",
       "speaker": {
         "name": "Silvana Ricardo",
-        "position": "Diretora Tributária do Mercado Livre"
+        "position": "Diretora Tributária do Mercado Livre",
+        "slug": "silvana-ricardo"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Procurador Tributário do Conselho Federal da OAB apoia reforma tributária, favorece IVA e IBS, sugere cuidado com alíquota e transição, propõe salvaguarda contra aumento de carga e período de alíquota simbólica, critica carga tributária sobre serviços essenciais e crédito de IBS, sugerindo mudanças no crédito e ampliação do tributo, propõe medidas para combater evasão fiscal.",
       "speaker": {
         "name": "Luiz Gustavo Bichara",
-        "position": "Procurador Tributário do Conselho Federal da Ordem dos Advogados do Brasil - OAB"
+        "position": "Procurador Tributário do Conselho Federal da Ordem dos Advogados do Brasil - OAB",
+        "slug": "luiz-gustavo-bichara"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -234,7 +253,8 @@
       "transcription": "Todos, cumprimento a mesa na pessoa do deputado Reginaldo Lopes. E agradeço esse convite, né que é a possibilidade da receita falar pouco também sobre reforma tributária, principalmente nessa parte da economia digital que é o assunto do momento, né? Então eu quero fazer uma apresentação muito focando no que a OCDE pensa sobre esse assunto. Eu participo, do grupo, WP nove da OCDE, Working Party 9. São grupos que cada deles trata de assunto, não é? O CDA trata de muitos assuntos não só tributários, mas tem grupos para a área tributária, tem grupo para o BEPS né tem grupo pra questão de tributação da renda, e tem esse grupo que trata dos tributos sobre consumo, ou o IVA né, imposto sobre valor agregado. Então aqui só esse primeiro slide pra dizer a relevância desse assunto né? São dados da OCDE. Dois mil e vinte e comércio Robal B2C, dizer negócios para consumidores finais, né, comércio eletrônico, foi de quatro vírgula cinco trilhões, trilhões de dólares. E no fim de dois mil e vinte e dois, já passou né esse dado já está pouco antigo, já havia dois vírgula dois bilhões de consumidores online. Então realmente essa é a tendência, o futuro. Muita coisa que é, bem vai virar serviço, já está virando né? E nós vamos ter que lidar com isso. Eu quero primeiro contextualizar o que que a gente vai falar, né? Tributação da economia digital. Nós temos que separar, nós temos a tributação da renda, que também, está se debruçando sobre essa questão da economia digital. Lá no OCDE foram, definidos dois pilares né nessa questão da tributação da renda, pilar e pilar dois, que tentam chegar a uma harmonização entre países de como lidar com a tributação da renda, principalmente naquelas empresas que que atuam em vários países né? Muitos, muitos países elas não têm nem representação física, não têm o estabelecimento permanente, mas fazem negócios lá, isso é muito possível com a economia digital. Então como lidar, como tributar, como distribuir o tributo nessa forma. Mas aqui eu quero frisar que há uma discussão muito grande tá. Já já houve avanço, mas principalmente o pilar ainda está bastante discutido né. O pilar dois já está pouco mais tranquilo. E eu quero fazer o contraponto, com a área que mais, eu atuo né, na parte de renda não não participo, quem participa são outros colegas da receita, mas na parte consumo, que é a que eu represento a receita lá na OCDE, a coisa está diferente tá? No WP nove já há o consenso mundial, mundial. Não tem mais discussão, não é? Não não tem mais discussão nenhuma foram editadas as guidelines, as diretrizes, em novembro de dois mil e quinze, no Terceiro Fórum Global, sobre IVA, né? Esse w p nove é uma sala grande o tamanho dessa sala aqui com uma mesa retangular que a gente senta em ordem alfabética, né? Então eu sento do lado da Bélgica à esquerda e do outro lado à direita o Canadá. E tem cento e quatro países representados lá. Né. E o Fórum Global é fórum pouco mais estendido inclusive, que chamam países que não são membros, não participam de forma alguma da OCidema, são chamados, né, então, nesse fórum global que é fórum estendido, foram definidas as guide lines e todos concordaram. Inclusive, os Estados Unidos, tem representante lá no WP nove apesar que vocês sabem Estados Unidos não tem tributo IVA, mas mesmo assim há uma representante e ela participa lá porque ela me disse inclusive que estão pensando em criar IVA nos Estados Unidos, então ela participe, foi acordado essas guidelines, né? Eu até trouxe aqui, Estão aqui essas, as diretrizes está esse livrinho, tem umas cem páginas, ele explica tudo como funciona. Vocês podem baixar ele gratuitamente no site do OCDE como PDF, não é? É bem fácil de encontrar, só procurar guidelines WAT né, via IT, ou GST né que é outro nome dos tributos do tipo IVA né, gooden Service Tex. Então aqui a coisa está pacificada, então quando diz assim ah mas a tributação da economia digital é muito difícil, não há consenso, espera aí, não há consenso na parte da renda, na parte de consumo que é o nosso objeto neste momento, porque nós estamos tratando da primeira fase da reforma tributária que é a reforma a tributação de consumo já há consenso. Bom, então a tributação de consumo ou IVA, imposto por valor agregado tem princípio. E princípio fundamental, que define tudo, o princípio do destino, né, já foi comentado aqui mas eu vou explicar eu gosto de dar exemplos. Então se, São Paulo vender refrigerador para consumidor do Piauí, de quem que vai ser esse IVA? Vai ser do Piauí. Né? Porque ele está sendo consumido lá o refrigerador, né, consumidor de lá. Ah mas a indústria fica em São Paulo, não é? Mas a fiscalização em São Paulo, o tributo não interessa, eu estou falando aqui do dindin, ela não quer dizer que o fisco do Piauí vai ir até São Paulo pra então verificar naquela empresa, se se ela apagou direitinho. Não, não, acontece tudo normalmente lá em São Paulo, não é? Tem o fiscalizar, a Receita Federal vai fiscalizar, mas o dinheiro mesmo arrecadado em São Paulo tem que ser transferido para o Piauí, porque o consumo ocorreu lá. Isso é a tributação no destino. Isto evita a guerra fiscal, acaba com a guerra fiscal. Vocês sabem que na Europa eles chegaram a ter tributação na origem, no IVA deles. Mas se deram conta que isso não resolvia o problema, continuava a ter a guerra fiscal, continuava a ter uma série de problemas, então eles mudaram para o princípio do destino e e tudo decorre daí, as guidelines servem para implementar o princípio do destino. Continuando essa contextualização. Nós temos que dizer que, quando a gente fala em economia digital tem ainda dois aspectos bem relevantes. Eu posso falar da economia digital, mas referente a comércio eletrônico de bens. Principalmente esses bens de pequeno valor né, está tão em moda atualmente nós andamos falando aí dos cinquenta dólares né, a gente chama isso de de minimes, é o valor até o qual, há isenção, né, na importação. Então este é o valor que não se cobre tributos, né, na importação de bens de pequeno valor, estamos até cinquenta dólares, mas são bens né como eu digo dá pra chutar, né? Dá pra pegar, né é bem, que era vinte e dois euros na União Europeia. Não tem mais, eles têm outro sistema, mas eles acabaram porque viram que, Hoje em dia não dá mais pra aceitar isso, né? São muitos pacotinhos chegando, crescendo exponencialmente, Então, isso gera uma concorrência desleal, com as empresas do país, no caso também lá da União Europeia, e portanto eles acabaram com esse sistema, esses vinte e dois euros não existem mais como limite de isenção, e eles têm outro sistema que a empresa é obrigada a se registrar na comunidade europeia, e aí pra poder vender os produtos dela lá, né? Mas o que eu quero falar é que o assunto realmente do momento, é a tributação na economia digital de serviços intangíveis. É isso que se fala no CDR nessas reuniões. A próxima reunião será agora dia nove de maio, normalmente é em maio e novembro tem reuniões do WP nove. Então service entendibels, né, porque são, são questões virtuais, né? Eu não tenho nada pra chutar, eu não tenho contêiner, eu tenho upload, lá na China, de software, e eu tenho o download aqui no Brasil. Como é que o fisco fica sabendo que aconteceu né? Como é que se deteta essa operação, como é que se tributa essa operação? Então isto é o que o CDF vem trabalhando, já já conseguiu avanços importantes, não é fácil é verdade né é complexo, mas já tem algumas diretrizes as guidelines que dão caminho, né muito bom pra se lidar com isso. Inclusive eu, quer dizer que como comentei inicialmente né, uma uma virtualização da economia, né. Se antigamente eu comprava sapato, Hoje em dia eu posso comprar projeto de sapato, né dar download de projeto de sapato, e na minha impressora três D, imprimir o sapato. Então o sapato que era bem, passou a ser serviço agora, né, isso é fato que está acontecendo então este é o é o problema do momento, como lidar com isso? Bom como eu falei a regra matriz do IVA é o princípio do destino, né. Então como é que eu vou compatibilizar esse princípio do destino com essa questão dos serviços intangíveis, fica muito mais complexo determinar o destino, não é? Neste livrinho, justamente são definidas as guidelines são não é muita coisa não, são umas dez regrinhas, tá? Claro não é uma receita de bolo assim tem alguma, alguma subjetividade. Mas elas dão caminho vou dar alguns exemplos, por exemplo software. Uma empresa está vendendo software, pela internet, Eu estou dando exemplo sempre entre países né, mas pode ser também uma analogia com a federação brasileira, pode ser entre estados do Brasil. Mas como a preocupação da OCDE é mais com às operações cross border, né, entre países. Então os exemplos que eles dão normalmente são entre países. Então, vamos dizer que país está vendendo software, E ele precisa determinar qual é o destino, né, princípio do destino, quem que vai consumir esse software? Ah, quem está dando download, fazendo o download, tem endereço no Brasil. É, e além disso ele está pagando com o cartão de crédito emitido no Brasil. Pronto. Essa é uma das regras que a OCDEF definiu, né? Definiu assim, sugeriu né, nada tão impositivo, mas ela sugere que seria uma boa solução, né? To peaces of não contradicture information né, duas informações não contraditórias, cartão do Brasil, endereço no Brasil, pronto. Então o local do consumo daquele software é no Brasil. Portanto essa empresa que está vendendo o software, vai ver qual é a alíquota do Brasil, do IVA, vai tributar adequadamente, e o valor será remetido para o Brasil, né? Vejam que o princípio do destino ele favorece muito países como o Brasil em desenvolvimento, né. Uma pergunta retórica, quem vende mais software, no Brasil para os Estados Unidos ou Estados Unidos para o Brasil? De quem que é esse tributo? Do que vem dos Estados Unidos? É do Brasil. Ah mas a a empresa é lá nos Estados Unidos, a matriz é lá, não interessa. O consumo está acontecendo no Brasil. Portanto o tributo é nosso. Então isso interessa bastante pro nós como país também né esse princípio, ele nos é bastante favorável. Outro exemplo. Vamos pegar exemplo aqui no país, eu gaúcho, né. Comprei ingresso para teatro em São Paulo. Paguei lá no Rio Grande do Sul. De quem que é, o tributo? Sobre esse ingresso? É de São Paulo. Por quê? Porque essa peça de teatro eu vou ter que me deslocar até São Paulo pra assistir ela, Quando o serviço ele tem que ser prestado fisicamente ou tem que estar lá, então aquele é o local que deve receber o tributo, né? Ah mas o pagamento ocorreu lá no Rio Grande do Sul, não interessa. Não interessa, não vem ao caso tá? Continuar só mais pouquinho, eu vou pular a parte final aqui pra não estender muito no tempo, mas essa parte aqui eu acho relevante. Por fim outro exemplo até bastante estranho, mas que está nas regras imóvel. Francês tem imóvel no Rio de Janeiro e pediu para alemão avaliar. De quem vai ser o tributo dessa avaliação? Do Brasil. Porque o imóvel está no Rio de Janeiro. Então a regra diz que, no caso de imóveis, a localização do imóvel define de quem é o tributo. Ah mas o pagamento aconteceu e lá entre a França e a Alemanha, não interessa. O fluxo financeiro não é importante. Aqui na parte final vou, opa desculpa eu passei slide né? Ah não passei deixa eu comentar só o regime simplificado aqui que é muito importante. Foi comentado pela Lina achei ótimo, que já tem uma forma de tratar, a tributação B2C, né, do exterior para o Brasil por exemplo né, mas isso já está sendo aplicado em outros países, já está sendo aplicado na Nova Zelândia, já está sendo aplicado na Austrália, já está sendo aplicado em países do BRICS, como como a África do Sul não é só países desenvolvido não, que é esse regime simplificado de registro e conformidade. O que que é isso? É pedir para que aquela empresa, que quer vender algum serviço, quer vender intangível, quer vender software no Brasil por exemplo, que elas se registre, mas se registre de uma forma muito simples, né? Seria por exemplo aquela sistemática do MEI, abrir CNPJ no nosso caso seria isso, mas abrir CNPJ muito simples, eu não posso pedir que chinês pegue avião venha até o Brasil e fique aqui não sei quanto tempo, né pra conseguir abrir essa empresa, não, ele vai fazer tudo pela internet, site em inglês, e ponto. Ele abriu o CNPJ, ele começa a pagar os tributos das vendas que ele faz aqui, como se brasileiro fosse. Por isso é importante que o NAPEC tenha, que a gente possa considerar o estrangeiro como contribuinte, pra poder implementar esse modelo que o CDE considera bem interessante, e é modelo que funciona, né? Porque aí ele ganha visibilidade, ele tem CNPJ ali. Então eu tenho como saber que ele está operando no Brasil, não é? Então essa é a forma mais adequada pelo menos até o momento que já foi implementada com sucesso em alguns países, para a tributação B2C, né. Como como o meu tempo já acabou eu vou pular a parte das, plataformas, só vou comentar o seguinte, também a Lina já adiantou isso. Na União Europeia foi definido que as plataformas, teriam sim responsabilidade, né pela à arrecadação do tributo, né? No Brasil a gente chamaria isso de substituição tributária. Eu não vejo muito problema, eu vejo que aqui há uma certa resistência do setor quanto a esta substituição. Mas seria uma retenção da fonte, né? A plataforma ela tem, o controle financeiro né, do fluxo financeiro, ela vai repassar o dinheiro pra quem vendeu através dela, então já retira a parte do tributo e pronto, né, o ônus não vai recair sobre a plataforma, não é, e seria só uma questão de uma retenção na fonte. E esse é o modelo sim que a União Europeia de estar adotando, porque é muito mais fácil eu tributar como está dito nesse slide aqui, três plataformas mundiais, do que correr atrás de milhão de pequenos fornecedores, não é, localizados em sabese lá onde no mundo todo. Então ficaria bem mais simples a tributação, se a gente tiver essa forma de, concentrar a arrecadação tributária a cobrança do tributo nas plataformas digitais principalmente as maiores. Obrigado fico à disposição.",
       "speaker": {
         "name": "João Hamilton Rech",
-        "position": "Auditor Fiscal da Receita Federal do Brasil, Representante do Brasil no Grupo de Trabalho 9 da Organização para a Cooperação e o Desenvolvimento Econômico - OCDE"
+        "position": "Auditor Fiscal da Receita Federal do Brasil, Representante do Brasil no Grupo de Trabalho 9 da Organização para a Cooperação e o Desenvolvimento Econômico - OCDE",
+        "slug": "joao-hamilton-rech"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Fintech sector has 1,300+ companies serving 100 million Brazilians, employs 200,000. Growth due to public policies. To maintain leading position in digital financial services, needs planned tax treatment, such as tax reform and unified tax credit. Fintechs favor differentiated tax treatment for certain sectors, especially services, to enhance Brazil's weak tax classification. Single tax rate causes concern.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Presidente da Associação Brasileira de Fintechs - ABFintechs"
+        "position": "Presidente da Associação Brasileira de Fintechs - ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -292,7 +316,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -304,7 +329,8 @@
       "speaker": {
         "id": 178896,
         "name": "Newton Cardoso Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "newton-cardoso-jr"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -327,7 +354,8 @@
       "summary": "Especialista em Marketing Digital, Mestre pela Universidade Federal Fluminense - UFF, ofereceu ajuda para avançar na discussão sobre marketing digital e se colocou à disposição para contribuir no assunto. Agradecimentos à Maeberty concluíram o discurso.",
       "speaker": {
         "name": "Herbert Salles",
-        "position": "Especialista em Marketing Digital, Mestre pela Universidade Federal Fluminense - UFF"
+        "position": "Especialista em Marketing Digital, Mestre pela Universidade Federal Fluminense - UFF",
+        "slug": "herbert-salles"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -349,7 +378,8 @@
       "summary": "Presidente da Associação Brasileira de Fintechs destacou Brasil em fóruns internacionais por potência em finanças digitais e ativos verdes, atribuindo isso às políticas públicas bem estruturadas e alinhadas com reguladores, mercado e legislativo. Valora forum para extrair melhores resultados e fortalecer debate sobre finanças sustentáveis e emendas constitucionais.",
       "speaker": {
         "name": "Diego Perez",
-        "position": "Presidente da Associação Brasileira de Fintechs - ABFintechs"
+        "position": "Presidente da Associação Brasileira de Fintechs - ABFintechs",
+        "slug": "diego-perez"
       }
     },
     {
@@ -361,7 +391,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -372,7 +403,8 @@
       "summary": "Diretora Tributária do Mercado Livre favorável a reforma tributária ampla e única, mas discussão de detalhes deve ocorrer no Congresso. Mercado Livre mapea e exige nota fiscal para itens em sua plataforma, colaborando com fiscalização e arrecadação, contribuindo para crescimento do Brasil.",
       "speaker": {
         "name": "Silvana Ricardo",
-        "position": "Diretora Tributária do Mercado Livre"
+        "position": "Diretora Tributária do Mercado Livre",
+        "slug": "silvana-ricardo"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 178896,
         "name": "Newton Cardoso Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "newton-cardoso-jr"
       }
     },
     {
@@ -407,7 +441,8 @@
       "speaker": {
         "id": 160527,
         "name": "Aguinaldo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aguinaldo-ribeiro"
       }
     },
     {
@@ -419,7 +454,8 @@
       "speaker": {
         "id": 178896,
         "name": "Newton Cardoso Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "newton-cardoso-jr"
       }
     },
     {
@@ -430,7 +466,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -441,7 +478,8 @@
       "summary": "Procurador Tributário do Conselho Federal da OAB sobre reforma tributária: preocupação com abandono alíquota única durante dois anos, transição acelerada, tempo insuficiente para implementar alíquota única; dialogando com deputados para eventuais modificações.",
       "speaker": {
         "name": "Luiz Gustavo Bichara",
-        "position": "Procurador Tributário do Conselho Federal da Ordem dos Advogados do Brasil - OAB"
+        "position": "Procurador Tributário do Conselho Federal da Ordem dos Advogados do Brasil - OAB",
+        "slug": "luiz-gustavo-bichara"
       }
     },
     {
@@ -453,7 +491,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -464,7 +503,8 @@
       "summary": "Auditor Fiscal da Receita Federal do Brasil, Representante do Brasil no Grupo de Trabalho 9 da OCDE sobre reforma tributária:",
       "speaker": {
         "name": "João Hamilton Rech",
-        "position": "Auditor Fiscal da Receita Federal do Brasil, Representante do Brasil no Grupo de Trabalho 9 da Organização para a Cooperação e o Desenvolvimento Econômico - OCDE"
+        "position": "Auditor Fiscal da Receita Federal do Brasil, Representante do Brasil no Grupo de Trabalho 9 da Organização para a Cooperação e o Desenvolvimento Econômico - OCDE",
+        "slug": "joao-hamilton-rech"
       }
     },
     {
@@ -475,7 +515,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -486,7 +527,8 @@
       "summary": "Presidente-Executivo da Conexis Brasil Digital aborda importância da reforma tributária para reduzir carga fiscal desproporcional em telecomunicações, promovendo inclusão e desenvolvimento digital no país.",
       "speaker": {
         "name": "Marcos Ferrari",
-        "position": "Presidente-Executivo da Conexis Brasil Digital"
+        "position": "Presidente-Executivo da Conexis Brasil Digital",
+        "slug": "marcos-ferrari"
       }
     },
     {
@@ -497,7 +539,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -508,7 +551,8 @@
       "summary": "Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP discutiu IVA adequado a economia digital, atualização do modelo fiscal, Pacto Federativo dependente de receita financeira, concorrência desleal com revenda de bens usados por pessoas jurídicas e necessidade de previsão na PEC para tratamento em lei complementar.",
       "speaker": {
         "name": "Lina Santin",
-        "position": "Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP"
+        "position": "Advogada Tributarista, Mestre em Direito Tributário e Doutoranda pela PUC-SP",
+        "slug": "lina-santin"
       }
     },
     {
@@ -519,7 +563,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -530,7 +575,8 @@
       "summary": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário afirmou:",
       "speaker": {
         "name": "Melissa Guimarães Castello",
-        "position": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário"
+        "position": "Doutora em Direito Tributário pela PUC/RS, Presidente da Fundação Escola Superior de Direito Tributário",
+        "slug": "melissa-guimaraes-castello"
       }
     },
     {
@@ -542,7 +588,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -553,7 +600,8 @@
       "summary": "Auditor Fiscal da Receita Estadual de Minas Gerais destacou a necessidade de adaptar processos e modelos de negócio à era digital, comparando-a à transformação digital da administração tributária. Ele elogiou a proposta de reforma tributária como uma corajosa revisão das regras de negócio do imposto, mantendo a capacidade de atuação do Estado no mundo digital. Parabéns aos deputados pela proposta abrangente e discutida.",
       "speaker": {
         "name": "Eufrásio Alves Cambui Júnior",
-        "position": "Auditor Fiscal da Receita Estadual de Minas Gerais"
+        "position": "Auditor Fiscal da Receita Estadual de Minas Gerais",
+        "slug": "eufrasio-alves-cambui-junior"
       }
     },
     {
@@ -565,7 +613,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Presidente Rodrigo Castro eu declaro então aberta a",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Arnaldo Jardim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-arnaldo-jardim"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Votação encerrou, João Carlos Bacelli votou.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -110,7 +118,8 @@
       "summary": "Votação unânime para primeiro vice-presidente. Designação de relatores para capítulos hidrogênio e concessões de energia. Deputados instruídos a apresentar plano de trabalho em breve. Discurso de deputado João Carlos Bacelar.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 141458,
         "name": "João Carlos Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-carlos-bacelar"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Participante Socorro Neri desejou boa tarde, agradeceu e expressou seu desejo de ouvir outras pessoas falarem. Sua fala foi em português fluente.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padovani -- por Participante -- Socorro Neri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padovani-por-participante-socorro-neri"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretário Nacional aborda desafios na Amazônia, como secas e isolamento; promove apropriação de recursos para comunidades tradicionais e vulneráveis; propõe modelo de sociobioeconomia inclusivo; menciona criação de Fundo de Infraestrutura Regional Sustentável priorizando Amazônia e regiões vulneráveis.",
       "speaker": {
         "name": "EDUARDO CORRÊA TAVARES",
-        "position": "SECRETÁRIO NACIONAL DE FUNDOS E INSTRUMENTOS FINANCEIROS - Ministério da Integração e do Desenvolvimento Regional"
+        "position": "SECRETÁRIO NACIONAL DE FUNDOS E INSTRUMENTOS FINANCEIROS - Ministério da Integração e do Desenvolvimento Regional",
+        "slug": "eduardo-correa-tavares"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 104552,
         "name": "Socorro Neri",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "socorro-neri"
       }
     },
     {
@@ -86,7 +92,8 @@
       "transcription": "Obrigada, meu nome. Obrigada professora. De",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Socorro Neri -- por Participante -- Professora Goreth",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-socorro-neri-por-participante-professora-goreth"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -109,7 +117,8 @@
       "summary": "Amazônia tem diversidade ecosistémica e logística, abrangendo 20 milhões de pessoas e influenciando clima, biodiversidade e sistemas hídricos nacionais. Preservar floresta e sua externalidades positivas requer melhorar qualidade de vida e condições econômicas da população local, com IBGE fornecendo subsídios para políticas públicas.",
       "speaker": {
         "name": "CLAUDIO STENNER",
-        "position": "Diretor de Geociências - Instituto Brasileiro de Geografia e Estatística"
+        "position": "Diretor de Geociências - Instituto Brasileiro de Geografia e Estatística",
+        "slug": "claudio-stenner"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "IBGE prioriza geoinformação e planejamento para o desenvolvimento social e econômico na região Amazônica, enfatizando a logística de transporte e acesso à saúde e educação. O Instituto possui uma longa história de pesquisas e acompanhamento na região.",
       "speaker": {
         "name": "ADMA HAMAM DE FIGUEIREDO",
-        "position": "Gerente da Gerência de Atlas e Representações do  Território - Instituto Brasileiro de Geografia e Estatística  (IBGE)"
+        "position": "Gerente da Gerência de Atlas e Representações do  Território - Instituto Brasileiro de Geografia e Estatística  (IBGE)",
+        "slug": "adma-hamam-de-figueiredo"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Gerência de Atlas e Representações do Território do IBGE promove integração e desenvolvimento da Amazônia por meio de informações estatísticas e territoriais, considerando diferentes escalas e relações, com ênfase em transporte e logística, retomando planejamento territorial específico e inclusão da sociedade local.",
       "speaker": {
         "name": "ADMA HAMAM DE FIGUEIREDO",
-        "position": "Gerente da Gerência de Atlas e Representações do  Território - Instituto Brasileiro de Geografia e Estatística  (IBGE)"
+        "position": "Gerente da Gerência de Atlas e Representações do  Território - Instituto Brasileiro de Geografia e Estatística  (IBGE)",
+        "slug": "adma-hamam-de-figueiredo"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Coordenador de Desenvolvimento Regional - IPEA discutiu estudos regionais, 7 milhões de pessoas na Amazônia, floresta como fonte de serviços valiosos, investimento em saneamento necessário, ênfase em estudos de fronteiras, análise de orçamento federal mostrando maior investimento no norte comparado ao PIB e população, maior investimento per capita no norte versus sudeste, sustentabilidade no desenvolvimento considerando gerações futuras e pessoas mais pobres.",
       "speaker": {
         "name": "BRUNO DE OLIVEIRA CRUZ",
-        "position": "Coordenador de Desenvolvimento Regional - Instituto de Pesquisa Econômica Aplicada (IPEA)"
+        "position": "Coordenador de Desenvolvimento Regional - Instituto de Pesquisa Econômica Aplicada (IPEA)",
+        "slug": "bruno-de-oliveira-cruz"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Vice-coordenador da Rede PENSSAN discutiu aumento da fome, especialmente entre mulheres, negras, quilombolas e indígenas, no Norte do Brasil. Monitoramento revelou consumo decrescente de alimentos saudáveis e aumento de obesidade e ultra-processados. Desde 2021, insegurança alimentar grave e moderada aumentou, destacando a necessidade de políticas públicas centradas no fator humano.",
       "speaker": {
         "name": "RENATO CARVALHEIRA DO NASCIMENTO",
-        "position": "Vice-coordenador - Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN)"
+        "position": "Vice-coordenador - Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN)",
+        "slug": "renato-carvalheira-do-nascimento"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -211,7 +228,8 @@
       "transcription": "Também? Não não eu passo por aqui. Bom, bom dia a todos todas e todes, agradeço imensamente em nome de do do Instituto de Estudos Socioeconômicos, INESC, por esse convite aí, em especial, agradeço à professora Gorete por esse essa iniciativa tão importante, à frente parlamentar em defesa da Amazônia, a comissão de integração nacional e desenvolvimento regional, as falas que me antecederam EEE ampliando e fortalecendo esse debate sobre o 0 Tamanho do desafio e das questões que nós temos pela frente pra colocar a Amazônia, não só sob diversidade, sua florestas, seu clima, mais seu povo, sua economia, num outro patamar de relação com o Brasil mesmo, em outro patamar de desenvolvimento. E a gente sabe o quanto isso é possível, o quanto isso tem de potencial, mas eu acho que esse seminário aqui trouxe com uma riqueza ímpar de como como eu já disse assim o tamanho dos desafios que nós temos pela frente ao considerar de fato que temos aí fator amazônico e que precisa ser levado em consideração no planejamento das políticas públicas, no orçamento público, por essa casa legislativa que né, o tempo inteiro está discutindo aqui e revendo e e mudando legislações que afetam diretamente não só clima também não só clima meio ambiente, mas as terras, os povos, os direitos dos territórios. Então eu acho que é fundamental que Realmente a gente saia daqui, né, professora Gorete, com encaminhamentos práticos, porque nós temos pela frente grande desafio e temos também grandes oportunidades. Eu acho que as falas que me antecederam, todas foram muito ricas, começando aqui pela, pra pra dizer que na primeiro, no primeiro Ponto aqui da minha fala, eu gostaria de trazer mais alguns elementos pra esse cenário e é interessante porque quanto mais a gente escuta, mais a gente aprender, mas a gente tenta compreender, a gente vê o tamanho dos desafios e como olhar só e como não é possível captar o tamanho dos desafios em relação ao fator amazônica como a gente precisa de olhar multifatorial, interfederativo pra dar conta Olhando também os diversos órgãos, os diversos desafios, os diversos e as agendas também que são colocadas aí na perspectiva amazônica e amazônica a gente precisa dessa multiplicidade de olhares. E aí eu acho que eu trouxe mais elemento aqui que que se, O que eu acho que traz pouco esse essa visão de cenário e complementa aí a visão que já foi bem trazida aí pelo pelo Eduardo, pelo Bruno, e também pelo nosso companheiro aqui que na fala que me antecedeu, estou aqui me esquecendo o nome não posso esquecer, e aí Renato Carvalheira, que trouxe aí falando da questão da insegurança alimentar e como isso é forte, ainda é mais forte, é é ainda é presente no Brasil e é mais forte no nas regiões norte e nordeste. E aí quando a gente pensa nesse cenário que foi também bem trazido Pelo IPEA de inclusive de investimentos públicos, a gente vê uma dinâmica de de de de investimento, uma dinâmica Econômica é que reproduz padrões do século passado e que nós vemos grandes dificuldades de mudar. Quando a gente veio aqui os dados só para complementar esse cenário a gente pega aí os dados de que são mais preocupantes na Amazônia na região norte mas mas que são muito presentes também no Brasil a gente parte de cenário de baixos investimentos públicos no Brasil Os dados mais recentes do Banco Mundial mostram que o Brasil investe por cento do PIB, isso é só ficar atrás da Aruba na América Latina, Isso é padrão de investimento público que inviabiliza qualquer mudança de patamar de dinâmica econômica, inclusive o que a gente está discutindo na Amazônia. A gente olha pra os investimentos privados na Amazônia, a gente vê que eles estão, isso também foi reforçado na em algumas falas anteriores, fortemente concentrados na dinâmica de fronteira e em elos das redes primárias globais de produção e a gente sabe que aí a gente tá falando da que a Amazônia é esse é o grande desafio uma fronteira minérico energética do agro negócio e que esses produtos e que esses investimentos estão altamente concentrados nesses setores na infraestrutura funcional a exportação desses setores e que são muito pouco produz de fato de desenvolvimento para o povo da Amazônia e muito é o contrário Não, não permite uma preservação do meio ambiente, pelo contrário, ameaça, inclusive, que o Brasil não alcance os compromissos assumidos dos acordos de Paris. Existe alguns estudos do w r da cp ai que mostram que a continuar essa dinâmica de investimentos muito baseado no no Agro minério no setor energético agora inclusive com a pressão para a expansão da fronteira do petróleo Em dois mil e em dois mil e cinquenta nós vamos ter quintuplicado as emissões do Brasil e Extrapolado o acordo de Paris cinco vezes em relação ao que nós nos comprometemos. Então a situação é muito grave, não não nos faltam todos e pesquisas que mostram que é possível uma nova economia para Amazônia, de novo aí depois eu passar alguns dados aí também de alguns estudos recentes que têm sido feitos que mostra o tamanho desse potencial de uma nova economia na Amazônia é que seja da Da bioeconomia que é acho que realmente precisa ser discutido como economia da sociobiodiversidade, seja inclusive aperfeiçoando investimentos em infraestrutura, mas pra isso são, é nesses são necessários, é investimentos e uma mudança de dinâmica de política pública E que eu acho que tão bem aqui é tem sido trazido aqui nesse debate sobre o quanto a gente tem que enfrentar esses fatores amazônicos, inclusive, que as políticas públicas e os planejamentos eles eles incorporem esses desafios relacionados aos fatores amazônicos é esses esses dados aqui da região norte eles são bem interessantes que quando a gente pega o cenário de investimento em infraestrutura no norte a gente vê que é a região norte no período de 2012 a dois mil e vinte e foi responsável por dezessete por cento dos investimentos públicos e privados Mas quando a gente olha pra onde foram esses investimentos, que já é patamar baixo, né, quando a gente pensa aí na perspectiva internacional, a gente vê que cinquenta e cinco porcento foi por exemplo para o setor ferroviário quando a gente olha que investimento é esse do setor ferroviário A gente vê que desses dezesseis bilhões, quatorze bilhões foram investimentos na estrada de ferro Carajás, na duplicação, que tem a ver com a dinâmica De expansão da extração de ferro no no corredor Carajás como todo, ali no sudeste do Pará, que trouxe uma mudança radical na dinâmica econômica e que Não trouxe o desenvolvimento que que se propalavam e que não trouxe empregos, que trouxe uma destruição ambiental e impacto socioambientais que dificilmente são considerados na dinâmica do planejamento. Então essa é uma questão central, pra gente afetar ou enfrentar o fator amazônico a gente tem que mudar A dinâmica e lógica de planejamento, de licenciamento ambiental, e de consideração dos impactos em várias escalas, Se a gente quer de fato que esses investimentos tragam uma outra perspectiva de desenvolvimento para a região. Eu não vou, eu vou dar uma sequência aqui na na minha fala, mas eu acho que esse esse esse esse essa parte aqui é pra realmente reforçar Essa visão de que os investimentos na região amazônica, na região norte são muito baixos, extremamente concentrado nessa dinâmica de fronteira, principalmente no agro minério E e no setor energético, e que isso pouco trouxe de desenvolvimento pra pra região nos últimos anos, então que é fundamental a gente Enfrentar essa dinâmica, até porque os investimentos de estava falando aqui escutando aqui os que me antecederam falando do PAC, do PPI, os investimentos na Amazônia trarão impactos do ponto de vista de desmatamento e de impacto socioambientais, que são muito pouco e casamente considerados processo de planejamento, em especial aqui quando a gente fala de investimentos na infraestrutura, a gente precisa lembrar que em dois mil e no no de dois mil e doze a dois mil e vinte e Foi feito mapeamento aqui pelo também que mostra que a esses dinâmicas de investimento estão altamente associados Ao desmatamento, por exemplo, até dois mil e seis, aproximadamente noventa e cinco por cento da convenção de floresta ocorreu a uma distância de cinco vírgula cinco quilômetros das estradas. A gente sabe que a infraestrutura rodoviária é altamente responsável pela dinâmica do desmatamento e quando a gente olha para os projetos de PAC de ppi a gente vê a perspectiva de ferrogramo br155 br mês três de aplicação a gente sabe o que significa e por isso é fundamental fortalecer uma governança Dos investimentos de infraestrutura. Então acho que os principais desafios que eu queria trazer aqui em relação AAA esses temas, o primeiro seria, repactuar a relação de privilégio e favorecimento entre os setores agrominior e energéticos negócio estado E aí tem tema de atenção que acho que que a gente tem no inédito trabalhado bastante, que a gente considera fundamental, é que a gente precisa rever A questão dos incentivos fiscais na Amazônia, esse é tema, já vou passando aqui pra pra pra esse essa questão, a gente está falando aqui de fator amazônico que precisa produzir outro desenvolvimento, que precisa fomentar uma nova economia pra Amazônia, é inclusive revendo né estudos e aprendizados por exemplo da Berta Becker que fez estudos tão fantásticos sobre o que é Amazônia entendendo a dinâmica Amazônia E ao que a gente vê é que hoje a gente ainda está discutindo o que fazer com uma nova economia da Amazônia e a gente vê que a decisão é política não é não é por falta de estudos científicos estudos técnicos de pesquisa de demanda dos Amazonas é por falta de uma perspectiva realmente de mudança política e acho que o principal exemplo que a gente traz aqui Essa questão da da dos incentivos fiscais pra Amazônia. Essa casa que renovou por mais, está tentando renovar por meio do PL 4.416 Os incentivos fiscais pra Amazônia são incentivos que são, tem vem sendo renovados desde mil novecentos e cinquenta e seis, São incentivos que privilegiam exatamente essa dinâmica de expansão da fronteira que a gente estava dizendo, sem que houvesse, sem que haja, Ao longo de mais de quase sessenta anos avaliações, critérios e uma perspectiva de realmente reformar os subsídios e os incentivos pra que Os setores que de fato são da sociobioeconomia, os setores que precisam incentivardos, que preservam a floresta, possam incentivardos em detrimento desses outros. Então, esse é dos temas que eu acho que essa casa precisa enfrentar que é como rever essa essa recorrente renovação de incentivos fiscais E aí nesse caso aqui especificamente no âmbito da Sudan e Sudeni. O segundo é essa questão da construção de uma governança de investimento em infraestrutura. A gente fala investimentos de parque de ppi a gente vê na hora como são pequenos e poucos os investimentos para Amazônia investimentos públicos a gente tem que considerar que para que esses investimentos eles possam ocorrer é fundamental ter uma governança de investimentos que fortaleça processo de licenciamento avaliação de impacto e transparência sobre todo esse processo Isso é uma demanda que o GT de infraestrutura tem trazido para vários espaços de debates tem produção de conhecimento então acho que é fundamental é que esse tema e seja colocado na mesa e o segundo o terceiro para terminar aqui É a questão que foi também bastante colocada aqui que é como enfrentar os gargalos, como enfrentar os desafios inclusive relacionados ao fator o fator amazônico que mostrou aqui a insegurança alimentar a insegurança hídrica a fala do Eduardo trouxe a os efeitos da seca sobre as comunidades e o isolamento geográfico a escassez de peixe como isso afeta a insegurança alimentar A outras falas também trouxeram a importância da gente por exemplo pensar a questão do acesso a direitos básicos como acesso energia. Então eu queria dizer que nós organizações da sociedade brasileira movimentos sociais temos trazido para mesa de debate de diálogo com governo em especial com BNDES propostas concretas para que os órgãos do do governo federal, em parceria com BNDES que tem importante instrumento de financiamento, enfrentem esse gargalo, Não daqui a cinco ou dez anos, mas no horizonte dos próximos dois anos inclusive como agenda positiva rumo à COP trinta, então, a gente tem aí uma proposta que tá na mesa em diálogo com vários vários órgãos e e com BNDS que é de levar água energia internet para seis mil idades que já foram mapeadas pelo map biomas essa proposta surgiu na no grupo que chama energia e comunidades que se reúne há anos para pensar o desafio é da do acesso a energia para comunidades isoladas na Amazônia e a partir daí esses grupos que existe uma com conhecimento acumulado enorme nos movimentos sociais, CNS, Coiab, no nas nas universidades da Amazônia, Em ONGs que têm implementado vários projetos pilotos de acesso à energia à internet, e aí a partir daí reuniuse então esse Esse esse amplo conhecimento, em amplo diálogo também, e foi construído uma proposta que se chama então Sem social não não tem ambiental, que é utilizar as informações que a gente já tem no MAP biomas que já identificaram aí seis mil comunidades com esse escasso acesso à energia a água e à internet e portanto também escassas possibilidades de desenvolver o potencial e a riqueza das suas sócio bioeconomias e que a partir de uma articulação de órgãos do governo, inclusive o MDA, inclusive o Ministério da Integração Regional, inclusive MMA E com o apoio do BNDES e seus diversos instrumentos, não só como o fundo Amazônia, mas o próprio fundo sócio ambiental, que a gente construa uma política pública É rápida e que já tem potencial para escalar e em dois anos para que chegando a pop trinta a gente tem aí Essas comunidades com acesso à água, energia, internet, é garantido não só a sua segurança alimentar hídrica, mas também o desenvolvimento da bioeconomia e da socioeconomia de que a gente tanto fala. Então eu queria dizer que, e pra terminar que Esse essas iniciativas, elas podem ser apoiadas e devem ser estimuladas também por essa casa, porque nós estamos vivendo contexto político muito complexo, né, mas que que que o jogo que está sendo construído aí na questão do orçamento, e aí a gente olhando para o piloto ao projeto de lei orçamentária para 2024 nos mostram que esta casa hoje de fato tem aí o poder de controlar uma boa parte do dentro de vários órgãos de todos os órgãos de orçamento discricionário que poderia e deveria ser Pessado na perspectiva de fortalecer essas agendas, essas iniciativas, enfrentar as questões que foram tão bem colocadas aqui no Fator Amazônia. Então, a gente tem aqui A potencial pra dois mil e vinte e quatro de emendas da ordem de trinta e sete bilhões entre emendas parlamentares e emendas de bancada, existem Como disse o m de o ministério o representante do Eduardo representante do ministério desenvolvimento regional a oportunidade De que órgãos possam receber esses recursos pra implementar ações que possam já em dois mil e vinte e quatro avançar Rumo a essa agenda que nós estamos apresentando aqui sem social, não tem ambiental. Está tendo uma outra audiência aqui bem em frente, é que está discutindo isso, universalização de energia pra Amazônia, porque a depender do mais luz pra Amazônia mais luz pra todos, essa perspectiva é que em dois mil e cinquenta, As comunidades da Amazônia isoladas ainda não terão acesso à energia. Então existe perspectivas no orçamento público, existem perspectivas Em dia, articulação intergovernamental existe perspectivas de apoio do BNDES para que, de fato, agendas positivas como essa possam ser colocadas em prática enfrentando na prática o que nós estamos discutindo aqui que é o fator amazônico. Então, muito agradecida pelo convite E eu acho que esse seminário aqui ele tenha potencial de iniciar esse processo de Mais forte entre sociedade civil, movimentos sociais, órgãos do governo federal e o próprio BNDES no sentido de reunir esforços E a trazer pra mesa os aprendizados, os desafios e realmente resolver como enfrentálos na perspectiva de curto prazo pensando aí também na COP dois mil e dois mil e trinta.",
       "speaker": {
         "name": "ALESSANDRA CARDOSO",
-        "position": "Assessora Política - Instituto de Estudos Socioeconômicos"
+        "position": "Assessora Política - Instituto de Estudos Socioeconômicos",
+        "slug": "alessandra-cardoso"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "Diretor-presidente do Instituto de Pesquisas Científicas e Tecnológicas do Amapá ressalta importância de investimentos no Norte e Nordeste do Brasil, especialmente na região amazônica, para melhorar a qualidade de vida da população, observando a necessidade de seguir leis ambientais e considerar ecossistema e populações locais no processo de desenvolvimento. Menciona participação fundamental de Sul e Sudeste neste assunto.",
       "speaker": {
         "name": "ANDRÉ DOS SANTOS ABDON",
-        "position": "Diretor-presidente - Instituto de Pesquisas Científica e Tecnológicas do Amapá"
+        "position": "Diretor-presidente - Instituto de Pesquisas Científica e Tecnológicas do Amapá",
+        "slug": "andre-dos-santos-abdon"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Consultora da Câmara dos Deputados fala sobre Amazonia, ênfatizando conexões, infraestrutura, serviços básicos e políticas públicas convergentes. Menciona desafios no Rio Madeira e potencial da castanha. Propõe revisão do fundo municipal e apoio federal ao desenvolvimento social e sustentável.",
       "speaker": {
         "name": "ROSE MIRIAN HOFMANN",
-        "position": "Consultora - Câmara dos Deputados"
+        "position": "Consultora - Câmara dos Deputados",
+        "slug": "rose-mirian-hofmann"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -304,7 +329,8 @@
       "summary": "Discurso sobre desenvolvimento amazônico: destaque para custo por aluno, transferências para educação e Minha Casa Minha Vida; atual papel de governo e BNDES com editais e políticas públicas; incentivo à sociedade civil e ONGs a permanecerem engajadas com medidas imediatas e debates reforçados.",
       "speaker": {
         "name": "ALESSANDRA CARDOSO",
-        "position": "Assessora Política - Instituto de Estudos Socioeconômicos"
+        "position": "Assessora Política - Instituto de Estudos Socioeconômicos",
+        "slug": "alessandra-cardoso"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -326,7 +353,8 @@
       "summary": "O Vice-coordenador da Rede PENSSAN destaca a Amazonia como oferecendo uma grande oportunidade para transição para um modelo de desenvolvimento sustentável e agroecológico, com ligação entre questões ambientais, pobreza e fome. Ele enfatiza o papel crucial de pequenos produtores e agricultores familiares, e a necessidade de políticas de alimentação escolar que os beneficiem. Também menciona a importância de reforma agrária, especialmente no Norte do Brasil.",
       "speaker": {
         "name": "RENATO CARVALHEIRA DO NASCIMENTO",
-        "position": "Vice-coordenador - Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN)"
+        "position": "Vice-coordenador - Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN)",
+        "slug": "renato-carvalheira-do-nascimento"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     },
     {
@@ -348,7 +377,8 @@
       "summary": "Diretor-presidente Instituto de Pesquisas Científicas e Tecnológicas do Amapá disposto a colaborar e contribuir com informações sobre a região do Amapá e Amazônia. Agradecido ao convite da deputada Goretti.",
       "speaker": {
         "name": "ANDRÉ DOS SANTOS ABDON",
-        "position": "Diretor-presidente - Instituto de Pesquisas Científica e Tecnológicas do Amapá"
+        "position": "Diretor-presidente - Instituto de Pesquisas Científica e Tecnológicas do Amapá",
+        "slug": "andre-dos-santos-abdon"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 220580,
         "name": "Professora Goreth",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-goreth"
       }
     }
   ],

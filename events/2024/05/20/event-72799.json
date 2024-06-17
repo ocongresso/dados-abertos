@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " Fundada em 1954, CRB cumpre 70 anos de serviço à Igreja e à vida religiosa. Voz profética por justiça social e direitos humanos, presente em todo Brasil com 20 sedes regionais. Parceria eclesial e civil, crescendo em diferentes carismas, construindo sociedade justa e igualitária. Liderada por irmã Eliane Cordeiro de Souza, focus em alianças, formação e missão, apoiando missionários e projetos como Lux Mundi e Dignidade da Pessoa Humana.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -67,7 +72,8 @@
       "transcription": "Então a gente.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 0,
         "name": "DOM DENISLON  GERALDO PALOTINO",
-        "position": "Bispo Auxiliar da Arquidiocese de Brasília"
+        "position": "Bispo Auxiliar da Arquidiocese de Brasília",
+        "slug": "dom-denislon-geraldo-palotino"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 0,
         "name": "ELIANE CORDEIRO DE SOUZA",
-        "position": "Presidente da Conferência dos Religiosos do Brasil"
+        "position": "Presidente da Conferência dos Religiosos do Brasil",
+        "slug": "eliane-cordeiro-de-souza"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 0,
         "name": "DANIEL SEIDEL",
-        "position": "Secretário Executivo da Comissão Brasileira de Justiça e Paz da CNBB"
+        "position": "Secretário Executivo da Comissão Brasileira de Justiça e Paz da CNBB",
+        "slug": "daniel-seidel"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 0,
         "name": "SUELI BELLATO",
-        "position": "Coordenadora da Regional da Conferência dos Religiosos no Brasil (CRB) - em Brasília, Luziânia e Formosa"
+        "position": "Coordenadora da Regional da Conferência dos Religiosos no Brasil (CRB) - em Brasília, Luziânia e Formosa",
+        "slug": "sueli-bellato"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 220640,
         "name": "Juliana Cardoso",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "juliana-cardoso"
       }
     }
   ],

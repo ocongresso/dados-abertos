@@ -18,7 +18,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "LGPD regulamenta adequadamente circulação de dados pessoais em sociedade digital, definindo obrigações e direitos. Lei vigente desde setembro de 2020, exceto sanções administrativas aplicáveis a partir de agosto de 2022. ANPD estabeleceu regulamentação infralegal para definir aplicação de sanções e cálculo de multas. Sanções aplicáveis a fatos ocorridos após entrada em vigor das sanções e infrações que persistam com efeitos posteriores.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "SENACON, Ministério da Justiça: defensa de dados como \"novo petróleo\"; Código de Defesa do Consumidor atualiza proteção com foco em consumo digital e comércio eletrônico; quatro pilares do direito consumidor desde 1962: segurança, informação, liberdade de escolha e participação; LGPD como diálogo entre fontes, incluindo direito consumidor; necessidade de efetividade nas leis brasileiras.",
       "speaker": {
         "name": "Vitor Hugo do Amaral Ferreira",
-        "position": "SENACON do Ministério da Justiça"
+        "position": "SENACON do Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Cibercrime lucrativo e em rápida evolução; importância da LGPD e da NPD; necessidade de parceria com ANPD para orientar e proteger contra incidentes de segurança; aceitação da legalidade do dispostivo, mas oposição à abordagem punitiva; falta de normas e diretrizes claras; exemplo de demora na comunicação a titulares de dados durante incidente no Ministério da Saúde.",
       "speaker": {
         "name": "Jackeline Neves de Almeida",
-        "position": "DATASUS"
+        "position": "DATASUS",
+        "slug": "jackeline-neves-de-almeida"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Deputado questiona prioridade da NPD em processos sancionatórios contra órgãos públicos, em vez de empresas praticando ilegalidades e abusos. Solicita esclarecimento sobre acordos de cooperação técnica da NPD com outros órgãos, e sobre fiscalização de proteção de dados em plataformas de consumo. Menciona preocupação com direcionamento de consumo e uso de dados de usuários em redes sociais sem autorização, pedindo medidas dissuasivas para garantir direitos do consumidor.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "ANPD não prioriza setor público ou privado, mais processos contra o público por sua dinâmica. Ação responsiva, solução de problemas antes de sanções. Cooperação com outras organizações, exemplo: WhatsApp política de privacidade. Trabalhando em condições de tratamento de dados para publicidade direcionada, fornecendo parâmetros de uso legítimo ou abusivo. Disposta a complementar respostas, se necessário.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Deputado questioning NPD's interpretation of public administration principle regarding the secrecy of processes, suggests potential improvements to LGPD.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -153,7 +165,8 @@
       "summary": "Diretora da ANPD afirma que:",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "A Diretora da ANPD afirma que sanções no direito administrativo, incluindo LGPD, têm critérios detalhados para prevenir arbitrariedade e trazer segurança jurídica. Uma violação não resulta automaticamente em sanções, que visam corrigir condutas e são essenciais à eficácia da lei. A ANPD produz orientações e documentos técnicos para esclarecer conceitos da LGPD.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -199,7 +215,8 @@
       "summary": "SENACON do Ministério da Justiça anunciou:",
       "speaker": {
         "name": "Vitor Hugo do Amaral Ferreira",
-        "position": "SENACON do Ministério da Justiça"
+        "position": "SENACON do Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -221,7 +239,8 @@
       "summary": "DATASUS discute interpretações sobre notificação de incidentes de dados; questiona eficácia educativa da ANPD; deseja aplicação da LGPD sem medo ou incerteza.",
       "speaker": {
         "name": "Jackeline Neves de Almeida",
-        "position": "DATASUS"
+        "position": "DATASUS",
+        "slug": "jackeline-neves-de-almeida"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -243,7 +263,8 @@
       "summary": "Diretora da ANPD afirma: regime sançionatório ainda na coordenação geral de fiscalização, sem aplicação de sanção; em caso de sanção, haverá recurso antes de chegar ao conselho diretor.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -278,7 +301,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -313,7 +339,8 @@
       "summary": "A Diretora da ANPD destacou preocupação com fraudes de dados pessoais, causadas por vazamentos e incidentes de segurança. Ela abordou as competênças da ANPD para impor sanções administrativas, a necessidade de atualizar legislação criminal e aumentar cooperação entre autoridades no combate a esses incidentes transnacionais.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -335,7 +363,8 @@
       "summary": "SENACON aborda:",
       "speaker": {
         "name": "Vitor Hugo do Amaral Ferreira",
-        "position": "SENACON do Ministério da Justiça"
+        "position": "SENACON do Ministério da Justiça",
+        "slug": "vitor-hugo-do-amaral-ferreira"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -357,7 +387,8 @@
       "summary": "DATASUS deseja avançar discussão sobre regulação de proteção de dados, promover parcerias e diálogo efetivo. Também destaca a importância de agência educativa, dando diretrizes e punindo severamente, mas justamente, organizações que não tratam adequadamente dados pessoais.",
       "speaker": {
         "name": "Jackeline Neves de Almeida",
-        "position": "DATASUS"
+        "position": "DATASUS",
+        "slug": "jackeline-neves-de-almeida"
       }
     },
     {
@@ -369,7 +400,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     },
     {
@@ -381,7 +413,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -393,7 +426,8 @@
       "speaker": {
         "id": 205550,
         "name": "Jorge Braz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-braz"
       }
     }
   ],

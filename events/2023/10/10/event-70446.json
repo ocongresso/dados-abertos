@@ -14,7 +14,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Destaco a presença do coronel Ulisses, vicepresidente da Frente Parlamentar, bem como do sargento Faur, fundador da Frente Parlamentar na legislatura anterior e atual membro da Frente no qual eu peço uma salva os palmas. Convido o coronel Ulisses, vicepresidente da frente para fazer uso da palavra.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -45,7 +48,8 @@
       "summary": "Mestre de Cerimônias reconhece deputados federais e forças armadas presentes. Agradece aos que possibilitaram o evento e anuncia início da reinstalação da Frente e do 1º Fórum Parlamentar de Segurança Privada, com exibição de vídeo institucional.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -56,7 +60,8 @@
       "summary": "Profissionais de segurança privada tem rotina metódica, atuam em vários segmentos, protegem e se dedicam à segurança pública. Agora, contam com apoio parlamentar para defesa e valorização.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -66,7 +71,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -77,7 +83,8 @@
       "summary": "Mestre de Cerimônias agradece a Deus e destaca importância de segurança pública e privada. Cita presença de autoridades e participantes do Congreso. Exorta a valorizar profissionais de segurança e pede a proteção de Deus sobre eles. Menciona sua origem carioca e parentesco com deputado federal. Deseja sucesso ao evento e abençoa aos participantes.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -89,7 +96,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -100,7 +108,8 @@
       "summary": "Bom dia. Mestre de Cerimônias agradece presença e anuncia reinstalação da frente parlamentar de segurança pública e início do primeiro fórum parlamentar de segurança privada, destacando papel da segurança privada e necessidade de legislação atualizada. Convida deputados, oficiais e representantes das empresas e trabalhadores do setor à mesa. Anuncia toque de ouro do hino nacional.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -112,7 +121,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -124,7 +134,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -134,7 +145,8 @@
       "transcription": "",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -145,7 +157,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -156,7 +169,8 @@
       "summary": "Mestre de Cerimônias destaca présence do coronel Ulisses e do sargento Faur, solicita aplausos para o sargento e cede a palavra ao coronel Ulisses.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -168,7 +182,8 @@
       "speaker": {
         "id": 220590,
         "name": "Coronel Ulysses",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-ulysses"
       }
     },
     {
@@ -179,7 +194,8 @@
       "summary": "Mestre de Cerimônias convida coordenador geral da frente, deputado federal Fraga, para falar.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -191,7 +207,8 @@
       "speaker": {
         "id": 73579,
         "name": "Alberto Fraga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alberto-fraga"
       }
     },
     {
@@ -202,7 +219,8 @@
       "summary": "Mestre de Cerimônias convida deputado federal Roberto Monteiro Pai para falar.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -214,7 +232,8 @@
       "speaker": {
         "id": 220613,
         "name": "Roberto Monteiro Pai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro-pai"
       }
     },
     {
@@ -224,7 +243,8 @@
       "transcription": "",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -236,7 +256,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -246,7 +267,8 @@
       "transcription": "Convido para fazer uso da palavra deputado federal, coronel Assis. Senhor presidente dessa.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -258,7 +280,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -268,7 +291,8 @@
       "transcription": "Convidoo pra fazer uso da palavra o delegado da Cunha. Bom bom dia a todos os",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -280,7 +304,8 @@
       "speaker": {
         "id": 220649,
         "name": "Delegado da Cunha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-da-cunha"
       }
     },
     {
@@ -291,7 +316,8 @@
       "summary": "Mestre de Cerimônias apresenta deputados federais: Sargento Gonçalves, Cabo Gilberto, Giovanna Federal e chama Marcelo Lima para falar.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -303,7 +329,8 @@
       "speaker": {
         "id": 220634,
         "name": "Marcelo Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-lima"
       }
     },
     {
@@ -314,7 +341,8 @@
       "summary": "Mestre de Cerimônias convida deputado federal Cabo Gilberto para falar; ele sauda todos.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -326,7 +354,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -336,7 +365,8 @@
       "transcription": "",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -348,7 +378,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -359,7 +390,8 @@
       "summary": "Mestre de Cerimônias entregou diploma de membro da frente a capitão Telhado, coordenador da frente em São Paulo.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -370,7 +402,8 @@
       "summary": "Deputado Estadual agradece convite, participa como coordenador estadual de frente parlamentar que valoriza agente de segurança pública e privada; destaca pressão e crise de autoridade que eles enfrentam; propõe medidas para melhorar regulamentação e reconhecimento da carreira deles, incluindo crime federal por ataques a carros blindados e segurança privada em escolas.",
       "speaker": {
         "name": "Capitão Telhada",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "capitao-telhada"
       }
     },
     {
@@ -380,7 +413,8 @@
       "transcription": "Convido pra fazer uso da palavra o deputado federal sargento Gonçalves. Bom dia a todos, peço",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -392,7 +426,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -403,7 +438,8 @@
       "summary": "Mestre de Cerimônias convida a todos a assistir vídeo da FenaVist sobre o evento.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -414,7 +450,8 @@
       "summary": "Federação Nacional de Empresas de Segurança e Transporte de Valores, fundada em 1989, representa 2.500 empresas, 500 mil trabalhadores e contribui para a segurança de 200 milhões de brasileiros. Unida a sindicatos, fortalece segmento por meio de projetos, ações, consultorias e defesa de segurança sem preconceito, objetivando crescimento sustentável do mercado.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -424,7 +461,8 @@
       "transcription": "Neste sentido, convido.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -435,7 +473,8 @@
       "summary": "Mestre de Cerimônias apresenta vice-presidente da Fenaviche, Fábio Sandrini Batista. Boa tarde a todos, especialmente ao presidente da frente parlamentar, coronel e senhores deputados.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -446,7 +485,8 @@
       "summary": "Vice-presidente da FENAVIST discute setor de segurança privada, com 500 mil vigilantes no Brasil. Reconhece parcerias e riscos diários dos vigilantes. Solicita atualização da lei regulamentadora de 1983 e aprovação do novo Estatuto da Segurança Privada no Senado, para previnir perdas de empregos e regularizar clandestinos.",
       "speaker": {
         "name": "Flávio Sandrini Baptista",
-        "position": "Vice-Presidente Nacional da FENAVIST"
+        "position": "Vice-Presidente Nacional da FENAVIST",
+        "slug": "flavio-sandrini-baptista"
       }
     },
     {
@@ -456,7 +496,8 @@
       "transcription": "",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -467,7 +508,8 @@
       "summary": "Vice-Presidente Nacional da FENAVIST propõe nova lei para combate a empresas de segurança clandestinas e regulação de segurança eletrônica. Essa lei criminaliza serviços sem autorização, com penalidades de prisão e multas, visando encerrar concorrência predatória e recolher tributos. Além disso, a lei garante maior controle e fiscalização pela Polícia Federal, ampliando segurança jurídica e gerando mais empregos no setor.",
       "speaker": {
         "name": "Flávio Sandrini Baptista",
-        "position": "Vice-Presidente Nacional da FENAVIST"
+        "position": "Vice-Presidente Nacional da FENAVIST",
+        "slug": "flavio-sandrini-baptista"
       }
     },
     {
@@ -478,7 +520,8 @@
       "summary": "Mestre de Cerimônias convida vice-presidente financeiro da Confederação Nacional dos Trabalhadores de Segurança Privada com TRASP, José de Souza Lima, a falar. Dia bom, coronel. Libertado, agora legal.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -489,7 +532,8 @@
       "summary": "Vice-presidente da CONTRASP parabenizou iniciativa, felicitou sobre data maravilhosa e desejou muitos anos de vida. Elogiou fala dos deputados e expressou gratidão. Discutiu tópicos relevantes para segurança privada, com foco em regulamentação e criação de empregos formais. Mencionou projeto de aposentadoria especial, porte de arma e valorização do trabalhador vigilante. Pediu apoio para aprovar projetos e reformas na categoria.",
       "speaker": {
         "name": "José de Souza Lima",
-        "position": "Vice-Presidente da CONTRASP"
+        "position": "Vice-Presidente da CONTRASP",
+        "slug": "jose-de-souza-lima"
       }
     },
     {
@@ -500,7 +544,8 @@
       "summary": "Mestre de Cerimônias agradece a presença de Rubem Santana e deputado federal Paulo Fernando, anuncia fim do evento e cede palavra ao coronel Telhada para encerramento. Paulo Fernando está licenciado.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -512,7 +557,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -523,7 +569,8 @@
       "summary": "Participante incentiva público e agradece presente; menciona seu mandato como deputado, interesse em segurança privada, homenageia ex-colega Enéas Carneiro com foco em soberania nacional e segurança.",
       "speaker": {
         "name": "Prof. Paulo Fernando",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -535,7 +582,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -547,7 +595,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -558,7 +607,8 @@
       "summary": "Mestre de Cerimônias fala a favor da Guarda/Polícia Municipal, elogia unidade deles, promete trabalhar em seu benefício, incentiva participação, destaca importância de suas demandas e deseja boa tarde. Resumido: Elogia Guarda/Polícia Municipal, promete benefícios e boa tarde.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -570,7 +620,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -581,7 +632,8 @@
       "summary": "Mestre de Cerimônias anunciou a presença da deputada federal Rosângela Reis e cedeu a palavra ao deputado federal, coronel Telhada, para fechar a instalação da frente parlamentar.",
       "speaker": {
         "name": "Gustavo Groszewicz Brito",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gustavo-groszewicz-brito"
       }
     },
     {
@@ -593,7 +645,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -605,7 +658,8 @@
       "speaker": {
         "id": 220620,
         "name": "Rosângela Reis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-reis"
       }
     },
     {
@@ -617,7 +671,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -629,7 +684,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -640,7 +696,8 @@
       "summary": "Início de trabalhos em evento sobre Polícia Municipal, pedido para fotógrafos e videografos pararem, solicitação para que os presentes se sentem e desocupem corredores, menciona suporte de autoridades e início dos trabalhos do evento do Dia Nacional das Guardas Municipais.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Coronel Telhada -- por Participante -- Jones Moura",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-coronel-telhada-por-participante-jones-moura"
       }
     },
     {
@@ -651,7 +708,8 @@
       "summary": "Mestre de Ceremônia anunciou o dia de comemoração às guardas municipais do Brasil, com representantes de diferentes regiões e a fala ao presidente da mesa, deputado Jones Moura do Rio de Janeiro.",
       "speaker": {
         "name": "Rejane Soldani",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rejane-soldani"
       }
     },
     {
@@ -663,7 +721,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -675,7 +734,8 @@
       "speaker": {
         "id": 116379,
         "name": "Darci De Matos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "darci-de-matos"
       }
     },
     {
@@ -687,7 +747,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -699,7 +760,8 @@
       "speaker": {
         "id": 220565,
         "name": "Delegada Adriana Accorsi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-adriana-accorsi"
       }
     },
     {
@@ -711,7 +773,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -723,7 +786,8 @@
       "speaker": {
         "id": 220565,
         "name": "Delegada Adriana Accorsi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-adriana-accorsi"
       }
     },
     {
@@ -735,7 +799,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -747,7 +812,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -759,7 +825,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -771,7 +838,8 @@
       "speaker": {
         "id": 220618,
         "name": "Sargento Portugal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-portugal"
       }
     },
     {
@@ -782,7 +850,8 @@
       "summary": "Guarda Civil Municipal disse obrigado por apoio na rede social durante discussão do projeto de lei; mencionou insegurança jurídica e necessidade de mudar para mostrar frutos do trabalho diuturno, independente da cor da farda.",
       "speaker": {
         "name": "Maicon Viana",
-        "position": "Guarda Civil Municipal"
+        "position": "Guarda Civil Municipal",
+        "slug": "maicon-viana"
       }
     },
     {
@@ -794,7 +863,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -806,7 +876,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -818,7 +889,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -829,7 +901,8 @@
       "summary": "Presidente da FENAGUARDAS agradeceu por suporte de 22 sindicatos em logística, destaque para Ministério da Justiça investindo em guardas municipais. Lutaram 35 anos para acabar buraco jurídico, agora precisam unir esforços com parlamentares, governo e STJ/STF. Pediu apoio em votação de parlamentares e vereadores. Espera superar limbo jurídico que afeta guardas municipais, agradeceu participantes e desejou boa sorte na luta.",
       "speaker": {
         "name": "Luiz Vecchi",
-        "position": "Presidente da FENAGUARDAS"
+        "position": "Presidente da FENAGUARDAS",
+        "slug": "luiz-vecchi"
       }
     },
     {
@@ -841,7 +914,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -853,7 +927,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -865,7 +940,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -876,7 +952,8 @@
       "summary": "Governo Lula prioriza fortalecer guardas municipais; propõe mudanças constitucionais e legislativas para reforçá-las, destacando seu valor na segurança pública. Ministro Flávio Dino quer esclarecer posição da Guarda Municipal com o STJ.",
       "speaker": {
         "name": "Elias Vaz",
-        "position": "Secretário Nacional  de Assuntos Legislativos do Ministério da Justiça e Segurança Pública"
+        "position": "Secretário Nacional  de Assuntos Legislativos do Ministério da Justiça e Segurança Pública",
+        "slug": "elias-vaz"
       }
     },
     {
@@ -887,7 +964,8 @@
       "summary": "Presidente da FENAGUARDAS agradece Ministério da Justiça, entrega camisa simbolizando luta dos guardas municipais de todo Brasil, valorizar guardas é necessário.",
       "speaker": {
         "name": "Luiz Vecchi",
-        "position": "Presidente da FENAGUARDAS"
+        "position": "Presidente da FENAGUARDAS",
+        "slug": "luiz-vecchi"
       }
     },
     {
@@ -899,7 +977,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -911,7 +990,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -923,7 +1003,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -935,7 +1016,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -947,7 +1029,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -959,7 +1042,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -971,7 +1055,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -983,7 +1068,8 @@
       "speaker": {
         "id": 178881,
         "name": "Aluisio Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aluisio-mendes"
       }
     },
     {
@@ -995,7 +1081,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -1007,7 +1094,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -1019,7 +1107,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -1030,7 +1119,8 @@
       "summary": "Presidente da FENAGUARDAS encouraja e louva comandantes e secretários de guardas municipais, destaca importância deles e reconhece mulher negra que alcançou posição de destaque.",
       "speaker": {
         "name": "Luiz Vecchi",
-        "position": "Presidente da FENAGUARDAS"
+        "position": "Presidente da FENAGUARDAS",
+        "slug": "luiz-vecchi"
       }
     },
     {
@@ -1042,7 +1132,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -1054,7 +1145,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -1066,7 +1158,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -1077,7 +1170,8 @@
       "speaker": {
         "id": 220612,
         "name": "Bebeto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bebeto"
       }
     },
     {
@@ -1089,7 +1183,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     },
     {
@@ -1100,7 +1195,8 @@
       "summary": "Mestre de Cerimônias agradece aos presentes por sua luta justa e incansável. Ela homenageia vários dirigentes sindicais e convida todos a continuar lutando pela PEC da Polícia Municipal, aproveitando os encontros com deputados e entregando folders explicativos sobre a proposta. Cerimônia encerra com agradecimento aos participantes.",
       "speaker": {
         "name": "Rejane Soldani",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "rejane-soldani"
       }
     },
     {
@@ -1112,7 +1208,8 @@
       "speaker": {
         "id": 217480,
         "name": "Jones Moura",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jones-moura"
       }
     }
   ],

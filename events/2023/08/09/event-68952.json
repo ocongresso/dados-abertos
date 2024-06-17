@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Procurador de Justiça do MP de Goiás: trabalhou 30 anos no MP de Goiás, fiscalizou sistemas prisionais em Goiás e Santiago, Chile, construiu quatro novos presídios em 2019, alocou criminosos em presídios de segurança máxima e faccionados em outros três presídios, resultando em baixos índices de criminalidade e facilidade na promoção de políticas de ressocialização.",
       "speaker": {
         "name": "FERNANDO AURVALLE KREBS",
-        "position": "Procurador de Justiça - Ministério Público do Estado de Goiás"
+        "position": "Procurador de Justiça - Ministério Público do Estado de Goiás",
+        "slug": "fernando-aurvalle-krebs"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -148,7 +159,8 @@
       "summary": "Diretor-Geral de Administração Penitenciária agradece proposta de comemorar Polícia Penal nacionalmente. Em Goiás, enenda constitucional criou Polícia Penal, melhorando sistema penitenciário e segurança pública. Atualmente, mais de 1900 policiais penais efetivos em Goiás. Sistema penitenciário reduziu crimes internos e melhorou segurança pública, com menor número de homicídios e roubos. Polícia penal é solução para controle de crime organizado no Brasil.",
       "speaker": {
         "name": "JOSIMAR PIRES NICOLAU DO NASCIMENTO",
-        "position": "Diretor-Geral de Administração Penitenciária - Polícia Penal do Estado de Goiás"
+        "position": "Diretor-Geral de Administração Penitenciária - Polícia Penal do Estado de Goiás",
+        "slug": "josimar-pires-nicolau-do-nascimento"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -196,7 +211,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -208,7 +224,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -220,7 +237,8 @@
       "speaker": {
         "id": 220526,
         "name": "Gilvan da Federal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilvan-da-federal"
       }
     },
     {
@@ -232,7 +250,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -243,7 +262,8 @@
       "summary": "Vice-Presidente da FENASPPEN discutiu privatização sistema prisional e polícia penal; elogiou policias penais por reduzir criminalidade em Goiás; mencionou aumento inscrições concursos policiais, policias penais com alta qualificação acadêmica. Sugestão de reconhecimento nacional dia do policial penal em 4 de dezembro.",
       "speaker": {
         "name": "MAXSUEL MIRANDA DAS NEVES",
-        "position": "Vice-Presidente - Federação Nacional dos Servidores da Polícia Penal - FENASPPEN"
+        "position": "Vice-Presidente - Federação Nacional dos Servidores da Polícia Penal - FENASPPEN",
+        "slug": "maxsuel-miranda-das-neves"
       }
     },
     {
@@ -255,7 +275,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -265,7 +286,8 @@
       "transcription": "Ser rodado durante a minha fala eu peço que que seja rodado agora. Pois não.",
       "speaker": {
         "name": "MAXSUEL MIRANDA DAS NEVES",
-        "position": "Vice-Presidente - Federação Nacional dos Servidores da Polícia Penal - FENASPPEN"
+        "position": "Vice-Presidente - Federação Nacional dos Servidores da Polícia Penal - FENASPPEN",
+        "slug": "maxsuel-miranda-das-neves"
       }
     },
     {
@@ -277,7 +299,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -288,7 +311,8 @@
       "summary": "Polícia penitenciária: manteve lei durante crise em 2017; dedicada à ordem e paz social, combatendo crime organizado.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -298,7 +322,8 @@
       "transcription": "Mais uma vez,",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -309,7 +334,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -320,7 +346,8 @@
       "summary": "Presidente da Federação Nacional Sindical dos Servidores Penitenciários (Fenaspen) agradece deputados e parabeniza polícia penal por autonomia administrativa em vários estados e reconhecimento no Brasil. Suporta lei nacional do policial penal e louva desempenho de policiais. Espera lei para policiais penais federais.",
       "speaker": {
         "name": "Fernando Anunciação",
-        "position": "Presidente da Federação Nacional Sindical dos Servidores Penitenciários (Fenaspen)"
+        "position": "Presidente da Federação Nacional Sindical dos Servidores Penitenciários (Fenaspen)",
+        "slug": "fernando-anunciacao"
       }
     },
     {
@@ -332,7 +359,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -344,7 +372,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -356,7 +385,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -368,7 +398,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -380,7 +411,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -392,7 +424,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -404,7 +437,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -415,7 +449,8 @@
       "summary": "Agente de Segurança Prisional - Secretaria de Estado da Segurança Pública de Goiás falou sobre o uso de tecnologia na proteção de vítimas de violência doméstica, redução de crimes graças ao controle do sistema carcerário, importância da integração entre forças de segurança e pedido de regulamentação a nível nacional.",
       "speaker": {
         "name": "REGISMAR FRANCISCO DE SOUZA",
-        "position": "Agente de Segurança Prisional - Secretaria de Estado da Segurança Pública de Goiás"
+        "position": "Agente de Segurança Prisional - Secretaria de Estado da Segurança Pública de Goiás",
+        "slug": "regismar-francisco-de-souza"
       }
     },
     {
@@ -427,7 +462,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -438,7 +474,8 @@
       "summary": "Diretor do Sistema Penitenciário Federal-SENAPPEN apoia Dia do Policial Penal, reconhecendo complexidade e diversidade de atividades, incluindo custódia, benefícios processuais, gerenciamento de crise, políticas públicas e corregedoria. Promove capacitação e excelência de profissionais, e apoia regulamentação da Polícia Penal Federal.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -449,7 +486,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -459,7 +497,8 @@
       "transcription": "Do Brasil, Paraná, Mato Grosso do Sul,",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -470,7 +509,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -480,7 +520,8 @@
       "transcription": "Nascido em Santa Catarina, mas já morei em Porto Velho Simone, eu queria fazer uma relação aqui com",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -492,7 +533,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -502,7 +544,8 @@
       "transcription": "São de Frederico Westphalen, no Rio Grande do Sul e eu sou nascido em Palmasola, Santa Catarina.",
       "speaker": {
         "name": "Marcelo Stona",
-        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN"
+        "position": "Diretor do Sistema Penitenciário Federal - Secretaria Nacional de Políticas Penais - SENAPPEN",
+        "slug": "marcelo-stona"
       }
     },
     {
@@ -514,7 +557,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -525,7 +569,8 @@
       "summary": "Policial Penal Federal destaca em execução penal, busca regulamentação há três anos, atribui sucesso a servidores ameaçados por detentos e poder financeiro deles. Pedidos: regulamentação, cargos, convocação de excedentes. Exorta estados a regulamentar polícias com valorização e capacitação até 2023. Sistema penitenciário federal necessita de regulamentação digna e valorização de servidores.",
       "speaker": {
         "name": "Gilvan Albuquerque",
-        "position": "Policial Penal Federal"
+        "position": "Policial Penal Federal",
+        "slug": "gilvan-albuquerque"
       }
     },
     {
@@ -537,7 +582,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -548,7 +594,8 @@
       "summary": "Nova polícia da união: Polícia Penal Federal. Vitória após luta por reconhecimento e estruturação. Polícia forte com profissionais qualificados, servindo à segurança pública. Parabéns à todos os policiais penais federais do Brasil.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -558,7 +605,8 @@
       "transcription": "A todos os policiais penais federais.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -570,7 +618,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -582,7 +631,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -594,7 +644,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -606,7 +657,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -618,7 +670,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -630,7 +683,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -41,7 +43,8 @@
       "summary": "\"Uzai vota unindo forças com deputados Rafael Simões e Benez Leocádio. Coronel Assis também vota.\"",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Passo a palavra ao senhor presidente em exercício. Encerrada a votação, vamos iniciar",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -96,7 +103,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marussa Boldrin -- por Participante -- Ana Paula Leão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marussa-boldrin-por-participante-ana-paula-leao"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204426,
         "name": "Carlos Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-veras"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -235,7 +254,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 160535,
         "name": "Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcon"
       }
     },
     {
@@ -269,7 +291,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -281,7 +304,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -316,7 +342,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -328,7 +355,8 @@
       "speaker": {
         "id": 109429,
         "name": "Benes Leocádio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "benes-leocadio"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     }
   ],

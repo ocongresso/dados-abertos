@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Ação de Defesa Civil para ajuda em desastres; melhoria da infraestrutura de transporte e produção; e desenvolvimento de infraestrutura hídrica, incluindo abastecimento de água em regiões remotas.",
       "speaker": {
         "name": "Thiago",
-        "position": "Consultor da CD"
+        "position": "Consultor da CD",
+        "slug": "thiago"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     }
   ],

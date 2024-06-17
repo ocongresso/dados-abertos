@@ -13,7 +13,8 @@
       "summary": "Início do lançamento da Frencomex por sua diretora de assuntos legislativos; apresentação da agenda legislativa bianual com projetos de lei sobre comércio internacional, divididos em seis coordenações, e convite a parlamentares, autoridades e sociedade civil a engajarem-se no debate e tratarem assuntos com o IBCI; registro de presença de autoridades e convite ao presidente da Francomex e do deputado da Vitória a fazerem uso de palavra.",
       "speaker": {
         "name": "GABRIELA SANTANA",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gabriela-santana"
       }
     },
     {
@@ -25,7 +26,8 @@
       "speaker": {
         "id": 204355,
         "name": "Da Vitoria",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "da-vitoria"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": "Início do lançamento da Frente Parlamentar Mista de Comércio Internacional e Investimento (Frencomex), apresentando agenda legislativa com projetos selecionados de acordo com temas monitorados, coordenações temáticas e convite ao debate sobre comércio internacional e investimento. Participantes do setor público e privado presentes. O presidente da Frencomex e o coordenador de interlocução com outros países falarão.",
       "speaker": {
         "name": "GABRIELA SANTANA",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "gabriela-santana"
       }
     }
   ],

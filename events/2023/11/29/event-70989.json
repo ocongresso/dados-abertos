@@ -13,7 +13,8 @@
       "summary": "Boa tarde a todos. Mestre de Cerimônia anuncia o lançamento da Frente Parlamentar em Defesa da Soberania Nacional, transmitido ao vivo. Presentes: deputado Patrus Ananias, ministra interina Fernanda Maquiavelli, deputada estadual Leninha, deputado Tadeu Veneri. Todos são convidados a se levantar para o hino nacional.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "summary": "Reunião com autoridades e representantes de movimentos; agradecimentos e apresentações; lançamento da frente parlamentar em defesa da soberania nacional; participantes discursarão.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -45,7 +48,8 @@
       "speaker": {
         "id": 74160,
         "name": "Patrus Ananias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "patrus-ananias"
       }
     },
     {
@@ -56,7 +60,8 @@
       "summary": "Mestre de Cerimônia anuncia recado do senador Requião, que está doente e envia saudações por não poder comparecer. Dá boas-vindas a políticos e diretores presentes e menciona entidades sindicais e associativas.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -67,7 +72,8 @@
       "speaker": {
         "id": 74160,
         "name": "Patrus Ananias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "patrus-ananias"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 74848,
         "name": "Jandira Feghali",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": "Mestre de Cerimônia apresenta autoridades e convidados, incluindo deputados, representantes de movimentos e sindicatos, ministros e assessores. Anuncia discurso de lançamento pelo deputado Patrus Ananias e ocorrerão breves manifestações por integrantes da mesa e deputados presentes.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 204501,
         "name": "Alencar Santana",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alencar-santana"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": "Boa tarde a todos. Lançamento da Frente Parlamentar em Defesa da Soberania Nacional, transmitido online. Mestre de cerimônia convidou autoridades para a mesa e pediu para os presentes se levantarem para hino nacional.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -135,7 +146,8 @@
       "transcription": "Distrito Federal Érica Cokai. Começo,",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -158,7 +171,8 @@
       "summary": "Mestre de Cerimônia convidou deputado federal Lindberg Farias e saudou a plateia com entusiasmo, expressando simpatia e inclusão.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -181,7 +196,8 @@
       "summary": "Mestre de Cerimônia anuncia ministra interina do desenvolvimento agrário e agricultura familiar, Fernanda Maquiavelli, para falar.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -192,7 +208,8 @@
       "summary": "Ministra Interina do Desenvolvimento Agrário e Agricultura Familiar elogiou patrimônio de políticas públicas, destaque para programa de aquisição de alimentos e estatais. Mencionou trabalho em reforma agrária, garantia de soberania alimentar e acesso a recursos naturais, sob liderança do deputado Patos Ananias. Reconhece importância de funcionários públicos e estatais no avanço das metas.",
       "speaker": {
         "name": "FERNANDA MACHIAVELLI",
-        "position": "Ministra Interina do Desenvolvimento Agrário e Agricultura Familiar."
+        "position": "Ministra Interina do Desenvolvimento Agrário e Agricultura Familiar.",
+        "slug": "fernanda-machiavelli"
       }
     },
     {
@@ -203,7 +220,8 @@
       "summary": "Mestre de Cerimônia convidou Kate, representante da comissão de anistia de funcionários públicos federais, a falar. Kate, boa noite a todos, tem três minutos.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -214,7 +232,8 @@
       "summary": "Representante da Comissão de Anistia pede priorizar reintegração de funcionários estatais demitidos, garantindo sua segurança no trabalho e promovendo a soberania nacional por meio deles. Exige imediatamente projeto de lei para trazer de volta funcionários demitidos da Petrobras Distribuidora, Eletrobras, Nuclep, Casa da Moeda, Dataprev, CBTU e outras empresas estatais, pois eles representam e garantem a soberania nacional.",
       "speaker": {
         "name": "KAYTE",
-        "position": "Representante da Comissão de Anistia"
+        "position": "Representante da Comissão de Anistia",
+        "slug": "kayte"
       }
     },
     {
@@ -224,7 +243,8 @@
       "transcription": "Agora a gente já tinha te saudade, você tinha saído Glauber por favor deputado, use da palavra.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -236,7 +256,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -247,7 +268,8 @@
       "summary": "Mestre de Cerimônia saudou participantes e movimentos sociais, mencionou presença de Nailor Nailor Gato, Conselho Nacional do Eletricitário e Advogados da Eletrobras.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -258,7 +280,8 @@
       "summary": "Representante da NUCLEP trabalha na empresa há 20 anos, sobreviveu à tentativa de privatização graças à resistência dos empregados e agradece o governo Lula por retirá-la da privatização, elogiando a frente parlamentar por reconhecer sua contribuição à soberania nacional.",
       "speaker": {
         "name": "GLAUCIELE",
-        "position": "Representante da NUCLEP"
+        "position": "Representante da NUCLEP",
+        "slug": "glauciele"
       }
     },
     {
@@ -269,7 +292,8 @@
       "summary": "Mestre de Cerimônia apresentou orador e saudou participantes, incluindo representantes das empresas e movimentos sociais.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -280,7 +304,8 @@
       "summary": "Associação dos Advogados Eletrobrás: Lula deve atuar na reestatização de Eletrobras, crime de lesa pátria é não reconhecê-lo. Precisamos da sua ajuda para audiência com Lula, rejeitamos centrão e apoiamos soberania nacional.",
       "speaker": {
         "name": "ADEMAR ARRAIS",
-        "position": "Associação dos Advogados Eletrobrás"
+        "position": "Associação dos Advogados Eletrobrás",
+        "slug": "ademar-arrais"
       }
     },
     {
@@ -290,7 +315,8 @@
       "transcription": "Albanowski. Presidente dos urbanitários do Amazonas. Logo",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -301,7 +327,8 @@
       "summary": "Representante dos Urbanitários do Estado do Amazonas: união de trabalhadores para defender patrimônio público, recuperar Eletrobras e garantir soberania nacional, especial atenção à Eletrobras e outras estatais penalizadas.",
       "speaker": {
         "name": "HILTON ALBUQUERQUE",
-        "position": "Representante dos Urbanitários do Estado do Amazonas"
+        "position": "Representante dos Urbanitários do Estado do Amazonas",
+        "slug": "hilton-albuquerque"
       }
     },
     {
@@ -311,7 +338,8 @@
       "transcription": "Nacional dos trabalhadores na proteção do voo no voo. Boa noite a todos companheiros.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -322,7 +350,8 @@
       "summary": "Hoje, Sindicato dos Trabalhadores na Proteção do Voo celebra resistência de anos contra governo insatisfatório, honrando profissionais capacitados e sua luta por valorização, plano de saúde justo e soberania do espaço aéreo. Unidos com outros trabalhadores de empresas estatais em defesa da soberania nacional.",
       "speaker": {
         "name": "ROGÉRIO VARELA",
-        "position": "Sindicato dos Trabalhadores na Proteção do Voo"
+        "position": "Sindicato dos Trabalhadores na Proteção do Voo",
+        "slug": "rogerio-varela"
       }
     },
     {
@@ -332,7 +361,8 @@
       "transcription": "Sindicato Nacional dos Moedeiros Casa da Moeda Roni Oliveira. Boa tarde, boa noite.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     },
     {
@@ -343,7 +373,8 @@
       "summary": "Representante do Sindicato dos Trabalhadores da Casa da Moeda destaca importância de defender empresas estatais para promover soberania nacional e desenvolvimento social, utilizando serviços públicos de qualidade e atendendo às necessidades do povo brasileiro, incluindo o exemplo dos Correios e a produção de documentos oficiais. Compromisso de apoio à Frente Parlamentar em defesa dessas causas.",
       "speaker": {
         "name": "RONE OLIVEIRA",
-        "position": "Representante do Sindicato dos Trabalhadores da Casa da Moeda."
+        "position": "Representante do Sindicato dos Trabalhadores da Casa da Moeda.",
+        "slug": "rone-oliveira"
       }
     },
     {
@@ -354,7 +385,8 @@
       "summary": "Mestre de Cerimônia anunciou frente parlamentar pela soberania nacional, encerrando com pedido para foto com deputado.",
       "speaker": {
         "name": "PAULA BANDARRA",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paula-bandarra"
       }
     }
   ],

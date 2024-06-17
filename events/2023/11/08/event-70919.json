@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "Glória a Deus. Por favor tome os acentos, nós temos",
       "speaker": {
         "name": "Início do Hino Oficial Quadrangular",
-        "position": ""
+        "position": "",
+        "slug": "inicio-do-hino-oficial-quadrangular"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim do Hino Oficial Quadrangular",
-        "position": ""
+        "position": "",
+        "slug": "fim-do-hino-oficial-quadrangular"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Igreja Quadrangular fundada há 100 anos; início no Angelos Temple em 1923 com milhares se convertendo em poucos meses. No Brasil desde 1946, com crescimento graças às campanhas em tendas e fortes lideranças. Hoje, está presente em 156 países, com 100 mil igrejas e milhões de fiéis. No Brasil, 18 mil igrejas e crescimento contínuo. O presidente atual, Mário de Oliveira, é evangélista desde os 19 anos e lidera a igreja desde 1996, com foco em educação, saúde e evangelização.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -103,7 +111,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -126,7 +136,8 @@
       "summary": "Deputado feliz por representar Igreja Evangelho Quadrangular no Congresso, mencionando sua história e participação atual, além de pedir oração para representação do Reino de Deus.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": "Proponente Jefferson Campos cede lugar a participante Messias Donato.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Jefferson Campos -- por Participante -- Messias Donato",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jefferson-campos-por-participante-messias-donato"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 204456,
         "name": "Gutemberg Reis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gutemberg-reis"
       }
     },
     {
@@ -233,7 +252,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -244,7 +264,8 @@
       "summary": "Senador no período de 2",
       "speaker": {
         "name": "GUARACY SILVEIRA",
-        "position": "Senador no período de 2018 /2019"
+        "position": "Senador no período de 2018 /2019",
+        "slug": "guaracy-silveira"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 220610,
         "name": "Dr. Fernando Máximo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-fernando-maximo"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": "Deputado Federal no período de 2",
       "speaker": {
         "name": "PAULO BENGTSON",
-        "position": "Deputado Federal no período de 2019/2023"
+        "position": "Deputado Federal no período de 2019/2023",
+        "slug": "paulo-bengtson"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -312,7 +338,8 @@
       "transcription": "Senhor Presidente, Simone",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Messias Donato -- por Participante -- Stefano Aguiar",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-messias-donato-por-participante-stefano-aguiar"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 160601,
         "name": "Pr. Marco Feliciano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pr-marco-feliciano"
       }
     },
     {
@@ -334,7 +362,8 @@
       "transcription": "Agora pela liderança do União deputada Yandra Moura. Bom dia a todos.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -346,7 +375,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -357,7 +387,8 @@
       "summary": "Discurso do Deputado: \"Fale na tribuna à direita, um minuto a deputada Antônio Lúcia do Acre.\"",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -369,7 +400,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -380,7 +412,8 @@
       "summary": "Deputado convida alunos do Colégio Quadrangular Laia Napoli e deputados Corrêa de Goiás e Antônio de Paula à tribuna.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -404,7 +438,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -415,7 +450,8 @@
       "summary": "Deputado convida líderes republicanos à tribuna e agradece colegas.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -427,7 +463,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -438,7 +475,8 @@
       "summary": "Deputado registra presença de muitos vereadores e pastores, incluindo vereador pastor Itamar de Contagem, e convida pastora Bianca de Oliveira à tribuna.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -449,7 +487,8 @@
       "summary": "Mulheres Quadrangular saudadas; gratidão à igreja por permitir encontro familiar e espiritual há 50 anos. Igreja fundada por mulher, abrangendo muitos homens e mulheres, continuando obra de restituição familiar. Igreja é porta de salvação, batismo com Espírito Santo, cura divina e esperança no retorno de Jesus.",
       "speaker": {
         "name": "BIANCA DE OLIVEIRA",
-        "position": "Pastora e Coordenadora Nacional de Mulheres Quadrangular"
+        "position": "Pastora e Coordenadora Nacional de Mulheres Quadrangular",
+        "slug": "bianca-de-oliveira"
       }
     },
     {
@@ -460,7 +499,8 @@
       "summary": "Deputado convida pastor Zidoro da Bahia à tribuna para defender projeto sobre Bíblia Sagrada. Referencia sua presença no Senado e seu histórico como deputado federal, constituinte, e presidente nacional do Conselho Nacional de Diretores.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -471,7 +511,8 @@
       "summary": "Conheço igreja 62 anos, transformação espiritual e social; pré-conversão valorização na rua diferente da igreja; presidir igreja vitoriosa é responsabilidade, não vaidade; agradece presença de todos em comemoração nacional, reconhecimento atuação em sociedade.",
       "speaker": {
         "name": "MARIO DE OLIVEIRA",
-        "position": "Pastor e Presidente Nacional da Igreja do Evangelho  Quadrangular no Brasil"
+        "position": "Pastor e Presidente Nacional da Igreja do Evangelho  Quadrangular no Brasil",
+        "slug": "mario-de-oliveira"
       }
     },
     {
@@ -482,7 +523,8 @@
       "summary": "Deputado mencionou antes de ceder a presidência a Jefferson Campos, estar acompanhado por sua esposa e pastora Liliane Aguiar.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -492,7 +534,8 @@
       "transcription": "Pois vão deputada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Stefano Aguiar -- por Participante -- Jefferson Campos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-stefano-aguiar-por-participante-jefferson-campos"
       }
     },
     {
@@ -503,7 +546,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -515,7 +559,8 @@
       "speaker": {
         "id": 226410,
         "name": "Márcio Correa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-correa"
       }
     },
     {
@@ -527,7 +572,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -539,7 +585,8 @@
       "speaker": {
         "id": 74356,
         "name": "Silas Câmara",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "silas-camara"
       }
     },
     {
@@ -551,7 +598,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -562,7 +610,8 @@
       "summary": "Cantora representa músicos igreja evangélica, convida a adorar Deus por transformar vidas através dela há 100 anos. Cita Salmo 126 e encoraja a se declarar a grandeza de Deus sobre qualquer dificuldade.",
       "speaker": {
         "name": "SORAYA MORAES",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "soraya-moraes"
       }
     },
     {
@@ -573,7 +622,8 @@
       "summary": "Início de louvor musical, exaltação a Deus e Jesus. Agradecimento à igreja, líderes religiosos e políticos. Reconhecimento de milagres e promessas cumpridas.",
       "speaker": {
         "name": "Início da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-musical"
       }
     },
     {
@@ -583,7 +633,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-apresentacao-musical"
       }
     },
     {
@@ -595,7 +646,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     },
     {
@@ -606,7 +658,8 @@
       "summary": "Deputado ora no Congresso Nacional, reconhecendo autoridade de Deus como rei supremo. Ele expressa gratidão por revelações divinas e pede por oração contínua por país e igreja, esperando o retorno do Filho. Ele celebra a união da \"quadrangular\" no Brasil, agradecendo a presença de homens e mulheres cheios de autoridade e unção. Reza em nome do Pai, do Filho e do Espírito Santo.",
       "speaker": {
         "name": "Stefano Aguiar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "stefano-aguiar"
       }
     },
     {
@@ -618,7 +671,8 @@
       "speaker": {
         "id": 74273,
         "name": "Jefferson Campos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jefferson-campos"
       }
     }
   ],

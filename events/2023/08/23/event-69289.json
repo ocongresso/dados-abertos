@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Presidente da AVTSM e sobrevivente: auto-descreve como homem branco, 28 anos, ex-vítima de incêndio Boate Kiss, atual presidente da associação de vítimas e sobreviventes. Falou sobre a importância da memória, verdade e justiça como sustentáculos do movimento, e destaque a gravidade cruel da impunidade. Mencionou a dimensão da representatividade da associação e a necessidade de responsabilizar ainda os culpados pelo incidente.",
       "speaker": {
         "name": "GABRIEL ROVADOSCHI BARROS",
-        "position": "Presidente da AVTSM e sobrevivente - Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss (AVTSM)"
+        "position": "Presidente da AVTSM e sobrevivente - Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss (AVTSM)",
+        "slug": "gabriel-rovadoschi-barros"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Mãe de vítima expressa dor por filho perdido, exorta luta por justiça e mudança em leis, prevenção em escolas e conscientização na sociedade. Críticas ao poder público e a negligência. Saudade eterna.",
       "speaker": {
         "name": "ÁUREA VIEGAS FLORES",
-        "position": "mãe de vítima"
+        "position": "mãe de vítima",
+        "slug": "aurea-viegas-flores"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Pai de Vítima apoia expedição por voz, expressa solidariedade a outras tragédias, destaca lutas dos familiares, busca justiça cumprimento de leis, agradece suporte às famílias e reconhece os defensores de direitos humanos.",
       "speaker": {
         "name": "Paulo",
-        "position": "Pai de Vítima"
+        "position": "Pai de Vítima",
+        "slug": "paulo"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Jornalista investigou caso da boate Kiss usando entrevistas e levantando detalhes negligenciados, inicialmente hesitante por considerar história contada antes, resultando em livro sobre experiências pessoais das vítimas e famílias.",
       "speaker": {
         "name": "DANIELA ARBEX",
-        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\""
+        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\"",
+        "slug": "daniela-arbex"
       }
     },
     {
@@ -133,7 +143,8 @@
       "summary": "Estudante quer vestido e sapato, têm dificuldade em colocá-los; mãe e filha riram; mãe afirma que cuidar é amar; lembrança tranquilizou Marta; pai de Silvino tem preocupação inesperada; reconhece importância de experimentar realidade e se humanizar.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -143,7 +154,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\" discutem adaptação do livro para TV, priorizando respeito e conscientização. A série, lançada no Brasil e mundialmente pela Netflix, tornou-se a mais assistida com 9 milhões de horas. O sucesso sugere que empatia e compreensão são universais, permeado famílias e indivíduos em todo o mundo, levando-os a se identificar com vítimas e tragédia.",
       "speaker": {
         "name": "DANIELA ARBEX",
-        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\""
+        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\"",
+        "slug": "daniela-arbex"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Luta diária por justiça; história de famílas vítimas; responsabilidade em retratar história real; série inspirada em livro de Daniela; três meses de dor e luta; importância de não esquecer e buscar justiça.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -175,7 +189,8 @@
       "transcription": "Não vou me prolongar, eu queria só deixar uma mensagem, que memória e justiça.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Sem memória, impossível ter justiça e paz.",
       "speaker": {
         "name": "DANIELA ARBEX",
-        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\""
+        "position": "Jornalista e autora do livro \"Boate Kiss Todo Dia a Mesma Noite\"",
+        "slug": "daniela-arbex"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -208,7 +225,8 @@
       "transcription": "Com a palavra.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luizianne Lins -- por Participante -- Luiz Couto",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luizianne-lins-por-participante-luiz-couto"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Jornalista editor do documentário da Globoplay \"Boate Kiss a tragédia de\" mostrou trecho do documentário para reflexão sobre os 10 anos do evento.",
       "speaker": {
         "name": "FÁBIO IBIAPINA",
-        "position": "Jornalista Editor do documentário da Globoplay \"Boate Kiss a tragédia de"
+        "position": "Jornalista Editor do documentário da Globoplay \"Boate Kiss a tragédia de",
+        "slug": "fabio-ibiapina"
       }
     },
     {
@@ -241,7 +261,8 @@
       "transcription": "Com a palavra.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -251,7 +272,8 @@
       "transcription": "Da preservação da memória e de que não se.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -262,7 +284,8 @@
       "summary": "Jornalista editor do documentário \"Boate Kiss a tragédia\" reflete sobre diferença na percepção da dor entre quem sente e quem observa; lamenta esquecimento no tempo e busca despertar empatia com a dor dos pais que enterraram filhos na flor da idade. O documentário surgiu ao cobrir julgamento e mostra complexidade do caso e dor incompreensível. Trabalho foi o último do jornalista na TV Globo e ele expressa solidariedade aos pais e sobreviventes.",
       "speaker": {
         "name": "FÁBIO IBIAPINA",
-        "position": "Jornalista Editor do documentário da Globoplay \"Boate Kiss a tragédia de"
+        "position": "Jornalista Editor do documentário da Globoplay \"Boate Kiss a tragédia de",
+        "slug": "fabio-ibiapina"
       }
     },
     {
@@ -274,7 +297,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -285,7 +309,8 @@
       "summary": "Mãe de vítima fala sobre sua filha que morreu no incêndio da boate Kiss em Santa Maria, celebrando seus 22 anos. Ela pede justiça e responsabilidade de quem deixou a boate abrir sem condições mínimas de segurança. Ela também menciona os sobreviventes e luta por eles e por todas as vítimas, incluindo seu filho Gabriel. Sua vida mudou completamente desde a tragédia e ela acredita que a morte de sua filha e dos outros jovens não deve ser em vão.",
       "speaker": {
         "name": "LIGIANE RIGHI DA SILVA",
-        "position": "Mãe de vítima"
+        "position": "Mãe de vítima",
+        "slug": "ligiane-righi-da-silva"
       }
     },
     {
@@ -296,7 +321,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Mãe de vítima fala sobre filha, Natielein, que trabalhava e saía à noite; espera por ela todos os dias, liga para seu telefone, e sofre em domingos; costumavam fazer panquecas juntas; Natielein morreu em incêndio de boate com onze amigos; motorista sobreviveu, mas se sente culpado; mãe continua viva graças a médicos, remédios e família deixada por Natielein; ora para que não haja mais tragédias parecidas e deseja que netos possam sair e voltar para casa em segurança.",
       "speaker": {
         "name": "MARILENE DOS SANTOS SOARES",
-        "position": "mãe de vítima"
+        "position": "mãe de vítima",
+        "slug": "marilene-dos-santos-soares"
       }
     },
     {
@@ -319,7 +346,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -330,7 +358,8 @@
       "summary": "Superintendente da ABNT prioriza normas técnicas para reduzir mortes por incêndio, aproximadamente 1000 anuais no Brasil. Destaca importância de medidas claras em normas para responsabilizar pessoas e garantir qualidade. No Brasil, 262 mil incêndios por ano exigem produção constante de normas técnicas para gerenciar riscos de infraestrutura e qualidade. Desafios incluem edifícios de madeira altos, jardins verticais, fachadas e fuga térmica em veículos elétricos.",
       "speaker": {
         "name": "ROGÉRIO LIN | Superintendente da Associação Brasileira de Normas Técnicas (ABNT)",
-        "position": "Superintendente da Associação Brasileira de Normas Técnicas (ABNT) - Associação Brasileira de Normas Técnicas (ABNT)"
+        "position": "Superintendente da Associação Brasileira de Normas Técnicas (ABNT) - Associação Brasileira de Normas Técnicas (ABNT)",
+        "slug": "rogerio-lin-superintendente-da-associacao-brasileira-de-normas-tecnicas-abnt"
       }
     },
     {
@@ -342,7 +371,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -353,7 +383,8 @@
       "summary": "Engenheiro e Professor critica individualismo e descaso causando tragédia da boate Kiss, que resultou em impunidade e sofrimento para sobreviventes e famílias. Meios de comunicação negligenciaram consequências. Lei de prevenção contra incêndios no Rio Grande do Sul, originalmente rigorosa, técnica e exequível, mas flexibilizada por emendas, questionada por priorizar lucros imobiliários sobre vidas humanas.",
       "speaker": {
         "name": "ADÃO VILLAVERDE",
-        "position": "Engenheiro, Professor"
+        "position": "Engenheiro, Professor",
+        "slug": "adao-villaverde"
       }
     },
     {
@@ -365,7 +396,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -376,7 +408,8 @@
       "summary": "Engenheira civil e de Segurança do Trabalho destaca importância da conscientização na prevenção contra incêndio; a prevenção vai além de projetos e normas, sendo missão de engenheiros salvar vidas. Falta de conscientização na sociedade e empresários culpados por situações como no caso da boate Kiss. Prevenção contra incêndio é missão e causa, não apenas projetos técnicos.",
       "speaker": {
         "name": "RENATA DAL MOLIN",
-        "position": "Engenheira civil e de Segurança do Trabalho"
+        "position": "Engenheira civil e de Segurança do Trabalho",
+        "slug": "renata-dal-molin"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -398,7 +432,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Couto -- por Participante -- Padre João",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-couto-por-participante-padre-joao"
       }
     },
     {
@@ -410,7 +445,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -420,7 +456,8 @@
       "transcription": "Tarde a todos. Eu vou falar sobre, a cronologia, desses dez anos. Primeiro eu queria destacar, que, nesses dez anos, nós acabamos lendo, todo o processo. Acabamos tendo essa documentação, durante esses dez anos, e que revelam, e vou mostrar aqui, por que que se livrou dez anos. Eu queria dizer, a primeira frase acho que diz muito sobre isso. Goat Kiss. Até quando a justiça vai servir a impunidade. E é exatamente o que o deputado está falando agora há pouco. O padre João. Por coincidência, eu comecei com essa frase. Mas antes de iniciar, eu queria falar uma coisa muito importante. O julgamento da boate Kiss, a condenação dos quatro réus. Ela já abriu uma precedência que nunca tinha ocorrido no Brasil, podem pesquisar. Nunca, todos os casos anteriores similares a tragédias provocadas por incêndio e tumulto, todos foram condenados por dolo, por crime culposo, ou nem crime culposo. Então essa precedência, abrindo essa precedência, eu vou até falar, não precisa mudar a lei. Tem que se aprimorar as normas sim, mas a lei já prevê que quem comete crime de dolo eventual, aquela pessoa que assume o risco, seja por omissão, seja por negligência, seja por qualquer motivo, ela assume o risco, já houve uma condenação por dólar eventual no Brasil, nesses casos, não houve nenhum caso anterior a isso. Então, eu quero dizer que o que precisa é que seja exercitada a lei. Por muito pouco, por muito pouco, os quatro réus, não seriam julgado por júri popular, por muito pouco. Quando o Tribunal de Justiça do Rio Grande do Sul, em primeiro de dezembro de dois mil e dezessete, decidiu eles não iriam a júri popular, depois que o juiz, depois de dois anos e meio, analisando todas as prova, viam todos os indícios de que eles deviam ser jogado por dolo eventual. Ali começou a nossa grande tragédia. Além dos entes públicos, que o Ministério Público do Rio Grande do Sul retirou todos que deveriam responder também esses quatro réus, por muito pouco, muito pouco, o Brasil não teria ninguém sendo responsabilidade pela maior tragédia de ambiente fechado do Brasil, a terceira do mundo, onde na Argentina, nos Estados Unidos, na França, na mesmo na Rússia, todos, embora não tenham feito, eles reclamam muito que os pais da Argentina, os pais dos Estados Unidos, reclamam muito que esses casos precisariam ter mais gente ainda se apagada, mas pelo menos, o prefeito foi afastado, o responsável pela pela área de segurança e meio ambiente, na Argentina foi preso, os músicos foram presos, humanos da banda foi preso, os responsáveis nos Estados Unidos assumiram o risco do que eles fizeram, e foram condenados há quinze anos, em pouco tempo, menos de ano, foram cumprir a foram cumprir as penas. E no Brasil, essa indecência, que existe, nas defesas, essa imoralidade que existem fazendo apelos imorais, por falar só, entre tantos. Dos advogados pediu que fossem ouvidos os seiscentos e trinta e seis sobreviventes, evidente 000 juiz negou, mas era a tentativa, a tentativa de postergar até a prescrição. E foram muitos casos, até o julgamento, e disso eu vou falar, como o tempo é é não é muito longo, mas eu vou eu vou descrever os principais fatos que ocorreram durante isso. Então, essa falta, que eu estou dizendo, se tivessem sido punidos, e não tivesse tido essa anulação, nós já teríamos, com muito a mais certeza, que a falta de receio pra cumprir normas, Porque o senhor vai colocar a melhor norma do mundo, no Brasil, mas se a falta de receio dessas pessoas, a omissão do poder público. Essa essas duas situações que é a ganância e omissão, essas duas grandes situações que a é a ganância e a omissão que são as causas básicas de todas as tragédias, não só da Botquiz, mas de Brumadinho, de Mariana e assim por diante. Todas. Porque o poder público se omite, E00 setor privado não executa nada, não faz o que deve ser feito e que acontece o resultado é só, o resultado é a morte de pessoas e pessoas feridas. Então, eu vou rapidamente, eu tenho dois tempos de, desculpe só, é que são, eu vou falar do do processo público dos entes privados, dos entes públicos e do setor privado. Então, eu agora eu vou mostrar o que que aconteceu nessa cronologia. Então, pode passar o próximo por favor? Bom, primeiro, a boate. Ela foi aberta em dois mil e o laudo do do arquiteto já condenou a boate. Agora, ele fez laudo e ofício foi encaminhado quem? Diretamente ao prefeito e ao comandante do por bombeiros. Está lá no inquérito policial. O que que o prefeito fez? Nada. Que o secretário me fez? Nada. O que a estrutura do poder público, que é a prefeitura, e o corpo de bombeiros. O que que eles fizeram? Nada. Ela continua aberta durante três anos e meio até a ocorrência da tragédia, Por favor. Em julho de dois mil e onze houve uma troca de dos dos promotores. E aí começaram a fazer o TAC, o termo de ajustamento de conduta e esse termo de de ajustamento de conduta deixava a moto contínua aberta. Mesmo com graves irregularidades. Que era conhecimento inclusive dos proprietários. Está isso no inquérito policial. Pode seguir por favor. Até que, eu nem vou falar da aborde, porque dói muito. Então simplesmente o que aconteceu lá foi o artefato proibido e houve o estopim. Que provocou toda aquela morte. Não foi só o fogo e a espuma. O fogo e a espuma foi o estopim. Mas duzentos e quarenta e duas pessoas morreram, Por que não tinha saído de emergência? Por que tinha AA0 caminho pra, era obstruído pra rota de fuga? Não tinha sinalização no chão, que é obrigatório. A sinalização no chão, senhoras, senhoras, fez com que, metade dos jovens que morreram, morreram no banheiro, porque ali tinha a luz, a única luz que tinha naquele momento. Eles foram guiados pela Lúcio banheiro, e essa pilha de metro de mortos ali, entrelaçados, que foi falado aqui. Metade dos jovens morreram nos banheiros, criado pela luz. Se tivesse aquela sinalização no chão obrigatória, que o arquiteto apontou, e que ninguém cumpriu, esses jovens não teriam ido pra pro banheiro. Haveria uma tragédia, mas não seria tão grande. O proprietário, eu consegui porque, Sinceramente vocês me desculpem mas é, são muitas causas, mas vamos lá. Após a tragédia, isso pode passar já? Já falei. Então, aí, parei. Quando o Ministério Público, que nós percebemos que eles estavam enrolando. Os promotores estavam enrolando. Já nos processaram, já fizeram de tudo, mas enfim, eles não queriam não arquivaram os, não não denunciar os entes. Por por quê? Segundo, palavras do desmagoor ar no inverno, sou eu que estou dizendo, ao desmargador que não foi processado por eles, disse que eles se sentiram fragilizado pra se colocarem também no processo, porque eles não não colocaram os entes públicos da prefeitura. Por isso que ele falou. Então, esse promotor, foi gravado pelo Flávio. E ele disse, que ele tinha certeza, lá na prefeitura, que temos treta, certeza. Isso eu tenho certeza que aconteceu, mas como vou provar isso? Vou prevaricar, enfim, aí continua essa situação. E, por quê? Porque também o promotor responsável da época teria que responder. Ninguém está dizendo que ele é culpado. Como diz o 0 advogado presidente da OAB. Mas eles eles precisam responder. O que resultou foi que eles arquivaram os processo e ninguém, não há nenhuma sindicância interna na prefeitura até hoje. Vamos seguir. Pode seguir. Bom, eles acham que vão, pode seguir. Mas Aí quem quem é o primeiro a ser processado? Quem é o primeiro a sentar no banco dos réus. O Flávio Silva que está ali. Porque ele foi processado pelo promotor. Sabe o que que o promotor disse? Que ele, que causou pra nós pais uma revolta muito grande? Ele disse, está escrito publicado, não tenho do que me arrepender. Ele é o responsável à época. É uma vergonha, numa pessoa que é o responsável, ah eu não sou eu não sou engenheiro. Eu não sei. Gente, por que que deixou a boato aberta? Por que que fez TAC? Que se ele não fiscalizou? Vamos continuar. Aí o Flávio processado, eu processado, a Marta processado e o Sérgio processado. Aí nós não, eu vou só passar aqui rapidinho essa parte do, como referência à a Corte Interamericana, porque nós vamos falar sobre isso na na próxima coisa, então vamos seguir. Então, nós Fizemos algumas ações com a Corte Interamericana, mas a gente vai falar com mais calma. Então, vamos seguir. Aí, Vou já chegar no julgamento. Apesar de tudo isso, o STJ considerou, em dezoito de junho de dois mil e dezenove, que os réus deveriam ir à júri popular e considerou por unanimidade. Destruiu toda aquelas teses toscas, sem sentido, que eles não tinha nenhuma intenção. Ah sim, não tinha nenhuma intenção. Deles, dos proprietários, mandou reiterar os extintores, por sinal perto do palco, porque não combinava com o ambiente. A estética não era bonita. Esses extintores se estivesse em ordem funcionando, poderia ter evitado a tragédia. É a mesma coisa que capitão de navio, mandar retirar os botes salvavidas. Ele está assumindo risco. Aquelas barras que foram colocadas ali, depois que a prefeitura também errou em em deixar a boate aberto, mas o proprietário, o outro proprietário, colocou barras na frente da porta de exaustão, que eu vou mostrar a porta de exaustão. A porta de exaustão dá pra prestar cinco cinco pessoas por vez. Ele colocou duas barras ali, só, deixa eu uma pessoa passar por vez. Ali nós temos fotos senhores, Que poucos pais viram, mas nós tivemos que ver. Jovens prensados ali. E ele se diz, eu sou somente sócio. Eu era somente sócio. Aí teve o julgamento. Não tinha como não serem condenados. As provas estavam, os indícios todos mostraram provas, documentos, testemunhas. E eles foram condenados a dezoito anos e vinte, de dezoito a vinte e dois anos, os quatro. Quando isso aconteceu, eles receberam habeas corpus ali. E a decisão do STF, pelo Ministro Fux, Não, há mais de quinze anos, tem que cumprir a pena, e foram presos. Houve uma revolta, de setores do mundo jurídico, onde já se viu, chegaram até a dos advogados a colocarem, na Corte Interamericano de Direitos Humanos, porque o seu cliente, ele não teve o seu direito ao devido processo legal. É ridículo demais o Brasil. Se você ver o que que aconteceu em outros países Argentina e Estados Unidos, eles rejeitam essas a a essas aberrações. E aqui, as vítimas que somos nós, não temos nada. Agora, as pessoas que dividem responder tem todos os direitos, o devido processo legal. Mas vamos lá. Aí teve, o Ministério Público, eles anularam em Três de Agosto, como já foi falado aqui. Absurdo também, vamos falar pouquinho sobre isso. E aí, o STJ J agora, no dia treze de junho, agora, esses dois meses atrás, ele julgou, ou melhor, o relator viu todas AA0 que aconteceu com relação a esse julgamento, e deixou muito claro que não teve influência nenhuma no resultado do julgamento. São todas questões relativas previstas na lei, em que advogados fazem AAA fazem todo o trabalho, fora do prazo, esperando o resultado pra depois entrar de contas ações. E o Tribunal de Justiça, por filigranas processuais, aceitou isso. Então, eu volto só, está quase terminando. Bom, foi isso que eu falei agora, o ministro Rogério Sketch. Nós estamos aguardando agora, a decisão de mais quatro ministros. Então essa decisão, deles pediu vista, o outro também pediu vista, nós estamos aguardando a decisão. Essa porta aqui olha, só pra ela ficar claro, eu vou levantar. Porque é preciso que a as pessoas entendam. Essa porta aqui, ó, tem, passa cinco, seis pessoas. Está vendo essa barra aqui? Aqui é a parte de fora. Está vendo? E lá dentro tinha outra barra. Esses jovens foram prensados ali. Sabe por que ele colocou isso? Pra evitar que os jovens fugissem, sem pagar, já fazia caminho tortuoso pra pro pagamento. Se se alguém disser que essa pessoa não assume o risco, colocando na porta de exaustão, ele não está colocando a porta que da da saída da cozinha, não, ele está sendo a porta da saída da rua, E colocou barras ali. Pode continuar, por favor. Bom, é isso que eu estava falando. Ei não, volta pouquinho por favor. Que eu só quero. Só mais. Já rapidamente eu vou, é o último slide só. Bom, o que é preciso gente, infelizmente, é acabar com essa situação, muito clara, de que, O padre João falou agora sobre esse tempo que já é horrível, esse tempo longo. Pais já morreram, dois sobreviventes já morreram, os pais continuam angustiados com isso. EEA gente deve falar coitado dos réus. Até foi falado aqui que os réus, também estão pagando, eles vão viver a vida deles. Nós não vamos ter mais nossos filhos, e eles causaram isso. O que acontece? Está aí. Pode pode pôr, por favor? Aí. Não, não é mais pra, aí. Eu quero só terminar isso aqui olha. Eu vou saber isso aqui como final. Aí ao ao pessoal de imprensa, de jornalistas, eu acho que vale a Eles nos ajudaram tanto então, volta lá, que o importante é que ler o que está escrito. Põe na última, penúltima. Desculpe o atraso mas acho que o que está escrito aqui é importante de como reflexão. Acho que é uma anterior porque esse é o completo. Eu quero só fazer resumo. Aí, parou. É preciso, que os tribunais superiores revertam o quanto antes a decisão dos desembargadores e autoridade dos jurados. Mas mesmo que isso aconteça, o caso que deveria ter se tornado paradigma no combate à negligência, já é mais entre tantos exemplos, a demonstrar como amorosidade, a ineficiência da justiça incentiva a irresponsabilidade e o crime, e o crime, editorial do globo. Eu quero encerrar dessa forma, e que nós possamos ter essa condição, porque a falta de receio é que permite que as tragédias se perpetuem, enquanto não tiver punição, tragédias vão se repetir no Brasil. Obrigado.",
       "speaker": {
         "name": "PAULO CARVALHO",
-        "position": "Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss"
+        "position": "Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss",
+        "slug": "paulo-carvalho"
       }
     },
     {
@@ -432,7 +469,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -442,7 +480,8 @@
       "transcription": "Bom dia a todos e todas. O meu nome é é Flávio Silva, pai da Andreele da Silva, uma das vítimas da maior chacina que aconteceu no Brasil nos últimos anos. Então, Eu gostaria de falar pouco e até tirar uma dúvida. De qual é a função ou omissão do Ministério Público? Principalmente eu me refiro aqui ao Ministério Público do Estado do Rio Grande do Sul. Porque a gente sabe que tudo que começa errado, ele vai acabar errado, E antes de começar então nesse ponto aí, eu vou pegar gancho no que o professor Adão Vila Verde falou aqui, sobre a lei Kiss. Ela deveria ter o seu nome trocado, pra além da vergonha, porque os parlamentares, muitos que disseram que fizeram empenho pra ajudar na na criação da lei Kiss, muitos deles, eles colaboraram pra destroçar essa lei. Uma lei que foi foi criada pra pra proteger as vidas, proteger edificações de incêndio, ela pura e simplesmente por causa da questão econômica, ela teve a sua parte mais importante dela arrancada. Então isso prova que a vida humana pouco vale. No momento que empresários julgam que a prevenção é despesa e eles não encaram como investimento, eles provam por si próprio que o que pouco importa pra eles é a segurança da vida humana, isso machuca, porque a gente vem lutando há dez anos, a minha filha e os outros duzentos e quarenta e dois jovens e mais os seiscentos e trinta e seis sobreviventes, eles foram vítima da falta de lei, falta de fiscalização, e muitos parlamentares bater no peito, se glorificar da criação dessa lei. E é uma vergonha. Eu acho que muitos deles se aproveitaram dessa situação Pra fortalecer os seus colégios eleitoral, isso aí não resta nenhuma dúvida. E eu sempre digo, Ao modo grosseiro, isso aí é pura e simplesmente flauta de escrúpulos e falta de vergonha na cara, de pessoas que deveriam estar lá, Construir leis pra proteger a população, fazem as coisa totalmente ao contrário. Associação no nos últimas audiências públicas relacionadas a essa palavra bonita que eles colocaram, flexibilização da lei, né. Isso prova que cada deputado atende o pedido do setor da da da de de empresários da Grande Indústria, de grandes fábricas, porque são os grandes patrocinadores das campanhas políticas dessas pessoas. Então, é triste e ninguém fala nada, ninguém fala nada, ninguém colabora pra que se fortaleça uma campanha pra acabar Com esse tipo de do jeitinho brasileiro que dá pra pra flexibilizar aqui, que na verdade não é flexibilização, A verdade eles estão destroçando aquilo e poderia garantir a vida humana. Então, eu saber que a minha filha, e esses outros jovens perderam a vida por falta de fiscalização, falta de seriedade, principalmente no trabalho de quem trabalha pra construir as leis, quando ele resolve fazer com que a coisa penda pro outro lado, é muito triste e ninguém segura. E, Como o inquérito é público falar sobre ele, citar nomes, também tornouse público. A minha filha saiu de casa com mais quatro amigas, pra festejar, os vinte e dois anos dela de idade, junto com as amigas. E eu já vi ingressos caros, pagos pra adentrar em casas noturna. Por isso eu pergunto, que preço vale uma vida humana, onde jovem paga a festa que ele vai fazer numa casa noturna com a vida? Isso deveria ter servido de exemplo a todo o Brasil, e Pouco se aprendeu com essa tragédia que matou duzentos e quarenta e dois jovens, e deixou seiscentos e trinta e seis feridos, muito deles com sequelas, que vão levar pro resto da vida. Eu cada vez que eu me deparo com sobrevivente, tenho contato mais constante com o Gabriel, e algumas jovens que que ficaram com marcas em, que vão levar pro resto da vida, eu me pergunto. Se a minha filha tivesse sobrevivido e ficado com essas sequelas reparáveis, a gente nunca vai saber, o qual seria mais dolorido ter perdido ela como nós perdemos, ou recebêla de volta com todas aquelas sequelas causadas por essa ganância, por essa omissão, por essa negligência, por esse descaso público, principalmente dos órgãos públicos, que deveriam ter fiscalizado. Eu quando falo isso aí eu me refiro ao Ministério Público do Estado do Rio Grande do Sul. É o agente fiscalizador da lei. E o que me levou a responder processo por calúnia e difamação, foi eu ter colocado publicamente documento onde prova que o Ministério Público do Rio Grande do Sul, através do promotor de justiça, o Ricardo Losa. A prefeitura, através do ofício trocado entre esse promotor e o prefeito César Schmber, Sabiam que a casa estava atuando há muito tempo de de de forma irregular, e o grande risco que se corria, que acontecesse qualquer tragédia que acabou acontecendo. Por várias vezes eu tentei fazer com que a imprensa publicasse essas irregularidades, Que a gente vendo aquilo e e ninguém nos dava crédito pra mostrar. E ouvindo uma das oitivas com o delegado de polícia. Eu digo assim, eu eu tenho que fazer alguma coisa porque eles têm, isso tem que ser mostrado. Não é possível que nós perdemos nossos filhos perderam a vida, e essa negligência vai ser acobertada. Eu peguei aquele documento, a qual o promotor de justiça enviou ao prefeito pedindo informações sobre a Se a casa estava regular, se tinha os alvarás todos em dias. E juntei com aquele com aquela resposta do prefeito dizendo, que a casa estava irregular há mais de sete meses, e não havia nenhum protocolo de pedido de renovação desses alvarás. Nem o ministério público, nem a prefeitura, tomou nenhuma providência pra que essa casa fosse fechada, E acabou que aconteceu a tragédia, e todo mundo sabe da história. Eu peguei esses documento, E nesse ofício que o que o promotor envia ao prefeito, eu coloquei a foto do promotor de justiça, né, E ao lado é escrita, isso prova que o Ministério Público através do promotor de justiça sabia de todas as irregularidades da casa, e nada fez pra evitar com que a a tragédia acontecesse fechando essa casa. E também, da mesma forma, escrevi sobre o prefeito. E, num documento à parte, uma folha à parte, eu escrevi, aquele papel provável, o conhecimento dele sobre a irregularidades, e ainda perguntava quem é que vai pagar essa conta. E eu me lembro que foi AAA vez que chamou atenção da imprensa. Nessa hora todo mundo quer dar a notícia em primeira mão, ninguém quer quer ficar pra pra dar uma notícia requentada, e aí eu tive a oportunidade de falar. Então, tu falar com certeza daquilo que está falando, jamais te gera algum tipo de de de medo, coisa do algo assim. E eu falei e eu me lembro que a a jornalista perguntou o que que eu acho que teria acontecido. Eu digo, eu acho que o promotor de justiça, ou ele foi negligente, omisso, que eu não acredito que ele é uma pessoa muito inteligente, até pra estar ocupando o cargo de promotor de justiça, ele deve ter alguma bagagem né, ou ele teria prevaricado, E eu digo, e a gente está esperando essa resposta até hoje. E e aquilo saiu, nós colocamos cartazes na frente da bote quinze, frente da prefeitura, paradas de ônibus, pras pessoas verem realmente o que tomar perto da situação do que tinha acontecido. E rapidamente o promotor entrou na na na justiça pra que fosse retirado aquele material rapidamente e e foi atendido pela pelo juiz que que estipulou uma multa diária de cinco mil reais ao descumprimento desta dessa determinação. Só que eu estava fazendo serviço fora da cidade, e eles tiveram que amargar amargar aquilo por mais de quinze dias. Então, quando eu voltei que eu fui notificado, a gente tirou. E, a partir daí, Veio aquela perseguição do Ministério Público em cima dos pais que vinham fazendo a linha de frente, colocando público essa barbárie cometida por eles. Eu fui denunciado né, por ele, aí, Pra denunciar todas aqueles, aquelas pessoas que tiveram outras responsabilidade com a tragédia, o Ministério Público não o fez, porque quando se trata de cortar da própria carne, às vezes a coisa fica meio complicado né. Então, Ele pra isso ficou de fora prefeito, secretários, bombeiros. E quando eu falo de bombeiros. A nossa luta com bombeiros é aqueles que agiram como bandidos, que fiscalizaram, tiveram fazendo vistorias dentro daquela casa noturna, e ganharam, pra dar licença pra matarem os nossos filhos. E uma atitude que me envergonha muito, depois de dois anos, afirmado pelo promotor que os bombeiros eram os maiores responsáveis da tragédia, pela tragédia melhor. No dia do julgamento, fiquei surpresa que a primeira manifestação do promotor foi retirar o pedido de condenação daqueles réus. Então, aí deu pra gente perceber que Vamos abraçar os bombeiros, vamos abraçar o prefeito, e vamos botar as culpa só naqueles quatro, que que que vai ficar vai ficar bom. Mas bom pra eles porque a gente não, a gente entende que aqueles quatro sim, têm a responsabilidade sobre o dolo direto. Mas por outros crimes, esses que tiveram os seus inquéritos arquivados pelo Ministério Público, né, pra não ter que o promotor ser investigado, eles acabaram fazendo esse acordão e ficou e ficou tudo em casa, tudo bem. E nós aí, lutando por esses dez anos, às vezes eu me pergunto, quem sou eu? No que eu me, no que eu me transformei? Eu sinto que eu perdi a minha identidade, só lembro disso quando eu lembro das minhas filhas, da minha esposa daí eu eu fico fazendo exercício para lembrar quem sou eu. Porque Eu digo, será que a gente vai morrer lutando e não vai ver o desfecho dessa tragédia que matou os nossos filhos? E se corre o risco de que outros jovens morram em outras tragédias e outras famílias passem por aquilo que é, que a gente vem passando até hoje. Então, é difícil, e tentar também fazer com que outros pais se sintam desencorajados e, né, sejam bonzinhos, não falem mais do Ministério Público, não fale mais do poder judiciário. Eu digo, aqueles réus que foram condenado pelos homicídios, A negligência de dois deles, a a negligência não, a a ganância e a responsabilidade de deles, poucos fizeram com que ele se importasse com a segurança daqueles que sustentavam eles, que frequentava aquelas casas noturnas. Depois vê, uma instituição, né, que se revolta contra cidadão pra apontar isso tudo. A minha filha saiu de casa, pra se divertir e celebrar a vida. E a gente recebeu ela, dentro dum, duma urna de madeira fria, gelada. Descaso de de de poder que deveria proteger os cidadãos. Eu me lembro de uma cena, que nunca vai sair da minha memória. Eu vou morrer, a gente esquece de muitas coisas como acontece, a a memória da gente não é mais a mesma, a saúde não é, mas foi aquele domingo, que eu tive que reconhecer a minha filha naquele ginásio. Ela estava deitada na naquela lona, os cabelos molhado, Então, me lembrou uma cena que ela ela nunca gostou de secar o cabelo com secador. Ela passava a toalha, pegava o ventilador e deitava na cama e abria os cabelos. E a cena me remeteu a ela deitada na cama dela, daquele jeito. E num ato de desespero, a única coisa que eu fiz, agora, foi colocar o braço por debaixo do corpo da minha filha, e o outro debaixo das pernas. Porque eu queria tirar ela dali o mais rápido possível. Eu achava que ali não era o lugar pra ela estar, E nem para nenhum daqueles outros jovens. Isso foi o 0 dia que que produzias mais triste da minha vida. Espero que, essas omissões, essas negligências do poder público, não façam com que outras famílias passem, por essa situação que nós passamos e estamos passando até hoje, né? Alguma coisa tem que tem que ser feita pra que parem essas matanças e pare de acobertar esses crimes que que vão tirando a vida dos nossos jovens. Então, É é muito complicado. E eu eu só peço, pras autoridades que que, que julgue esses casos com mais seriedade, mais rapidez, porque Aqueles quatro tiraram as a vida dos nossos filhos. E o poder judiciário, principalmente do Rio Grande do Sul, Tirou dez anos e meio das nossas vidas, que a gente anda de arrasto. Eu Eu quase me entreguei não por vontade própria, mas também fui abatido dias antes do júri. Então, Há dez dias agora nós perdemos o décimo pai de vítima da tragédia. E aquilo mexeu muito comigo. Fico pensando, eu digo, será que Deus vai me conceder? Eu estar vivo pra assistir o desfecho, das responsabilização pelo menos por parte da tragédia que matou a minha filha. E a gente se pergunta. Quanto vale uma vida humana? Obrigado e desculpe pelo pelo desabafo.",
       "speaker": {
         "name": "FLÁVIO SILVA",
-        "position": "Conselheiro do Conselho Deliberativo da AVTSM - Conselho Deliberativo da AVTSM"
+        "position": "Conselheiro do Conselho Deliberativo da AVTSM - Conselho Deliberativo da AVTSM",
+        "slug": "flavio-silva"
       }
     },
     {
@@ -454,7 +493,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -464,7 +504,8 @@
       "transcription": "Boa tarde, eu sou a Fátima, sou a mãe do Rafael, essa vítima, mãe de vítima, essa",
       "speaker": {
         "name": "FÁTIMA DE OLIVEIRA CARVALHO",
-        "position": "Mãe da Vítima"
+        "position": "Mãe da Vítima",
+        "slug": "fatima-de-oliveira-carvalho"
       }
     },
     {
@@ -475,7 +516,8 @@
       "summary": "Mãe de Rafael Paulo, vítima da tragédia de Santa Maria, fala sobre a dor e a luta por justiça há 10 anos. Ela pede que a tragédia, causada por negligência, não se repita e que a justiça seja feita, pois ela salva vidas. Ela expressa gratidão pelo seminário e a série que trazem a história à tona, servindo de exemplo para as gerações futuras. Espera que a justiça não seja anulada, mantendo a memória preservada e a parte educativa do julgamento.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padre João -- por Participante -- Luizianne Lins",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padre-joao-por-participante-luizianne-lins"
       }
     },
     {
@@ -487,7 +529,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -498,7 +541,8 @@
       "summary": "Solidariedade a famílias afetadas; importância de ouvir relatos e tratar caso com seriedade; Estado presente na mesa e construindo garantias de não repetição; diálogo entre secretarias e ministérios para reparações que evitem novos casos.",
       "speaker": {
         "name": "ISABEL PENIDO DE CAMPOS MACHADO",
-        "position": "Coordenadora Geral da Assessoria Internacional - MDHC - Ministério de Direitos Humanos e da Cidadania - MDHC"
+        "position": "Coordenadora Geral da Assessoria Internacional - MDHC - Ministério de Direitos Humanos e da Cidadania - MDHC",
+        "slug": "isabel-penido-de-campos-machado"
       }
     },
     {
@@ -510,7 +554,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -521,7 +566,8 @@
       "summary": "Ministra dos Direitos Humanos e da Cidadania Substituta refaleja importância de memória e luta por justiça para tragédia da Bode Kiss, homenageia vítimas e lutadores, e menciona trabalho do ministério em memoriais e direitos humanos.",
       "speaker": {
         "name": "MARINA BASSO LACERDA",
-        "position": "Ministra dos Direitos Humanos e da Cidadania Substituta - Ministério dos Direitos Humanos e da Cidadania - MDHC"
+        "position": "Ministra dos Direitos Humanos e da Cidadania Substituta - Ministério dos Direitos Humanos e da Cidadania - MDHC",
+        "slug": "marina-basso-lacerda"
       }
     },
     {
@@ -533,7 +579,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -544,7 +591,8 @@
       "summary": "CONFEA comprometido em promover segurança e minimizar riscos de vidas, apoia projetos de lei que os mitiguem, incluindo inspeção predial, como colaborador nas iniciativas pela preservação de vidas e patrimônio histórico.",
       "speaker": {
         "name": "José Maria Soares",
-        "position": "CONFEA"
+        "position": "CONFEA",
+        "slug": "jose-maria-soares"
       }
     },
     {
@@ -556,7 +604,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -567,7 +616,8 @@
       "summary": "Departamento de Articulação Institucional se solidariza com familires de vitimas da tragédia, reconhece sua luta por justiça e se compromete a ajudar a aliviar sua dor e buscar justiça. Ministro Pimenta e ministro Silvio também participam desse compromisso. Importância de memória, verdade, justiça e reparação.",
       "speaker": {
         "name": "Maria América Menêzes Bonfim Hamú",
-        "position": "Diretora do Departamento de Articulação Institucional"
+        "position": "Diretora do Departamento de Articulação Institucional",
+        "slug": "maria-america-menezes-bonfim-hamu"
       }
     },
     {
@@ -579,7 +629,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -590,7 +641,8 @@
       "summary": "Conselheiro do Conselho Deliberativo da AVTSM sugeriu inclusão de escolas, hospitais e presídios na fiscalização, devido ao grande problema observado, especialmente em escolas. Apesar de uma carta aberta ao governador do Rio Grande do Sul sobre o assunto, não houve resposta positiva sobre as readequações necessárias. Obrigado.",
       "speaker": {
         "name": "FLÁVIO SILVA",
-        "position": "Conselheiro do Conselho Deliberativo da AVTSM - Conselho Deliberativo da AVTSM"
+        "position": "Conselheiro do Conselho Deliberativo da AVTSM - Conselho Deliberativo da AVTSM",
+        "slug": "flavio-silva"
       }
     },
     {
@@ -602,7 +654,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     },
     {
@@ -613,7 +666,8 @@
       "summary": "Família Tragedia Kiss recorda exemplos ação efetiva com poder público para fechar locais inseguros, em destaque melhores práticas para menos fatalidades, pede comissão CDHMI para expor casos em Nova York e responsabilização pública no caso Boate Kiss.",
       "speaker": {
         "name": "PAULO CARVALHO",
-        "position": "Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss"
+        "position": "Associação de Familiares de Vítimas e Sobreviventes da Tragédia de Santa Maria - Boate Kiss",
+        "slug": "paulo-carvalho"
       }
     },
     {
@@ -624,7 +678,8 @@
       "summary": "Ex-secretária Corte Interamericana de Direitos Humanos, atual presidenta Instituto Cidade Segura, entrou com denúncia na Comissão Interamericana de Direitos Humanos em 2017 contra Estado brasileiro por alegadas violações de direitos humanos antes, durante, e depois do incêndio da boate Kiss em Santa Maria, RS, em 2013. Requer condenação no sistema interamericano.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -634,7 +689,8 @@
       "transcription": "Vamos cobrar esse pedido.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -646,7 +702,8 @@
       "speaker": {
         "id": 178866,
         "name": "Luizianne Lins",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luizianne-lins"
       }
     }
   ],

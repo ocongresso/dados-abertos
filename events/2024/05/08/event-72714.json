@@ -14,7 +14,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "Deputado Presente senta aqui pra ele lá votar.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Leão -- por Participante -- Pezenti",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-leao-por-participante-pezenti"
       }
     },
     {
@@ -45,7 +48,8 @@
       "summary": " Participante deseja falar antes da votação. Mencionados deputados Albuquerque e outro presente.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pezenti -- por Participante -- Ana Paula Leão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pezenti-por-participante-ana-paula-leao"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -103,7 +111,8 @@
       "summary": " Deputados Albuquerque e presente eleitos presidente e vice-presidente da Subcomissão Permanente de Pesca e Cultura, Subpesca.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -113,7 +122,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Leão -- por Participante -- Albuquerque",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-leao-por-participante-albuquerque"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -137,7 +148,8 @@
       "speaker": {
         "id": 161440,
         "name": "Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pezenti"
       }
     },
     {
@@ -149,7 +161,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -161,7 +174,8 @@
       "speaker": {
         "id": 204567,
         "name": "Raimundo Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-costa"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 220557,
         "name": "Daniela Reinehr",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daniela-reinehr"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -255,7 +276,8 @@
       "summary": " Secretária Nacional de Aquicultura visitou subcomissão para fortalecer política pública, solicitando apoio a pescadores e agricultores do Rio Grande do Sul e investimentos no ministério. Ela destacou a necessidade de valorizar pesca e aquicultura, afirmando que a determinação política está firme, mas é necessário financiamento para impulsionar o setor. Ela concluiu afirmando que o pão de nós está no mar, ressaltando a importância da reflexão sobre pesca e aquicultura.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura"
+        "position": "Secretária Nacional de Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -278,7 +301,8 @@
       "summary": " Sindicato de Trabalhadores de Pesca de Santa Catarina valoriza pesca de covina em economia de RS e SC; solicita à Caixa não proibi-la; agradece subcomissão de pesca no Congresso; elogia atuação de deputado Raimundo; expressa preocupação com possível proibição de pesca de covina, mas deseja manter espécie na pesca artesanal e industrial em ambos os estados.",
       "speaker": {
         "name": "Luizinho Américo",
-        "position": "Sindicato dos Trabalhores de Pesca de Santa Catarina"
+        "position": "Sindicato dos Trabalhores de Pesca de Santa Catarina",
+        "slug": "luizinho-americo"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -301,7 +326,8 @@
       "summary": " Instituto Arayara aborda importância da pesca na região Amazônica, estudos sobre impactos do petróleo e gás no setor, e destaca a necessidade de proteger essa cadeia de produção. Menciona as espécies piramutaba, pargo, camarão rosa e pescada amarela, além de discussões sobre a Bacia de Pelotas e pescarias de atum. Oferece cópias do estudo para os deputados presentes e espera discussionar o assunto com pescadores e lideranças da costa amazônica.",
       "speaker": {
         "name": "Vinicius Nora",
-        "position": "Instituto Arayara"
+        "position": "Instituto Arayara",
+        "slug": "vinicius-nora"
       }
     },
     {
@@ -313,7 +339,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -324,7 +351,8 @@
       "summary": " Sindicato dos Armadores e das Industrias de Pesca parabeniza criação de subcomissão, agradece colaboração técnica e observatório da pesca. Eles trabajaram para impedir o avance del PL 347 sobre arrasto y planean abordar el arcabouço legal permitindo que espécies encontrem se enquadrem na lista, como a curvina, para proponer alterações e evitar que isso continue acontecendo.",
       "speaker": {
         "name": "Luiz Carlos  Martsuda",
-        "position": "Sindicato dos Armadores e das Industrias de Pesca"
+        "position": "Sindicato dos Armadores e das Industrias de Pesca",
+        "slug": "luiz-carlos-martsuda"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 204567,
         "name": "Raimundo Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-costa"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -372,7 +403,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     }
   ],

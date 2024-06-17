@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Ministério do Trabalho combate trabalho escravo desde 199",
       "speaker": {
         "name": "ANDRÉ ESPOSITO ROSTON",
-        "position": "Representante - Ministério do Trabalho - MT"
+        "position": "Representante - Ministério do Trabalho - MT",
+        "slug": "andre-esposito-roston"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -75,7 +80,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bohn Gass -- por Participante -- Túlio Gadêlha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bohn-gass-por-participante-tulio-gadelha"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -122,7 +131,8 @@
       "summary": "Grupo coordena pesquisa trabalho escravo contemporâneo na UFRJ, há 46 anos. Iniciou trabalho com fugitivos no sul do Pará em 1977, apresentou caso José Pereira em 1989, considerado responsável pelo Brasil.",
       "speaker": {
         "name": "RICARDO REZENDE",
-        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ"
+        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ",
+        "slug": "ricardo-rezende"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -144,7 +155,8 @@
       "transcription": "Assim, veja, hoje melhora? Melhorou bastante professor, muito obrigado.",
       "speaker": {
         "name": "RICARDO REZENDE",
-        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ"
+        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ",
+        "slug": "ricardo-rezende"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Grupo pesquisa trabalho escravo contemporâneo UFRJ investiga tema desde 197",
       "speaker": {
         "name": "RICARDO REZENDE",
-        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ"
+        "position": "Coordenador - Grupo de Pesquisa Trabalho Escravo Contemporâneo na UFRJ",
+        "slug": "ricardo-rezende"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 157130,
         "name": "Túlio Gadêlha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tulio-gadelha"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Mudança de fala da presidente Gadêlha para o participante Prof. Paulo Fernando, iniciando discurso formal com boa tarde/bom dia a todos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Túlio Gadêlha -- por Participante -- Prof. Paulo Fernando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tulio-gadelha-por-participante-prof-paulo-fernando"
       }
     },
     {
@@ -199,7 +215,8 @@
       "transcription": "Aqui presente, gostaria de agradecer aqui à comissão de trabalho da Câmara dos Deputados, por conduzir esse importante debate, não é, e por convidar nós da agência da ONU para refugiados, para estarmos aqui presente, né. Cumprimento o deputado Paulo Fernando que conduz neste momento os trabalhos, mas também os deputados Tulio Gadelha que esteve conosco até ainda pouco, deputado Remon, o deputado Rogério Corrêa que são também é peticionante né dessa desse evento aqui nesse momento, deputado Bom Guess, enfim cumprimentar aí a todas as pessoas que nos acompanham. Fazer uma saudação muito especial, né, Ao meu colega é o diretor de país Vinicius Pereira da OIT da Organização Internacional do Trabalho que está aqui conosco também. E cumprimentar a todos que participam nesse momento, em nome do padre Professor Ricardo nesse momento, em nome do padre professor Ricardo Rezende, né, uma pessoa espetacular, né, uma pessoa que tem trabalhado com essa temática da erradicação do trabalho escravo há muitos anos e com quem eu tive privilégio, né, de também trabalhar. Eu venho da carreira de auditor fiscal do trabalho também, e quando estava no Rio de Janeiro atuando na auditoria fiscal do trabalho, né, e no combate ao trabalho análogo de escravo, tive o privilégio de ter momentos aí de trabalho conjunto com 000 Professor Padre Ricardo Rezende, né. Queria também fazer uma saudação muito especial, né, a inspeção do aqui na pessoa do André Roston, essa instituição né, que dentro do Ministério do Trabalho e Emprego que tem feito trabalho é ímpar, eu diria, no combate, no enfrentamento a esse mal que afeta o 0 Brasil, né. Então, fazer esse registro, né, fazer esse agradecimento, fazer esse reconhecimento ao trabalho da inspeção do trabalho, mas também ao Ministério Público do Trabalho, Polícia Federal, ao Ministério Público Federal, à Defensoria Pública da União, enfim, a todas as organizações que tem se irmanado, né, e feito trabalho, de muita força no Brasil de, no combate, na erradicação do trabalho análogo ao de escravo, né. Enfim, a agência da ONU para refugiado, o nosso mandato, né, é atuar para que as pessoas refugiadas, né, aquelas pessoas que são deslocadas, forçadas, né, elas não não queriam sair dos seus países, elas tiveram que ser do países em função de guerras, de conflitos internos, de perseguições, perseguições injustificadas em razão de opinião política, por exemplo, em razão de professar uma religião, em razão de pertencer a grupo social, a uma etnia, a uma raça, essas pessoas ou em países onde há uma generalizada violação direitos humanos, essas pessoas são obrigadas a sair dos seus países e buscar proteção em outro país, né. Então são dessas pessoas que nós estamos falando aqui nesse momento e que o Aquino tem mandato para apoiar a proteção, né, que as pessoas encontrem uma proteção nos países que possam lhe acolher, mas também que essas pessoas possam ter uma solução duradoura, né, recomeço nas suas vidas, não é? O número de pessoas refugiadas no mundo, né, como já foi divulgado, ele tem crescido, né, e este ano estamos atingindo o maior patamar de pessoas nessa são desde a segunda guerra mundial, são cento e quatorze milhões de pessoas deslocadas de maneira forçada é no mundo e a região das Américas, ela é uma região que concentra uma grande quantidade, né. Nós estamos falando de vinte milhões de pessoas nessa situação, nas Américas, né. O Brasil faz parte desse contexto e o Brasil, tem também tido aumento no fluxo de pessoas refugiados em busca de proteção no território brasileiro. Hoje se fala em seiscentos e cinquenta mil pessoas, seja na condição de solicitantes do reconhecimento da condição de refugiados, seja na condição de refugiados já reconhecidos, seja na condição de pessoas deslocadas, forçadas e que necessitam de proteção internacional de diferentes países, né, que aqui se encontram e isso significa para que terem uma ideia o número de pessoas refugiados no Brasil hoje é dez vezes ou mais de dez vezes maior que apenas sete anos atrás. Então é fenômeno que tem crescido em termos globais, que tem crescido na região das Américas, né, mas que também tem crescido no Brasil, né, então, ressaltar que essas pessoas, assim como as pessoas migrantes, né, elas têm uma vulnerabilidade maior à exploração em diversos campos, inclusive a exploração laboral, não é? Isso, enfim, está nos relatórios da organização internacional do trabalho, não é? Mas a gente fala de pessoas refugiados, nós estamos falando de pessoas que já vêm sofrendo violências desde o seu país de origem, pessoas que enfrentaram uma guerra, que enfrentaram, né, uma situação de perseguição que as suas vidas já estavam em risco nos seus países de origem, não é? Então são violências, são violações de direitos que já vinham acometendo essas pessoas. Essas pessoas então, elas se deslocam para outros países e nesse deslocamento também são vítimas de violência, também são vítimas de abusos, de violações dos seus direitos humanos, e elas, o que elas querem na verdade é alcançar Porto Seguro, é alcançar local onde elas possam garantir a sua integridade física, garantir o acesso a direitos, garantir recomeço, né? Então vocês podem imaginar o que é a situação de uma pessoa que passa por tudo isso, e ao chegar no Brasil, né, ou algum outro país, ela ainda se enfrenta situações de super exploração do ponto de vista social ou do ponto de vista laboral, né, então é uma sucessão de violações e isso agrava ainda mais a situação dessas pessoas, né, dificulta ainda mais o recomeço da vida dessas pessoas, né, uma vida onde ela possa ter acesso a trabalho decente, é trabalho digno e que possa, enfim, retomar do ponto que parou no seu país de origem. Então, a exploração dessas pessoas né, pessoas refugiados, pelo trabalho análogo à escravidão, é a antítese do que nós, do que os países buscam em relação às pessoas que é a proteção. Então explorar essas pessoas nós estamos falando de algo que é o oposto a ao compromisso dos países, né, o compromisso das organizações, o compromisso de todos nós, que é garantir proteção a essas pessoas e é o oposto também, né, de conseguir com que essas pessoas tenham acesso processo de inclusão socioeconômica digna a processo de acesso a trabalho decente, né? Queria ressaltar que o Brasil é signatário da convenção da ONU de mil novecentos e cinquenta e que estabelece o estatuto das pessoas refugiados, então o Brasil tem compromisso, compromissos de garantir o acesso ao seu território, dessas pessoas, compromisso de não devolução, né, porque devolver as pessoas ao seu país de origem ou aos países de onde vieram significa colocar em risco a vida dessas pessoas, né? Então, isso significa compromisso no sentido de garantir a busca de soluções duradouras, né, em especial, como eu falei a inclusão social, econômica, cultural, enfim, com que as pessoas possam retomar e restabelecer as suas vidas no Brasil. Então, Dito isso, eu creio que essa questão a gente deveria no nosso modo de ver, nós gostaríamos de saltar a importância, né, de abordála sob o aspecto da prevenção, né, porque de fato, se existem questões ligadas aos trabalhadores no Brasil, né, quando essas pessoas chegam de outros países, elas vão ter camadas adicionais de vulnerabilidade que vão fazer com que ela esteja ainda mais expostas, ainda mais em risco de terem e de acabarem em processos de exploração e até mesmo de super exploração laboral ou em em serem por exemplo submetidas a condições análogas a de de trabalho escravo, né, a escravidão, conforme já aponta, né, os diferentes relatórios que são colocados em relação a pessoas, refugiados imigrantes que têm sido encontradas nessa situação no Brasil, né. Então, é fundamental que essa questão de uma vulnerabilidade adicional, ela seja enfrentada com políticas públicas, né? Então com a construção de políticas públicas para o acolhimento, né, a inserção a inserção econômica, a inserção cultural dessas pessoas no Brasil, é de fundamental importância, né? Eu acho que o Brasil avançou muito na construção de arcabouço legal favorável, é inegável isso, desde da lei de refúgio no Brasil que é de noventa e sete, até a lei de migrações no Brasil, a nova lei de migrações que é de dois mil e dezessete, houve avanço significativo, né, Hoje, ao acesso à documentação que é princípio basilar para reduzir, né, a a vulnerabilidade dessas pessoas, avançou significativamente, então existem muito mais mecanismos de acesso a documentação para pessoas refugiados, para pessoas migrantes no Brasil, né, mas é necessário avanços no sentido de traduzir essa normatividade, né, para o mundo real, a prática das relações laborais, a prática das relações de trabalho no Brasil, né. Nós sabemos que existem estudos, existem pesquisas que demonstram que pessoas refugiados eles têm muito menos chances de serem inseridos no mercado formal de trabalho, portanto no trabalho decente, não é? Do que as pessoas no Brasil, né, esses estudos estão aí colocados e eles apontam que embora haja uma legislação favorável, né, na prática há obstáculos, há barreiras, há dificuldade e que podem afetar os processo de exploração dessas pessoas, não é, podem significar uma fragilidade nessa na condição das pessoas o que leva muitas vezes estarem mais expostas a serem aliciadas, a serem submetidas a situações de super exploração no no mundo do trabalho, né, então, aqui eu trago a necessidade de nós avançarmos com essas políticas, né, pra que são pessoas que vêm que não falam português, por exemplo, o que tem dificuldade em entender o português, né, então, todos os mecanismos de prevenção, né, de disseminação de informações para essas pessoas, precisam ter em conta essa situação, precisam ser feitos em diferentes idiomas, né, para que as pessoas compreendam são pessoas que não conhecem as autoridades brasileiras e muitas vezes como aqui já foi colocado, tem receio das autoridades brasileiras, né, então é fundamental que essas políticas sejam estabelecidas, né, que enfrentem essa situação própria que são obstáculos na prática usar a inserção das pessoas no mercado formal de trabalho, né, o tema da intermediação laboral é de fundamental importância, então, por exemplo, né, o 0 essas pessoas poderem acessar Normalmente, o sistema nacional de emprego, as agências públicas de emprego no Brasil, que elas possam ser reconhecidas como pessoas que tem demandas específicas, né, e precisam essas agências públicas de emprego, né, e esse é diálogo que temos feito com o Ministério do Trabalho, né, quem agradeço muito, essas agente pública de emprego precisam reconhecer essas pessoas e entender que tem situações que são diferenciadas e que precisam, né, ter fluxos processos procedimentos de atendimento diferenciados, né. Então, o tema também do acesso à educação, o tema de acesso à capacitação profissional é algo bastante importante, nós temos problema no Brasil que é o reconhecimento de certificados de diploma dessas pessoas, então acaba que as pessoas já têm uma dificuldade grande em acessar o mercado de trabalho formal e quando acessam, acessam por debaixo das suas qualificações. Por quê? Porque o seu certificado profissional, né, ele não é reconhecido no Brasil, que o seu diploma universitário não é reconhecido no Brasil, e os processos de reconhecimento eles são dificultosos, não são processos simples, não são processos baratos, não são processos fáceis e isso leva a que essas pessoas acabam é muitas vezes tendo uma inserção não, vamos assim, em que não tem os seus direitos fundamentais absolutamente respeitados, né. O tema da xenofobia enfrentam quando acesso uma empresa, né, a empresa não conhece, muitas vezes discrimina muitas vezes, afasta a possibilidade das pessoas de conseguir acessar uma vaga de emprego, né, eu queria também fazer uma menção a campanha que temos feito, né, junto com o AIT, junto com a IM, junto com a secretaria de inspeção do trabalho, junto com o Ministério de Trabalho e Emprego, é uma campanha para evitar para que as pessoas conheçam os direitos e evite esse processo de super exploração em especial o trabalho análogo a de escravo, né. Queria finalizar ressaltando a prevenção é fundamental, né, aqui já foi falado das medidas de combate, mas também a importância de da proteção das medidas de proteção às vítimas, né, é preciso construir política para prevenir, mas as políticas quando isso acontece infelizmente tem acontecido, são fundamentais também para apoiar, né, as vítimas, então, o tema do acesso à documentação para aquelas pessoas que não têm documentação é fundamental, então fazer com que elas consigam de fato os documentos que às vezes, né, em algumas situações não tem, o acesso a mecanismos de reparação dos seus direitos que são velados, o acesso ao seguro desemprego, né, eu louvo aqui as iniciativas, deputado Paulo Fernando, que tem sido implementadas para que e o segurodesemprego seja de fato levado às pessoas como já é, mas estendido, para que as pessoas possam, né, ter período de recuperação e reposição e se reposicionar, vamos dizer assim, né, na sua vida pós resgate, mas fundamentalmente as pessoas terem acesso a políticas que possam apoiálos, né, a vagas de emprego formal, a oportunidade de emprego decente nesse país. Eu coloco aqui, a gente se dou para refugiados à disposição desse debate, né, queremos muito contribuir e e enfim, estamos aí à disposição para seguir aqui em contato e em parceria. Muito obrigado.",
       "speaker": {
         "name": "PAULO SÉRGIO ALMEIDA",
-        "position": "Alto Comissariado - Nações Unidas para Refugiados - ACNUR"
+        "position": "Alto Comissariado - Nações Unidas para Refugiados - ACNUR",
+        "slug": "paulo-sergio-almeida"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -222,7 +240,8 @@
       "summary": "Auditores Fiscais de Trabalho e combate ao trabalho escravo: apreciar conquistas/desafios recentes e importância de mecanismos efetivos em cadeias de produção. Adequar instrumentos do Estado ao contexto atual para políticas públicas mais eficazes. Recomenda discussão no Parlamento sobre legislação brasileira do dever de vigilância, seguindo exemplo de lei francesa de 2017, que exige empresas evitem violações de direitos humanos em suas cadeias de produção.",
       "speaker": {
         "name": "LUCAS REIS DA SILVA",
-        "position": "Diretor - Sindicato Nacional dos Auditores Fiscais do Trabalho - SINAIT"
+        "position": "Diretor - Sindicato Nacional dos Auditores Fiscais do Trabalho - SINAIT",
+        "slug": "lucas-reis-da-silva"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -244,7 +264,8 @@
       "transcription": "Dia, queria agradecer ao deputado Paulo Fernando, pelo espaço e aos colegas de mesa. Venho aqui hoje como representante da sociedade civil organizada e também trazendo pouco olhar internacional sobre o tema para o Brasil já ecoando pouquinho as palavras do meu colega Lucas Reis que nos falam online brevemente sobre essa necessidade cada vez maior né, que o mercado internacional tem trazido por cadeias de suprimento livres de violação de direitos humanos e também de crimes ambientais. Bem eu vou trazer recorte bastante específico né, sobre o trabalho análogo à escravidão no Mato Grosso e Mato Grosso do Sul, especificamente olhando pra indústria da pecuária, que como vocês vão ver hoje representa né, a grande maioria das incidências de caso no nosso país. Bom eu vou tentar manter o tom conversacional da mesa que acho que está bastante produtivo mas eu trouxe algumas imagens alguns gráficos que que ajudam a pontuar e ilustrar pouquinho o que a gente vai falar hoje. Bem como foi anunciado né, eu represento a IJF no Brasil, a Invermental Justice Foundation que é uma fundação por ambiental e que trabalha justamente nessa interface entre violação de direitos humanos e crimes ambientais, que notoriamente ao redor do mundo, não só no Brasil, tem acontecido muito em conjunto, a gente tem uma tendência de ver que nos locais onde a gente tem crimes ambientais a gente tende a ter violação a direitos humanos e viceversa, então tem uma de bióloga, né, atuando aí na área ambiental ao longo de toda minha vida e agora me deparando em meio aos crimes ambientais com violação de direitos humanos. Bom eu estou com pouquinho de dificuldade pra ler aqui a tela mas vamos lá. Ok, então acho que essa parte né, mais pra contextualizar já foi falada por alguns colegas sobre o Brasil ser signatário de importantes é convenções internacionais na organização internacional do trabalho é da gente ter hoje em dia bem tipificado no nosso código penal o crime é de é trabalha na hora da escravidão é eu tive uma experiência no Senado recentemente onde eu trouxe né alguns dados desse relatório que está sendo lançado pela ij f no Brasil trazendo alguns dados da do trabalho na da escravidão na pecuária e eu fui muito procurada logo em sequência por muitos pecuaristas, por presidente de sindicatos rurais, pessoas muito preocupadas no Mato Grosso Mato Grosso do Sul, indicando acredito que há na indústria uma preocupação mesmo né, em livrar as cadeias de suprimento desses crimes e alguma preocupação com relação e até mesmo acho que falta de conhecimento com relação a tipificação desse crime né alguns os rurais é que ainda não compreendem é quando esses esses casos são autuados e investigados o que eles trazem na verdade em sua essência né, e a gente tem quatro eixos principais, só relembrando principalmente aqueles que não são familiarizados com o tema, que a gente está falando de trabalho análogo à escravidão, a gente está falando de trabalho a gente está falando de jornadas exaustivas de trabalho, a gente está falando de condições degradantes e isso para o Mato Grosso Mato Grosso do Sul especificamente para o Pantanal onde a nossa principal área de atuação passa a ser muito importante vocês vão entender melhor porque e também uma servidão por dívida né trabalhadores que são ali mantidos é por dívidas é Ilegais que são em tese adquiridas por eles junto aos proprietários de terra e que os impedem de deixar propriedades é a gente tem aí alguns dados que a gente conseguiu compilar nas últimas décadas sobre atuação de trabalho escravo no Brasil e aí eu queria trazer aqui uma das grandes O que a gente tem é a questão da impunidade que já foi trazida por alguns colegas. E aí em números concretos, a gente tem hoje que entre dois mil e oito e dois mil e dezenove, apenas quatro ponto dois por cento das pessoas físicas que foram condenadas tiveram de fato sentenças mantidas após recursos. Em alguns casos a lentidão da justiça como já foi trazido aqui, ela acaba prorrogando essa esse julgamento para além do período de prescrição, e e aí por isso eu já trago também a questão da importância da gente estar discutindo nessa casa o desarquivamento da PEC catorze dois mil e dezessete que trata sobre tornar esse crime imprescritível pra ver se a gente consegue ter portanto uma mudança é com relação às condenações né das pessoas que cometem esses crimes e esses abusos. É só pra trazer recorte breve né, a gente vai afunilar pouquinho mas da realidade no Brasil a gente tem hoje ao trabalho análogo à escravidão ainda como problema crítico né apesar de muitos avanços nas últimas décadas a gente tem o índice de escravidão global que indicam que mais de milhão de pessoas possivelmente estão submetidas a trabalho análogo à escravidão no país e ainda que a gente tenha por exemplo entre noventa e cinco e dois mil e vinte e três cerca de sessenta e três mil pessoas resgatadas dessas condições esses números eles são infinitamente menores do que a gente estima ser a realidade no nosso país principalmente na zona rural é a gente tem uma uma questão histórica né vou trazer aqui brevemente o gráfico porque a gente tem ápice de detecção entre dois mil e dois mil e sete e a gente tem vai não tá passando pode passar por favor e a gente tem uma posteriorio queda no número de casos identificados como mostra essa série histórica analisada por nós. Infelizmente algumas pessoas elas acham que a queda né no número de de casos identificados ela indicaria uma melhoria na condição trabalho escravo no Brasil, mas a gente consegue fazer uma análise de regressão e ver que na verdade o número de estabelecimentos inspecionados ele é diretamente correlacionado com o número de casos identificados e pessoas resgatadas. Então quando a gente vê na série histórica uma possível diminuição no número de pessoas engatadas infelizmente isso não quer dizer que o país está melhorando nesse sentido mas sim que a gente tem estabelecimentos menos estabelecimentos inspecionados e efetivo menor em campo atrás é desses brasileiros e brasileiras e muitas vezes estrangeiros que também precisam ser resgatados você pode retornar por favor então é infelizmente né como eu trouxe no Brasil setor pecuarista é o principal responsável é por é trabalho ou na logo à escravidão no Brasil você pode retornar dois slides por favor Isso. A gente tem infelizmente né, como a gente vê na série histórica, uma diminuição no número de inspeções, isso ocasionado por restrições orçamentárias, por restrições é muitas vezes ideológicas infelizmente, mas a gente vê por exemplo que em julho de dois mil e vinte e três né, no momento da elaboração desse relatório, A gente tinha em todo o Brasil menos de dois mil fiscais de trabalho em atividade e a gente tinha ainda metade das vagas para esse esporte de trabalho que permaneciam desocupadas, então indicando claramente que há uma falta de investimento de contratação de pessoal e de efetivo maior no setor que pudesse portanto aumentar o número de estabelecimentos inspecionados e e eventualmente o número de brasileiros e brasileiras que estão nessas condições degradantes resgatados pode passar por favor pode passar mais uma então bem trazendo do do recorte Brasil para o recorte da pecuária especificamente a gente tem que infelizmente a Pecuária é responsável pela grande maioria dos casos investigados né no Brasil em âmbito nacional ela corresponde a cerca de quarenta e seis por cento dos casos e quase trinta por cento das pessoas resgatadas nessas situações, com cerca dezessete mil trabalhadores resgatados entre noventa e cinco e dois mil e vinte e dois. E aí eu trago essa interface né, entre a violação de direitos humanos e os crimes ambientais, porque a pecuária no nosso país infelizmente ela também é a indústria né atividade econômica que mais impulsiona o desmatamento e aí eu acho muito importante principalmente sendo uma representante do terceiro setor É trazer conceito pra vocês que a gente fala do inglês né que é o processo de autorização. Nós do terceiro setor muitas vezes temos dificuldade de estabelecer diálogos com o setor produtivo porque há esse processo de autorização e de distanciamento entre os grupos que que acabam impossibilitando e criando esse abismo né que favoreceria o diálogo e aí eu sempre gosto de trazer né quando eu tenho a possibilidade de dialogar com os sindicatos rurais com setor produtivo que eu sou neta de pecuaristas né? Eu não só hoje representa terceiro setor mas trago no DNA da minha família essa questão da produção agrícola né? Especificamente pecuária. Então não se trata aqui de forma alguma a ataque à atividade econômica e à pecuária no Brasil, mas sim olhar lúcido e necessário sobre o que fazer pra que a gente possa aprimorar a atividade econômica no país sabendo que ela é responsável por grande parte do nosso PIB que ela tem valor econômico e social importante mas mas para que ela aconteça de uma maneira verdadeiramente sustentável tanto ponto de vista ambiental quanto ponto de vista social e com relação a direitos humanos né que acho que aqui é inegável ninguém nessa casa conseguiria levantar e se opor a esse diálogo e a esse tema é então bom é a gente tem né só a título de de De exemplificação quando a gente fala dessa interface entre crimes ambientais e violação de direitos humanos, a gente já tem hoje estudos e dados realizados no Pará que comprovam que infelizmente é as propriedades que que têm trabalho na ala da escravidão e outras relações de direitos humanos, elas têm também o maior índice em desmatamento ilegal. Existe uma série de explicações pra isso né? Desde uma questão de teorias psicológicas né que a gente chama de que explicam como é há uma uma menor valorização da vida né como todo, mas também que muitas vezes o trabalho escravo e forçado ele é utilizado na limpeza de áreas ilegais né na na no desmatamento nessa essa mão de obra ela está sendo utilizada para impulsionar esses crimes ambientais É aí apenas alguns gráficos né, com alguns dados e referências que a gente tem hoje cerca de setenta e dois por cento do desmatamento no Brasil impulsionado pela pecuária. A gente sabe que às vezes a pecuária lá abre frente pra outras formas de produção agrícola então é muito comum eu trago também esse olhar do campo né de quem vivência e é isso principalmente no Mato Grosso do Sul onde eu resido e no Mato Grosso que a pecuária muitas vezes ela é a primeira atividade econômica a se desenvolver numa área antes florestada e depois ali a gente vai ter como subsequência principalmente hoje no Mato Grosso Mato Grosso do Sul especificamente plantações de soja e de milho mas a pecuária é a primeira que chega é que impulsiona de fato esse desmatamento é é a gente tem também desde mil novecentos e noventa aumento muito significativo no rebanho brasileiro pode passar e aí eu trago dado muito curioso né que hoje em dia no Brasil conforme foi publicado setembro desse ano a gente tem mais boi do que gente então assim a gente não tá falando de algo supérfluo a gente tá falando de número de rebanho nacional extremamente expressivo e importante, mas que traz luz a dimensão desse problema né? Hoje em dia a gente tem pecuária sendo realizado em todos os biomas brasileiros, alguma alguns mais intensificadas do que outros mas que a gente de fato tá falando de uma população né animal que é ativa na mudança de uso de terra do nosso país e hoje como a gente vê aqui nessa comissão também com relação à relação de direitos humanos e o que está sendo feito com o povo brasileiro e muitas vezes pessoas de outras as realidades dentro dessa indústria pode passar por favor e aí né recortando afunilando ainda mais então eu trago esse olhar para o Mato Grosso e Mato Grosso do Sul porque esses estados né esse estado eles são consideradas as grandes potências agrícolas hoje no Brasil a gente tem aí uma área combinada de cerca de ponto dois milhão de que se estendem por diferentes biomas, então a gente tem na área desses dois estados a gente tem ali Mata Atlântica representada, a gente tem Amazônia representada, a gente tem cerrado representado, e a gente tem também na sua integridade o pantanal porção brasileira que está situada dentro desses dois estados e que hoje também sofre com a intensificação da pecuária na região. Então a gente tem uma atividade econômica de extrema relevância como já foi dito aqui antes que para esses estados representa cerca de vinte e cinco porcento do PIB do Mato Grosso Mato sul combinados e a gente tem nesses dois estados cerca de vinte e dois por cento do rebanho nacional então a gente tá afunilando apesar da gente da gente tá afunilando a gente tá ainda é numa proporção e na magnitude muito importante para esses dois estados e pra situação do rebanho é que a que está ali nesses dois estados brasileiros é mais uma vez né a gente tem nos estados né que a pecuária ela corresponde a quase metade dos casos identificados trabalho da Naldo da escravidão então enquanto em âmbito nacional a pecuária representa cerca de quarenta e seis por cento dos casos identificados a gente tem para o Mato Grosso Mato Grosso do Sul que e a pecuária representa cerca de quarenta e quatro por cento dos casos trabalham na água à escravidão representados então mais uma vez não são números é triviais né acho que a gente precisa realmente de olhar cuidadoso dessa casa é dos deputados que representam esses dois estados para que se debrucem para que sentem e conversem com a sociedade civil organizada e com os produtores quais são as melhores é frentes e vertentes possíveis pra gente estar eliminando a violação de direitos humanos da cadeia produtiva da pecuária no Brasil. No Pantanal, né, apesar como eu falei, apesar do alto valor ecológico, a gente vê e uma intensificação da pecuária e a gente também observa na planície pantaneira casos de trabalho da água de escravidão e aí gente eu falei pra vocês que eu trago pouco esse olhar do campo também que eu tive, infelizmente né, a a oportunidade de entrevistar alguns sobreviventes, algumas pessoas resgatadas de trabalho análogo da escravidão os estados Mato Grosso Mato Grosso do Sul, também alguns outros atores importantes né dessa luta contra o trabalho escravo no Brasil e a gente tem algumas citações nesse relatório né o relatório está disponível pra download eu vou disponibilizar depois o QR Code pra vocês, mas a gente tem trazendo de procurador do trabalho em Mato Grosso a sua essa fala de que no Pantanal infelizmente talvez devido né às distâncias ao isolamento das propriedades, as condições mais degradantes o trabalho é escravo no Mato Grosso Mato Grosso do Sul. Então assim, de novo a gente tem recorte de bioma muito específico que traz além de inúmeras peculiaridades ambientais, uma peculiaridade no que tange à violação de direitos humanos também. E aí, uma coisa que eu trago pra essa casa e acho que pras pessoas nas organizações que tentam combater o trabalho ações que tentam combater o trabalho escravo no Brasil em termos de fiscalização, é que muitos desses entrevistados sobreviventes, eles falaram que quando as os carros né as secretarias os auditores chegam nas cidades pra fazer a fiscalização nas propriedades, existem olheiros nas cidades que avisam as propriedades e as foi esvaziadas dos trabalhadores. Então se você olhar hoje relatórios do do Ministério do Trabalho, você vai ver que existem relatórios em que os auditores confirmam que eles chegam nas propriedades e os abrigos estão todos esvaziados. E aí de fato os sobreviventes trazem que muitas vezes esses números estão subestimados esses trabalhadores não são resgatados porque existem olheiros que estão alertando sobre a chegada desses fiscais nas propriedades então acho que a gente também precisa pensar maneiras mais estratégicas e inteligentes de fazer essa fiscalização pra que a gente consiga de fato chegar nessas propriedades e principalmente nesses brasileiros e brasileiras pra que eles possam resgatados. Aí olhando né ainda especificamente pra o Mato Grosso Mato Grosso do Sul e pra o Pantanal brasileiro, a gente identificou é trinta e proprietários, trinta e sete propriedades rurais incluídas na chamada lista suja né que indica aí quais são as propriedades que tem violação de direitos humanos e aí esse ponto do olhar internacional, cuidadoso da cadeia de suprimento, a gente traz que onze desse proprietários desse proprietários tinham ou tem relações comerciais com gigantes da carne, como a JBS e a Marfrig. Então isso é muito importante porque a gente tem discutido cada vez mais ferramentas mercadológicas pra tentar é frear a questão de violação de direitos humanos. Infelizmente algumas dessas gigantes da carne empresas que também exportam né pra União Europeia e outros blocos econômicos de países, elas ainda mantêm relações comerciais com propriedades que já estão ou estiveram na lista suja. Então acho que isso é chamado importante também pra que essas gigantes, as presas multinacionais que lucram com a pecuária no Brasil pra que tragam esse senso de responsabilidade e ajudem a combater não só crimes ambientais mas também violação a direitos humanos nas propriedades. E aí é dentre essas propriedades a gente traz né especificamente representando aqui uma organização internacional sediada em Londres que duas das propriedades elas são as chamadas e o aproveige elas são aprovadas para exportar para o bloco econômico da União Europeia e elas foram de fato né, exportaram enquanto estavam na lista suja pra União Europeia que tem cada vez mais discutido que não quer que os produtos bovinos que adentram o seu país estejam manchados por violação de direitos humanos. E aí eu trago mais uma vez pra essa casa uma a discussão que eu sei que já está sendo pautada em diferentes âmbitos do executivo e do legislativo mas que a gente precisa de maior transparência e rastreabilidade na indústria da carne então a gente consegue hoje saber de algumas propriedades dessas que exportam pra União Europeia por sistema voluntário através do SISBOV mas a gente precisa de fato duma publicização duma liberação e duma capacidade das indústrias de terem acesso às guias de trânsito animal. Hoje em e a gente sabe que ocorre infelizmente ainda no nosso país muita lavagem de gado propriedades que estão na lista suja que conseguem enviar os seus rebanhos pra propriedades teoricamente limpas pra partir dessas propriedades comercializarem com gigantes da carne e comercializarem com o mercado internacional e e na verdade existe uma uma falta mesmo de de transparência no setor que precisa ser combatida e que pode ser combatida porque por uma questão sanitária, esses dados eles já existem, eu acho que falta também pouco mais de pulso nessa casa de entendimento que a transparência é para aqueles que não temem né que não não tem nenhuma violação, que não tem crimes ambientais, o porquê não né, o que está tentando esconder se você proprietário rural que tem responsabilidade com o país com o povo brasileiro com a produção sustentável não há porque a gente insistir em manter essas guias de trânsito animal invisíveis né, para o público e para as empresas que comercializam. Aí eu já estou né finalizando a minha fala só trazendo algumas recomendações específicas, algumas que já foram pautadas nessa casa mas que eu acho que é importante a gente coai esses pedidos e salientar, é que a gente precisa obviamente de aumento na verba para o combate do trabalho ranala da escravidão e também imigração forçada né, que no Pantanal por ser bioma ali de Tríplice fronteira a gente ainda vê muitas pessoas têm documentos que não conseguem retornar aos seus países de origem, então a gente precisa de investimento maior então eu peço a essa casa que também considere né né questões orçamentárias pra gente de fato combater ter mais auditores fiscais ter efetivo maior maneiras mais inteligentes a inteligência brasileira aplicada também né com com a sua máxima potência nessa questão, a gente de fato precisa também tem caráter punitivo nas verbas rescisórias, né, a gente se depara com casos com escândalos como recentemente a gente soube de paraguaio que ficou escravizado por mais de duas décadas em uma propriedade rural no Pantanal e as verbas rescisórias apresentadas a essas pessoas é são são ínfimas assim é vergonhoso a gente pensar que uma pessoa perca quase uma vida inteira numa situação análogo à escravidão pra ter uma verba rescisória ali que representa sabe quase nada então assim acho que tem caráter punitivo importante a gente precisa de uma caneta mais pesada também nessa punição e nessas verbas rescisórias, do ponto de vista da violação mesmo de direitos. Aqui a gente tem feito trabalho junto com o Senado mas que eu trago também a discussão pra essa casa sobre a questão da expropriação dos imóveis rurais de qualquer imóvel na verdade onde seja comprovada a violação de direitos humanos, o trabalho análogo à escravidão, e aí eu trago que infelizmente isso se torna cada vez mais necessário porque a gente tem propriedades reincidentes, então a gente tem propriedades que são atuadas onde o trabalho análogo à escravidão é evidenciado e elas voltam a cometer o crime então essas propriedades elas não podem continuar na mão é desse proprietários que infelizmente ainda não tiveram compromisso né com os direitos humanos e também como eu trouxe aqui é uma liberação né, acesso maior às guias de trânsito animal e também a gente desarquivar essa PEC que fala sobre a impresestibilidade do crime. É mais só pra gente finalizar. É já estou encerrando, deputado, é só aqui convite né, que a gente tem o QR Code pra esse relatório, com os dados completos, as nossas as fontes, como esses dados foram tratados desde o PANGiva né da das exportações internacionais, como que a gente conseguiu fazer esse link entre as propriedades que estão violando direitos humanos e essa carne e outros produtos bovinos que estão chegando na União Europeia, depois vocês podem me procurar eu passo pra vocês também o link, e aí por fim, pode passar por favor? E aí por fim né eu tenho outros materiais a serem disponibilizados aqui sobre a cadeia produtiva no Pantanal, quem quem quiser por favor pode me procurar depois, e eu deixo também os meus contatos e convite pra agora na terçafeira a gente vai ter café da manhã de oito às dez no salão nobre aqui dessa casa, para falar pouquinho especificamente do Pantanal de violação de direitos humanos e também de crimes ambientais e falar pouquinho de qual Pantanal a gente herdou e qual Pantanal a gente está deixando para trás para futuras gerações. Obrigada.",
       "speaker": {
         "name": "LUCIANA LEITE",
-        "position": "Representante - Environmental Justice Foundation - Brasil (EJF)"
+        "position": "Representante - Environmental Justice Foundation - Brasil (EJF)",
+        "slug": "luciana-leite"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Aumento de denúncias e resgates em luta contra trabalho análogo a escravidão nos últimos três anos; precarização no mercado de trabalho; efeito da crise ambiental na vulnerabilidade de trabalhadores; eficácia das instituições no combate ao trabalho escravo; recomendação de adoção de novas estratégias, redução da vulnerabilidade dos trabalhadores, aprovação de projetos e emendas combativos à escravidão, e ação repressiva em cadeias produtivas, como a do café.",
       "speaker": {
         "name": "LUCIANO ARAGÃO SANTOS",
-        "position": "Procurador - Ministério Público do Trabalho - MPT"
+        "position": "Procurador - Ministério Público do Trabalho - MPT",
+        "slug": "luciano-aragao-santos"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": "Procurador do Ministério Público do Trabalho refere resgate de 2000 trabalhadores em café, aproximadamente 100.000 trabalhadores no total, com fornecedores certificados pela Starbucks com trabalho escravo em suas cadeias produtivas. Resultou em ações judiciais do MPT.",
       "speaker": {
         "name": "LUCIANO ARAGÃO SANTOS",
-        "position": "Procurador - Ministério Público do Trabalho - MPT"
+        "position": "Procurador - Ministério Público do Trabalho - MPT",
+        "slug": "luciano-aragao-santos"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -313,7 +339,8 @@
       "summary": "Discursou sobre trabalho escravo em seminário, resgate em Bento Gonçalves, e discussões com setor produtivo uva/vinho para boas práticas trabalhistas. Mencionou aumento de denúncias, dificuldades na fiscalização, metas para safra da uva com mais fiscalizações e conscientização. Detalhou desafios com estrangeiros e indígenas, necessidade de políticas públicas e consequências mais graves para empregadores praticando trabalho escravo.",
       "speaker": {
         "name": "VANIUS CORTE",
-        "position": "Gerente Regional - Ministério do Trabalho e Emprego em Caxias do Sul - RS"
+        "position": "Gerente Regional - Ministério do Trabalho e Emprego em Caxias do Sul - RS",
+        "slug": "vanius-corte"
       }
     },
     {
@@ -325,7 +352,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -336,7 +364,8 @@
       "summary": "OIT promove trabalho decente para todos; trabalho escravo é antítese do trabalho decente; milhões de pessoas em escravidão moderna globalmente; trabalho forçado e casamento forçado principais formas de escravidão moderna; urge aprovação do Protocolo à Convenção 29 da OIT na Câmara.",
       "speaker": {
         "name": "VINÍCIUS CARVALHO PINHEIRO",
-        "position": "Diretor Geral - Organização Internacional do Trabalho - OIT"
+        "position": "Diretor Geral - Organização Internacional do Trabalho - OIT",
+        "slug": "vinicius-carvalho-pinheiro"
       }
     },
     {
@@ -347,7 +376,8 @@
       "summary": "Trabalho escravo explorado no privado; 6,3 milhões em exploração sexual e 3,6 milhões em trabalho forçado; no Brasil, 2.847 resgates em 2023, maior número em anos recentes; vulnerabilidade, precarização, terceirização, irresponsabilidade, enfraquecimento institucional e impunidade contribuem; centenas de milhares em condições semelhantes; mobilizar sociedade e empresas; OIT apoia erradicação.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Prof. Paulo Fernando -- por Participante -- Bohn Gass",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-prof-paulo-fernando-por-participante-bohn-gass"
       }
     },
     {
@@ -359,7 +389,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -370,7 +401,8 @@
       "summary": "Participante defendeu políticas para fixar trabalhadores migrantes em suas regiões de origem, usando indenizações para melhorar condições de vida, como poços artesianos. Elegeu exemplo no café de Minas Gerais e cana-de-açúcar em São Paulo. Elogiou leis de devida diligência e queria acabar com trabalho escravo no Brasil.",
       "speaker": {
         "name": "MARIA INÊS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "maria-ines"
       }
     },
     {
@@ -382,7 +414,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     }
   ],

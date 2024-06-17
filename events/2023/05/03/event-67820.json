@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Fundo de ciência e tecnologia recebeu integralidade do Congresso, investindo quase 10 bilhões de reais em 2",
       "speaker": {
         "name": "LUIS MANUEL REBELO FERNANDES",
-        "position": "Secretário-Executivo do Ministério da Ciência, Tecnologia e Inovação (MCTI)"
+        "position": "Secretário-Executivo do Ministério da Ciência, Tecnologia e Inovação (MCTI)",
+        "slug": "luis-manuel-rebelo-fernandes"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Governo federal deve recompor FNDCT; necessário planejamento estratégico e inclusão em ciência e tecnologia; valorar transparência e democracia em decisões; descentralizar ciência no território nacional; Ministério de Ciência, Tecnologia e Inovação deve retomar papel estratégico; revisar e cumprir Lei 7702/202 do FNDCT.",
       "speaker": {
         "name": "Profª. FERNANDA ANTÔNIA DA FONSECA SOBRAL",
-        "position": "Vice-Presidente da Sociedade Brasileira para o Progresso da Ciência (SBPC)"
+        "position": "Vice-Presidente da Sociedade Brasileira para o Progresso da Ciência (SBPC)",
+        "slug": "profª-fernanda-antonia-da-fonseca-sobral"
       }
     },
     {
@@ -63,7 +67,8 @@
       "summary": "Discurso propõe alterar alocação de recursos do FNDCT: reduzir parte reembolsável de 50% para 15%, aumentar parte não reembolsável de 25% para 75%, e financiar organizações sociais apenas por meio de projetos e planos de ação. Também destaca importância de incluir ciência na reforma.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luisa Canziani -- por Participante -- Mersinho Lucena",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luisa-canziani-por-participante-mersinho-lucena"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -86,7 +92,8 @@
       "summary": "Reitor da Unifesspa, representando Andifes, apresentou importância de universidades federais em ciência e tecnologia, lamentou falta de investimento em infraestrutura e orçamento, anunciou criação de ANDIFES Norte e proposta de financiamento de pesquisas na Amazônia, e solicitou revisão de distribuição de recursos e participação na política de ciência e tecnologia no Brasil.",
       "speaker": {
         "name": "Prof. FRANCISCO RIBEIRO DA COSTA",
-        "position": "reitor da Universidade Federal Sul e Sudeste do Pará (Unifesspa), representando a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes)"
+        "position": "reitor da Universidade Federal Sul e Sudeste do Pará (Unifesspa), representando a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes)",
+        "slug": "prof-francisco-ribeiro-da-costa"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -108,7 +116,8 @@
       "transcription": "Nesse momento",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Mersinho Lucena -- por Participante -- Luisa Canziani",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-mersinho-lucena-por-participante-luisa-canziani"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -130,7 +140,8 @@
       "summary": "A assessora da Finep discutiu otimismo sobre o futuro do país, história da instituição, financiamento em ciência, tecnologia e inovação, e apoio em geração de empregos e investimentos. Ela priorizou industrialização, inovação e áreas específicas, e destacou o desafio da burocracia em recursos.",
       "speaker": {
         "name": "EDWARD MADUREIRA BRASIL",
-        "position": "Assessor da Presidência da Financiadora de Estudos e Projetos (Finep)"
+        "position": "Assessor da Presidência da Financiadora de Estudos e Projetos (Finep)",
+        "slug": "edward-madureira-brasil"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -153,7 +165,8 @@
       "summary": "Funtetel's objetivo e funcionamento detalhados; recursos atuais limitam pesquisa e desenvolvimento. Presidente busca apoio para projeto de lei ampliando aplicação de recursos não reembolsáveis.",
       "speaker": {
         "name": "PEDRO LUCAS DA CRUZ PEREIRA ARAÚJO",
-        "position": "Presidente do Conselho Gestor do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel)"
+        "position": "Presidente do Conselho Gestor do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel)",
+        "slug": "pedro-lucas-da-cruz-pereira-araujo"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "Agradecimento a convite, elogio à presidente jovem, cumprimentos a presentes, subistituição no CONFAP, convite para reunião em São Luís, ênfase na missão do CONFAP, destaque para execução do FNDCT em 2022, importância da FINEP, papel do FINEP e BNDES, PLN e crédito suplementar, limpeza e descentralização do FNDCT, autonomia política de fomento local.",
       "speaker": {
         "name": "FÁBIO GUEDES GOMES",
-        "position": "Diretor Regional do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) da Região Nordeste e Presidente da Fundação de Amparo à Pesquisa do Estado de Alagoas (Fapeal)"
+        "position": "Diretor Regional do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) da Região Nordeste e Presidente da Fundação de Amparo à Pesquisa do Estado de Alagoas (Fapeal)",
+        "slug": "fabio-guedes-gomes"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -199,7 +215,8 @@
       "summary": "Investimento em ciência e tecnologia essencial para desenvolvimento; aumentar declínio de recursos, menor burocracia na liberação; apoio ao aumento de verbas para ciência, visando sociedade justa e desenvolvida. Confies representa 98 fundações, gerenciando 20 mil projetos de pesquisa.",
       "speaker": {
         "name": "Profª. SANDRAMARA MATIAS CHAVES",
-        "position": "Representante do Conselho Nacional das Fundações de Apoio às Instituições de Ensino Superior e de Pesquisa Científica e Tecnológica (Confies)"
+        "position": "Representante do Conselho Nacional das Fundações de Apoio às Instituições de Ensino Superior e de Pesquisa Científica e Tecnológica (Confies)",
+        "slug": "profª-sandramara-matias-chaves"
       }
     },
     {
@@ -211,7 +228,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -222,7 +240,8 @@
       "summary": "Coordenadora de Parcerias Estratégicas do IEL, representando CNI, ressalta importância de FNDCT e fundos setoriais na inovação e impacto de financiamento reduzido. Ela defende melhor alocação de recursos, mudança na porcentagem atribuída a projetos reembolsáveis, definição de diretrizes para novos investimentos e papel central da indústria na discussão de nova estratégia nacional de STI.",
       "speaker": {
         "name": "DEBORA MENDES CARVALHO",
-        "position": "Coordenadora de Parcerias Estratégicas do Instituto Euvaldo Lodi (IEL), representando a Confederação Nacional da Indústria (CNI)"
+        "position": "Coordenadora de Parcerias Estratégicas do Instituto Euvaldo Lodi (IEL), representando a Confederação Nacional da Indústria (CNI)",
+        "slug": "debora-mendes-carvalho"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 220662,
         "name": "Lucas Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lucas-ramos"
       }
     },
     {
@@ -258,7 +279,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -282,7 +305,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -305,7 +330,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -340,7 +368,8 @@
       "summary": "Secretário-Executivo do MCTI destaca importância do FNDCT como principal ferramenta de financiamento do desenvolvimento científico, tecnológico e de inovação nacional, com foco em aplicações que impactem o crescimento econômico e social do país. Em maio, reunião do conselho diretor do FNDCT e em 2024, quinta conferência nacional de ciência, tecnologia e inovação priorizando projetos estruturantes.",
       "speaker": {
         "name": "LUIS MANUEL REBELO FERNANDES",
-        "position": "Secretário-Executivo do Ministério da Ciência, Tecnologia e Inovação (MCTI)"
+        "position": "Secretário-Executivo do Ministério da Ciência, Tecnologia e Inovação (MCTI)",
+        "slug": "luis-manuel-rebelo-fernandes"
       }
     },
     {
@@ -350,7 +379,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luisa Canziani -- por Participante -- Raimundo Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luisa-canziani-por-participante-raimundo-santos"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -373,7 +404,8 @@
       "summary": "Assessor da Presidência da Financiadora de Estudos e Projetos (Finep) afirma: Finep aberta a colaborar na construção, gestora do FNDCT; legalidade importante, mas prioriza aplicação eficaz de recursos em ciência, tecnologia e infraestrutura; Brasil possui invejável rede de instituições científicas; política industrial precisa integrar academia e indústria.",
       "speaker": {
         "name": "EDWARD MADUREIRA BRASIL",
-        "position": "Assessor da Presidência da Financiadora de Estudos e Projetos (Finep)"
+        "position": "Assessor da Presidência da Financiadora de Estudos e Projetos (Finep)",
+        "slug": "edward-madureira-brasil"
       }
     },
     {
@@ -383,7 +415,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Raimundo Santos -- por Participante -- Luisa Canziani",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-raimundo-santos-por-participante-luisa-canziani"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -406,7 +440,8 @@
       "summary": "Vice-Presidente da SBPC concorda com convergência nas discussões sobre ciência, tecnologia e inovação. Destaca importância do CD, FNDCT, planejamento estratégico, descentralização e recursos não reembolsáveis para infraestrutura de pesquisa nas universidades. Menciona contribuição do FINEP e FNDCT em projetos estratégicos e infraestrutura de laboratórios universitários.",
       "speaker": {
         "name": "Profª. FERNANDA ANTÔNIA DA FONSECA SOBRAL",
-        "position": "Vice-Presidente da Sociedade Brasileira para o Progresso da Ciência (SBPC)"
+        "position": "Vice-Presidente da Sociedade Brasileira para o Progresso da Ciência (SBPC)",
+        "slug": "profª-fernanda-antonia-da-fonseca-sobral"
       }
     },
     {
@@ -418,7 +453,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -429,7 +465,8 @@
       "summary": "Reitor da Unifesspa, representando Andifes, elogiou discussão e ofereceu contribuição à reforma do sistema nacional de ciência e tecnologia.",
       "speaker": {
         "name": "Prof. FRANCISCO RIBEIRO DA COSTA",
-        "position": "reitor da Universidade Federal Sul e Sudeste do Pará (Unifesspa), representando a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes)"
+        "position": "reitor da Universidade Federal Sul e Sudeste do Pará (Unifesspa), representando a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes)",
+        "slug": "prof-francisco-ribeiro-da-costa"
       }
     },
     {
@@ -440,7 +477,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -451,7 +489,8 @@
       "summary": "Presidente do Conselho Gestor do Funttel enfatizou importância do planejamento e previsibilidade de recursos para apoio à pesquisa e desenvolvimento tecnológico no setor de telecomunicações. Sugestionou trienal de aplicações não reembolsáveis com área econômica do governo para maior previsibilidade e efetividade na política pública de apoio à tecnologia de telecomunicações.",
       "speaker": {
         "name": "PEDRO LUCAS DA CRUZ PEREIRA ARAÚJO",
-        "position": "Presidente do Conselho Gestor do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel)"
+        "position": "Presidente do Conselho Gestor do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel)",
+        "slug": "pedro-lucas-da-cruz-pereira-araujo"
       }
     },
     {
@@ -462,7 +501,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -473,7 +513,8 @@
       "summary": "Convidado aprecia participação na mesa de discussions sobre pesquisa; CONFAP não concorda com ministério; reitera importância de projetos estratégicos; elogia retomada de conferências nacionais de CTI; oferece apoio da iniciativa ICTP; cita exemplos de saltos do Brasil em ciência e tecnologia; vê janelas abertas para respostas mundiais a desafios climáticos e fome.",
       "speaker": {
         "name": "FÁBIO GUEDES GOMES",
-        "position": "Diretor Regional do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) da Região Nordeste e Presidente da Fundação de Amparo à Pesquisa do Estado de Alagoas (Fapeal)"
+        "position": "Diretor Regional do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) da Região Nordeste e Presidente da Fundação de Amparo à Pesquisa do Estado de Alagoas (Fapeal)",
+        "slug": "fabio-guedes-gomes"
       }
     },
     {
@@ -485,7 +526,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -496,7 +538,8 @@
       "summary": "A Representante do Conselho Nacional das Fundações de Apoio às Instituições de Ensino Superior e de Pesquisa Científica e Tecnológica (Confies) agradeceu a oportunidade de participar do debate, estressando a importância da recomposição do FNDCT e o papel fundamental das fundações de apoio na gestão e administração de projetos em todo o país com transparência, ética e qualidade.",
       "speaker": {
         "name": "Profª. SANDRAMARA MATIAS CHAVES",
-        "position": "Representante do Conselho Nacional das Fundações de Apoio às Instituições de Ensino Superior e de Pesquisa Científica e Tecnológica (Confies)"
+        "position": "Representante do Conselho Nacional das Fundações de Apoio às Instituições de Ensino Superior e de Pesquisa Científica e Tecnológica (Confies)",
+        "slug": "profª-sandramara-matias-chaves"
       }
     },
     {
@@ -508,7 +551,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     },
     {
@@ -519,7 +563,8 @@
       "summary": "Coordenadora de Parcerias Estratégicas do Instituto Euvaldo Lodi (IEL), representando a Confederação Nacional da Indústria (CNI) valoriza alocação de recursos para organizações sociais, especificamente para tecnologia e inovação, exemplificando com EMBRAPII. Ela incentiva aplicação do FNDCT em instituições com contrato de gestão em ciência, tecnologia e inovação, desde que não substitua investimento do próprio ministério.",
       "speaker": {
         "name": "DEBORA MENDES CARVALHO",
-        "position": "Coordenadora de Parcerias Estratégicas do Instituto Euvaldo Lodi (IEL), representando a Confederação Nacional da Indústria (CNI)"
+        "position": "Coordenadora de Parcerias Estratégicas do Instituto Euvaldo Lodi (IEL), representando a Confederação Nacional da Indústria (CNI)",
+        "slug": "debora-mendes-carvalho"
       }
     },
     {
@@ -531,7 +576,8 @@
       "speaker": {
         "id": 204410,
         "name": "Luisa Canziani",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luisa-canziani"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -51,7 +54,8 @@
       "transcription": "Compro fermento em suas palavras.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Eleito presidente da comissão de previdência e assistência social, Fernando Rodolfo convidado para assumir e desejado êxito; no ano passado, presidiu comissão de seguridade social e família, teve alta produtividade com 561 propostas aprovadas, incluiu importante programa de primeira infância.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": "Obrigatoriedade assistentes sociais em instituições; comissão continuará temas relevantes; obrigado colaboradores, boas-vindas a novos parlamentares; parabéns deputado Fernando Rodolfo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pinheirinho -- por Participante -- Fernando Rodolfo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pinheirinho-por-participante-fernando-rodolfo"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     }
   ],

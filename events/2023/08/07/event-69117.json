@@ -17,7 +17,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -59,7 +63,8 @@
       "summary": "Cento e cinquenta anos da Convenção Batista Mineira: início em terras de Minas Gerais, liderada por brasileiros e americanos, expandindo-se por todo o estado e atingindo hoje 497 municípios. A convenção se dedica à fortalecer igrejas, capacitar lideranças e promover atividades missionárias, educacionais e sociais, impactando vidas por meio do evangelho.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "A pedido do nosso deputado.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": "Capitão Alden assume presidência; registra presença de Sargento Gonçalves.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Delegada Ione -- por Participante -- Capitão Alden",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-delegada-ione-por-participante-capitao-alden"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -126,7 +136,8 @@
       "transcription": "Com muita",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Capitão Alden -- por Participante -- Delegada Ione",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-capitao-alden-por-participante-delegada-ione"
       }
     },
     {
@@ -138,7 +149,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -148,7 +160,8 @@
       "transcription": "",
       "speaker": {
         "name": "Coral Cristolândia do Planalto central",
-        "position": ""
+        "position": "",
+        "slug": "coral-cristolandia-do-planalto-central"
       }
     },
     {
@@ -160,7 +173,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -171,7 +185,8 @@
       "summary": "Discurso do Pastor e Presidente da Convenção Batista Mineira concentrou-se na graça de Deus, responsável por renovar e dar esperança aos batistas mineiros, celebrando 150 anos de história. Foi ressaltada a transformação operada pelo evangelho de Jesus, através de missionários e discípulos. A ênfase recaiu sobre a necessidade de oração e talentos juvenis, com o objetivo de cumprir a vontade de Deus. A mensagem terminou com glória e honra a Deus.",
       "speaker": {
         "name": "SANDRO FERREIRA",
-        "position": "Pastor e Presidente da Convenção Batista Mineira"
+        "position": "Pastor e Presidente da Convenção Batista Mineira",
+        "slug": "sandro-ferreira"
       }
     },
     {
@@ -183,7 +198,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -194,7 +210,8 @@
       "summary": "Reconhecendo liderança da Convenção Batista Mineira, homenageando pastores e antecessores, destacando sacrifícios e crescimento desde suas 7 igrejas fundadoras. Sua missão: glorificar Deus através da continuação de sua grande obra.",
       "speaker": {
         "name": "MÁRCIO SANTOS",
-        "position": "Pastor e Diretor- Executivo da Convenção Batista Mineira"
+        "position": "Pastor e Diretor- Executivo da Convenção Batista Mineira",
+        "slug": "marcio-santos"
       }
     },
     {
@@ -206,7 +223,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -217,7 +235,8 @@
       "summary": "Pastor e Vice-Presidente da Convenção Batista Brasileira agradece convocação, elogia colaboradores e sociedade, cita passagem bíblica e encoraja igreja a ser sal da terra, prometendo continuar sendo luz do mundo e abençoando a pátria.",
       "speaker": {
         "name": "RAPHAEL ABDALA",
-        "position": "Pastor e Vice - Presidente da Convenção Batista Brasileira"
+        "position": "Pastor e Vice - Presidente da Convenção Batista Brasileira",
+        "slug": "raphael-abdala"
       }
     },
     {
@@ -229,7 +248,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -240,7 +260,8 @@
       "summary": "Pastor e Presidente da Convenção Batista do Planalto Central leu passagem da Bíblia em Atos 17:24-28 sobre Deus, criador e sustentador de todas as coisas. Exortou à honra e glória a Deus, único vivo e verdadeiro, e desejou que Convenção Batista Mineira continue sendo bíblica e glorificando a Deus. Pede por iluminação do Espírito Santo para parlamentares e bençãos aos batistas em Minas Gerais.",
       "speaker": {
         "name": "BENILTON CUSTÓDIO",
-        "position": "Pastor e Presidente da Convenção Batista do Planalto Central"
+        "position": "Pastor e Presidente da Convenção Batista do Planalto Central",
+        "slug": "benilton-custodio"
       }
     },
     {
@@ -252,7 +273,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -263,7 +285,8 @@
       "summary": "Diretor-Executivo da Convenção Batista do Planalto Central:",
       "speaker": {
         "name": "LUÍS CLÁUDIO PESSANHA",
-        "position": "Diretor- Executivo da Convenção Batista do Planalto Central"
+        "position": "Diretor- Executivo da Convenção Batista do Planalto Central",
+        "slug": "luis-claudio-pessanha"
       }
     },
     {
@@ -275,7 +298,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -287,7 +311,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -299,7 +324,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -310,7 +336,8 @@
       "summary": "Pastor e Executivo da Ubra agradecem à convenção batista mineira por 105 anos de trabalho missionário e ação social, considerando os brasileiros uma bênção para a América Latina e o mundo. Expressam gratidão e bendições à vida e trabalho dos brasileiros.",
       "speaker": {
         "name": "PARISH",
-        "position": "Pastor e  Executivo da Ubra"
+        "position": "Pastor e  Executivo da Ubra",
+        "slug": "parish"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -333,7 +361,8 @@
       "summary": "Pastor e Presidente da Primeira Igreja Batista de Juiz de Fora agradece a deputada Ione e igreja por homenagem a parlamentares batistas. Ele destaca importância de ter pessoas como Ione para mudar nação, pois leis aprovadas podem afetar liberdade de pregar evangelho. Ele expressa gratidão pela oportunidade de servir à denominação batista mineira e pede orações para a igreja continuar sendo alvo de bênçãos e construir nação com valores espirituais e morais.",
       "speaker": {
         "name": "ALOIZIO PENIDO",
-        "position": "Pastor e Presidente da Primeira Igreja Batista de Juiz de Fora"
+        "position": "Pastor e Presidente da Primeira Igreja Batista de Juiz de Fora",
+        "slug": "aloizio-penido"
       }
     },
     {
@@ -344,7 +373,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -355,7 +385,8 @@
       "summary": "Coral candango musica festival Jesus com maestrina Pollyanna Bragança, graças a pastor Peçanha.",
       "speaker": {
         "name": "Apresentação Musical Coral Candango",
-        "position": ""
+        "position": "",
+        "slug": "apresentacao-musical-coral-candango"
       }
     },
     {
@@ -367,7 +398,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -377,7 +409,8 @@
       "transcription": "",
       "speaker": {
         "name": "Apresentação Musical Coral Candango",
-        "position": ""
+        "position": "",
+        "slug": "apresentacao-musical-coral-candango"
       }
     },
     {
@@ -389,7 +422,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -400,7 +434,8 @@
       "summary": "Pastor e Diretor-Executivo da Convenção Batista Mineira agradeceu deputada Ione por evento em honra a batistas mineiros, louvou Deus e orou por Ione, sua família e deputados, pedindo que leis sejam aprovadas com orientação divina. Reiterou que Deus é Senhor de tudo.",
       "speaker": {
         "name": "MÁRCIO SANTOS",
-        "position": "Pastor e Diretor- Executivo da Convenção Batista Mineira"
+        "position": "Pastor e Diretor- Executivo da Convenção Batista Mineira",
+        "slug": "marcio-santos"
       }
     },
     {
@@ -412,7 +447,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     }
   ],

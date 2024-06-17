@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Presidente de comissão agradece colaboradores, passa posição para sucessor e encerra votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Novo presidente, Ariel Machado, assume comissão de cultura no Rio de Janeiro. Machado destaca importância da cultura como fator de transformação social e econômica, enfatizando investimento na cultura, especialmente para geração futura. Visão inclui oferecer cultura desde ensino fundamental e transformar Rio em berço cultural vibrante.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Aliel Machado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-aliel-machado"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     }
   ],

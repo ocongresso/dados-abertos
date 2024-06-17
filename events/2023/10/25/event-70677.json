@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74784,
         "name": "Luiza Erundina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "luiza-erundina"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -54,7 +57,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -66,7 +70,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -77,7 +82,8 @@
       "summary": "A proposta facilita definição de \"condição de ferroviário\" e garante direitos independentemente da empresa, público ou privada, que o trabalhador sirva. A lei precisa se adaptar à realidade, que mudou há cinco anos com a concessão da malha ferroviária. A medida coloca fim em dúvidas e garante os direitos dos trabalhadores ferroviários há muito postergados.",
       "speaker": {
         "name": "Herbert Vieira de Moura",
-        "position": "Advogado"
+        "position": "Advogado",
+        "slug": "herbert-vieira-de-moura"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -147,7 +158,8 @@
       "transcription": "Obrigado, viu?",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Zé Silva -- por Participante -- Pedro Uczai",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ze-silva-por-participante-pedro-uczai"
       }
     },
     {
@@ -159,7 +171,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -171,7 +184,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -183,7 +197,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -194,7 +209,8 @@
       "summary": "Participante fala em nome de comunidade quilombola, buscando justiça social e igualdade racial. Pede aprovação de projeto de inclusão no programa de crédito fundiário, para ter oportunidades de terra e atividades produtivas, melhorando vida e sustento familiar. Espera apoio dos congressistas.",
       "speaker": {
         "name": "Jacilane Pereira",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jacilane-pereira"
       }
     },
     {
@@ -206,7 +222,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -217,7 +234,8 @@
       "summary": "Cigano agradece convite a fala sobre inclusão dos povos cigano no programa governamental, feliz por visibilidade e igualdade racial, menciona história de exclusão. Celebra primeiro uso de terra gratuito em Brasília para comunidade cigana, e destaca mudança do nomadismo ao ser itinerante. Expressa gratidão por programa de aquisição e regulamentação fundiária.",
       "speaker": {
         "name": "Wanderley da Rocha",
-        "position": ""
+        "position": "",
+        "slug": "wanderley-da-rocha"
       }
     },
     {
@@ -229,7 +247,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -239,7 +258,8 @@
       "transcription": "Muito obrigado, boa tarde senhor presidente, boa tarde a todos os parlamentares e toda a pátria. Meu nome é Vanderlei da Rocha, sou cigano da etnia Calon, presidente administrativo da Associação Nacional das Etineiras Ciganas do Brasil, e com maior alegria e satisfação quero agradecer a nossa amiga Jaciene por ter me convidado para que está presente nessa casa das lei, né, a casa nossa, a casa do povo, e estou bastante encorajado por estar observando aqui na fala do nobre deputado José Silva, a inclusão dos povos cigano nesse programa tão importante no Brasil. Fico muito feliz por ver que nós cigano estamos saindo da invisibilidade, porque o sonho de nós cigano no Brasil é ser visível, é ter direito de igualdade racial, e ser incluído em todos os programas do governo, tendo em vista que em toda a nossa história fomos excluído desse dessas oportunidade. Quero informar aos senhores e senhoras que os nós ciganos aqui em Brasília, pela primeira vez no Brasil, em nível de Brasil e América Latina, conseguimos do governo federal o primeiro uso de terra, de sessão de terra, uso de sessão usos gratuitos, sessão de uso gratuito, na rota do Carvalho em Sobral, no Distrito Federal, e observando a fala do nosso deputado na inclusão desse desses programa dando nós a oportunidade de poder fazer também algo individual por nós mesmo, isso me deixa bastante encorajado. E quero dizer que o nomadismo entre nós cigano em todo o Brasil não foi uma coisa que foi escolhida por nós, foi nos imposto ser nômade. A palavra cigano significa povo nômade, e o nomadismo foi imposto a nós, não foi porque nós quis. Hoje, pelas muitas e ricas misericórdia de Deus, estamos habitados em várias partes da nossa federação, não sou mais nômades, somos itinerantes. E agora com essa palavra tão importante, com esse programa tão importante aí de aquisição aí desse programa de regulação fundiária, me encorajei bastante, só tenho agradecer a Deus e toda essa casa das lei na pessoa dessas autoridade. Muito obrigado, José Silane, obrigado a todos, que Deus nos abençoe.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pedro Uczai -- por Participante -- Zé Silva",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pedro-uczai-por-participante-ze-silva"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     },
     {
@@ -262,7 +283,8 @@
       "summary": "Ex-simples, humilde origem; pedido reconhecimento, apoio; recebeu nome Juscelino aqui, ajudou construir Brasília; apoia Zé Silva, precisa carro transporte comunitário; agradece convidado Jacilaine, pede resposta; também necessita carro pessoal.",
       "speaker": {
         "name": "Jucelino Pereira Souza",
-        "position": ""
+        "position": "",
+        "slug": "jucelino-pereira-souza"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 160632,
         "name": "Zé Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-silva"
       }
     }
   ],

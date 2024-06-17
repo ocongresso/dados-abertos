@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Convido para compor a mesa",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Bem-vindo à UNIFOR: universidade do Ceará com ensino, pesquisa e extensão de excelência. Oferece 150 cursos, a maioria por mestres e doutores; valoriza inovação com parque tecnológico e parcerias com empresas; extensão é parte do currículo; universidade inclusiva; alunos egressos e rankings internacionais reconhecem nossa excelência.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -92,7 +99,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernanda Pessoa -- por Participante -- Mauro Benevides Filho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernanda-pessoa-por-participante-mauro-benevides-filho"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -137,7 +148,8 @@
       "transcription": "Concedo a",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Mauro Benevides Filho -- por Participante -- Fernanda Pessoa",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-mauro-benevides-filho-por-participante-fernanda-pessoa"
       }
     },
     {
@@ -148,7 +160,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -160,7 +173,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -172,7 +186,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -183,7 +198,8 @@
       "summary": "Universidade de Fortaleza, 50 anos de excelência no ensino superior do Ceará. Fundada por Edson Queiroz em 1973, promove desenvolvimento por meio da formação de capital humano. Oferece 44 cursos de graduação, 80 de especialização, 5 mestrados profissionais e 5 programas de doutorado. Reconhecida por responsabilidade social, realiza projetos de extensão e assistência à comunidade, recebendo selo de universidade socialmente responsável por 19 anos consecutivos.",
       "speaker": {
         "name": "RANDAL MARTINS POMPEU",
-        "position": "Magnífico Reitor da Universidade de Fortaleza - Unifor"
+        "position": "Magnífico Reitor da Universidade de Fortaleza - Unifor",
+        "slug": "randal-martins-pompeu"
       }
     },
     {
@@ -195,7 +211,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     }
   ],

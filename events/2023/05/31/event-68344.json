@@ -13,7 +13,8 @@
       "summary": "Iniciou-se entrega do Prêmio Doutor Pinotti, Hospital Amigo da Mulher, edição 2023.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "Neste momento ouviremos a doutora Mariane Pinotti filha do homenageado Doutor Pinotti. Boa tarde.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -43,7 +46,8 @@
       "transcription": "Neste momento tenho a palavra a senhora segunda secretária deputada Maria do Rosário.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -55,7 +59,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -65,7 +70,8 @@
       "transcription": "Neste momento ouviremos a doutora Mariane Pinotti filha do homenageado Doutor Pinotti. Boa tarde.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -76,7 +82,8 @@
       "summary": "Diretora Centro de Pesquisa Clínica da Escola de Ginecologia e Mastologia José Pinotti fala sobre direitos humanos e constituição, destacando aumento de mortalidade materna no Brasil e importância de leis serem cumpridas, especialmente no sistema único de saúde. Lê poema do falecido pai, destacando seu interesse em conhecimento, relacionamento humano, e atuação em causas justas, especialmente para melhorar condição da mulher no mundo.",
       "speaker": {
         "name": "MARIANNE PINOTTI",
-        "position": "Diretora do Centro de Pesquisa Clínica da Escola de Ginecologia e Mastologia José Pinotti"
+        "position": "Diretora do Centro de Pesquisa Clínica da Escola de Ginecologia e Mastologia José Pinotti",
+        "slug": "marianne-pinotti"
       }
     },
     {
@@ -87,7 +94,8 @@
       "summary": "Mestre de Cerimônia apresenta trecho de entrevista do Dr. Pinotti, gentilmente cedido pela filha. Pergunta sobre preferência entre obra ou destino humano.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -98,7 +106,8 @@
       "summary": "Médico cirurgião compreende suas limitações em análise, excelente profissional, vê política como obrigação, não suja, mas arma da felicidade.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -108,7 +117,8 @@
       "transcription": "Casação do deputado Alexandre Guimarães recebe o prêmio pelo Hospital Geral de Palmas Doutor Francisco Aires, a senhora Luana Vieira Rodrigues Mascarenhas. Ação de palmas ao nosso homenageado. Tem a palavra por dois minutos a doutora Luana Mascarenhas. É",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -119,7 +129,8 @@
       "summary": "Mestre de Cerimônia anuncia entrega de prêmios a representantes de entidades, incluindo Hospital e Maternidade Municipal Célia Câmara, representada por seu diretor Marcelo Cupertino de Barros, que fará um breve discurso.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -130,7 +141,8 @@
       "summary": "Diretor-Geral da Entidade expressa orgulho por representar o Hospital Municipal Célia Câmara, agradece apoio de deputados e deputadas, reconhece equipe e recursos que permitem prestar cuidados de saúde à mulheres, incentiva melhores condições de atendimento e valoriza profissão de ginecologistas e obstetras.",
       "speaker": {
         "name": "MARCELO CUPERTINO DE BARROS",
-        "position": "Diretor-Geral da Entidade"
+        "position": "Diretor-Geral da Entidade",
+        "slug": "marcelo-cupertino-de-barros"
       }
     },
     {
@@ -140,7 +152,8 @@
       "transcription": "Ouviremos por dois minutos a deputada Flávia Moraes. Boa",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -152,7 +165,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -163,7 +177,8 @@
       "summary": "Mestre de Cerimônia apresenta prêmio a doutora Luana Mascarenhas, viúva do deputado Guimarães, pelo Hospital de Palmas.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -174,7 +189,8 @@
       "summary": "Diretora-Geral e Coordenadora do Serviço de Hemodiálise da Instituição recebem prêmio em nome do Hospital Geral de Palmas, premiado entre hospitais que tratam saúde da mulher. Hospital cuida de mulheres em oncologia, especialidades e violência, visando retorná-las às famílias com saúde ou redução de danos. Agradecimentos ao governador, secretário de saúde e diretor. Promessa de honrar compromisso diante de pacientes e SUS.",
       "speaker": {
         "name": "LUANNA VIEIRA RODRIGUES MASCARENHAS",
-        "position": "Diretora-Geral e Coordenadora do Serviço de Hemodiálise da Instituição"
+        "position": "Diretora-Geral e Coordenadora do Serviço de Hemodiálise da Instituição",
+        "slug": "luanna-vieira-rodrigues-mascarenhas"
       }
     },
     {
@@ -184,7 +200,8 @@
       "transcription": "No momento tem a palavra por dois minutos o deputado Alexandre Guimarães. Boa tarde.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -196,7 +213,8 @@
       "speaker": {
         "id": 220542,
         "name": "Alexandre Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-guimaraes"
       }
     },
     {
@@ -207,7 +225,8 @@
       "summary": "Mestre de Cerimônia anuncia homenageada: Maria Benita Alves da Silva Spinelli, gestora executiva do Centro Universitário Amaury de Medeiros, recebe prêmio por indicação da deputada Iza Arruda. A homenageada tem a palavra por 2 minutos.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -218,7 +237,8 @@
       "summary": "Recebendo homenagem com felicidade e emoção; Instituto há 77 anos dedicado às mulheres e crianças; desafio gestão hospital SUS; grande responsabilidade formar profissionais de saúde; agradecimento à deputada Rosário, Mariane, Isa Arruda e outros; apoio de senador Humberto Costa; compromisso com excelência e responsabilidade sanitária.",
       "speaker": {
         "name": "MARIA BENITA ALVES DA SILVA SPINELLI",
-        "position": "Representando o Centro Universitário Integrado de Saúde Amaury de Medeiros"
+        "position": "Representando o Centro Universitário Integrado de Saúde Amaury de Medeiros",
+        "slug": "maria-benita-alves-da-silva-spinelli"
       }
     },
     {
@@ -228,7 +248,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -240,7 +261,8 @@
       "speaker": {
         "id": 220670,
         "name": "Iza Arruda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "iza-arruda"
       }
     },
     {
@@ -251,7 +273,8 @@
       "summary": "Mestre de Cerimônia agradece deputado Wellington Prado e entrega prêmio Doutor Pinotti à diretora Célia Mendes Rodrigues, do Hospital do Câncer de Rio Verde, que se dirige à plateia por dois minutos.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -262,7 +285,8 @@
       "summary": "Diretora-Presidente do Hospital do Câncer de Rio Verde agradece presentes, destaca construção hospital com esforço popular e compromisso com atendimento oncológico de qualidade em município, pede apoio de parlamentares para financiar ala de quimioterapia e atendimento SUS.",
       "speaker": {
         "name": "CÉLIA MENDES RODRIGUES",
-        "position": "Diretora-Presidente do Hospital do Cânce de Rio Verde"
+        "position": "Diretora-Presidente do Hospital do Cânce de Rio Verde",
+        "slug": "celia-mendes-rodrigues"
       }
     },
     {
@@ -272,7 +296,8 @@
       "transcription": "Bom, bom, boa tarde a todos, a todas e a todos. É com extrema alegria que estou aqui nesse momento recebendo essa homenagem que a nossa instituição que é a Universidade de Pernambuco, tem três hospitais universitários e hoje eu estou na gestão de deles que é o SISAM, o Centro Universitário Integrado de Saúde Amauri de Medeiros. Hospital de setenta e sete anos dedicado às mulheres e à criança. Muita luta que a gente enfrenta do dia a dia pra trabalhar com o hospital que é SUS. Sistema Único de Saúde, sobrevive desse único recurso que é repassado pelos procedimentos que a gente realiza. Isso é grande desafio. E mais desafio ainda ser universidade. Com uma grande responsabilidade, formar pessoas e formar pessoas para atuar na saúde, campo de extrema vulnerabilidade, porque a nossa saúde precisa melhorar muito mais. Saúde é a vida, é a vida das pessoas, é a nossa vida, a nossa dedicação a esse espaço, a essa instituição, é a que mantém ela com este reconhecimento, porque isto é o é o a emoção que nos passa nesse momento recebendo prêmio é o reconhecimento de toda uma sociedade, de toda uma comunidade que nos representa dessa forma, que nos agracia com esse prêmio dizendo vocês estão no caminho certo. Continue, insistam porque esse é o caminho da gente atender as mulheres com respeito e com dignidade e assistir aos seus bebês da melhor qualidade possível. Então é muita emoção, agradecimento enorme à nossa deputada Rosário, Maria do Rosário. Mariane que acabei de conhecer, mas já somos amigas íntimas e especial a nossa deputada Isa Arruda que teve a iniciativa de nos indicar, mas não posso também deixar de agradecer a todos que juntamente com ela fizeram esta corrente e dos agraciaram com esse prêmio. Então é elenco de pessoas, né. A gente tem dentro da instituição a nossa hierarquia, a Secretaria de Ciências e Tecnologia e à Secretaria Estadual de Saúde. Mas dentro também do campo político não posso deixar de citar o nosso senador Humberto Costa que também é é nosso conterrâneo, né, e que atua e que apoia também as nossas a nossa instituição. Então gente, desculpem pela emoção, mas é só alegria e felicidade porque a gente sabe da nossa do nosso potencial e da nossa capacidade de excelência e da nossa responsabilidade sanitária. Beijo grande.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -284,7 +309,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -295,7 +321,8 @@
       "summary": "Mestre de Cerimônia agradece homenagem da Universidade de Pernambuco para o SISAM, hospital de 77 anos dedicado às mulheres e crianças. Ele destaca desafios de gerenciar hospital no SUS e aspirar à excelência na saúde, formação de profissionais e atendimento digno. Ele expressa gratidão para a deputada Rosário, Mariane e deputada Isa Arruda, além de toda equipe político-administrativa e senador Humberto Costa, e reafirma compromisso com a saúde pública.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -306,7 +333,8 @@
       "summary": "Hoje, agradecimentos à Deus e homenagem; gratidão ao deputado Marangô, à filha Helen e ao amigo Hélio Bennetti; instituição pequena, mas importante, com 22 leitos e dedicada à obstetrícia; colaboração de deputados é vital; equipe extremamente dedicada; reconhecimento merecido para a instituição e equipe.",
       "speaker": {
         "name": "VIRGÍNIA MARIA PRADELLA BALLONE",
-        "position": "Presidente da Associação Feminina de Marília Maternidade e Gota de Leite"
+        "position": "Presidente da Associação Feminina de Marília Maternidade e Gota de Leite",
+        "slug": "virginia-maria-pradella-ballone"
       }
     },
     {
@@ -317,7 +345,8 @@
       "summary": "Mestre de Cerimônia: Evento encerra; Maria do Rosário, deputada, palavra final; vivemos momentos.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -329,7 +358,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     }
   ],

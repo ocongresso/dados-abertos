@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Deputado Ariel Machado PV do Paraná. Tá? Falou, obrigado aí. Boa. Cadê o presidente hein?",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Declare encerrada a votação.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Geraldo Resende -- por Participante -- Aliel Machado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-geraldo-resende-por-participante-aliel-machado"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 204511,
         "name": "David Soares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "david-soares"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 74374,
         "name": "Geraldo Resende",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-resende"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220699,
         "name": "Castro Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "castro-neto"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     }
   ],

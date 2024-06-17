@@ -17,7 +17,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -58,7 +62,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -68,7 +73,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -91,7 +98,8 @@
       "summary": "Instituição de credibilidade que apoia diversidade e inclusão, representada pela Diretora Presidente, uma mulher negra cantora e compositora. A UBC reúne mais de 50 mil pessoas e acredita no valor do coletivo e da colaboração entre artistas, produtores e compositores, reconhecendo o potencial financeiro da música para o Brasil. Agradece convocação da deputada Alice da Mata e a presença de parceiros.",
       "speaker": {
         "name": "PAULA LIMA",
-        "position": "Diretora Presidente da União Brasileira de Compositores - UBC, cantora e compositora"
+        "position": "Diretora Presidente da União Brasileira de Compositores - UBC, cantora e compositora",
+        "slug": "paula-lima"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": "União Brasileira de Compositores: sociedade de gestão coletiva com 80 anos, representa quase 230 mil titulares mundialmente, liderança no Brasil e reconhecida internacionalmente. Prioriza formação e informação de novos artistas e investimento em tecnologia e inovação. Atualmente, tem quinze escritórios no Brasil e distribui direitos autorais e de produtores, músicos e intérpretes. Iniciativa de compositores famosos, hoje tem mais de 50 mil titulares.",
       "speaker": {
         "name": "MARCELO CASTELO BRANCO",
-        "position": "Executivo da União Brasileira de Compositores - UBC"
+        "position": "Executivo da União Brasileira de Compositores - UBC",
+        "slug": "marcelo-castelo-branco"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -136,7 +147,8 @@
       "summary": "UBC: 80 anos defendendo direitos autorais nacionais e internacionais, colaborando com legisladores e tribunais para aperfeiçoar leis de direitos autorais.",
       "speaker": {
         "name": "SYDNEY SANCHES",
-        "position": "Assessor Jurídico da União Brasileira de Compositores - UBC"
+        "position": "Assessor Jurídico da União Brasileira de Compositores - UBC",
+        "slug": "sydney-sanches"
       }
     },
     {
@@ -148,7 +160,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -159,7 +172,8 @@
       "summary": "Compositor e cantor defende direitos autorais, reconhecimento para autores e educação sobre o assunto, especialmente em escolas. Lamenta dificuldades e injustiças na compreensão do direito autoral. Destaca papel vital dos autores e necessidade de apoio político, burocrático e administrativo. Menciona projeto de lei sobre direitos autorais na mídia digital com apoio de UBC e outros políticos. Agradecido ao apoio da UBC em momentos difíceis.",
       "speaker": {
         "name": "EMMANUEL GÓES BOAVISTA (MANNO GÓES)",
-        "position": "Compositor e cantor"
+        "position": "Compositor e cantor",
+        "slug": "emmanuel-goes-boavista-manno-goes"
       }
     },
     {
@@ -170,7 +184,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     }
   ],

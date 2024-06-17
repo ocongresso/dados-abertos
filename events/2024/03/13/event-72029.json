@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Tem início da votação, deputados pedidos se dirigirem final da sala, atuais e antigos membros têm a palavra aberta, passada a José Rocha.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -48,7 +51,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": " Eleito José Rocha como presidente e deputado, vice-presidentes eleitos, convidado para presidência da comissão de integração nacional e desenvolvimento regional. Fim da votação.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 178993,
         "name": "Carlos Henrique Gaguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-henrique-gaguim"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -141,7 +152,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padovani -- por Participante -- José Rocha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padovani-por-participante-jose-rocha"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 74090,
         "name": "Átila Lins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "atila-lins"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 178854,
         "name": "Elmar Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "elmar-nascimento"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 220672,
         "name": "Henderson Pinto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "henderson-pinto"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 74554,
         "name": "José Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-rocha"
       }
     }
   ],

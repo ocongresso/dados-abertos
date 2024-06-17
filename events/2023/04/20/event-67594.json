@@ -17,7 +17,8 @@
       "summary": "Audiência pública sobre reforma tributária e tributação de produtos nocivos à saúde; reunião transmitida online com presença de especialistas no assunto; cada convidado fará uma exposição de 15 minutos, com três minutos de interpelação por deputado.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Diretora-Executiva da ACT fala sobre promover políticas públicas para controlar fatores de risco de doenças crônicas, como tabagismo e álcool. Ela menciona a reforma tributária e a ausência do setor alimentício, tabaco e bebidas em discussões relacionadas à saúde. Ela destaca os impactos negativos do tabagismo no Brasil, incluindo altos custos médicos e um imposto de cigarro barato. Ela pede à indústria do tabaco para se engajar em debates públicos sobre o assunto.",
       "speaker": {
         "name": "Paula Johns",
-        "position": "Diretora-Executiva da ACT"
+        "position": "Diretora-Executiva da ACT",
+        "slug": "paula-johns"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Se ele quiser compor a mesa sentar aqui com a gente, pode ficar à vontade doutor Francisca. Pode continuar Ana Paula obrigado. Obrigada.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -49,7 +52,8 @@
       "summary": "Diretora-Executiva da ACT falou sobre impacto de álcool e tabaco na saúde, tributação regressiva nesses produtos e necessidade de maior tributação. Também mencionou aumento de consumo e impacto na saúde de alimentos ultraprocessados, especialmente entre populações vulneráveis. Propôs reforma tributária que diferencie produtos saudáveis e não saudáveis, como tabaco, álcool e ultraprocessados, e use aumento de preço para desincentivar consumo.",
       "speaker": {
         "name": "Paula Johns",
-        "position": "Diretora-Executiva da ACT"
+        "position": "Diretora-Executiva da ACT",
+        "slug": "paula-johns"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Deputado agradece apresentação de Paula Jones, expressa apoio a iniciativa de maio, sauda Roberto Gil de volta ao INCA e espera excelente gestão. Chama Evelin do INCA e IEP para falarem.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -71,7 +76,8 @@
       "summary": "Instituto de Estudos para Políticas de Saúde:",
       "speaker": {
         "name": "Evelyn Kowalczyk dos Santos",
-        "position": "Instituto de Estudos para Políticas de Saúde"
+        "position": "Instituto de Estudos para Políticas de Saúde",
+        "slug": "evelyn-kowalczyk-dos-santos"
       }
     },
     {
@@ -82,7 +88,8 @@
       "summary": "Discurso do Deputado: Inicia discussão, agradece participantes, incluindo Leonor Pacheco, e chama Ana Paula Teixeira e Luciana Maia do Instituto Nacional de Câncer.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -93,7 +100,8 @@
       "summary": "Conselho Nacional de Saúde solicita que médico Roberto Gil fale preliminarmente; felicita deputado Daniel.",
       "speaker": {
         "name": "Leonor Pacheco",
-        "position": "Conselho Nacional de Saúde"
+        "position": "Conselho Nacional de Saúde",
+        "slug": "leonor-pacheco"
       }
     },
     {
@@ -104,7 +112,8 @@
       "summary": "Diretor Geral destacou importância da prevenção em câncer, mencionando impacto do combate ao tabagismo e obesidade. Emphasizou relevância de dados objetivos e proudly referiu INCA's participation in global efforts.",
       "speaker": {
         "name": "Roberto de Almeida Gil",
-        "position": "Diretor Geral"
+        "position": "Diretor Geral",
+        "slug": "roberto-de-almeida-gil"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Instituto Nacional de Câncer propõe tributação justa para reduzir consumo de produtos que causam doenças e mortes, como tabaco, alcançando menor consumo e alivio econômico para SUS e população. Contrabando de cigarros combatido por tributação adequada e implementação de protocolo contra comércio ilícito. Isenção fiscal a produtos nocivos não é benéfica, financiamento necessário para políticas de controle do tabaco.",
       "speaker": {
         "name": "Ana Paula Teixeira",
-        "position": "Instituto Nacional do Câncer"
+        "position": "Instituto Nacional do Câncer",
+        "slug": "ana-paula-teixeira"
       }
     },
     {
@@ -126,7 +136,8 @@
       "summary": "Câncer é segunda causa de morte no Brasil, com projeção de aumento de gastos do SUS. Excesso de peso e alimentos processados associados a maior incidência de diversos tipos de câncer. Recomenda-se reforma tributária para incentivar alimentos minimamente processados e prevenir câncer.",
       "speaker": {
         "name": "Luciana Maya",
-        "position": "Instituto Nacional do Câncer"
+        "position": "Instituto Nacional do Câncer",
+        "slug": "luciana-maya"
       }
     },
     {
@@ -137,7 +148,8 @@
       "summary": "Deputado concede cinco minutos extras a Luciana para concluir, menciona e convida a deputada Ana Pimentel para se juntar à mesa, se assim desejar.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -148,7 +160,8 @@
       "summary": "Instituto Nacional do Câncer destacou a ligação entre salsicha e risco de câncer, especificamente do câncer colorretal, que está aumentando no Brasil. A tributação de alimentos ultraprocessados deveria fortalecer o SUS e promover alimentação saudável. É defendida uma política tributária justa que previna doenças e fome.",
       "speaker": {
         "name": "Luciana Maya",
-        "position": "Instituto Nacional do Câncer"
+        "position": "Instituto Nacional do Câncer",
+        "slug": "luciana-maya"
       }
     },
     {
@@ -159,7 +172,8 @@
       "summary": "Deputado agradece participantes, elogia Ministro da Saúde e dá palavra à Letícia de Oliveira Cardoso para apresentação de 15 minutos, com referência à presença de Maria Del Carmen da FGVSA.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -169,7 +183,8 @@
       "transcription": "Vocês me ouvem? Só só queria também registrar a presença da deputada.",
       "speaker": {
         "name": "Letícia De Oliveira Cardoso",
-        "position": "SVSA - Ministério da Saúde"
+        "position": "SVSA - Ministério da Saúde",
+        "slug": "leticia-de-oliveira-cardoso"
       }
     },
     {
@@ -179,7 +194,8 @@
       "transcription": "Juliana Cardoso do PT de São Paulo, Juliana muito obrigado, abraço. Posso",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -190,7 +206,8 @@
       "summary": "SVSA - Ministério da Saúde discute doenças crônicas como principal causa de mortalidade no Brasil, predominantemente entre adultos de 30 a 69 anos. Tabagismo e consumo de álcool são fatores de risco principais, causando maior perda de anos de vida saudáveis. Mortalidade prematura é mais alta no Nordeste e Sudeste. Alcool também se relaciona com diversas doenças crônicas e infecciosas, além de violência e acidentes.",
       "speaker": {
         "name": "Letícia De Oliveira Cardoso",
-        "position": "SVSA - Ministério da Saúde"
+        "position": "SVSA - Ministério da Saúde",
+        "slug": "leticia-de-oliveira-cardoso"
       }
     },
     {
@@ -201,7 +218,8 @@
       "summary": "Deputado propõe ajuste na apresentação de Letícia, a seguirém começar novamente e enviará apresentação para quem estiver online.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -212,7 +230,8 @@
       "summary": "Consumo de bebida alcoólica causa duas mortes por hora, hoje corresponde a 13% de todos os decédulos na faixa etária de 20 a 39 anos, e é o principal fator de risco para mortes e incapacitação em pessoas de 15 a 49 anos. (SVSA - Ministério da Saúde)",
       "speaker": {
         "name": "Letícia De Oliveira Cardoso",
-        "position": "SVSA - Ministério da Saúde"
+        "position": "SVSA - Ministério da Saúde",
+        "slug": "leticia-de-oliveira-cardoso"
       }
     },
     {
@@ -222,7 +241,8 @@
       "transcription": "Desculpa Letícia, pode continuar. É que é ruim né que eu vou falar",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -232,7 +252,8 @@
       "transcription": "Números que estão aqui mas que as pessoas nem não estão vendo. Porque a gente tem grande",
       "speaker": {
         "name": "Letícia De Oliveira Cardoso",
-        "position": "SVSA - Ministério da Saúde"
+        "position": "SVSA - Ministério da Saúde",
+        "slug": "leticia-de-oliveira-cardoso"
       }
     },
     {
@@ -243,7 +264,8 @@
       "summary": "Deputado enfatiza importância de números em apresentação e pede ajustes técnicos para permitir que pessoas online a seguam normalmente.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -254,7 +276,8 @@
       "summary": "Consumo de álcool: 44% da população adulta brasileira o pratica, 18,3% abusivamente, com aumento entre mulheres e adolescentes. Anualmente, gastos com saúde relacionados ao álcool chegam a US$ 10 bilhões. Taxação na Escócia reduziu 25% das vendas anuais e 10% da mortalidade relacionada.",
       "speaker": {
         "name": "Letícia De Oliveira Cardoso",
-        "position": "SVSA - Ministério da Saúde"
+        "position": "SVSA - Ministério da Saúde",
+        "slug": "leticia-de-oliveira-cardoso"
       }
     },
     {
@@ -265,7 +288,8 @@
       "summary": "Deputado fala sobre importância de reforma tributária e discussão sobre imposto seletivo; destacou evidência científica no Brasil e países developed com esse imposto há tempos; passa palavra a deputada Ana Pimentel para considerações.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -277,7 +301,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -288,7 +313,8 @@
       "summary": "Deputado valorado por conhecimento em saúde, apoio no debate e saudação à Dra. Leonor Pacheco. Participa ativamente.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -299,7 +325,8 @@
       "summary": "Conselho Nacional de Saúde interessado em reduzir consumo de alimentos ultraprocessados e bebidas adoçadas com açúcar, disposto a colaborar em essa lutaa.",
       "speaker": {
         "name": "Leonor Pacheco",
-        "position": "Conselho Nacional de Saúde"
+        "position": "Conselho Nacional de Saúde",
+        "slug": "leonor-pacheco"
       }
     },
     {
@@ -309,7 +336,8 @@
       "transcription": "Rodação aí José Memes, presidente da Associação Riograndense de Imprensa.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -320,7 +348,8 @@
       "summary": "Presidente da Associação Riograndense de Imprensa saudou deputado Daniel por audiência pública sobre taxação de alimentos Saudáveis com menor imposto serem discutidos no 11º Fórum Internacional de Gestão Ambiental em Porto Alegre, devido à crescente preocupação com a saúde devido a alimentação não saudável. Parabenizou a realização da audiência e garantiu a presença de palestrantes relevantes.",
       "speaker": {
         "name": "José Nunes",
-        "position": "Presidente da Associação Riograndense de Imprensa"
+        "position": "Presidente da Associação Riograndense de Imprensa",
+        "slug": "jose-nunes"
       }
     },
     {
@@ -330,7 +359,8 @@
       "transcription": "Muito obrigado. Leonor? Eu esqueci uma coisinha.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -341,7 +371,8 @@
       "summary": "Conselho Nacional de Saúde: destaca importância da luta contra agrotóxicos e menciona questões tributárias relacionadas.",
       "speaker": {
         "name": "Leonor Pacheco",
-        "position": "Conselho Nacional de Saúde"
+        "position": "Conselho Nacional de Saúde",
+        "slug": "leonor-pacheco"
       }
     },
     {
@@ -352,7 +383,8 @@
       "summary": "Deputado: Agradecimentos e importância do debate sobre reforma tributária para o bem-estar dos brasileiros. Início de grande e reinício de discussão fundamental. Obrigado à comissão de saúde e à sua presidência.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     }
   ],

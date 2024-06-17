@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "Muito obrigado, coronel. Não havendo mais quem queira fazer o uso da palavra, e nada mais havendo a tratar, convoco reunião da comissão para o dia treze, próxima quartafeira com horário e pauta a serem divulgados. Está encerrada a reunião. Uma boa noite a todos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -67,7 +72,8 @@
       "transcription": "Boa noite a todos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Luiz Lima -- por Participante -- Antonio Carlos Rodrigues",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-luiz-lima-por-participante-antonio-carlos-rodrigues"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 220628,
         "name": "Mauricio do Vôlei",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-do-volei"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     },
     {
@@ -113,7 +122,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 220638,
         "name": "Antonio Carlos Rodrigues",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-carlos-rodrigues"
       }
     }
   ],

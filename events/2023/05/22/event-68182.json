@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Muito obrigado.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Muito obrigado.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Trabalho digno: justa remuneração, segurança, proteção social, desenvolvimento, organização, expressão, equidade, liberdade. Direito de todos, consolida leis trabalho. CLT commemora 80 anos, dignidade e justiça social.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -70,7 +75,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -141,7 +152,8 @@
       "summary": "Ministro da Previdência Social agradece convite para falar sobre CLT, completada em 1º de maio, com 80 anos de adaptações e atualizações à sociedade moderna. Destaca importância da previdência social e justiça do trabalho para democracia. Menciona desafios atuais como trabalho em casa e discriminação salarial contra mulheres. Reconhece valor da carteira de trabalho como símbolo de autonomia e identidade humana.",
       "speaker": {
         "name": "Carlos Lupi",
-        "position": "Ministro da Previdência Social"
+        "position": "Ministro da Previdência Social",
+        "slug": "carlos-lupi"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "CLT valorizada por Presidente do Tribunal Superior do Trabalho; urgente expandir proteção a grupos excluídos e novos formatos de trabalho; combater informalidade e desemprego, especialmente entre jovens, mulheres e negros; tarefa de profissionais de direito, Congresso Nacional e sociedade; manter base principiológica da CLT.",
       "speaker": {
         "name": "LELIO BENTES CORRÊA",
-        "position": "Presidente do Tribunal Superior do Trabalho e do Conselho Superior da Justiça do Trabalho"
+        "position": "Presidente do Tribunal Superior do Trabalho e do Conselho Superior da Justiça do Trabalho",
+        "slug": "lelio-bentes-correa"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "CLT: 80 anos de inclusão trabalhista; lei imperfeita, mas progressista; desafio em expandir proteção a segmentos excluídos e novas formas de trabalho; importa a todos brasileiros.",
       "speaker": {
         "name": "MAURÍCIO GODINHO DELGADO",
-        "position": "Ministro do Tribunal Superior do Trabalho e Diretor da ENAMAT"
+        "position": "Ministro do Tribunal Superior do Trabalho e Diretor da ENAMAT",
+        "slug": "mauricio-godinho-delgado"
       }
     },
     {
@@ -199,7 +215,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -209,7 +226,8 @@
       "transcription": "Da concessão",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Vicentinho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-vicentinho"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Presidente Colégio Presidentes e Corregedores Tribunais Regionais Trabalho reflete sobre CLT em seus 80 anos: CLT reflete condição humana, capaz de novas demandas cidadania; plenamente capaz responder; quando competência aplicada por magistratura tribunais justiça todo país. Colégio atento a projetos lei, emenda constitucional impactando legislação trabalhista e Justiça Trabalho. Custos parcela responsabilidade construção mundo melhor, distribuir renda empregabilidade formal.",
       "speaker": {
         "name": "ANA CAROLINA ZAINA",
-        "position": "Presidente do Colégio de Presidentes e  Corregedores dos Tribunais Regionais do Trabalho – (Coleprecor)"
+        "position": "Presidente do Colégio de Presidentes e  Corregedores dos Tribunais Regionais do Trabalho – (Coleprecor)",
+        "slug": "ana-carolina-zaina"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -243,7 +263,8 @@
       "summary": "Presidente da CUT-DF celebra CLT aos 80 anos, lamenta ataques em 2017 e defende melhorias no sistema previdenciário e no Ministério do Trabalho. Exige regulação para novas formas de contratação e valorização de sindicatos.",
       "speaker": {
         "name": "RODRIGO RODRIGUES",
-        "position": "Presidente da Central Única dos Trabalhadores - CUT-DF  (Representando a CUT Nacional)"
+        "position": "Presidente da Central Única dos Trabalhadores - CUT-DF  (Representando a CUT Nacional)",
+        "slug": "rodrigo-rodrigues"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": "Representando a Associação Nacional dos Magistrados do Trabalho agradeceu convite, saudou os presentes, lembraram a luta pelo CLT e sua constitucionalização, expressaram preocupação com a precarização dos direitos trabalhistas e comprometem-se a defender direitos e justiça do trabalho.",
       "speaker": {
         "name": "LUIZ ANTONIO COLUSSI",
-        "position": "Representando a Associação Nacionais dos Magistrados do Trabalho"
+        "position": "Representando a Associação Nacionais dos Magistrados do Trabalho",
+        "slug": "luiz-antonio-colussi"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -374,7 +405,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 74283,
         "name": "Vicentinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vicentinho"
       }
     }
   ],

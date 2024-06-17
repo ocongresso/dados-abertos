@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Coordenador-Geral do Departamento de Outorgas, Patrimônio e Políticas Regulatórias - Secretaria Nacional da Aviação Civil:",
       "speaker": {
         "name": "Daniel Ramos Longo",
-        "position": "Coordenador-Geral do Departamento de Outorgas, Patrimônio e Políticas Regulatórias - Secretaria Nacional da Aviação Civil"
+        "position": "Coordenador-Geral do Departamento de Outorgas, Patrimônio e Políticas Regulatórias - Secretaria Nacional da Aviação Civil",
+        "slug": "daniel-ramos-longo"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "Que agradecemos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Keniston Braga",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-keniston-braga"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -62,7 +66,8 @@
       "summary": "ANAC's International and Environmental Assessor emphasizes sustainable aviation fuels as priority, aiming for carbon neutrality in Brazilian routes by 2027 through carbon credits or SAF use. SAF crucial for global decarbonization goals, with national incentive models under development, focusing on emissions reduction and flexible use of available biocombustibles. SAF key for Brazil's leadership in quality, environmentally sound international market.",
       "speaker": {
         "name": "Marcela Braga Anselmi",
-        "position": "Chefe da Assessoria Internacional e Meio Ambiente - ANAC"
+        "position": "Chefe da Assessoria Internacional e Meio Ambiente - ANAC",
+        "slug": "marcela-braga-anselmi"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -85,7 +91,8 @@
       "summary": "Diretor Presidente - Grupo Brasil BioFuels - BBF enfatizou importância de SAF no cenário mundial, desafios enfrentados, potential do Brasil se tornar líder na produção/consumo, ênfase no óleo vegetal extraído facilmente, palma promissora com legislação rigorosa, e incentivo à autossuficiência e tecnologia de produção de SAF.",
       "speaker": {
         "name": "Milton Steagall",
-        "position": "Diretor Presidente - Grupo Brasil BioFuels - BBF"
+        "position": "Diretor Presidente - Grupo Brasil BioFuels - BBF",
+        "slug": "milton-steagall"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Presidente do Airbus Brasil agradece convite, discute uso de combustível Safra em aviões, visando flexibilidade de preços e venda de mais aviões. Planeja aviões voando com 100% de Safra em 2026/27, desde que autorizado. Airbus, Boeing e Embraer colaboram para produzir Safra sem impactar a cadeia alimentícia. Ele pede ao Poder Executivo e Legislativo para facilitar a produção de Safra sem afetar a cadeia de alimentos.",
       "speaker": {
         "name": "Gilberto Peralta",
-        "position": "Presidente - Airbus Brasil"
+        "position": "Presidente - Airbus Brasil",
+        "slug": "gilberto-peralta"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -131,7 +141,8 @@
       "summary": "LABPROBIO propõe produção de SAF no Brasil, destacando necessidade de um ambiente de investimento seguro e políticas que incentivem industrialização. O SAF, idêntico ao combustível fóssil, permite reduzir emissões de gases de efeito estufa e é altamente valorizado globalmente. No Brasil, existem aproximadamente sete a oito rotas de produção aprovadas, com potencial para mais, utilizando biomassa abundante.",
       "speaker": {
         "name": "Amanda Gondim",
-        "position": "Coordenadora - Laboratório de Análises Químicas, Processamento Primário e Biocombustíveis - LABPROBIO"
+        "position": "Coordenadora - Laboratório de Análises Químicas, Processamento Primário e Biocombustíveis - LABPROBIO",
+        "slug": "amanda-gondim"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Presidente - Associação Brasileira das Empresas Aéreas - ABEAR prioriza redução de emissões com uso de combustível sustentável, apoia projeto de lei de combustível do futuro, e defende mandato de descarbonização e booking Klein. Cita exemplo de rotas aéreas revisadas para economia de combustível e redução de emissões.",
       "speaker": {
         "name": "JUREMA MONTEIRO",
-        "position": "Presidente - Associação Brasileira das Empresas Aéreas - ABEAR"
+        "position": "Presidente - Associação Brasileira das Empresas Aéreas - ABEAR",
+        "slug": "jurema-monteiro"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -177,7 +191,8 @@
       "summary": "A Gerente Executiva de Distribuição - IBP discutiu o potencial de crescimento da aviação brasileira, a importância da transição energética e os biocombustíveis. Ela ressaltou a necessidade de políticas de incentivo para o desenvolvimento da indústria de biocombustíveis no Brasil e a importância da padronização internacional na aviação para ganhar eficiência e reduzir custos.",
       "speaker": {
         "name": "Ana Mandelli",
-        "position": "Gerente Executiva de Distribuição - Instituto Brasileiro de Petróleo e Gás - IBP"
+        "position": "Gerente Executiva de Distribuição - Instituto Brasileiro de Petróleo e Gás - IBP",
+        "slug": "ana-mandelli"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     }
   ],

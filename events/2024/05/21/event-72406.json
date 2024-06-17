@@ -14,7 +14,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "Gostaria",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -56,7 +60,8 @@
       "transcription": "Portugal. Bom dia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bruno Farias -- por Participante -- Alice Portugal",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bruno-farias-por-participante-alice-portugal"
       }
     },
     {
@@ -68,7 +73,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -92,7 +99,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 204486,
         "name": "Mauro Benevides Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauro-benevides-filho"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 0,
         "name": "LÍBIA BELLUSCI",
-        "position": "Diretora da Confederação Nacional dos Trabalhadores em Seguridade Social - CNTSS Fórum"
+        "position": "Diretora da Confederação Nacional dos Trabalhadores em Seguridade Social - CNTSS Fórum",
+        "slug": "libia-bellusci"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -173,7 +187,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alice Portugal -- por Participante -- Bruno Farias",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alice-portugal-por-participante-bruno-farias"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 0,
         "name": "DANIEL MENEZES DE SOUZA",
-        "position": "Vice-Presidente do Conselho Federal de Enfermagem - COFEN"
+        "position": "Vice-Presidente do Conselho Federal de Enfermagem - COFEN",
+        "slug": "daniel-menezes-de-souza"
       }
     },
     {
@@ -208,7 +225,8 @@
       "summary": " Reconhecimento carga horária enfermeiros; apelo por melhores condições salariais; COFENCOREN trabalha por conquistas no Rio Grande do Sul.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bruno Farias -- por Participante -- Alice Portugal",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bruno-farias-por-participante-alice-portugal"
       }
     },
     {
@@ -220,7 +238,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 0,
         "name": "VALDIRLEI CASTAGNA",
-        "position": "Presidente da Confederação  Nacional dos Trabalhadores na Saúde - CNTS"
+        "position": "Presidente da Confederação  Nacional dos Trabalhadores na Saúde - CNTS",
+        "slug": "valdirlei-castagna"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 74060,
         "name": "Daniel Almeida",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-almeida"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": " Deputado cumprimenta lideranças presentes, incluindo presidentes de COFEN e confederações de trabalhadores da saúde e segurança social.",
       "speaker": {
         "name": "Hildo Rocha",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hildo-rocha"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": " Presidente homenageia enfermagem; elogia profissionais bem treinados; destaca dificuldades na aprovação de piso salarial; reconhece importância da profissão; deseja sucesso à empreitada das 30 horas; reitera apoio do MDB à causa.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alice Portugal -- por Participante -- Bruno Farias",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alice-portugal-por-participante-bruno-farias"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 0,
         "name": "SOLANGE CAETANO",
-        "position": "Federação Nacional dos Enfermeiros - FNE"
+        "position": "Federação Nacional dos Enfermeiros - FNE",
+        "slug": "solange-caetano"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 210989,
         "name": "Bruno Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bruno-farias"
       }
     },
     {
@@ -361,7 +391,8 @@
       "summary": " Senador fala sobre alegria em participar de eventos relacionados a enfermagem, críticas por focar em segurança pública, necessidade de empatia com trabalhadores mais vulneráveis, e indignação com mau-trato a técnicos de enfermagem.",
       "speaker": {
         "name": "Fabiano Contarato",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "fabiano-contarato"
       }
     },
     {
@@ -372,7 +403,8 @@
       "summary": " Palestrante expressa amor e gratidão a profissionais de enfermagem, homenageia sua força e exemplo durante pandemia, incentiva-os a participar da política e defende melhores salários e cargas horárias para eles.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bruno Farias -- por Participante -- Alice Portugal",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bruno-farias-por-participante-alice-portugal"
       }
     },
     {
@@ -384,7 +416,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -396,7 +429,8 @@
       "speaker": {
         "id": 0,
         "name": "JACINTA DE FÁTIMA SENA DA SILVA",
-        "position": "Presidenta da Associação Brasileira de Enfermagem - ABEN Nacional"
+        "position": "Presidenta da Associação Brasileira de Enfermagem - ABEN Nacional",
+        "slug": "jacinta-de-fatima-sena-da-silva"
       }
     },
     {
@@ -408,7 +442,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -431,7 +467,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -443,7 +480,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -454,7 +492,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -466,7 +505,8 @@
       "speaker": {
         "id": 178987,
         "name": "Orlando Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "orlando-silva"
       }
     },
     {
@@ -478,7 +518,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -490,7 +531,8 @@
       "speaker": {
         "id": 226708,
         "name": "Dr. Allan Garcês",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-allan-garces"
       }
     },
     {
@@ -502,7 +544,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -514,7 +557,8 @@
       "speaker": {
         "id": 107970,
         "name": "Ana Paula Leão",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-leao"
       }
     },
     {
@@ -525,7 +569,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -536,7 +581,8 @@
       "summary": " Deputado: falou sobre discussão na casa, boa mobilização, elogio a essa casa e Congresso Nacional, honrou esforço de enfermagem e colegas dos conselhos, deseja avançar com trinta horas de trabalho.",
       "speaker": {
         "name": "JORGE VIANNA",
-        "position": "Deputado Distrital"
+        "position": "Deputado Distrital",
+        "slug": "jorge-vianna"
       }
     },
     {
@@ -548,7 +594,8 @@
       "speaker": {
         "id": 74057,
         "name": "Alice Portugal",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "alice-portugal"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 98148,
         "name": "Cobalchini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cobalchini"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 98148,
         "name": "Cobalchini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cobalchini"
       }
     }
   ],

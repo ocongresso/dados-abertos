@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Presidente da Escola de Samba Portela agradece homenagem no Congresso Nacional, honra fundadores e valores da Portela, e representa diversidade da escola e do povo brasileiro. Reconhece contribuição de idosos, negros, subúrbios, mulheres, religiões afro-brasileiras e LGBTQIA na escola de samba. Agradece atenção.",
       "speaker": {
         "name": "FÁBIO OLIVEIRA PAVÃO",
-        "position": "Presidente da Escola de Samba Portela"
+        "position": "Presidente da Escola de Samba Portela",
+        "slug": "fabio-oliveira-pavao"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Presidente de Honra da Portela fala com orgulho e alegria por fazer parte da família Portela e estar sendo homenageada.",
       "speaker": {
         "name": "TIA SURICA DA PORTELA",
-        "position": "Presidente de Honra da Portela"
+        "position": "Presidente de Honra da Portela",
+        "slug": "tia-surica-da-portela"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 220617,
         "name": "Murillo Gouvea",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "murillo-gouvea"
       }
     }
   ],

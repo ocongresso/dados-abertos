@@ -13,7 +13,8 @@
       "summary": " Evento sobre legislação em diversas áreas, com presença de deputadas, deputados, e convidados especializados. Mestre de cerimônias anuncia hino nacional e convidados da mesa.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Podemos sentar?",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "Bom dia. Bom dia senhoras e senhores, meu nome é Mateus Morita, tenho onze anos, sou aluno do sexto ano, do ensino fundamental de uma escola pública aqui de Brasília. Estou muito feliz em poder participar dessa jornada legislativa, e mais feliz ainda em ver tantas pessoas pensando em futuro melhor para todas as crianças, adolescentes e jovens do nosso país. Obrigada pela participação de todos vocês.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "summary": " Mestre de Cerimônias apresenta deputada Liliane Abreu, coordenadora de frente parlamentar, e Neuza Maria, cofundadora de prevenção à violência na infância. Agora, deputada Ana Paula Lima fala.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -56,7 +60,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -67,7 +72,8 @@
       "summary": " Mestre de Cerimônias apresenta deputada aniversariante, membro da Frente Parlamentar de Combate à Pedofilia.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -79,7 +85,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -90,7 +97,8 @@
       "summary": " Mestre de Cerimônias convidou Ministro Alexandre Padilha, deputada Ana Pimentel, e deputado Zacarias Kalil para o púlpito.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -102,7 +110,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -113,7 +122,8 @@
       "summary": " Mestre de Cerimônias anuncia a presença da deputada Laura Carneiro, informa a breve ausência de Mauro Volpi e dá posse ao discurso da deputada federal Maria do Rosário.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -125,7 +135,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -135,7 +146,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -147,7 +159,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -157,7 +170,8 @@
       "transcription": "Neste momento tem a palavra ao Ministro Alexandre Padilha. Bom dia a todas, bom dia",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -168,7 +182,8 @@
       "summary": " Ministro de Estado Chefe da Secretaria de Relações Institucionais anunciou criação de grupo de trabalho no Conselho de Desenvolvimento Econômico e Social para debater direitos de crianças, especialmente primeira infância, com foco em seis eixos de iniciativas, incluindo governança colaborativa, protocolos específicos, sistema integrado de dados e integração de incentivos a estados e municípios.",
       "speaker": {
         "name": "ALEXANDRE PADILHA",
-        "position": "Ministro de Estado Chefe da Secretaria de Relações Institucionais"
+        "position": "Ministro de Estado Chefe da Secretaria de Relações Institucionais",
+        "slug": "alexandre-padilha"
       }
     },
     {
@@ -179,7 +194,8 @@
       "summary": " Neste evento, o Mestre de Cerimônias convidou três deputadas (Sâmia Bofy, Paula Belmonte, e Maria Helô) e um adolescente chamado Mateus Morita para falar.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -190,7 +206,8 @@
       "summary": " Bom dia. Eu sou um adolescente de 11 anos, estudante do sexto ano de escola pública em Brasília. Estou feliz por participar dessa jornada legislativa e gratitude pelo interesse em um futuro melhor para nossa geração.",
       "speaker": {
         "name": "Mateus Morita",
-        "position": "Adolescente"
+        "position": "Adolescente",
+        "slug": "mateus-morita"
       }
     },
     {
@@ -200,7 +217,8 @@
       "transcription": "Podemos sentar?",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -212,7 +230,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -222,7 +241,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -233,7 +253,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -243,7 +264,8 @@
       "transcription": "Bom dia.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -254,7 +276,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -264,7 +287,8 @@
       "transcription": "",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -275,7 +299,8 @@
       "summary": " Deputada agradece trabalho de secretaria de primeira infância e exalta aprovação de leis e orçamento relacionadas. Sua entrada na política motivada pela perda de seu filho. Lutar por políticas de primeira infância é especial para ela, pois perdeu recentemente seu pai. Está unida a outras parlamentares em causa, esperando mais homens envolvidos. Promete apoio em transformação com força de \"Paula\".",
       "speaker": {
         "name": "PAULA BELMONTE",
-        "position": "Deputada Distrital"
+        "position": "Deputada Distrital",
+        "slug": "paula-belmonte"
       }
     },
     {
@@ -286,7 +311,8 @@
       "summary": " Mestre de Cerimônias apresentou Lucas Lopes, secretário executivo da Coalizão Brasileira pelo fim da violência contra criança e adolescente.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -296,7 +322,8 @@
       "transcription": "",
       "speaker": {
         "name": "Lucas Lopes",
-        "position": "Secretário-Executivo da Coalizão Brasileira Pelo Fim da Violencia contra Crianças e Adolecentes"
+        "position": "Secretário-Executivo da Coalizão Brasileira Pelo Fim da Violencia contra Crianças e Adolecentes",
+        "slug": "lucas-lopes"
       }
     },
     {
@@ -307,7 +334,8 @@
       "summary": " Mestre de Cerimônias introduziu Marta Volpi, diretora de proteção dos direitos da criança e do adolescente, representando o Ministro de Direitos Humanos e Cidadania, Silvio Almeida.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -318,7 +346,8 @@
       "summary": " Diretora de Proteção do Direito da Criança e do Adolescente do Ministério dos Direitos Humanos e Cidadania cumprimenta participantes, representa ministro, valoriza parceria em defesa de direitos de crianças e adolescentes.",
       "speaker": {
         "name": "Marta Volpi",
-        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania"
+        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania",
+        "slug": "marta-volpi"
       }
     },
     {
@@ -330,7 +359,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -340,7 +370,8 @@
       "transcription": "Bom minha presidente é ótima, ela só não me avisou mas enfim.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Ana Paula Lima -- por Participante -- Laura Carneiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-ana-paula-lima-por-participante-laura-carneiro"
       }
     },
     {
@@ -352,7 +383,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -363,7 +395,8 @@
       "summary": " Diretora de Proteção do Direito da Criança e do Adolescente do Ministério dos Direitos Humanos e Cidadania reitera compromisso em defender legistação que protege crianças e adolescentes, destacando importância da defesa da legislação e aprimoramento de políticas para enfrentar novos desafios e violações de direitos. Missão é balancear desafios desde promulgação do ECA e trabalhar em revisão de planos nacionais e setoriais.",
       "speaker": {
         "name": "Marta Volpi",
-        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania"
+        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania",
+        "slug": "marta-volpi"
       }
     },
     {
@@ -375,7 +408,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -386,7 +420,8 @@
       "summary": " Propõe-se construção de compromisso nacional para acabar com violência contra crianças e adolescentes, envolvendo Legislativo, Judiciário e Executivo. Brasil aderiu à parceria global em 2018, possui evidências de como prevenir violência e espera-se ação coordenada transpondo barreiras ideológicas. Coalizão trabalhou na incidência na LDO e teve emenda vetada, propõe priorizar pauta do orçamento para avanço.",
       "speaker": {
         "name": "Lucas Lopes",
-        "position": "Secretário-Executivo da Coalizão Brasileira Pelo Fim da Violencia contra Crianças e Adolecentes"
+        "position": "Secretário-Executivo da Coalizão Brasileira Pelo Fim da Violencia contra Crianças e Adolecentes",
+        "slug": "lucas-lopes"
       }
     },
     {
@@ -398,7 +433,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -409,7 +445,8 @@
       "summary": " Ex-Secretária de Desenvolvimento Social aborda desafios da infância e adolescência no Brasil. Menciona negligência, ausência de denúncias e fiscalização de políticas públicas. Destaca casos de Barra dos Coqueiros, Sergipe, e pede aos parlamentares fiscalizarem prefeitos e exigirem resultados.",
       "speaker": {
         "name": "Lurian Cordeiro Lula da Silva",
-        "position": "Ex-Secretária de Desenvollvimento Social, integrante do Grupo de Transição dos Direitos Humanos e Ativista dos Direitos de Crianças e adolecentes. Representando o Senador Rogério Carvalho."
+        "position": "Ex-Secretária de Desenvollvimento Social, integrante do Grupo de Transição dos Direitos Humanos e Ativista dos Direitos de Crianças e adolecentes. Representando o Senador Rogério Carvalho.",
+        "slug": "lurian-cordeiro-lula-da-silva"
       }
     },
     {
@@ -421,7 +458,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -432,7 +470,8 @@
       "summary": " Movimento Agenda 227 propõe:",
       "speaker": {
         "name": "Márcia Woods",
-        "position": "Movimento Agenda 227"
+        "position": "Movimento Agenda 227",
+        "slug": "marcia-woods"
       }
     },
     {
@@ -444,7 +483,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -455,7 +495,8 @@
       "summary": " Mudando de lugar, sem mesa, Flávia assume palavra e liderança.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Laura Carneiro -- por Participante -- Flávia Morais",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-laura-carneiro-por-participante-flavia-morais"
       }
     },
     {
@@ -465,7 +506,8 @@
       "transcription": "Trabalhos à deputada Flávia Moraes. Bom dia a todos e a.",
       "speaker": {
         "name": "Valdir Borges",
-        "position": "MESTRE DE CERIMÔNIAS"
+        "position": "MESTRE DE CERIMÔNIAS",
+        "slug": "valdir-borges"
       }
     },
     {
@@ -477,7 +519,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -488,7 +531,8 @@
       "summary": " Discurso sobre identificação neonatal e desaparecimento de crianças e adolescentes. Destaca a importância de identificação para combater desaparecimentos. Dados alarmantes: 183 mil pessoas desaparecidas, 34,38% do sexo feminino e 29,6% crianças e adolescentes. Causas: exploração sexual e vulnerabilidade de menores. Artigo 10 do ECA trata identificação neonatal, necessário trabalho em conjunto. Ministério disponível para questões.",
       "speaker": {
         "name": "Marta Volpi",
-        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania"
+        "position": "Diretora de Proteção do Direito da Criança  e do Adolescente do Ministério dos Direitos Humanos e Cidadania",
+        "slug": "marta-volpi"
       }
     },
     {
@@ -500,7 +544,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -511,7 +556,8 @@
       "summary": " Coordenador Geral do Ministério da Gestão e da Inovação discutiu sistema de identificação com foco em primeira infância, propondo conexão entre declaração de nascido vivo, registro civil e Instituto de Identificação, utilizando biometria e unificando documentos, com carteira de identidade nacional como documento único. Destaca importância de leis claras e apoio do Parlamento neste assunto.",
       "speaker": {
         "name": "Eduardo Magalhães de Lacerda Filho",
-        "position": "Coordenador Geral do Ministério da Gestão e da Inovação"
+        "position": "Coordenador Geral do Ministério da Gestão e da Inovação",
+        "slug": "eduardo-magalhaes-de-lacerda-filho"
       }
     },
     {
@@ -523,7 +569,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -534,7 +581,8 @@
       "summary": " Polícia Federal combate tráfico de pessoas e contrabando de imigrantes, especialmente no aeroporto de Guarulhos. A lei castiga diversas condutas que resultem em tráfico, incluindo exploração sexual e trabalho forçado. Atualmente, há 113 investigações em andamento, com foco em formas como exploração sexual e condição de trabalho forçado. Nos últimos cinco anos, resgatadas 164 vítimas menores de idade. Cooperação internacional é fundamental para recuperar vítimas.",
       "speaker": {
         "name": "Janine Henrique Bastos",
-        "position": "Delegada de Polícia Federal"
+        "position": "Delegada de Polícia Federal",
+        "slug": "janine-henrique-bastos"
       }
     },
     {
@@ -546,7 +594,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -556,7 +605,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Flávia Morais -- por Participante -- Amanda Gentil",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-flavia-morais-por-participante-amanda-gentil"
       }
     },
     {
@@ -568,7 +618,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -579,7 +630,8 @@
       "summary": " Deputada Estadual propõe extensão da jornada contra abuso e exploração sexual de crianças e adolescentes; convida a discussão sobre rede nacional de frentes parlamentares pela primeira infância, levando a defesa das crianças aos estados e municípios, abordando realidades diversas no Brasil, e buscando o comprometimento dos estados com a agenda da proteção das infâncias.",
       "speaker": {
         "name": "Marina Helou",
-        "position": "Deputada Estadual"
+        "position": "Deputada Estadual",
+        "slug": "marina-helou"
       }
     },
     {
@@ -591,7 +643,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -602,7 +655,8 @@
       "summary": " Literatura infanto-juvenil como defesa contra violência; \"Não me toca seu boboca\" como protected futuro; literatura como comunicação entre adultos e crianças, revelando emoções e sentimentos; literatura como sexta arte criando mundos e conectando pessoas; projeto \"Literatura e Proteção\" e posição como presidente na Associação de Escritores e Ilustradores de Literatura Infantil e Juvenil.",
       "speaker": {
         "name": "Andrea Viviana Taubman",
-        "position": "Escritora"
+        "position": "Escritora",
+        "slug": "andrea-viviana-taubman"
       }
     },
     {
@@ -614,7 +668,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -625,7 +680,8 @@
       "summary": " Livro adquirido no site da Editora Aleteria, que teve coragem em publicar. Autora elogia editora por abordar tema com festa e coragem. Todo defensor da criança merece palmas.",
       "speaker": {
         "name": "Andrea Viviana Taubman",
-        "position": "Escritora"
+        "position": "Escritora",
+        "slug": "andrea-viviana-taubman"
       }
     },
     {
@@ -637,7 +693,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     }
   ],

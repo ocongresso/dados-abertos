@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Passo agora",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Passo agora",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -60,7 +64,8 @@
       "transcription": "Bom, os homens sempre são especiais. A gente,",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Laura Carneiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-laura-carneiro"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -82,7 +88,8 @@
       "transcription": "Eu queria, antes de de continuar a nossa sessão agradecer, muito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Laura Carneiro -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-laura-carneiro-por-participante-marangoni"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -129,7 +139,8 @@
       "summary": "Presidente cede palantra a deputado Marangoni para discurso sobre luta contra violência à mulher.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Yandra Moura",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-yandra-moura"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -174,7 +188,8 @@
       "transcription": "Obrigada.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Yandra Moura -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-yandra-moura-por-participante-marangoni"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -197,7 +213,8 @@
       "summary": "Vice-Procuradora-Geral da República homenageia Dia Nacional de Luta Contra a Violência à Mulher, recordando movimentos históricos e denunciando aumento de crimes contra mulheres, especialmente jovens negras, em 2022. Exorta à união contra a violência e preconceito. Ministério Público oferece assistência às vítimas. Aplaude Câmara Federal por empenho combatendo violência contra mulheres. Pedido de força às mulheres para buscarem ajuda e reconstruírem suas vidas.",
       "speaker": {
         "name": "ANA BORGES COELHO SANTOS",
-        "position": "Vice-Procuradora-Geral da República"
+        "position": "Vice-Procuradora-Geral da República",
+        "slug": "ana-borges-coelho-santos"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Subsecretária elogia campanha \"Não se cale e denuncie o covarde\" e política de combate à violência contra mulheres, incluindo aumento de feminicídios e criação de duas subsecretarias para fortalecer a luta no Distrito Federal, destacando a necessidade de abordar a violência em todas as dimensões, incluindo a psicológica, com foco em programas como \"Vira flor\" e o botão do pânico.",
       "speaker": {
         "name": "MARIA JOSÉ ROCHA",
-        "position": "Subsecretária de Estado de Proteção à Mulher do Distrito Federal"
+        "position": "Subsecretária de Estado de Proteção à Mulher do Distrito Federal",
+        "slug": "maria-jose-rocha"
       }
     },
     {
@@ -232,7 +251,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -280,7 +303,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -291,7 +315,8 @@
       "summary": "Ex-vítima de violência, atual Presidente da Comissão da Mulher da ABA/DF, defende direitos de mulheres, incluindo transexuais e vítimas de violência doméstica. Lamenta aumento de feminicídios no DF, falta de sensibilidade em delegacias e judiciário, e necessity de políticas públicas e fiscalização. Inspirada em Prêmio Nobel da Paz e Economia, oferece colaboração da ABA/DF para promover igualdade de gênero e salarial no Brasil.",
       "speaker": {
         "name": "GLAUCIA DE OLIVEIRA BARBOSA SOUTO",
-        "position": "Presidente da Comissão da Mulher da Associação Brasileira de Advogados do Distrito Federal - ABA/DF"
+        "position": "Presidente da Comissão da Mulher da Associação Brasileira de Advogados do Distrito Federal - ABA/DF",
+        "slug": "glaucia-de-oliveira-barbosa-souto"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 160598,
         "name": "Flávia Morais",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavia-morais"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -338,7 +366,8 @@
       "summary": "Vice-Presidente do TC do Amazonas e Presidente Eleita para o biênio 2",
       "speaker": {
         "name": "YARA AMAZONIA LINS RODRIGUES DOS SANTOS",
-        "position": "Vice-Presidente do Tribunal de Contas do Amazonas e Presidente Eleita para o biênio 2024/2025"
+        "position": "Vice-Presidente do Tribunal de Contas do Amazonas e Presidente Eleita para o biênio 2024/2025",
+        "slug": "yara-amazonia-lins-rodrigues-dos-santos"
       }
     },
     {
@@ -350,7 +379,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -362,7 +392,8 @@
       "speaker": {
         "id": 123756,
         "name": "Antônia Lúcia",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "antonia-lucia"
       }
     },
     {
@@ -373,7 +404,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -385,7 +417,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -397,7 +430,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -409,7 +443,8 @@
       "speaker": {
         "id": 220656,
         "name": "Fernanda Pessoa",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-pessoa"
       }
     },
     {
@@ -420,7 +455,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -432,7 +468,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -444,7 +481,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -456,7 +494,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -468,7 +507,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -480,7 +520,8 @@
       "speaker": {
         "id": 218086,
         "name": "Ely Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ely-santos"
       }
     },
     {
@@ -491,7 +532,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -503,7 +545,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -514,7 +557,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -526,7 +570,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -538,7 +583,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -550,7 +596,8 @@
       "speaker": {
         "id": 220712,
         "name": "Fausto Santos Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fausto-santos-jr"
       }
     },
     {
@@ -562,7 +609,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     }
   ],

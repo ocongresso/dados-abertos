@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Titulares, deputado Bandeira de Melo do PSB do Rio de Janeiro, deputado Chiquinho Brasão do União do Rio de Janeiro, Deputado Luiz Gastão do PSD do Ceará, deputada Anelia Aquino do Podemos de Minas Gerais, deputado Paulinho Freire do União Brasil do Rio Grande do Norte e o presidente da comissão deputado Renildo Calheiros do PCdoB de Pernambuco. Está encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "Vamos proclamar o resultado para presidente, o deputado Renildo Calheiros do PCdoB, quatro a 0.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204476,
         "name": "Chiquinho Brazão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chiquinho-brazao"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 150418,
         "name": "Márcio Marinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-marinho"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -168,7 +181,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

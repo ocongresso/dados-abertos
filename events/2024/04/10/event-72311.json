@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220713,
         "name": "Saullo Vianna",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "saullo-vianna"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220658,
         "name": "Luiz Gastão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-gastao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     }
   ],

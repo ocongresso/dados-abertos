@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônias anunciou início de sessão legislativa, refletindo sobre desafios de 2023 e balanceando ações do primeiro ano. Presentes: coordenadora da bancada feminina na secretaria da Câmara, deputada Benedita da Silva; coordenadora geral do observatório nacional da mulher na política; presidente da comissão de direitos da mulher; ministra de estado das mulheres, Cida Gonçalves; e outras autoridades. Saudação à ministra das mulheres, Gilda Gonçalves.",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "",
       "speaker": {
         "name": "Cida Gonçalves",
-        "position": "Ministra - Ministério das Mulheres"
+        "position": "Ministra - Ministério das Mulheres",
+        "slug": "cida-goncalves"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -44,7 +47,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -54,7 +58,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -65,7 +70,8 @@
       "speaker": {
         "id": 220564,
         "name": "Yandra Moura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "yandra-moura"
       }
     },
     {
@@ -75,7 +81,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -86,7 +93,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -96,7 +104,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -107,7 +116,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -117,7 +127,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -128,7 +139,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -138,7 +150,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     },
     {
@@ -149,7 +162,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -159,7 +173,8 @@
       "transcription": "",
       "speaker": {
         "name": "Iara Cordeiro",
-        "position": "Mestre de Cerimônias"
+        "position": "Mestre de Cerimônias",
+        "slug": "iara-cordeiro"
       }
     }
   ],

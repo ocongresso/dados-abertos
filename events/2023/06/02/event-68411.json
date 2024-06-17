@@ -17,7 +17,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -37,7 +39,8 @@
       "transcription": "Passou neste momento",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -59,7 +63,8 @@
       "transcription": "Passou neste momento",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -92,7 +99,8 @@
       "summary": "Secretário de Assuntos Jurídicos da CUT aprovou sessão solene, saudou os presentes e elogiou FENAI por manter Caixa como patrimônio público, denunciou calote de 10 bilhões no FGTS causando déficit, espera justiça atue e deseja bom aniversário a FENAI com trabalho em prol dos bancários e crescimento do Brasil.",
       "speaker": {
         "name": "VALEIR ERTLE",
-        "position": "Secretário Assuntos Jurídicos da Central Única dos Trabalhadores"
+        "position": "Secretário Assuntos Jurídicos da Central Única dos Trabalhadores",
+        "slug": "valeir-ertle"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -115,7 +124,8 @@
       "summary": "Diretora Executiva da Confederação Nacional dos Trabalhadores do Ramo Financeiro da CUT expressa satisfação em homenagear a FenaE, destacando defesa de Caixa como banco público, social e forte. Ela menciona mobilização coletiva em busca de um mundo melhor, luta por cultura, lazer, esporte, educação, democracia e responsabilidade social, e desafios do movimento sindical e associativo. Ela também agradece convocação e felicita SENAI por seus 52 anos de conquistas.",
       "speaker": {
         "name": "ELIANA BRASIL",
-        "position": "Diretora Executiva da Confederação Nacional dos Trabalhadores do Ramo Financeiro da CUT"
+        "position": "Diretora Executiva da Confederação Nacional dos Trabalhadores do Ramo Financeiro da CUT",
+        "slug": "eliana-brasil"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -137,7 +148,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-musical"
       }
     },
     {
@@ -147,7 +159,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-musical"
       }
     },
     {
@@ -159,7 +172,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -170,7 +184,8 @@
       "summary": "Vice-presidente de Pessoas da Caixa Econômica Federal homenageia Fenae por 52 anos de atuação política, cultural e social, elogiando iniciativas como Inspira, Jogos da Fenae e atuação em políticas sociais. Parabeniza Fenae e reafirma compromisso da Caixa com diálogo e defesa dos interesses de funcionários.",
       "speaker": {
         "name": "SÉRGIO MENDONÇA",
-        "position": "Vice-Presidente de Pessoas da Caixa Econômica Federal"
+        "position": "Vice-Presidente de Pessoas da Caixa Econômica Federal",
+        "slug": "sergio-mendonca"
       }
     },
     {
@@ -182,7 +197,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -193,7 +209,8 @@
       "summary": "FENAE, uma instituição grande e solidária; é como uma mãe, acolhedora e sempre presente. Sua diretoria incentiva a celebração junto aos empregados. Agradecimento à FENAE por seu apoio à PCF e seus presidentes.",
       "speaker": {
         "name": "JOSÉ HERCULANO DO NASCIMENTO NETO",
-        "position": "Presidente da Associação do Pessoal da Caixa Econômica Federal no Distrito Federal"
+        "position": "Presidente da Associação do Pessoal da Caixa Econômica Federal no Distrito Federal",
+        "slug": "jose-herculano-do-nascimento-neto"
       }
     },
     {
@@ -205,7 +222,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -216,7 +234,8 @@
       "summary": "Agradecimento à presença do gerente de relacionamento da FUNSEF.",
       "speaker": {
         "name": "Início de apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "inicio-de-apresentacao-musical"
       }
     },
     {
@@ -226,7 +245,8 @@
       "transcription": "Passo então a",
       "speaker": {
         "name": "Término da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-musical"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -249,7 +270,8 @@
       "summary": "Agradecimentos e elogios à Fenae por sua trajetória e conquistas em defesa dos direitos dos funcionários da Caixa Econômica Federal, destacando a criação da FUNSEF e sua parceria para o crescimento da instituição. Hoje, a FUNCEF é uma grande instituição graças à Fenae e à atuação da FUNSEF em parceria com a Fenae e outras entidades. Parabéns a Fenae por seu aniversário de 52 anos.",
       "speaker": {
         "name": "RICARDO PONTES",
-        "position": "Presidente da Fundação dos Economiários Federais"
+        "position": "Presidente da Fundação dos Economiários Federais",
+        "slug": "ricardo-pontes"
       }
     },
     {
@@ -261,7 +283,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -272,7 +295,8 @@
       "summary": "A Presidente da Federação Nacional das Associações da Caixa Econômica Federal agradece participantes e destaca a importância da Fenae em promover projetos sociais, bem-estar dos trabalhadores e defender a Caixa como empresa pública alinhada aos interesses da população carente. Orgulho em liderar Fenae durante momentos difíceis e manter sua missão em sindical, defesa de democracia, igualdade e sociedade justa.",
       "speaker": {
         "name": "SÉRGIO TAKEMOTO",
-        "position": "Presidente da Federação Nacional das Associações da Caixa Econômica Federal"
+        "position": "Presidente da Federação Nacional das Associações da Caixa Econômica Federal",
+        "slug": "sergio-takemoto"
       }
     },
     {
@@ -284,7 +308,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -294,7 +319,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-musical"
       }
     },
     {
@@ -304,7 +330,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação musical",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-musical"
       }
     },
     {
@@ -315,7 +342,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     }
   ],

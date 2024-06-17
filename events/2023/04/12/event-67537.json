@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "É claro encerrada a votação, vamos aguardar abertura na verdade o resultado da votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -145,7 +156,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -216,7 +233,8 @@
       "speaker": {
         "id": 219585,
         "name": "Marco Brasil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marco-brasil"
       }
     },
     {
@@ -228,7 +246,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -240,7 +259,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     },
     {
@@ -252,7 +272,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -264,7 +285,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     }
   ],

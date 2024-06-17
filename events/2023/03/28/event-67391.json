@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -42,18 +44,20 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
       "id": 181676,
       "start_time": 1680015208,
       "duration": 52,
-      "transcription": "Casa, da comissão, primeiramente agradecer aos novos colegas por ter me colocado nessa nessa posição a indicação do meu partido, dizer que nunca tive uma eleição tão fácil na minha vida nem pra representante de sala, mas pra mim é uma honra, e tenho certeza que nós estaremos aqui sempre buscando o diálogo, o consenso pra os grandes projetos e as grandes pautas que nós trataremos aqui nessa nossa comissão. Vamos dar continuidade aqui no requerimento número três de dois mil e vinte e três, do senhor Heitor Schutch, que requer a realização de audiência pública visando debater a inovação e domínio tecnológico na formulação da nova política industrial brasileira. Para encaminhar a favor, conceda a palavra ao autor do requerimento, o deputado Heitor Schultz.",
-      "summary": "Agradecimento por indicação como presidente; compromisso com diálogo e consenso; mencionaram requerimento sobre debater inovação e política industrial, dando voz ao autor do requerimento, deputado Heitor Schultz.",
+      "transcription": "\nCasa, da comissão, primeiramente agradecer aos novos colegas por ter me colocado nessa nessa posição a indicação do meu partido, dizer que nunca tive uma eleição tão fácil na minha vida nem pra representante de sala, mas pra mim é uma honra, e tenho certeza que nós estaremos aqui sempre buscando o diálogo, o consenso pra os grandes projetos e as grandes pautas que nós trataremos aqui nessa nossa comissão. Então vamos dar continuidade aqui no requerimento número três de dois mil e vinte e três, do senhor Heitor Schutch, que requer a realização de audiência pública visando debater a inovação e domínio tecnológico na formulação da nova política industrial brasileira. Para encaminhar a favor, conceda a palavra ao autor do requerimento, o deputado Heitor Schultz.",
+      "summary": " Agradecimento por indicação como presidente; compromisso com diálogo e consenso; mencionaram e deram voz a requerimento sobre inovação e política industrial por deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Heitor Schuch -- por Participante -- Mersinho Lucena",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-heitor-schuch-por-participante-mersinho-lucena"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -124,17 +133,19 @@
       "speaker": {
         "id": 220585,
         "name": "Mersinho Lucena",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mersinho-lucena"
       }
     },
     {
       "id": 181674,
       "start_time": 1680015681,
       "duration": 18,
-      "transcription": "Muito obrigado colega deputado.",
+      "transcription": "\nMuito obrigado colega deputado.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Mersinho Lucena -- por Participante -- Heitor Schuch",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-mersinho-lucena-por-participante-heitor-schuch"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -170,7 +183,8 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -193,9 +208,10 @@
       "speaker": {
         "id": 178964,
         "name": "Heitor Schuch",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "heitor-schuch"
       }
     }
   ],
-  "updated_at": 1709547770
+  "updated_at": 1718633344
 }

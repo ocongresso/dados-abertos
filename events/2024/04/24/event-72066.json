@@ -14,7 +14,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Tempo de votar. Apresente nome para votar. Permitido perguntar.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 220701,
         "name": "Delegado Matheus Laiola",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-matheus-laiola"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -60,7 +64,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -82,7 +88,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -92,7 +99,8 @@
       "transcription": "Ok. Bom, primeiro bom",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- José Priante -- por Participante -- Rafael Prudente",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-jose-priante-por-participante-rafael-prudente"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 73531,
         "name": "Ivan Valente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ivan-valente"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     }
   ],

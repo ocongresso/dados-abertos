@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -35,7 +37,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -45,7 +48,8 @@
       "transcription": "Dos votos no painel.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -57,7 +61,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 73441,
         "name": "Celso Russomanno",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "celso-russomanno"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     }
   ],

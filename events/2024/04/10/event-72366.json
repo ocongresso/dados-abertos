@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -24,7 +25,8 @@
       "transcription": "A gente nem falou quem são dessa.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 204464,
         "name": "Talíria Petrone",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "taliria-petrone"
       }
     },
     {
@@ -104,7 +112,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 220569,
         "name": "Silvye Alves",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvye-alves"
       }
     },
     {
@@ -127,7 +137,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 220572,
         "name": "Marussa Boldrin",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "marussa-boldrin"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -210,7 +227,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     }
   ],

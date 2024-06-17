@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 0,
         "name": "RENATA REIS",
-        "position": "Coordenadora de Atenção à Saúde da Mulher - Ministério da Saúde"
+        "position": "Coordenadora de Atenção à Saúde da Mulher - Ministério da Saúde",
+        "slug": "renata-reis"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSILENE DOS SANTOS",
-        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres"
+        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres",
+        "slug": "josilene-dos-santos"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 0,
         "name": "Carmen Simone Grilo Diniz",
-        "position": "Representante - Associação Brasileira de Saúde Coletiva"
+        "position": "Representante - Associação Brasileira de Saúde Coletiva",
+        "slug": "carmen-simone-grilo-diniz"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 0,
         "name": "LUIZA BEATRIZ ACIOLI",
-        "position": "Coordenação de Ações Nacionais e Cooperação - Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz)"
+        "position": "Coordenação de Ações Nacionais e Cooperação - Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz)",
+        "slug": "luiza-beatriz-acioli"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 0,
         "name": "DANUBIA MARIANE JARDIM",
-        "position": "Enfermeira Obstetra e Doutora em Saúde Pública, Coordenadora da pós-graduação do Hospital Sofia Feldman - Hospital Sofia Feldman"
+        "position": "Enfermeira Obstetra e Doutora em Saúde Pública, Coordenadora da pós-graduação do Hospital Sofia Feldman - Hospital Sofia Feldman",
+        "slug": "danubia-mariane-jardim"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 0,
         "name": "NATHALIA DIÓRGENES FERREIRA LIMA",
-        "position": "Representante - Marcha Mundial de Mulheres"
+        "position": "Representante - Marcha Mundial de Mulheres",
+        "slug": "nathalia-diorgenes-ferreira-lima"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 0,
         "name": "NATHALIA DIÓRGENES FERREIRA LIMA",
-        "position": "Representante - Marcha Mundial de Mulheres"
+        "position": "Representante - Marcha Mundial de Mulheres",
+        "slug": "nathalia-diorgenes-ferreira-lima"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 0,
         "name": "Estela Scandola",
-        "position": "Doutora em Serviço Social e Mestre em Saúde Coletiva - Rede Feminista de Saúde"
+        "position": "Doutora em Serviço Social e Mestre em Saúde Coletiva - Rede Feminista de Saúde",
+        "slug": "estela-scandola"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -213,7 +230,8 @@
       "speaker": {
         "id": 0,
         "name": "Clara Wardi",
-        "position": "Assessora Técnica do Centro Feminista de Estudos e Assessoria (CFEMEA)"
+        "position": "Assessora Técnica do Centro Feminista de Estudos e Assessoria (CFEMEA)",
+        "slug": "clara-wardi"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 0,
         "name": "Carla Angelini",
-        "position": "Representante - Católicas pelo Direito de Decidir"
+        "position": "Representante - Católicas pelo Direito de Decidir",
+        "slug": "carla-angelini"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -249,7 +269,8 @@
       "speaker": {
         "id": 0,
         "name": "Eluza Salvador",
-        "position": "Vereadora São João Nepomuceno/ MG"
+        "position": "Vereadora São João Nepomuceno/ MG",
+        "slug": "eluza-salvador"
       }
     },
     {
@@ -261,7 +282,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -273,7 +295,8 @@
       "speaker": {
         "id": 0,
         "name": "Leciana Lambert",
-        "position": "Chefe do NEPAV (Núcleo de Estudos, Prevenção e Atenção às Violências)"
+        "position": "Chefe do NEPAV (Núcleo de Estudos, Prevenção e Atenção às Violências)",
+        "slug": "leciana-lambert"
       }
     },
     {
@@ -284,7 +307,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -296,7 +320,8 @@
       "speaker": {
         "id": 0,
         "name": "Vinício Prado",
-        "position": "Ex-Vereador de Campos do Jordão"
+        "position": "Ex-Vereador de Campos do Jordão",
+        "slug": "vinicio-prado"
       }
     },
     {
@@ -307,7 +332,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -319,7 +345,8 @@
       "speaker": {
         "id": 0,
         "name": "Ana Carolina",
-        "position": "Policial Civil"
+        "position": "Policial Civil",
+        "slug": "ana-carolina"
       }
     },
     {
@@ -331,7 +358,8 @@
       "speaker": {
         "id": 0,
         "name": "RENATA REIS",
-        "position": "Coordenadora de Atenção à Saúde da Mulher - Ministério da Saúde"
+        "position": "Coordenadora de Atenção à Saúde da Mulher - Ministério da Saúde",
+        "slug": "renata-reis"
       }
     },
     {
@@ -343,7 +371,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSILENE DOS SANTOS",
-        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres"
+        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres",
+        "slug": "josilene-dos-santos"
       }
     },
     {
@@ -366,7 +396,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -377,7 +408,8 @@
       "speaker": {
         "id": 0,
         "name": "JOSILENE DOS SANTOS",
-        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres"
+        "position": "Coordenadora-Geral de Saúde Integral das Mulheres - Ministério das Mulheres",
+        "slug": "josilene-dos-santos"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 0,
         "name": "Carmen Simone Grilo Diniz",
-        "position": "Representante - Associação Brasileira de Saúde Coletiva"
+        "position": "Representante - Associação Brasileira de Saúde Coletiva",
+        "slug": "carmen-simone-grilo-diniz"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -413,7 +447,8 @@
       "speaker": {
         "id": 0,
         "name": "LUIZA BEATRIZ ACIOLI",
-        "position": "Coordenação de Ações Nacionais e Cooperação - Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz)"
+        "position": "Coordenação de Ações Nacionais e Cooperação - Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz)",
+        "slug": "luiza-beatriz-acioli"
       }
     },
     {
@@ -425,7 +460,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -437,7 +473,8 @@
       "speaker": {
         "id": 0,
         "name": "DANUBIA MARIANE JARDIM",
-        "position": "Enfermeira Obstetra e Doutora em Saúde Pública, Coordenadora da pós-graduação do Hospital Sofia Feldman - Hospital Sofia Feldman"
+        "position": "Enfermeira Obstetra e Doutora em Saúde Pública, Coordenadora da pós-graduação do Hospital Sofia Feldman - Hospital Sofia Feldman",
+        "slug": "danubia-mariane-jardim"
       }
     },
     {
@@ -449,7 +486,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -461,7 +499,8 @@
       "speaker": {
         "id": 0,
         "name": "NATHALIA DIÓRGENES FERREIRA LIMA",
-        "position": "Representante - Marcha Mundial de Mulheres"
+        "position": "Representante - Marcha Mundial de Mulheres",
+        "slug": "nathalia-diorgenes-ferreira-lima"
       }
     },
     {
@@ -473,7 +512,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente propõe votar em bloco sobre requerimentos; Aprovados requerimentos de números 2023/01 a 08; Deputados(as) que aprovam mantêm-se como estão.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alfredo Gaspar -- por Participante -- Marx Beltrão",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alfredo-gaspar-por-participante-marx-beltrao"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 178843,
         "name": "Marx Beltrão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marx-beltrao"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Deputados aprovaram requerimentos; Marques quis dar voz a Amaral.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marco Bertaiolli -- por Participante -- Alfredo Gaspar",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marco-bertaiolli-por-participante-alfredo-gaspar"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 220581,
         "name": "Luciano Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-amaral"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 220586,
         "name": "Rafael Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-brito"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     }
   ],

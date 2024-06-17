@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Em fila única cuidado pra não haver, aí o engarrafamento é muita gente né? Mas já podem comparecer em fila única para exercer o direito de voto. Solicito aos deputados que ainda não exerceram o direito de voto que eu",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Passase a apuração dos votos no painel eletrônico.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "Bom dia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Raimundo Santos -- por Participante -- Daiana Santos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-raimundo-santos-por-participante-daiana-santos"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 220632,
         "name": "Ana Pimentel",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-pimentel"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -167,7 +180,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 220555,
         "name": "Daiana Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "daiana-santos"
       }
     }
   ],

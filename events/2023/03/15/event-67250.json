@@ -18,7 +18,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "E aí nós vamos aguardar naturalmente até que o quórum pelo menos vinte e cinco seja atingido. Obrigado.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Paulo Guedes é o novo presidente da comissão de finanças e tributação, com 24 votos a seu favor.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "transcription": "Boa tarde.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Merlong Solano -- por Participante -- Paulo Guedes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-merlong-solano-por-participante-paulo-guedes"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 141456,
         "name": "Jilmar Tatto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jilmar-tatto"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -144,7 +155,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     }
   ],

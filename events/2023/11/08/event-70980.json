@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220577,
         "name": "Augusto Puppio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "augusto-puppio"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     }
   ],

@@ -16,7 +16,8 @@
       "summary": "Senador abre sessão comemoração Dia Nacional do Quadrilheiro Junino; convida deputados, deputada distrital, e presidentes de confederação, união, e ligas juninas a compor mesa; convoca hino nacional.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -26,7 +27,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -36,7 +38,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -47,7 +50,8 @@
       "summary": "Senador abre sessão solene do Congresso Nacional em homenagem aos quadrilheiros juninos, convidando determinados indivíduos para compor a mesa e pedindo o silêncio para o hino nacional.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -57,7 +61,8 @@
       "transcription": "Vem comigo,",
       "speaker": {
         "name": "VAGUINHO",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vaguinho"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Senador homenageia festas juninas, patrimônio cultural do Brasil, e destaca luta e cultura de quadrilheiros em todo o país, independentemente de partido. Cita apoio a emendas culturais, incluindo para quadrilhas juninas presentes, apesar de dificuldades. Celebra cultura junina e concede palavra a outro parlamentar.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -80,7 +86,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -91,7 +98,8 @@
       "summary": "Senador celebra data importante para cultura brasileira, quadrilhas que unem pessoas e promovem parceria com movimentos unidos. Parabéns às quadrilhas Sabugo de Milho, Bobeou a Gente Pimba e Formiga da Roça, e boa viagem às representantes de Brasília no Pará.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -103,7 +111,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -114,7 +123,8 @@
       "summary": "Senador convida à apresentação musical de Tal Matos, Fernandinho Mangabeira e Trio Forróda de Feira, performando \"Asa Branca\".",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -124,7 +134,8 @@
       "transcription": "Vem comigo,",
       "speaker": {
         "name": "THAL MATOS E FERNANDINHO MANGABEIRA",
-        "position": "Grupo Trio Forró de Feira"
+        "position": "Grupo Trio Forró de Feira",
+        "slug": "thal-matos-e-fernandinho-mangabeira"
       }
     },
     {
@@ -135,7 +146,8 @@
       "summary": "Senador encoraja atenção a homenagem a dia do quadrilheiro junino, não sendo poeta ou cordelista.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -146,7 +158,8 @@
       "summary": "Início da apresentação do vídeo:",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -156,7 +169,8 @@
       "transcription": "Eu já já volto. Consegue não.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -167,7 +181,8 @@
       "summary": "Senador entregará certificados de honra a personalidades e entidades relacionadas ao movimento junino no Distrito Federal.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -179,7 +194,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -189,7 +205,8 @@
       "transcription": "A nossa deputada distrital, doutora Jane. Boa tarde.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -200,7 +217,8 @@
       "summary": "Deputada Distrital agradece convite, elogia grupo folclórico e deseja sucesso em espalhar boa cultura. Falou sobre alegria, interação, ocupação de espaço público, vínculo e convivência. Planeja parceria duradoura e quer abraçar e apoiar mais projetos da cidade.",
       "speaker": {
         "name": "JANE KLÉBIA",
-        "position": "Deputada Distrital"
+        "position": "Deputada Distrital",
+        "slug": "jane-klebia"
       }
     },
     {
@@ -211,7 +229,8 @@
       "summary": "Senador mencionou grupos, parabenizou alguém, refere-se a padrinho junina, convidou outra pessoa a falar, e é a primeira vez com determinado papel.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -222,7 +241,8 @@
       "summary": "Presidente da Confederação Nacional das Quadrilhas Juninas se refere à cultura do interior, destacando a importância do movimento e a volta do gênero à Brasília. Menciona a necessidade de respeito entre as entidades e incentivo financeiro para festivais, bandas de forró e quadrilhas juninas no Brasil.",
       "speaker": {
         "name": "HAMILTON TEIXEIRA DOS SANTOS",
-        "position": "Presidente da Confederação Nacional das Quadrilhas Juninas"
+        "position": "Presidente da Confederação Nacional das Quadrilhas Juninas",
+        "slug": "hamilton-teixeira-dos-santos"
       }
     },
     {
@@ -233,7 +253,8 @@
       "summary": "Senador abre sessão comemorativa do Dia Nacional do Quadrilheiro Junino, convida convidados especiais e propõe tocar hino nacional.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -244,7 +265,8 @@
       "summary": "Presidente da União Junina fala sobre a falta de apoio financeiro para grupos de quadrilha, criticando a distribuição dos recursos da secretaria de cultura. Ele expressa frustração com a lentidão na aprovação de seu próprio projeto e convida autoridades presentes a visitar seu evento, apesar de não ter tanta produção quanto outros. Ele encerra incentivando todos a desfrutar do São João.",
       "speaker": {
         "name": "FRANCISCO JOZIVALDO FERREIRA DA SILVA",
-        "position": "Presidente da União Junina"
+        "position": "Presidente da União Junina",
+        "slug": "francisco-jozivaldo-ferreira-da-silva"
       }
     },
     {
@@ -255,7 +277,8 @@
       "summary": "Senador concede palavra a presidente de ligua de quadrilhas juninas do DF.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -266,7 +289,8 @@
       "summary": "Presidente da liga de Quadrilhas Juninas do DF e Entorno agradece apoio e cumprimenta senador e deputada. Destaca importância da família e mulheres no movimento. Pede valorização do maior movimento cultural do DF. Agradecido por apoio em jornada difícil, mas gratificante. Invita para última etapa do circuito de quadrilha e agradece esforços dos quadrilheiros.",
       "speaker": {
         "name": "MÁRCIO NUNES PINTO",
-        "position": "Presidente da liga independente de Quadrilhas Juninas do Distrito Federal e Entorno"
+        "position": "Presidente da liga independente de Quadrilhas Juninas do Distrito Federal e Entorno",
+        "slug": "marcio-nunes-pinto"
       }
     },
     {
@@ -277,7 +301,8 @@
       "summary": "Senador entregará Certificados de Honra a homenageados em evento: deputada Jane, presidentes de confederações e uniões juninas, costureira, fotógrafo, diretores de centro educacional e administrador. Também receberá certificado em nome do deputado federal defensor Sidério Denner.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -288,7 +313,8 @@
       "summary": "Costureira e Vice-Presidente da Guadrilha Junina - Os Cablocos do Sertão agradecem à guerreira Edileuza, Jane e equipe por Circuito, homenageiam Márcio e Senador por apoio anual, mencionam Gabi e quadrilheiros.",
       "speaker": {
         "name": "DIANA RIBEIRO NUNES",
-        "position": "Costureira e Vice-Presidente da Guadrilha Junina - Os Cablocos do Sertão"
+        "position": "Costureira e Vice-Presidente da Guadrilha Junina - Os Cablocos do Sertão",
+        "slug": "diana-ribeiro-nunes"
       }
     },
     {
@@ -299,7 +325,8 @@
       "summary": "Senador propôs que certificado também seja dado a fotógrafo oficial do movimento junino.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -310,7 +337,8 @@
       "summary": "Fotógrafo Movimento Junino do DF: dançou many years, depois fotógrafo; agradece Senador e Ricardo por apoio; Márcio e Josivaldo por oportunidades; quadrilheiros e colegas de profissão.",
       "speaker": {
         "name": "MARCELLO CANDIDO DOS SANTOS",
-        "position": "Fotógrafo Oficial do Movimento Junino do Distrito Federal"
+        "position": "Fotógrafo Oficial do Movimento Junino do Distrito Federal",
+        "slug": "marcello-candido-dos-santos"
       }
     },
     {
@@ -321,7 +349,8 @@
       "summary": "Senador presente certificados de mérito a personalidades do movimento junino no Distrito Federal, incluindo líderes de quadrilhas, artesões e educadores.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -332,7 +361,8 @@
       "summary": "Entrega de Certificados de Honra ao Mérito do Diretor do Centro Educacional Ced 15 de Ceilândia a deputados, líderes comunitários e artistas do movimento junino no Distrito Federal.",
       "speaker": {
         "name": "ANDERSON PEREIRA DE SOUZA",
-        "position": "Diretor do Centro Educacional Ced 15 de Ceilândia"
+        "position": "Diretor do Centro Educacional Ced 15 de Ceilândia",
+        "slug": "anderson-pereira-de-souza"
       }
     },
     {
@@ -343,7 +373,8 @@
       "summary": "Senador reconhece administrador de Planaltina, Wesley Fonseca.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -354,7 +385,8 @@
       "summary": "Administrador de Planaltina agradece senadores, sauda mesa e senadores. Ele se orgulha de representar administradores regionais, elogia professora Lu e importância da quadrilha junina em escolas e comunidade, conclui com um grande abraço e aplausos para quadrilheiros e colaboradores.",
       "speaker": {
         "name": "WESLEY FONSECA",
-        "position": "Administrador de Planaltina"
+        "position": "Administrador de Planaltina",
+        "slug": "wesley-fonseca"
       }
     },
     {
@@ -365,7 +397,8 @@
       "summary": "Senador propõe homenagear um indivíduo chamado Fusca, em nome de um deputado federal chamado Estélio Denner.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -376,7 +409,8 @@
       "summary": "Participante agradeceu Isalcio Lucas por apoiar movimento junino, saudou personalidades importantes nesse movimento e representa deputado Esther Daniel. Mencionou reuniões com ministérios e pediu apoio financeiro para projetos. Destacou impacto econômico do movimento no DF e Brasil, e garantiu apoio do gabinete de deputado Esther Deni.",
       "speaker": {
         "name": "ROBSON",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "robson"
       }
     },
     {
@@ -387,7 +421,8 @@
       "summary": "Senador mencionou Luciano Lima, presidente do Triscol, que \"queimou\" ou falhou em cumprir uma promessa.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -398,7 +433,8 @@
       "summary": "Presidente do Movimento Triscou Queimou falou sobre sua felicidade em iniciar o movimento junino e valorizar músicos, mencionando nomes como Tal Matos e Fernando Mangabeira. Ele destaca a evolução e sonhos dos quadrilheiros e músicos, atribuindo o \"combustível\" aos aplausos do público. Agradecendo ao senador por apoio e desejando boa tarde a todos.",
       "speaker": {
         "name": "LUCIANO LIMA",
-        "position": "Presidente do Movimento Triscou Queimou"
+        "position": "Presidente do Movimento Triscou Queimou",
+        "slug": "luciano-lima"
       }
     },
     {
@@ -409,7 +445,8 @@
       "summary": "Senador convidou diretora Lucineide Amorim da Silva para falar.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -420,7 +457,8 @@
       "summary": "Professora fala sobre projeto Xodó de Cerrado, desenvolvido com estudantes da rede pública no DF. É o primeiro grupo de quadrilha junina formado por esses estudantes, resultando em 10 anos de luta e alegria. Professora vê o projeto como resgate da cultura junina e de vidas, e tem planos de expandi-lo para outros estados e o Brasil todo.",
       "speaker": {
         "name": "LUCINEIDE AMORIM DA SILVA",
-        "position": "Professora"
+        "position": "Professora",
+        "slug": "lucineide-amorim-da-silva"
       }
     },
     {
@@ -431,7 +469,8 @@
       "summary": "Senador convida líder da facção \"Chique Chique\" para dialogar.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -442,7 +481,8 @@
       "summary": "Representante da Chique Chique agradeceu liderança do senador no movimento unido do Distrito Federal, mencionou festividade e convidou para evento de quadrilha em Sobradinho. Ela desejou feliz dia do quadrilheiro a todos e expressou carinho e gratidão pelo senador, bem como pedidos de bênçãos para ele e sua família.",
       "speaker": {
         "name": "ISAIAS ANDRÉ",
-        "position": "Representante da Chique Chique"
+        "position": "Representante da Chique Chique",
+        "slug": "isaias-andre"
       }
     },
     {
@@ -453,7 +493,8 @@
       "summary": "Cultura brasileira celebrada, incluindo música e tradições de São João; alude ao casamento e à família, desejando a proteção divina. Quadrilha dancing mentioned in Brazil.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -464,7 +505,8 @@
       "summary": "Apresentação de celebração da cultura brasileira; mostra de raça até chá de baiano, música e alegria, quadrilheiros, pedindo proteção divina.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -474,7 +516,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -485,7 +528,8 @@
       "summary": "Senador convida todos a prestigiar apresentação da quadrilha junina Xodó do cerrado de Planaltina.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -496,7 +540,8 @@
       "summary": "Sonhos, inspiração em mestres, apresentação da cultura \"xodó do Cerrado\" com alegria e tradição musical.",
       "speaker": {
         "name": "LUCINEIDE AMORIM DA SILVA",
-        "position": "Professora"
+        "position": "Professora",
+        "slug": "lucineide-amorim-da-silva"
       }
     },
     {
@@ -506,7 +551,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Apresentação da Quadrilha Junina",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-da-quadrilha-junina"
       }
     },
     {
@@ -516,7 +562,8 @@
       "transcription": "Xodó de cerrado pra vocês. Maravilha.",
       "speaker": {
         "name": "Término da Apresentação da Quadrilha Junina",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-da-quadrilha-junina"
       }
     },
     {
@@ -527,7 +574,8 @@
       "summary": "Senador convida para apresentação musical de cantor tal Matos, Fernandinho Mangabeira e Trio Forródo de Feira, perfazendo canções Frevo Mulher e Viva o Quadrilheiro do Brasil.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     },
     {
@@ -538,7 +586,8 @@
       "summary": "Grupo Trio Forró de Feira anunciou show: \"Amo uma mulher, cantaré com fé; todos participarão, Venha comigo, é do Brasil, obrigado.\"",
       "speaker": {
         "name": "THAL MATOS E FERNANDINHO MANGABEIRA",
-        "position": "Grupo Trio Forró de Feira"
+        "position": "Grupo Trio Forró de Feira",
+        "slug": "thal-matos-e-fernandinho-mangabeira"
       }
     },
     {
@@ -549,7 +598,8 @@
       "summary": "Senador agradece participantes e equipe, elogia quadrilha junina Xodó do Cerrado por preservar cultura junina e contribuir para desenvolvimento social e pedagógico de estudantes. Pede por política de estado para movimento junino e reconhece luta de grupos e escolas por inclusão do movimento. Encerra sessão solene agradecendo presentes.",
       "speaker": {
         "name": "Izalci Lucas",
-        "position": "Senador"
+        "position": "Senador",
+        "slug": "izalci-lucas"
       }
     }
   ],

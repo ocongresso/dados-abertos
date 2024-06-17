@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204476,
         "name": "Chiquinho Brazão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chiquinho-brazao"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Não havendo mais quem queira votar declaro encerrada a votação.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204476,
         "name": "Chiquinho Brazão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chiquinho-brazao"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Agradecido por votos, convidou Danilo Forte para primeira vice-presidência.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Chiquinho Brazão -- por Participante -- Max Lemos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-chiquinho-brazao-por-participante-max-lemos"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204476,
         "name": "Chiquinho Brazão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chiquinho-brazao"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 171617,
         "name": "Paulão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulao"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     }
   ],

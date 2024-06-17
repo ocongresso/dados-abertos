@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente da Associação de Moradores de Vila Lenira expressa preocupação sobre a demora na recuperação do rio Doce e o impacto no mar de Regência. Questiona a falta de movimentação da Samarco para ajudar os idosos afetados e menciona a ausência de punição aos responsáveis. Falta de tratamento de água e aumento de câncer na região são também abordados, junto com a alegada falta de fiscalização do poder público e a suposta lentidão na indenização às vítimas.",
       "speaker": {
         "name": "ADEMIR DO NASCIMENTO",
-        "position": "Presidente - Associação de Moradores de Vila Lenira"
+        "position": "Presidente - Associação de Moradores de Vila Lenira",
+        "slug": "ademir-do-nascimento"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente da Associação Unidos pelo Progresso do Bairro Palmeiras relata impactos no rio de Governador Valadares por dejetos da Samar, aumento de casos de câncer e problemas de saúde após contato com a água contaminada. Pedidos para providências e melhorias na qualidade da água fornecida à população.",
       "speaker": {
         "name": "GLEICE DE SOUZA",
-        "position": "Presidente - Associação Unidos pelo Progresso do Bairro Palmeiras"
+        "position": "Presidente - Associação Unidos pelo Progresso do Bairro Palmeiras",
+        "slug": "gleice-de-souza"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Presidente da Associação de Produtores Rurais e Artesãos do Espírito Santo expressa agradecimento por essa audiência pública para abordar os prejuízos sofridos pelo produtor rural e artesão no estado, em consequência da catástrofe. A associação está pronta para apresentar provas das perdas e clama por reparação de danos. Obrigado a todos os presentes.",
       "speaker": {
         "name": "SAMUEL GENTIL MUNIZ BATISTA DIAS",
-        "position": "Presidente - Associação de Produtores Rurais e Artesãos do Espírito Santo"
+        "position": "Presidente - Associação de Produtores Rurais e Artesãos do Espírito Santo",
+        "slug": "samuel-gentil-muniz-batista-dias"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Empresas envolvidas no desastre ambiental usaram produto sem estudos sobre saúde humana; Forneceram solução alternativa sem avaliação de risco, excedendo dosagem recomendada; Advogado das Associações destaca a necessidade de inclusão das vítimas na repactuação e solução da contaminação da água com Thanflock.",
       "speaker": {
         "name": "Diego Carvalho Pereira",
-        "position": "Advogado das Associações"
+        "position": "Advogado das Associações",
+        "slug": "diego-carvalho-pereira"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Representante - Coordenação Nacional do Movimento dos Atingidos por Barragens (MAB) se refere à grave contaminação causada pelos crimea da Vale em Brumadinho e Mariana, pessoas e ambiente afetados por metais pesados, preocupação com soluções insuficientes e falta de participação dos atingidos em decisões.",
       "speaker": {
         "name": "JOCELI ANDREOLI",
-        "position": "Representante - Coordenação Nacional do Movimento dos Atingidos por Barragens (MAB)"
+        "position": "Representante - Coordenação Nacional do Movimento dos Atingidos por Barragens (MAB)",
+        "slug": "joceli-andreoli"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Procurador Geral da Prefeitura de Colatina falou sobre:",
       "speaker": {
         "name": "Guilherme de Castro",
-        "position": "Procurador Geral da Prefeitura de Colatina"
+        "position": "Procurador Geral da Prefeitura de Colatina",
+        "slug": "guilherme-de-castro"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Representante do MPF propõe tipificação de ecocídio, aumento de alíquota do CEFEM, prioridade judiciária em ações ambientais, atenção às vítimas de Rio Doce e Brumadinho, e soluções por meio de acordos com benefícios e financiamento para afetados.",
       "speaker": {
         "name": "CARLOS BRUNO FERREIRA DA SILVA",
-        "position": "Representante - Ministério Público Federal - MPF"
+        "position": "Representante - Ministério Público Federal - MPF",
+        "slug": "carlos-bruno-ferreira-da-silva"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -190,7 +205,8 @@
       "summary": "Prioridade ao Defensor Público Geral; temas como repactuação de acordos e supressão de impacto ambiental enfatizados. Referência às vítimas vulnerabilizadas por rompimentos de barragens e compromisso em defender os necessitados, priorizando direitos das pessoas impactadas. Reconhecendo passado, espera por avanços em participação social e reparação.",
       "speaker": {
         "name": "ISABELLA KAREN ARAÚJO SIMÕES",
-        "position": "Representante - Defensoria Pública da União - DPU"
+        "position": "Representante - Defensoria Pública da União - DPU",
+        "slug": "isabella-karen-araujo-simoes"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -213,7 +230,8 @@
       "summary": "Desastre Barragem Fundão em 2015: destruição ambiental, social, e econômica; 19 mortos. Desde 2015, investimento superior a R$ 3 bilhões em recuperação; maior parte em pessoas e comunidades. Pouco mais de 6% em compensação e reparação.",
       "speaker": {
         "name": "CÉLIA REGINA MIRANDA DE MELO",
-        "position": "Chefe de Divisão e Assessoramento Interinstitucional - Ibama e Secretária-Executiva do Comitê Interfederativo - CI"
+        "position": "Chefe de Divisão e Assessoramento Interinstitucional - Ibama e Secretária-Executiva do Comitê Interfederativo - CI",
+        "slug": "celia-regina-miranda-de-melo"
       }
     },
     {
@@ -225,7 +243,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -236,7 +255,8 @@
       "summary": "Rompimento barragem Samarco em 2015 causou impactos econômicos e ambientais; Ibama, ICMBio e ANA responderam; termo de transação assinado em 2016 por estados, Samarco, Vale e BHP; CIF monitora e fiscaliza Fundação Renova; Fundação Renova auditada externamente; reparação desastre sendo reavaliada para maior eficácia.",
       "speaker": {
         "name": "CÉLIA REGINA MIRANDA DE MELO",
-        "position": "Chefe de Divisão e Assessoramento Interinstitucional - Ibama e Secretária-Executiva do Comitê Interfederativo - CI"
+        "position": "Chefe de Divisão e Assessoramento Interinstitucional - Ibama e Secretária-Executiva do Comitê Interfederativo - CI",
+        "slug": "celia-regina-miranda-de-melo"
       }
     },
     {
@@ -248,7 +268,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -259,7 +280,8 @@
       "summary": "Deputado fala sobre a estratégia de marketing da Renova, que tirou o foco da Vale em relação ao desastre ambiental e às mortes. Ele critica a indenização da Vale como uma compra da quietude e lamenta a falta de representação das vítimas no TETAC. O deputado também menciona as dificuldades em avançar com as indenizações e expressa apoio aos esforços para melhorar a indenização ambiental e humanitária para as pessoas e municípios afetados.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -306,7 +331,8 @@
       "summary": "Secretária Substituta da SQA enfatiza monitoramento externo de rompimentos de barragens e compromisso do MMA na renegociação, com participação ativa de diversos setores e ênfase em evidência técnica e científica. MMA busca renegociação urgente e eficaz, considerando fatores ambientais e sociais, e manter comunicação aberta com todas as partes.",
       "speaker": {
         "name": "THAIANNE RESENDE HENRIQUES FÁBIO",
-        "position": "Secretária Substituta - Secretaria Nacional de Meio Ambiente Urbano e Qualidade Ambiental-SQA do Ministério do Meio Ambiente e Mudança do Clima"
+        "position": "Secretária Substituta - Secretaria Nacional de Meio Ambiente Urbano e Qualidade Ambiental-SQA do Ministério do Meio Ambiente e Mudança do Clima",
+        "slug": "thaianne-resende-henriques-fabio"
       }
     },
     {
@@ -318,7 +344,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -329,7 +356,8 @@
       "summary": "Secretaria de Estado de Minas Gerais indignada com paralisação da reparação Rio Doce; propõe cronograma socioeconômico, mais participação municipal, deliberação direta, transferência de renda, saúde e conclusão de Fundação Renove projetos; menciona aprendizados do acordo de Brumadinho, incluindo fundo perpétuo para atingidos.",
       "speaker": {
         "name": "LUÍS OTÁVIO MILAGRES DE ASSIS",
-        "position": "Secretário-Adjunto - Secretaria de Estado de Planejamento e Gestão de Minas Gerais, Coordenador do Comitê Pró Rio-Doce e do Comitê Pró-Brumadinho, Representante do Governo de Minas Gerais"
+        "position": "Secretário-Adjunto - Secretaria de Estado de Planejamento e Gestão de Minas Gerais, Coordenador do Comitê Pró Rio-Doce e do Comitê Pró-Brumadinho, Representante do Governo de Minas Gerais",
+        "slug": "luis-otavio-milagres-de-assis"
       }
     },
     {
@@ -341,7 +369,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -352,7 +381,8 @@
       "summary": "Estado Espírito Santo mal preparado para desastre Samarco; grupo gestor criado para enfrentar crise; impactos na pesca, turismo e agropecuária; 35 mil pessoas impactadas na pesca; áreas de risco em Linhares; priorizar segurança hídrica, reflorestamento e saneamento.",
       "speaker": {
         "name": "MARGARETH BATISTA SARAIVA COELHO",
-        "position": "Secretária-Executiva - Comitê Gestor Pró Rio Doce do Espírito Santo e Representante do Governo do Espírito Santo"
+        "position": "Secretária-Executiva - Comitê Gestor Pró Rio Doce do Espírito Santo e Representante do Governo do Espírito Santo",
+        "slug": "margareth-batista-saraiva-coelho"
       }
     },
     {
@@ -364,7 +394,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -375,7 +406,8 @@
       "summary": "Promotora de Justiça e Coordenadora do Grupo de Trabalho de Recuperação do Rio Doce relata desafios no combate ao maior desastre ambiental da mineração no Brasil, causando graves contaminações no rio e mar. Empresas envolvidas resistem ao reconhecimento dos impactos no litoral e minimizam responsabilidades, enquanto instituições buscam repactuação e Ministério Público trabalha para reparações e compensações socioambientais e socioeconômicas.",
       "speaker": {
         "name": "ELAINE COSTA DE LIMA",
-        "position": "Promotora de Justiça e Coordenadora - do Grupo de Trabalho de Recuperação do Rio Doce no Ministério Público do Espírito Santo - MPES"
+        "position": "Promotora de Justiça e Coordenadora - do Grupo de Trabalho de Recuperação do Rio Doce no Ministério Público do Espírito Santo - MPES",
+        "slug": "elaine-costa-de-lima"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -399,7 +432,8 @@
       "speaker": {
         "id": 220576,
         "name": "Alfredo Gaspar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredo-gaspar"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -422,7 +457,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -434,7 +470,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -445,7 +482,8 @@
       "summary": "Promotora de Justiça - Ministério Público de Minas Gerais - MPMG expressou agradecimento por participação, reafirmou prioridade no caso em questão, garantiu esforço integral de todos os representantes do poder público para alcançar o melhor acordo possível, destacou atuação contínua no âmbito judicial enquanto não há solução definitiva para a repactuação e desejou boa tarde a todos.",
       "speaker": {
         "name": "HOSANA REGINA ANDRADE DE FREITAS",
-        "position": "Promotora de Justiça - Ministério Público de Minas Gerais - MPMG"
+        "position": "Promotora de Justiça - Ministério Público de Minas Gerais - MPMG",
+        "slug": "hosana-regina-andrade-de-freitas"
       }
     },
     {
@@ -456,7 +494,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -467,7 +506,8 @@
       "summary": "Defensor Público do Espírito Santo solicita rápida reparação e reconhecimento total de comunidades e categorias no desastre do Rio Doce, incluindo povos tradicionais e indígenas. Exige mesa de reparação para justiça indenizatória e acesso à informação, participação social e justiça na reparação. Suplica consideração de comissão externa no Congresso para fortalecer participação social em conflitos ambientais.",
       "speaker": {
         "name": "RAFAEL PORTELLA",
-        "position": "Defensor Público - Defensoria Pública do Espírito Santo"
+        "position": "Defensor Público - Defensoria Pública do Espírito Santo",
+        "slug": "rafael-portella"
       }
     },
     {
@@ -479,7 +519,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -490,7 +531,8 @@
       "summary": "Defensoria Pública do Estado de Minas Gerais destaca importância de proteger povos tradicionais e ambiente, promovendo participação informada e construção de protocolos de consulta, em especial no caso do Paraopeba e no Rio Doce. Também enfatiza a necessidade de concretização de medidas e formatos acessíveis, bem como acompanhamento e controle de projetos e medidas adequadas aos atendimentos de seus direitos.",
       "speaker": {
         "name": "CAROLINA MORISHITA FERREIRA",
-        "position": "Defensora Pública - Defensoria Pública do Estado de Minas Gerais"
+        "position": "Defensora Pública - Defensoria Pública do Estado de Minas Gerais",
+        "slug": "carolina-morishita-ferreira"
       }
     },
     {
@@ -502,7 +544,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     },
     {
@@ -513,7 +556,8 @@
       "summary": "Gerente Geral de Reparação Socioambiental - Vale S.A.: compromisso com a recuperação ambiental em Brumadinho; prioriza atendimento a bombeiros e busca por vítimas; área de atuação abrange 27.600 km² em 26 municípios; reparação integral incluída em acordo judicial com governo e ministérios públicos; obras emergenciais realizadas, monitoramento continuo dos impactos na biodiversidade e recuperação do Rio Paraopeba.",
       "speaker": {
         "name": "VANESSA BUZZI",
-        "position": "Gerente Geral de Reparação Socioambiental - Vale S.A."
+        "position": "Gerente Geral de Reparação Socioambiental - Vale S.A.",
+        "slug": "vanessa-buzzi"
       }
     },
     {
@@ -525,7 +569,8 @@
       "speaker": {
         "id": 220528,
         "name": "Dr. Victor Linhalis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-victor-linhalis"
       }
     }
   ],

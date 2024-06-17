@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 225730,
         "name": "Enfermeira Ana Paula",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "enfermeira-ana-paula"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     }
   ],

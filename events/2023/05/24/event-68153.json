@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Não havendo mais quem queira votar declaro encerrada a votação. Passase a apuração dos votos no painel eletrônico.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220665,
         "name": "Clarissa Tércio",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "clarissa-tercio"
       }
     },
     {
@@ -146,7 +157,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -158,7 +170,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -169,7 +182,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -181,7 +195,8 @@
       "speaker": {
         "id": 180214,
         "name": "Pastor Diniz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-diniz"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -203,7 +219,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -215,7 +232,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -239,7 +258,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -251,7 +271,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -263,7 +284,8 @@
       "speaker": {
         "id": 220695,
         "name": "Rogéria Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rogeria-santos"
       }
     },
     {
@@ -275,7 +297,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -287,7 +310,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -299,7 +323,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -309,7 +334,8 @@
       "transcription": "Felipe Martins pra estrear logo aqui.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernando Rodolfo -- por Participante -- Filipe Martins",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernando-rodolfo-por-participante-filipe-martins"
       }
     },
     {
@@ -321,7 +347,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -333,7 +360,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -345,7 +373,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -357,7 +386,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -369,7 +399,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -381,7 +412,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -393,7 +425,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -405,7 +438,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -417,7 +451,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -428,7 +463,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -440,7 +476,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -452,7 +489,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -463,7 +501,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -475,7 +514,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -486,7 +526,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -498,7 +539,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -510,7 +552,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -521,7 +564,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -533,7 +577,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -545,7 +590,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -557,7 +603,8 @@
       "speaker": {
         "id": 204412,
         "name": "Dr. Zacharias Calil",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-zacharias-calil"
       }
     },
     {
@@ -569,7 +616,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -581,7 +629,8 @@
       "speaker": {
         "id": 178929,
         "name": "Diego Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-garcia"
       }
     },
     {
@@ -592,7 +641,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -604,7 +654,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -615,7 +666,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -627,7 +679,8 @@
       "speaker": {
         "id": 74856,
         "name": "Laura Carneiro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "laura-carneiro"
       }
     },
     {
@@ -639,7 +692,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     },
     {
@@ -651,7 +705,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -663,7 +718,8 @@
       "speaker": {
         "id": 220545,
         "name": "Filipe Martins",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-martins"
       }
     }
   ],

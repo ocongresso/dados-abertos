@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 74299,
         "name": "Leonidas Cristino",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "leonidas-cristino"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -76,7 +81,8 @@
       "summary": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente falou sobre a criação da Brema, a necessidade de encerrar lixões e abordou a importância da gestão de resíduos sólidos, enfatizando a falta de informação e conscientização do público. Também mencionou a nova realidade do saneamento no país e o potencial do hidrogênio verde no Brasil.",
       "speaker": {
         "name": "PEDRO MARANHÃO",
-        "position": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente"
+        "position": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente",
+        "slug": "pedro-maranhao"
       }
     },
     {
@@ -88,7 +94,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -99,7 +106,8 @@
       "summary": "Coordenador-técnico da Associação Concessionárias Privadas de Serviços Públicos de Água e Esgoto propõe uso consciente de recursos, redução de resíduos e geração de energia, incluindo hidrogênio, a partir do tratamento de lixo. Sugeriu criação de grupo de trabalho para estudar hidrogênio e transição energética, com foco em tratamento de resíduos.",
       "speaker": {
         "name": "ALEXANDRE MORIYA",
-        "position": "Coordenador-técnico - Associação Concessionárias Privadas de Serviços Públicos de Água e Esgoto"
+        "position": "Coordenador-técnico - Associação Concessionárias Privadas de Serviços Públicos de Água e Esgoto",
+        "slug": "alexandre-moriya"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -123,7 +132,8 @@
       "speaker": {
         "id": 214694,
         "name": "Jorge Goetten",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jorge-goetten"
       }
     },
     {
@@ -135,7 +145,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -147,7 +158,8 @@
       "speaker": {
         "id": 204445,
         "name": "Fernando Mineiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-mineiro"
       }
     },
     {
@@ -159,7 +171,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -170,7 +183,8 @@
       "summary": "Usina recuperação energética cara, investimento vindo de fora, governo incentivo para nacionalizar tecnologia, população cobrada mais energia custo igualado. Custo geral na casa de bilhões, nenhuma fonte barata.",
       "speaker": {
         "name": "ALEXANDRE MORIYA",
-        "position": "Coordenador-técnico - Associação Concessionárias Privadas de Serviços Públicos de Água e Esgoto"
+        "position": "Coordenador-técnico - Associação Concessionárias Privadas de Serviços Públicos de Água e Esgoto",
+        "slug": "alexandre-moriya"
       }
     },
     {
@@ -182,7 +196,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -193,7 +208,8 @@
       "summary": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente discutiu leilão de resíduo solo, energia e custos. Mencionou diversificação matriz energética, redução custo energia solar, incineração cara, e interesse em hidrogênio verde. Promoveu aproveitamento de resíduos, energia a partir de resíduos, e potencial mundial do Brasil nesse sentido. Espera mais leilões e interesse por resíduos como matéria-prima.",
       "speaker": {
         "name": "PEDRO MARANHÃO",
-        "position": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente"
+        "position": "Presidente - Associação Brasileira de Resíduos e Meio Ambiente",
+        "slug": "pedro-maranhao"
       }
     },
     {
@@ -205,7 +221,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     }
   ],

@@ -17,7 +17,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "summary": "Presidente - Associação das Ligas Esportivas Brasileiras falou sobre a necessidade de políticas públicas voltadas ao futebol e esporte amador, culpando o governo por não consultar o segmento. Valorizou a reunião como início de diálogo e organização do maior segmento esportivo do Brasil, presente em todos os municípios. Obrigado, Ricardo.",
       "speaker": {
         "name": "Ricardo da Silva Oliveira",
-        "position": "Presidente - Associação das Ligas Esportivas Brasileiras"
+        "position": "Presidente - Associação das Ligas Esportivas Brasileiras",
+        "slug": "ricardo-da-silva-oliveira"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -51,7 +54,8 @@
       "summary": "Secretário Nacional do Ministério do Esporte enfatiza importância do futebol amador; recriação do Ministério do Esporte; duas secretarias para cuidar do esporte amador e futebol no Ministério. Promoção do futebol feminino e direitos do torcedor também mencionados.",
       "speaker": {
         "name": "Lúcio Flávio Vale da Silva",
-        "position": "Secretário Nacional - Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor do Ministério do Esporte"
+        "position": "Secretário Nacional - Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor do Ministério do Esporte",
+        "slug": "lucio-flavio-vale-da-silva"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Reunião crucial para promover esporte e lazer, garantido constitucionalmente. Futebol social carece de políticas públicas e orçamento. Proposta: modificar lei de incentivo ao esporte, criar ação orçamentária específica para futebol social, e estabelecer subcomissão permanente para debater esporte amador.",
       "speaker": {
         "name": "Mário Célio Alves",
-        "position": "Assessor jurídico - Associação das Ligas Deportivas do Pará"
+        "position": "Assessor jurídico - Associação das Ligas Deportivas do Pará",
+        "slug": "mario-celio-alves"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -97,7 +104,8 @@
       "summary": "Consultor da Confederação Nacional de Municípios agradece convite, fala sobre importância do futebol amador no Brasil e apoio à boas políticas públicas relacionadas, destacando preocupação com recursos para implementá-las e sugerindo exemplo da política nacional de cultura.",
       "speaker": {
         "name": "João Luiz dos Santos Santos",
-        "position": "Consultor - Confederação Nacional de Municípios"
+        "position": "Consultor - Confederação Nacional de Municípios",
+        "slug": "joao-luiz-dos-santos-santos"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Diretora - Secretaria de Esporte Amador do Ministério do Esporte valoriza futebol amador no Brasil, apesar da falta de orçamento dedicado. Ela defende Fundo Nacional de Esporte para distribuir recursos aos municípios. Formação esportiva e cidadã é considerada fundamental, com foco em combater discriminações e promover justiça e democracia. Sistema Nacional de Esporte requer colaboração da União, estados e municípios.",
       "speaker": {
         "name": "Cassia Damiani",
-        "position": "Diretora - Secretaria de Esporte Amador do Ministério do Esporte"
+        "position": "Diretora - Secretaria de Esporte Amador do Ministério do Esporte",
+        "slug": "cassia-damiani"
       }
     },
     {
@@ -132,7 +142,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Presidente da Associação Amazonense das Ligas Esportivas Brasileiras destaca dificuldades do futebol amador no interior do Amazonas, enfatiza necessidade de recursos para ligas em todo o Brasil, pede apoio de deputados e senadores, e elogia iniciativa da Federação Maçã de Futebol.",
       "speaker": {
         "name": "Edson Prestes Ferreira",
-        "position": "Presidente - Associação Amazonense das Ligas Esportivas Brasileiras"
+        "position": "Presidente - Associação Amazonense das Ligas Esportivas Brasileiras",
+        "slug": "edson-prestes-ferreira"
       }
     },
     {
@@ -155,7 +167,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -166,7 +179,8 @@
       "summary": "Presidente da Liga Esportiva de Juatuba-MG, Geraldo Ricardo, falou sobre a necessidade de lei que valorize o futebol social e amador, apresentando o trabalho da liga nos últimos 20 anos e sua importância na comunidade periférica e em diferentes faixas etárias. Ele também mencionou as dificuldades financeiras e a necessidade de apoio dos deputados e da comissão do esporte.",
       "speaker": {
         "name": "Geraldo Ricardo de Lima",
-        "position": "Presidente - Liga Esportiva de Juatuba - MG"
+        "position": "Presidente - Liga Esportiva de Juatuba - MG",
+        "slug": "geraldo-ricardo-de-lima"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -189,7 +204,8 @@
       "summary": "Presidente da Secretaria Municipal de Esporte de Imperatriz - MA valoriza lutas por futebol amador, especialmente por atenção à base e futebol feminino; destaca esforços da Leb durante pandemia, buscando inclusão social.",
       "speaker": {
         "name": "Luiz Gonzaga Pereira Sousa",
-        "position": "Presidente - Secretaria Municipal de Esporte de Imperatriz - MA"
+        "position": "Presidente - Secretaria Municipal de Esporte de Imperatriz - MA",
+        "slug": "luiz-gonzaga-pereira-sousa"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Líder do Pará e Brasil falecido; coordenava projeto Transamazônia; família ajudou a criar primeiro campo de futebol em Ouro Verde, hoje uma comunidade. Agora, tributo a ele com discurso, respectando limite de tempo. Maurício Luiz Dias segue com projeto Incluir.",
       "speaker": {
         "name": "MARCIO LUIZ DIAS",
-        "position": ""
+        "position": "",
+        "slug": "marcio-luiz-dias"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Amazonas presente na reunião, promovendo futebol amador e social, que une e representa grande parte do Brasil, incluindo jovens e idosos em todas as regiões, incluindo o interior. Compromisso em defender essa causa com outros estados.",
       "speaker": {
         "name": "EUFRASIO ASSIS AZEVEDO FILHO",
-        "position": ""
+        "position": "",
+        "slug": "eufrasio-assis-azevedo-filho"
       }
     },
     {
@@ -246,7 +266,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -257,7 +278,8 @@
       "summary": "Quarenta e cinco anos como sindicalista, presidente de liga desportiva há cinco anos, apoiou candidato à federação de futebol, fundou e reorganizou ALIDESP, importante desenvolver futebol amador, celeiro de talentos no município, necessário união na luta por recursos e política pública, precisamos de dinheiro.",
       "speaker": {
         "name": "DOMINGOS FERNANDES ELERES",
-        "position": ""
+        "position": "",
+        "slug": "domingos-fernandes-eleres"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Saudação a todos; congratulando Ricardo Oliveira. Mencionando secretaria, movimento municipalista, inclusão e símbolo do autismo. Elogiando líderes e sabedoria parlamentar. Reconhecendo apoio de Airton Faleiro. Ag Radicação em ação, ajudando crianças carentes.",
       "speaker": {
         "name": "MARCOS LIMA DO AMARAL",
-        "position": ""
+        "position": "",
+        "slug": "marcos-lima-do-amaral"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -302,7 +327,8 @@
       "summary": "Vereador Colares emocionado: com suas palavras, realizou sonhos de pessoas, chegou em Brasília por vontade de Deus e abençoado por Ele. Hoje, tem cabo eleitoral em Colares e representa todos os estados, inclusive os amadores do Pará e Brasil. Agora, é seu momento único e histórico. Boa tarde e obrigado.",
       "speaker": {
         "name": "VEREADOR DANIEL LOBATO LOBO COLARES",
-        "position": ""
+        "position": "",
+        "slug": "vereador-daniel-lobato-lobo-colares"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -325,7 +352,8 @@
       "summary": "Representa mulheres ligas esportivas; presidentes apaixonados por esporte; sacrificam para realizarem campeonatos beneficiando cidades inteiras; reivindica igualdade para atletas femininas e melhores oportunidades para mulheres em esportes e educação; pede apoio da mesa em sua causa.",
       "speaker": {
         "name": "NELCIANE RODRIGUES",
-        "position": ""
+        "position": "",
+        "slug": "nelciane-rodrigues"
       }
     },
     {
@@ -337,7 +365,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -348,7 +377,8 @@
       "summary": "O orador agradece a oportunidade de falar e elogia um projeto que incentiva cidadania por meio do futebol, relatando histórias de sua eficácia em ajudar pessoas em situações difíceis. Ele conclui cumprimentando os presentes e desejando bênçãos ao projeto.",
       "speaker": {
         "name": "JOSIAS VERAS DE MORAIS",
-        "position": ""
+        "position": "",
+        "slug": "josias-veras-de-morais"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -371,7 +402,8 @@
       "summary": "Lutamos por valorização e apoio ao futebol amador: é inclusão, desenvolvimento sustentável e preservação do meio ambiente. Sonhamos em reconhecimento mundial e um campeonato brasileiro de futebol amador. Pedimos socorro e extensão de mãos às autoridades.",
       "speaker": {
         "name": "ERIVALDO JOSILEIS DE LIMA",
-        "position": ""
+        "position": "",
+        "slug": "erivaldo-josileis-de-lima"
       }
     },
     {
@@ -382,7 +414,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -393,7 +426,8 @@
       "summary": "Participante é presidente do Benfica Esporte Clube, assumiu há 5 meses e antes foi vice-presidente por 2 anos. reformou o clube, trouxe 25 crianças para campeonato nacional, duas conquistas recentes, luta é por bem-estar de todas as crianças e jovens.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "participante"
       }
     },
     {
@@ -405,7 +439,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -416,7 +451,8 @@
       "summary": "Participante fala sobre sua experiência em arbitragem de futebol, incluindo Copa América e Série A do brasileiro. Menciona sua missão em nome de 138 municípios, destaque para o Tocantins e suas ligas esportivas. Ele transmite a mensagem da necessidade de dinheiro para o futebol amador, e o apoio da bancada do Tocantins para os requerimentos relacionados a isso.",
       "speaker": {
         "name": "Fábio",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fabio"
       }
     },
     {
@@ -428,7 +464,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -439,7 +476,8 @@
       "summary": "Diretora da Secretaria de Esporte Amador do Ministério do Esporte sai com responsabilidades compartilhadas, enriquecida com as discussões e grata pela participação de todos. Planeja sistematizar o evento, enviar relatório ao ministro e criar um grupo de trabalho. Valoriza relação criada com os participantes e promete apoio contínuo.",
       "speaker": {
         "name": "Cassia Damiani",
-        "position": "Diretora - Secretaria de Esporte Amador do Ministério do Esporte"
+        "position": "Diretora - Secretaria de Esporte Amador do Ministério do Esporte",
+        "slug": "cassia-damiani"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -462,7 +501,8 @@
       "summary": "Consultor da Confederação Nacional de Municípios elogiou reunião, propostas e paixão por futebol amador, garantindo que isso atrairá mais alianças e atenção que merece. Parabéns e obrigado.",
       "speaker": {
         "name": "João Luiz dos Santos Santos",
-        "position": "Consultor - Confederação Nacional de Municípios"
+        "position": "Consultor - Confederação Nacional de Municípios",
+        "slug": "joao-luiz-dos-santos-santos"
       }
     },
     {
@@ -474,7 +514,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -485,7 +526,8 @@
       "summary": "Secretário Nacional da Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor do Ministério do Esporte está em casa, é ex-treinador, amante do futebol amador, e foi perdoado por sua esposa por investir em causa justa relacionada ao esporte.",
       "speaker": {
         "name": "Lúcio Flávio Vale da Silva",
-        "position": "Secretário Nacional - Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor do Ministério do Esporte"
+        "position": "Secretário Nacional - Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor do Ministério do Esporte",
+        "slug": "lucio-flavio-vale-da-silva"
       }
     },
     {
@@ -497,7 +539,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -508,7 +551,8 @@
       "summary": "Assessor jurídico da Associação de Ligas Deportivas do Pará agradeceu oportunidade de debater propostas, anunciou preparo de minutas concretas para apresentar propostas discutidas.",
       "speaker": {
         "name": "Mário Célio Alves",
-        "position": "Assessor jurídico - Associação das Ligas Deportivas do Pará"
+        "position": "Assessor jurídico - Associação das Ligas Deportivas do Pará",
+        "slug": "mario-celio-alves"
       }
     },
     {
@@ -519,7 +563,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -530,7 +575,8 @@
       "summary": "Presidente - Associação das Ligas Esportivas Brasileiras agradece aos líderes presentes e menciona a visita surpresa de Lúcio Flávio. Lamenta a perda do vice-presidente Sandro e elogia a presença de Airton na plenária.",
       "speaker": {
         "name": "Ricardo da Silva Oliveira",
-        "position": "Presidente - Associação das Ligas Esportivas Brasileiras"
+        "position": "Presidente - Associação das Ligas Esportivas Brasileiras",
+        "slug": "ricardo-da-silva-oliveira"
       }
     },
     {
@@ -542,7 +588,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     }
   ],

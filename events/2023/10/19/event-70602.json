@@ -13,7 +13,8 @@
       "summary": "Organização do Câmara Mirim dá boas-vindas a duas bancadas de estados diferentes. Hoje, discutem três projetos selecionados entre 550. Os estudantes representam escolas de todo o Brasil que se interessaram pelo Câmara Mirim. O objetivo é construir algo positivo de forma colaborativa, atuando coletivamente. Discutem projeto de lei para instituir dia nacional de combate ao capacitismo escolar.",
       "speaker": {
         "name": "ALICE GOMES",
-        "position": "Organização do Câmara Mirim"
+        "position": "Organização do Câmara Mirim",
+        "slug": "alice-gomes"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Reunião aberta, convocada para discussão e votação do Projeto de Lei 2.023 sobre combate ao capacitismo escolar. Agradecimentos à oportunidade de participação, a alunos, professores, e à coordenadora. Autor do projelo, deputado mirim Elton Cauã, fala por cinco minutos. Boa tarde.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -35,7 +37,8 @@
       "summary": "Participante agradece presença e comparte motivação por trás do projeto:",
       "speaker": {
         "name": "ELTON CAUÃ",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "elton-caua"
       }
     },
     {
@@ -46,7 +49,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: emendas apresentadas, discussão e votação seguidas por apresentação de substitutivo para aprovação. Relatora é deputada mirim Raíssa Gonçalves Nunes.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": "Dia 22 de setembro: emenda de Barros anualmente em 22 de agosto e \"escola cidadã\" em Bilité em 20 de setembro, data nacional de lutaa contra deficiência. Participante refere-se a si mesma como deputada.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -68,7 +73,8 @@
       "summary": "Discussão encerrada, sem oposição à emenda da relatora. Emenda aprovada, conforme proposta.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -79,7 +85,8 @@
       "summary": "Implementa \"Dia Nacional de Combate ao Capacitismo Escolar\" e eliminação do capacitismo em todas as formas na \"Escola Cidadã Ibirité\".",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -89,7 +96,8 @@
       "transcription": "",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -100,7 +108,8 @@
       "summary": "Participante questioning who is responsible for monitoring and judging capacitism, expresses that it doesn't make sense.",
       "speaker": {
         "name": "Samuel",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "samuel"
       }
     },
     {
@@ -111,7 +120,8 @@
       "summary": "Organização do Câmara Mirim propôs votação em duas emendas: alteração de \"dia nacional de combate ao capacitismo\" ou \"eliminação e combate ao capacitismo em todas as suas formas\".",
       "speaker": {
         "name": "RAQUEL BARRETO",
-        "position": "Organização do Câmara Mirim"
+        "position": "Organização do Câmara Mirim",
+        "slug": "raquel-barreto"
       }
     },
     {
@@ -122,7 +132,8 @@
       "summary": "Emenda para mudar data do Dia Nacional de Combate ao Capacitismo aprovada, rejeitada a emenda anterior.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -133,7 +144,8 @@
       "summary": "Participante propõe troca da data da Efeméride e introdução de \"escolas cidadãs\"; oferece três opções de datas ou manter data original; se pergunta sobre escolha de data de agosto.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -144,7 +156,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: em 22 de agosto, questionamento sobre folclore por deputada da bancada Antonieta de Barros, resposta de Daiane.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": "Participante propôs defender emenda para ensino mensal, não restrito a data específica, permitindo aprendizagem gradual e contínua, especialmente útil para escolas com alunos em constante fluxo.",
       "speaker": {
         "name": "DAIANE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "daiane"
       }
     },
     {
@@ -166,7 +180,8 @@
       "summary": "Emenda six anula projeto original de dedicar dia nacional ao combate do capacitismo escolar, causando prejuízo à iniciativa original.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -177,7 +192,8 @@
       "summary": "Professora pode ensinar sem datas específicas, mas abordando o assunto durante o ano todo. Participe está de acordo com a pergunta e está pronto para continuar.",
       "speaker": {
         "name": "DAIANE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "daiane"
       }
     },
     {
@@ -188,7 +204,8 @@
       "summary": "Participante sugeriu definir uma data específica para abordar o assunto de capacitismo, igual à preservação de tecidos, com foco exclusivo nele, sem outras ocupações, similar a como escolas comemoram o folclore em dias específicos.",
       "speaker": {
         "name": "VINICIUS VICENTE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "vinicius-vicente"
       }
     },
     {
@@ -199,7 +216,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: participante se identificou como Lívia, solicitou permissão para falar.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -210,7 +228,8 @@
       "summary": "Participante sugeriu aprovar Emenda 5, realizando ações no dia 20 de cada ano letivo, porém a bancada de Joinville insiste em restringir as ações somente ao dia 20. Ela questionou a possibilidade de criar uma emenda específica.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -220,7 +239,8 @@
       "transcription": "Nós estamos nas votações das emendas tá? Então foram apresentadas emendas no momento da emenda do projeto que é aquele primeiro é como se fosse título do que que é o projeto. Então nós temos a emenda número dois, que veio da escola de Joinville, dia nacional de combate ao capacitismo. A emenda número três também quer alterar esta emenda, então uma invalida a outra, então a gente vai votar qual que vocês preferem? Essa que a gente leu, que o título vai ser dia nacional de combate ao capacitismo ou de combate ao capacitismo é a emenda número dois, e eliminação e combate ao capacitismo em todas as suas formas é a emenda número três. Então nós, ela vai colocar aqui em votação quem quiser que a duas votações, entenderam?",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -231,7 +251,8 @@
       "summary": "Participante sugeriu aprovar Emenda 5, junto com ações durante todo o ano letivo, mas a bancada de Joinville insiste em realizar ações apenas no dia 20. Eles questionam se seria possível criar uma emenda específica para isso.",
       "speaker": {
         "name": "ELTON CAUÃ",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "elton-caua"
       }
     },
     {
@@ -242,7 +263,8 @@
       "summary": "Participante sugeriu definir data específica para capacitismo, como se faz com outras causas, dedicando foco especial nesse dia, similar a como escolas comemoram o folclore em datas específicas.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -253,7 +275,8 @@
       "summary": "Dia 22 de setembro: emenda deputada Barros anualmente em 22 de agosto, escola cidadã em Bilité, dia nacional de luta pessoa com deficiência.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -263,7 +286,8 @@
       "transcription": "Que levantou a mão. Você gostaria de se manifestar? Dia vinte e de setembro, como ele falou, é dia de luta.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -274,7 +298,8 @@
       "summary": "Participante sugeriu que o Dia de Luta contra o Capacitismo ocorra em 20 de setembro em vez de 22 de setembro, para facilitar o foco nas escolas.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -285,7 +310,8 @@
       "summary": "Nesse dia, a data de 22 de agosto, dedicada ao folclore, as escolas provavelmente não realizariam atividades, pois é considerado feriado.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -296,7 +322,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG menciona votação sobre a emenda número quatro, com algum deputado querendo rejeitar, em 22 de agosto, data do folclore.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -307,7 +334,8 @@
       "summary": "Participante propôs data para combater deficiência intelectual e sugeriu adicionar outra data, ligada à Emenda Numero.",
       "speaker": {
         "name": "JENIFER LARA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jenifer-lara"
       }
     },
     {
@@ -318,7 +346,8 @@
       "summary": "Projeto para dia nacional de luta contra deficiência em discussão; originalmente previsto para 22 de setembro; emenda propôs data igual; ambas aprovadas; Mateus Miguel Michalski se apresenta.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -329,7 +358,8 @@
       "summary": "Participante sugeriu aprovar Emenda 5, também realizando ações no ano letivo completo, mas a bancada de Joinville concorda apenas com a realização no dia 20. Eles questionam sobre a criação de uma emenda específica para isso.",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -340,7 +370,8 @@
       "summary": "Emenda six impede projeto por carecer data específica, fazendo-o inválido, não há discussão.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -351,7 +382,8 @@
       "summary": "O participante questiona sobre a emenda aprovada na sessão de dia 11 de setembro, relacionada à Escola Cidadã e Bilheteria, e quer saber como isso afetará sua não especificada enumeração.",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -362,7 +394,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG propõe estabelecer 25 de setembro como Dia Nacional de Luta da Pessoa com Deficiência.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -373,7 +406,8 @@
       "summary": "Participante leu sobre ações ao longo do ano letivo, incluindo no dia 20 de setembro, data nacional de defesa da luta com deficiência.",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -383,7 +417,8 @@
       "transcription": "Com a palavra a relatora.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -394,7 +429,8 @@
       "summary": "Promover atividades educativas sobre deficiência e combate ao capacitismo em escolas, como estabelecido na Emenda em votação, objetivo da Emenda 7 em Joinville e Emenda 8 na escola cidadã de Ibirité, que buscam conscientizar e sensibilizar a comunidade escolar e criar um ambiente livre de discriminação.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -405,7 +441,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG se refere à Emenda 7 ou 8 e comparação de preços, com enfoque no \"Zé amarelo\".",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -416,7 +453,8 @@
       "summary": "As emendas sete e oito propõem substituir a conscientização e promoção de atitudes educativas sobre deficiência e capacitismo no projeto original, com aprovação de uma danificando a outra.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -426,7 +464,8 @@
       "transcription": "Ou o texto original. Ou o texto original. Bom, eu.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -437,7 +476,8 @@
       "summary": "Participante considera emenda 7 mais detalhada e preferível, ou manter plano original, semendo similar emenda 8.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -447,7 +487,8 @@
       "transcription": "Poderes identificar? Oi, espera aí deixa eu eu faço",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -458,7 +499,8 @@
       "summary": "Participante abordou importância de conscientização e capacitação no combate a preconceitos, sugerindo que professores estejam preparados para corrigir e instruir sobre o assunto. Emenda 8 mencionada como ferramenta para promover reflexão e aprendizagem sobre preconceitos. Preferência pelo texto original destacada.",
       "speaker": {
         "name": "Rita",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rita"
       }
     },
     {
@@ -469,7 +511,8 @@
       "summary": "Participante preferiu texto original, considera ele mais detalhado e claro.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -480,7 +523,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: mão levantada a favor do texto original, emendas 7 e 8 rejeitadas, emenda do texto original aprovada.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -491,7 +535,8 @@
       "summary": "Momento de conscientização sobre capacitismo, emenda sobre inclusão de escolas públicas e particulares em atividades educativas (Participante).",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -501,7 +546,8 @@
       "transcription": "Bom olá senhora presidente.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -512,7 +558,8 @@
       "summary": "Participante defende emenda número nove, que amplia definição de \"escola\" para incluir ensino médio, no projeto original mencionado.",
       "speaker": {
         "name": "Júlia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "julia"
       }
     },
     {
@@ -523,7 +570,8 @@
       "summary": "Participante sugere que, com a emenda ninfa, escolas poderiam acharem que apenas alunos do ensino médio comprenderiam sobre conscientização contra capacitismo, já que o projeto original não especifica o tipo ou nível escolar.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -534,7 +582,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG propõe que alunos abaixo do quinto ano e de cursos técnicos também aprendam sobre certa temática, argumentando que recusar explicar a esses alunos não é justo.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -545,7 +594,8 @@
       "summary": "Proposta: currículo três anos ensino médio. Participante se apresentou como Sabrina.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -556,7 +606,8 @@
       "summary": "Participante propôs demonstrar conceito de maneira que alunos do 5º ano possam compreender; sugere explicar como isso se aplica à cidade.",
       "speaker": {
         "name": "SABRINA HELEN",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina-helen"
       }
     },
     {
@@ -567,7 +618,8 @@
       "summary": "Participante sugeriu que alunos do primeiro ao quinto ano devem aprender sobre deficiência, pois esses alunos podem ter colegas com deficiência e podem ajudar a prevenir preconceito.",
       "speaker": {
         "name": "JENIFER LARA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "jenifer-lara"
       }
     },
     {
@@ -578,7 +630,8 @@
       "summary": "Partcipante abordou inclusão de todos no caso da creche, se refere a si mesma como Isabela.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -589,7 +642,8 @@
       "summary": "Participante propõe mudança em emenda 9, incluindo ensino fundamental e médio.",
       "speaker": {
         "name": "ISABELA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "isabela"
       }
     },
     {
@@ -600,7 +654,8 @@
       "summary": "Participante disse que emendas propostas seriam compreendidas por crianças a partir do primeiro ano do ensino fundamental até o terceiro ano do ensino médio, não considerando a idade pré-escolar devido à maturidade necessária para entender o tema do capacitismo.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -611,7 +666,8 @@
       "summary": "Participante concorda com Júlia que ensino fundamental adequado para aprender sobre combate ao capacitismo, pois antes de seis anos é dificultado. Apresenta-se como Camila.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -622,7 +678,8 @@
       "summary": "Participante concorda com emenda nove, enfatizando importância de conscientizar sobre capacitismo aos jovens na faixa etária de 5 anos à terceiro ano do ensino médio, a fim de cultivar respeito e debate contra preconceitos desde uma idade precoce.",
       "speaker": {
         "name": "Camila",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "camila"
       }
     },
     {
@@ -633,7 +690,8 @@
       "summary": "Participante propôs escolas com ensino fundamental do 1º ao 9º ano e ensino médio, distinto do quinto ao nono ano.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -644,7 +702,8 @@
       "summary": "Participante quer saber opinião da bancada de Geovani sobre conscientização de crianças em idade pré-escolar. Ela própria quer esclarecer algo sobre o assunto.",
       "speaker": {
         "name": "LUDMILA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "ludmila"
       }
     },
     {
@@ -655,7 +714,8 @@
       "summary": "Participante propõe que educação sobre capacitismo seja ensinada desde o 1º ano do ensino fundamental até o 3º ano do ensino médio, acreditando que professores estão qualificados para abordar o assunto com crianças.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -665,7 +725,8 @@
       "transcription": "Eu concordo com a menina ali atrás por quê?",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -676,7 +737,8 @@
       "summary": "Participante destaca importância de aprender desde criança o certo e o errado, promovendo conscientização e pedido de desculpas para evitar más ações, mesmo acidentalmente, por meio de uma educação adequada.",
       "speaker": {
         "name": "MIGUEL",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "miguel"
       }
     },
     {
@@ -686,7 +748,8 @@
       "transcription": "Bom, vou fazer mais falar sobre",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -697,7 +760,8 @@
       "summary": "Participante salienta que crianças no Brasil terão fácil aprendizagem com profissionais experientes e sua pré-consciência natural, incluindo conhecimento de conceitos como o capitalismo e o certo e errado.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -707,7 +771,8 @@
       "transcription": "Bom dia, meu nome é Milene, sou",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -718,7 +783,8 @@
       "summary": "Partecipante destaca importância de educação inicial na formação de boas condutas nas crianças, começando no ambiente familiar e se estendendo à escola.",
       "speaker": {
         "name": "MILENE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "milene"
       }
     },
     {
@@ -729,7 +795,8 @@
       "summary": "Participante defende emenda 9, acredita que crianças de 1º ao 9º ano e ensino médio possuem capacidade de entendimento sobre isso quando explicado; considera que essa educação ajudará as crianças a tomar decisões informadas no futuro. Também menciona outro assunto relacionado à creche.",
       "speaker": {
         "name": "Gabriela",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gabriela"
       }
     },
     {
@@ -740,7 +807,8 @@
       "summary": "A participante discutiu a idade de entrada na pré-escola, que varia de mais de 4 a 5 anos, às vezes mesmo abrangendo bebês acima de 6 meses. Ela também mencionou seu papel como deputada.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -750,7 +818,8 @@
       "transcription": "",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -761,7 +830,8 @@
       "summary": "Participante afirmou brincar ser sua preocupação aos 5-6 anos, sem entender bullying. Sua opinião é que educação contra capacitismo deveria iniciar no primeiro ano do fundamental, mas antes, deve vim de casa. Elas, então, teriam capacidade de compreender. Também mencionou que é o Kai.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -772,7 +842,8 @@
       "summary": "Participante destaca importância de educar sobre capacitismo desde criança, pois, conforme ele observa, crianças pequenas não demonstram interesse pelo assunto, mesmo com ensino dos professores.",
       "speaker": {
         "name": "CAIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "caique"
       }
     },
     {
@@ -782,7 +853,8 @@
       "transcription": "Vamos passar agora pra relatora. Lembra",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -793,7 +865,8 @@
       "summary": "Projeto inicial não tem idade específica, Emenda 9 adiciona limite em escolas públicas e particulares de ensino fundamental e médio.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -804,7 +877,8 @@
       "summary": "Projeto original modificado com a aprovação da emenda número nove.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -815,7 +889,8 @@
       "summary": "Participante propõe emendas definindo capacitismo e sua manifestação como discriminação contra pessoas com deficiência.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -826,7 +901,8 @@
       "summary": "Participante refere falta de definição sobre capacitismo, mas emenda 11 e parte de 10 esclarecem o conceito.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -836,7 +912,8 @@
       "transcription": "Fica à vontade, deputado. Eu concordo.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -847,7 +924,8 @@
       "summary": "Participante concorda com colegas sobre emenda número onze, explicando o conceito de capacitismo.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -858,7 +936,8 @@
       "summary": "Participante concorda com emenda onze, afirma que desconhecia o significado de capacitismo, assim como outros deputados.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -869,7 +948,8 @@
       "summary": "Rejeição de emenda de Aguará do Sul; Aprovação da emenda da bancada Antonieta de Barros; Consideração do artigo do projeto original.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -880,7 +960,8 @@
       "summary": "Ministério da Educação e secretarias de educação, junto de escola e comunidade, são responsáveis por Joinville. Emenda 13 (escola cidadã em Ibirité e inclusão de pessoas com deficiência) acrescenta à Emenda 12 (substituição no projeto original). Participante acha que deveria completar o original, sem substituição.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -891,7 +972,8 @@
       "summary": "Participante propõe emenda para completar discussão sobre secretarias municipais e estaduais de educação, especificando sua diferença e importância, pois muitas pessoas não as conhecem.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -902,7 +984,8 @@
       "summary": "Emenda 12 altera artigo principal, 13 complementa; Joinville bancada concorda em criar algo.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -912,7 +995,8 @@
       "transcription": "Emenda juntando tanto a emenda doze quanto a emenda treze, alterando o original.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -923,7 +1007,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG criou emendas para votação, se manifestar quem desejar aprova-las.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -934,7 +1019,8 @@
       "summary": "Apenas emenda 12 substituindo a original, conforme aplicada aprovada uma emenda por vez. (Participante)",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -945,7 +1031,8 @@
       "summary": "Emenda doze modifica, emenda treze complementa; ambas aprovadas, texto original do artigo segundo mantido.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -956,7 +1043,8 @@
       "summary": "O participante enfatizou a responsabilidade do Ministério de Educação, secretarias e escolas em fiscalizar e promover ações contra o capacitismo, citando a Emenda 14 de Joinville.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -966,7 +1054,8 @@
       "transcription": "Catorze. Pra mim a emenda catorze",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -977,7 +1066,8 @@
       "summary": "O participante concorda com a emenda 14, enfatizando a necessidade de fiscalizar e cumprir ações específicas em uma data determinada.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -987,7 +1077,8 @@
       "transcription": "Algum algum outro deputado quer se manifestar? Em votação.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -998,7 +1089,8 @@
       "summary": "Participante sugeriu substituir determinada parte do texto pela Emenda 14, para especificar o que seria exatamente fiscalizado em votação.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -1008,7 +1100,8 @@
       "transcription": "A emenda quatorze, pode ficar à vontade deputada. Oi gente",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1019,7 +1112,8 @@
       "summary": "Participante mencionou seu nome como Júlia Campos, da bancada escola cidadã de Brité, e perguntou sobre a identidade da pessoa anterior.",
       "speaker": {
         "name": "JULIA CAMPOS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "julia-campos"
       }
     },
     {
@@ -1030,7 +1124,8 @@
       "summary": "Participante concorda com Emenda 14, que complementará a fiscalização.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1041,7 +1136,8 @@
       "summary": "Participante concorda com emenda, propõe esclarecimentos sobre suas ações e questiona deputada para esclarecer dúvidas.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1051,7 +1147,8 @@
       "transcription": "Isso vai acrescentar ou ele vai substituir o que está escrito? Substituir. Vai substituir, né?",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -1062,7 +1159,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: emenda 14 aprovada, texto original do projeto mantido.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1073,7 +1171,8 @@
       "summary": "O participante destacou a responsabilidade da educação e secretarias em fiscalizar e cumprir ações relacionadas à data em questão. Três emendas já foram aprovadas sobre o assunto, modificando o texto original. Agora, deve-se considerar a inclusão de medidas de acessibilidade e combate à discriminação, bem como oficinas e campanhas de conscientização nas escolas, como proposto nas emendas 15, 16 e 17.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1084,7 +1183,8 @@
       "summary": "Participante discorda sobre emenda dezessete e questiona se emenda dezesseis pode ser incluída com a quinze no projeto.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1095,7 +1195,8 @@
       "summary": "Participante destaca importância da prática sobre a teoria; menciona falta de leitura em alguns alunos e se apresenta como deputado Samuel.",
       "speaker": {
         "name": "MILENE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "milene"
       }
     },
     {
@@ -1106,7 +1207,8 @@
       "summary": "Participante está a favor de emenda 15, considerando-a mais completa com atividades e campanhas, acredita que trará mais pessoas.",
       "speaker": {
         "name": "Samuel",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "samuel"
       }
     },
     {
@@ -1117,7 +1219,8 @@
       "summary": "O participante enfatizou que o Ministério da Educação, secretarias estaduais e municipais, escolas especializadas em inclusão, sociedade civil e comunidade local têmresponsabilidade no fomento e debate sobre a importância de combater o capacitismo e na fiscalização das ações educacionais para promover essa inclusão.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1128,7 +1231,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG procura presidente substituto temporariamente. Aspirantes podem se manifestar.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1139,7 +1243,8 @@
       "summary": "Participante concorda com Emenda 16, sugere conversar com \"cedista\".",
       "speaker": {
         "name": "SABRINA HELEN",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina-helen"
       }
     },
     {
@@ -1150,7 +1255,8 @@
       "summary": "A participante discorda com a falta de visibilidade do evento de Minas 16, acreditando que a prática seja mais importante que a divulgação através de cartazes. Ela sugere que as pessoas optam por participar do evento, demonstrando que ele é bem frequentado. Em sua opinião, o evento de Minas 16 é mais adequado para o aprendizado prático.",
       "speaker": {
         "name": "EDUARDO HENRQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "eduardo-henrque"
       }
     },
     {
@@ -1161,7 +1267,8 @@
       "summary": "Pode incluir as três ações no projeto de forma incluiva.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1172,7 +1279,8 @@
       "summary": "Participante sugeriu combinar emendas 15 e 16, pois ambas se referem a cartazes, enquanto emenda 17 seria repetitiva e desnecessária. Ela acredita que a emenda 15 deve ser mais explicativa e a 16 a complementará. Concordou com sua colega.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1183,7 +1291,8 @@
       "summary": "Participante propõe aprovação da emenda 15, vendo a 16 como complementar. Emenda 15 considerada completa.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1193,7 +1302,8 @@
       "transcription": "Dezesseis e as duas se incluírem e, rejeitar a dezessete? Em votação?",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1204,7 +1314,8 @@
       "summary": "Participante aprovou emendas 15 e 16, rejeitou emenda 17 e destacou necessidade de planejamento e inclusão no artigo 3 do projeto.",
       "speaker": {
         "name": "SABRINA HELEN",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina-helen"
       }
     },
     {
@@ -1215,7 +1326,8 @@
       "summary": "Proposta de ações para promover acessibilidade e inclusão de estudantes com deficiência, incluindo formação de professores, adaptações físicas em escolas, e equipes de apoio em diversas localidades. Não exclusivo, permite escolha de implementar uma ou todas as propostas.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1226,7 +1338,8 @@
       "summary": "Participante defende igualdade e colaboração entre gêneros.",
       "speaker": {
         "name": "SABRINA HELEN",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina-helen"
       }
     },
     {
@@ -1237,7 +1350,8 @@
       "summary": "Participante defende emenda 18, que pedia banheiros adaptados e piso tátil em escolas, facilitando acesso para pessoas com deficiência física e visual.",
       "speaker": {
         "name": "LAVINIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "lavinia"
       }
     },
     {
@@ -1248,7 +1362,8 @@
       "summary": "Participante destacou importância de aprofundar formação de professores em abordagem de alunos com deficiência, para garantir atendimento adequado e evitar indiferença.",
       "speaker": {
         "name": "MILENE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "milene"
       }
     },
     {
@@ -1258,7 +1373,8 @@
       "transcription": "Deputada, deputada se manifeste. Então, eu concordo ali na emenda dezenove,",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1269,7 +1385,8 @@
       "summary": "Participante propõe equipe anticapacitista para observar e combater capacitismo, mas sugere que todos os alunos e funcionários deveriam estar atentos, sem necessidade de formação de grupos específicos, que podem se unir a esta causa.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -1279,7 +1396,8 @@
       "transcription": "No no artigo terceiro. Posso falar? Deputado, só minutinho, pode falar? Na emenda dezenove de",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1290,7 +1408,8 @@
       "summary": "Participante expressou opinião sobre equipes anticapacitistas, considerando-as uma boa ideia, mas difícil de ser implementada devido a foco nos estudos dos alunos e possíveis conflitos. Sugeriu que essa responsabilidade deveria recair sobre o Grêmio Estudantil, se houver, em vez dos alunos.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1300,7 +1419,8 @@
       "transcription": "Eu acho",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1311,7 +1431,8 @@
       "summary": "Participante concorda com adição das duas emendas, pois se complementam.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -1322,7 +1443,8 @@
       "summary": "Participante concorda com emendas 18 e 19, apoia Lívia; propõe equipe anti-capacitismo em escolas, sob coordenação da equipe pedagógica. Concorda com Lívia. Obrigado.",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -1333,7 +1455,8 @@
       "summary": "Participante expressou opinião sobre possíveis conflitos entre pessoas chamadas Lívia e Milene, mencionando uma emenda de número 19 que teria apenas um ponto relevante.",
       "speaker": {
         "name": "MILENE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "milene"
       }
     },
     {
@@ -1344,7 +1467,8 @@
       "summary": "Participante propõe priorizar ações de socialização de alunos com deficiência, considerando dificuldades práticas e financeiras na adaptação estrutural das escolas, como elevadores e rampas.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1354,7 +1478,8 @@
       "transcription": "Ok, mais algum deputado? Fique à vontade. Eu mando a questão da",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1365,7 +1490,8 @@
       "summary": "Participante está de acordo com a posição de Mateus e Lívia sobre a Emenda 18 e 19, e propõe retirar apenas a criação de equipes de alunos para observação de casos de capacitismo na escola da Emenda 19.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -1375,7 +1501,8 @@
       "transcription": "Quer se manifestar? Fique à vontade, eu gostaria",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1386,7 +1513,8 @@
       "summary": "Participante sugeriu adicionar apenas o tópico final da emenda dezenove à emenda dezoito, em vez de aprovar a emenda dezenove na íntegra.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1396,7 +1524,8 @@
       "transcription": "Podemos sim fazer essa complementação, nós podemos. Com licença, como seriam feitas",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1407,7 +1536,8 @@
       "summary": "Participante propôs votar emenda 19 como tópico isolado e aprovar emenda 18.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1418,7 +1548,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG se opõe a últimas três emendas e propõe sufrágio após seu rechaço.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1429,7 +1560,8 @@
       "summary": "Proposta de emenda com 18 itens, sem primeiros tópicos da emenda 19, abordando deputados.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1440,7 +1572,8 @@
       "summary": "Apoio à Emenda 18 com última Emenda 19, aprovada; Emenda 19 rejeitada, retorno ao projeto original.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1451,7 +1584,8 @@
       "summary": "Projeto de inclusão de alunos com deficiência, garantindo acessibilidade física, formação de professores e alunos para tratamento adequado de alunos com deficiência, capacitação em manejo comportamental e adaptação curricular, colaboração entre professores de educação especial e ensino regular.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1461,7 +1595,8 @@
       "transcription": "Adiciona ou só a vinte e dois? Só a vinte e dois adiciona. As outras duas",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1471,7 +1606,8 @@
       "transcription": "No caso, alterariam o artigo. Fique à vontade deputada. Eu concordo com as emendas vinte",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1482,7 +1618,8 @@
       "summary": "Participante concorda com as duas explicações dadas e acha que a deputada atrai esse tipo de manifestação.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1492,7 +1629,8 @@
       "transcription": "",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1503,7 +1641,8 @@
       "summary": "Participante propõe votar na emenda 22 para complementar o projeto original, vendo repetição no assunto discutido por outros.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1514,7 +1653,8 @@
       "summary": "Participante propõe mudar formação professores, promover articulação entre professores de educação especial e de ensino regular para planejamento colaborativo de ações de acordo com necessidades alunos com deficiência.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1525,7 +1665,8 @@
       "summary": "Participante duvida da necessidade da formação de alunos contra capacitismo, pois não sabe como eles poderiam se especializar nisso. Ela sugere que seria mais útil que professores tivessem um entendimento maior sobre o assunto.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -1536,7 +1677,8 @@
       "summary": "Participante propõe inclusão de alunos na formação em 2023 e limitar a formação de professores aos anos de 2020 e 2022. Acredita na importância da formação.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1547,7 +1689,8 @@
       "summary": "Segundo o Participante, alunos enfrentariam dificuldades em compreender e assumedir responsabilidades, e a Emenda 22 seria mais adequada e completa.",
       "speaker": {
         "name": "ISABELA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "isabela"
       }
     },
     {
@@ -1558,7 +1701,8 @@
       "summary": "Professor formação por emenda 22. Alunos são educados e formados pelos professores.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1569,7 +1713,8 @@
       "summary": "Participante considera difícil formar alunos, diferente de professores que podem ter cursos adicionais simplificados; refere-se ao tema discutido anteriormente.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1580,7 +1725,8 @@
       "summary": "Participante sugeriu duas abordagens para formação de professores: uma envolvendo estudantes e a outra não, no entanto, com o objetivo compartilhado de preparar melhor os professores para educar alunos.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1591,7 +1737,8 @@
       "summary": "Participante destaca importância de professores se por formarem contra capacitismo, sendo exemplo na sala de aula.",
       "speaker": {
         "name": "Camila",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "camila"
       }
     },
     {
@@ -1602,7 +1749,8 @@
       "summary": "Participante fala sobre a importância da formação dos professores, em vez de alunos, para a Emenda 20 e sugere que deveria ser mais específica para evitar confusão.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1612,7 +1760,8 @@
       "transcription": "Boa tarde, meu nome é Giovanna da escola",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1623,7 +1772,8 @@
       "summary": "Participante concorda com a Emenda 22/2021, acreditando que formação de professores pode ajudar a atender melhor alunos com deficiência, evitando ações capacitistas.",
       "speaker": {
         "name": "Geovana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "geovana"
       }
     },
     {
@@ -1634,7 +1784,8 @@
       "summary": "Participante prefere Emenda 22, pois detalha melhor a formação estudantil, independente de emenda.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1644,7 +1795,8 @@
       "transcription": "Fique à vontade. Então, ali no no artigo vinte e e vinte e dois, onde está",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1655,7 +1807,8 @@
       "summary": "Participante propõe articulação de professores para educação especial, no contexto do Dia Nacional de Tecido contra Capacitismo. Defende educação adaptada para deficiências que comprometem o desenvolvimento, mas questiona inclusão em sala de aula comoutros alunos para deficiências \"regulares\" ou \"médias\".",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -1666,7 +1819,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: Votação de emenda 20, aprovada; discussão sobre artigo 4 do projeto original, necessidade de recursos financeiros, humanos e naturais.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1677,7 +1831,8 @@
       "summary": "Governo divulgando data contra capacitismo, formando professores para educação inclusiva, sensibilização via recursos naturais, emenda priorizando recursos para ação educacional de combate ao capacitismo. Participante.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -1688,7 +1843,8 @@
       "summary": "Emenda aditiva inclui artigo 14, tornando-o inclusivo e destinando recursos do Ministério da Educação para combate ao capacitismo.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1699,7 +1855,8 @@
       "summary": "Participante sugeriu aprimorar tópico 4 com emenda 23, concordando com \"Deputada\".",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1710,7 +1867,8 @@
       "summary": "Participante sugeriu iniciar combate ao capacitismo na educação com Emenda 23, para qual o Ministério da Educação deveria alocar recursos.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1721,7 +1879,8 @@
       "summary": "Participante concorda em adicionar proposta do deputado Samuel.",
       "speaker": {
         "name": "GUSTAVO HENRIQUE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "gustavo-henrique"
       }
     },
     {
@@ -1732,7 +1891,8 @@
       "summary": "Participante concorda com emenda 23, mas discorda de mudar temas emenda; propõe adição, não troca de tópicos.",
       "speaker": {
         "name": "Samuel",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "samuel"
       }
     },
     {
@@ -1743,7 +1903,8 @@
       "summary": "Participante concorda com o deputado Gustavo sobre a Emenda 23, sugerindo complemento em vez de substituição, envolvendo pais e divulgação em diferentes meios contra capacitismo na educação.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1754,7 +1915,8 @@
       "summary": "Participante sugeriu complementar discussão com foco em recursos para divulgação e combate a desinformação.",
       "speaker": {
         "name": "Geovana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "geovana"
       }
     },
     {
@@ -1765,7 +1927,8 @@
       "summary": "Melhor complementar do que excluir parte do projeto. Participante cede a palavra à deputada.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1775,7 +1938,8 @@
       "transcription": "Só como em implementação, eu acho que,",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1786,7 +1950,8 @@
       "summary": "Participante defende importância da divulgação contra o capacitismo, afirmando que é essencial conscientizar as pessoas sobre esse assunto, e argumenta a favor da complementação da emenda sem excluir o tópico original.",
       "speaker": {
         "name": "Camila",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "camila"
       }
     },
     {
@@ -1796,7 +1961,8 @@
       "transcription": "Algum deputado? Fique à vontade. Vou concordar",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1807,7 +1973,8 @@
       "summary": "Participante sugeriu usar internet como ferramenta para disseminar conhecimentos sobre capacitismo e alcançar um público maior.",
       "speaker": {
         "name": "Geovana",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "geovana"
       }
     },
     {
@@ -1818,7 +1985,8 @@
       "summary": "Escola Cidadã Ibirité-MG: realizada votação para inclusão da Emenda 23, que prevê punição para casos de capacitismo; aprovada Emenda 24 sobre inclusão de novos artigos.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1829,7 +1997,8 @@
       "summary": "Participante propôs escola cidadã em Ibirité, punição de trabalho social para capcitismo e multa em vez de reclusão para reincidência.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1839,7 +2008,8 @@
       "transcription": "Deputada, eu",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1850,7 +2020,8 @@
       "summary": "Com a Emenda 24, aplicação prática enfrentará dificuldades, pois, mesmo que boa em teoria, escolas podem não a cumprir, tornando-a ineficaz após um breve período de aplicação inicial. A deputada pode agir conforme desejar.",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -1861,7 +2032,8 @@
       "summary": "Participante discorda da Emenda 24 e quaisquer de seus tópicos. Ela questiona se a multa seria em dinheiro e expressa sua desaprovação de penalidades financeiras ou de reclusão aos pais por ações de seus filhos.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1871,7 +2043,8 @@
       "transcription": "",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1882,7 +2055,8 @@
       "summary": "Participante questiona quem será responsável por fiscalizar a execução do trabalho, apontando a obrigatoriedade mas sem esclarecer quem irá realizar essa tarefa.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -1893,7 +2067,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG não considera eficaz previsão de pena de trabalho, questiona como saberão os envolvidos e duvida sobre reclusão ou multa.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -1904,7 +2079,8 @@
       "summary": "Participante propôs abordagem educacional como estímulo para mudar comportamento, enfatizando soluções formativas em vez de punições.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1915,7 +2091,8 @@
       "summary": "A legislação brasileira estipula que pais de jovem até 18 anos sejam responsabilizados por multa; lei de inclusão prevê pena de prisão ou multa para desrespeito a deficientes.",
       "speaker": {
         "name": "MATHEUS",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "matheus"
       }
     },
     {
@@ -1926,7 +2103,8 @@
       "summary": "Participante propõe encaminhar aluno para aconselhamento psicológico ao invés de punições severas, evitando traumas e promovendo melhor compreensão do motivo das ações.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1937,7 +2115,8 @@
       "summary": "Pais mais propensos a aplicar educação sobre política do que jovens; eficácia cuestionada inclusive entre jovens que lo practican.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1948,7 +2127,8 @@
       "summary": "Participante sugeriu adicionar como punição a obrigatoriedade do aluno frequentar o psicólogo escolar, mas não está claro se isso é possível ou não.",
       "speaker": {
         "name": "SABRINA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sabrina"
       }
     },
     {
@@ -1959,7 +2139,8 @@
       "summary": "Participant proposed intervention by a knowledgeable expert, such as a psychologist, teacher or experienced professional.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1969,7 +2150,8 @@
       "transcription": "Uma nova emenda e rejeitar essa emenda vinte e quatro. É, eu concordo em criar uma nova",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -1980,7 +2162,8 @@
       "summary": "Participante disse estar fora de questão, pediu para falarem com \"ela\" e apresentou seu nome.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -1991,7 +2174,8 @@
       "summary": "Participante questiona sobre a aplicação de punição e multa a crianças do primeiro ano da escola.",
       "speaker": {
         "name": "Beatriz",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "beatriz"
       }
     },
     {
@@ -2002,7 +2186,8 @@
       "summary": "Participante sugeriu rejeitar proposta e permitir que escolas decidam sobre questão, ou enviar à diretora.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -2012,7 +2197,8 @@
       "transcription": "Legas, eu, deputados, por gentileza vamos manter a ordem, a deputada está falando?",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -2022,7 +2208,8 @@
       "transcription": "",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -2033,7 +2220,8 @@
       "summary": "Aplicar multa a criança por bullying considerada improvável e ineficaz, proposta não válida. (Participante)",
       "speaker": {
         "name": "Sofia",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "sofia"
       }
     },
     {
@@ -2044,7 +2232,8 @@
       "summary": "O participante discutiu sobre idade adolescente e responsabilidade legal de cuidados até os 18 anos.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -2055,7 +2244,8 @@
       "summary": "Participante recebeu punição em primeiro ano, ainda desconhecia motivo.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -2065,7 +2255,8 @@
       "transcription": "Punição a a uma criança assim, às vezes o certo é sentar, conversar e ir pro cantinho. Saber o que está acontecendo, falar que não é certo, é errado. Ai espera, espera aqui. Falar que é errado, por causa que submeter uma uma multa a uma criança de oito anos, foi o que ela falou, ela não vai ela não vai chegar pros pais e falar assim direito. Eu recebi uma multa e você tem que ir na direção pagar. Então às vezes se acontece erro, o profissional tem que sentar conversar e conversar o que que aconteceu porque às vezes nem foi a intenção do menor. E, aí espera às vezes dá eu eu travo tiquinho mais. Saber procurar às vezes por causa que chamar até os pais na direção falar o erro do menor e, vão assim que os pais têm que sentar com a criança também e, e, explicar o que é certo e o que não é errado porque às vezes, a educação vem de casa mas sempre assim ele está na rua brincando e ouve coisas que, não não quer ir às vezes ele na inocência ele vai e repete dentro da sala no depende, muito muito obrigada. Eu concordo com o deputado porque assim.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -2076,7 +2267,8 @@
       "summary": "Participante discute sobre punição a crianças, favor de diálogo e compreensão. Aconselha conversar, esperar e explicar o que está errado. Cita exemplo de multa e importância da educação da família.",
       "speaker": {
         "name": "MIGUEL",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "miguel"
       }
     },
     {
@@ -2087,7 +2279,8 @@
       "summary": "Proposta de punição ignora direção e pais, concedendo escolha deles.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -2098,7 +2291,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: pedido de rejeição da Emenda 24 e dá lugar à leitura do substitutivo pela relatora Raíssa Gonçalves Nunes.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -2109,7 +2303,8 @@
       "summary": "A participante propõe um projeto de lei combatendo o capacitismo escolar, instituindo o \"Dia Nacional de Combate ao Capacitismo Escolar\" em 20 de setembro, com atividades de conscientização em escolas públicas e particulares. Inclui planos de inclusão, acessibilidade física, formação de professores e recursos financeiros para promover uma educação inclusiva e respeitosa.",
       "speaker": {
         "name": "RAYSSA NUNES",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "rayssa-nunes"
       }
     },
     {
@@ -2120,7 +2315,8 @@
       "summary": "Projeto Escola Cidadã Ibirité-MG: parecer da relatora aprovado, palavra pedida por deputados.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     },
     {
@@ -2131,7 +2327,8 @@
       "summary": "Participante agradece opportunidade de evento, destaca importância do Dia Nacional de Luta contra Capacitismo para conscientizar sobre pessoas com deficiência e promover inclusão em escolas, elogia ideia do Elton Cauã.",
       "speaker": {
         "name": "LÍVIA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "livia"
       }
     },
     {
@@ -2142,7 +2339,8 @@
       "summary": "Reunião encerrada; homenagem a alunos brilhantes.",
       "speaker": {
         "name": "VERÔNICA LOUISE DE SOUZA",
-        "position": "Projeto Escola Cidadã Ibirité-MG"
+        "position": "Projeto Escola Cidadã Ibirité-MG",
+        "slug": "veronica-louise-de-souza"
       }
     }
   ],

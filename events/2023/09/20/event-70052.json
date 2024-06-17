@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220573,
         "name": "Dorinaldo Malafaia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dorinaldo-malafaia"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Votação terminou. Ninguém mais votando, encerrada.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Parabéns e sucesso ao presidente da subcomissão de mobilidade humana. Agora, como presidente empossado, passa a vice-presidência a deputado Hamilton.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Dorinaldo Malafaia -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-dorinaldo-malafaia-por-participante-marangoni"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "Faça a comissão aqui desenvolvimento",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marangoni -- por Participante -- Abilio Brunini",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marangoni-por-participante-abilio-brunini"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -119,7 +128,8 @@
       "speaker": {
         "id": 204379,
         "name": "Acácio Favacho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "acacio-favacho"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -164,7 +177,8 @@
       "transcription": "Aqui já foi, né? Só encerrar aqui.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Abilio Brunini -- por Participante -- Marangoni",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-abilio-brunini-por-participante-marangoni"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220648,
         "name": "Marangoni",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marangoni"
       }
     }
   ],

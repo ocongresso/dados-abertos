@@ -14,7 +14,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 0,
         "name": "BRUNO LOBATO",
-        "position": "Presidente - Associação Nacional dos Lotéricos, Correspondentes Bancários e empresários ligados a jogos"
+        "position": "Presidente - Associação Nacional dos Lotéricos, Correspondentes Bancários e empresários ligados a jogos",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -74,7 +79,8 @@
       "speaker": {
         "id": 0,
         "name": "BRUNO LOBATO",
-        "position": "Presidente - Associação Nacional dos Lotéricos, Correspondentes Bancários e empresários ligados a jogos"
+        "position": "Presidente - Associação Nacional dos Lotéricos, Correspondentes Bancários e empresários ligados a jogos",
+        "slug": "bruno-lobato"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 220560,
         "name": "Thiago de Joaldo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "thiago-de-joaldo"
       }
     },
     {
@@ -109,7 +117,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 116379,
         "name": "Darci De Matos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "darci-de-matos"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Em 2020, Diretora de Atenção Hospitalar e Urgência e Emergência - Secretaria de Estado de Saúde de Minas Gerais instituiu \"Operação Mais Minas Gerais\", expandindo acesso a cirurgias hospitalares eletivas com financiamento antecipado e monitoramento. Em 2023, revisão priorizou financiamento e produtividade, reduzindo procedimentos e aumentando produção de cirurgias. Política também visa aumentar acesso em municípios sem hospitais próprios, obtendo resultados positivos desde 2021.",
       "speaker": {
         "name": "Rosana de Vasconcelos Parra",
-        "position": "Diretora de Atenção Hospitalar e Urgência e Emergência - Secretaria de Estado de Saúde de Minas Gerais"
+        "position": "Diretora de Atenção Hospitalar e Urgência e Emergência - Secretaria de Estado de Saúde de Minas Gerais",
+        "slug": "rosana-de-vasconcelos-parra"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Secretaria de Saúde de MG: operação mais mudou recursos investidos em cirurgias eletivas, com maior participação do estado em relação ao federal. Aplicação de tabela de custos própria e ampliação do acesso a cirurgias em municípios sedes. Orgulho da política de saúde implementada.",
       "speaker": {
         "name": "Fábio Baccheretti",
-        "position": "Secretário - Secretaria de Estado de Saúde de MG"
+        "position": "Secretário - Secretaria de Estado de Saúde de MG",
+        "slug": "fabio-baccheretti"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Programa de cirurgias eletivas transforma saúde em Minas Gerais, realizando milhares de procedimentos e zerando filas em hospitais, como o Hospital São Vicente de Paulo em Licínia. Iniciativa trouxe oportunidades e praticidade para instituições e pacientes, além de expandir-se para outros estados. Ação é considerada política de Estado, impactando vidas de milhões de brasileiros.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -85,7 +91,8 @@
       "transcription": "Fechando, fechando quando o padre Cláudio quer o par.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -97,7 +104,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -108,7 +116,8 @@
       "summary": "Secretário de Estado de Saúde de MG afirma: política de cirurgia eletiva é sólida, com resultados claros. Hospitais pequenos desempenham papel fundamental para cirurgias de média complexidade. Objetivo é manter hospitais de alta complexidade na alta complexidade e sustentar hospitais menores com equipamentos adequados. Governo de Minas considera cirurgia eletiva uma política de Estado. Apoio a missão do deputado Midinho em utilizar recursos de emenda onde faz a diferença.",
       "speaker": {
         "name": "Fábio Baccheretti",
-        "position": "Secretário - Secretaria de Estado de Saúde de MG"
+        "position": "Secretário - Secretaria de Estado de Saúde de MG",
+        "slug": "fabio-baccheretti"
       }
     },
     {
@@ -120,7 +129,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -131,7 +141,8 @@
       "summary": "Santa Casa de Misericórdia de Passos-MG: 159 anos, 350 leitos, 2.500 colaboradores, 250 médicos em 40 especialidades; destaque no país, fornecendo atendimento relevante na macrorregião, alto número de atendimentos de urgência, internações, e dias, alta taxa de referência do SUS, com altos números de cirurgias eletivas, mas com algumas não comparecimentos e contraindicações a serem estudadas.",
       "speaker": {
         "name": "Daniel Porto Soares",
-        "position": "Diretor - Santa Casa de Misericórdia de Passos-MG"
+        "position": "Diretor - Santa Casa de Misericórdia de Passos-MG",
+        "slug": "daniel-porto-soares"
       }
     },
     {
@@ -143,7 +154,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Diretor do Hospital de Gimirim-MG relata: dois mil e dezenove, pequeno hospital com 60 leitos, gerido por uma irmandade de 26 membros (90% produtores rurais voluntários). Instituição serve comunidade há 80 anos, realizando mensalmente +2700 consultas, 700 exames de raios X, 120 tomografias, 140 eletrocardiogramas, 445 ultrassons, 5700 exames laboratoriais.",
       "speaker": {
         "name": "Renato Pereira da Silva",
-        "position": "Diretor - Hospital de Gimirin-MG"
+        "position": "Diretor - Hospital de Gimirin-MG",
+        "slug": "renato-pereira-da-silva"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Hospital Jimirim:",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -175,7 +189,8 @@
       "transcription": "Fechando, fechando quando o padre Cláudio quer o par.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Hospital de Gimirin-MG se expandiu e modernizou via parcerias e leitos para SUS, incluindo saúde mental e UCP. Durante pandemia, equiparam UTI de 10 leitos para COVID-19, retomando cirurgias eletivas após. Diretor agradece forte bancada de deputados no sul de Minas Gerais e destaca importância de manter SUS equitativo, produtivo, resolutivo e humanizado.",
       "speaker": {
         "name": "Renato Pereira da Silva",
-        "position": "Diretor - Hospital de Gimirin-MG"
+        "position": "Diretor - Hospital de Gimirin-MG",
+        "slug": "renato-pereira-da-silva"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Hospital Alzira Velano - Alfenas/MG promove transformação regional, reduzindo filas e realizando cirurgias de alta e média complexidade. Programa inclui exames complementares e consultas pré e pós-operatórias. Sucesso devido a equipe dedicada e apoio de empresas e políticos. Projeto visa melhorar qualidade de assistência nacionalmente.",
       "speaker": {
         "name": "José Sérgio Tavella Junior",
-        "position": "Hospital Alzira Velano - Alfenas/MG"
+        "position": "Hospital Alzira Velano - Alfenas/MG",
+        "slug": "jose-sergio-tavella-junior"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -232,7 +251,8 @@
       "summary": "Gestora da Santa Casa de Areado/MG agradece convite e expressa apoio a deputado. O hospital passou por momentos difíceis, mas atualmente é mantido por empresários voluntários e vem se melhorando. A instituição está disposta a ajudar, particularmente durante a pandemia, e acredita em o poder de pequenos hospitais. Santa Casa apoia a expansão do projeto para além de Minas Gerais.",
       "speaker": {
         "name": "Adriana Corgozinho de Melo Pereira",
-        "position": "Gestora - Gestora da Santa Casa de Areado/MG"
+        "position": "Gestora - Gestora da Santa Casa de Areado/MG",
+        "slug": "adriana-corgozinho-de-melo-pereira"
       }
     },
     {
@@ -244,7 +264,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Ex Deputada falou sobre o Hospital Mário Ribeiro em Montes Claros, que cresceu nos rankings de cirurgias eletivas graças a investimentos durante a pandemia. Ela ressaltou a importância de universidades em hospitais e elogiou outros hospitais bem colocados no ranking, como o de Pouso Alegre. Também mencionou a adesão de médicos em Montes Claros devido a lutas por melhores condições e expressou gratidão à equipe do hospital e ao parlamento por seu apoio.",
       "speaker": {
         "name": "RAQUEL  MUNIZ",
-        "position": "Ex Deputada"
+        "position": "Ex Deputada",
+        "slug": "raquel-muniz"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -327,7 +354,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -339,7 +367,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -351,7 +380,8 @@
       "speaker": {
         "id": 204517,
         "name": "Zé Vitor",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-vitor"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 220626,
         "name": "Rafael Simoes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-simoes"
       }
     },
     {
@@ -387,7 +419,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     },
     {
@@ -398,7 +431,8 @@
       "summary": "A participante agradece e elogia, expressa felicidade por estar presente, menciona desafios de seu hospital e pede ajuda financeira aos deputados.",
       "speaker": {
         "name": "Lucimara",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "lucimara"
       }
     },
     {
@@ -410,7 +444,8 @@
       "speaker": {
         "id": 161550,
         "name": "Emidinho Madeira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "emidinho-madeira"
       }
     }
   ],

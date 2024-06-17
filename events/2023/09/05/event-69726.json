@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Bom dia a todos.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Coronel Fernanda -- por Participante -- Flavinha",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-coronel-fernanda-por-participante-flavinha"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 225727,
         "name": "Flavinha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavinha"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 225727,
         "name": "Flavinha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "flavinha"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Flavinha -- por Participante -- Coronel Fernanda",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-flavinha-por-participante-coronel-fernanda"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 220595,
         "name": "Coronel Fernanda",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "coronel-fernanda"
       }
     }
   ],

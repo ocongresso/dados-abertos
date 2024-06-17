@@ -18,7 +18,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Presidente da CNTE fala sobre injustiças a servidores públicos na educação, período pandemia; menciona trabalho durante pandemia e livros produzidos; critica congelamento de carreiras e PEC 119, que permite não comprovar investimentos em educação; destaca problema de recursos na educação em alguns estados e apoio a PLP 04 para descongelar carreiras de servidores públicos em diferentes áreas.",
       "speaker": {
         "name": "HELENO ARAÚJO",
-        "position": "Presidente - Confederação Nacional dos Trabalhadores em Educação (CNTE)"
+        "position": "Presidente - Confederação Nacional dos Trabalhadores em Educação (CNTE)",
+        "slug": "heleno-araujo"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Deputado Estadual de São Paulo discute ataques a direitos trabalhistas de servidores desde o governo Temer, incluindo lei complementar 73 que considera inconstitucional por desrespeitar pacto federativo. Menciona benefício selectivo a servidores de segurança pública e saúde no último ano. Apoia projeto de lei para reverter situação e reconhecer direitos de todos os servidores.",
       "speaker": {
         "name": "Carlos Ganazzi",
-        "position": "Deputado Estadual de São Paulo"
+        "position": "Deputado Estadual de São Paulo",
+        "slug": "carlos-ganazzi"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "Sindicato dos especialistas de educação em São Paulo defende fim do congelamento de salário e reconhecimento de trabalho de servidores públicos durante pandemia. Luta por descongelamento no âmbito municipal, estadual e federal. Agradecimento a deputados que apoiam a causa.",
       "speaker": {
         "name": "NORMA LÚCIA ANDRADE DOS SANTOS",
-        "position": "Presidente - Sindicato dos Especialistas de Educação do Ensino Público Municipal de São Paulo (Sinesp)"
+        "position": "Presidente - Sindicato dos Especialistas de Educação do Ensino Público Municipal de São Paulo (Sinesp)",
+        "slug": "norma-lucia-andrade-dos-santos"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Lei complementar congelou direitos de servidores por quase dois anos, proibindo aumento de despesas como contratação e reajustes. Pacto durou de maio de 2020 a dezembro de 2021, impedindo uso do tempo trabalhado durante esse período para contagem de benefícios. Presidente do sindicato de educadores critica lei por impacto negativo em servidores e questiona prioridades governamentais em relação a isenções fiscais e dívidas ativas.",
       "speaker": {
         "name": "FRANCISCO ANTÔNIO POLI",
-        "position": "Presidente - Sindicato de Especialistas de Educação do Magistério Oficial do Estado de São Paulo (Udemo)"
+        "position": "Presidente - Sindicato de Especialistas de Educação do Magistério Oficial do Estado de São Paulo (Udemo)",
+        "slug": "francisco-antonio-poli"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -122,7 +131,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -134,7 +144,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -145,7 +156,8 @@
       "summary": "Coordenador de Assuntos Parlamentares - Fenamp agradece convite, discute ataques a servidores públicos e suspensão de vantagem temporal. Ele destaca importância do projeto da deputada para resgatar direito de vantagem temporal e beneficiar trabalhadores. Menção a desafios no Ministério Público durante pandemia e engajamento na campanha de assinaturas e acompanhamento no Congresso Nacional.",
       "speaker": {
         "name": "ALBERTO FREIRE LEDUR",
-        "position": "Coordenador de Assuntos Parlamentares - Federação Nacional dos Trabalhadores dos Ministérios Públicos Estaduais (Fenamp)"
+        "position": "Coordenador de Assuntos Parlamentares - Federação Nacional dos Trabalhadores dos Ministérios Públicos Estaduais (Fenamp)",
+        "slug": "alberto-freire-ledur"
       }
     },
     {
@@ -157,7 +169,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -168,7 +181,8 @@
       "summary": "Presidente Pública-Central do Servidor discutiu congelamento salarial, direito a reposição inflação, baixos salários para servidores, PEC 32 que ameaça serviço público, e necessidade de greve nacional. Criticou aumentos de orçamento para governantes, enquanto servidores perdem poder de compra. Apontou falta de diálogo e vontade política para reverter situação. Parabenizou deputada por defender servidores em todos os campos.",
       "speaker": {
         "name": "JOSÉ GOZZE",
-        "position": "Presidente - Pública - Central do Servidor"
+        "position": "Presidente - Pública - Central do Servidor",
+        "slug": "jose-gozze"
       }
     },
     {
@@ -180,7 +194,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -192,7 +207,8 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
@@ -204,7 +220,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -215,7 +232,8 @@
       "summary": "Presidente - Associação de Docentes da Universidade de São Paulo (Adusp) discutiu LC 73, ataque a direitos de servidores públicos, desoneração de INSS beneficia outros setores, serviços públicos continuaram/aumentaram atuação durante pandemia, impacto desigualdade social e no trabalho feminino, cautela com híbridização e tecnologia que possa atacar carreira docente. Adusp disponível para contribuir e pressionar por advanços na proposta de lei.",
       "speaker": {
         "name": "MICHELE SCHULTZ RAMOS",
-        "position": "Presidente - Associação de Docentes da Universidade de São Paulo (Adusp)"
+        "position": "Presidente - Associação de Docentes da Universidade de São Paulo (Adusp)",
+        "slug": "michele-schultz-ramos"
       }
     },
     {
@@ -227,7 +245,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -238,7 +257,8 @@
       "summary": "Serviço público é necessidade, não gasto; combater privatização na educação; greve por preservação da vida; exigir políticas públicas e revogações para garantir essências do serviço público.",
       "speaker": {
         "name": "MACIEL SILVA NASCIMENTO",
-        "position": "Secretário de Políticas para Trabalhadores da Educação - Sindicato dos Trabalhadores na Administração Pública e Autarquias no Município de São Paulo (Sindsep-SP)"
+        "position": "Secretário de Políticas para Trabalhadores da Educação - Sindicato dos Trabalhadores na Administração Pública e Autarquias no Município de São Paulo (Sindsep-SP)",
+        "slug": "maciel-silva-nascimento"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -261,7 +282,8 @@
       "summary": "Diretor jurídico da Confederação dos Servidores Públicos do Brasil (CSPB): falou no auditório, se dirigiu aos presentes e aos participantes online, gratificado por reencontrar a deputada ( whose camera was off).",
       "speaker": {
         "name": "EDUARDO DE SOUZA MAIA",
-        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)"
+        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)",
+        "slug": "eduardo-de-souza-maia"
       }
     },
     {
@@ -272,7 +294,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -282,7 +305,8 @@
       "transcription": "Deixa eu ver se a gente consegue ajustar. Consegue me ver? Não, só está.",
       "speaker": {
         "name": "EDUARDO DE SOUZA MAIA",
-        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)"
+        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)",
+        "slug": "eduardo-de-souza-maia"
       }
     },
     {
@@ -294,7 +318,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -305,7 +330,8 @@
       "summary": "Diretor jurídico da CSPB apoia projeto reestabelecendo direitos servidores prejudicados por Lei Complementar 73/2019, negociou com TC e PGJ-MG reconhecimento de contagem de tempo de serviço durante pandemia. Suporta iniciativas locais para formar entendimento sobre tema, visando legislação inclusiva a todos os servidores.",
       "speaker": {
         "name": "EDUARDO DE SOUZA MAIA",
-        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)"
+        "position": "Diretor jurídico - Confederação dos Servidores Públicos do Brasil (CSPB)",
+        "slug": "eduardo-de-souza-maia"
       }
     },
     {
@@ -317,7 +343,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -328,7 +355,8 @@
       "summary": "Agradecimento a deputada Luciene Cavalcante por convite a debate; apoio à eleição de Lula; estabeleceram mesa nacional de negociação com governo federal desde 2016; negociaram reajuste salarial de 9% para servidores federais ativos e aposentados; exigem revogação de medidas prejudiciais a trabalhadores aprovadas durante governo anterior; rejeitam PEC 32 e projeto de terceirização de serviços; preocupação com proposta de novo arcabouço fiscal que prevê penalidades a servidores.",
       "speaker": {
         "name": "ISMAEL JOSÉ CÉSAR",
-        "position": "Secretário adjunto de Gênero, Raça, Juventude e Orientação Sexual - Confederação dos Trabalhadores no Serviço Público Federal (Condsef)"
+        "position": "Secretário adjunto de Gênero, Raça, Juventude e Orientação Sexual - Confederação dos Trabalhadores no Serviço Público Federal (Condsef)",
+        "slug": "ismael-jose-cesar"
       }
     },
     {
@@ -340,7 +368,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -351,7 +380,8 @@
       "summary": "Tesoureira - Associação dos Analistas Jurídicos do Ministério Público do Estado de São Paulo (Aajump) agradece participantes, destaca trabalho e produtividade dos servidores do Ministério Público durante pandemia, e defende restituição dos direitos removidos com força de lei federal, incluindo pagamento retroativo pelo tempo trabalhado e dedicação durante a pandemia. AAA obrigada por contar com eles na luta.",
       "speaker": {
         "name": "ANA SOFIA PEREIRA",
-        "position": "Tesoureira - Associação dos Analistas Jurídicos do Ministério Público do Estado de São Paulo (Aajump)"
+        "position": "Tesoureira - Associação dos Analistas Jurídicos do Ministério Público do Estado de São Paulo (Aajump)",
+        "slug": "ana-sofia-pereira"
       }
     },
     {
@@ -363,7 +393,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -374,7 +405,8 @@
       "summary": "Vereador do Estado de São Paulo propõe descongelamento de salários no setor público, destacando importância para servidores e elogiando projetos de lei e ação da deputada federal Luciene Cavalcante. Lamenta aplicação do orçamento municipal na cidade em vez de remuneração aos servidores e combate à pandemia, e promete lutar por esses direitos na Câmara Municipal.",
       "speaker": {
         "name": "Celso Giannazi",
-        "position": "Vereador do Estado de São Paulo"
+        "position": "Vereador do Estado de São Paulo",
+        "slug": "celso-giannazi"
       }
     },
     {
@@ -386,7 +418,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     }
   ],

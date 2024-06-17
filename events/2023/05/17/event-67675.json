@@ -18,7 +18,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Superintendente de Regulação dos serviços de transmissão e distribuição de energia elétrica falou sobre a história e importância da lei 14.302 e resolução 159/2",
       "speaker": {
         "name": "Carlos Alberto Calixto Mattar",
-        "position": "Superintendente de RegulaçãoSuperintendente de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica - Agência Nacional de Energia Elétrica"
+        "position": "Superintendente de RegulaçãoSuperintendente de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica - Agência Nacional de Energia Elétrica",
+        "slug": "carlos-alberto-calixto-mattar"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente da Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA enfatizou a necessidade de democratizar energia solar no Brasil, citando o desejo popular de gerar energia limpa e renovável. Ele mencionou atrasos na implementação da lei 14.300/22 e propôs ajustes para resolver problemas, como cobrança de demanda e impedimento de utilizar créditos de energia por consumidores bioptantes, destacando a importância do Congresso Nacional nessa resolução.",
       "speaker": {
         "name": "Rodrigo Lopes Sauaia",
-        "position": "Presidente - Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA"
+        "position": "Presidente - Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA",
+        "slug": "rodrigo-lopes-sauaia"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -74,7 +79,8 @@
       "summary": "Presidente - Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA propôs alterar lei para reduzir custos de energia para famílias de baixa renda, abordou dificuldades de acesso à rede de distribuidoras e falta de transparência, destacou importância de publicar diretrizes do Conselho Nacional de Política Energética, e sugeriu considerar geração de energia solar em programa \"Minha Casa Minha Vida\".",
       "speaker": {
         "name": "Rodrigo Lopes Sauaia",
-        "position": "Presidente - Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA"
+        "position": "Presidente - Associação Brasileira de Energia Solar Fotovoltaica - ABEOLICA",
+        "slug": "rodrigo-lopes-sauaia"
       }
     },
     {
@@ -84,7 +90,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Geraldo Mendes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-geraldo-mendes"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -107,7 +115,8 @@
       "summary": "A Associação Brasileira de Energia Eólica representa a maior parte da matriz renovável no Brasil, com contratos para 48 GW de energia eólica, principalmente no Nordeste e Sul. Planeja-se investimento de R$ 170 bilhões em 5 anos. Defendem energia eólica competitiva em leilões, indústria nacional, pagamento de uso da rede elétrica, e equidade entre fontes renováveis. Apóiam crescimento de todas as fontes renováveis, incluindo geração distribuída.",
       "speaker": {
         "name": "Riomar Merino Jorge",
-        "position": "Especialista Técnico Regulatório - Associação Brasileira de Energia Eólica - ABEEÓLICA"
+        "position": "Especialista Técnico Regulatório - Associação Brasileira de Energia Eólica - ABEEÓLICA",
+        "slug": "riomar-merino-jorge"
       }
     },
     {
@@ -117,7 +126,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Geraldo Mendes -- por Participante -- Gabriel Nunes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-geraldo-mendes-por-participante-gabriel-nunes"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Operador Nacional do Sistema (ONS) coordena e controla operação de geração e transmissão de energia em sistema interligado, mudando com inclusão de micro e mini geração distribuída. ONS, com ANEEL, adapta-se a novo contexto, alterando padrões, modelos e requisitos técnicos, definindo interação entre distribuidores e consumidores.",
       "speaker": {
         "name": "Tatiane Moraes Pestana Cortes",
-        "position": "Gerente Executiva de Relacionamento com Agente e Assuntos Regulatórios - Operador Nacional do Sistema"
+        "position": "Gerente Executiva de Relacionamento com Agente e Assuntos Regulatórios - Operador Nacional do Sistema",
+        "slug": "tatiane-moraes-pestana-cortes"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -162,7 +175,8 @@
       "summary": "Vice-Secretário de Energia Solar do INEL enfatiza importância da geração distribuída (GD) para pessoas pobres, capaz de economizar R$50 por mês e gerar impacto social significativo. Destaca preocupação com regulação ANEEL 14.300, considerando-a excessiva em relação à lei. Apresenta PL 12.902 como solução para manter segurança jurídica e retornar GD aos trilhos, criticando a ANEEL por desconsiderar acordo assinado por agentes do setor.",
       "speaker": {
         "name": "Tássio Barboza",
-        "position": "Vice-Secretário - Energia Solar do Instituto Nacional de Energia Limpa - INEL"
+        "position": "Vice-Secretário - Energia Solar do Instituto Nacional de Energia Limpa - INEL",
+        "slug": "tassio-barboza"
       }
     },
     {
@@ -173,7 +187,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -184,7 +199,8 @@
       "summary": "GD cresceu além do esperado, atingindo 20 gigawatts em 2",
       "speaker": {
         "name": "Ricardo Brandão",
-        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE;"
+        "position": "Diretor Executivo de Regulação - Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE;",
+        "slug": "ricardo-brandao"
       }
     },
     {
@@ -196,7 +212,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -207,7 +224,8 @@
       "summary": "Biogás, crucial energy source for Brazil's distributed energy and reducing environmental liabilities, supports growth in all states with various biomass types, including waste from industries and urban areas. Vice-President, Associação Brasileira do Biogás - ABIOGÁS advocates for expanded use in energy matrix with companies from electric, gas, agroindustrial, and industrial sectors.",
       "speaker": {
         "name": "Rafael Gonzáles",
-        "position": "Vice-Presidente - Associação Brasileira do Biogás - ABIOGÁS"
+        "position": "Vice-Presidente - Associação Brasileira do Biogás - ABIOGÁS",
+        "slug": "rafael-gonzales"
       }
     },
     {
@@ -219,7 +237,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -230,7 +249,8 @@
       "summary": "APINE representa produtores independentes com 56 associados e ampla capacidade instalada, maioria sem subsídios. Opposes expanded subsidies for distributed generation due to negative effects and cost burden on non-participating consumers. Current subsidies raise tariffs for others.",
       "speaker": {
         "name": "Josiani Napolitano",
-        "position": "Diretora de Relações Governamentais - Associação Brasileira dos Produtores Independentes de Energia Elétrica - APINE"
+        "position": "Diretora de Relações Governamentais - Associação Brasileira dos Produtores Independentes de Energia Elétrica - APINE",
+        "slug": "josiani-napolitano"
       }
     },
     {
@@ -242,7 +262,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -253,7 +274,8 @@
       "summary": "Presidente do MSL afirma que lei atual desfavorável a geração solar distribuída, resultando em poder centralizado em detrimento dos consumidores. Aponta subsídios desproporcionais às grandes empresas e impacto negativo da resolução 1059 sobre o setor, quebrando acordos firmados.Argumenta necessidade de manter benefícios às comunidades, responsáveis por gerar empregos e renda localmente, em mais de 990 municípios.",
       "speaker": {
         "name": "Hewerton Elias Martins",
-        "position": "Presidente - Movimento Solar Livre - MSL"
+        "position": "Presidente - Movimento Solar Livre - MSL",
+        "slug": "hewerton-elias-martins"
       }
     },
     {
@@ -264,7 +286,8 @@
       "summary": "Diretor Elvio Guerra redigiu texto, procuradoria aprova. Aluguel garantiu residência por 25 anos em local tranquilo. Recebendo dinheiro da usina de forma confiável, deseja mais usinas para outros produtores, facilitando mudança de terra e reduzindo despesas. Produção rural historicamente difícil. Solicita gravação.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -274,7 +297,8 @@
       "transcription": "Da dona Maria, é essa senhora.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -285,7 +309,8 @@
       "summary": "Presidente do MSL abordou mulher prejudicada por financiamento na Caixa, alertou sobre impactos negativos do PL 14.300, questionou retirada de energia a consumidores, mencionou fechamento de pedidos de geração distribuída, criticou penalizações a usuários de energia solar, diferenciou narrativa da realidade, citou aumento de processos judicializados, e apoiou subsídios a consumidores e pequenas empresas, felicitando projetos de energia solar em comunidades.",
       "speaker": {
         "name": "Hewerton Elias Martins",
-        "position": "Presidente - Movimento Solar Livre - MSL"
+        "position": "Presidente - Movimento Solar Livre - MSL",
+        "slug": "hewerton-elias-martins"
       }
     },
     {
@@ -295,7 +320,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gabriel Nunes -- por Participante -- Rodrigo de Castro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gabriel-nunes-por-participante-rodrigo-de-castro"
       }
     },
     {
@@ -307,7 +333,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -319,7 +346,8 @@
       "speaker": {
         "id": 141458,
         "name": "João Carlos Bacelar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-carlos-bacelar"
       }
     },
     {
@@ -330,7 +358,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -341,7 +370,8 @@
       "summary": "Presidente Comissão Direito Energia Minas-OAB/MG resumo: lei 14.300 estabelece geração distribuída no Brasil; ANEEL regulamenta setor, recentemente com resolução 1.509; lei 14.300 e resolução 1.509 divergem em alguns pontos; PL 12.902 propõe alterações na resolução 1.509, retornando a harmonização com lei 14.300; geração distribuída não é exclusiva para ricos, beneficia micro geradores e pessoas de baixa renda.",
       "speaker": {
         "name": "Marina Meyer Falcão",
-        "position": "Presidente da Comissão de Direito de Energia de Minas - Ordem dos Advogados Brasileiros/MG"
+        "position": "Presidente da Comissão de Direito de Energia de Minas - Ordem dos Advogados Brasileiros/MG",
+        "slug": "marina-meyer-falcao"
       }
     },
     {
@@ -353,7 +383,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -364,7 +395,8 @@
       "summary": "Discurso do Diretor de Políticas Setoriais - Ministério de Minas e Energia:",
       "speaker": {
         "name": "Frederico de Araújo Teles",
-        "position": "Diretor de Políticas Setoriais - Ministério de Minas e Energia"
+        "position": "Diretor de Políticas Setoriais - Ministério de Minas e Energia",
+        "slug": "frederico-de-araujo-teles"
       }
     },
     {
@@ -376,7 +408,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -388,7 +421,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -400,7 +434,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -412,7 +447,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -423,7 +459,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -435,7 +472,8 @@
       "speaker": {
         "id": 204358,
         "name": "Beto Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-pereira"
       }
     },
     {
@@ -447,7 +485,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -457,7 +496,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Rodrigo de Castro -- por Participante -- Eduardo da Fonte",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-rodrigo-de-castro-por-participante-eduardo-da-fonte"
       }
     },
     {
@@ -469,7 +509,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -481,7 +522,8 @@
       "speaker": {
         "id": 109429,
         "name": "Benes Leocádio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "benes-leocadio"
       }
     },
     {
@@ -493,7 +535,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -505,7 +548,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -517,7 +561,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     },
     {
@@ -529,7 +574,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -541,7 +587,8 @@
       "speaker": {
         "id": 141421,
         "name": "Eduardo da Fonte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-da-fonte"
       }
     }
   ],

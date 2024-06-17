@@ -17,7 +17,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -27,7 +28,8 @@
       "transcription": "Obrigada ao coral da",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "summary": "Dia dedicado à proteção de direitos humanos de crianças e adolescentes no Brasil, por meio de combate à violência sexual e exploração, promovido por comitê nacional e coalizão Ekpart Brasil.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "summary": "Garantir desenvolvimento saudável de crianças; milhões vão às ruas no dia 18 de maio contra abuso e exploração sexual; unir forças por cidadania ativa; combate à violência.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -60,7 +64,8 @@
       "summary": "Agradece a oportunidade de debater proteção crianças e adolescentes. Constituição e leis federais garantem direitos fundamentais e proteção integral. Profissionais de saúde obrigados notificar violência sexual. Necessário melhor aplicação das leis e união de esforços de todos os setores da sociedade para proteger gerações mais novas. Sessão solene busca continuar esforço conjunto para proteção integral de jovens.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -72,7 +77,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -95,7 +102,8 @@
       "summary": "Agradecimentos e honra estar presente em dia dedicado à proteção de crianças e adolescentes; música especialmente composta com letra antimosqueiro, orientando que corram se se sintam incomodadas ou desconfiarem de situações erradas.",
       "speaker": {
         "name": "Palavra Cantada",
-        "position": "Apresentação"
+        "position": "Apresentação",
+        "slug": "palavra-cantada"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -117,7 +126,8 @@
       "transcription": "Boa tarde.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Amanda Gentil",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-amanda-gentil"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "UNICEF agradece convite, elogia avanços no Brasil por crianças e adolescentes, mas alerta por novas formas de violência. Reconhece medidas anunciadas e compromete a acompanhar governo no combate à violência e proteção de crianças. Prevenção é chave, empoderando meninas e meninos a dizer \"não\" e denunciar. Nenhuma violência é justificável.",
       "speaker": {
         "name": "Rosana Vega",
-        "position": "UNICEF"
+        "position": "UNICEF",
+        "slug": "rosana-vega"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -210,7 +227,8 @@
       "transcription": "",
       "speaker": {
         "name": "Grupo de Adolescentes acompanhados pela Orquestra do Sesi",
-        "position": "Coral"
+        "position": "Coral",
+        "slug": "grupo-de-adolescentes-acompanhados-pela-orquestra-do-sesi"
       }
     },
     {
@@ -222,7 +240,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -234,7 +253,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -244,7 +264,8 @@
       "transcription": "",
       "speaker": {
         "name": "Grupo de Adolescentes acompanhados pela Orquestra do Sesi",
-        "position": "Coral"
+        "position": "Coral",
+        "slug": "grupo-de-adolescentes-acompanhados-pela-orquestra-do-sesi"
       }
     },
     {
@@ -256,7 +277,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -267,7 +289,8 @@
       "summary": "Jovem de 17 anos representa CPA, homenageando Neide Castanha. CPA defende direitos de crianças e adolescentes, combatendo violência há 4 séculos. Exige voz na sociedade e lutas contra exploração sexual, estupro e assédio. Silêncio e violação de direitos não serão tolerados. Obrigada.",
       "speaker": {
         "name": "Vitoria Fernandes de Oliveira",
-        "position": "Rerpresentante das Crianças e Adolescentes"
+        "position": "Rerpresentante das Crianças e Adolescentes",
+        "slug": "vitoria-fernandes-de-oliveira"
       }
     },
     {
@@ -279,7 +302,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -290,7 +314,8 @@
       "summary": "Gerente Senior da Freedom Fonte celebra retomada da agenda de 18 de maio, propõe pesquisa nacional sobre exploração sexual de meninas e oferece colaboração da Freedom Fund para combater esse problema no Brasil.",
       "speaker": {
         "name": "Débora Cristina",
-        "position": "Gerente Senior da Freedom Fonte"
+        "position": "Gerente Senior da Freedom Fonte",
+        "slug": "debora-cristina"
       }
     },
     {
@@ -302,7 +327,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -312,7 +338,8 @@
       "transcription": "Aplaudir a Amanda gentil e agradecer muito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Amanda Gentil -- por Participante -- Maria do Rosário",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-amanda-gentil-por-participante-maria-do-rosario"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -335,7 +363,8 @@
       "summary": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes anuncia vencedores do Prêmio Ney de Castanha: reconhecendo boas práticas em rede, enfrentamento à exploração sexual e uso de comunicação digital na proteção de direitos de crianças e adolescentes. Homenagem especial ao SESI e Ministério Público do Trabalho.",
       "speaker": {
         "name": "Karina Aparecida Figueiredo",
-        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes"
+        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes",
+        "slug": "karina-aparecida-figueiredo"
       }
     },
     {
@@ -346,7 +375,8 @@
       "summary": "Participante menciona premiados em categorias \"produção de conhecimento\" e \"protagonismo de crianças e adolescentes\", referenciantes coleção sobre combate a abuso sexual infantil e comitê de participação adolescente do CONANDA. Menciona convidados para receber premiações.",
       "speaker": {
         "name": "Luciana Reis",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "luciana-reis"
       }
     },
     {
@@ -357,7 +387,8 @@
       "summary": "Coordenadora agradece resistência adolescentes CPA, deseja longa vida ao CPA com Nanda.",
       "speaker": {
         "name": "Karina Aparecida Figueiredo",
-        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes"
+        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes",
+        "slug": "karina-aparecida-figueiredo"
       }
     },
     {
@@ -368,7 +399,8 @@
       "summary": "Participante anunciou prêmio entregue por Itamar, categoria responsabilidade social e cidadania, com foco em lei de proteção e combate à violência sexual. Miriam Viana e Maria Gorete Oliveira receberam prêmios.",
       "speaker": {
         "name": "Luciana Reis",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "luciana-reis"
       }
     },
     {
@@ -379,7 +411,8 @@
       "summary": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes anunciou criação de nova categoria do prêmio para parlamentares que protegem e combatem violência sexual contra crianças e adolescentes, além de aprovação de flor como símbolo oficial do enfrentamento à violência sexual no país. Reconheceu contribuição de Gorete, Henriqueta, e Janja Lula da Silva com homenagens especiais.",
       "speaker": {
         "name": "Karina Aparecida Figueiredo",
-        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes"
+        "position": "Coordenadora do Comitê Nacional de Enfrentamento à violência Sexual Contra Crianças e Adolescentes",
+        "slug": "karina-aparecida-figueiredo"
       }
     },
     {
@@ -391,7 +424,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -402,7 +436,8 @@
       "summary": "Prêmio syndicalista não seu, mas Jamal e Cida Lima; reconhecimento programa Vira Vida, jovens o inspiro; quer manter como política pública nacional; prêmio permanecer na escola Vira Vida DF; obrigado todos.",
       "speaker": {
         "name": "Jair Meneguelli",
-        "position": "Sindicalista"
+        "position": "Sindicalista",
+        "slug": "jair-meneguelli"
       }
     },
     {
@@ -414,7 +449,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -425,7 +461,8 @@
       "summary": "Ministro de Estado dos Direitos Humanos e da Cidadania se dirige a crianças e adolescentes, admite falta de Estado em cuidados, anuncia medidas como recriação de comissão contra violência sexual, investimentos no Centro Integrado de Escuta Protegida, e lançamento do programa Cidadania Marajó. Stressa importância da interministerialidade e cooperação com sociedade civil e agências internacionais para política pública efetiva.",
       "speaker": {
         "name": "Silvio Almeida",
-        "position": "Ministro de Estado dos Direitos Humanos e da Cidadania"
+        "position": "Ministro de Estado dos Direitos Humanos e da Cidadania",
+        "slug": "silvio-almeida"
       }
     },
     {
@@ -437,7 +474,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -448,7 +486,8 @@
       "summary": "Conselho Nacional dos Direitos da Criança e Adolescentes reconhece esforços da sociedade civil, promete debates internos para políticas abrangentes contra racismo e violência, enfatiza participação de crianças e adolescentes em discussões políticas, e anuncia revisão do plano nacional de enfrentamento às violências e aprovação da campanha \"Faça Bonito\" contra abuso sexual. Eles destacam necessidade de investimentos e recursos que considerem diversidade e territorios.",
       "speaker": {
         "name": "Marina de Pol Poniwas",
-        "position": "Conselho Nacional dos Direitos da Criança e Adolescentes"
+        "position": "Conselho Nacional dos Direitos da Criança e Adolescentes",
+        "slug": "marina-de-pol-poniwas"
       }
     },
     {
@@ -460,7 +499,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -470,7 +510,8 @@
       "transcription": "Olá boa tarde a todas todos quero agradecer cumprimentar",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Sâmia Bomfim",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-samia-bomfim"
       }
     },
     {
@@ -482,7 +523,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -494,7 +536,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -506,7 +549,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -517,7 +561,8 @@
       "summary": "Instituto Alana defende proteção de crianças e adolescentes em ambiente digital, incluindo PL de integridade física e mental online e regulação de plataformas para prevenir abuso e exploração sexual.",
       "speaker": {
         "name": "Maria Mello",
-        "position": "Instituto Alana"
+        "position": "Instituto Alana",
+        "slug": "maria-mello"
       }
     },
     {
@@ -529,7 +574,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -540,7 +586,8 @@
       "summary": "Vice Procuradora Geral de Justiça do DF cumprimenta e agradece por estar no evento, salienta importância de se proteger crianças e adolescentes, enfatiza papel do orçamento, e reafirma compromisso do Ministério Público em fortalecer políticas públicas eficientes.",
       "speaker": {
         "name": "Selma Sauerbronn",
-        "position": "Vice Procuradora Geral de Justiça do DF"
+        "position": "Vice Procuradora Geral de Justiça do DF",
+        "slug": "selma-sauerbronn"
       }
     },
     {
@@ -552,7 +599,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -564,7 +612,8 @@
       "speaker": {
         "id": 220625,
         "name": "Delegada Ione",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-ione"
       }
     },
     {
@@ -575,7 +624,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -585,7 +635,8 @@
       "transcription": "Alegria estar aqui.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Sâmia Bomfim -- por Participante -- Erika Kokay",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-samia-bomfim-por-participante-erika-kokay"
       }
     },
     {
@@ -597,7 +648,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -609,7 +661,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -621,7 +674,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -632,7 +686,8 @@
       "summary": "Superintendente Executivo do Sesi destacou a importância do Dia Nacional de Confronto ao Abuso e Exploração Sexual de Crianças e Adolescentes e o compromisso de combater a violência. Celebrou a maioria feminina na mesa e sugeriu a criação de uma política federal para o Programa Vira Vida, com apoio do Conselho Nacional do SESI.",
       "speaker": {
         "name": "Wagner Pinheiro",
-        "position": "Sperintendente Executivo do Sesi"
+        "position": "Sperintendente Executivo do Sesi",
+        "slug": "wagner-pinheiro"
       }
     },
     {
@@ -644,7 +699,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -654,7 +710,8 @@
       "transcription": "Escutaremos agora a deputada federal Erika Kokay.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Erika Kokay -- por Participante -- Amanda Gentil",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-erika-kokay-por-participante-amanda-gentil"
       }
     },
     {
@@ -665,7 +722,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     },
     {
@@ -677,7 +735,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -689,7 +748,8 @@
       "speaker": {
         "id": 220707,
         "name": "Amanda Gentil",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "amanda-gentil"
       }
     }
   ],

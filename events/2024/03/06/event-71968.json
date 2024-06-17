@@ -14,7 +14,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Necessidade de votar; possível ser eleitor não suplente; voto vazio permitido; prevenção contra tomada de assalto; votação encerrada.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Eleito deputado Glauber Braga como presidente de comissão de legislação participativa com unanimidade, nenhum voto em branco. Invitado a assumir e empossado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -46,7 +49,8 @@
       "transcription": "Deu deu deu feliz.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Chico Alencar -- por Participante -- Glauber Braga",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-chico-alencar-por-participante-glauber-braga"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 204535,
         "name": "Sâmia Bomfim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "samia-bomfim"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     }
   ],

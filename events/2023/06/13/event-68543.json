@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônia anunciou imposição de respeito e encenação cultural do hino nacional brasileiro e grupo folclórico do Pará.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": "Trinta anos executando apresentações folclóricas pelo Brasil, agora como uma comunidade unida. Aplausos ao grupo e à sua presidente distante.",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "transcription": "",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -55,7 +59,8 @@
       "summary": "Bem-vindo a Belém, inicia apresentação da banda. Menciona ministra Simone Tebet, autoridades presentes e grupos folclóricos. Grava presença de parlamentares e assessores.",
       "speaker": {
         "name": "Início da Apresentação da Banda",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-da-banda"
       }
     },
     {
@@ -65,7 +70,8 @@
       "transcription": "Casa, hoje responsável pela ASPAR, que é a assessoria de relação parlamentar do Ministério do",
       "speaker": {
         "name": "Fim da Apresentação da Banda",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-apresentacao-da-banda"
       }
     },
     {
@@ -76,7 +82,8 @@
       "summary": "Mestre de Cerimônia apresenta vários convidados importantes, incluindo ministros, embaixadores, e representantes de organizações internacionais, para o Congresso Nacional. O evento é presidido pela deputada Elcione Barbalho.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -88,7 +95,8 @@
       "speaker": {
         "id": 74075,
         "name": "Elcione Barbalho",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "elcione-barbalho"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Mestre de Cerimônia cita presença vice-embaixadora Reino Unido, Melanie Hopkins, e deputados Antônio Doido e Keniston Braga, pede desculpas por omissão.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -110,7 +119,8 @@
       "summary": "Governo brasileiro combatendo mudança do clima; COP 30 em Belém 2025; Brasil quer quebrar inércia em negociações climáticas; apoio a ciência e candidatura à presidência do IPCC; Itamaraty colaborará com Congresso Nacional para defesa interesses brasileiros e aproveitamento oportunidades na agenda do clima.",
       "speaker": {
         "name": "Mauro Vieira",
-        "position": "Ministro das Relações Exteriores"
+        "position": "Ministro das Relações Exteriores",
+        "slug": "mauro-vieira"
       }
     },
     {
@@ -120,7 +130,8 @@
       "transcription": "",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -131,7 +142,8 @@
       "summary": "Ministra do Planejamento e Orçamento se compromete com proteção ambiental e mudanças climáticas, alocando fundos para projetos sustentáveis e recebendo apoio de parlamentares e recursos estrangeiros para proteger biomas e clima no Brasil, promovendo desenvolvimento e encerrando polarização. COP30 será fortalecida no Brasil para reposicionar o país no cenário internacional.",
       "speaker": {
         "name": "Simone Tebet",
-        "position": "Ministra do Planejamento e Orçamento"
+        "position": "Ministra do Planejamento e Orçamento",
+        "slug": "simone-tebet"
       }
     },
     {
@@ -141,7 +153,8 @@
       "transcription": "",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -152,7 +165,8 @@
       "summary": "Ministro da Integração e Desenvolvimento Regional menciona:",
       "speaker": {
         "name": "Waldez Góes",
-        "position": "Ministro da Integração e Desenvolvimento Regional"
+        "position": "Ministro da Integração e Desenvolvimento Regional",
+        "slug": "waldez-goes"
       }
     },
     {
@@ -163,7 +177,8 @@
       "summary": "Grupo cultural folclórico \"Frutos do Pará\" existe há 30 anos, apresenta-se em todo o Brasil e é liderado pela mestra de cultura popular Iracema Oliveira. Aplausos a ela e ao grupo por seus trinta anos de trabalho. Mestre de Cerimônia anunciou sua participação no lugar dela devido à sua idade e ao calor de Brasília.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -174,7 +189,8 @@
       "summary": "Ministro das Cidades agradece e cumprimenta presentes; louva iniciativa de frente amazônica liderada por deputada, sua mãe; destaca importância de Amazônia e cultura na agenda global; promete suporte do governo federal para realizar melhor COP em Belém.",
       "speaker": {
         "name": "Jader Filho",
-        "position": "Ministro das Cidades"
+        "position": "Ministro das Cidades",
+        "slug": "jader-filho"
       }
     },
     {
@@ -185,7 +201,8 @@
       "summary": "Mestre de Cerimônia anunciou ausência da ministra Simone Tebet e introduziu a embaixadora Silvia Hooks.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -196,7 +213,8 @@
       "summary": "Coordenadora Residente da ONU no Brasil saudou participantes, agradeceu presença e emphasou importância da COP 30 para Brasil e Amazônia. Ela também mencionou parceria da ONU com governo federal e Consórcio Interestadual da Amazônia Legal, e fundo estabelecido para promover desenvolvimento sustentável na região amazônica. Ela concluiu com gratidão por oferta de hospedagem da COP 30 e disposição da ONU em apoiar.",
       "speaker": {
         "name": "Silvia Rucks",
-        "position": "Coordenadora Residente da ONU no Brasil"
+        "position": "Coordenadora Residente da ONU no Brasil",
+        "slug": "silvia-rucks"
       }
     },
     {
@@ -206,7 +224,8 @@
       "transcription": "",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -217,7 +236,8 @@
       "summary": "Embaixador da União: Brasil retorna ao cenário internacional e climático. Reconhece esforço brasileiro e se compromete a ajudar no combate às mudanças climáticas, especialmente na Amazônia. Apóia COP30 no Brasil e no Pará. Anunciou contribuição para o Fundo Amazônia. Está chegando em junho uma comissão do Parlamento Europeu para discutir cooperação ambiental e diplomacia parlamentar.",
       "speaker": {
         "name": "Inácio Ybanêz Rúbio",
-        "position": "Embaixador da Comunidade da União"
+        "position": "Embaixador da Comunidade da União",
+        "slug": "inacio-ybanez-rubio"
       }
     },
     {
@@ -228,7 +248,8 @@
       "summary": "Grupo cultural folclórico \"Frutos do Pará\" existe há 30 anos, apresenta-se em todo o Brasil. A presidência é de Iracema Oliveira, mestre de cultura popular. Apesar de sua idade avançada, ela não está presente no evento em Brasília, mas o mestre de cerimônias a honra com aplausos por sua contribuição e o trabalho do grupo.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     },
     {
@@ -239,7 +260,8 @@
       "summary": "Governador do Pará elogia iniciativa brasileira em agenda climática global, destaque para liderança executiva e parlamentar, espera soluções efetivas no COP30 em Belém, com foco em sustentabilidade ambiental, econômica e social, e geração de empregos verdes e financiamentos necessários. Parabéns à deputada e 210 parlamentares pela frente parlamentar pela causa de todos, fortalecendo Brasil em liderança de sustentabilidade do planeta.",
       "speaker": {
         "name": "Helder Barbalho",
-        "position": "Governador do Estado do Pará"
+        "position": "Governador do Estado do Pará",
+        "slug": "helder-barbalho"
       }
     },
     {
@@ -250,7 +272,8 @@
       "summary": "Mestre de Cerimônia anunciou criação de frente parlamentar de 210 parlamentares, liderada pela deputada Elcione Barbalho, com deputadas Giovanna Faro e Alexandre Guimarães como vice-presidentes. Após o anúncio, houve um convite para um coquetel mostrando oferecimentos do Pará. Agora, é encerrado o ato oficial.",
       "speaker": {
         "name": "Paulo Otaran",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "paulo-otaran"
       }
     }
   ],

@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 204518,
         "name": "Dr. Frederico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-frederico"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -73,7 +78,8 @@
       "speaker": {
         "id": 162067,
         "name": "Kiko Celeguim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kiko-celeguim"
       }
     },
     {
@@ -85,7 +91,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -96,7 +103,8 @@
       "summary": " Solicitação à assessorias contatar deputados para agilizar votação, especialmente Joséildo e Júnior, que parecem ter problemas de horário. Também menciona a presença de Tadeu.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -106,7 +114,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padre João -- por Participante -- Tadeu Veneri",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padre-joao-por-participante-tadeu-veneri"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": " Votação encerrada, inicia apuração eletrônica.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tadeu Veneri -- por Participante -- Padre João",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tadeu-veneri-por-participante-padre-joao"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": " Deputado Joseildo Ramos eleito presidente com 14 votos; convidado a liderar comissão fiscalização financeira.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -138,7 +149,8 @@
       "transcription": "Antes de agradecer e de me pronunciar aqui.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Padre João -- por Participante -- Joseildo Ramos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-padre-joao-por-participante-joseildo-ramos"
       }
     },
     {
@@ -150,7 +162,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 204408,
         "name": "Gustinho Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustinho-ribeiro"
       }
     },
     {
@@ -185,7 +200,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -197,7 +213,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -209,7 +226,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     }
   ],

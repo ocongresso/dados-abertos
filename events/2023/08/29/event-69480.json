@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220691,
         "name": "Diego Coronel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "diego-coronel"
       }
     }
   ],

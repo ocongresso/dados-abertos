@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Eu vi ali olha lá. Nossa reunião. Tá? Obrigada tá, tá? Obrigada, tá beleza? Muito obrigada. Estar afetando ou tirando a uma ou constrangimento uma é uma é uma discussão, de esportes, de igualdade e de confecção e de e proteção do sexo feminino. Porque se a gente entrar na discussão de uma mulher e homem, se você acha que é mulher ou homem não, o Está encerrada a votação? Passase a apuração dos votos no painel eletrônico.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Votação terminou 13 a 0 a favor de Neli Aquino como 2ª vice-presidente da comissão de esporte. Ela assume o cargo. Boa tarde.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 220622,
         "name": "Nely Aquino",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "nely-aquino"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

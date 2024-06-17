@@ -14,7 +14,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -47,7 +50,8 @@
       "transcription": "Obrigado.",
       "speaker": {
         "name": "1 minuto de silêncio",
-        "position": ""
+        "position": "",
+        "slug": "1-minuto-de-silencio"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -71,7 +76,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -82,7 +88,8 @@
       "summary": " Discurso sobre arrecadação em municípios, destaque para mineração: contribui para PIB, gera empregos, necessita melhor distribuição de recursos; ANM carece de autonomia normativa e estrutura para fiscalização. Atrasos em repasses causam problemas a municípios. Serfen deve promover melhorias ambientais e culturais, não apenas financeiras.",
       "speaker": {
         "name": "FLÁVIA SALVADOR",
-        "position": "Analista de Finanças e Tributação - Confederação Nacional dos Municípios"
+        "position": "Analista de Finanças e Tributação - Confederação Nacional dos Municípios",
+        "slug": "flavia-salvador"
       }
     },
     {
@@ -94,7 +101,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": " Consórcio multimunicipal gerencia recursos da Estrada de Ferro Carajás, importantes para fechamento de contas públicas de municípios. ANM enfrenta dificuldades para fiscalização devido à falta de tecnologia avançada, o que resulta em atrasos e prejuízos. A reversão da sonegação é prejudicada pelas precárias condições da agência. O consórcio espera que a data de revisão anual seja cumprida, evitando atrasos e manutenção de regularidade nos repasses.",
       "speaker": {
         "name": "LEE MAX DE ALMEIDA ANDRADE",
-        "position": "Diretor - Consórcio Intermunicipal Multimodal"
+        "position": "Diretor - Consórcio Intermunicipal Multimodal",
+        "slug": "lee-max-de-almeida-andrade"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -128,7 +138,8 @@
       "summary": " Consultor da Associação dos Municípios Mineradores de MG e Brasil discutiu regulamentação de direitos minerários, cobrança e repasse justo aos municípios, importância de infraestrutura e fiscalização efetiva na ANM, período de transição para aprimoramento na fiscalização, e referendo por ANM descentralizada e estruturada, evitando ganhos privados excessivos e favorecendo municípios equitativamente.",
       "speaker": {
         "name": "WALDIR SALVADOR",
-        "position": "Consultor - Ass Mun Mineradores de MG e BRASIL"
+        "position": "Consultor - Ass Mun Mineradores de MG e BRASIL",
+        "slug": "waldir-salvador"
       }
     },
     {
@@ -140,7 +151,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -151,7 +163,8 @@
       "summary": " Superintendente de Arrecadação, Agência Nacional de Mineração: felicitação aos presentes, oferece apresentação, se tempo permite.",
       "speaker": {
         "name": "DANIEL POLLACK",
-        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração"
+        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração",
+        "slug": "daniel-pollack"
       }
     },
     {
@@ -162,7 +175,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -173,7 +187,8 @@
       "summary": " Superintendente de Arrecadação - Agência Nacional de Mineração: verificando se tela está visível, pedindo para ampliar e exibir.",
       "speaker": {
         "name": "DANIEL POLLACK",
-        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração"
+        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração",
+        "slug": "daniel-pollack"
       }
     },
     {
@@ -184,7 +199,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -195,7 +211,8 @@
       "summary": " Agradecimento por derrubada de veto para ANM e atualização do CPM, com compromisso de pagamento em dezembro de 2",
       "speaker": {
         "name": "DANIEL POLLACK",
-        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração"
+        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração",
+        "slug": "daniel-pollack"
       }
     },
     {
@@ -207,7 +224,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -218,7 +236,8 @@
       "summary": " Suspensão de pagamento em março; reunião em abril para revisar lista e continuar pagamento; insegurança jurídica se lista estiver errada; pagamento feito em maio com base nas listas vigentes; proposta de aprimorar regra de transição até implementar Cadastro Nacional de Estrutura de Mineração.",
       "speaker": {
         "name": "DANIEL POLLACK",
-        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração"
+        "position": "Superintendente de Arrecadação - Agência Nacional de Mineração",
+        "slug": "daniel-pollack"
       }
     },
     {
@@ -230,7 +249,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -241,7 +261,8 @@
       "summary": " Diretor da ANM discutiu problemas com o Limax, trabalhando em melhoria tecnológica de processamento de dados e pagamentos atualizados, salvo atrasos de conciliação bancária. Objetivo é aumentar arrecadação por meio de ferramentas digitais, visando 15 bilhões de reais. Mudanças legislativas efetivas, discussão sobre decreto 1407 e uso do termo \"município afetado\", e meta de melhorar análise de recursos e manutenção de pagamentos a esses municípios.",
       "speaker": {
         "name": "CAIO MÁRIO TRIVELLATO SEABRA FILHO",
-        "position": "Diretor - Agência Nacional de Mineração"
+        "position": "Diretor - Agência Nacional de Mineração",
+        "slug": "caio-mario-trivellato-seabra-filho"
       }
     },
     {
@@ -253,7 +274,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -264,7 +286,8 @@
       "summary": " Diretor Geral - Agência Nacional de Mineração falou sobre importância de regulamentação, atraso na edição do decreto, déficit de servidores na agência, baixa arrecadação e necessidade de melhoria na tecnologia. Falou também sobre atraso no pagamento a municípios e sua posição a favor da liberação dos pagamentos.",
       "speaker": {
         "name": "MAURO SOUSA",
-        "position": "Diretor Geral - Agência Nacional de Mineração"
+        "position": "Diretor Geral - Agência Nacional de Mineração",
+        "slug": "mauro-sousa"
       }
     },
     {
@@ -276,7 +299,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -288,7 +312,8 @@
       "speaker": {
         "id": 204358,
         "name": "Beto Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-pereira"
       }
     },
     {
@@ -300,7 +325,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -312,7 +338,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -324,7 +351,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -336,7 +364,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -348,7 +377,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -371,7 +402,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -383,7 +415,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -395,7 +428,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -407,7 +441,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -419,7 +454,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -430,7 +466,8 @@
       "summary": " Diretor da ANM agradeceu apoio de deputados e questionou classificação de áreas como \"estruturas de mineração\". Referiu-se à lista provisória de áreas afetadas por mineração e data de publicação, aludindo a uma regra de transição com fatores redutores. Mencionou passivo ambiental e exemplo de erronea classificação em Amapá. Discordou da aplicação dessa regra por gerar conceito amplo e incorreto.",
       "speaker": {
         "name": "CAIO MÁRIO TRIVELLATO SEABRA FILHO",
-        "position": "Diretor - Agência Nacional de Mineração"
+        "position": "Diretor - Agência Nacional de Mineração",
+        "slug": "caio-mario-trivellato-seabra-filho"
       }
     },
     {
@@ -442,7 +479,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -453,7 +491,8 @@
       "summary": " Diretor - Agência Nacional de Mineração afirmou: a lei foi modificada e sua regulamentação atrasou, originando questionamentos. O conselho entendeu não adequado e difícil de operacionalizar. A manutenção foi determinada, embora houvesse oposição aos pagamentos continuados. A demora na entrega do decreto foi criticada.",
       "speaker": {
         "name": "CAIO MÁRIO TRIVELLATO SEABRA FILHO",
-        "position": "Diretor - Agência Nacional de Mineração"
+        "position": "Diretor - Agência Nacional de Mineração",
+        "slug": "caio-mario-trivellato-seabra-filho"
       }
     },
     {
@@ -465,7 +504,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -476,7 +516,8 @@
       "summary": " Discurso do Diretor - Agência Nacional de Mineração:",
       "speaker": {
         "name": "CAIO MÁRIO TRIVELLATO SEABRA FILHO",
-        "position": "Diretor - Agência Nacional de Mineração"
+        "position": "Diretor - Agência Nacional de Mineração",
+        "slug": "caio-mario-trivellato-seabra-filho"
       }
     },
     {
@@ -488,7 +529,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -499,7 +541,8 @@
       "summary": " Diretor da Agência Nacional de Mineração explicou sobre a perda de eficácia na distribuição do CEFEM devido à falta de confirmação da decisão tomada unilateralmente em referendo em dezembro, três dias antes do vencimento. Ninguém aconselhou a não distribuir, mas sem a regra de transição estabelecida corretamente, não era possível proceder com a distribuição. O diretor esclareceu a situação para que todos a entendessem.",
       "speaker": {
         "name": "CAIO MÁRIO TRIVELLATO SEABRA FILHO",
-        "position": "Diretor - Agência Nacional de Mineração"
+        "position": "Diretor - Agência Nacional de Mineração",
+        "slug": "caio-mario-trivellato-seabra-filho"
       }
     },
     {
@@ -511,7 +554,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -522,7 +566,8 @@
       "summary": " Diretor Geral - Agência Nacional de Mineração se refere às dificuldades enfrentadas pela agência, incluindo falta de aprovação de cargos, aposentadorias e dificuldades orçamentárias. Destaca a necessidade de um plano de reestruturação e pede apoio do parlamento. Menciona antagonismo internos e compromisso institucional, sugerindo um diálogo mais próximo e contínuo entre a agência e o parlamento.",
       "speaker": {
         "name": "MAURO SOUSA",
-        "position": "Diretor Geral - Agência Nacional de Mineração"
+        "position": "Diretor Geral - Agência Nacional de Mineração",
+        "slug": "mauro-sousa"
       }
     },
     {
@@ -534,7 +579,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -546,7 +592,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -557,7 +604,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -569,7 +617,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -581,7 +630,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -593,7 +643,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -605,7 +656,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     },
     {
@@ -617,7 +669,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -629,7 +682,8 @@
       "speaker": {
         "id": 141450,
         "name": "Hugo Leal",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-leal"
       }
     }
   ],

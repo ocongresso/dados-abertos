@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Reunião em homenagem à Polícia Civil do Distrito Federal no Congresso. Presidente Arthur Lira elogia policias por concluded investigação de grupos criminosos, prevenindo impunidade. Governadora Celina Leão também presente.",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Governadora em Exercício elogia comunicação de Fred, nomeia autoridades e agradece apoio. Destaca polícia civil, militar e bombeiros como os melhores do Brasil. Menciona colaboração com Poder Legislativo e ação durante crise. Anuncia reunião com ministro sobre reajuste de forças de segurança.",
       "speaker": {
         "name": "Celina Leão",
-        "position": "Governadora em Exercício do Distrito Federal."
+        "position": "Governadora em Exercício do Distrito Federal.",
+        "slug": "celina-leao"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -72,7 +77,8 @@
       "transcription": "",
       "speaker": {
         "name": "Um minuto de silêncio.",
-        "position": ""
+        "position": "",
+        "slug": "um-minuto-de-silencio"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Delegado Regional de Luziânia-Goiás expressou pesar por crime violento em Brasília, louvando atuação das forças policiais e parceria entre polícias do Distrito Federal, Goiás e Minas Gerais, destacando eficiência da investigação.",
       "speaker": {
         "name": "Rafael Abrão",
-        "position": "Delegado Regional de Luziânia-Goiás"
+        "position": "Delegado Regional de Luziânia-Goiás",
+        "slug": "rafael-abrao"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Agradecendo homenagem, Delegacia-Chefe da 6ª do DF elogia equipe de 64 policiais atuantes em Paranoá e regiões próximas, lidando com desafios, como a proteção de parlamentares fora do DF e eventos importantes. Investigaram recente caso de desaparecimento e morte de família, resultando em prisão de suspeitos e localização de vítimas. Buscam justiça e paz para vítimas e suas famílias. Investigação concluída, com a benção de Deus.",
       "speaker": {
         "name": "Ricardo Viana",
-        "position": "Delegado-Chefe - 6 Delegacia de Polícia - DF"
+        "position": "Delegado-Chefe - 6 Delegacia de Polícia - DF",
+        "slug": "ricardo-viana"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -165,7 +178,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -189,7 +204,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -201,7 +217,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -212,7 +229,8 @@
       "summary": "Reconhecimento à polícia civil do DF e a todos policiais por difficult mission of solving brutal case; Crime of this type shocks everyone, society rejects it; Segurança pública é de todos, contém criminalidade como dique; Polícia militar também enfrenta desafios com redução de efetivo; Valorizar policiais, atenção aos seus salários.",
       "speaker": {
         "name": "Sandro Torres Avelar",
-        "position": "Sec. de Segurança Pública - DF"
+        "position": "Sec. de Segurança Pública - DF",
+        "slug": "sandro-torres-avelar"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -234,7 +253,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fred Linhares -- por Participante -- Bia Kicis",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fred-linhares-por-participante-bia-kicis"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -257,7 +278,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 204374,
         "name": "Bia Kicis",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "bia-kicis"
       }
     },
     {
@@ -278,7 +301,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Bia Kicis -- por Participante -- Fred Linhares",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-bia-kicis-por-participante-fred-linhares"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     }
   ],

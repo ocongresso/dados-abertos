@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220628,
         "name": "Mauricio do Vôlei",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-do-volei"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 220628,
         "name": "Mauricio do Vôlei",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-do-volei"
       }
     }
   ],

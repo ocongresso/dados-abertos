@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Presidente. Está",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fabio Schiochet -- por Participante -- Rodrigo de Castro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fabio-schiochet-por-participante-rodrigo-de-castro"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 204368,
         "name": "Fabio Schiochet",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-schiochet"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 220683,
         "name": "Beto Richa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-richa"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
@@ -178,7 +192,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -190,7 +205,8 @@
       "speaker": {
         "id": 204398,
         "name": "Felipe Francischini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-francischini"
       }
     },
     {
@@ -202,7 +218,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -226,7 +244,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -238,7 +257,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -250,7 +270,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -262,7 +283,8 @@
       "speaker": {
         "id": 220530,
         "name": "Messias Donato",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "messias-donato"
       }
     },
     {
@@ -274,7 +296,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -286,7 +309,8 @@
       "speaker": {
         "id": 204524,
         "name": "Pinheirinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pinheirinho"
       }
     },
     {
@@ -298,7 +322,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -310,7 +335,8 @@
       "speaker": {
         "id": 141398,
         "name": "Carlos Zarattini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-zarattini"
       }
     },
     {
@@ -322,7 +348,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -334,7 +361,8 @@
       "speaker": {
         "id": 224333,
         "name": "Welter",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "welter"
       }
     },
     {
@@ -346,7 +374,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -358,7 +387,8 @@
       "speaker": {
         "id": 178858,
         "name": "Mário Negromonte Jr.",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mario-negromonte-jr"
       }
     },
     {
@@ -370,7 +400,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -382,7 +413,8 @@
       "speaker": {
         "id": 204494,
         "name": "Fred Costa",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-costa"
       }
     },
     {
@@ -394,7 +426,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -406,7 +439,8 @@
       "speaker": {
         "id": 160599,
         "name": "Dimas Fabiano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dimas-fabiano"
       }
     },
     {
@@ -418,7 +452,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -430,7 +465,8 @@
       "speaker": {
         "id": 220563,
         "name": "Icaro de Valmir",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "icaro-de-valmir"
       }
     },
     {
@@ -442,7 +478,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -454,7 +491,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -466,7 +504,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -478,7 +517,8 @@
       "speaker": {
         "id": 220702,
         "name": "Geraldo Mendes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "geraldo-mendes"
       }
     },
     {
@@ -490,7 +530,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -502,7 +543,8 @@
       "speaker": {
         "id": 204358,
         "name": "Beto Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "beto-pereira"
       }
     },
     {
@@ -514,7 +556,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -526,7 +569,8 @@
       "speaker": {
         "id": 220708,
         "name": "Gabriel Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gabriel-nunes"
       }
     },
     {
@@ -538,7 +582,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -550,7 +595,8 @@
       "speaker": {
         "id": 160556,
         "name": "Padre João",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padre-joao"
       }
     },
     {
@@ -562,7 +608,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -574,7 +621,8 @@
       "speaker": {
         "id": 198197,
         "name": "Greyce Elias",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "greyce-elias"
       }
     },
     {
@@ -586,7 +634,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     }
   ],

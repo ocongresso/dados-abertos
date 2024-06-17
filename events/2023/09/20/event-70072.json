@@ -14,7 +14,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -49,7 +52,8 @@
       "summary": "Aumento significativo de doações e transplantes em 2023, apesar de impactos da pandemia; taxa de transplantes ainda abaixo de necessidades nacionais; aumento necessita educação, formação de equipes, financiamento adequado e correção de disparidades geográficas; Brasil tem estrutura sólida para aumentar doações e transplantes.",
       "speaker": {
         "name": "Luciana Haddad",
-        "position": "Vice -  Presidente da Associação Brasileira de Transplantes de Órgãos"
+        "position": "Vice -  Presidente da Associação Brasileira de Transplantes de Órgãos",
+        "slug": "luciana-haddad"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "O Diretor da Associação Brasileira de Transplantes de Órgãos agradeceu o convite e parabenizou a criação da frente parlamentar sobre doação. Eles elogiaram o programa de transplantes do Brasil, mas destacaram a necessidade de aprimoramento, especialmente em relação à distribuição geográfica dos centros de transplante e à incorporação de novas tecnologias. Eles também mencionaram a falta de financiamento como um problema crônico no setor de transplantes.",
       "speaker": {
         "name": "Fernando Atik",
-        "position": "Diretor da Associação Brasileira de Transplantes de Órgãos"
+        "position": "Diretor da Associação Brasileira de Transplantes de Órgãos",
+        "slug": "fernando-atik"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -96,7 +103,8 @@
       "speaker": {
         "id": 160674,
         "name": "Hugo Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "hugo-motta"
       }
     },
     {
@@ -108,7 +116,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -119,7 +128,8 @@
       "summary": "Sociedade Brasileira de Nefrologia comemora e apoia lançamento de frente parlamentar mista para defender doação de órgãos e tecidos, avançando desde lei de transplantes em 1997. Necessário abordar temas sensíveis com calma, sobriedade e credibilidade. Sociedade oferece conhecimento e experiência para melhores práticas e políticas.",
       "speaker": {
         "name": "José Moura Neto",
-        "position": "Presidente da Sociaedade Brasileira de Nefrologia"
+        "position": "Presidente da Sociaedade Brasileira de Nefrologia",
+        "slug": "jose-moura-neto"
       }
     },
     {
@@ -131,7 +141,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -142,7 +153,8 @@
       "summary": "Frente Parlamentar Mista de doação de órgãos discute projetos de leis e conscientização sobre importância da doação. Modelos de doação, investimento no Sistema Nacional de Transplantes e gestão de dados destacados. Priorizar ações efetivas, especialmente em regiões com menor número de doações. Doação de órgãos é ato solidário salvando vidas, com Frente fomentando conscientização e Legislativo propondo soluções estruturantes.",
       "speaker": {
         "name": "Pedro Túlio Rocha",
-        "position": "Diretor de Políticas Associativas da Sociedade Brasileira de Transplantados"
+        "position": "Diretor de Políticas Associativas da Sociedade Brasileira de Transplantados",
+        "slug": "pedro-tulio-rocha"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Vice-Presidente da Associação Brasileira de Transplantados agradece convite e expressa otimismo com a criação da frente, com mais de 7mil transplantados em todas as unidades federais, oferece parceria ativa e deseja que o assunto transplante seja constante na sociedade para salvar mais vidas.",
       "speaker": {
         "name": "Haroldo Costa",
-        "position": "Vice -  Presidente da Associação Brasileira de Transplantados"
+        "position": "Vice -  Presidente da Associação Brasileira de Transplantados",
+        "slug": "haroldo-costa"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": "Discurso sobre importância da doação de órgões: a fila de espera é longa e angustiante, número de doadores insuficiente, necessário sistema de transplante eficiente e políticas públicas adequadas. Doar órgãos, ato de amor e solidariedade que pode salvar vidas. Necessário incentivar doações, mudar sistema para atender às demandas dos pacientes. Frente Parlamentar Mista de Doação de órgãos, crucial para mudar essa realidade.",
       "speaker": {
         "name": "Maria Izabel de Holanda",
-        "position": "Diretora Científica da Sociedade de Nefrologia do Estado do Rio de Janeiro"
+        "position": "Diretora Científica da Sociedade de Nefrologia do Estado do Rio de Janeiro",
+        "slug": "maria-izabel-de-holanda"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -211,7 +228,8 @@
       "summary": "Presidente da Federação Nacional das Associações de Pacientes Renais do Brasil agradece presentes, elogia trabalho da SBN e Moura Neto. Destaca dificuldades enfrentadas por pacientes renais e pedidos às autoridades de saúde, incluindo exames em atenção básica, diálise peritoneal e transplante renal. Menciona audiência no Ministério da Saúde, treinamento de médicos e central de transplante. Promove conscientização sobre doação de órgãos e agradece apoio à causa.",
       "speaker": {
         "name": "Maria de Lourdes",
-        "position": "Presidente da Federação Nacional das Associações de Pacientes Renais do Brasil"
+        "position": "Presidente da Federação Nacional das Associações de Pacientes Renais do Brasil",
+        "slug": "maria-de-lourdes"
       }
     },
     {
@@ -223,7 +241,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -234,7 +253,8 @@
       "summary": "Chefe Aspaer do Comando da Aeronáutica - Brigadeiro do Ar, afirma alegria e honra da FAB em participar do lançamento da Frente Parlamentar, destacando a importância do tempo e a disposição de meios aéreos 24/7 para transporte de órgãos, realizando missões recentemente. FAB sempre pronta para ajudar em parcerias possíveis.",
       "speaker": {
         "name": "Reginaldo Pontirolli",
-        "position": "Chefe Aspaer do Comando da Aeronáutica - Brigadeiro do Ar"
+        "position": "Chefe Aspaer do Comando da Aeronáutica - Brigadeiro do Ar",
+        "slug": "reginaldo-pontirolli"
       }
     },
     {
@@ -245,7 +265,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -256,7 +277,8 @@
       "summary": "Presidente do Instituto Brasileiro de Transplantados Falou sobre:",
       "speaker": {
         "name": "Robério Melo",
-        "position": "Presidente do Instituto Brasileiro de Transplantados"
+        "position": "Presidente do Instituto Brasileiro de Transplantados",
+        "slug": "roberio-melo"
       }
     },
     {
@@ -268,7 +290,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -279,7 +302,8 @@
       "summary": "Secretário Executivo da Frente Parlamentar Distrital em Defesa de Transplantados destaca importância de investir em campanhas de doação, acelerar transplantes, e estabelecer políticas públicas efetivas para transplantados. Lamenta falecimento de cirurgião e membro da frente parlamentar. Parabéns a contribuintes da causa. Discutir modelos de doação e abordar medo e falta de compreensão sobre doação de órgãos.",
       "speaker": {
         "name": "Augusto Bravo",
-        "position": "Secretário Executivo da Frente Parlamentar Distrital em Defesa dos Direitos das Pessoas Pré e Pós Transplantadas e de Conscientização de Doação de Órgãos"
+        "position": "Secretário Executivo da Frente Parlamentar Distrital em Defesa dos Direitos das Pessoas Pré e Pós Transplantadas e de Conscientização de Doação de Órgãos",
+        "slug": "augusto-bravo"
       }
     },
     {
@@ -291,7 +315,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -303,7 +328,8 @@
       "speaker": {
         "id": 220603,
         "name": "Dani Cunha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dani-cunha"
       }
     },
     {
@@ -315,7 +341,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     }
   ],

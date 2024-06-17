@@ -18,7 +18,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Duarte Júnior que presidirá esta sessão. Mais uma vez.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Márcio Jerry -- por Participante -- Duarte",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcio-jerry-por-participante-duarte"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "O Deputado fala sobre a importância de debater a paralisia periódica, diagnosticada em seu sobrinho. Ele agradece ao Deputado Márcio Geri por ajudar a tratar do assunto rapidamente e destaca a necessidade de dedicar atenção, energia e conhecimento para descobrir curas para doenças, garantindo direitos à vida, saúde e dignidade. Ele entrega a palavra à Denise Costa e Diogo Aguiar.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -50,7 +53,8 @@
       "summary": "Coordenadora-Geral Substituta da Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde abordou oferta de cuidados no SUS para pessoas com doença neuromuscular, como paralisia periódica. Destacou políticas e comitês para doenças raras e reforçou importância de atenção especializada, redes temáticas e reabilitação.",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Deputado convida e cumprimenta participantes, expressa agradecimento a Denise Costa e lamenta não ouvir Ítalo Marques devido a problemas técnicos.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Diretor - Rádio Ame os Raros fala sobre doenças raras, incluindo sua experiência pessoal com a doença de sua filha. Destaca a importância de famílias unidas e informadas, e médicos especializados. Promove diálogo sobre centros de referência e formação em medicina de doenças raras. Rádio fornece voz a pessoas com doenças raras e suas famílias, apoiando-as em sua luta diária.",
       "speaker": {
         "name": "ÍTALO DUARTE MARQUES",
-        "position": "Diretor - Rádio Ame os Raros"
+        "position": "Diretor - Rádio Ame os Raros",
+        "slug": "italo-duarte-marques"
       }
     },
     {
@@ -83,7 +89,8 @@
       "summary": "Deputado pediu atenção ao uso do mudo e se desculpou por problemas técnicos.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Diretor da Rádio Ame os Raros valoriza primeira edição da caderneta dos ratos, importante para acesso de médicos à famílias de doenças raras. Pede que diálogo sobre doenças raras supere diferenças e politics. Agradecimentos por destinar fala aos raros, e união de esforços por tratamento e avanço na área.",
       "speaker": {
         "name": "ÍTALO DUARTE MARQUES",
-        "position": "Diretor - Rádio Ame os Raros"
+        "position": "Diretor - Rádio Ame os Raros",
+        "slug": "italo-duarte-marques"
       }
     },
     {
@@ -105,7 +113,8 @@
       "summary": "Discurso do Deputado: falou como diretor de rádio, encerrando seu mandato e pedindo considerações finais.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -116,7 +125,8 @@
       "summary": "Diretor da Rádio Ame os Raros agradece e abençoa todos presentes, promove rádio Muzários que reachs 70 mil famílias, parabéns a Acari e Duarte por causa dos raros.",
       "speaker": {
         "name": "ÍTALO DUARTE MARQUES",
-        "position": "Diretor - Rádio Ame os Raros"
+        "position": "Diretor - Rádio Ame os Raros",
+        "slug": "italo-duarte-marques"
       }
     },
     {
@@ -127,7 +137,8 @@
       "summary": "Deputado agradece diretor rádio e passa palavra a membro titular da Academia Brasileira de Neurologia.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -138,7 +149,8 @@
       "summary": "Membro Titular e Coordenador da Academia Brasileira de Neurologia abordou paralisia periódica, doença frequente em crianças e adolescentes, caracterizada por fraqueza muscular episódica. Dificuldades no diagnóstico e tratamento devido a intermitência e acesso limitado a medicamentos estabilizadores de membrana muscular. Doença limitante requer atenção e cuidado especial aos pacientes.",
       "speaker": {
         "name": "ANDRÉ MACEDO SERAFIM DA SILVA, Membro Titular e Coordenador do Departamento Científico de Moléstias Neuromusculares da Academia Brasileira de Neurologia - ABN",
-        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN"
+        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN",
+        "slug": "andre-macedo-serafim-da-silva-membro-titular-e-coordenador-do-departamento-cientifico-de-molestias-neuromusculares-da-academia-brasileira-de-neurologia-abn"
       }
     },
     {
@@ -149,7 +161,8 @@
       "summary": "Deputado propõe Parlamento garantir recursos para pesquisa e ação concreta, em conformidade com o direito à saúde e à vida previsto na Constituição Federal, passando da teoria à prática. Agora, Antônio José Ferreira falará.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -160,7 +173,8 @@
       "summary": "Secretaria de Direitos da Pessoa com Deficiência promove inclusão through policies, collaborating with other ministries and ensuring Convenção da ONU's rights. Deficiência impacts individuals differently based on social and economic context; Coordinator emphasizes the need for access to public policies, especially in health, to minimize impacts on people with deficiência. Ministry reiterates commitment to effective inclusion.",
       "speaker": {
         "name": "ANTONIO JOSÉ FERREIRA",
-        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania"
+        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+        "slug": "antonio-jose-ferreira"
       }
     },
     {
@@ -171,7 +185,8 @@
       "summary": "Deputado se refere à fala de alguém, corrigindo ideia de deficiência como fim de vida; deficiência merece direitos e respeito; rejeita affirmação de fim de vida.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -182,7 +197,8 @@
       "summary": "Pessoa torna-se deficiência quando tratamento falha, mas deficiência não é o fim. Coordenador-Geral é cego desde os cinco anos, alfabetizado aos doze, agora é Secretário Nacional. Tratamento e atitude impactam vida das pessoas com deficiência.",
       "speaker": {
         "name": "ANTONIO JOSÉ FERREIRA",
-        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania"
+        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+        "slug": "antonio-jose-ferreira"
       }
     },
     {
@@ -192,7 +208,8 @@
       "transcription": "Não é o fim, claro que não. Claro que não mas foi isso que vossa excelência falou por isso que eu corrigi. Não, claro que",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -203,7 +220,8 @@
       "summary": "Discursos do Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania enfatizaram a importância de acesso ao tratamento para prevenir deficiência. Contra deficiência.",
       "speaker": {
         "name": "ANTONIO JOSÉ FERREIRA",
-        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania"
+        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+        "slug": "antonio-jose-ferreira"
       }
     },
     {
@@ -214,7 +232,8 @@
       "summary": "Deputado destaca: deficiência não é doença, merece respeito e é um direito.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -225,7 +244,8 @@
       "summary": "Deficiência não é doença; doença mal tratada pode causar deficiência.",
       "speaker": {
         "name": "ANTONIO JOSÉ FERREIRA",
-        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania"
+        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+        "slug": "antonio-jose-ferreira"
       }
     },
     {
@@ -236,7 +256,8 @@
       "summary": "Deputado permite uso do microfone, mas discorda com termo \"deficiência\" como doença ou fim; reconhece direito de falar e referencia neurologista Marco Antônio.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -247,7 +268,8 @@
       "summary": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA fala sobre a ELA, doença rara com evolução grave, sem cura, mas com necessidade de diagnóstico precoce para melhor qualidade de vida. Destaca importância de diagnóstico preciso e padronização de tratamento para doenças raras, como ELA, no protocolo clínico. Falta inclusão de doenças graves, como ELA, na lista de doenças graves no sistema de saúde Brasileiro. Melhorar diagnóstico precoce é prioridade.",
       "speaker": {
         "name": "MARCO ANTONIO TROCCOLI CHIEIA",
-        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA"
+        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA",
+        "slug": "marco-antonio-troccoli-chieia"
       }
     },
     {
@@ -257,7 +279,8 @@
       "transcription": "Marco, vossa excelência tem mais cinco minutos caso queira utilizar, fica fica à vontade, se estiver também satisfeito Eu acho que assim",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -268,7 +291,8 @@
       "summary": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA discutiu diagnóstico e tratamento da doença com Dra. Karine, oferecendo informações adicionais sobre a condição.",
       "speaker": {
         "name": "MARCO ANTONIO TROCCOLI CHIEIA",
-        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA"
+        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA",
+        "slug": "marco-antonio-troccoli-chieia"
       }
     },
     {
@@ -279,7 +303,8 @@
       "summary": "Discurso proferido por um deputado, cedendo a palavra a um neurologista, chamado Acari Souza Bule, que é membro do setor de investigação de doenças neuromusculares da Universidade Federal de São Paulo e presidente da Associação Brasileira de Esclerose Lateral Amiotrófica.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -290,7 +315,8 @@
       "summary": "Neurologista discute doenças raras, como paralisia periódica, causada por alterações nos canais iônicos. Reconhecimento precoce é fundamental, assim como centros de referência, acesso a exames genéticos e desenvolvimento de medicamentos específicos. O diagnóstico e tratamento precoces são fundamentais, e recomenda aprendizagem com pacientes e cuidados de alta qualidade.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -301,7 +327,8 @@
       "summary": "Deputado agradece e cede palavra a neurologista Karine Souza Bule por explicação e ênfase na importância do diagnóstico precoce, seguido por Hudson Azevedo Pinheiro, vice-presidente da Associação Brasileira de Fisioterapia Neurofuncional.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -312,7 +339,8 @@
       "summary": "Vice-Presidente da ABRAFIN falou sobre desafios no acompanhamento de pacientes com doenças raras, a importância da fisioterapia, o surgimento da ABRAFIN, e a necessidade de profissionais capacitados para oferecer cuidados centrados na família e facilitar acesso a políticas públicas e serviços de saúde.",
       "speaker": {
         "name": "HUDSON AZEVEDO PINHEIRO",
-        "position": "Vice-Presidente da Associação Brasileira de Fisioterapia Neurofuncional - ABRAFIN"
+        "position": "Vice-Presidente da Associação Brasileira de Fisioterapia Neurofuncional - ABRAFIN",
+        "slug": "hudson-azevedo-pinheiro"
       }
     },
     {
@@ -323,7 +351,8 @@
       "summary": "Deputado questiona Ministério da Saúde sobre ações concretas em paralisia periódica: pesquisas, medicamentos, tratamentos e diagnóstico precoce. Menciona também a paralisia com potássio normal e pede por respostas e participação.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -334,7 +363,8 @@
       "summary": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde abordou fortalecimento da agenda de cuidados às pessoas com deficiência. Lançamento da caderneta de cuidado e linha de cuidado em 2022, e novo organograma do Ministério da Saúde desde janeiro de 2",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -345,7 +375,8 @@
       "summary": "Membro Titular e Coordenador da Academia Brasileira de Neurologia abordou paralisias periódicas; tratamento com reposição de potássio, Karine mencionou medicamentos que estabilizam membrana muscular; desafio em casos que não respondem a reposição de potássio; problemas com efeitos colaterais de medicamentos como acetazolamida; medicamentos diclofenamida e mexiletina não disponíveis no Brasil; diagnóstico precoce necessita de acesso a testes genéticos, ainda inacessíveis no país.",
       "speaker": {
         "name": "ANDRÉ MACEDO SERAFIM DA SILVA, Membro Titular e Coordenador do Departamento Científico de Moléstias Neuromusculares da Academia Brasileira de Neurologia - ABN",
-        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN"
+        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN",
+        "slug": "andre-macedo-serafim-da-silva-membro-titular-e-coordenador-do-departamento-cientifico-de-molestias-neuromusculares-da-academia-brasileira-de-neurologia-abn"
       }
     },
     {
@@ -356,7 +387,8 @@
       "summary": "Deputado agradece e pede se alguém deseja fazer um complemento.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -367,7 +399,8 @@
       "summary": "Neurologista mencionou medicamento Méxeletine para paralisia periódica, não disponível no Brasil atualmente, alto custo na importação, efetivo em alguns pacientes, mas não pode ser prescrito devido a falta de disponibilidade no país.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -378,7 +411,8 @@
       "summary": "Deputado questiona regra que proíbe prescrição de medicamentos não disponíveis no país.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -389,7 +423,8 @@
       "summary": "Neurologista explica necesidade de seguir normas públicas, só prescreve exames e tratamentos disponíveis no SUS, evitando encargos desnecessários a hospital e observando ética como funcionário público federal.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -400,7 +435,8 @@
       "summary": "Deputado fala sobre a necessidade de obter mais informações sobre o medicamento e o tratamento, dando voz à Denise para continuar o assunto.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -411,7 +447,8 @@
       "summary": "Para incorporar nova medicação no SUS, é necessária sua registro na Anvisa, apresentação de evidências científicas de eficácia e segurança, e avaliação pela Quintec e Contex considerando especialistas no assunto. Coordenadora-Geral Substituta sugeriu compilação de apontamentos e sugestões discutidas nesta audiência em um documento para ser apresentado ao Ministério da Saúde.",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -421,7 +458,8 @@
       "transcription": "Responder esse questionamento por favor? Sim senhor.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -432,7 +470,8 @@
       "summary": "Neurologista discute dificuldades em aplicar terapias não aprovadas no Brasil, devido a burocracia e restrições do SUS. A medicação em questão possui registro na Anvisa, mas não no país, sendo disponível em EUA e Canadá. No entanto, o profissional não pode prescrevê-la em seu hospital público, podendo apenas solicitar exames e procedimentos aprovados. Restrições legais e hierárquicas barram o uso de tratamentos importados.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -443,7 +482,8 @@
       "summary": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde destacou a dificuldade de inclusão de medicamentos no SUS devido à falta de PCDT e registro, afetando a submissão à CONITEC. Há medicamentos órfãos escassos devido ao desinteresse econômico da indústria, impactando o acesso a tratamentos para doenças relacionadas à deficiência. É necessária maior agilidade no processo de registro no Brasil.",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -454,7 +494,8 @@
       "summary": "Neurologista propõe realização de Protocolo Clínico e Terapêutico para Triglicérides.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -465,7 +506,8 @@
       "summary": "O Deputado apóia a criação de um protocolo rápido para identificar um medicamento e garantir uma resposta breve, affectando a qualidade de vida e saúde mental de pacientes e suas famílias. Ele questiona por que um medicamento aprovado pela Anvisa não é mais reconhecido.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -476,7 +518,8 @@
       "summary": "Neurologista refere retirada de medicamento no Brasil devido a problemas cardiológicos em alguns indivíduos, enquanto continua sendo vendido nos EUA e Canadá com preços mais altos.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -486,7 +529,8 @@
       "transcription": "Mas me chama atenção porque retira do Brasil não por órgão regulador por causa da Anvisa, mas pelo próprio fabricante, retirou? Foi.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -497,7 +541,8 @@
       "summary": "Neurologista discute dificuldade no acesso a medicamento barato por lei, anteriormente disponível e acessível.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -508,7 +553,8 @@
       "summary": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde se refere à possibilidade de ter coisas no SUS sem registro, mas é complexo verificar interesses envolvidos. Ela apenas responde sobre o que médico Agari pode falar.",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -519,7 +565,8 @@
       "summary": "Neurologista mencionou dois laboratórios nos Estados Unidos e Canadá (Farmausa, TEVA) que produziam medicação barata para o Brasil, agora importá-la custa sobre cem dólares por caixinha e enfrenta dificuldades com receita no exterior.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -530,7 +577,8 @@
       "summary": "Deputado propõe encaminhar questão judicial sobre fornecedor recusando-se a continuar fornecendo país.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -540,7 +588,8 @@
       "transcription": "São, era são comercial. As vezes ela dá interesse econômico É comercial, é comercial. Comercial. Comercial. Comercial. Comercial. Ou seja, retirou pra fornecer.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -550,7 +599,8 @@
       "transcription": "Estados Unidos, Canadá, mais caro. A gente não certas coisas",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -561,7 +611,8 @@
       "summary": "Neurologist mentioned the mystery of certain medical practices, such as the US prohibition of dipirona, a cheap painkiller, while allowing large amounts of paracetamol which can have negative effects on the liver.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -572,7 +623,8 @@
       "summary": "Deputado propõe protocolo para fornecimento de medicamento genérico com mesma fórmula, agradece convidados da audiência e passa a palavra para considerações finais.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -583,7 +635,8 @@
       "summary": "Coordenadora-Geral Substituta da Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde destacou a importância da audiência como uma oportunidade de aprendizado e escuta, com foco em uma política estruturada para doenças raras, levando à melhoria de cuidados para pessoas afetadas por essas condições.",
       "speaker": {
         "name": "DENISE COSTA",
-        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde"
+        "position": "Coordenadora-Geral Substituta - Coordenação de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+        "slug": "denise-costa"
       }
     },
     {
@@ -594,7 +647,8 @@
       "summary": "Deputado entrega palavra a Antônio José Ferreira por três minutos.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -605,7 +659,8 @@
       "summary": "Secretaria Nacional comprometida com debate e atendimento às necessidades das pessoas com deficiência, para políticas públicas inclusivas de qualidade. Agradece convidado e palestrantes.",
       "speaker": {
         "name": "ANTONIO JOSÉ FERREIRA",
-        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania"
+        "position": "Coordenador-Geral de Relações Institucionais - Secretaria Nacional dos Direitos da Pessoa com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+        "slug": "antonio-jose-ferreira"
       }
     },
     {
@@ -616,7 +671,8 @@
       "summary": "Deputado agradece o tempo de fala e expressa considerações finais ao Dr. André Macedo.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -627,7 +683,8 @@
       "summary": "Membro Titular e Coordenador - Academia Brasileira de Neurologia ofereceu colaboração ao Ministério da Saúde para desenvolvimento do protocolo clínico de diretrizes terapêuticas de doenças hidro-musculares, visando melhorar a qualidade de vida dos pacientes e fornecer embasamento aos neurologistas. Agradecimento ao deputado Duarte por abordar uma doença rara.",
       "speaker": {
         "name": "ANDRÉ MACEDO SERAFIM DA SILVA, Membro Titular e Coordenador do Departamento Científico de Moléstias Neuromusculares da Academia Brasileira de Neurologia - ABN",
-        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN"
+        "position": "Membro Titular e Coordenador - Academia Brasileira de Neurologia - ABN",
+        "slug": "andre-macedo-serafim-da-silva-membro-titular-e-coordenador-do-departamento-cientifico-de-molestias-neuromusculares-da-academia-brasileira-de-neurologia-abn"
       }
     },
     {
@@ -638,7 +695,8 @@
       "summary": "Deputado corrige pronúncia do nome \"Chia\", afirma que vai se referenciar corretamente ao \"doutor Marco Antônio Chia\" ao passar a palavra.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -649,7 +707,8 @@
       "summary": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA valorou discussão sobre diagnóstico de doenças raras, destaca importância de protocolos baseados em conhecimento e saúde desenvolvida para tratamento efetivo, incluindo casos diferenciados como doença de Hudson. ABrELA gratinta participação e encerra.",
       "speaker": {
         "name": "MARCO ANTONIO TROCCOLI CHIEIA",
-        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA"
+        "position": "Presidente - Associação Brasileira de Esclerose Lateral Amiotrófica - ABrELA",
+        "slug": "marco-antonio-troccoli-chieia"
       }
     },
     {
@@ -660,7 +719,8 @@
       "summary": "Deputado agradece participação e passa a palavra para considerações finais do doutor Hudson Azevedo.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -671,7 +731,8 @@
       "summary": "Vice-Presidente da ABRAFIN propõe discussão sobre diferentes formas de fisioterapia, para ajudar pessoas em diversas fases, priorizando mobilidade, locomoção, redução de dor e independência. Disponível para colaborar.",
       "speaker": {
         "name": "HUDSON AZEVEDO PINHEIRO",
-        "position": "Vice-Presidente da Associação Brasileira de Fisioterapia Neurofuncional - ABRAFIN"
+        "position": "Vice-Presidente da Associação Brasileira de Fisioterapia Neurofuncional - ABRAFIN",
+        "slug": "hudson-azevedo-pinheiro"
       }
     },
     {
@@ -682,7 +743,8 @@
       "summary": "Deputado inicialmente nervoso, referiu-se à \"luz forte\" e passou a palavra ao Doutor Acari para considerações finais sobre o bullying.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -693,7 +755,8 @@
       "summary": "Neurologista apreciou tarde espetacular com trabalho bem conduzido em capítulo de paralisias periódicas e doenças raras, que será discutido em Congresso Paulista de Neurologia. Propõe ensino de neurologia a adolescentes e atividade em saúde na praia em Santos. Agradecimento especial feito com palavra \"obrigado\", expressando vínculo interno e ao Ministério da Saúde.",
       "speaker": {
         "name": "ACARY SOUZA BULLE OLIVEIRA",
-        "position": "Neurologista"
+        "position": "Neurologista",
+        "slug": "acary-souza-bulle-oliveira"
       }
     },
     {
@@ -704,7 +767,8 @@
       "summary": "Deputado recebe diagnóstico de trissomedo no filho e altera tese de doutorado para acesso à educação de pessoas com deficiência. Descobre que sobrinho também tem doença e realiza audiência com autoridades de saúde para encontrar respostas e melhorar qualidade de vida de pessoas com doenças raras. Acena para fé em Deus e encerra reunião.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 74574,
         "name": "Paulo Magalhães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-magalhaes"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 73604,
         "name": "Rui Falcão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rui-falcao"
       }
     }
   ],

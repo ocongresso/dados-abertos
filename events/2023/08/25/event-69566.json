@@ -18,7 +18,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -59,7 +63,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -69,7 +74,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -81,7 +87,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 220534,
         "name": "Fred Linhares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fred-linhares"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -117,7 +126,8 @@
       "speaker": {
         "id": 218086,
         "name": "Ely Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ely-santos"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -141,7 +152,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -164,7 +177,8 @@
       "speaker": {
         "id": 220538,
         "name": "Albuquerque",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "albuquerque"
       }
     },
     {
@@ -176,7 +190,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -188,7 +203,8 @@
       "speaker": {
         "id": 204491,
         "name": "Gilberto Abramo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-abramo"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 74317,
         "name": "Júlio Cesar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-cesar"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -235,7 +254,8 @@
       "summary": "Partido de centro-direita, fundado em 2003, conservador no costume e liberal na economia. Agora defende direitos da minoria e fortalecimento da mulher. Liderado por Marcos Pereira, respeitoso e buscando consenso, sobressaindo em educação, saúde e segurança. Promove justiça em meio às fake news. Lutarão por republicanos e povo brasileiro, unidos a valores cristãos em política.",
       "speaker": {
         "name": "WANDERLEY TAVARES",
-        "position": "Presidente do Republicanos no Distrito Federal"
+        "position": "Presidente do Republicanos no Distrito Federal",
+        "slug": "wanderley-tavares"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -258,7 +279,8 @@
       "summary": "Vereador agradece oportunidade de falar por republicanos brasileiros, comemorando partido presente em todos os estados, inspirado por membros importantes, descrevendo-o como conservador e com 18 anos de história.",
       "speaker": {
         "name": "PAULO MONTEIRO",
-        "position": "Vereador de São Paulo"
+        "position": "Vereador de São Paulo",
+        "slug": "paulo-monteiro"
       }
     },
     {
@@ -270,7 +292,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -281,7 +304,8 @@
       "summary": "Jovem republicano líder conservador, exemplifica crescimento do partido por meio de planejamento, organização e disciplina. Ele valoriza jovens como \"músculo\" do partido, enfatizando importância de representantes que permanecem fieis à sigla.",
       "speaker": {
         "name": "RENATO JUNQUEIRA",
-        "position": "Secretário Nacional do Jovens Republicanos"
+        "position": "Secretário Nacional do Jovens Republicanos",
+        "slug": "renato-junqueira"
       }
     },
     {
@@ -293,7 +317,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -303,7 +328,8 @@
       "transcription": "História.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Crivella -- por Participante -- Prof. Paulo Fernando",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-crivella-por-participante-prof-paulo-fernando"
       }
     },
     {
@@ -314,7 +340,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -326,7 +353,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     },
     {
@@ -338,7 +366,8 @@
       "speaker": {
         "id": 89536,
         "name": "Prof. Paulo Fernando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-paulo-fernando"
       }
     },
     {
@@ -348,7 +377,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Prof. Paulo Fernando -- por Participante -- Marcelo Crivella",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-prof-paulo-fernando-por-participante-marcelo-crivella"
       }
     },
     {
@@ -360,7 +390,8 @@
       "speaker": {
         "id": 220599,
         "name": "Marcelo Crivella",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-crivella"
       }
     }
   ],

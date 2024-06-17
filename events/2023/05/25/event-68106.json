@@ -18,7 +18,8 @@
       "speaker": {
         "id": 74079,
         "name": "José Priante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-priante"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Peço desculpa a todos muito obrigado.",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     }
   ],

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -30,7 +31,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -42,7 +44,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -53,7 +56,8 @@
       "summary": "Presidente encaminha presidência ao participante Pastor Sargento Isidório para relatar itens da pauta.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernando Rodolfo -- por Participante -- Pastor Sargento Isidório",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernando-rodolfo-por-participante-pastor-sargento-isidorio"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 220615,
         "name": "Pastor Henrique Vieira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-henrique-vieira"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -148,7 +159,8 @@
       "summary": "Desculpas pedidas pelo participante.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pastor Sargento Isidório -- por Participante -- Fernando Rodolfo",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pastor-sargento-isidorio-por-participante-fernando-rodolfo"
       }
     },
     {
@@ -160,7 +172,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -172,7 +185,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -184,7 +198,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     }
   ],

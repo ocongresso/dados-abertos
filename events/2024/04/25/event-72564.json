@@ -13,7 +13,8 @@
       "summary": " Bom dia. Início de ciclo de debates sobre transparência pública, transmitido ao vivo no canal da Câmara dos Deputados, com foco na Lei de Acesso à Informação. O objetivo é sugerir aprimoramentos para maior publicidade de informações por responsáveis no setor público. Participantes da mesa: chefe de gabinete da Secretaria de Transparência Paulo Marques, deputados Reginaldo Lopes e Adriana Ventura, convidada externa Miriam Wimmer, e colega da casa Janice Silveira.",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -24,7 +25,8 @@
       "summary": " Chefe de Gabinete da Secretaria da Transparência agradece participantes e destaca importância da Lei de Acesso à Informação, que trouxe transparência e eficácia na fiscalização de gastos públicos. A lei ainda tem potencial para evoluir e a secretaria avalia propostas relacionadas. A presença de convidados especiales é agradecida, incluindo a Deputada Adriana Ventura e a Diretora do Centro de Documentação e Informação da Câmara.",
       "speaker": {
         "name": "Paulo Marques Pereira da Paixão",
-        "position": "Chefe de Gabinete da  Secretaria da Transparência"
+        "position": "Chefe de Gabinete da  Secretaria da Transparência",
+        "slug": "paulo-marques-pereira-da-paixao"
       }
     },
     {
@@ -34,7 +36,8 @@
       "transcription": "",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -46,7 +49,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -57,7 +61,8 @@
       "summary": " Apresentador anuncia deputada Adriana Ventura, representante de São Paulo pelo Novo, em seu segundo mandato, com formação em administração pública empreendedora e doutorado pela Fundação Getúlio Vargas, where she is also a professor. Currently, she is part of the education, health, and administration and public service committees in the house.",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -69,7 +74,8 @@
       "speaker": {
         "id": 204528,
         "name": "Adriana Ventura",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "adriana-ventura"
       }
     },
     {
@@ -80,7 +86,8 @@
       "summary": " Apresentador introduz diretora Autoridade Nacional de Proteção Dados, Miriam Wimmer, doutora em políticas de comunicação e cultura, mestre em direito público, graduada em direito, certificada em proteção de dados pessoais, ocupou cargos de direção em Ministérios das Comunicações e Ciência, Tecnologia, coordenou elaboração da estratégia brasileira para transformação digital.",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -90,7 +97,8 @@
       "transcription": "",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -100,7 +108,8 @@
       "transcription": "",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -110,7 +119,8 @@
       "transcription": "",
       "speaker": {
         "name": "Janice Silveira",
-        "position": "Diretora da Biblioteca da Câmara dos Deputados"
+        "position": "Diretora da Biblioteca da Câmara dos Deputados",
+        "slug": "janice-silveira"
       }
     },
     {
@@ -121,7 +131,8 @@
       "summary": " Apresentador agradece a presença dos participantes, anuncia a integração de três novos integrantes para os debates e agradece ao corpo técnico da Secretaria de Transparência pela organização do terceiro ciclo de debate sobre transparência pública na Câmara dos Deputados.",
       "speaker": {
         "name": "William França",
-        "position": "Apresentador"
+        "position": "Apresentador",
+        "slug": "william-franca"
       }
     },
     {
@@ -132,7 +143,8 @@
       "summary": " Iniciou-se discussão sobre lei de acesso à informação, considerado direito humano, trazendo poder e empoderando cidadão; tema relevante há décadas, atualmente 120 países têm leis similares; LAE no Brasil tem 13 anos, mas ainda enfrenta desafios, especialmente em municípios; resistências à transparência existem, mesmo que publicamente todos a apoiem, exemplificado pela reforma tributária; sociedade civil organizada crucial para aprovação da lei.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -144,7 +156,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -155,7 +168,8 @@
       "summary": " Implementação lei transparência difícil em municípios; convida perguntas por Youtube ou WhatsApp; mediadora pergunta sobre dificuldades na aplicação da lei em todo o território nacional para Miriam, diretora da Agência Nacional de Proteção de Dados.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -165,7 +179,8 @@
       "transcription": "",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -175,7 +190,8 @@
       "transcription": "Obrigado, deputado Reginaldo Lopes. Desejo sucesso nessa tramitação, agora o senhor vai se envolver com a reforma tributária novamente, e coloque esse assunto da transparência embutido no nessas discussões da regulamentação. Agora, nossa próxima convidada para essa mesa de abertura é a deputada Adriana Ventura. Representa São Paulo pelo Novo, está em seu segundo mandato, formada em administração pública empreendedora, mestre e doutora pela Fundação Getúlio Vargas, onde é professora lá há mais de quinze anos. Estudou na Escola Superior de Ciências Econômicas em Paris, sua tese de doutorado foi sobre ética e integridade. Aqui na casa, atualmente, compõe as comissões de educação, comissão de saúde e a comissão de administração e serviço público. Deputada Cejan, bemvindo à palavra é sua.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -186,7 +202,8 @@
       "summary": " Servidor público dado pessoal, interesse público em conhecer; STF permite divulgação em transparência; ANPD também manifesta postura em casos específicos, como beneficiários de políticas públicas.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -196,7 +213,8 @@
       "transcription": "",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -207,7 +225,8 @@
       "summary": " ANPD permite publicar nomes caminhoneiros beneficiários e destaca importância de política pública e interesse social na publicidade de dados. ANPD esclarece que anonimato não é obrigatório para publicidade de dados pessoais, mas sim uma avaliação de riscos, podendo dados identificados ser divulgados com benefício social proporcional. INEP retirou bases microdados senso escolar por risco de reidentificação, mas LGPD não impõe sigilo, mas sim avaliação de riscos.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -217,7 +236,8 @@
       "transcription": "Veja, pode divulgar o nome mas não pode divulgar o CPF e o endereço.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -227,7 +247,8 @@
       "transcription": "Pode divulgar sim. Pode também?",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -237,7 +258,8 @@
       "transcription": "Já não podia, não podia juntar. Veja, existem práticas",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -248,7 +270,8 @@
       "summary": " Diretora da ANPD: para reduzir riscos, alguns dados pessoais como parte do CPF podem ser revelados no Portal de Transparência para vincular agentes públicos a atos praticados, enquanto endereço pessoal deve ser ocultado. É importante encontrar equilibrio entre transparência e proteção de dados pessoais para promover controle social e participação popular.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -259,7 +282,8 @@
       "summary": " Mediadora incentiva perguntas e participação através do YouTube e WhatsApp; próximo convidado é deputado federal, advogado, jornalista, e autor de livros sobre direito; mediadora pede avaliação do convidado sobre melhorias necessárias na lei de acesso à informação, especialmente em relação à divulgação e conscientização da sociedade.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -270,7 +294,8 @@
       "summary": " Deputado Federal discute importância de privacidade e proteção de dados pessoais, comparando-os ao \"petróleo do século 21\". Menciona direito à privacidade de morada e consumo, uso abusivo de filiação partidária em política e necessidade de acordos sobre divulgação de informações pessoais, previstos na PEC 115/2019. Salienta desafios na Câmara com falta de agenda ou pareceres a tempo para votar.",
       "speaker": {
         "name": "Prf. Paulo Fernando",
-        "position": "Deputado Ferderal"
+        "position": "Deputado Ferderal",
+        "slug": "prf-paulo-fernando"
       }
     },
     {
@@ -281,7 +306,8 @@
       "summary": " Mediadora convida André, professor de curso sobre LGPD no Congresso Nacional, advogado e arquivista, seu curso específico abre ao público.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -292,7 +318,8 @@
       "summary": " Analista Legislativo ressalta importância de implementar leis de acesso à informação e proteção de dados, especialmente em municípios, pois muitos ainda carecem de infraestrutura adequada e arquivos públicos. Transparência melhora gestão de recursos públicos e cidadania, exemplificado em países africanos.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -303,7 +330,8 @@
       "summary": " Mediadora questioning if available tools for citizens to access desired information are sufficient, considering the objective of making it known during this debate cycle. She welcomes discussion and input from livestream chat on YouTube channel.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -314,7 +342,8 @@
       "summary": " Deputado Federal discute importância da Lei de Acesso à Informação para cidadania ativa, mas cita desafios na sua interpretação e a tensão entre interesse coletivo e privado. Apoia mudança de \"interesse público\" para \"interesse coletivo\" na legislação. Recomenda livro do Prof. Marçal Aguiar sobre o assunto. Ainda fala sobre satisfação ao ver a aplicação da lei em prática.",
       "speaker": {
         "name": "Prf. Paulo Fernando",
-        "position": "Deputado Ferderal"
+        "position": "Deputado Ferderal",
+        "slug": "prf-paulo-fernando"
       }
     },
     {
@@ -326,7 +355,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -337,7 +367,8 @@
       "summary": " Mediadora destaca importância de educação política; pessoas carecem de conhecimentos básicos sobre governo e dificuldades em utilizar dados disponíveis.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -349,7 +380,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -360,7 +392,8 @@
       "summary": " Diretora da ANPD enfatizou a transformação de cultura e processos em órgãos públicos desde a Lei de Acesso à Informação (LAE), com ênfase na transparência ativa e passiva. Destacou mecanismos como Fala BR, links para dados abertos e recursos à negativas de acesso a informação, tanto internos quanto na CGU.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -372,7 +405,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -383,7 +417,8 @@
       "summary": " Analista Legislativo sobre transparência e proteção de dados pessoais: é crucial revelar como administradores públicos e empresas tratam dados, especialmente dados sensíveis da LGPD; LAE e LGPD exigem fácil compreensão e transparência nos tratamentos de dados; cidadãos têm direito a pedir informações à administração pública, com respostas em 20 dias, podendo ser prorrogados por mais 10.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -393,7 +428,8 @@
       "transcription": "Ela tem que ser bem justificada, né? Pra quem está assistindo.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -404,7 +440,8 @@
       "summary": " Analista Legislativo: Transparência fundamental, exemplo com Petrobras e LGPD. Parlamentar tem direito de investigar, LGPD permite divulgação de dados com necessidade de investigação. Dereito de requisitar informações sobre tratamento de dados no setor público e privado, com prazo de 15 dias para resposta.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -415,7 +452,8 @@
       "summary": " Mediadora registra e lê perguntas sobre polêmica paga servidor, questiona necessidade de identificação anterior e atual falta de transparência em ambos os sentidos. Clarice de Freitas Lima também questiona razão da mudança.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -426,7 +464,8 @@
       "summary": " O Deputado Federal abordou a importância da privacidade individual, citando exemplos como o uso inadequado de dados de planos de saúde e perguntas invasivas sobre filiação religiosa. Ele destaca que, apesar da necessidade de transparência em alguns casos, como o salário de servidores, é crucial respeitar a privacidade das pessoas e evitar o uso indevido de informações pessoais.",
       "speaker": {
         "name": "Prf. Paulo Fernando",
-        "position": "Deputado Ferderal"
+        "position": "Deputado Ferderal",
+        "slug": "prf-paulo-fernando"
       }
     },
     {
@@ -437,7 +476,8 @@
       "summary": " Mediadora recebeu perguntas de três pessoas sobre regras gerais e as passará aos convidados. Agradecimento a todos que enviaram perguntas.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -448,7 +488,8 @@
       "summary": " Servidores públicos e beneficiários de políticas sociais têm relação diferenciada com o Estado, justificando maior escrutínio público e mitigação de direitos à intimidade. Compartilhamento indevido de dados de cidadãos comuns por empresas é distinto, sendo abordado pela LGPD com foco em proteção de dados e consentimento individual.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -459,7 +500,8 @@
       "summary": " Pesquisa dados sensíveis rastreável: mediadora confirmou questão e enfatizou importância de saber quem acessa informações.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -470,7 +512,8 @@
       "summary": " Analista Legislativo afirma que, de acordo com a Lei Prevent, não é necessária identificação do demandante para obter informações desnecessárias. O rastreamento de dados sensíveis requer registro de tratamento deles, para localizar vazamentos e responsabilizar entidades que os vazaram, de acordo com a LGPD e sua resolução de proteção de dados, mantendo uma \"trilha de auditoria\" verificável.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -481,7 +524,8 @@
       "summary": " Diferenciar ambiente seguro/inseguro para fornecimento dados pessoais: exemplo, denúncia para empresa transporte público. Características que sinalizam segurança ainda não citadas. Mediadora está solicitando respostas sobre o assunto.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -492,7 +536,8 @@
       "summary": " Diretora da ANPD sobre acesso à informação: protege identidade, facilita circulação. Padrões para entidades públicas e obrigações de servidores. Privadas necessitam de termos de uso e políticas claras. LGPD requer hipótese legal para tratamento de dados. Lei 23 exige confiança na sharing de dados pessoais.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -503,7 +548,8 @@
       "summary": " Reclamar pode exigir preencher cadastro com termos de uso, às vezes longos e pouco lidos, gerando insegurança.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -514,7 +560,8 @@
       "summary": " Diretora da ANPD afirmou duplo desafio na efetividade de proteção de dados: primeiro, organizações devem comunicar de forma simples sua política de uso de dados; segundo, existem obrigações legais que agentes de tratamento devem respeitar, como o princípio da finalidade, que proíbe o uso de dado para finalidade incompatível com a coleta inicial.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -525,7 +572,8 @@
       "summary": " Mediadora questiona: por que gov'tos não investem mais em divulgação Lei Acesso à Info e educação pública para usar lei?",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -537,7 +585,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -548,7 +597,8 @@
       "summary": " Deputado Federal pesquisou sobre ex-deputado em biblioteca, cadastro e arquivos pessoais, obtendo informações através de autorizações familiares e de instituições como escolas e igreja, enfatizando dificuldades de acesso a informação e interpretação constitucional em questões culturais.",
       "speaker": {
         "name": "Prf. Paulo Fernando",
-        "position": "Deputado Ferderal"
+        "position": "Deputado Ferderal",
+        "slug": "prf-paulo-fernando"
       }
     },
     {
@@ -559,7 +609,8 @@
       "summary": " Cidadãos utilizam like como instrumento de privacidade, necessário aperfeiçoamento e aculturamento na proteção de dados e transparência.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -570,7 +621,8 @@
       "summary": " Falta de ensino sobre como utilizar mecanismos oferecidos pela Lei de Acesso à Informação e LGPD à população.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -581,7 +633,8 @@
       "summary": " Analista Legislativo sobre LGPD: baixa adesão a custos proteção dados, interesse público geral preponderante sobre informações pessoais, dado sensível é afiliação partidária ou entendimento ideológico do cidadão, ANPD precisa maior corpo para fiscalização, educação e conscientização sobre proteção de dados prioritárias, PGR criou programa \"escola cidadã\" para estudantes secundaristas conhecerem papel do Ministério Público.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -593,7 +646,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -604,7 +658,8 @@
       "summary": " Mediadora salienta importância de abordar classificação de informações e cuidado com arquivos em municípios, aludindo a questões finais e próximos desafios da lei de acesso à informação. Tempo confinado e comentários do chat do Youtube serão tratados posteriormente.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -615,7 +670,8 @@
       "summary": " Diretora da ANPD destaca importância de construir cultura em torno da LGPD e LAE, comparando-as à infância do CDC. Ela refere ansiedade sobre eficácia da legislação, mas espera que pessoas conheçam seus direitos com essas leis no futuro, como ocorre hoje com o CDC. Ela também agradece referência às publicações da ANPD e menciona cooperação com a CGU para harmonizar interpretação das leis complementares.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -626,7 +682,8 @@
       "summary": " Mediadora sugeriu recorrer à CGU ou NPD para dúvidas sobre padronização. NPD é uma autoridade.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -637,7 +694,8 @@
       "summary": " A Diretora da ANPD disse que a LGPD tem abrangência nacional, se aplica a estados e municípios, e eles desempenham papel de fiscalização. Existem canais no site da ANPD para denúncias e reclamações, que ajudam a priorizar sua atuação. Ela also mentioned the CGU's channels and the importance of the enunciate twelve from 2023, which deals with personal information. Finally, she expressed optimism about the evolution and progress of data protection in Brazil.",
       "speaker": {
         "name": "Miriam Wimmer",
-        "position": "Diretora da ANPD"
+        "position": "Diretora da ANPD",
+        "slug": "miriam-wimmer"
       }
     },
     {
@@ -649,7 +707,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -660,7 +719,8 @@
       "summary": " Deputado Federal mencionou importância da complementariedade entre lei de acesso à formação e lei geral de proteção de dados, desafio às pessoas no parlamento para promover plenamente os cidadãos.",
       "speaker": {
         "name": "Prf. Paulo Fernando",
-        "position": "Deputado Ferderal"
+        "position": "Deputado Ferderal",
+        "slug": "prf-paulo-fernando"
       }
     },
     {
@@ -670,7 +730,8 @@
       "transcription": "André? Considerações finais. Primeiro agradecer ao ao Paulo, ao deputado Bruno",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     },
     {
@@ -681,7 +742,8 @@
       "summary": " Analista Legislativo sobre proteção de dados: conciliação entre divulgação de informação e respeito à privacidade através de técnicas como anonimização e pseudonimização; regulamentação de proteção de dados em arquivos públicos pelo Conselho Nacional de Arquivos com ajuda da ANPD; classificar outras informações como de interesse público para avançar no debate.",
       "speaker": {
         "name": "André Freire da Silva",
-        "position": "Analista Legislativo"
+        "position": "Analista Legislativo",
+        "slug": "andre-freire-da-silva"
       }
     },
     {
@@ -692,7 +754,8 @@
       "summary": " Mediadora mencionou processo evolutivo do Brasil, boas leis, referência em transparência. Ela agradeceu a presença de convidados e espectadores, e falou sobre a importância de acessibilidade da linguagem na Câmara dos Deputados. Ela convidou público a acessar site da Câmara e TV Câmara, e entrar em contato pelo portal da transparência. Encerramento do terceiro ciclo de debates da secretaria de transparência.",
       "speaker": {
         "name": "Ginny Moraes",
-        "position": "Mediadora"
+        "position": "Mediadora",
+        "slug": "ginny-moraes"
       }
     }
   ],

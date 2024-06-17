@@ -14,7 +14,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -38,7 +40,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -48,7 +51,8 @@
       "transcription": "Bom,",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -59,7 +63,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -70,7 +75,8 @@
       "summary": " Eleito vice-presidente Jandira Fegali do PCdoB-RJ, segundo vice Tarcísio Mota-RJ; chapa única recebeu 9 votos, 1 em branco. Membros empossados, convidados a sentar-se. Obrigado pela confiança.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -80,7 +86,8 @@
       "transcription": "Passa por ação dos voto no",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Alfredinho -- por Participante -- Tarcísio Motta",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-alfredinho-por-participante-tarcisio-motta"
       }
     },
     {
@@ -91,7 +98,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -101,7 +109,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Tarcísio Motta -- por Participante -- Aliel Machado",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-tarcisio-motta-por-participante-aliel-machado"
       }
     },
     {
@@ -111,7 +120,8 @@
       "transcription": "",
       "speaker": {
         "name": "Início da Reunião Ordinária Deliberativa",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-reuniao-ordinaria-deliberativa"
       }
     },
     {
@@ -123,7 +133,8 @@
       "speaker": {
         "id": 178927,
         "name": "Aliel Machado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aliel-machado"
       }
     },
     {
@@ -133,7 +144,8 @@
       "transcription": "Sim. Pode começar aqui? Então primeiro, proponho",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Aliel Machado -- por Participante -- Marcelo Queiroz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-aliel-machado-por-participante-marcelo-queiroz"
       }
     },
     {
@@ -145,7 +157,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -155,7 +168,8 @@
       "transcription": "Item",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Lídice da Mata",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-lidice-da-mata"
       }
     },
     {
@@ -167,7 +181,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -179,7 +194,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -191,7 +207,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -203,7 +220,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -215,7 +233,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -226,7 +245,8 @@
       "summary": " Proposta de conceder a Cametá (PA) título de \"Capital Nacional do Peixe Mara\" através do projeto de lei 303/2023, de autoria do deputado Celso Sabino.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lídice da Mata -- por Participante -- Marcelo Queiroz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lidice-da-mata-por-participante-marcelo-queiroz"
       }
     },
     {
@@ -238,7 +258,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -250,7 +271,8 @@
       "speaker": {
         "id": 74084,
         "name": "Raimundo Santos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "raimundo-santos"
       }
     },
     {
@@ -262,7 +284,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -274,7 +297,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -286,7 +310,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -298,7 +323,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -310,7 +336,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -322,7 +349,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -334,7 +362,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -344,7 +373,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcelo Queiroz -- por Participante -- Douglas Viegas",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcelo-queiroz-por-participante-douglas-viegas"
       }
     },
     {
@@ -356,7 +386,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -368,7 +399,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -380,7 +412,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -392,7 +425,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -403,7 +437,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -415,7 +450,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -427,7 +463,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -439,7 +476,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -451,7 +489,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -463,7 +502,8 @@
       "speaker": {
         "id": 220539,
         "name": "Defensor Stélio Dener",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "defensor-stelio-dener"
       }
     },
     {
@@ -474,7 +514,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -486,7 +527,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -498,7 +540,8 @@
       "speaker": {
         "id": 227433,
         "name": "Douglas Viegas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "douglas-viegas"
       }
     },
     {
@@ -509,7 +552,8 @@
       "summary": " Proposta em votação: Lei 2.293/2022 do senhor José, agora sob consideração.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Douglas Viegas -- por Participante -- Marcelo Queiroz",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-douglas-viegas-por-participante-marcelo-queiroz"
       }
     },
     {
@@ -520,7 +564,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -532,7 +577,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -544,7 +590,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -556,7 +603,8 @@
       "speaker": {
         "id": 160575,
         "name": "Erika Kokay",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "erika-kokay"
       }
     },
     {
@@ -568,7 +616,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     }
   ],

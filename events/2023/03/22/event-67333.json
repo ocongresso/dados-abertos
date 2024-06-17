@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "E aí deputado Ismael, tudo bem? Tudo bom? Terceiro e o primeiro é o Maurício do vôlei de milho. Muito obrigado. Boa disposição obrigado. Mas americana tem uma festa maravilhosa. Poxa, que bacana. Obrigado, capitão Guto, muito obrigado. Muito obrigado. O, 0 Lind, depois da eleição como é que a gente procede? Como é que a gente procede aqui? Só confere. Podemos encerrar. Vem cá, 00TL enviou as quatro aí ou não? Hã? 0TL enviou as quatro, os quatro cereais? Não, segura, vamos ver mais eu acho que Isso aqui é. Tá, vou esperar aí, só vendeu. Então vamos lá? Encerrar? Então vamos lá, onde já está aí? Vamos iniciar? Pode iniciar? Vê se tem mais uma mensagem aqui, espera aí. Está encerrada a votação, passase a apuração dos votos no painel eletrônico. Com com treze votos, Eleito o primeiro vicepresidente, o deputado Maurício do vôlei do PL de Minas Gerais, com voto em branco, total 14 votos, E eleito para o cargo de terceiro vicepresidente, o deputado Bandeira de Melo do PSB do Rio de Janeiro com treze votos, voto em branco, Totalizando quatorze votos, parabéns ao primeiro e ao terceiro vicepresidente da comissão de esporte. Gostaria de convidar o deputado Bandeira de Melo do PSB, do Rio de Janeiro. A comparecer aqui à mesa.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "summary": "Elefção de Dep. Bandeira de Melo congratulated; Aniversário do Dep. Renildo acknowledged.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 220605,
         "name": "Bandeira de Mello",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bandeira-de-mello"
       }
     },
     {
@@ -63,7 +67,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -75,7 +80,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 73801,
         "name": "Renildo Calheiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "renildo-calheiros"
       }
     },
     {
@@ -111,7 +119,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     }
   ],

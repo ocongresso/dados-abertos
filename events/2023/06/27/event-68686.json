@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Gotaremos em globo o requerimento de",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Aureo Ribeiro -- por Participante -- Lafayette de Andrada",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-aureo-ribeiro-por-participante-lafayette-de-andrada"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -50,7 +53,8 @@
       "transcription": "Agradeço o deputado Nafetti Andrade, e",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Lafayette de Andrada -- por Participante -- Aureo Ribeiro",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-lafayette-de-andrada-por-participante-aureo-ribeiro"
       }
     },
     {
@@ -62,7 +66,8 @@
       "speaker": {
         "id": 160512,
         "name": "Aureo Ribeiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "aureo-ribeiro"
       }
     }
   ],

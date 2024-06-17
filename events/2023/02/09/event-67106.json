@@ -13,7 +13,8 @@
       "summary": "Mestre de Cerimônia anuncia o encontro de indústria de defesa da Câmara dos Deputados, convida deputados para composição da mesa e propõe imposição de respeito com hino nacional.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -23,7 +24,8 @@
       "transcription": "Convido",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -33,7 +35,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -44,7 +47,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -55,7 +59,8 @@
       "summary": "Grávida assaltada em carro, ajenta ladrão com arma; Câmara captura assalto em loja de animais, vítima baleada e morta; Suspeito preso, é menor de 17 anos e ostenta armas em redes sociais.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -66,7 +71,8 @@
       "summary": "Desarmamento favorable ao criminoso; Conectado a tráfico de drogas e encarceramento; Aumento de crime durante governos anteriores, queda durante governo Bolsonaro; Propostas para impedir desarmamento genocida de Lula e Dino; Importância de pressionar parlamentares.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -76,7 +82,8 @@
       "transcription": "",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -88,7 +95,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -99,7 +107,8 @@
       "summary": "Mestre de Cerimônia anunciou deputados federais: Sargento Gonçalves do PL do Rio Grande do Norte, Maurício do vôlei do PL de Minas Gerais e convidou deputada federal Júlia Zanatta à tribuna.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -110,7 +119,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -121,7 +131,8 @@
       "summary": "Cidadão armado garante liberdade e segurança; desarmamento é controle social. Autodefesa acima de leis humanas. Tiro e comércio de armas leгаis reduziram criminalidade. Necessário estar armado diante de sociedade agressiva; não se pode permitir ser oprimido. Importância de saúde e educação em uma sociedade livre. Poder vem da propriedade privada, amenaza do comunismo.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -132,7 +143,8 @@
       "summary": "A oradora agradece por sua eleição e enfatiza a importância de defender a indústria de defesa e os empregos relacionados. Ela critica um decreto do governo atual que desrespeita o Estatuto do Desarmamento e pede o recadastramento de armas já cadastradas, classificando-o como ilegal. Ela incentiva os deputados a defenderem a independência do Poder Legislativo e à sobrevivência dos empregos relacionados à indústria de defesa, fazendo um pedido de requerimento de urgência no Parlamento.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -143,7 +155,8 @@
       "summary": "Mestre de Ceremônia apresenta deputados:",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -155,7 +168,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -165,7 +179,8 @@
       "transcription": "",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -176,7 +191,8 @@
       "summary": "Deputado agradece oportunidade, elogia equipe contra \"absurdos\" de vingança e poder. Seu irmão é delegado, outros parentes trabalham na polícia. Conta história de amigo assassinado. Falou sobre contrabando de armas e hipocrisia de alguns deputados que pedem segurança mas vão desarmados. Pediu apoio para questionar eficácia de parlamentares e elogiou exemplo de outro deputado. Promete trabalhar incansavelmente. Parabéns e obrigado.",
       "speaker": {
         "name": "Tenente Coronel Zucco",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tenente-coronel-zucco"
       }
     },
     {
@@ -186,7 +202,8 @@
       "transcription": "A tribuna o deputado presente. Bem eu gostaria de começar cumprimentando os três",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -197,7 +214,8 @@
       "summary": "Deputado refere-se a colegas que lutam por liberdade e combaterem arcabouço legal retrógrado; governo prometeu vingança contra o empreendedorismo e produção durante campanha; guerra é informação e estratégia, resultados estão nos bastidores; deputado aprende de experientes e é soldado na linha de frente; confiança mútua é essencial.",
       "speaker": {
         "name": "Rafael Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-pezenti"
       }
     },
     {
@@ -208,7 +226,8 @@
       "summary": "Mestre de Cerimônia informa sobre perguntas a Senhora Lucimar, pedido de três minutos por deputado para falar, ordem de chegada, e convida Capitão Alden a falar.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -220,7 +239,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -230,7 +250,8 @@
       "transcription": "Convidamos agora o delegado Paulo Belinski. Senhoras e senhores bom dia.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -241,7 +262,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -252,7 +274,8 @@
       "summary": "Mestre de Cerimônia anunciou chegada de múltiplas perguntas, selecioná-las-ão após discurso dos deputados, convidou deputado sargento Gonçalves. Boa tarde a todos. (palavras podem variar levemente dependendo da tradução)",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -264,7 +287,8 @@
       "speaker": {
         "id": 220621,
         "name": "Sargento Gonçalves",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-goncalves"
       }
     },
     {
@@ -275,7 +299,8 @@
       "summary": "Mestre de Cerimônia relata história de assalto a grávida e loja; um ladrão, menor de idade, preso; vítima baleada e morta em creche.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -287,7 +312,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -298,7 +324,8 @@
       "summary": "Mestre de Ceremônia anunciou deputados:",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -310,7 +337,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -320,7 +348,8 @@
       "transcription": "",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -332,7 +361,8 @@
       "speaker": {
         "id": 204387,
         "name": "Sargento Fahur",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sargento-fahur"
       }
     },
     {
@@ -343,7 +373,8 @@
       "summary": "Mestre de Cerimônia convida deputado federal Abílio Brunini e deputado estadual Cláudio Ferreira, sauda a todos e deseja boa madrugada.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -355,7 +386,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -366,7 +398,8 @@
       "summary": "Deputado estadual, pai de família, defensor de direitos humanos fundamentais (liberdade, propriedade, vida), apoiante do direito de possuir armas para proteger a vida e a propriedade, abraçando o povo de Mato Grosso.",
       "speaker": {
         "name": "Cláudio Ferreira",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "claudio-ferreira"
       }
     },
     {
@@ -377,7 +410,8 @@
       "summary": "Mestre de Cerimônia anuncia presença de vereador Roberto de Gramado e Rio Grande do Sul, e convida delegado Tito à tribuna.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -388,7 +422,8 @@
       "summary": "Deputado Estadual afirma falta de armas legais em crimes cometidos por pessoas honestas; destaca importância do direito ao porte de arma de fogo para cidadãos honrados e legítima defesa. Menciona a existência de mais de 230 clubes de tiro e 450 lojas de armas em Curitiba, com 10 mil empregos diretos. Argumenta contra hipocrisia de associar crimes a cidadãos honestos armados e se opõe ao governo PT por supostamente tirar direitos de possuir armas legítimas.",
       "speaker": {
         "name": "Delegado Tito",
-        "position": "Deputado Estadual"
+        "position": "Deputado Estadual",
+        "slug": "delegado-tito"
       }
     },
     {
@@ -399,7 +434,8 @@
       "summary": "Mestre de Cerimônia apresenta jogador de vôlei e refere-se a como ele ergue um troféu na cerimônia.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -411,7 +447,8 @@
       "speaker": {
         "id": 220628,
         "name": "Mauricio do Vôlei",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-do-volei"
       }
     },
     {
@@ -422,7 +459,8 @@
       "summary": "Mestre de Cerimônia anuncia início de perguntas, deputados prontos, primeira pergunta para deputado Polum sobre ações curtos prazo da bancada.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -434,7 +472,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -446,7 +485,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -457,7 +497,8 @@
       "summary": "Mestre de Cerimônia: partidos não entrarão com ações legais contra atos ilegais, responsabilidade do STJ; deu palavra a Caki Vladimir.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -469,7 +510,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -481,7 +523,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -493,7 +536,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -504,7 +548,8 @@
       "summary": "Mestre de Cerimônia anunciou que o exército suspenso compra de insumos de clubes de tiro, causando previsão de fechamento iminente para esses clubes. Discutido como fazer DFPC cumprir obrigações mínimas antes do \"revogaço\".",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -516,7 +561,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -528,7 +574,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -539,7 +586,8 @@
       "summary": "Mestre de Cerimônia se perguntou sobre a possibilidade de um novo referendo para alterar lei ou constituição, caso os meios legislativos se esgotassem.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -551,7 +599,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -562,7 +611,8 @@
       "summary": "Mestre de Cerimônia: Próximo projeto quase concluído, investimento de R$ 6 milhões aprovado pelo exército, ainda aguardando autorização final da CR.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -574,7 +624,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -586,7 +637,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -597,7 +649,8 @@
       "summary": "Mestre de Cerimônia anunciou presença de deputados Gustavo Geyer e Cabo Gilberto, informou que vídeo está pronto e perguntou sobre expectativa para ministro Flávio Dino.",
       "speaker": {
         "name": "Alexandre",
-        "position": "Mestre de Cerimônia"
+        "position": "Mestre de Cerimônia",
+        "slug": "alexandre"
       }
     },
     {
@@ -609,7 +662,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -620,7 +674,8 @@
       "summary": "Participante defendeu pauta armamentista, critica PT por não respeitá-la e incentiva união de parlamentares e apoiadores do Clube de Tiro. Exorta para pressionar políticos, afirmando que maioria brasileira apoia posse de armas.",
       "speaker": {
         "name": "Cabo Gilberto",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "cabo-gilberto"
       }
     },
     {
@@ -632,7 +687,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -643,7 +699,8 @@
       "summary": "Deputado fala sobre trabalhar por Brasil, apesar do início cedo e durando até depois do meio-dia. Agradece a paciência e persistência da audiência.",
       "speaker": {
         "name": "Rafael Pezenti",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-pezenti"
       }
     },
     {
@@ -655,7 +712,8 @@
       "speaker": {
         "id": 220559,
         "name": "Julia Zanatta",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "julia-zanatta"
       }
     },
     {
@@ -667,7 +725,8 @@
       "speaker": {
         "id": 204416,
         "name": "Sanderson",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sanderson"
       }
     },
     {
@@ -679,7 +738,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -691,7 +751,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     }
   ],

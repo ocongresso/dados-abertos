@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Quem preside ganha a senha mas. Olha, bom",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Paulo Guedes -- por Participante -- Vermelho",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-paulo-guedes-por-participante-vermelho"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -52,7 +55,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204396,
         "name": "Vermelho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vermelho"
       }
     },
     {
@@ -74,7 +79,8 @@
       "transcription": "Item dois da pauta,",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Vermelho -- por Participante -- Paulo Guedes",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-vermelho-por-participante-paulo-guedes"
       }
     },
     {
@@ -86,7 +92,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     },
     {
@@ -98,7 +105,8 @@
       "speaker": {
         "id": 204526,
         "name": "Luiz Philippe de Orleans e Bragança",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-philippe-de-orleans-e-braganca"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204492,
         "name": "Paulo Guedes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-guedes"
       }
     }
   ],

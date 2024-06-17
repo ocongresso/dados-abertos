@@ -18,7 +18,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Alguém da assessoria do deputado Fábio",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -51,7 +54,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -61,7 +65,8 @@
       "transcription": "",
       "speaker": {
         "name": "Reunião suspensa",
-        "position": ""
+        "position": "",
+        "slug": "reuniao-suspensa"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "-PAUSA-",
-        "position": ""
+        "position": "",
+        "slug": "pausa"
       }
     },
     {
@@ -81,7 +87,8 @@
       "transcription": "Pessoal que está aqui é de qual?",
       "speaker": {
         "name": "Reinício da reunião",
-        "position": ""
+        "position": "",
+        "slug": "reinicio-da-reuniao"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -103,7 +111,8 @@
       "transcription": "Bom dia.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- João Daniel -- por Participante -- Fabio Garcia",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-joao-daniel-por-participante-fabio-garcia"
       }
     },
     {
@@ -115,7 +124,8 @@
       "speaker": {
         "id": 178905,
         "name": "Fabio Garcia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fabio-garcia"
       }
     }
   ],

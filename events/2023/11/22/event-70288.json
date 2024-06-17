@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Mais a segunda",
       "speaker": {
         "name": "Célia Porto",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "celia-porto"
       }
     },
     {
@@ -39,7 +41,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -49,7 +52,8 @@
       "transcription": "Muito obrigado aqui por toda todo",
       "speaker": {
         "name": "Célia Porto",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "celia-porto"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": "Comemora-se aniversário comissão cultural, priorizando discussões e políticas culturais para emancipação e cidadania brasileira. Diálogo, democracia e colaboração com setores culturais, promovendo transformação social, direitos civis, ofício, economia e criatividade popular, além de descentralizar recursos.",
       "speaker": {
         "name": "JANDIRA FEGHALI",
-        "position": "Deputada Federal"
+        "position": "Deputada Federal",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -95,7 +102,8 @@
       "summary": "Deputada Federal: Construção da comissão resultado de esforços conjuntos, agradece Nádia e equipe por contribuição e sustentação do processo, também homenageia Lúcia e toda a equipe da comissão. Menciona prazo.",
       "speaker": {
         "name": "JANDIRA FEGHALI",
-        "position": "Deputada Federal"
+        "position": "Deputada Federal",
+        "slug": "jandira-feghali"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -118,7 +127,8 @@
       "summary": "Deputada Federal: manteve tradição de comissão, parabenizou ex-presidentes, agradeceu colaboradores e ministra. Comemorou 10 anos do espaço, lamentou dificuldades sofridas pelo Ministério da Cultura, mas celebrou seu renascimento atual. Destacou união necessária para reconstrução e inclusão de servidores. Prometeu continuação da resistência e contribuição para a cultura brasileira.",
       "speaker": {
         "name": "ALICE PORTUGAL",
-        "position": "Deputada Federal"
+        "position": "Deputada Federal",
+        "slug": "alice-portugal"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -141,7 +152,8 @@
       "summary": "Ex-Presidente Comissão de Cultura - 2",
       "speaker": {
         "name": "CHICO D ANGELO",
-        "position": "Ex-Presidente Comissão de Cultura - 2016"
+        "position": "Ex-Presidente Comissão de Cultura - 2016",
+        "slug": "chico-d-angelo"
       }
     },
     {
@@ -153,7 +165,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -164,7 +177,8 @@
       "summary": "Deputado Federal: Honra presidir Comissão de Cultura; Cultura é conhecimento, rico e honrado; Conhecimento transforma nação; Agradecido por placa de 10 anos; Parabéns a colegas; Salve para comissão; Obrigado.",
       "speaker": {
         "name": "FÉLIX MENDONÇA JÚNIOR",
-        "position": "Deputado Federal"
+        "position": "Deputado Federal",
+        "slug": "felix-mendonca-junior"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Ex-Presidente Comissão de Cultura - 2",
       "speaker": {
         "name": "RAQUEL MUNIZ",
-        "position": "Ex-Presidente Comissão de Cultura - 2018"
+        "position": "Ex-Presidente Comissão de Cultura - 2018",
+        "slug": "raquel-muniz"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Deputada Federal fala sobre importância da Comissão de Cultura, crítica fechamento do Ministério e discriminação sofrida. Elogia ministra e membros da comissão, menciona batalha pela Lei Aldiblanc e reconhecimento da cultura racial, indígena e afro-brasileira. Celebra retorno do Ministério da Cultura e nomeação de ministra negra como símbolo de inclusão.",
       "speaker": {
         "name": "BENEDITA DA SILVA",
-        "position": "Deputada Federal"
+        "position": "Deputada Federal",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -221,7 +239,8 @@
       "speaker": {
         "id": 139285,
         "name": "Lídice da Mata",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "lidice-da-mata"
       }
     },
     {
@@ -231,7 +250,8 @@
       "transcription": "Gente, se puder, só pedir pra todo",
       "speaker": {
         "name": "Célia Porto",
-        "position": "Cantora"
+        "position": "Cantora",
+        "slug": "celia-porto"
       }
     },
     {
@@ -243,7 +263,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -255,7 +276,8 @@
       "speaker": {
         "id": 220646,
         "name": "Felipe Becari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "felipe-becari"
       }
     },
     {
@@ -267,7 +289,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     },
     {
@@ -278,7 +301,8 @@
       "summary": "Ministra da Cultura agradece convidado, celebra comissão cultura, menciona ex-presidentes e profissionais presentes, destaca importância da cultura, pautas prioritárias e valor do Congresso. Saúda novos participantes e canta música em homenagem.",
       "speaker": {
         "name": "Margareth Menezes",
-        "position": "Ministra da Cultura"
+        "position": "Ministra da Cultura",
+        "slug": "margareth-menezes"
       }
     },
     {
@@ -290,7 +314,8 @@
       "speaker": {
         "id": 160161,
         "name": "Marcelo Queiroz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcelo-queiroz"
       }
     }
   ],

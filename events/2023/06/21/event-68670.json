@@ -18,7 +18,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -29,7 +30,8 @@
       "summary": "Participante saúda e cumprimenta colegas; menciona sua expectativa e preocupação com o processo de retomada da indústria de saúde no Brasil.",
       "speaker": {
         "name": "FERNANDO SILVEIRA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fernando-silveira"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -52,7 +55,8 @@
       "summary": "Presidente SINDUSFARMA propôs política de estado para o complexo industrial de saúde, enfatizando sua necessidade para o funcionamento efetivo de programas existentes, como SUS, PNI, farmácia popular e AIDS.",
       "speaker": {
         "name": "NELSON MUSSOLINI",
-        "position": "Presidente SINDUSFARMA"
+        "position": "Presidente SINDUSFARMA",
+        "slug": "nelson-mussolini"
       }
     },
     {
@@ -64,7 +68,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -75,7 +80,8 @@
       "summary": "EMBRAPII promotes industrial innovation for Brazilian industries, with a focus on the healthcare sector in the past decade. They have supported over 250 healthcare projects, including cancer, cardiology, and technology integration for combating diseases. EMBRAPII is open for further collaboration and discussion.",
       "speaker": {
         "name": "CARLOS EDUARDO",
-        "position": "EMBRAPII"
+        "position": "EMBRAPII",
+        "slug": "carlos-eduardo"
       }
     },
     {
@@ -87,7 +93,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -98,7 +105,8 @@
       "summary": "Presidente da Agência Brasileira de Desenvolvimento Industrial fala sobre importância de políticas de desenvolvimento produtivo, destacando o papel da tecnologia e da sustentabilidade no sistema de saúde. Menciona a prontidão da ABDI em contribuir no debate e implementação dessas políticas, fortalecendo o complexo industrial no país e intercâmbio exterior.",
       "speaker": {
         "name": "IGOR CAVET",
-        "position": "Presidente - Agência Brasileira de Desenvolvimento Industrial"
+        "position": "Presidente - Agência Brasileira de Desenvolvimento Industrial",
+        "slug": "igor-cavet"
       }
     },
     {
@@ -110,7 +118,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -121,7 +130,8 @@
       "summary": "Ministério da Saúde criou Complexo Industrial da Saúde para fortalecer produção nacional e logística em saúde, incorporando tecnologias avançadas e abordando desafios como pandemia, mudanças climáticas e envelhecimento population.",
       "speaker": {
         "name": "MARCELO RAMOS",
-        "position": "Ministério da Saúde"
+        "position": "Ministério da Saúde",
+        "slug": "marcelo-ramos"
       }
     },
     {
@@ -133,7 +143,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -144,7 +155,8 @@
       "summary": "Presidente da Agência Brasileira de Desenvolvimento Industrial abordou complexidade do desenvolvimento industrial no setor saúde, destacando queda na participação da indústria no PIB, crescimento menor em produtividade do que outros países, necessidade de demanda, financiamento e pesquisa em desenvolvimento, além de desafios regulatorios e governança.",
       "speaker": {
         "name": "IGOR CAVET",
-        "position": "Presidente - Agência Brasileira de Desenvolvimento Industrial"
+        "position": "Presidente - Agência Brasileira de Desenvolvimento Industrial",
+        "slug": "igor-cavet"
       }
     },
     {
@@ -156,7 +168,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -167,7 +180,8 @@
       "summary": "Presidente SINDUSFARMA destacou importância de segurança jurídica e patentes na indústria farmacêutica. Necessário melhorar estudos clínicos, registros patenteários e agilidade no escritório de patente no Brasil. Also, fortalecer Anvisa, desenvolver mercados internacionais e transformar decretos em leis para base sólida de medicamentos genéricos.",
       "speaker": {
         "name": "NELSON MUSSOLINI",
-        "position": "Presidente SINDUSFARMA"
+        "position": "Presidente SINDUSFARMA",
+        "slug": "nelson-mussolini"
       }
     },
     {
@@ -179,7 +193,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -191,7 +206,8 @@
       "speaker": {
         "id": 160518,
         "name": "Weliton Prado",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "weliton-prado"
       }
     },
     {
@@ -202,7 +218,8 @@
       "summary": "Embrapii ressalta importância de diálogo, orquestração e investimentos em saúde e inovação para avançar em questões industriais complexas, destacando a necessidade de aproximação entre academia, governo e empresas, além de paciente investimento em longo prazo e foco em prevenção e tecnologia para promover saúde e melhorar qualidade de vida.",
       "speaker": {
         "name": "CARLOS EDUARDO",
-        "position": "EMBRAPII"
+        "position": "EMBRAPII",
+        "slug": "carlos-eduardo"
       }
     },
     {
@@ -214,7 +231,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -225,7 +243,8 @@
       "summary": "Participante discute geopolítica e investimentos em saúde tecnológica no Brasil, destacando a necessidade de políticas de Estado e segurança jurídica para atrair capital e inovação, visto o país não ser relevante no cenário global da saúde. Ele menciona o potencial do Brasil no desenvolvimento do setor, mas observa atraso tecnológico em comparação a outros países e a necessidade de politicas de longo prazo para formar talentos em áreas relevantes.",
       "speaker": {
         "name": "FERNANDO SILVEIRA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fernando-silveira"
       }
     },
     {
@@ -237,7 +256,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -248,7 +268,8 @@
       "summary": "Ministro da Saúde discute políticas de saúde e flexibilização do mercado no Brasil. Menciona importância de tecnologia e capacitação, apoio da sociedade e do Legislativo. Falou sobre novo plano de investimentos em saúde, especialmente em oncologia, e desenvolvimento de novas terapias. Planeja primeira reunião docomplexo de saúde em agosto.",
       "speaker": {
         "name": "MARCELO RAMOS",
-        "position": "Ministério da Saúde"
+        "position": "Ministério da Saúde",
+        "slug": "marcelo-ramos"
       }
     },
     {
@@ -260,7 +281,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -271,7 +293,8 @@
       "summary": "Deputado fala sobre expansão de radioterapia, com equipamento planejado para chegar em Colatina, Espírito Santo, sendo de primeira geração e portadoras de câncer de colo e mama questionaram sobre aquisição de equipamento mais moderno e eficaz, com menores efeitos colaterais. A diferença financeira é de 1,5 milhão de réis.",
       "speaker": {
         "name": "Paulo Foletto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-foletto"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -294,7 +318,8 @@
       "summary": "Ministério da Saúde menciona programa de expansão com equipamentos de tecnologia, alguns já são de gerações posteriores à primeira. Programa de substituição de máquinas mais antigas em prioridade, especialmente aquelas com radioisótopos em hospitais como as Santas Casas. Oferece-se a obter mais informações sobre o assunto.",
       "speaker": {
         "name": "MARCELO RAMOS",
-        "position": "Ministério da Saúde"
+        "position": "Ministério da Saúde",
+        "slug": "marcelo-ramos"
       }
     },
     {
@@ -306,7 +331,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -317,7 +343,8 @@
       "summary": "Participante fala sobre descoberta de cobalto em Rondônia, custo de emenda, e elogia SUS e Doutor Marcelo; sugestiona acelerador com cobalto.",
       "speaker": {
         "name": "DARCÍSIO PAULO PERONDI",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "darcisio-paulo-perondi"
       }
     },
     {
@@ -329,7 +356,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -340,7 +368,8 @@
       "summary": "Participante fala sobre programa de expansão da radioterapia desde 2013, com tecnologia avançando constantemente e opção de atualizações, menciona discussões sobre uso de IMRT em algumas formas de câncer, mas médicos da audiência pública recente afirmaram que EMRT é indiscutível. Participante deseja melhor tratamento no SUS e está disponível para ajudar.",
       "speaker": {
         "name": "CLARICE",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "clarice"
       }
     },
     {
@@ -352,7 +381,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -363,7 +393,8 @@
       "summary": "Participante defendeu evolução do Brasil por meio de cooperações estratégicas em inovação e tecnologia, com ênfase em recursos de cooperação com fundo perdido e atenção à regulamentação de inteligência artificial e dados biométricos em medicina.",
       "speaker": {
         "name": "WALTER",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "walter"
       }
     },
     {
@@ -375,7 +406,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -386,7 +418,8 @@
       "summary": "Presidente SINDUSFARMA propõe fortalecimento do SUS com políticas de Estado, crítica gestão passada com dez ministros em onze anos e destaca importância de saúde sem impostos.",
       "speaker": {
         "name": "NELSON MUSSOLINI",
-        "position": "Presidente SINDUSFARMA"
+        "position": "Presidente SINDUSFARMA",
+        "slug": "nelson-mussolini"
       }
     },
     {
@@ -398,7 +431,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -409,7 +443,8 @@
       "summary": "Embrapii enfatiza importância de pesquisa e inovação em biodiversidade brasileira, especificamente na região amazônica, para impacto em saúde e tecnologia.",
       "speaker": {
         "name": "CARLOS EDUARDO",
-        "position": "EMBRAPII"
+        "position": "EMBRAPII",
+        "slug": "carlos-eduardo"
       }
     },
     {
@@ -421,7 +456,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -432,7 +468,8 @@
       "summary": "Inovação em dispositivos médicos ocorre a cada 18-24 meses, considerar tecnologias avançadas em discussões sobre incorporação de novas tecnologias; ABMED disponível para continuar apoiando e participando de discussões com a comissão de saúde.",
       "speaker": {
         "name": "FERNANDO SILVEIRA",
-        "position": "Participante"
+        "position": "Participante",
+        "slug": "fernando-silveira"
       }
     },
     {
@@ -444,7 +481,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -455,7 +493,8 @@
       "summary": "Ministério da Saúde prioriza saúde como política de Estado, propondo iniciar com decretos em vez de projetos de lei, visando uma institucionalidade mais sólida no futuro. Agradece convidado e destaca concordância geral em direção desejada.",
       "speaker": {
         "name": "MARCELO RAMOS",
-        "position": "Ministério da Saúde"
+        "position": "Ministério da Saúde",
+        "slug": "marcelo-ramos"
       }
     },
     {
@@ -467,7 +506,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     }
   ],

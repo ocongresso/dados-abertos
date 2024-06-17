@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -26,7 +27,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -37,7 +39,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -49,7 +52,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -61,7 +65,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -72,7 +77,8 @@
       "summary": " Deputado propõe audiência pública sobre regulamentação de lei de mercado de gás e suas alterações desde sua vigência.",
       "speaker": {
         "name": "Duarte Gonçalves Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte-goncalves-jr"
       }
     },
     {
@@ -84,7 +90,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -95,7 +102,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -107,7 +115,8 @@
       "speaker": {
         "id": 220677,
         "name": "Keniston Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "keniston-braga"
       }
     },
     {
@@ -118,7 +127,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -130,7 +140,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -142,7 +153,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -154,7 +166,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -166,7 +179,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -177,7 +191,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -188,7 +203,8 @@
       "summary": " Deputado cumprimenta parlamentares e apoia requerimento de Domingos Sávio para expandir gasoduto em Minas Gerais, oferecendo seu suporte.",
       "speaker": {
         "name": "Ulisses Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ulisses-guimaraes"
       }
     },
     {
@@ -200,7 +216,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -212,7 +229,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -224,7 +242,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -236,7 +255,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -247,7 +267,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -259,7 +280,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -271,7 +293,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -283,7 +306,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -295,7 +319,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -307,7 +332,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -319,7 +345,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -331,7 +358,8 @@
       "speaker": {
         "id": 178910,
         "name": "Joaquim Passarinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joaquim-passarinho"
       }
     },
     {
@@ -343,7 +371,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -355,7 +384,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -366,7 +396,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -378,7 +409,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -389,7 +421,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -401,7 +434,8 @@
       "speaker": {
         "id": 160758,
         "name": "Domingos Sávio",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "domingos-savio"
       }
     },
     {
@@ -412,7 +446,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -424,7 +459,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -436,7 +472,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -448,7 +485,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -460,7 +498,8 @@
       "speaker": {
         "id": 220579,
         "name": "Silvia Waiãpi",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-waiapi"
       }
     },
     {
@@ -471,7 +510,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -483,7 +523,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -495,7 +536,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -506,7 +548,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -518,7 +561,8 @@
       "speaker": {
         "id": 204573,
         "name": "Otto Alencar Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otto-alencar-filho"
       }
     },
     {
@@ -529,7 +573,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -541,7 +586,8 @@
       "speaker": {
         "id": 204573,
         "name": "Otto Alencar Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otto-alencar-filho"
       }
     },
     {
@@ -552,7 +598,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -563,7 +610,8 @@
       "summary": " Deputado concorda com convocação de reunião, próxima sexta-feira, para discutir assuntos pendentes e ouvir ministro.",
       "speaker": {
         "name": "Ulisses Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ulisses-guimaraes"
       }
     },
     {
@@ -575,7 +623,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -587,7 +636,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -598,7 +648,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -610,7 +661,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -621,7 +673,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -633,7 +686,8 @@
       "speaker": {
         "id": 220607,
         "name": "Max Lemos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "max-lemos"
       }
     },
     {
@@ -645,7 +699,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -657,7 +712,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -668,7 +724,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -680,7 +737,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -692,7 +750,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -704,7 +763,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -715,7 +775,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -727,7 +788,8 @@
       "speaker": {
         "id": 141391,
         "name": "Arnaldo Jardim",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "arnaldo-jardim"
       }
     },
     {
@@ -739,7 +801,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -750,7 +813,8 @@
       "summary": " Deputado deseja subscrever requerimento de colleague sobre energia nuclear, apoia discussão e contribuição no assunto, especialmente por estar em Poços de Caldas com mina de urânio.",
       "speaker": {
         "name": "Ulisses Guimarães",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ulisses-guimaraes"
       }
     },
     {
@@ -761,7 +825,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -773,7 +838,8 @@
       "speaker": {
         "id": 141531,
         "name": "Rodrigo de Castro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-de-castro"
       }
     },
     {
@@ -784,7 +850,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -796,7 +863,8 @@
       "speaker": {
         "id": 204573,
         "name": "Otto Alencar Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otto-alencar-filho"
       }
     },
     {
@@ -807,7 +875,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     },
     {
@@ -819,7 +888,8 @@
       "speaker": {
         "id": 74253,
         "name": "Julio Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "julio-lopes"
       }
     },
     {
@@ -831,7 +901,8 @@
       "speaker": {
         "id": 204497,
         "name": "Júnior Ferrari",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junior-ferrari"
       }
     }
   ],

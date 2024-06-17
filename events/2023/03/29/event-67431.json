@@ -18,18 +18,20 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 675304,
       "start_time": 1680098215,
       "duration": 33,
-      "transcription": "Momento então vamos começar agora o nosso nas nossas breves comunicações. Breves comunicações é o momento em que os deputados usam o tempo livremente falar sobre qualquer assunto e demoram por três minutos, usam o tempo três minutos. Portanto vamos começar hoje pela Bahia e na Bahia nós vamos o deputado Charles Fernandes tem vossa excelência a palavra deputado Charles.",
-      "summary": "Tempo permitido a deputados falarem sobre vários assuntos durante três minutos; início na Bahia com deputado Charles falando.",
+      "transcription": "\nMomento então vamos começar agora o nosso nas nossas breves comunicações. Breves comunicações é o momento em que os deputados usam o tempo livremente falar sobre qualquer assunto e demoram por três minutos, usam o tempo três minutos. Portanto vamos começar hoje pela Bahia e na Bahia nós vamos o deputado Charles Fernandes tem vossa excelência a palavra deputado Charles.",
+      "summary": " Diversos assuntos discutidos por deputados durante três minutos, começando na Bahia com deputado Charles.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 205476,
         "name": "Charles Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "charles-fernandes"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -65,7 +69,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -77,7 +82,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -89,7 +95,8 @@
       "speaker": {
         "id": 204360,
         "name": "Silvia Cristina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "silvia-cristina"
       }
     },
     {
@@ -101,7 +108,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -113,7 +121,8 @@
       "speaker": {
         "id": 220706,
         "name": "Padovani",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "padovani"
       }
     },
     {
@@ -125,7 +134,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -137,7 +147,8 @@
       "speaker": {
         "id": 74041,
         "name": "Luiz Couto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-couto"
       }
     },
     {
@@ -149,7 +160,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -161,7 +173,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -173,7 +186,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -185,7 +199,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -196,7 +211,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -208,7 +224,8 @@
       "speaker": {
         "id": 204473,
         "name": "General Girão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "general-girao"
       }
     },
     {
@@ -220,7 +237,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -232,7 +250,8 @@
       "speaker": {
         "id": 81055,
         "name": "Márcio Jerry",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcio-jerry"
       }
     },
     {
@@ -244,7 +263,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -256,7 +276,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -268,7 +289,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -280,7 +302,8 @@
       "speaker": {
         "id": 222142,
         "name": "Coronel Telhada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-telhada"
       }
     },
     {
@@ -291,7 +314,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -303,7 +327,8 @@
       "speaker": {
         "id": 204460,
         "name": "Carlos Jordy",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "carlos-jordy"
       }
     },
     {
@@ -315,7 +340,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -327,7 +353,8 @@
       "speaker": {
         "id": 178873,
         "name": "Helder Salomão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "helder-salomao"
       }
     },
     {
@@ -339,7 +366,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -351,7 +379,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -363,7 +392,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -375,7 +405,8 @@
       "speaker": {
         "id": 220558,
         "name": "Zé Trovão",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ze-trovao"
       }
     },
     {
@@ -387,7 +418,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -399,7 +431,8 @@
       "speaker": {
         "id": 220550,
         "name": "Mauricio Marcon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "mauricio-marcon"
       }
     },
     {
@@ -410,7 +443,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -422,7 +456,8 @@
       "speaker": {
         "id": 92346,
         "name": "Eduardo Bolsonaro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-bolsonaro"
       }
     },
     {
@@ -434,7 +469,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -446,7 +482,8 @@
       "speaker": {
         "id": 220594,
         "name": "Coronel Assis",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-assis"
       }
     },
     {
@@ -457,7 +494,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -469,7 +507,8 @@
       "speaker": {
         "id": 220568,
         "name": "Gustavo Gayer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gustavo-gayer"
       }
     },
     {
@@ -481,7 +520,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -493,7 +533,8 @@
       "speaker": {
         "id": 141408,
         "name": "Cleber Verde",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cleber-verde"
       }
     },
     {
@@ -505,7 +546,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -517,7 +559,8 @@
       "speaker": {
         "id": 204441,
         "name": "Otoni de Paula",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otoni-de-paula"
       }
     },
     {
@@ -529,7 +572,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -541,7 +585,8 @@
       "speaker": {
         "id": 221148,
         "name": "Alfredinho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alfredinho"
       }
     },
     {
@@ -552,7 +597,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -564,7 +610,8 @@
       "speaker": {
         "id": 204557,
         "name": "Sidney Leite",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sidney-leite"
       }
     },
     {
@@ -576,7 +623,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -588,7 +636,8 @@
       "speaker": {
         "id": 220673,
         "name": "Delegado Caveira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-caveira"
       }
     },
     {
@@ -600,7 +649,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -612,7 +662,8 @@
       "speaker": {
         "id": 178908,
         "name": "Delegado Éder Mauro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-eder-mauro"
       }
     },
     {
@@ -624,7 +675,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -636,7 +688,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -648,7 +701,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -660,7 +714,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -672,18 +727,19 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 92217,
       "start_time": 1680103129,
       "duration": 68,
-      "transcription": "Presidente, quero aqui primeiro cumprimentar meus amigos que vieram lá do Pará, nosso vereador Paulão que está aqui presente, nossa presidente de história municipal do PT e também primeira secretária da mulher, minha esposa Andreia Dantas. Eu queria também registrar esse momento aqui, mandar hoje abraço especial para São Miguel do Guamá, no qual fui prefeito até dois mil e vinte, uma cidade que eu agora recente quatro milhões e meio para custeio da saúde, onde vai com certeza melhorar a qualidade e a saúde do nosso município São Miguel do Guamá, no qual também Marta eu destruí mais de três milhões lá pra Jacudá, na saúde, pra infraestrutura e assim que a gente vem reduzindo esse mandato, trabalhando por todo o estado do Pará, pelos município e cuidando das pessoas. E eu vejo aqui senhor presidente que a gente tem sim que estar aqui presente para que a gente possa melhorar o nosso Brasil, que possa retomar o nosso Brasil que. Terminou? Ok.",
-      "summary": "Deputado cita presença amigos de Pará, menciona mandato como prefeito de São Miguel do Guamá, refere investimento em saúde e infraestrutura, e deseja melhorar Brasil.",
+      "transcription": "",
       "speaker": {
         "name": "Antônio Doido",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-doido"
       }
     },
     {
@@ -695,7 +751,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -707,7 +764,8 @@
       "speaker": {
         "id": 204566,
         "name": "Marreca Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marreca-filho"
       }
     },
     {
@@ -719,7 +777,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -731,7 +790,8 @@
       "speaker": {
         "id": 220527,
         "name": "Jack Rocha",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "jack-rocha"
       }
     },
     {
@@ -743,7 +803,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -755,7 +816,8 @@
       "speaker": {
         "id": 220654,
         "name": "Delegado Paulo Bilynskyj",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-paulo-bilynskyj"
       }
     },
     {
@@ -767,7 +829,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -779,7 +842,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -790,7 +854,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -802,7 +867,8 @@
       "speaker": {
         "id": 156190,
         "name": "Marcel van Hattem",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcel-van-hattem"
       }
     },
     {
@@ -814,7 +880,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -826,7 +893,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -837,7 +905,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -849,7 +918,8 @@
       "speaker": {
         "id": 220561,
         "name": "Delegada Katarina",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "delegada-katarina"
       }
     },
     {
@@ -861,7 +931,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -873,7 +944,8 @@
       "speaker": {
         "id": 141555,
         "name": "Vinicius Carvalho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "vinicius-carvalho"
       }
     },
     {
@@ -885,7 +957,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -897,7 +970,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -908,7 +982,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -920,7 +995,8 @@
       "speaker": {
         "id": 204520,
         "name": "Junio Amaral",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "junio-amaral"
       }
     },
     {
@@ -932,7 +1008,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -944,18 +1021,20 @@
       "speaker": {
         "id": 220639,
         "name": "Guilherme Boulos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "guilherme-boulos"
       }
     },
     {
       "id": 675368,
       "start_time": 1680104662,
       "duration": 251,
-      "transcription": "Entre local de trabalho e local de moradia. Enfrentando a especulação imobiliária que jogos mais pobres sempre pras periferias mais distantes. É uma novela que a gente conhece qualquer habitante de cidade grande e média no Brasil conhece essa realidade, Patos. É preciso aproximar, como por exemplo a prefeita de Paris, Anidalgo, no projeto Paris quinze minutos, tem feito e pautado aproximar polos geradores de emprego das residências, dos espaços de cultura, lazer, serviços. Nós precisamos trazer esse tema pra debate. Também a questão da moradia em regiões centrais. Requalificação de imóveis ociosos nos a prefeitura de Santiago e a prefeitura de Barcelona, a prefeita de Santiago que eu vou ter oportunidade de visitar na próxima semana pra conhecer essa experiência. Retrofite, requalificação, transformar o que era abandono em casa em vida pras pessoas como ainda os projetos de mobilidade verde fazendo a transição da frota de ônibus de transporte coletivo pra ônibus elétricos estimulando outros modais como as ciclovias, pensando as cidades a partir de uma perspectiva sustentável, a exemplo de Medellín na Colômbia, de Bogotá, que levaram esses projetos adiante e são pioneiros no nosso continente. Ainda no tema ambiental o tratamento dos resíduos sólidos. Hoje as grandes cidades brasileiras incluindo São Paulo a maior cidade do Brasil ainda enterram o lixo em aterros sanitários. Enquanto há tecnologia do EcoParque, mundo afora, nas grandes metrópoles trazendo a coleta seletiva reciclagem transformando lixo em energia em renda pras pessoas Temas como esses são essenciais pra gente pensar outro modelo de cidade. Uma cidade que inclusive valorize os espaços públicos os espaços de convivência que hoje são locais de passagem das pessoas que vão do seu condomínio fechado pra o centro empresarial e a cidade se tornou local de passagem e não de convivência. É importante recuperar este aspecto como tem sido debatido na revitalização de espaços públicos em todo o mundo. Eu acredito que nós temos uma grande oportunidade agora com o governo Lula de pautar esses temas em âmbito nacional Presidente Maria do Rosário. Temos a oportunidade com a implementação completa em plena do estatuto da cidade. Que ainda não foi feito. Simplesmente não é. Temos a oportunidade a partir da secretaria de periferias recém criada no ministério das cidades que tem justamente a perspectiva de de colocar esses territórios historicamente abandonados em primeiro lugar. E com o novo Minha Casa Minha Vida, que também pode trazer e nós vamos trabalhar aqui nessa casa, nesse congresso, pra que traga na medida provisória, prioridade pra energia solar água de reuso e localização dos empreendimentos mais próximos das regiões centrais onde tem infraestrutura e serviços públicos já passou da hora das cidades brasileiras entrarem no século vinte EE0 parlamento tem a função essencial de fazer esse debate com seriedade, se inspirando nas experiências de vanguarda pra uma cidade mais democrática, pra cidades mais solidárias e menos desiguais. Obrigado presidente.",
-      "summary": "Discurso sobre urbanismo sustentável: aproximar locais de trabalho e moradia, requalificar imóveis ociosos, promover mobilidade verde, valorizar espaços públicos, e priorizar energia solar e água de reuso em cidades brasileiras. Necessidade de debate nacional e implementação do estatuto da cidade.",
+      "transcription": "\nEntre local de trabalho e local de moradia. Enfrentando a especulação imobiliária que jogos mais pobres sempre pras periferias mais distantes. É uma novela que a gente conhece qualquer habitante de cidade grande e média no Brasil conhece essa realidade, Patos. É preciso aproximar, como por exemplo a prefeita de Paris, Anidalgo, no projeto Paris quinze minutos, tem feito e pautado aproximar polos geradores de emprego das residências, dos espaços de cultura, lazer, serviços. Nós precisamos trazer esse tema pra debate.\n\nTambém a questão da moradia em regiões centrais. Requalificação de imóveis ociosos nos a prefeitura de Santiago e a prefeitura de Barcelona, a prefeita de Santiago que eu vou ter oportunidade de visitar na próxima semana pra conhecer essa experiência. Retrofite, requalificação, transformar o que era abandono em casa em vida pras pessoas como ainda os projetos de mobilidade verde fazendo a transição da frota de ônibus de transporte coletivo pra ônibus elétricos estimulando outros modais como as ciclovias, pensando as cidades a partir de uma perspectiva sustentável, a exemplo de Medellín na Colômbia, de Bogotá, que levaram esses projetos adiante e são pioneiros no nosso continente. Ainda no tema ambiental o tratamento dos resíduos sólidos. Hoje as grandes cidades brasileiras incluindo São Paulo a maior cidade do Brasil ainda enterram o lixo em aterros sanitários.\n\nEnquanto há tecnologia do EcoParque, mundo afora, nas grandes metrópoles trazendo a coleta seletiva reciclagem transformando lixo em energia em renda pras pessoas Temas como esses são essenciais pra gente pensar outro modelo de cidade. Uma cidade que inclusive valorize os espaços públicos os espaços de convivência que hoje são locais de passagem das pessoas que vão do seu condomínio fechado pra o centro empresarial e a cidade se tornou local de passagem e não de convivência. É importante recuperar este aspecto como tem sido debatido na revitalização de espaços públicos em todo o mundo. Eu acredito que nós temos uma grande oportunidade agora com o governo Lula de pautar esses temas em âmbito nacional Presidente Maria do Rosário. Temos a oportunidade com a implementação completa em plena do estatuto da cidade.\n\nQue ainda não foi feito. Simplesmente não é. Temos a oportunidade a partir da secretaria de periferias recém criada no ministério das cidades que tem justamente a perspectiva de de colocar esses territórios historicamente abandonados em primeiro lugar. E com o novo Minha Casa Minha Vida, que também pode trazer e nós vamos trabalhar aqui nessa casa, nesse congresso, pra que traga na medida provisória, prioridade pra energia solar água de reuso e localização dos empreendimentos mais próximos das regiões centrais onde tem infraestrutura e serviços públicos já passou da hora das cidades brasileiras entrarem no século vinte EE0 parlamento tem a função essencial de fazer esse debate com seriedade, se inspirando nas experiências de vanguarda pra uma cidade mais democrática, pra cidades mais solidárias e menos desiguais. Obrigado presidente.",
+      "summary": " Discurso propõe aproximação trabalho e moradia, requalificação imóveis ociosos, promoção mobilidade verde, valorização espaços públicos, priorização energia solar e água reuso em cidades brasileiras, além de debate nacional e estatuto da cidade.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Maria do Rosário",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-maria-do-rosario"
       }
     },
     {
@@ -967,7 +1046,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -979,7 +1059,8 @@
       "speaker": {
         "id": 178829,
         "name": "Capitão Augusto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-augusto"
       }
     },
     {
@@ -991,7 +1072,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1003,7 +1085,8 @@
       "speaker": {
         "id": 209189,
         "name": "Joseildo Ramos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joseildo-ramos"
       }
     },
     {
@@ -1015,7 +1098,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1027,7 +1111,8 @@
       "speaker": {
         "id": 220629,
         "name": "Dandara",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "dandara"
       }
     },
     {
@@ -1038,7 +1123,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1050,7 +1136,8 @@
       "speaker": {
         "id": 221378,
         "name": "Reginete Bispo",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "reginete-bispo"
       }
     },
     {
@@ -1062,7 +1149,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1074,7 +1162,8 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
@@ -1086,7 +1175,8 @@
       "speaker": {
         "id": 74398,
         "name": "Maria do Rosário",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "maria-do-rosario"
       }
     },
     {
@@ -1097,18 +1187,20 @@
       "speaker": {
         "id": 204512,
         "name": "Delegado Marcelo Freitas",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-marcelo-freitas"
       }
     },
     {
       "id": 675396,
       "start_time": 1680105865,
       "duration": 200,
-      "transcription": "César a Deus que é de Deus. Esse deputado é o delegado Marcelo Freitas, das grandes Minas Gerais e tem orgulho de representar o povo mineiro. Chamo atenção nessa casa do povo para alguns acontecimentos recentes ocorridos em nosso país que envolvem particularmente a participação de menores. Não tenho dúvida alguma que a sociedade clama por mudanças do texto constitucional, especialmente no artigo 228 para que a gente possa discutir a questão da maioridade penal em nosso país Nós sabemos, em pesquisa realizada recentemente pelo Datafolha, que cerca de vinte por cento da brasileira entende com clareza a necessidade de discutir a questão da maioridade penal Existem basicamente dois critérios que define mundialmente como é que iremos utilizar a maioridade penal ou não no nosso país. O Brasil adota o critério puramente biológico. Por esse critério considerase como se refere imputável em nosso país somente aqueles que possuem dezoito anos de idade completo obviamente por conta disso por conta do que consta do texto constitucional, nós deixamos de lado o critério biopsicológico. E ainda que uma pessoa, menor de idade hoje entre dezesseis e dezoito anos de idade tenha completa noção daquilo que está fazendo ele não pode vir a ser responsabilizado criminalmente em nosso país e pode simplesmente sofrer uma uma determinada punição, em virtude do estatuto da criança e do adolescente. Nós compreendemos, que essa questão precisa ser urgentemente enfrentada no parlamento brasileiro, e nós precisamos entregar à à sociedade brasileira, algo que de fato reflita os interesses sociais. Cerca de ponto seis por cento, dos homicídios ocorridos no Brasil, São praticados por adolescentes, e essas questões precisam, de serem levadas em consideração por essa casa do povo. Por essa razão nós propomos, amplo debate em torno da discussão da maioridade penal em nosso país. O critério puramente biológico, em que hoje no artigo duzentos e vinte e oito da Constituição Federal, considerase maior de idade, portanto, capaz daquele apenas aquelas pessoas maiores, de dezoito anos de idade. Precisa de fato ser rediscutido, E nós temos que encontrar ponto de convergência. E a nosso sentir. O critério biopsicológico seria o critério mais efetivo, em que aquelas pessoas, especialmente aquelas acima de dezesseis anos de idade, com potencial consciência da ilicitude do fato, possa vir a ser responsabilizada por suas ações. Por esse motivo, conclamo a essa casa do povo. Especialmente para que a gente possa, resgatar os projetos de emenda à constituição. Alterando o texto da constituição, e entregando à população brasileira, aquilo que é o desejo de oitenta e quatro por cento dos cidadãos de nosso país. Obrigado presidente. Ok",
-      "summary": "Deputado propõe mudar artigo 228 da Constituição para alterar critério de maioridade penal no Brasil, atualmente fixado em 18 anos, e considerar também critério biopsicológico, o qual permite responsabilizar adolescentes com potencial consciência da ilicitude do fato. Referência a estudos que mostram clamor da sociedade por essa mudança e impacto no aumento de homicídios praticados por adolescentes.",
+      "transcription": "\nCésar a Deus que é de Deus. Esse deputado é o delegado Marcelo Freitas, das grandes Minas Gerais e tem orgulho de representar o povo mineiro. Chamo atenção nessa casa do povo para alguns acontecimentos recentes ocorridos em nosso país que envolvem particularmente a participação de menores. Não tenho dúvida alguma que a sociedade clama por mudanças do texto constitucional, especialmente no artigo 228 para que a gente possa discutir a questão da maioridade penal em nosso país Nós sabemos, em pesquisa realizada recentemente pelo Datafolha, que cerca de vinte por cento da brasileira entende com clareza a necessidade de discutir a questão da maioridade penal Existem basicamente dois critérios que define mundialmente como é que iremos utilizar a maioridade penal ou não no nosso país. O Brasil adota o critério puramente biológico.\n\nPor esse critério considerase como se refere imputável em nosso país somente aqueles que possuem dezoito anos de idade completo obviamente por conta disso por conta do que consta do texto constitucional, nós deixamos de lado o critério biopsicológico. E ainda que uma pessoa, menor de idade hoje entre dezesseis e dezoito anos de idade tenha completa noção daquilo que está fazendo ele não pode vir a ser responsabilizado criminalmente em nosso país e pode simplesmente sofrer uma uma determinada punição, em virtude do estatuto da criança e do adolescente. Nós compreendemos, que essa questão precisa ser urgentemente enfrentada no parlamento brasileiro, e nós precisamos entregar à à sociedade brasileira, algo que de fato reflita os interesses sociais. Cerca de ponto seis por cento, dos homicídios ocorridos no Brasil, São praticados por adolescentes, e essas questões precisam, de serem levadas em consideração por essa casa do povo. Por essa razão nós propomos, amplo debate em torno da discussão da maioridade penal em nosso país.\n\nO critério puramente biológico, em que hoje no artigo duzentos e vinte e oito da Constituição Federal, considerase maior de idade, portanto, capaz daquele apenas aquelas pessoas maiores, de dezoito anos de idade. Precisa de fato ser rediscutido, E nós temos que encontrar ponto de convergência. E a nosso sentir. O critério biopsicológico seria o critério mais efetivo, em que aquelas pessoas, especialmente aquelas acima de dezesseis anos de idade, com potencial consciência da ilicitude do fato, possa vir a ser responsabilizada por suas ações. Por esse motivo, conclamo a essa casa do povo.\n\nEspecialmente para que a gente possa, resgatar os projetos de emenda à constituição. Alterando o texto da constituição, e entregando à população brasileira, aquilo que é o desejo de oitenta e quatro por cento dos cidadãos de nosso país. Obrigado presidente. Ok",
+      "summary": " Proposta mudar lei maioridade penal, considerar critério biopsicológico, sociedade pede mudança, impacto homicídios adolescentes.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Maria do Rosário -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-maria-do-rosario-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -1120,7 +1212,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1132,7 +1225,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -1144,7 +1238,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1156,7 +1251,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -1168,7 +1264,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1180,7 +1277,8 @@
       "speaker": {
         "id": 204388,
         "name": "Bibo Nunes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bibo-nunes"
       }
     },
     {
@@ -1192,7 +1290,8 @@
       "speaker": {
         "id": 220532,
         "name": "Rafael Prudente",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rafael-prudente"
       }
     },
     {
@@ -1203,7 +1302,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1215,7 +1315,8 @@
       "speaker": {
         "id": 204378,
         "name": "Coronel Chrisóstomo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "coronel-chrisostomo"
       }
     },
     {
@@ -1227,7 +1328,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1239,7 +1341,8 @@
       "speaker": {
         "id": 204411,
         "name": "Filipe Barros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-barros"
       }
     },
     {
@@ -1250,7 +1353,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1262,7 +1366,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -1274,7 +1379,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1286,7 +1392,8 @@
       "speaker": {
         "id": 160538,
         "name": "Bohn Gass",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "bohn-gass"
       }
     },
     {
@@ -1298,7 +1405,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1310,7 +1418,8 @@
       "speaker": {
         "id": 221338,
         "name": "Professora Luciene Cavalcante",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "professora-luciene-cavalcante"
       }
     },
     {
@@ -1322,7 +1431,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1334,7 +1444,8 @@
       "speaker": {
         "id": 204351,
         "name": "Dr. Luiz Ovando",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-luiz-ovando"
       }
     },
     {
@@ -1346,7 +1457,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1358,7 +1470,8 @@
       "speaker": {
         "id": 220571,
         "name": "Daniel Agrobom",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-agrobom"
       }
     },
     {
@@ -1370,7 +1483,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1382,7 +1496,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -1394,7 +1509,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1406,7 +1522,8 @@
       "speaker": {
         "id": 178970,
         "name": "João Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "joao-daniel"
       }
     },
     {
@@ -1418,7 +1535,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1430,7 +1548,8 @@
       "speaker": {
         "id": 103758,
         "name": "Luciano Azevedo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luciano-azevedo"
       }
     },
     {
@@ -1442,7 +1561,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1454,7 +1574,8 @@
       "speaker": {
         "id": 220556,
         "name": "Ana Paula Lima",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "ana-paula-lima"
       }
     },
     {
@@ -1466,7 +1587,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1478,7 +1600,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -1490,7 +1613,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1502,7 +1626,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1513,7 +1638,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1525,7 +1651,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -1537,7 +1664,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1549,7 +1677,8 @@
       "speaker": {
         "id": 204411,
         "name": "Filipe Barros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-barros"
       }
     },
     {
@@ -1561,7 +1690,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1573,7 +1703,8 @@
       "speaker": {
         "id": 220529,
         "name": "Gilson Daniel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-daniel"
       }
     },
     {
@@ -1585,7 +1716,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1597,7 +1729,8 @@
       "speaker": {
         "id": 220644,
         "name": "Rosângela Moro",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "rosangela-moro"
       }
     },
     {
@@ -1609,7 +1742,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -1621,18 +1755,20 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
       "id": 675421,
       "start_time": 1680110223,
       "duration": 179,
-      "transcription": "Total a atenção básica e o atendimento à população das periferias e das cidades pequenas mais distantes. Por isso mesmo a presidente Dilma em dois mil e treze criou o programa Mais Médicos. Que revolucionou esse segmento da saúde no Brasil. Desde então ele atendeu a sessenta e três milhões de pessoas no Brasil, que de outro modo não teriam acesso a uma consulta. Sabemos que na atenção básica é possível resolver boa parte dos problemas que afligem a população mais pobre, evitando que eles se agravem, evitando que eles tenham que recorrer posteriormente a hospital para procedimento que muitas vezes tratado preventivamente evitaria uma situação mais grave e mais custosa para a sociedade, inclusive do ponto de vista financeiro. Esse programa foi esvaziado no governo anterior, porque o governo do miliciano não prioriza, não priorizava a saúde popular. Lula reestabeleceu Mais médico agora, melhorado, inclusive em relação àquilo que ele era, porque é o Mais Médico com recursos para o maior número de profissionais. De já, já são mais cinco mil até o final do ano, mais dez mil com a parceria com as prefeituras. A valorização da formação dos médicos em atenção básica em medicina da da família, a possibilidade da valorização de a maior participação das mulheres, porque a licençamaternidade está garantida, assim como a licençam paternidade, o 0 afastamento para a possibilidade de uma formação de uma especialização até de mestrado na área de atenção básica. Por tudo isso que vai custar esse ano setecentos e doze milhões de reais e no ano que vem e no próximo dois mil e vinte e cinco e dois mil e vinte e quatro mais três bilhões de reais o governo Lula anuncia de maneira patente e forte a sua prioridade com atenção básica e com a saúde dos brasileiros e brasileiros mais pobres. É assim que se faz prioridade que interessa ao conjunto do Brasil. É mais saúde para quem precisa de saúde, mais prioridade para atenção básica no Brasil. Obrigado senhor presidente. Peço que o pronunciamento seja utilizado nas redes da casa. Obrigado deputado Merlon Solana. A solicitação de vossa excelência deputado Merlon, vai ser atendida pra constar nos anais da casa. Muito obrigado aqui também o deputado Gilberto Nascimento, A quem eu sucedo aqui por tempo antes que o presidente chegue. Para presidir o deputado o presidente Arthur Lira, pra uma comunicação de líder Pedro Lupion.",
-      "summary": "Programa Mais Médicos retomado por Lula, priorizando atenção básica e saúde da população pobre, com aumento de médicos e recursos para formação. Custo este ano: R$712 milhões; próximos dois anos: R$3 bilhões cada. Saúde prioridade do governo Lula.",
+      "transcription": "\nTotal a atenção básica e o atendimento a população das periferias e das cidades pequenas mais distantes. Por isso mesmo a presidente Dilma em dois mil e treze criou o programa Mais Médicos. Que revolucionou esse segmento da saúde no Brasil. Desde então ele atendeu a sessenta e três milhões de pessoas no Brasil, que de outro modo não teriam acesso a uma consulta. Sabemos que na atenção básica é possível resolver boa parte dos problemas que afligem a população mais pobre, evitando que eles se agravem, evitando que eles tenham que recorrer posteriormente a hospital para procedimento que muitas vezes tratado preventivamente evitaria uma situação mais grave e mais custosa para a sociedade, inclusive do ponto de vista financeiro.\n\nEsse programa foi esvaziado no governo anterior, porque o governo do miliciano não prioriza, não priorizava a saúde popular. Lula reestabeleceu Mais médico agora, melhorado, inclusive em relação àquilo que ele era, porque é o Mais Médico com recursos para o maior número de profissionais. De já, já são mais cinco mil até o final do ano, mais dez mil com a parceria com as prefeituras. A valorização da formação dos médicos em atenção básica em medicina da da família, a possibilidade da valorização de a maior participação das mulheres, porque a licençamaternidade está garantida, assim como a licençam paternidade, o 0 afastamento para a possibilidade de uma formação de uma especialização até de mestrado na área de atenção básica. Por tudo isso que vai custar esse ano setecentos e doze milhões de reais e no ano que vem e no próximo dois mil e vinte e cinco e dois mil e vinte e quatro mais três bilhões de reais o governo Lula anuncia de maneira patente e forte a sua prioridade com atenção básica e com a saúde dos brasileiros e brasileiros mais pobres.\n\nÉ assim que se faz prioridade que interessa ao conjunto do Brasil. É mais saúde para quem precisa de saúde, mais prioridade para atenção básica no Brasil. Obrigado senhor presidente. Peço que o pronunciamento seja utilizado nas redes da casa.\n\nObrigado deputado Merlon Solana. A solicitação de vossa excelência deputado Merlon, vai ser atendida pra constar nos anais da casa. Muito obrigado aqui também o deputado Gilberto Nascimento, A quem eu sucedo aqui por tempo antes que o presidente chegue. Para presidir o deputado o presidente Arthur Lira, pra uma comunicação de líder Pedro Lupion.",
+      "summary": " Governo Lula retomou Programa Mais Médicos, destina mais médicos e recursos à formação, priorizando atenção básica e saúde da população pobre. Custo este ano: R$712 milhões, próximos dois anos: R$3 bilhões cada. Saúde é prioridade do governo.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -1643,7 +1779,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1655,7 +1792,8 @@
       "speaker": {
         "id": 204395,
         "name": "Pedro Lupion",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-lupion"
       }
     },
     {
@@ -1667,7 +1805,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1679,7 +1818,8 @@
       "speaker": {
         "id": 220657,
         "name": "André Fernandes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "andre-fernandes"
       }
     },
     {
@@ -1691,7 +1831,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1703,7 +1844,8 @@
       "speaker": {
         "id": 204369,
         "name": "Caroline de Toni",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "caroline-de-toni"
       }
     },
     {
@@ -1715,7 +1857,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1727,7 +1870,8 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
@@ -1739,7 +1883,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1751,7 +1896,8 @@
       "speaker": {
         "id": 165470,
         "name": "Rodrigo Valadares",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-valadares"
       }
     },
     {
@@ -1763,7 +1909,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1775,7 +1922,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -1786,7 +1934,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1798,7 +1947,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -1810,7 +1960,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1822,7 +1973,8 @@
       "speaker": {
         "id": 220533,
         "name": "Prof. Reginaldo Veras",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "prof-reginaldo-veras"
       }
     },
     {
@@ -1833,7 +1985,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1845,7 +1998,8 @@
       "speaker": {
         "id": 178966,
         "name": "Geovânia de Sá",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "geovania-de-sa"
       }
     },
     {
@@ -1857,7 +2011,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -1869,7 +2024,8 @@
       "speaker": {
         "id": 204411,
         "name": "Filipe Barros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "filipe-barros"
       }
     },
     {
@@ -1881,29 +2037,32 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
       "id": 92315,
       "start_time": 1680112519,
       "duration": 26,
-      "transcription": "A todos os meus pares que estão nesta brilhante casa, para Deus toda honra, para Deus toda glória, para Deus todo louvor de gratidão ao meu filho Gabriel Monteiro, Eu nesse momento nobre presidente, Pompeu de Matos. Eu quero aqui registrar. O",
-      "summary": "Deputado agradece a Deus e homenageia seu filho Gabriel Monteiro antes de registrar algo em seu discurso como presidente da casa.",
+      "transcription": "\nA todos os meus pares que estão nesta brilhante casa, para Deus toda honra, para Deus toda glória, para Deus todo louvor de gratidão ao meu filho Gabriel Monteiro, Eu nesse momento nobre presidente, Pompeu, de Matos. Eu quero aqui registrar, o.",
+      "summary": " Deputado agradece a Deus e honra filho antes de discurso como presidente.",
       "speaker": {
         "name": "Roberto Monteiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "roberto-monteiro"
       }
     },
     {
       "id": 675434,
       "start_time": 1680112545,
       "duration": 131,
-      "transcription": "Governador do Estado do Rio de Janeiro, o nobre governador Cláudio Castro, no dia de hoje está aniversariando. E ele tem feito trabalho grandioso, muito produtivo, tem feito trabalho dinâmico, e quase todos os dias tem ido num município, tem feito trabalho que tem toda a população. E nesse momento então, eu faço questão de registrar, pedir inclusive que os canais de comunicação dessa casa registre esse reconhecimento pelo brilhante trabalho que o governador Cláudio Castro vem fazendo, destacando inclusive a área de saúde com o doutor Luizinho. E quero finalizar aqui falando texto bíblico que está em Eclesiastes capítulo doze e que serve pra esquerda, serve para o centro e serve para a direita. Repito, esquerda, centro, e direita que diz assim, lembrate, do teu criador. Lembrate do teu criador. Lembrate? Não. E este. E voltando aqui ao versículo sete. Só segundinho pra terminar aqui. No dia que tremerem os guarda da casa e sim por vários homens fortes, necessárioem os moedores porque já por serem poucos e escurecerem os olhos pela janela, e finalizando, versículo sete. E o pó volte à terra como era, e o espírito volte a Deus que o deu, o deu, vaidade, vaidade, diz o pregador, tudo é vaidade. Então, carinhosamente, a todos os meus pares, tanto esquerda, centro e direita, tudo é vaidade. Lembrate do teu criador. Deus abençoe. Deus existe, Shalom, a paz.",
-      "summary": "Reconhecendo governador Cláudio Castro por trabalho produtivo e dinâmico, destacando saúde; cita Eclesiastes 12 sobre recordar criador e tudo como vaidade. Paz e Deus abençoando.",
+      "transcription": "\nGovernador do estado do Rio de Janeiro, o nobre governador Cláudio Castro, no dia de hoje está aniversariando. E ele tem feito trabalho grandioso, muito produtivo, tem feito trabalho dinâmico, e quase todos os dias tem ido num município, tem feito trabalho que tem toda a população. E nesse momento então, eu faço questão de registrar, pedir inclusive que os canais de comunicação dessa casa registre esse reconhecimento pelo brilhante trabalho que o governador Cláudio Castro vem fazendo, destacando inclusive a área de saúde com o doutor Luizinho. E quero finalizar aqui falando texto bíblico que está em Eclesiastes capítulo doze e que serve pra esquerda, serve para o centro e serve para a direita. Repito, esquerda, centro, e direita que diz assim, lembrate, do teu criador.\n\nLembrate do teu criador. Lembrate? Não. E este. E voltando aqui ao versículo sete.\n\nSó segundinho pra terminar aqui. No dia que tremerem os guarda da casa e sim por vários homens fortes, necessárioem os moedores porque já por serem poucos e escurecerem os olhos pela janela, e finalizando, versículo sete. E o pó volte à terra como era, e o espírito volte a Deus que o deu, o deu, vaidade, vaidade, diz o pregador, tudo é vaidade. Então, carinhosamente, a todos os meus pares, tanto esquerda, centro e direita, tudo é vaidade. Lembrate do teu criador.\n\nDeus abençoe. Deus existe, Shalom, a paz.",
+      "summary": " Reconheceu Castro por trabalho em saúde, cita Eclesiastes, deseja paz e bênçãos de Deus.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Pompeo de Mattos -- por Participante -- Marcos Pereira",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-pompeo-de-mattos-por-participante-marcos-pereira"
       }
     },
     {
@@ -1915,7 +2074,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1927,7 +2087,8 @@
       "speaker": {
         "id": 204391,
         "name": "José Nelto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-nelto"
       }
     },
     {
@@ -1938,7 +2099,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -1950,7 +2112,8 @@
       "speaker": {
         "id": 220589,
         "name": "Eduardo Velloso",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eduardo-velloso"
       }
     },
     {
@@ -1962,17 +2125,19 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
       "id": 675399,
       "start_time": 1680112953,
       "duration": 5,
-      "transcription": "Pois não deputado. Obrigado. Com base",
+      "transcription": "\nPois não deputado. Obrigado. Com base",
       "speaker": {
         "name": "********** FASE DA SESSÃO: ORDEM DO DIA **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-ordem-do-dia-"
       }
     },
     {
@@ -1984,7 +2149,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -1996,7 +2162,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2008,7 +2175,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -2020,7 +2188,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2032,7 +2201,8 @@
       "speaker": {
         "id": 74858,
         "name": "Lindbergh Farias",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lindbergh-farias"
       }
     },
     {
@@ -2044,7 +2214,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2056,7 +2227,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2068,7 +2240,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2080,7 +2253,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -2091,7 +2265,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2103,7 +2278,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -2114,7 +2290,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2126,7 +2303,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -2138,7 +2316,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2150,7 +2329,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -2162,7 +2342,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2174,7 +2355,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -2186,7 +2368,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2198,7 +2381,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2210,7 +2394,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2222,7 +2407,8 @@
       "speaker": {
         "id": 188097,
         "name": "Merlong Solano",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "merlong-solano"
       }
     },
     {
@@ -2233,7 +2419,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2245,7 +2432,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2257,7 +2445,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2269,7 +2458,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2281,7 +2471,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2293,7 +2484,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -2305,7 +2497,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2317,7 +2510,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -2329,7 +2523,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2341,7 +2536,8 @@
       "speaker": {
         "id": 178946,
         "name": "Soraya Santos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "soraya-santos"
       }
     },
     {
@@ -2352,7 +2548,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2364,7 +2561,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2375,7 +2573,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2387,7 +2586,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -2398,7 +2598,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2410,7 +2611,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -2422,7 +2624,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2434,7 +2637,8 @@
       "speaker": {
         "id": 62881,
         "name": "Danilo Forte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "danilo-forte"
       }
     },
     {
@@ -2443,9 +2647,10 @@
       "duration": 0,
       "transcription": "",
       "speaker": {
-        "id": 204506,
-        "name": "Marcos Pereira",
-        "position": "Deputado"
+        "id": 74171,
+        "name": "Chico Alencar",
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -2457,7 +2662,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2469,7 +2675,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -2481,7 +2688,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2493,7 +2701,8 @@
       "speaker": {
         "id": 204407,
         "name": "Fernanda Melchionna",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "fernanda-melchionna"
       }
     },
     {
@@ -2504,7 +2713,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2516,7 +2726,8 @@
       "speaker": {
         "id": 204536,
         "name": "Kim Kataguiri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "kim-kataguiri"
       }
     },
     {
@@ -2528,7 +2739,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2540,7 +2752,8 @@
       "speaker": {
         "id": 204495,
         "name": "Airton Faleiro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "airton-faleiro"
       }
     },
     {
@@ -2551,7 +2764,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2563,7 +2777,8 @@
       "speaker": {
         "id": 204573,
         "name": "Otto Alencar Filho",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "otto-alencar-filho"
       }
     },
     {
@@ -2575,7 +2790,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2587,7 +2803,8 @@
       "speaker": {
         "id": 74171,
         "name": "Chico Alencar",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "chico-alencar"
       }
     },
     {
@@ -2599,18 +2816,20 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
       "id": 675464,
       "start_time": 1680117708,
       "duration": 16,
-      "transcription": "União orienta pela obstrução também senhor presidente. União, obstrução mudou então deputado? Mudou? Sim. Começamos com líderes. Avante, solidariedade, patriota e novo. Presidente, existe",
-      "summary": "Obstrução por união, agora inclui líderes políticos.",
+      "transcription": "\nUnião\n\norienta pela obstrução também senhor presidente.\n\nUnião, obstrução mudou então deputado? Mudou?\n\nSim. Começamos com líderes.\n\nAvante, solidariedade, patriota e novo. Presidente, existe",
+      "summary": " Votação começou, agora inclui políticos em obstrução.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -2622,7 +2841,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2634,7 +2854,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2646,7 +2867,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -2658,7 +2880,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2670,7 +2893,8 @@
       "speaker": {
         "id": 220593,
         "name": "Abilio Brunini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "abilio-brunini"
       }
     },
     {
@@ -2682,7 +2906,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2694,7 +2919,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -2705,18 +2931,20 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
       "id": 675518,
       "start_time": 1680118016,
       "duration": 20,
-      "transcription": "Retirada de pauta. Muito bem, eu peço Presidente, presidência algum elogio. Pessoal, unanimidade, pela primeira vez. Vitória das forças proletárias. Presidente, o novo concorda com a votação simbólica, concorda em retirar de pauta, mas",
-      "summary": "Votação simbólica retirada por unanimidade, vitória das forças trabalhadoras.",
+      "transcription": "\nRetirada de pauta. Muito bem, eu peço Presidente, presidência algum elogio. Pessoal, unanimidade, pela primeira vez. Vitória das forças proletárias. Presidente, o novo concorda com a votação simbólica, concorda em retirar de pauta, mas",
+      "summary": " Votação simbólica retirada, trabalhadores vitoriosos.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -2727,7 +2955,8 @@
       "speaker": {
         "id": 204365,
         "name": "Gilson Marques",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilson-marques"
       }
     },
     {
@@ -2739,18 +2968,20 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
       "id": 675479,
       "start_time": 1680118177,
       "duration": 36,
-      "transcription": "Comunicações e tempo de líder. Liderança do do quem pediu agora Nicolas? Qual é o líder que quer fazer uso da da do tempo de líder? Nicolas Ferreira, pelo PL, agora? Capitão Alberto Neto, capitão Alberto Neto. Vai fazer uso agora da liderança? Pode.",
-      "summary": "Capitão Alberto Neto assuming leadership role, followed by Nicolas Ferreira's turn to lead.",
+      "transcription": "\nComunicações e tempo de líder. Liderança do do quem pediu agora Nicolas? Qual é o líder que quer fazer uso da da do tempo de líder? Nicolas Ferreira, pelo PL, agora? Capitão Alberto Neto, capitão Alberto Neto.\n\nVai fazer uso agora da liderança? Pode.",
+      "summary": " Capitão Alberto Neto assume liderança, depois Nicolas Ferreira.",
       "speaker": {
         "name": "********** FASE DA SESSÃO: BREVES COMUNICAÇÕES **********",
-        "position": ""
+        "position": "",
+        "slug": "-fase-da-sessao-breves-comunicacoes-"
       }
     },
     {
@@ -2762,7 +2993,8 @@
       "speaker": {
         "id": 209787,
         "name": "Nikolas Ferreira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "nikolas-ferreira"
       }
     },
     {
@@ -2774,7 +3006,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2786,7 +3019,8 @@
       "speaker": {
         "id": 152605,
         "name": "Glauber Braga",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "glauber-braga"
       }
     },
     {
@@ -2797,7 +3031,8 @@
       "speaker": {
         "id": 204506,
         "name": "Marcos Pereira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pereira"
       }
     },
     {
@@ -2809,18 +3044,20 @@
       "speaker": {
         "id": 204480,
         "name": "Rogério Correia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rogerio-correia"
       }
     },
     {
       "id": 675492,
       "start_time": 1680118941,
       "duration": 111,
-      "transcription": "O contrário está ofendendo o trânsito, portanto fazendo uma política de ódio. Cada tem lá a sua bandeira. Eu prefiro a bandeira de fazer com que o Brasil saia do mapa da fome. Que o Brasil gere emprego e renda. E por isso nós estamos sim, criticando o Banco Central, que tem uma política equivocada de aumento da taxa de juros. Treze vírgula setenta e cinco por cento, era no governo frouxo do Bolsonaro. Nós não vamos aceitar isso calados. Nós vamos lutar para que essa taxa de juros seja sim abaixada no Brasil. Porque é impossível no mundo inteiro nós termos a taxa de juros mais alta do mundo. E a ultra direita acha isso natural, sabe por quê? Porque são o governo dos banqueiros. Então eu faço aqui, este alerta pessoal. Povo brasileiro, Deputado que coloca peruca, que veste fralda, que põe melancia na cabeça pode lacrar na internet, mas não ajuda o Brasil. E isso precisa ficar muito claro aqui. Presidente eu tenho mais quarenta e seis segundos, apenas pra trazer uma questão paraqueal de Belo Horizonte mais importante. O governador Zema está querendo manter aeroporto que recentemente matou mais piloto e caiu a casa das pessoas. Eu faço aqui alerta ao governador Zema, não é possível que ele queira fazer com que esse aeroporto continue funcionando com o risco de matar crianças, cair era nova escola. É responsabilidade do governador Zema. Está tudo acertado pra esse aeroporto ser agora no dia primeiro de abril. O governo Lula vai manter a portaria, não pode governador do estado pressionar por causa de meia dúzia que tem hangar particular, que coloca em risco a vida das pessoas. Muito obrigado presidente. Ok.",
-      "summary": "Críticas à política de juros elevados; apoio a Brasil com baixa taxa de juros; alerta a governador Zema sobre aeroporto de risco em Belo Horizonte.",
+      "transcription": "\nO contrário está ofendendo o trânsito, portanto fazendo uma política de ódio. Cada tem lá a sua bandeira. Eu prefiro a bandeira de fazer com que o Brasil saia do mapa da fome. Que o Brasil gere emprego e renda. E por isso nós estamos sim, criticando o Banco Central, que tem uma política equivocada de aumento da taxa de juros.\n\nTreze vírgula setenta e cinco por cento, era no governo frouxo do Bolsonaro. Nós não vamos aceitar isso calados. Nós vamos lutar para que essa taxa de juros seja sim abaixada no Brasil. Porque é impossível no mundo inteiro nós termos a taxa de juros mais alta do mundo. E a ultra direita acha isso natural, sabe por quê?\n\nPorque são o governo dos banqueiros. Então eu faço aqui, este alerta pessoal. Povo brasileiro, Deputado que coloca peruca, que veste fralda, que põe melancia na cabeça pode lacrar na internet, mas não ajuda o Brasil. E isso precisa ficar muito claro aqui. Presidente eu tenho mais quarenta e seis segundos, apenas pra trazer uma questão paraqueal de Belo Horizonte mais importante.\n\nO governador Zema está querendo manter aeroporto que recentemente matou mais piloto e caiu a casa das pessoas. Eu faço aqui alerta ao governador Zema, não é possível que ele queira fazer com que esse aeroporto continue funcionando com o risco de matar crianças, cair era nova escola. É responsabilidade do governador Zema. Está tudo acertado pra esse aeroporto ser agora no dia primeiro de abril. O governo Lula vai manter a portaria, não pode governador do estado pressionar por causa de meia dúzia que tem hangar particular, que coloca em risco a vida das pessoas.\n\nMuito obrigado presidente. Ok",
+      "summary": " Criticas a política de juros altos, apoio a baixa taxa, alerta a governador sobre aeroporto de risco em BH.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Marcos Pereira -- por Participante -- Gilberto Nascimento",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-marcos-pereira-por-participante-gilberto-nascimento"
       }
     },
     {
@@ -2832,7 +3069,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2844,7 +3082,8 @@
       "speaker": {
         "id": 204572,
         "name": "Capitão Alberto Neto",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alberto-neto"
       }
     },
     {
@@ -2856,7 +3095,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2868,7 +3108,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -2880,7 +3121,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2892,7 +3134,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -2904,7 +3147,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2916,7 +3160,8 @@
       "speaker": {
         "id": 220690,
         "name": "Capitão Alden",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "capitao-alden"
       }
     },
     {
@@ -2928,7 +3173,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2940,7 +3186,8 @@
       "speaker": {
         "id": 220652,
         "name": "Delegado Palumbo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "delegado-palumbo"
       }
     },
     {
@@ -2952,7 +3199,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2964,7 +3212,8 @@
       "speaker": {
         "id": 220598,
         "name": "Tarcísio Motta",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tarcisio-motta"
       }
     },
     {
@@ -2976,7 +3225,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -2988,7 +3238,8 @@
       "speaker": {
         "id": 220606,
         "name": "Reimont",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reimont"
       }
     },
     {
@@ -3000,7 +3251,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3012,7 +3264,8 @@
       "speaker": {
         "id": 220554,
         "name": "Alexandre Lindenmeyer",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "alexandre-lindenmeyer"
       }
     },
     {
@@ -3024,7 +3277,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3036,7 +3290,8 @@
       "speaker": {
         "id": 178896,
         "name": "Newton Cardoso Jr",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "newton-cardoso-jr"
       }
     },
     {
@@ -3048,7 +3303,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3060,7 +3316,8 @@
       "speaker": {
         "id": 220547,
         "name": "Marcos Pollon",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "marcos-pollon"
       }
     },
     {
@@ -3071,7 +3328,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3083,7 +3341,8 @@
       "speaker": {
         "id": 98148,
         "name": "Cobalchini",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cobalchini"
       }
     },
     {
@@ -3095,7 +3354,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3107,7 +3367,8 @@
       "speaker": {
         "id": 178871,
         "name": "Evair Vieira de Melo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "evair-vieira-de-melo"
       }
     },
     {
@@ -3119,7 +3380,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3131,7 +3393,8 @@
       "speaker": {
         "id": 204455,
         "name": "Luiz Lima",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "luiz-lima"
       }
     },
     {
@@ -3143,7 +3406,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3155,7 +3419,8 @@
       "speaker": {
         "id": 204481,
         "name": "Dr. Jaziel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-jaziel"
       }
     },
     {
@@ -3167,7 +3432,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3179,7 +3445,8 @@
       "speaker": {
         "id": 204481,
         "name": "Dr. Jaziel",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "dr-jaziel"
       }
     },
     {
@@ -3191,7 +3458,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3203,7 +3471,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3215,7 +3484,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3227,7 +3497,8 @@
       "speaker": {
         "id": 220685,
         "name": "Paulo Litro",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "paulo-litro"
       }
     },
     {
@@ -3239,7 +3510,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3251,7 +3523,8 @@
       "speaker": {
         "id": 204364,
         "name": "Eli Borges",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "eli-borges"
       }
     },
     {
@@ -3263,18 +3536,20 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 92428,
       "start_time": 1680122528,
       "duration": 21,
-      "transcription": "Eu queria registrar a presença aqui da nossa liderança do PSD de Vila Velha, o Juliana Ader, que é presidente de relações internacionais da câmara de Vila Velha. Muito obrigado presidente. Deputado Daniel, quero cumprimentar aí o seu visitante, parabenizar vossa excelência por.",
-      "summary": "Deputado cita e agradece à liderança do PSD de Vila Velha. Menciona e sauda o visitante de um colega e expressa sua congratulação a ele.",
+      "transcription": "\nEu queria registrar a presença aqui da nossa liderança do PSD de Vila Velha, o Juliana Ader, que é presidente de relações internacionais da câmara de Vila Velha. Muito obrigado presidente. Deputado Daniel, quero cumprimentar o seu visitante, parabenizar vossa excelência por",
+      "summary": " Deputado cita e agradece à liderança do PSD, sauda visitante, e o congratula.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -3286,7 +3561,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3298,7 +3574,8 @@
       "speaker": {
         "id": 220682,
         "name": "Tadeu Veneri",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "tadeu-veneri"
       }
     },
     {
@@ -3310,7 +3587,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3322,7 +3600,8 @@
       "speaker": {
         "id": 220546,
         "name": "Rodolfo Nogueira",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodolfo-nogueira"
       }
     },
     {
@@ -3334,17 +3613,19 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
       "id": 92432,
       "start_time": 1680123046,
       "duration": 7,
-      "transcription": "Ok deputado Duarte, já estamos anotando aqui, só que vossa excelência, como deputado Duarte eu já havia chamado dois",
+      "transcription": "\nOk deputado Duarte, já estamos anotando aqui, só que vossa excelência, como deputado Duarte eu já havia chamado dois",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -3356,7 +3637,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3368,7 +3650,8 @@
       "speaker": {
         "id": 220694,
         "name": "Ricardo Maia",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "ricardo-maia"
       }
     },
     {
@@ -3380,7 +3663,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3392,7 +3676,8 @@
       "speaker": {
         "id": 220591,
         "name": "Meire Serafim",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "meire-serafim"
       }
     },
     {
@@ -3404,7 +3689,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3416,7 +3702,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -3428,7 +3715,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3440,7 +3728,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -3451,7 +3740,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3463,7 +3753,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -3475,7 +3766,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3487,7 +3779,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -3499,7 +3792,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3511,7 +3805,8 @@
       "speaker": {
         "id": 107283,
         "name": "Gleisi Hoffmann",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "gleisi-hoffmann"
       }
     },
     {
@@ -3523,7 +3818,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3535,7 +3831,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3547,7 +3844,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3559,18 +3857,20 @@
       "speaker": {
         "id": 204472,
         "name": "José Medeiros",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "jose-medeiros"
       }
     },
     {
       "id": 675549,
       "start_time": 1680124303,
       "duration": 52,
-      "transcription": "Praticamente o setor de comunicação social do PT. Agora senhor presidente, eu vi também a fala da presidente do PT, todos nós queremos juros 0, juro baixo. E sabe quem queria mais juro baixo? José de Alencar, ex vicepresidente da república, que durante todo o período dos dois mandatos de Lula pedia que baixasse o juro. O presidente do Banco Central aquela época era indicado pelo Lula. E a pergunta que eu faço é, por que que os juros naquela época era mais alto do que os que estão agora? E por que que a presidente sobe ali, a presidente do PT sobe ali e demoniza esse esse presidente agora? Porque ele Pelo senhor presidente, para uma questão de ordem. Ah nosso",
-      "summary": "Participante critica comunicação social do PT, deseja juros baixos e questiona por que juros eram mais altos durante mandatos de Lula.",
+      "transcription": "\nPraticamente o setor de comunicação social do PT. Agora senhor presidente, eu vi também a fala da presidente do PT, todos nós queremos juros 0, juro baixo. E sabe quem queria mais juro baixo? José de Alencar, ex vicepresidente da república, que durante todo o período dos dois mandatos de Lula pedia que baixasse o juro. O presidente do Banco Central aquela época era indicado pelo Lula.\n\nE a pergunta que eu faço é, por que que os juros naquela época era mais alto do que os que estão agora? E por que que a presidente sobe ali, a presidente do PT sobe ali e demoniza esse esse presidente agora? Porque ele Pelo senhor presidente, para uma questão de ordem. Ah nosso",
+      "summary": " Participante critica comunicação social do PT, prefere juros baixos e questioning higher interest rates during Lula's administrations.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Gilberto Nascimento -- por Participante -- Pompeo de Mattos",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-gilberto-nascimento-por-participante-pompeo-de-mattos"
       }
     },
     {
@@ -3581,7 +3881,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3593,7 +3894,8 @@
       "speaker": {
         "id": 74270,
         "name": "Gilberto Nascimento",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "gilberto-nascimento"
       }
     },
     {
@@ -3605,18 +3907,20 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
       "id": 92457,
       "start_time": 1680124466,
       "duration": 235,
-      "transcription": "Obrigado senhor presidente. Boa noite a todos e todas venham à tribuna nessa noite num discurso em defesa da vida, em defesa da saúde, logo portanto, em defesa dos nutricionistas. Senhor presidente, não é justo, não é uma decisão adequada por parte dos planos de saúde, por parte das empresas de plano de saúde, recusar a solicitação de exames feitas por profissionais nutricionistas. Profissionais esses, que passam quatro anos das suas vidas estudando pra poder aprender compreender como melhor cuidar e bem nutrir as pessoas. Agora as empresas de plano de saúde tendo como interesse tão somente economia, a sua economia, como como interesse, tendo tão somente fazer com que os seus lucros possam aumentar, recusam as solicitações realizadas pelos profissionais da nutrição, solicitações de exames. Por isso, senhor presidente, venho a esta tribuna fazer essa gravíssima denúncia, que já vem sendo há muito tempo investigado pelo Procon do Estado do Maranhão e pelos órgãos de defesa do consumidor, para pedir a esta casa que possa em regime de urgência aprovar o PL cinco oito oito de dois mil e dezenove. O PL cinco oito oito de dois mil e dezenove se torna urgente a sua aprovação para que os profissionais da nutrição possam solicitar a realização de exames aos seus pacientes quando necessário. Eu já dialoguei com a doutora Patrícia Lima, a minha irmã, e ela tem feito uma série de reuniões com profissionais da nutrição para que estes possam buscar formalizar ainda mais as denúncias nos órgãos de defesa do consumidor. E é nesse sentido, senhor presidente, que eu peço a essa casa, que juntos possamos aprovar esse requerimento de urgência e provar e provar que o plano de saúde não está acima da lei. Provar também que o direito do consumidor a atendimento humanizado deve ser garantido, pois isso não é a favor. O consumidor paga e o plano de saúde precisa cumprir. Aproveito também a oportunidade, senhor presidente, nesse tempo da liderança do PSB, para manifestar o meu pesar a fato que ocorreu na cidade de Caxias, interior do estado do Maranhão, logo após fato ocorrido na cidade de São Paulo, senhor presidente, nós recebemos a notícia que hoje adolescente foi apreendido após dar tiros de espingarda dentro de uma escola na zona rural de Caxias. Senhor presidente, nós precisamos reunir aqui esforços para tratar da saúde mental, para cuidar das pessoas e para garantir segurança nas escolas, onde já se viu. Alguns dias, na cidade de São Paulo, uma professora perdeu a sua vida e agora em Caxias, na zona rural de Caxias, no interior do estado do Maranhão, jovem de dezessete anos entra com uma espingarda, dá tiros, graças a Deus não conseguiu matar ninguém e foi apreendido no Hospital Geral de Caxias. É por essa razão e nessa linha que eu peço a todos e todas aqui deputados, de toda e qualquer ideologia, que pare com esse discurso de falar em arma, de querer armar as pessoas porque arma não traz segurança pra ninguém, arma tem que estar na mão da polícia e o cidadão de bem tem que ter segurança pra ir e vir inclusive estudar. Muito obrigado senhor presidente, e peço que esses comunicados, que esse discurso possa ser repercutido na rádio Brasil, nos canais de comunicação da TV Câmara. Muito obrigado.",
-      "summary": "Deputado defende vida, saúde e nutricionistas; critica planos de saúde que recusam solicitações de exames; pede aprovação de PL 588/19 para permitir profissionais de nutrição solicitem exames; expressa preocupação com saúde mental e segurança em escolas; incentiva ao desarmamento dos cidadãos.",
+      "transcription": "\nObrigado senhor presidente. Boa noite a todos e todas venham à tribuna nessa noite num discurso em defesa da vida, em defesa da saúde, logo portanto em defesa dos nutricionistas. Senhor presidente, não é justo, não é uma decisão adequada por parte dos planos de saúde, por parte das empresas de plano de saúde, recusar a solicitação de exames feitas por profissionais nutricionistas, profissionais esses que passam quatro anos das suas vidas estudando pra poder aprender compreender como melhor cuidar e bem nutrir as pessoas. Agora, as empresas de plano de saúde tendo como interesse tão somente economia, a sua economia, como como interesse, tendo tão somente fazer com que os seus lucros possam aumentar, recusam as solicitações realizadas pelos profissionais da nutrição, solicitações de exames. Por isso, senhor presidente, venho a esta tribuna fazer essa gravíssima denúncia que já vem sendo há muito tempo investigado pelo Procon do Estado do Maranhão e pelos órgãos de defesa do consumidor para pedir a esta casa que possa em regime de urgência aprovar o PL cinco oito oito de dois mil e dezenove.\n\nO PL cinco oito oito de dois mil e dezenove se torna urgente a sua aprovação para que os profissionais da nutrição possam solicitar a realização de exames aos seus pacientes quando necessário. Eu já dialoguei com a doutora Patrícia Lima, a minha irmã, e ela tem feito uma série de reuniões com profissionais da nutrição para que estes possam buscar formalizar ainda mais as denúncias nos órgãos de defesa do consumidor. E é nesse sentido, senhor presidente, que eu peço a essa casa que juntos possamos aprovar esse requerimento de urgência e provar e provar que o plano de saúde não está acima da lei. Provar também que o direito do consumidor a atendimento humanizado deve ser garantido, pois isso não é favor. O consumidor paga e o plano de saúde precisa cumprir.\n\nAproveito também a oportunidade senhor presidente, nesse tempo da liderança do PSB, para manifestar o meu pesar a fato que ocorreu na cidade de Caxias, interior do estado do Maranhão, logo após, fato ocorrido na cidade de São Paulo, Senhor presidente, nós recebemos a notícia que hoje adolescente foi apreendido após dar tiros de espingarda dentro de uma escola na zona rural de Caxias. Senhor Presidente, nós precisamos reunir aqui esforços para tratar da saúde mental, para cuidar das pessoas e para garantir segurança nas escolas, onde já se viu. Alguns dias, na cidade de São Paulo, uma professora perdeu a sua vida e agora em Caxias, na zona rural de Caxias, no interior do estado do Maranhão, jovem de dezessete anos entra com uma espingarda, dá tiros, graças a Deus não conseguiu matar ninguém e foi apreendido no Hospital Geral de Caxias. É por essa razão e nessa linha que eu peço a todos e todas aqui deputados, de toda e qualquer ideologia, que pare com esse discurso de falar em arma, de querer armar as pessoas porque arma não traz segurança pra ninguém, arma tem que estar na mão da polícia e o cidadão de bem tem que ter segurança pra ir e vir inclusive estudar.\n\nMuito obrigado senhor presidente e peço que esses comunicados, que esse discurso possa ser repercutido na rádio Brasil, nos canais de comunicação da TV Câmara. Muito obrigado.",
+      "summary": " Deputado defende vida, saúde, aprimoramento de cuidados nutricionais e saúde mental, além de incentivar ao desarmamento dos cidadãos e à melhoria da segurança em escolas.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -3628,18 +3932,20 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
       "id": 92459,
       "start_time": 1680124721,
       "duration": 160,
-      "transcription": "Presidente, muito obrigado. Queria registrar presidente, agradecimento em elogio ao nosso presidente da casa, Arthur Lira, por acelerar essa pauta de votação das MPs, uma pauta muito importante que vai destravar situações importantíssimas pro executivo. Mas presidente, eu queria registrar que é muito importante que a gente inicie nessa casa aqui, logo na sequência, a discussão sobre a ampla fiscal e a discussão sobre o arcabouço fiscal e também a discussão sobre a reforma tributária. Presidente, a gente precisa pra acelerar o crescimento do Brasil, discutir e acelerar a reforma tributária nessa casa. Não é possível a gente manter o nosso arcabouço fiscal tão complexo nosso aborto tributário tão complexo como é hoje. Por isso, presidente, eu aprovei na comissão de saúde no dia de hoje uma audiência pública para iniciar a discussão da reforma tributária na comissão de saúde com a discussão da sobretaxa para cigarro, bebidas alcoólicas e também pra alimentos ultraprocessados. É muito importante que a gente não jogue essa discussão pra estaca 0 e que a gente possa continuar mantendo a sobretaxa de produtos que fazem mal à saúde da população. A reforma tributária, sem dúvida nenhuma, ela é essencial para nossa sociedade. Sem dúvida nenhuma, é muito importante que a gente aprove essa reforma no primeiro semestre, mas a gente não pode deixar para uma discussão posterior à discussão sobre a sobretaxa para cigarro, bebidas alcoólicas e alimentos ultraprocessados. Por isso, eu convido a todos os parlamentares dessa casa a participar ativamente dessa audiência pública na comissão de saúde sobre taxação de produtos que fazem mal à saúde na reforma tributária. Presidente, só pra concluir, eu também queria ressaltar que também foi aprovado hoje na comissão de fiscalização. A fiscalização almoxarifado do Ministério da Saúde em São Paulo. Dois ponto dois bilhões de reais foram vencidos em medicamentos, em insumos e em vacinas nesse almoxarifado e a gente precisa prevenir que isso aconteça novamente. Então eu queria agradecer a todos os parlamentares membros da comissão de fiscalização que aprovar esse requerimento, que a gente possa aprovar essa visita o mais breve possível. Muito obrigado a todos.",
-      "summary": "Deputado propõe iniciar discussão sobre reforma fiscal e sobretaxa para produtos nocivos à saúde; also, endorses fiscalização do Ministério da Saúde em São Paulo para prevenir desperdício de recursos em medicamentos, insumos e vacinas.",
+      "transcription": "\nPresidente, muito obrigado. Queria registrar presidente, agradecimento em elogio ao nosso presidente da casa, Arthur Lira, por acelerar essa pauta de votação das MPs, uma pauta muito importante que vai destravar situações importantíssimas pro Executivo. Mas presidente, eu queria registrar que é muito importante que a gente inicie nessa casa aqui, logo na sequência, a discussão sobre a ampla fiscal e a discussão sobre o arcabouço fiscal e também a discussão sobre a reforma tributária. Presidente, a gente precisa pra acelerar o crescimento do Brasil discutir e acelerar a reforma tributária nessa casa. Não é possível a gente manter o nosso arcabouço fiscal tão complexo e nosso arcabouço tributário tão complexo como é hoje.\n\nPor isso, presidente, eu aprovei na comissão de saúde no dia de hoje uma audiência pública para iniciar a discussão da reforma tributária na comissão de saúde com a discussão da sobretaxa para cigarro, bebidas alcoólicas e também para alimentos ultraprocessados. É muito importante que a gente não jogue essa discussão pra estaca 0 e que a gente possa continuar mantendo a sobretaxa de produtos que fazem mal à saúde da população. A reforma tributária, sem dúvida nenhuma, ela é essencial para a nossa sociedade. Sem dúvida nenhuma, é muito importante que a gente aprove essa reforma no primeiro semestre, mas a gente não pode deixar para uma discussão posterior à discussão sobre a sobretaxa para cigarro, bebidas alcoólicas e alimentos ultraprocessados. Por isso, eu convido a todos os parlamentares dessa casa a participar ativamente dessa audiência pública na comissão de saúde sobre taxação de produtos que fazem mal à saúde na reforma tributária.\n\nPresidente, só pra concluir, eu também queria ressaltar que também foi aprovado hoje na comissão de fiscalização, A fiscalização almoxarifado do Ministério da Saúde em São Paulo. Dois ponto dois bilhões de reais foram vencidos em medicamentos e insumos e em vacinas nesse almoxarifado e a gente precisa prevenir que isso aconteça novamente. Então eu queria agradecer a todos os parlamentares membros da comissão de fiscalização que aprovar esse requerimento, que a gente possa aprovar essa visita o mais velho possível. Muito obrigado a todos.",
+      "summary": " Deputado propõe discussão sobre reforma fiscal e sobretaxa para produtos nocivos à saúde, além de endossar fiscalização do Ministério de Saúde em São Paulo para prevenir desperdício de recursos em medicamentos, insumos e vacinas.",
       "speaker": {
         "name": "Daniel Soranz",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "daniel-soranz"
       }
     },
     {
@@ -3651,7 +3957,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3663,7 +3970,8 @@
       "speaker": {
         "id": 74161,
         "name": "Reginaldo Lopes",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "reginaldo-lopes"
       }
     },
     {
@@ -3675,7 +3983,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3687,7 +3996,8 @@
       "speaker": {
         "id": 220705,
         "name": "Deltan Dallagnol",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "deltan-dallagnol"
       }
     },
     {
@@ -3699,7 +4009,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3711,7 +4022,8 @@
       "speaker": {
         "id": 220574,
         "name": "Cabo Gilberto Silva",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "cabo-gilberto-silva"
       }
     },
     {
@@ -3722,7 +4034,8 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
@@ -3734,7 +4047,8 @@
       "speaker": {
         "id": 160604,
         "name": "Pedro Uczai",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pedro-uczai"
       }
     },
     {
@@ -3746,18 +4060,20 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     },
     {
       "id": 92469,
       "start_time": 1680125794,
       "duration": 56,
-      "transcription": "Radificar a importância de repercutir nos canais de comunicação da TV Câmara, rádio Câmara, a importância de aprovarmos em regime de urgência o PL cinco oito oito de dois mil e dezenove a favor dos nutricionistas para que eles possam requerer os exames necessários aos seus pacientes, aos consumidores através dos pães de saúde. E quero também dizer que eu acabo de receber informação que o prefeito da cidade de São Luís, capital do estado do Maranhão, exonerou dois secretários da sua equipe de governo. A secretaria de assistência social continua sem secretário, sem secretário para responder pela parte, secretaria de extrema importância e o secretário de trânsito e transporte foi exonerado é o segundo na atual gestão que vem a ser exonerado do cargo e pelo visto a gente percebe que pra resolver realmente problema do transporte público da nossa cidade não é exonerando secretário, é só exonerando o prefeito e isso o povo de São Luís vai fazer em dois mil e vinte e quatro. Muito obrigado.",
-      "summary": "Deputado destaca urgência de approvar PL beneficiando nutricionistas e denuncia exoneração de secretários responsáveis por assistência social e trânsito em São Luís, previendo mudanças após eleições de 2024.",
+      "transcription": "\nRadificar a importância de repercutir nos canais de comunicação da TV Câmara, rádio Câmara, a importância de aprovarmos em regime de urgência o PL cinco oito oito de dois mil e dezenove a favor dos nutricionistas para que eles possam requerer os exames necessários aos seus pacientes, aos consumidores através dos planos de saúde. E quero também dizer que eu acabo de receber informação que o prefeito da cidade de São Luís, capital do estado do Maranhão, exonerou dois secretários da sua equipe de governo. A secretaria de assistência social continua sem secretário para responder pela parte, você teria de extrema importância e o secretário de trânsito e transporte foi exonerado, é o segundo na atual gestão que vem a ser exonerado do cargo e pelo visto a gente percebe que para resolver realmente o problema do transporte público da nossa cidade não é exonerando secretário, é só exonerando o prefeito e isso o povo de São Luís vai fazer em dois mil e vinte e quatro. Muito obrigado.",
+      "summary": " Deputado apoia projeto de lei para nutricionistas e critica demissões de secretários em São Luís, preocupado com eleições de 2024.",
       "speaker": {
         "name": "Duarte",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "duarte"
       }
     },
     {
@@ -3769,9 +4085,10 @@
       "speaker": {
         "id": 73486,
         "name": "Pompeo de Mattos",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pompeo-de-mattos"
       }
     }
   ],
-  "updated_at": 1715597549
+  "updated_at": 1718634042
 }

@@ -18,7 +18,8 @@
       "speaker": {
         "id": 160553,
         "name": "Antonio Brito",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "antonio-brito"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "Eu vou falar que ele ele vai muito.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Antonio Brito -- por Participante -- Rodrigo Gambale",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-antonio-brito-por-participante-rodrigo-gambale"
       }
     },
     {
@@ -40,7 +42,8 @@
       "speaker": {
         "id": 220641,
         "name": "Rodrigo Gambale",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "rodrigo-gambale"
       }
     }
   ],

@@ -17,7 +17,8 @@
       "summary": "Inicia-se seminário sobre educação e cuidado com mulheres, no Outubro Rosa, com ênfase em prevenção e diagnóstico precoce de câncer de mama. Debate sobre desigualdade de acesso e inovações no tratamento, com participação de líderes parlamentares e especialistas em saúde.",
       "speaker": {
         "name": "Ana Cláudia Lustosa",
-        "position": "Chefe de Gabinete da Secretaria da Mulher"
+        "position": "Chefe de Gabinete da Secretaria da Mulher",
+        "slug": "ana-claudia-lustosa"
       }
     },
     {
@@ -29,7 +30,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -41,7 +43,8 @@
       "speaker": {
         "id": 220566,
         "name": "Lêda Borges",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "leda-borges"
       }
     },
     {
@@ -53,7 +56,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -64,7 +68,8 @@
       "summary": "Integrante da Comissão Intersetorial de Saúde da Mulher - Conselho Nacional de Saúde abordou câncer de mama em Brasil, com 18 mil mortes em 2022, predominantemente negras. Epidemiologia relevante no acesso ao SUS, determinantes sociais, racismo institucional e desigualdade no cuidado de saúde, impactando mulheres negras e de baixa renda. Promovemos discussões sobre emprego, educação e cultura para superar gargalos no acesso à saúde.",
       "speaker": {
         "name": "Damiana Bernardo de Oliveira Neto",
-        "position": "Integrante da Comissão Intersetorial de Saúde da Mulher - Conselho Nacional de Saúde"
+        "position": "Integrante da Comissão Intersetorial de Saúde da Mulher - Conselho Nacional de Saúde",
+        "slug": "damiana-bernardo-de-oliveira-neto"
       }
     },
     {
@@ -76,7 +81,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -87,7 +93,8 @@
       "summary": "Secretária Nacional de Aquicultura comparte experiência de câncer, destaca importância de acesso a saúde para todos, especialmente mulheres, enfatiza conscientização sobre câncer de mama em homens e mulheres, menciona jornada das mulheres e necessidade de mudar lista de espera em Centros de Câncer e acesso a fisioterapia no SUS, e promove Outubro Rosa como luta contínua, não festividade.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -99,7 +106,8 @@
       "speaker": {
         "id": 153423,
         "name": "Renilce Nicodemos",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "renilce-nicodemos"
       }
     },
     {
@@ -109,7 +117,8 @@
       "transcription": "",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Renilce Nicodemos -- por Participante -- Tereza Nelma",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-renilce-nicodemos-por-participante-tereza-nelma"
       }
     },
     {
@@ -121,7 +130,8 @@
       "speaker": {
         "id": 73701,
         "name": "Benedita da Silva",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "benedita-da-silva"
       }
     },
     {
@@ -132,7 +142,8 @@
       "summary": "Secretária Nacional de Aquicultura discute experiência com câncer, ênfase em detecção precoce, combate a preconceitos, desafios com leis de saúde no Brasil, necessidade de aplicar e parceriar em saúde, e próxima continuação da luta com nova equipe.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -143,7 +154,8 @@
       "summary": "Comissão Intersetorial de Saúde da Mulher concorda com presidente e agradece.",
       "speaker": {
         "name": "Damiana Bernardo de Oliveira Neto",
-        "position": "Integrante da Comissão Intersetorial de Saúde da Mulher - Conselho Nacional de Saúde"
+        "position": "Integrante da Comissão Intersetorial de Saúde da Mulher - Conselho Nacional de Saúde",
+        "slug": "damiana-bernardo-de-oliveira-neto"
       }
     },
     {
@@ -154,7 +166,8 @@
       "summary": "Mulheres representam maioria da população e desejam trabalhar e participar. Convidados convidados incluem especialistas em saúde da mulher da OPA, Ministério da Saúde, Oncoguia, e organizações Américas Amigas e UPAs. Lei de nº 14.450 é crucial para acompanhamento de telemedicina de pacientes, especialmente no contexto da pandemia. A Secretária Nacional de Aquicultura expressa sua gratidão para a Avon e apresenta consultora da UPAs.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -165,7 +178,8 @@
       "summary": "Consultora OPAS enfatiza prevenção câncer mama e colo do útero, incentiva vacinação HPV, inovação tecnológica, e cuidado integrado priorizando pessoas vulneráveis, considerando equidade e determinantes sociais saúde. Outubro Rosa viu 40% aumento demanda diagnóstico e prevenção; alimentação inadequada e tabagismo impactam câncer incidência.",
       "speaker": {
         "name": "Gabriela Giacomini Bertoche",
-        "position": "Consultora Nacional em Saúde da Mulher - Organização Pan-Americana da Saúde (OPAS)"
+        "position": "Consultora Nacional em Saúde da Mulher - Organização Pan-Americana da Saúde (OPAS)",
+        "slug": "gabriela-giacomini-bertoche"
       }
     },
     {
@@ -176,7 +190,8 @@
       "summary": "Secretária Nacional de Aquicultura propõe intensificar esforços na promoção da vida das mulheres, com determinada política e investimento, incentivando apoio e parcerias, como exemplificado pelo projeto de sucesso no Rio de Janeiro para prevenção e tratamento de câncer feminino.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -187,7 +202,8 @@
       "summary": "Diretora-Executiva do Instituto Avon:",
       "speaker": {
         "name": "Daniela Grelin",
-        "position": "Diretora-Executiva - Instituto Avon"
+        "position": "Diretora-Executiva - Instituto Avon",
+        "slug": "daniela-grelin"
       }
     },
     {
@@ -198,7 +214,8 @@
       "summary": "Secretária Nacional de Aquicultura agradece iniciativa da Avon por mulheres, menciona apoio do passado e convida deputadas Francine Bayer e Luciana do Oncoguia para evento.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -209,7 +226,8 @@
       "summary": "Presidente do Instituto Oncoguia discutiu desigualdades no cuidado com câncer; dados da pesquisa mostram impacto na saúde em favelas, com acometimento de mulheres negras de classe baixa, acesso difícil à UBS e exames tardios. Solicitam-se mais investimento em saúde, informação e médicos nas comunidades, especial atenção à prevenção e diagnóstico precoce, considerando fatores sociais e econômicos vulneráveis.",
       "speaker": {
         "name": "Luciana Holtz de Camargo Barros",
-        "position": "Presidente - Instituto Oncoguia"
+        "position": "Presidente - Instituto Oncoguia",
+        "slug": "luciana-holtz-de-camargo-barros"
       }
     },
     {
@@ -220,7 +238,8 @@
       "summary": "Lutou contra câncer, quatro diagnósticos e erro médico, resultando em perda de rim e problemas de equilíbrio. Destaca necessidade de melhor atendimento e investimento contra câncer, citando falta de agulhas em máquina de diagnóstico em Alagoas, apesar de dinheiro disponível. Exorta CONASS e CONACEMS a se aproximarem e enfrentarem a realidade brasileira sobre o câncer.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -231,7 +250,8 @@
       "summary": "Saúde é direito humano, inclui aspectos sociais e econômicos. É necessário abordar desigualdades em saúde, especialmente no câncer de mama e colo de útero em mulheres negras e de baixa renda. Políticas públicas e ferramentas adequadas são necessárias, incluindo agenda 2030 e objetivo de desenvolvimento sustentável. Educação infantil e acesso à saúde são fatores determinantes da saúde.",
       "speaker": {
         "name": "Cláudia Lima Araújo",
-        "position": "Consultora Técnica de Equidade e Determinantes Sociais em Saúde - Ministério da Saúde"
+        "position": "Consultora Técnica de Equidade e Determinantes Sociais em Saúde - Ministério da Saúde",
+        "slug": "claudia-lima-araujo"
       }
     },
     {
@@ -242,7 +262,8 @@
       "summary": "Secretária Nacional de Aquicultura prioriza vacinação contra HPV, com apoio do MEC e gestores, combatendo preconceito e promovendo saúde em jovens.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -252,7 +273,8 @@
       "transcription": "Saúde na escola. Muito bem. Então,",
       "speaker": {
         "name": "Cláudia Lima Araújo",
-        "position": "Consultora Técnica de Equidade e Determinantes Sociais em Saúde - Ministério da Saúde"
+        "position": "Consultora Técnica de Equidade e Determinantes Sociais em Saúde - Ministério da Saúde",
+        "slug": "claudia-lima-araujo"
       }
     },
     {
@@ -263,7 +285,8 @@
       "summary": "Secretária Nacional de Aquicultura mencionou época de vacunas deterioradas em postos e secretarias de saúde, acolhe Gemina e saudações de boa tarde.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -274,7 +297,8 @@
       "summary": "Assistente de Saúde da Mulher prioriza atendimento integral a mulheres, considerando desigualdades e focando em saúde sexual, câncer, violência e humanização de serviços. Meta é reduzir mortalidade materna em 44% ao 2030, desafio agravado por pandemia.",
       "speaker": {
         "name": "Jemina Prestes de Souza",
-        "position": "Assessora Técnica da Coordenação de Atenção à Saúde da Mulher - Ministério da Saúde"
+        "position": "Assessora Técnica da Coordenação de Atenção à Saúde da Mulher - Ministério da Saúde",
+        "slug": "jemina-prestes-de-souza"
       }
     },
     {
@@ -285,7 +309,8 @@
       "summary": "Luta diária pela saúde da mulher; convidando Amiga Americas falar. (Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura)",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -296,7 +321,8 @@
       "summary": "Gerente Geral - Organização Américas Amigas destacou a importância da organização no Brasil, apesar de poucos recursos, por meio de doações de mamógrafos e exames de mama para hospitais públicos e filantrópicos, promovendo diagnósticos precoces de câncer de mama, além de capacitação de profissionais de saúde em todas as regiões do país. Em 2022, uma campanha na Amazônia Legal atendeu populações vulneráveis em cinco estados.",
       "speaker": {
         "name": "Mirna Hallay",
-        "position": "Gerente Geral - Organização Américas Amigas"
+        "position": "Gerente Geral - Organização Américas Amigas",
+        "slug": "mirna-hallay"
       }
     },
     {
@@ -307,7 +333,8 @@
       "summary": "Projeto gratificante, acolhimento carinhoso a mulheres; apreciação por apoio, missão indígena, bençãos a todos.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -317,7 +344,8 @@
       "transcription": "Nessa unidade móvel as mulheres chegam com horário.",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -328,7 +356,8 @@
       "summary": "Unidade móvel fornece exames de mama; agenda pré-marcada, atendimento rápido e resultados imediatos; grande número de pessoas atendidas diariamente; foco em mulheres em situação de vulnerabilidade; contribuição para diagnósticos precoces e redução da mortalidade por câncer de mama.",
       "speaker": {
         "name": "Mirna Hallay",
-        "position": "Gerente Geral - Organização Américas Amigas"
+        "position": "Gerente Geral - Organização Américas Amigas",
+        "slug": "mirna-hallay"
       }
     },
     {
@@ -339,7 +368,8 @@
       "summary": "Secretária Nacional de Aquicultura reconhece importância de iniciativas do terceiro setor para ajudar as pessoas; agradece a empresas como Avon e Natura por sua contribuação; menciona um evento no Ministério da Agricultura e Pesca para mulheres; conveca uma ação de quatro dias.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -350,7 +380,8 @@
       "summary": "Mulheres cadastradas: 7.000. Apoio integral pela Organização Américas Amigas, inclui exames gratuitos até diagnóstico.",
       "speaker": {
         "name": "Mirna Hallay",
-        "position": "Gerente Geral - Organização Américas Amigas"
+        "position": "Gerente Geral - Organização Américas Amigas",
+        "slug": "mirna-hallay"
       }
     },
     {
@@ -361,7 +392,8 @@
       "summary": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura destacou importância de ajudar outros, falou sobre sua luta por melhores condições para mulheres, especialmente no acesso a saúde em Alagoas. Mencionou nova mesa com foco em homens para ajudar nessa causa.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -372,7 +404,8 @@
       "summary": "Pesquisador em Saúde Pública - Fundação Oswaldo Cruz desenvolveu um biosensor para detectar câncer de mama através de um teste de sangue, com o objetivo de acelerar o diagnóstico e trazer economia no tratamento. A mamografia tem baixa adesão devido ao desconforto. O projeto está em validação analítica, procura parceiro estratégico e apoio regulatório e financeiro para deixar o \"vale da morte\" e atingir o mercado.",
       "speaker": {
         "name": "Leonardo Foti",
-        "position": "Pesquisador em Saúde Pública - Fundação Oswaldo Cruz"
+        "position": "Pesquisador em Saúde Pública - Fundação Oswaldo Cruz",
+        "slug": "leonardo-foti"
       }
     },
     {
@@ -383,7 +416,8 @@
       "summary": "Secretária Nacional de Aquicultura apoia doutor Luiz Forte para acesso político necessário; destaca importância de resolver caso com pesquisa e coordenação; envia saudações para doutora Mayra, uma profissional que fez diferença na luta contra câncer de mama.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -394,7 +428,8 @@
       "summary": "Estudo sobre câncer de mama no Brasil feito pelo Coordenador de Relações Governamentais da Femama, em parceria com Veja Saúde e AFEMAMI, revelou maioria de mulheres usando planos de saúde para tratamento e 37% recorrendo ao SUS. Muitas pacientes tinham parentes com câncer de mama, não sentiram sintomas antes do diagnóstico, procuraram informações em outras fontes e poucas receberam orientação médica para associar-se a ONGs.",
       "speaker": {
         "name": "Alexandre Ben",
-        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama (Femama)"
+        "position": "Coordenador de Relações Governamentais - Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama (Femama)",
+        "slug": "alexandre-ben"
       }
     },
     {
@@ -405,7 +440,8 @@
       "summary": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura fala sobre parceria com FEMAMA e Hospital de Amor, nomeando pessoas e regiões. Ela deseja ajudar e instalar hospitais de prevensão, reconhecendo dificuldades políticas. Falou sobre ação e importância de trazer informação. Conclui com um gesto de convite ao \"senhor Luiz\" e boa tarde a todos.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     },
     {
@@ -416,7 +452,8 @@
       "summary": "Hospital de Amor prioriza diagnóstico precoce de câncer, usa inteligência artificial para otimizar diagnóstico inicial e reduzir custos, através de telessaúde e apoio de doações e emendas. Startups nacionais contribuem com soluções, incluindo diagnóstico precoce e tratamento, em todo o país. Deficit de R$900mi será superado em 2022.",
       "speaker": {
         "name": "Luís Romagnolo",
-        "position": "Diretor de Inovação - Hospital de Amor"
+        "position": "Diretor de Inovação - Hospital de Amor",
+        "slug": "luis-romagnolo"
       }
     },
     {
@@ -427,7 +464,8 @@
       "summary": "Secretária Nacional de Aquicultura fala sobre projetos de saúde, especialmente para mulheres no nordeste. Menciona hospital de amor em 16 estados, oficina ortopédica itinerante, e apoio da FEMAMA e secretaria da mulher. Falou sobre sua luta pessoal com câncer de mama. Falou sobre a necessidade de aproximar o SUS e Ministério da Saúde das pessoas. Agraecimentos a equipe e participantes da audiência.",
       "speaker": {
         "name": "Tereza Nelma",
-        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura"
+        "position": "Secretária Nacional de Aquicultura - Ministério da Pesca e Aquicultura",
+        "slug": "tereza-nelma"
       }
     }
   ],

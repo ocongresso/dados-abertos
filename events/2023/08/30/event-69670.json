@@ -18,7 +18,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -28,7 +29,8 @@
       "transcription": "",
       "speaker": {
         "name": "Inicio da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -38,7 +40,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da execução do Hino Nacional",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-execucao-do-hino-nacional"
       }
     },
     {
@@ -50,7 +53,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -61,7 +65,8 @@
       "summary": "Trinta anos de história da ANPREV: começo em 1992, lutas, trabalho e conquistas. Criação da advocacia pública federal protagonizada por Ambev. Reconhecimento a colaboradores e figuras chave, como o doutor Francisco Adalberto Nóbrega. Importância na implementação de direitos sociais e fortalecimento de instituições. Desejo de continuar trabalhando em prol da advocacia pública e de seus associados.",
       "speaker": {
         "name": "Inicio da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-apresentacao-do-video"
       }
     },
     {
@@ -71,7 +76,8 @@
       "transcription": "",
       "speaker": {
         "name": "Término da apresentação do vídeo",
-        "position": ""
+        "position": "",
+        "slug": "termino-da-apresentacao-do-video"
       }
     },
     {
@@ -83,7 +89,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -94,7 +101,8 @@
       "summary": "Reunião celebrando 30 anos de ANPPREV: trajetória de lutas, vitórias, compromisso e união de muitos, honrando passado e construindo futuro brilhante. Agradecimentos a apoiadores, especialmente a idealizadora Meire Lúcia Gomes Monteiro Mota e parlamentares.",
       "speaker": {
         "name": "MARIA SANTÍSSIMA MARQUES",
-        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV"
+        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV",
+        "slug": "maria-santissima-marques"
       }
     },
     {
@@ -106,7 +114,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -117,7 +126,8 @@
       "summary": "Consultor Jurídico do Ministério da Previdência Social agradece convidação e cumprimenta Amprev por 30 anos de trabalho; reconhece importância da Previdência Social e papel vital dos procuradores e advogados públicos nela.",
       "speaker": {
         "name": "FELIPE CAVALCANTE",
-        "position": "Consultor Jurídico do Ministério da Previdência Social"
+        "position": "Consultor Jurídico do Ministério da Previdência Social",
+        "slug": "felipe-cavalcante"
       }
     },
     {
@@ -129,7 +139,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -140,7 +151,8 @@
       "summary": "Agradecimento pela luta e compromisso da ANPREV em defender os direitos de seus associados e a carreira dos procuradores, respeitando gestões anteriores e trabalhando em parceria com a Procuradoria-Geral Federal e a Advocacia-Geral da União. Reconhecimento por anos de dedicação e vitórias alcançadas, desejando muitos anos de sucesso e renovação na luta e celebração de momentos importantes.",
       "speaker": {
         "name": "IGOR LINS",
-        "position": "Subprocurador-geral da Procuradoria-Geral Federal"
+        "position": "Subprocurador-geral da Procuradoria-Geral Federal",
+        "slug": "igor-lins"
       }
     },
     {
@@ -152,7 +164,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -163,7 +176,8 @@
       "summary": "Período ANPPREV 1992-2",
       "speaker": {
         "name": "CARLOS DOMINGOS MOTA COELHO",
-        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV, no período de 1992/2002"
+        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV, no período de 1992/2002",
+        "slug": "carlos-domingos-mota-coelho"
       }
     },
     {
@@ -175,7 +189,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     },
     {
@@ -186,7 +201,8 @@
       "summary": "Presidente da ANPPREV, 2012/2",
       "speaker": {
         "name": "ANTONIO RODRIGUES DA SILVA",
-        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV, no período de 2012/2019"
+        "position": "Presidente da Associação Nacional dos Procuradores e Advogados Públicos Federais – ANPPREV, no período de 2012/2019",
+        "slug": "antonio-rodrigues-da-silva"
       }
     },
     {
@@ -198,7 +214,8 @@
       "speaker": {
         "id": 98057,
         "name": "Lafayette de Andrada",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "lafayette-de-andrada"
       }
     }
   ],

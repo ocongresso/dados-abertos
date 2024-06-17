@@ -14,7 +14,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -25,7 +26,8 @@
       "summary": " Votação em andamento, incentivo a participar. Referência a deputada Laura votando. Exortação a registrar e votar rapidamente. Pergunta se outros deputados desejam votar, incluindo \"pastor\". Após ninguém mais quiser votar, declara-se o encerramento da votação e passa-se para a apuração dos votos.",
       "speaker": {
         "name": "Início da Votação",
-        "position": ""
+        "position": "",
+        "slug": "inicio-da-votacao"
       }
     },
     {
@@ -36,7 +38,8 @@
       "summary": " Presidente eurico elected, grato a colaboradores, comissão produziu bem no ano de 2023. Sucesso e sabedoria desejados a pastor eurico. Departing president se despede, agradece equipe e secretária Márcia.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": ""
+        "position": "",
+        "slug": "fim-da-votacao"
       }
     },
     {
@@ -47,7 +50,8 @@
       "summary": " Discurso na troca de presidência: agradece a Fernando Rodolfo pelo seu mandato, saudações ao novo presidente, Pastor Eurico, homenagem às mulheres no Dia das Mulheres, incluindo a primeira-dama Damares Alves.",
       "speaker": {
         "name": "Troca da mesa -- Presidente -- Fernando Rodolfo -- por Participante -- Pastor Eurico",
-        "position": ""
+        "position": "",
+        "slug": "troca-da-mesa-presidente-fernando-rodolfo-por-participante-pastor-eurico"
       }
     },
     {
@@ -58,7 +62,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -70,7 +75,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -82,7 +88,8 @@
       "speaker": {
         "id": 178947,
         "name": "Sóstenes Cavalcante",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "sostenes-cavalcante"
       }
     },
     {
@@ -93,7 +100,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -105,7 +113,8 @@
       "speaker": {
         "id": 204462,
         "name": "Chris Tonietto",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "chris-tonietto"
       }
     },
     {
@@ -116,7 +125,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -128,7 +138,8 @@
       "speaker": {
         "id": 204553,
         "name": "Pastor Sargento Isidório",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-sargento-isidorio"
       }
     },
     {
@@ -139,7 +150,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -151,7 +163,8 @@
       "speaker": {
         "id": 220665,
         "name": "Clarissa Tércio",
-        "position": "Deputada"
+        "position": "Deputada",
+        "slug": "clarissa-tercio"
       }
     },
     {
@@ -163,7 +176,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     },
     {
@@ -174,7 +188,8 @@
       "speaker": {
         "id": 204427,
         "name": "Fernando Rodolfo",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "fernando-rodolfo"
       }
     },
     {
@@ -186,7 +201,8 @@
       "speaker": {
         "id": 160642,
         "name": "Pastor Eurico",
-        "position": "Deputado"
+        "position": "Deputado",
+        "slug": "pastor-eurico"
       }
     }
   ],
