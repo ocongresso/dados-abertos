@@ -234,8 +234,7 @@
       "summary": "Votação iniciada para aprovação do relatório, com orientação de bancada, incluindo PL, para sentar-se em seus lugares.",
       "speaker": {
         "name": "Início da Votação",
-        "position": "",
-        "slug": "inicio-da-votacao"
+        "position": ""
       }
     },
     {
@@ -620,8 +619,7 @@
       "summary": "Votação terminada. Dezessete a favor de retirada de pauta, discutida com relator.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": "",
-        "slug": "fim-da-votacao"
+        "position": ""
       }
     },
     {

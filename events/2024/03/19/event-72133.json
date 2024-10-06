@@ -26,8 +26,7 @@
       "summary": " Início de votação, pedido de licença para votar, opção de falar antes do encerramento da votação, presença da vice-presidente.",
       "speaker": {
         "name": "Início da Votação",
-        "position": "",
-        "slug": "inicio-da-votacao"
+        "position": ""
       }
     },
     {
@@ -62,8 +61,7 @@
       "transcription": "Voto no painel",
       "speaker": {
         "name": "Fim da Votação",
-        "position": "",
-        "slug": "fim-da-votacao"
+        "position": ""
       }
     },
     {

@@ -173,8 +173,7 @@
       "summary": "Votação sobre retirada: sim = aprova, não = discorda.",
       "speaker": {
         "name": "Início da Votação",
-        "position": "",
-        "slug": "inicio-da-votacao"
+        "position": ""
       }
     },
     {
@@ -250,8 +249,7 @@
       "summary": "Participante sugeriu que, no processo de votação em andamento, se houver unanimidade, o resultado possa ser encaminhado por pedido de ofício.",
       "speaker": {
         "name": "Participante",
-        "position": "Participante",
-        "slug": "participante"
+        "position": "Participante"
       }
     },
     {
@@ -313,8 +311,7 @@
       "summary": "Encerra-se sessão, juntaremos-nos com o relator e deputados para dialogar e chegar a um texto em comum. Obrigado.",
       "speaker": {
         "name": "Fim da Votação",
-        "position": "",
-        "slug": "fim-da-votacao"
+        "position": ""
       }
     },
     {
@@ -350,8 +347,7 @@
       "transcription": "Está vendo muito muito ruído aqui está atrapalhando o nosso relator. Muito bem então vamos",
       "speaker": {
         "name": "Participante",
-        "position": "Participante",
-        "slug": "participante"
+        "position": "Participante"
       }
     },
     {

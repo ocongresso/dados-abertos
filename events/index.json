@@ -1,15 +1,45 @@
 [
   {
-    "id": 67248,
-    "title": "COMISSÃO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
-    "description": "Reunião de  Instalação e Eleição dos membros da Mesa - CCTI.",
-    "start_time": 1678882161
+    "id": 67288,
+    "title": "COMISSÃO DE LEGISLAÇÃO PARTICIPATIVA",
+    "description": "Discussão e votação de propostas legislativas",
+    "start_time": 1679493556
+  },
+  {
+    "id": 67265,
+    "title": "COMISSÃO DE DIREITOS HUMANOS, MINORIAS E IGUALDADE RACIAL",
+    "description": "Eleição de Presidente da CDHMIR",
+    "start_time": 1678888019
+  },
+  {
+    "id": 67269,
+    "title": "COMISSÃO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS",
+    "description": "Reunião de Instalação e Eleição para o cargo de Presidente",
+    "start_time": 1678886797
+  },
+  {
+    "id": 67284,
+    "title": "GRUPO DE TRABALHO SOBRE ALTERNATIVAS DIGITAIS DE TRIBUTAÇÃO E DESBUROCRATIZAÇÃO",
+    "description": "I. Definição do plano de trabalho;\r\n\r\nII. Deliberação de requerimentos (estão sujeitos a pauta os requerimentos apresentados até 24h antes do horário da reunião).",
+    "start_time": 1680169304
   },
   {
     "id": 67260,
     "title": "COMISSÃO DE INTEGRAÇÃO NACIONAL E DESENVOLVIMENTO REGIONAL",
     "description": "Reunião de Instalação e Eleição da Mesa Diretora da Comissão.",
     "start_time": 1678887132
+  },
+  {
+    "id": 67248,
+    "title": "COMISSÃO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+    "description": "Reunião de  Instalação e Eleição dos membros da Mesa - CCTI.",
+    "start_time": 1678882161
+  },
+  {
+    "id": 67264,
+    "title": "COMISSÃO DA AMAZÔNIA E DOS POVOS ORIGINÁRIOS E TRADICIONAIS",
+    "description": "Reunião de Instalação e Eleição da Mesa Diretora da Comissão.",
+    "start_time": 1678890526
   },
   {
     "id": 67256,
@@ -24,34 +54,16 @@
     "start_time": 1678877674
   },
   {
-    "id": 67250,
-    "title": "COMISSÃO DE FINANÇAS E TRIBUTAÇÃO",
-    "description": "Reunião de Instalação e Eleição do Presidente e Vice-Presidentes",
-    "start_time": 1678877995
+    "id": 67275,
+    "title": "COMISSÃO DE TRABALHO",
+    "description": "Reunião de Instalação e Eleição do Presidente e dos Vice-Presidentes.",
+    "start_time": 1678882449
   },
   {
-    "id": 67084,
-    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
-    "description": "31/01/2023 - Quinto Encontro Parlamentar",
-    "start_time": 1675123200
-  },
-  {
-    "id": 67193,
-    "title": "SECRETARIA DA MULHER",
-    "description": "09/03/2023 - Incorporação de gênero e raça nos instrumentos de planejamento",
-    "start_time": 1678320000
-  },
-  {
-    "id": 67089,
-    "title": "CN",
-    "description": "Inauguração da 1ª Sessão Legislativa Ordinária da 57ª Legislatura",
-    "start_time": 1675350360
-  },
-  {
-    "id": 67182,
-    "title": "PLENÁRIO",
-    "description": "Homenagem às Trabalhadoras e Trabalhadores de Serviços Gerais e de Manutenção, que atuaram na Limpeza e Recuperação Predial da Praça dos Três Poderes.",
-    "start_time": 1678097760
+    "id": 67271,
+    "title": "COMISSÃO DE DEFESA DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+    "description": "Instalação e Eleição do Presidente da CPD",
+    "start_time": 1678890498
   },
   {
     "id": 67258,
@@ -60,22 +72,52 @@
     "start_time": 1678877880
   },
   {
-    "id": 67249,
-    "title": "COMISSÃO DO ESPORTE",
-    "description": "Reunião de Instalação e Eleição da Mesa Diretora",
-    "start_time": 1678887853
+    "id": 67276,
+    "title": "COMISSÃO DE TURISMO",
+    "description": "Discussão e votação de propostas",
+    "start_time": 1679494342
   },
   {
-    "id": 67247,
-    "title": "COMISSÃO DE RELAÇÕES EXTERIORES E DE DEFESA NACIONAL",
-    "description": "Reunião de Instalação da Comissão e Eleição da Mesa",
-    "start_time": 1678877052
+    "id": 67272,
+    "title": "COMISSÃO DE COMUNICAÇÃO",
+    "description": "Reunião de Instalação e Eleição.",
+    "start_time": 1678889525
   },
   {
-    "id": 67192,
-    "title": "SECRETARIA DA MULHER",
-    "description": "07/03/2023 - Abertura da Campanha Março Mulher",
-    "start_time": 1678147200
+    "id": 67250,
+    "title": "COMISSÃO DE FINANÇAS E TRIBUTAÇÃO",
+    "description": "Reunião de Instalação e Eleição do Presidente e Vice-Presidentes",
+    "start_time": 1678877995
+  },
+  {
+    "id": 67280,
+    "title": "COMISSÃO DE ADMINISTRAÇÃO E SERVIÇO PÚBLICO",
+    "description": "A - Reunião de  Instalação da Comissão de Administração e Serviço Público; e \r\n\r\nB - Eleição do Presidente e dos Vice-Presidentes.",
+    "start_time": 1679407030
+  },
+  {
+    "id": 67268,
+    "title": "COMISSÃO DE LEGISLAÇÃO PARTICIPATIVA",
+    "description": "Reunião de instalação e eleição",
+    "start_time": 1678887569
+  },
+  {
+    "id": 67278,
+    "title": "PLENÁRIO",
+    "description": "Homenagem à Campanha de Conscientização do Mês da Obesidade",
+    "start_time": 1678980180
+  },
+  {
+    "id": 67263,
+    "title": "COMISSÃO DE DEFESA DOS DIREITOS DA MULHER",
+    "description": "Reunião de instalação e eleição de Presidente e Vice-presidentes",
+    "start_time": 1678887572
+  },
+  {
+    "id": 67289,
+    "title": "COMISSÃO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+    "description": "- Aposição da foto do  Deputado Milton Coelho na galeria dos presidentes da comissão.",
+    "start_time": 1679482167
   },
   {
     "id": 67251,
@@ -84,22 +126,16 @@
     "start_time": 1678883717
   },
   {
-    "id": 67230,
-    "title": "COMISSÃO EXTERNA PARA FISCALIZAÇÃO DOS ROMPIMENTOS DE BARRAGENS E REPACTUAÇÃO",
-    "description": "Deliberção de Requerimentos",
-    "start_time": 1678878771
+    "id": 67249,
+    "title": "COMISSÃO DO ESPORTE",
+    "description": "Reunião de Instalação e Eleição da Mesa Diretora",
+    "start_time": 1678887853
   },
   {
-    "id": 67184,
-    "title": "PLENÁRIO",
-    "description": "Homenagem aos 56 anos da Zona Franca de Manaus e da Superintendência da Zona Franca de Manaus - Suframa",
-    "start_time": 1678184220
-  },
-  {
-    "id": 67137,
-    "title": "COMISSÃO DE VIAÇÃO E TRANSPORTES",
-    "description": "Reunião de Instalação e Eleição para a Mesa Diretora da Comissão de Viação e Transportes",
-    "start_time": 1678878185
+    "id": 67192,
+    "title": "SECRETARIA DA MULHER",
+    "description": "07/03/2023 - Abertura da Campanha Março Mulher",
+    "start_time": 1678147200
   },
   {
     "id": 67220,
@@ -108,28 +144,10 @@
     "start_time": 1678702020
   },
   {
-    "id": 67130,
-    "title": "CN",
-    "description": "Sessão Solene destinada a homenagear Rui Barbosa, patrono do Senado.",
-    "start_time": 1677665880
-  },
-  {
-    "id": 67117,
-    "title": "PLENÁRIO",
-    "description": "Homenagem à Polícia Civil do Distrito Federal Pela Elucidação da Maior Chacina da História do Distrito Federal",
-    "start_time": 1676539140
-  },
-  {
-    "id": 67049,
-    "title": "CN",
-    "description": "Receber o compromisso e dar posse ao Presidente e Vice eleitos",
-    "start_time": 1672585020
-  },
-  {
-    "id": 67060,
-    "title": "PLENÁRIO",
-    "description": "Sessão Preparatória - Eleição",
-    "start_time": 1675270620
+    "id": 67193,
+    "title": "SECRETARIA DA MULHER",
+    "description": "09/03/2023 - Incorporação de gênero e raça nos instrumentos de planejamento",
+    "start_time": 1678320000
   },
   {
     "id": 67259,
@@ -138,16 +156,22 @@
     "start_time": 1678887694
   },
   {
-    "id": 67115,
-    "title": "CN",
-    "description": "Destinada a comemorar os 130 anos de atividade do TCU.",
-    "start_time": 1676455740
+    "id": 67247,
+    "title": "COMISSÃO DE RELAÇÕES EXTERIORES E DE DEFESA NACIONAL",
+    "description": "Reunião de Instalação da Comissão e Eleição da Mesa",
+    "start_time": 1678877052
   },
   {
-    "id": 67087,
+    "id": 67285,
     "title": "PLENÁRIO",
-    "description": "Sessão Deliberativa Extraordinária",
-    "start_time": 1675333800
+    "description": "Homenagem ao Dia Internacional do Contador de Histórias",
+    "start_time": 1679066160
+  },
+  {
+    "id": 67230,
+    "title": "COMISSÃO EXTERNA PARA FISCALIZAÇÃO DOS ROMPIMENTOS DE BARRAGENS E REPACTUAÇÃO",
+    "description": "Deliberção de Requerimentos",
+    "start_time": 1678878771
   },
   {
     "id": 67252,
@@ -162,10 +186,34 @@
     "start_time": 1679412120
   },
   {
-    "id": 66495,
-    "title": "COMISSÃO DE TURISMO",
-    "description": "Instalação e Eleição do Presidente e dos Vice-Presidentes.",
-    "start_time": 1678887766
+    "id": 67182,
+    "title": "PLENÁRIO",
+    "description": "Homenagem às Trabalhadoras e Trabalhadores de Serviços Gerais e de Manutenção, que atuaram na Limpeza e Recuperação Predial da Praça dos Três Poderes.",
+    "start_time": 1678097760
+  },
+  {
+    "id": 67262,
+    "title": "COMISSÃO DE EDUCAÇÃO",
+    "description": "Reunião de Instalação e Eleição da Mesa",
+    "start_time": 1678877437
+  },
+  {
+    "id": 67089,
+    "title": "CN",
+    "description": "Inauguração da 1ª Sessão Legislativa Ordinária da 57ª Legislatura",
+    "start_time": 1675350360
+  },
+  {
+    "id": 67130,
+    "title": "CN",
+    "description": "Sessão Solene destinada a homenagear Rui Barbosa, patrono do Senado.",
+    "start_time": 1677665880
+  },
+  {
+    "id": 67084,
+    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
+    "description": "31/01/2023 - Quinto Encontro Parlamentar",
+    "start_time": 1675123200
   },
   {
     "id": 67222,
@@ -174,28 +222,34 @@
     "start_time": 1678789680
   },
   {
-    "id": 67059,
+    "id": 67137,
+    "title": "COMISSÃO DE VIAÇÃO E TRANSPORTES",
+    "description": "Reunião de Instalação e Eleição para a Mesa Diretora da Comissão de Viação e Transportes",
+    "start_time": 1678878185
+  },
+  {
+    "id": 67261,
+    "title": "COMISSÃO DE MINAS E ENERGIA",
+    "description": "Reunião de Instalação e Eleição",
+    "start_time": 1678878060
+  },
+  {
+    "id": 67117,
     "title": "PLENÁRIO",
-    "description": "1ª Sessão Preparatória destinada à posse de candidatos diplomados Deputados Federais, nos termos do art. 4º, do Regimento Interno da Câmara dos Deputados - 57ª Legislatura (2023/2027).",
-    "start_time": 1675246320
+    "description": "Homenagem à Polícia Civil do Distrito Federal Pela Elucidação da Maior Chacina da História do Distrito Federal",
+    "start_time": 1676539140
   },
   {
-    "id": 66998,
-    "title": "COMISSÃO DE AGRICULTURA, PECUÁRIA, ABASTECIMENTO E DESENVOLVIMENTO RURAL",
-    "description": "Eleição de Presidente e Vice-Presidentes",
-    "start_time": 1678877429
-  },
-  {
-    "id": 66808,
-    "title": "CONSELHO DE ÉTICA E DECORO PARLAMENTAR",
-    "description": "Reunião de instalação do Conselho de Ética e Decoro Parlamentar e eleição do  Presidente e dos 1º e 2º Vice-Presidentes.",
-    "start_time": 1681903617
-  },
-  {
-    "id": 67128,
+    "id": 67184,
     "title": "PLENÁRIO",
-    "description": "Homenagem aos 458 Anos da Cidade do Rio de Janeiro.",
-    "start_time": 1677665700
+    "description": "Homenagem aos 56 anos da Zona Franca de Manaus e da Superintendência da Zona Franca de Manaus - Suframa",
+    "start_time": 1678184220
+  },
+  {
+    "id": 67115,
+    "title": "CN",
+    "description": "Destinada a comemorar os 130 anos de atividade do TCU.",
+    "start_time": 1676455740
   },
   {
     "id": 67221,
@@ -204,10 +258,16 @@
     "start_time": 1678719840
   },
   {
-    "id": 67080,
-    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
-    "description": "26/01/2023 - Cerimônia solene de reconhecimento aos destaques sino-brasileiros em",
-    "start_time": 1674691200
+    "id": 67270,
+    "title": "COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA",
+    "description": "Instalação e Eleição do Presidente e dos Vice-Presidentes da CCJC",
+    "start_time": 1678873820
+  },
+  {
+    "id": 67282,
+    "title": "COMISSÃO EXTERNA PARA FISCALIZAÇÃO DOS ROMPIMENTOS DE BARRAGENS E REPACTUAÇÃO",
+    "description": "A-Audiência pública\r\nMARIA JULIANA, Diretora do Departamento de Vigilância em Saúde Ambiental e Saúde, do Ministério da Saúde;\r\n\r\nZÉLIA PROFETA, Pesquisadora da Fiocruz; (Confirmado)\r\n\r\nRepresentante do Núcleo de Assessoria às Comunidades Atingidas por Barragens;\r\n\r\nRepresentante da Associação Estadual de Defesa Ambiental e Social;\r\n\r\nPAULA JUNQUEIRA MOTA, Representante do Instituto Guaicuy; (Confirmado)\r\n\r\nRepresentante da  Associação dos Familiares de Vítimas e Atingidos pelo Rompimento da Barragem Mina Córrego do Feijão em Brumadinho Minas Gerais - AVABRUM;\r\n\r\nLINA ANCHIETA SALES, \nRepresentante do Movimento dos Atingidos por Barragens - MAB; (Confirmado)\r\n\r\nMARCOS KOICHI, Representante dos Atingidos da Região 1; (Confirmado)\r\n\r\nRENATA CRISTINA PEREIRA REZENTE, Representante dos Atingidos da Região 2; (Confirmado)\r\n\r\nABDALAH NACIF NETO, Representante dos Atingidos da Região 3. (Confirmado)\r\n\r\n(Requerimento n. 22/2023, do Deputado Rogério Correia)\r\n\r\nB- Deliberação de requerimentos (Sujeito a alterações até 24 horas antes do horário da reunião)",
+    "start_time": 1679410573
   },
   {
     "id": 67253,
@@ -216,16 +276,16 @@
     "start_time": 1678887002
   },
   {
-    "id": 67005,
-    "title": "COMISSÃO DE CULTURA",
-    "description": "Discussão e votação de propostas legislativas",
-    "start_time": 1679492075
+    "id": 67049,
+    "title": "CN",
+    "description": "Receber o compromisso e dar posse ao Presidente e Vice eleitos",
+    "start_time": 1672585020
   },
   {
-    "id": 67119,
-    "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
-    "description": "A - Abertura dos Trabalhos\r\n\r\nB - Apresentação do Plano de Trabalho do Relator, Dep. Aguinaldo Ribeiro.",
-    "start_time": 1677683830
+    "id": 67060,
+    "title": "PLENÁRIO",
+    "description": "Sessão Preparatória - Eleição",
+    "start_time": 1675270620
   },
   {
     "id": 67213,
@@ -234,28 +294,28 @@
     "start_time": 1678752000
   },
   {
-    "id": 67238,
-    "title": "PLENÁRIO",
-    "description": "Homenagem à Vereadora Marielle Franco, In Memoriam",
-    "start_time": 1678876620
-  },
-  {
     "id": 67237,
     "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
     "description": "A - Audiência Pública\r\n\r\nTema: Reforma sob a perspectiva  da administração tributária\r\n\r\nCARLOS ARI SUNDFELD, Professor Titular da Escola de Direito de São Paulo da Fundação Getúlio Vargas - FGV (REQ 37/23);\r\n\r\n\nCÁSSIO VIEIRA PEREIRA DOS SANTOS - Presidente da Associação Nacional dos Auditores Fiscais de Tributos dos Municípios e DF - ANAFISCO (REQ 12/23);\r\n\n  \r\n\nRODRIGO KEIDEL SPADA - Presidente da Associação Nacional das Associações de Fiscais de Tributos Estaduais - FEBRAFITE (REQ 15/23);  \r\n  \r\n\nGILBERTO PEREIRA, Vice-Presidente de Estudos e Assuntos Tributários da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - ANFIP (REQs 12 e 16/2023);\r\n\r\nISAC MORENO FALCÃO SANTOS, Presidente do Sindicato dos Auditores da Receita Federal - SINDIFISCO NACIONAL\n\n (REQ 26/23); \r\n\r\nTHALES FREITAS ALVES, Presidente do Sindicato Nacional dos Analistas-Tributários da Receita Federal do Brasil - SINDIRECEITA (REQ 26/23); \r\n\r\nDANIEL MENEZES,  Diretor Jurídico da Associação Nacional dos Advogados Públicos Federais - ANAFE (REQ 12/23);\r\n\n \r\nUNADIR GONÇALVES JUNIOR, Secretário Geral da Federação Brasileira de Sindicatos das Carreiras da Administração Tributária da União, dos Estados e do Distrito Federal - FEBRAFISCO (REQ 37/23);\r\n\r\nMARCUS VINÍCIUS BOLPATO DA SILVA, Conselheiro da Pública - Central do Servidor (REQ 37/23);\r\n\r\n\nFRANCISCO MATA MACHADO TAVARES, Professor da Faculdade de Direito da Universidade Federal de Goiás - UFG (REQ 12/23);\r\n\n\r\n\nMIGUEL ABUHAB, Empresário e Fundador do Movimento Destrava Brasil.\r\n\r\n\r\n(Requerimento nº 12/2023, do Dep. Ivan Valente)\r\n\n(Requerimento nº 15/2023, do Dep. Reginaldo Lopes)\r\n\n(Requerimento nº 16/2023, do Dep. Reginaldo Lopes)\r\n(Requerimento nº 26/2023, do Dep. Sidney Leite) \r\n(Requerimento nº 37/2023), do Dep. Newton Cardoso Jr)\r\n\r\n\r\nB - Deliberação de Requerimentos (estão sujeitos a pauta os Requerimentos apresentados até 24h antes do horário da reunião):",
     "start_time": 1679499360
   },
   {
-    "id": 67106,
-    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
-    "description": "09/02/2023 - Encontro com a Indústria de Defesa",
-    "start_time": 1675900800
+    "id": 67238,
+    "title": "PLENÁRIO",
+    "description": "Homenagem à Vereadora Marielle Franco, In Memoriam",
+    "start_time": 1678876620
   },
   {
-    "id": 67120,
-    "title": "COMISSÃO EXTERNA PARA FISCALIZAÇÃO DOS ROMPIMENTOS DE BARRAGENS E REPACTUAÇÃO",
-    "description": "Apresentação do plano de trabalho e deliberação de requerimentos",
-    "start_time": 1677597927
+    "id": 67087,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária",
+    "start_time": 1675333800
+  },
+  {
+    "id": 67292,
+    "title": "COMISSÃO DE VIAÇÃO E TRANSPORTES",
+    "description": "Deliberação de Propostas",
+    "start_time": 1679481900
   },
   {
     "id": 67215,
@@ -264,22 +324,94 @@
     "start_time": 1678894194
   },
   {
+    "id": 67286,
+    "title": "COMISSÃO DE SEGURANÇA PÚBLICA E COMBATE AO CRIME ORGANIZADO",
+    "description": "Discussão e Deliberação de Requerimentos",
+    "start_time": 1679411673
+  },
+  {
+    "id": 66495,
+    "title": "COMISSÃO DE TURISMO",
+    "description": "Instalação e Eleição do Presidente e dos Vice-Presidentes.",
+    "start_time": 1678887766
+  },
+  {
+    "id": 67128,
+    "title": "PLENÁRIO",
+    "description": "Homenagem aos 458 Anos da Cidade do Rio de Janeiro.",
+    "start_time": 1677665700
+  },
+  {
+    "id": 67283,
+    "title": "COMISSÃO DE AGRICULTURA, PECUÁRIA, ABASTECIMENTO E DESENVOLVIMENTO RURAL",
+    "description": "Discussão e Votação de Proposições",
+    "start_time": 1679480015
+  },
+  {
+    "id": 67279,
+    "title": "COMISSÃO DE DEFESA DOS DIREITOS DA MULHER",
+    "description": "Discussão e votação de propostas",
+    "start_time": 1679491394
+  },
+  {
+    "id": 66808,
+    "title": "CONSELHO DE ÉTICA E DECORO PARLAMENTAR",
+    "description": "Reunião de instalação do Conselho de Ética e Decoro Parlamentar e eleição do  Presidente e dos 1º e 2º Vice-Presidentes.",
+    "start_time": 1681903617
+  },
+  {
+    "id": 67119,
+    "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
+    "description": "A - Abertura dos Trabalhos\r\n\r\nB - Apresentação do Plano de Trabalho do Relator, Dep. Aguinaldo Ribeiro.",
+    "start_time": 1677683830
+  },
+  {
+    "id": 66998,
+    "title": "COMISSÃO DE AGRICULTURA, PECUÁRIA, ABASTECIMENTO E DESENVOLVIMENTO RURAL",
+    "description": "Eleição de Presidente e Vice-Presidentes",
+    "start_time": 1678877429
+  },
+  {
+    "id": 67059,
+    "title": "PLENÁRIO",
+    "description": "1ª Sessão Preparatória destinada à posse de candidatos diplomados Deputados Federais, nos termos do art. 4º, do Regimento Interno da Câmara dos Deputados - 57ª Legislatura (2023/2027).",
+    "start_time": 1675246320
+  },
+  {
+    "id": 67120,
+    "title": "COMISSÃO EXTERNA PARA FISCALIZAÇÃO DOS ROMPIMENTOS DE BARRAGENS E REPACTUAÇÃO",
+    "description": "Apresentação do plano de trabalho e deliberação de requerimentos",
+    "start_time": 1677597927
+  },
+  {
     "id": 67214,
     "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
     "description": "A - Audiência Pública\r\n\r\nTema: Diagnóstico do Sistema Tributário atual\r\n\r\n1) MAÍLSON DA NÓBREGA, ex-Ministro da Fazenda;\r\n\r\n2) MARY ELBE QUEIROZ, Pós-Doutora em Direito Tributário - Universidade de Lisboa - Portugal;\r\n\r\n3) EDUARDO FLEURY - mestre e doutorando em international taxation pela Universidade da Flórida e ex-Consultor do Banco Mundial;\r\n\r\n4) VANESSA CANADO, Coordenadora do Núcleo de Pesquisa em Tributação - Instituto de Ensino e Pesquisa - INSPER;\r\n\r\n5) EDUARDO FAGNANI, Professor Doutor do Instituto de Economia da Universidade Estadual de Campinas - UNICAMP;\r\n\r\n6) ARNALDO SAMPAIO DE MORAES GODOY, Livre-Docente pela Faculdade de Direito da Universidade de São Paulo - USP e ex-Procurador-Geral Adjunto na Procuradoria-Geral da Fazenda Nacional - PGFN;  \r\n\r\n7) LUIZ CARLOS HAULY,  ex-Deputado Federal e porta-voz do Movimento Destrava Brasil;\r\n\r\n8) ALEXIS FONTEYNE, ex-Deputado Federal e empresário; e\r\n\r\n9) ISAC MORENO FALCÃO, Presidente do Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil - Sindifisco Nacional.\r\n\r\n\r\n(Requerimento nº 9/2023, do Dep. Sidney Leite)\r\n(Requerimento nº 12/2023, do Dep. Ivan Valente)\r\n\r\nB) Deliberação de Requerimentos:",
     "start_time": 1678807216
   },
   {
-    "id": 67090,
-    "title": "PLENÁRIO",
-    "description": "Sessão Deliberativa Extraordinária (virtual)",
-    "start_time": 1675420740
+    "id": 67080,
+    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
+    "description": "26/01/2023 - Cerimônia solene de reconhecimento aos destaques sino-brasileiros em",
+    "start_time": 1674691200
   },
   {
-    "id": 67187,
-    "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
-    "description": "A - Apresentação das propostas de reforma tributária (PEC 45 e PEC 110/19)\r\n\r\nBALEIA ROSSI, Deputado Federal e Autor da PEC 45/2019;\r\n\r\nDAVI ALCOLUMBRE, Senador e Autor da PEC 110/2019;\r\n\r\nROBERTO ROCHA, Senador na 55ª e na 56ª Legislaturas e Relator da PEC 110/2019 na Comissão de Constituição e Justiça - CCJ do Senado Federal;\r\n\r\nBERNARD APPY, Secretário Extraordinário da Reforma Tributária no Ministério da Fazenda.\r\n\r\nB - Deliberação de Requerimentos (estão sujeitos a pauta os Requerimentos apresentados até 24h antes do horário da reunião)",
-    "start_time": 1678288584
+    "id": 67106,
+    "title": "CÂMARA DOS DEPUTADOS - OUTROS EVENTO",
+    "description": "09/02/2023 - Encontro com a Indústria de Defesa",
+    "start_time": 1675900800
+  },
+  {
+    "id": 67005,
+    "title": "COMISSÃO DE CULTURA",
+    "description": "Discussão e votação de propostas legislativas",
+    "start_time": 1679492075
+  },
+  {
+    "id": 67281,
+    "title": "COMISSÃO DE FINANÇAS E TRIBUTAÇÃO",
+    "description": "Discussão e votação de propostas legislativas",
+    "start_time": 1679480687
   },
   {
     "id": 67177,
@@ -288,10 +420,28 @@
     "start_time": 1678199621
   },
   {
+    "id": 67290,
+    "title": "COMISSÃO DE MINAS E ENERGIA",
+    "description": "Eleição dos Vice-Presidentes e deliberação de propostas legislativas",
+    "start_time": 1679478956
+  },
+  {
+    "id": 67187,
+    "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
+    "description": "A - Apresentação das propostas de reforma tributária (PEC 45 e PEC 110/19)\r\n\r\nBALEIA ROSSI, Deputado Federal e Autor da PEC 45/2019;\r\n\r\nDAVI ALCOLUMBRE, Senador e Autor da PEC 110/2019;\r\n\r\nROBERTO ROCHA, Senador na 55ª e na 56ª Legislaturas e Relator da PEC 110/2019 na Comissão de Constituição e Justiça - CCJ do Senado Federal;\r\n\r\nBERNARD APPY, Secretário Extraordinário da Reforma Tributária no Ministério da Fazenda.\r\n\r\nB - Deliberação de Requerimentos (estão sujeitos a pauta os Requerimentos apresentados até 24h antes do horário da reunião)",
+    "start_time": 1678288584
+  },
+  {
     "id": 67186,
     "title": "GRUPO DE TRABALHO SOBRE O SISTEMA TRIBUTÁRIO NACIONAL (PEC 45/19)",
     "description": "A - Deliberação de Requerimentos (estão sujeitos a pauta os Requerimentos apresentados até 24h antes do horário da reunião):",
     "start_time": 1678201411
+  },
+  {
+    "id": 67090,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária (virtual)",
+    "start_time": 1675420740
   },
   {
     "id": 67202,
@@ -306,16 +456,22 @@
     "start_time": 1673297400
   },
   {
-    "id": 67169,
-    "title": "PLENÁRIO",
-    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
-    "start_time": 1677747600
-  },
-  {
     "id": 67107,
     "title": "PLENÁRIO",
     "description": "Sessão Deliberativa Extraordinária (semipresencial)",
     "start_time": 1675933200
+  },
+  {
+    "id": 67239,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
+    "start_time": 1678888800
+  },
+  {
+    "id": 67169,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
+    "start_time": 1677747600
   },
   {
     "id": 67104,
@@ -324,22 +480,22 @@
     "start_time": 1675864560
   },
   {
-    "id": 66994,
-    "title": "COMISSÃO DE EDUCAÇÃO",
-    "description": "Discussão e votação de propostas legislativas",
-    "start_time": 1679479855
-  },
-  {
     "id": 67210,
     "title": "PLENÁRIO",
     "description": "Sessão Deliberativa Extraordinária (semipresencial)",
     "start_time": 1678352400
   },
   {
-    "id": 67239,
+    "id": 67277,
     "title": "PLENÁRIO",
     "description": "Sessão Deliberativa Extraordinária (semipresencial)",
-    "start_time": 1678888800
+    "start_time": 1678957200
+  },
+  {
+    "id": 66994,
+    "title": "COMISSÃO DE EDUCAÇÃO",
+    "description": "Discussão e votação de propostas legislativas",
+    "start_time": 1679479855
   },
   {
     "id": 67091,
@@ -354,10 +510,22 @@
     "start_time": 1677678960
   },
   {
+    "id": 67223,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
+    "start_time": 1678802220
+  },
+  {
     "id": 67185,
     "title": "PLENÁRIO",
     "description": "Sessão Deliberativa Extraordinária (semipresencial)",
     "start_time": 1678197300
+  },
+  {
+    "id": 67116,
+    "title": "PLENÁRIO",
+    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
+    "start_time": 1676451720
   },
   {
     "id": 67113,
@@ -372,21 +540,9 @@
     "start_time": 1678283880
   },
   {
-    "id": 67116,
-    "title": "PLENÁRIO",
-    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
-    "start_time": 1676451720
-  },
-  {
     "id": 67126,
     "title": "PLENÁRIO",
     "description": "Sessão Deliberativa Extraordinária (semipresencial)",
     "start_time": 1677592500
-  },
-  {
-    "id": 67223,
-    "title": "PLENÁRIO",
-    "description": "Sessão Deliberativa Extraordinária (semipresencial)",
-    "start_time": 1678802220
   }
 ]
